@@ -1,6 +1,19 @@
 [
   {
-    "id": "rss_TechCrunch_1775465951526_0",
+    "id": "rss_Wired_1775466394303_0",
+    "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
+    "link": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 06 Apr 2026 09:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1775466389631_0",
     "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -14,7 +27,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1775465951526_1",
+    "id": "rss_TechCrunch_1775466389631_1",
     "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -24,10 +37,10 @@
       "Vision"
     ],
     "date": "Sun, 05 Apr 2026 15:40:58 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1775465951526_2",
+    "id": "rss_TechCrunch_1775466389631_2",
     "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -38,10 +51,10 @@
       "Robot"
     ],
     "date": "Sun, 05 Apr 2026 14:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775465956029_0",
+    "id": "rss_Ars_Technica_1775466393195_0",
     "title": "CBP facility codes sure seem to have leaked via online flashcards",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -52,7 +65,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775465956029_1",
+    "id": "rss_Ars_Technica_1775466393195_1",
     "title": "Artemis II is going so well that we're left to talk about frozen urine",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -63,7 +76,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775465956029_2",
+    "id": "rss_Ars_Technica_1775466393195_2",
     "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -76,7 +89,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1775465951526_3",
+    "id": "rss_TechCrunch_1775466389631_3",
     "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -87,7 +100,20 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1775465951526_4",
+    "id": "rss_Wired_1775466394303_1",
+    "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
+    "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Sat, 04 Apr 2026 10:30:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1775466389631_4",
     "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -98,10 +124,10 @@
       "OpenAI"
     ],
     "date": "Sat, 04 Apr 2026 01:31:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1775465956029_3",
+    "id": "rss_Ars_Technica_1775466393195_3",
     "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -112,7 +138,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775465956029_4",
+    "id": "rss_Ars_Technica_1775466393195_4",
     "title": "Ice Age dice show early Native Americans may have understood probability",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -120,10 +146,38 @@
     "link": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/",
     "tags": [],
     "date": "Fri, 03 Apr 2026 22:55:29 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1775466394303_2",
+    "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
+    "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Fri, 03 Apr 2026 21:28:14 +0000",
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1775465953660_0",
+    "id": "rss_Wired_1775466394303_3",
+    "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
+    "link": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Fri, 03 Apr 2026 19:38:35 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1775466391778_0",
     "title": "Four things we’d need to put data centers in space",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -136,7 +190,20 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775465953660_1",
+    "id": "rss_Wired_1775466394303_4",
+    "title": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.",
+    "link": "https://www.wired.com/story/best-portable-jump-starters/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 03 Apr 2026 10:39:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1775466391778_1",
     "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -149,7 +216,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775465953660_2",
+    "id": "rss_MIT_Tech_Review_1775466391778_2",
     "title": "Fuel prices are soaring. Plastic could be next.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -159,10 +226,10 @@
       "AI"
     ],
     "date": "Thu, 02 Apr 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1775465953660_3",
+    "id": "rss_MIT_Tech_Review_1775466391778_3",
     "title": "The Download: gig workers training humanoids, and better AI benchmarks",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -176,7 +243,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775465953660_4",
+    "id": "rss_MIT_Tech_Review_1775466391778_4",
     "title": "The gig workers who are training humanoid robots at home",
     "category": "ai-news",
     "source": "MIT Tech Review",
