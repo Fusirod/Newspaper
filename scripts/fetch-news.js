@@ -10,11 +10,24 @@ if (!fs.existsSync('data')) {
 
 // RSS feeds nguồn tin công nghệ
 const RSS_FEEDS = [
+    // AI News
     { url: 'https://techcrunch.com/category/artificial-intelligence/feed/', source: 'TechCrunch', category: 'ai-news' },
     { url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml', source: 'The Verge', category: 'ai-news' },
     { url: 'https://www.technologyreview.com/feed/', source: 'MIT Tech Review', category: 'ai-news' },
+    { url: 'https://arstechnica.com/feed/', source: 'Ars Technica', category: 'ai-news' },
+    { url: 'https://www.wired.com/feed/tag/ai/latest/rss', source: 'Wired', category: 'ai-news' },
+    // Startups
     { url: 'https://venturebeat.com/feed/', source: 'VentureBeat', category: 'startups' },
-    { url: 'https://arstechnica.com/feed/', source: 'Ars Technica', category: 'ai-news' }
+    { url: 'https://techcrunch.com/startups/feed/', source: 'TechCrunch Startups', category: 'startups' },
+    { url: 'https://www.entrepreneur.com/latest.rss', source: 'Entrepreneur', category: 'startups' },
+    { url: 'https://inc.com/rss', source: 'Inc', category: 'startups' },
+    // Research
+    { url: 'https://www.science.org/rss/news_current.xml', source: 'Science', category: 'research' },
+    { url: 'https://www.nature.com/nature.rss', source: 'Nature', category: 'research' },
+    { url: 'https://distill.pub/rss.xml', source: 'Distill', category: 'research' },
+    // Tech Giants
+    { url: 'https://blog.google/technology/ai/rss/', source: 'Google AI', category: 'tech-giants' },
+    { url: 'https://openai.com/blog/rss.xml', source: 'OpenAI', category: 'tech-giants' }
 ];
 
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
