@@ -26,15 +26,9 @@ jobs:
       run: |
         node scripts/fetch-papers.js
         
-    - name: Fetch news (try NewsAPI, fallback to RSS)
-      env:
-        NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+    - name: Fetch news from RSS feeds
       run: |
-        echo "Trying NewsAPI first..."
-        node scripts/fetch-news.js || {
-          echo "NewsAPI failed, using RSS feeds instead..."
-          node scripts/fetch-news-rss.js
-        }
+        node scripts/fetch-news-rss.js
       
     - name: Commit and push if changed
       run: |

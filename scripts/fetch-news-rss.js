@@ -53,54 +53,84 @@ function extractTags(text) {
 
 async function main() {
     console.log('Fetching news from RSS feeds...');
+    console.log('Current directory:', process.cwd());
+    
+    // Đảm bảo thư mục data tồn tại
+    if (!fs.existsSync('data')) {
+        console.log('Creating data directory...');
+        fs.mkdirSync('data', { recursive: true });
+    }
     
     const allArticles = [];
+    let successCount = 0;
     
     for (let i = 0; i < RSS_FEEDS.length; i++) {
         const feed = RSS_FEEDS[i];
         try {
             if (i > 0) await delay(1000);
             
-            console.log(`Fetching from ${feed.source}...`);
+            console.log(`[${i+1}/${RSS_FEEDS.length}] Fetching from ${feed.source}...`);
             const xml = await fetchRSS(feed.url);
+            
+            if (!xml || xml.length === 0) {
+                console.log(`  Empty response from ${feed.source}`);
+                continue;
+            }
+            
+            console.log(`  Got ${xml.length} bytes from ${feed.source}`);
+            
             const parsed = await parseRSS(xml);
             
-            if (!parsed.rss || !parsed.rss.channel || !parsed.rss.channel.item) {
-                console.log(`No items found in ${feed.source}`);
+            if (!parsed || !parsed.rss || !parsed.rss.channel) {
+                console.log(`  No channel found in ${feed.source}`);
                 continue;
             }
             
             const items = Array.isArray(parsed.rss.channel.item) 
                 ? parsed.rss.channel.item 
-                : [parsed.rss.channel.item];
+                : parsed.rss.channel.item ? [parsed.rss.channel.item] : [];
             
-            console.log(`Got ${items.length} items from ${feed.source}`);
+            console.log(`  Found ${items.length} items from ${feed.source}`);
             
             items.slice(0, 5).forEach((item, index) => {
+                if (!item.title) return;
                 allArticles.push({
-                    id: `rss_${feed.source}_${Date.now()}_${index}`,
-                    title: item.title || 'No title',
+                    id: `rss_${feed.source.replace(/\s+/g, '_')}_${Date.now()}_${index}`,
+                    title: item.title,
                     category: feed.category,
                     source: feed.source,
-                    description: item.description ? item.description.replace(/<[^>]*>/g, '').substring(0, 300) : 'No description',
-                    link: item.link,
-                    tags: extractTags(item.title + ' ' + item.description),
+                    description: item.description ? item.description.toString().replace(/<[^>]*>/g, '').substring(0, 300) : 'No description',
+                    link: item.link || '',
+                    tags: extractTags((item.title || '') + ' ' + (item.description || '')),
                     date: item.pubDate || new Date().toISOString(),
                     trending: Math.random() > 0.7
                 });
             });
+            
+            successCount++;
         } catch (err) {
-            console.error(`Error fetching ${feed.source}:`, err.message);
+            console.error(`  Error fetching ${feed.source}:`, err.message);
         }
     }
+    
+    console.log(`\nSuccessfully fetched from ${successCount}/${RSS_FEEDS.length} feeds`);
+    console.log(`Total articles collected: ${allArticles.length}`);
     
     // Sort by date
     const sortedArticles = allArticles
         .sort((a, b) => new Date(b.date) - new Date(a.date))
         .slice(0, 20);
     
-    fs.writeFileSync('data/news.json', JSON.stringify(sortedArticles, null, 2));
-    console.log(`Saved ${sortedArticles.length} news from RSS to data/news.json`);
+    // Write to file
+    const outputPath = 'data/news.json';
+    fs.writeFileSync(outputPath, JSON.stringify(sortedArticles, null, 2));
+    console.log(`Saved ${sortedArticles.length} news to ${outputPath}`);
+    
+    // Verify file was created
+    if (fs.existsSync(outputPath)) {
+        const stats = fs.statSync(outputPath);
+        console.log(`File size: ${stats.size} bytes`);
+    }
 }
 
 main().catch(console.error);
