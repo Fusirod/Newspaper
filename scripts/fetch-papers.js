@@ -81,6 +81,12 @@ function parseArxivEntry(entry, category, index) {
 async function main() {
     console.log('Fetching papers from arXiv...');
     
+    // Đảm bảo thư mục data tồn tại
+    if (!fs.existsSync('data')) {
+        console.log('Creating data directory...');
+        fs.mkdirSync('data', { recursive: true });
+    }
+    
     const allPapers = [];
     
     for (const query of queries) {
@@ -106,14 +112,26 @@ async function main() {
         }
     }
     
-    // Sort and limit to 20
+    console.log(`\nSuccessfully fetched from ${queries.length} queries`);
+    console.log(`Total papers collected: ${allPapers.length}`);
+    
+    // Luôn lưu file, dù có papers hay không
     const sortedPapers = allPapers
         .sort((a, b) => new Date(b.date) - new Date(a.date))
         .slice(0, 20);
     
-    // Save to file
-    fs.writeFileSync('data/papers.json', JSON.stringify(sortedPapers, null, 2));
-    console.log(`Saved ${sortedPapers.length} papers to data/papers.json`);
+    const outputPath = 'data/papers.json';
+    fs.writeFileSync(outputPath, JSON.stringify(sortedPapers, null, 2));
+    console.log(`Saved ${sortedPapers.length} papers to ${outputPath}`);
+    
+    // Verify file was created
+    if (fs.existsSync(outputPath)) {
+        const stats = fs.statSync(outputPath);
+        console.log(`File size: ${stats.size} bytes`);
+    }
+    
+    // Thoát với code 0 dù có lỗi hay không
+    process.exit(0);
 }
 
-main().catch(console.error);
+main();

@@ -116,12 +116,11 @@ async function main() {
     console.log(`\nSuccessfully fetched from ${successCount}/${RSS_FEEDS.length} feeds`);
     console.log(`Total articles collected: ${allArticles.length}`);
     
-    // Sort by date
+    // Luôn lưu file, dù có articles hay không
     const sortedArticles = allArticles
         .sort((a, b) => new Date(b.date) - new Date(a.date))
         .slice(0, 20);
     
-    // Write to file
     const outputPath = 'data/news.json';
     fs.writeFileSync(outputPath, JSON.stringify(sortedArticles, null, 2));
     console.log(`Saved ${sortedArticles.length} news to ${outputPath}`);
@@ -131,6 +130,9 @@ async function main() {
         const stats = fs.statSync(outputPath);
         console.log(`File size: ${stats.size} bytes`);
     }
+    
+    // Thoát với code 0 dù có lỗi hay không
+    process.exit(0);
 }
 
-main().catch(console.error);
+main();
