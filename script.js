@@ -742,108 +742,33 @@ class NewsFetcher {
     }
 
     async fetchNews(forceRefresh = false) {
-        if (!this.hasApiKey()) {
-            this.app.showNotification('Vui lòng cấu hình NewsAPI key trong settings!');
-            return;
-        }
-
-        // Kiểm tra rate limit
-        const lastFetch = localStorage.getItem('lastNewsFetch');
-        const now = Date.now();
-        if (!forceRefresh && lastFetch && (now - parseInt(lastFetch)) < 60000) {
-            console.log('Rate limited: Chờ 1 phút giữa các lần fetch');
-            return;
-        }
-
+        // NewsAPI KHÔNG hoạt động từ browser (CORS + rate limit)
+        // Chỉ dùng data từ GitHub Actions hoặc localStorage
+        
+        this.showLoading(true);
+        
         try {
-            this.showLoading(true);
-            console.log('Fetching news from NewsAPI...');
-            console.log('API Key:', this.API_KEY.substring(0, 10) + '...');
-            
-            // Fetch tin tức AI/Technology từ NewsAPI
-            const queries = [
-                'artificial intelligence',
-                'machine learning'
-            ];
-            
-            const allArticles = [];
-            
-            for (const query of queries.slice(0, 2)) {
-                try {
-                    const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sortBy=publishedAt&language=en&pageSize=15&apiKey=${this.API_KEY}`;
-                    console.log('Fetching URL:', url.substring(0, 80) + '...');
-                    
-                    const response = await fetch(url);
-                    console.log('NewsAPI Response status:', response.status);
-                    
-                    if (!response.ok) {
-                        console.error('NewsAPI HTTP error:', response.status, response.statusText);
-                        continue;
-                    }
-                    
-                    const data = await response.json();
-                    console.log('NewsAPI Response:', data);
-                    
-                    if (data.status === 'ok' && data.articles) {
-                        console.log('Got', data.articles.length, 'articles for query:', query);
-                        allArticles.push(...data.articles);
-                    } else if (data.status === 'error') {
-                        console.error('NewsAPI Error:', data.message);
-                    }
-                } catch (queryError) {
-                    console.error('Error fetching query', query, ':', queryError.message);
+            // Thử đọc từ data/news.json (do GitHub Actions cập nhật)
+            const response = await fetch('data/news.json');
+            if (response.ok) {
+                const news = await response.json();
+                if (news && news.length > 0) {
+                    this.app.newsData = news;
+                    this.app.saveData();
+                    this.app.renderNewsCards();
+                    this.app.updateStats();
+                    this.showLoading(false);
+                    this.app.showNotification(`Đã tải ${news.length} tin tức`);
+                    return;
                 }
             }
-
-            console.log('Total articles fetched:', allArticles.length);
-
-            // Loại bỏ trùng lặp, sắp xếp theo thời gian và lấy 20 tin gần nhất
-            const uniqueArticles = this.removeDuplicates(allArticles);
-            const sortedArticles = uniqueArticles.sort((a, b) => 
-                new Date(b.publishedAt) - new Date(a.publishedAt)
-            ).slice(0, 20);
-            const newsData = sortedArticles.map((article, index) => this.convertToNewsFormat(article, index));
-
-            // Merge với data hiện tại, giữ tối đa 20 tin gần nhất
-            const existingLinks = new Set(this.app.newsData.map(n => n.link));
-            const newArticles = newsData.filter(n => !existingLinks.has(n.link));
-            
-            if (newArticles.length > 0) {
-                // Thêm tin mới vào đầu và giữ tối đa 20 tin
-                this.app.newsData = [...newArticles, ...this.app.newsData]
-                    .sort((a, b) => new Date(b.date) - new Date(a.date))
-                    .slice(0, 20);
-                this.app.saveData();
-                this.cacheNews(this.app.newsData);
-                
-                // Gửi notification nếu có tin mới
-                if (this.app.notificationManager) {
-                    this.app.notificationManager.showNotification(
-                        '📰 Tin tức mới!',
-                        `Có ${newArticles.length} tin tức mới được cập nhật`,
-                        { type: 'news', count: newArticles.length }
-                    );
-                }
-                
-                this.app.showNotification(`Đã cập nhật ${newArticles.length} tin tức mới!`);
-            } else {
-                this.app.showNotification('Không có tin tức mới');
-            }
-
-            localStorage.setItem('lastNewsFetch', now.toString());
-            this.app.renderNewsCards();
-            this.app.updateStats();
-
-        } catch (error) {
-            console.error('Error fetching news:', error);
-            this.app.showNotification('Lỗi khi tải tin tức. Sử dụng dữ liệu local.');
-            
-            if (this.app.newsData.length === 0) {
-                this.loadFallbackNews();
-            }
-        } finally {
-            this.showLoading(false);
+        } catch (e) {
+            console.log('No data/news.json available');
         }
+        
+        // Nếu không có data file, hiển thị thông báo
+        this.showLoading(false);
+        this.app.showNotification('NewsAPI không khả dụng từ browser. Chạy ở localhost hoặc đợi GitHub Actions cập nhật.');
     }
 
     convertToNewsFormat(article, index) {
