@@ -5,11 +5,13 @@ class AITechHub {
         this.currentTechFilter = 'all';
         this.currentNewsFilter = 'all';
         this.currentTab = 'papers';
+        this.notificationManager = new NotificationManager();
         this.init();
     }
 
     init() {
         this.setupEventListeners();
+        this.notificationManager.init();
         this.renderTechCards();
         this.renderNewsCards();
         this.updateStats();
@@ -163,6 +165,13 @@ class AITechHub {
         this.updateStats();
         this.closeNewsModal();
         this.showNotification('Tin tức mới đã được thêm thành công!');
+        
+        // Gửi push notification
+        this.notificationManager.showNotification(
+            '📰 Tin tức mới!',
+            formData.title,
+            { type: 'news', id: formData.id, link: formData.link }
+        );
     }
 
     renderTechCards() {
@@ -612,6 +621,131 @@ class AITechHub {
                 document.body.removeChild(notification);
             }, 300);
         }, 3000);
+    }
+}
+
+// Notification Manager Class
+class NotificationManager {
+    constructor() {
+        this.swRegistration = null;
+        this.isSupported = 'serviceWorker' in navigator && 'Notification' in window;
+        this.toggleElement = document.getElementById('notificationToggle');
+        this.notificationCard = document.querySelector('.notification-card');
+    }
+
+    async init() {
+        if (!this.isSupported) {
+            this.disableToggle('Trình duyệt không hỗ trợ');
+            return;
+        }
+
+        // Đăng ký Service Worker
+        try {
+            this.swRegistration = await navigator.serviceWorker.register('sw.js');
+            console.log('Service Worker registered:', this.swRegistration);
+        } catch (error) {
+            console.error('Service Worker registration failed:', error);
+            this.disableToggle('Lỗi đăng ký SW');
+            return;
+        }
+
+        // Lắng nghe message từ Service Worker
+        navigator.serviceWorker.addEventListener('message', (event) => {
+            if (event.data.type === 'NOTIFICATION_CLICKED') {
+                this.handleNotificationClick(event.data.data);
+            }
+        });
+
+        // Khôi phục trạng thái từ localStorage
+        this.restoreState();
+
+        // Thêm event listener cho toggle
+        this.toggleElement.addEventListener('change', () => this.handleToggle());
+    }
+
+    disableToggle(reason) {
+        if (this.toggleElement) {
+            this.toggleElement.disabled = true;
+        }
+        if (this.notificationCard) {
+            this.notificationCard.classList.add('disabled');
+            const span = this.notificationCard.querySelector('.notification-info span');
+            if (span) {
+                span.textContent = `Thông báo (${reason})`;
+            }
+        }
+    }
+
+    restoreState() {
+        const enabled = localStorage.getItem('notificationsEnabled') === 'true';
+        if (this.toggleElement) {
+            this.toggleElement.checked = enabled;
+        }
+        if (enabled) {
+            this.requestPermission();
+        }
+    }
+
+    async handleToggle() {
+        const enabled = this.toggleElement.checked;
+        localStorage.setItem('notificationsEnabled', enabled);
+
+        if (enabled) {
+            const granted = await this.requestPermission();
+            if (!granted) {
+                this.toggleElement.checked = false;
+                localStorage.setItem('notificationsEnabled', 'false');
+            } else {
+                this.showNotification('Thông báo đã được bật!', 'Bạn sẽ nhận được thông báo khi có tin tức mới.');
+            }
+        }
+    }
+
+    async requestPermission() {
+        if (!this.isSupported) return false;
+
+        const permission = await Notification.requestPermission();
+        return permission === 'granted';
+    }
+
+    async showNotification(title, body, data = null) {
+        if (!this.isSupported) return;
+
+        // Kiểm tra permission
+        if (Notification.permission !== 'granted') {
+            console.log('Notification permission not granted');
+            return;
+        }
+
+        // Kiểm tra toggle có được bật không
+        if (!this.toggleElement?.checked) return;
+
+        // Kiểm tra app đang active không
+        if (document.visibilityState === 'visible') {
+            // App đang mở - không gửi notification để tránh spam
+            return;
+        }
+
+        // Gửi message đến Service Worker
+        if (this.swRegistration && this.swRegistration.active) {
+            this.swRegistration.active.postMessage({
+                type: 'SHOW_NOTIFICATION',
+                payload: {
+                    title: title,
+                    body: body,
+                    icon: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/svgs/solid/bell.svg',
+                    data: data
+                }
+            });
+        }
+    }
+
+    handleNotificationClick(data) {
+        // Chuyển đến tab news nếu là tin tức
+        if (data && data.type === 'news') {
+            // Dispatch custom event để chuyển tab
+            window.dispatchEvent(new CustomEvent('switchToNewsTab'));
+        }
     }
 }
 
