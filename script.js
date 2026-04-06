@@ -527,8 +527,10 @@ class AITechHub {
 class NewsFetcher {
     constructor(app) {
         this.app = app;
-        // Sử dụng NewsAPI - bạn cần đăng ký tại newsapi.org để lấy API key miễn phí
-        this.API_KEY = localStorage.getItem('newsApiKey') || '';
+        // NewsAPI key - mặc định sử dụng key được cung cấp
+        // Người dùng có thể ghi đè bằng cách set localStorage.setItem('newsApiKey', 'new-key')
+        this.DEFAULT_API_KEY = 'ed05773d6bcd4487ab22e864ede21dc3';
+        this.API_KEY = localStorage.getItem('newsApiKey') || this.DEFAULT_API_KEY;
         this.CACHE_KEY = 'newsCache';
         this.CACHE_TIME_KEY = 'newsCacheTime';
         this.CACHE_DURATION = 30 * 60 * 1000; // 30 phút
