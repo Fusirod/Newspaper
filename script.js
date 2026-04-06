@@ -7,7 +7,6 @@ class AITechHub {
         this.currentTab = 'papers';
         this.notificationManager = new NotificationManager();
         this.dataFetcher = new DataFetcher(this);
-        this.newsFetcher = new NewsFetcher(this);
         this.paperFetcher = new PaperFetcher(this);
         this.init();
     }
@@ -65,9 +64,10 @@ class AITechHub {
             this.openNewsModal();
         });
 
-        // Refresh news button
+        // Refresh news button - reload từ data folder
         document.getElementById('refreshNewsBtn')?.addEventListener('click', () => {
-            this.newsFetcher.fetchNews(true);
+            this.dataFetcher.loadAllData();
+            this.showNotification('Đang tải lại dữ liệu...');
         });
 
         // Modal controls
@@ -356,11 +356,8 @@ class AITechHub {
     }
 
     async loadAllData() {
-        // Load both papers and news from APIs
-        await Promise.all([
-            this.paperFetcher.loadPapers(),
-            this.newsFetcher.loadNews()
-        ]);
+        // Load both papers và news từ data folder
+        await this.dataFetcher.loadAllData();
     }
 
     showNotification(message) {
@@ -447,9 +444,7 @@ class DataFetcher {
                 this.app.newsData = news;
                 console.log('Loaded', news.length, 'news from data/news.json');
             } else {
-                console.log('No news.json found, trying to fetch from NewsAPI directly...');
-                // Fallback: thử fetch từ NewsAPI (chỉ hoạt động trên localhost)
-                await this.app.newsFetcher.loadNews();
+                console.log('No news.json found, using localStorage or empty');
             }
             
             this.app.saveData();
@@ -678,196 +673,6 @@ class PaperFetcher {
                     <div class="loading-state">
                         <i class="fas fa-spinner fa-spin"></i>
                         <p>Đang tải papers...</p>
-                    </div>
-                `);
-            }
-        } else {
-            const loading = container.querySelector('.loading-state');
-            if (loading) loading.remove();
-        }
-    }
-}
-
-// News Fetcher Class - Tự động lấy tin tức từ API
-class NewsFetcher {
-    constructor(app) {
-        this.app = app;
-        // NewsAPI key - mặc định sử dụng key được cung cấp
-        // Người dùng có thể ghi đè bằng cách set localStorage.setItem('newsApiKey', 'new-key')
-        this.DEFAULT_API_KEY = 'ed05773d6bcd4487ab22e864ede21dc3';
-        this.API_KEY = localStorage.getItem('newsApiKey') || this.DEFAULT_API_KEY;
-        this.CACHE_KEY = 'newsCache';
-        this.CACHE_TIME_KEY = 'newsCacheTime';
-        this.CACHE_DURATION = 30 * 60 * 1000; // 30 phút
-    }
-
-    // Kiểm tra xem có API key không
-    hasApiKey() {
-        return this.API_KEY && this.API_KEY.length > 0;
-    }
-
-    // Lưu API key
-    setApiKey(key) {
-        this.API_KEY = key;
-        localStorage.setItem('newsApiKey', key);
-    }
-
-    async loadNews() {
-        // Nếu đã có news trong localStorage, hiển thị trước
-        if (this.app.newsData.length > 0) {
-            this.app.renderNewsCards();
-        }
-
-        // Kiểm tra cache
-        const cachedNews = this.getCachedNews();
-        if (cachedNews && !this.isCacheExpired()) {
-            this.app.newsData = cachedNews;
-            this.app.saveData();
-            this.app.renderNewsCards();
-            this.app.updateStats();
-            return;
-        }
-
-        // Nếu không có API key, dùng sample data hoặc đã có sẵn
-        if (!this.hasApiKey()) {
-            console.log('NewsAPI key not configured. Using local data or sample data.');
-            if (this.app.newsData.length === 0) {
-                this.loadFallbackNews();
-            }
-            return;
-        }
-
-        // Fetch từ API
-        await this.fetchNews();
-    }
-
-    async fetchNews(forceRefresh = false) {
-        // NewsAPI KHÔNG hoạt động từ browser (CORS + rate limit)
-        // Chỉ dùng data từ GitHub Actions hoặc localStorage
-        
-        this.showLoading(true);
-        
-        try {
-            // Thử đọc từ data/news.json (do GitHub Actions cập nhật)
-            const response = await fetch('data/news.json');
-            if (response.ok) {
-                const news = await response.json();
-                if (news && news.length > 0) {
-                    this.app.newsData = news;
-                    this.app.saveData();
-                    this.app.renderNewsCards();
-                    this.app.updateStats();
-                    this.showLoading(false);
-                    this.app.showNotification(`Đã tải ${news.length} tin tức`);
-                    return;
-                }
-            }
-        } catch (e) {
-            console.log('No data/news.json available');
-        }
-        
-        // Nếu không có data file, hiển thị thông báo
-        this.showLoading(false);
-        this.app.showNotification('NewsAPI không khả dụng từ browser. Chạy ở localhost hoặc đợi GitHub Actions cập nhật.');
-    }
-
-    convertToNewsFormat(article, index) {
-        // Xác định category dựa trên nội dung
-        let category = 'ai-news';
-        const title = (article.title || '').toLowerCase();
-        const desc = (article.description || '').toLowerCase();
-        
-        if (title.includes('google') || title.includes('microsoft') || title.includes('nvidia') || 
-            title.includes('amazon') || title.includes('meta') || title.includes('apple')) {
-            category = 'tech-giants';
-        } else if (title.includes('research') || title.includes('study') || title.includes('paper') ||
-                   desc.includes('research') || desc.includes('arxiv')) {
-            category = 'research';
-        } else if (title.includes('startup') || title.includes('funding') || title.includes('million') ||
-                   title.includes('billion') || title.includes('invest')) {
-            category = 'startups';
-        }
-
-        return {
-            id: `api_${Date.now()}_${index}`,
-            title: article.title || 'No title',
-            category: category,
-            source: article.source?.name || 'Unknown',
-            description: article.description || article.content || 'No description available',
-            link: article.url,
-            tags: this.extractTags(article.title + ' ' + article.description),
-            date: article.publishedAt || new Date().toISOString(),
-            trending: Math.random() > 0.7,
-            imageUrl: article.urlToImage
-        };
-    }
-
-    extractTags(text) {
-        const keywords = ['AI', 'OpenAI', 'Google', 'Microsoft', 'Meta', 'NVIDIA', 'ChatGPT', 
-                         'GPT', 'LLM', 'Machine Learning', 'Neural', 'Deep Learning',
-                         'Chatbot', 'Automation', 'Robot', 'Vision', 'NLP'];
-        return keywords.filter(kw => text.toLowerCase().includes(kw.toLowerCase())).slice(0, 4);
-    }
-
-    removeDuplicates(articles) {
-        const seen = new Set();
-        return articles.filter(article => {
-            const key = article.url || article.title;
-            if (seen.has(key)) return false;
-            seen.add(key);
-            return true;
-        });
-    }
-
-    getCachedNews() {
-        const cached = localStorage.getItem(this.CACHE_KEY);
-        return cached ? JSON.parse(cached) : null;
-    }
-
-    cacheNews(news) {
-        localStorage.setItem(this.CACHE_KEY, JSON.stringify(news));
-        localStorage.setItem(this.CACHE_TIME_KEY, Date.now().toString());
-    }
-
-    isCacheExpired() {
-        const cacheTime = localStorage.getItem(this.CACHE_TIME_KEY);
-        if (!cacheTime) return true;
-        return (Date.now() - parseInt(cacheTime)) > this.CACHE_DURATION;
-    }
-
-    loadFallbackNews() {
-        // Fallback data khi không có API key hoặc lỗi
-        const fallbackNews = [
-            {
-                id: 'fallback_1',
-                title: 'Cấu hình NewsAPI để tự động cập nhật tin tức',
-                category: 'ai-news',
-                source: 'AI Tech Hub',
-                description: 'Đăng ký tài khoản miễn phí tại newsapi.org để nhận API key và tự động cập nhật tin tức AI mới nhất.',
-                link: 'https://newsapi.org/register',
-                tags: ['setup', 'api', 'configuration'],
-                date: new Date().toISOString(),
-                trending: false
-            }
-        ];
-        
-        this.app.newsData = fallbackNews;
-        this.app.saveData();
-        this.app.renderNewsCards();
-        this.app.updateStats();
-    }
-
-    showLoading(show) {
-        const container = document.getElementById('newsContainer');
-        if (!container) return;
-
-        if (show) {
-            const existing = container.querySelector('.loading-state');
-            if (!existing) {
-                container.insertAdjacentHTML('afterbegin', `
-                    <div class="loading-state">
-                        <i class="fas fa-spinner fa-spin"></i>
-                        <p>Đang tải tin tức...</p>
                     </div>
                 `);
             }
