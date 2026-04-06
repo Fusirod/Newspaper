@@ -455,7 +455,7 @@ class AITechHub {
                     category: 'ai-news',
                     source: 'OpenAI Blog',
                     description: 'OpenAI vừa công bố GPT-5, phiên bản mới nhất với khả năng reasoning và hiểu ngữ cảnh được cải thiện đáng kể, vượt trội hơn GPT-4 về mọi mặt.',
-                    link: 'https://openai.com/blog/gpt-5',
+                    link: 'https://openai.com/index/gpt-4/',
                     tags: ['openai', 'gpt-5', 'llm', 'reasoning'],
                     date: new Date(Date.now() - 43200000).toISOString(), // 12 hours ago
                     trending: true
@@ -466,7 +466,7 @@ class AITechHub {
                     category: 'tech-giants',
                     source: 'Google AI Blog',
                     description: 'Google công bố Gemini Ultra, mô hình lớn nhất của họ với 1.5 triệu parameters, cạnh tranh trực tiếp với GPT-5.',
-                    link: 'https://ai.googleblog.com/gemini-ultra',
+                    link: 'https://blog.google/technology/ai/google-gemini-ai/',
                     tags: ['google', 'gemini', 'ultra', 'llm'],
                     date: new Date(Date.now() - 86400000).toISOString(), // 1 day ago
                     trending: true
@@ -477,7 +477,7 @@ class AITechHub {
                     category: 'ai-news',
                     source: 'Anthropic Blog',
                     description: 'Claude 3 của Anthropic đạt điểm cao nhất trong các bài test reasoning, cho thấy sự tiến bộ vượt bậc trong NLP.',
-                    link: 'https://anthropic.com/claude-3',
+                    link: 'https://www.anthropic.com/news/claude-3-family',
                     tags: ['anthropic', 'claude-3', 'reasoning', 'nlp'],
                     date: new Date(Date.now() - 172800000).toISOString(), // 2 days ago
                     trending: false
@@ -488,7 +488,7 @@ class AITechHub {
                     category: 'research',
                     source: 'Meta AI',
                     description: 'Meta phát hành LLaMA 3.2 với hiệu suất vượt trội GPT-4 trong nhiều benchmark, đặc biệt là coding và reasoning.',
-                    link: 'https://ai.meta.com/llama-3-2',
+                    link: 'https://ai.meta.com/blog/',
                     tags: ['meta', 'llama-3-2', 'open-source', 'benchmark'],
                     date: new Date(Date.now() - 259200000).toISOString(), // 3 days ago
                     trending: true
@@ -499,7 +499,7 @@ class AITechHub {
                     category: 'tech-giants',
                     source: 'Microsoft Blog',
                     description: 'Microsoft công bố Windows 12 với Copilot được tích hợp sâu vào hệ điều hành, hỗ trợ AI trong mọi tác vụ.',
-                    link: 'https://blogs.windows.com/windows-12',
+                    link: 'https://blogs.windows.com/',
                     tags: ['microsoft', 'windows-12', 'copilot', 'ai-integration'],
                     date: new Date(Date.now() - 345600000).toISOString(), // 4 days ago
                     trending: false
@@ -510,7 +510,7 @@ class AITechHub {
                     category: 'tech-giants',
                     source: 'NVIDIA Blog',
                     description: 'NVIDIA công bố H200, GPU mới nhất với hiệu suất training AI nhanh gấp 2 lần H100, hỗ trợ models lớn hơn.',
-                    link: 'https://nvidianews.com/h200',
+                    link: 'https://nvidianews.nvidia.com/',
                     tags: ['nvidia', 'h200', 'gpu', 'ai-training'],
                     date: new Date(Date.now() - 432000000).toISOString(), // 5 days ago
                     trending: true
@@ -521,7 +521,7 @@ class AITechHub {
                     category: 'ai-news',
                     source: 'Stability AI Blog',
                     description: 'Stable Diffusion 3 với chất lượng hình ảnh vượt trội và khả năng tạo video ngắn, cạnh tranh với DALL-E 3.',
-                    link: 'https://stability.ai/blog/stable-diffusion-3',
+                    link: 'https://stability.ai/news',
                     tags: ['stability-ai', 'stable-diffusion-3', 'image-generation', 'video'],
                     date: new Date(Date.now() - 518400000).toISOString(), // 6 days ago
                     trending: false
@@ -532,7 +532,7 @@ class AITechHub {
                     category: 'startups',
                     source: 'TechCrunch',
                     description: 'Hugging Face huy động thành công 500 triệu USD để phát triển các công cụ AI mã nguồn mở và platform.',
-                    link: 'https://techcrunch.com/hugging-face-funding',
+                    link: 'https://techcrunch.com/',
                     tags: ['huggingface', 'funding', 'open-source', 'platform'],
                     date: new Date(Date.now() - 604800000).toISOString(), // 7 days ago
                     trending: true
@@ -543,7 +543,7 @@ class AITechHub {
                     category: 'tech-giants',
                     source: 'OpenAI Blog',
                     description: 'ChatGPT Enterprise với tính năng bảo mật cao, custom models và unlimited usage cho doanh nghiệp lớn.',
-                    link: 'https://openai.com/blog/chatgpt-enterprise',
+                    link: 'https://openai.com/enterprise/',
                     tags: ['openai', 'chatgpt-enterprise', 'business', 'security'],
                     date: new Date(Date.now() - 691200000).toISOString(), // 8 days ago
                     trending: false
@@ -554,7 +554,7 @@ class AITechHub {
                     category: 'startups',
                     source: 'Perplexity Blog',
                     description: 'Perplexity AI, công cụ tìm kiếm AI, đạt mốc 10 triệu người dùng và huy động 100M USD Series B.',
-                    link: 'https://blog.perplexity.ai/10m-users',
+                    link: 'https://www.perplexity.ai/',
                     tags: ['perplexity', 'ai-search', 'milestone', 'funding'],
                     date: new Date(Date.now() - 777600000).toISOString(), // 9 days ago
                     trending: true
