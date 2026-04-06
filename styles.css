@@ -132,6 +132,12 @@ main {
     gap: 1rem;
 }
 
+.filter.add-section {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
 .filter-buttons {
     display: flex;
     gap: 0.5rem;

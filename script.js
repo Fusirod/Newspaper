@@ -6,6 +6,7 @@ class AITechHub {
         this.currentNewsFilter = 'all';
         this.currentTab = 'papers';
         this.notificationManager = new NotificationManager();
+        this.newsFetcher = new NewsFetcher(this);
         this.init();
     }
 
@@ -13,9 +14,8 @@ class AITechHub {
         this.setupEventListeners();
         this.notificationManager.init();
         this.renderTechCards();
-        this.renderNewsCards();
         this.updateStats();
-        this.loadSampleData();
+        this.loadInitialData();
     }
 
     setupEventListeners() {
@@ -52,6 +52,11 @@ class AITechHub {
         // Add news button
         document.getElementById('addNewsBtn').addEventListener('click', () => {
             this.openNewsModal();
+        });
+
+        // Refresh news button
+        document.getElementById('refreshNewsBtn')?.addEventListener('click', () => {
+            this.newsFetcher.fetchNews(true);
         });
 
         // Modal controls
@@ -339,235 +344,129 @@ class AITechHub {
         localStorage.setItem('newsData', JSON.stringify(this.newsData));
     }
 
-    loadSampleData() {
+    async loadInitialData() {
+        // Load tech data from sample if empty
         if (this.techData.length === 0) {
-            const sampleTechData = [
-                {
-                    id: '1',
-                    name: 'GPT-4 Vision',
-                    category: 'ai',
-                    description: 'Mô hình ngôn ngữ lớn mới nhất của OpenAI với khả năng hiểu và xử lý hình ảnh, kết hợp văn bản và hình ảnh trong một lần xử lý.',
-                    link: 'https://openai.com/gpt-4',
-                    tags: ['multimodal', 'vision', 'llm', 'openai'],
-                    date: new Date(Date.now() - 86400000).toISOString(), // 1 day ago
-                    trending: true
-                },
-                {
-                    id: '2',
-                    name: 'Segment Anything Model 2 (SAM 2)',
-                    category: 'computer-vision',
-                    description: 'Phiên bản nâng cấp của SAM với khả năng phân đoạn đối tượng thời gian thực trên video và hình ảnh.',
-                    link: 'https://segment-anything.com',
-                    tags: ['segmentation', 'real-time', 'video', 'meta'],
-                    date: new Date(Date.now() - 172800000).toISOString(), // 2 days ago
-                    trending: true
-                },
-                {
-                    id: '3',
-                    name: 'LLaMA 3.1',
-                    category: 'ai',
-                    description: 'Mô hình ngôn ngữ mã nguồn mở mới nhất của Meta với hiệu suất vượt trội và khả năng reasoning cải thiện.',
-                    link: 'https://llama.meta.com',
-                    tags: ['llm', 'open-source', 'meta', 'reasoning'],
-                    date: new Date(Date.now() - 259200000).toISOString(), // 3 days ago
-                    trending: false
-                },
-                {
-                    id: '4',
-                    name: 'Diffusion Transformers (DiT)',
-                    category: 'machine-learning',
-                    description: 'Kiến trúc mới cho diffusion models sử dụng transformers, đạt hiệu suất cao hơn trong image generation.',
-                    link: 'https://arxiv.org/abs/2212.09748',
-                    tags: ['diffusion', 'transformers', 'image-generation', 'research'],
-                    date: new Date(Date.now() - 345600000).toISOString(), // 4 days ago
-                    trending: true
-                },
-                {
-                    id: '5',
-                    name: 'CLIP ViT-L/14',
-                    category: 'computer-vision',
-                    description: 'Phiên bản cải tiến của CLIP với Vision Transformer lớn hơn, khả năng hiểu text-image tốt hơn.',
-                    link: 'https://github.com/openai/CLIP',
-                    tags: ['clip', 'vision-transformer', 'multimodal', 'openai'],
-                    date: new Date(Date.now() - 432000000).toISOString(), // 5 days ago
-                    trending: false
-                },
-                {
-                    id: '6',
-                    name: 'Bard Advanced',
-                    category: 'nlp',
-                    description: 'Phiên bản nâng cấp của Bard với Gemini Pro, khả năng xử lý đa ngôn ngữ và reasoning phức tạp.',
-                    link: 'https://bard.google.com',
-                    tags: ['nlp', 'gemini', 'google', 'multilingual'],
-                    date: new Date(Date.now() - 518400000).toISOString(), // 6 days ago
-                    trending: true
-                },
-                {
-                    id: '7',
-                    name: 'Stable Diffusion XL Turbo',
-                    category: 'computer-vision',
-                    description: 'Phiên bản tối ưu của SDXL với tốc độ tạo ảnh nhanh gấp 2-4 lần mà không giảm chất lượng.',
-                    link: 'https://stability.ai',
-                    tags: ['stable-diffusion', 'image-generation', 'optimization'],
-                    date: new Date(Date.now() - 604800000).toISOString(), // 7 days ago
-                    trending: false
-                },
-                {
-                    id: '8',
-                    name: 'Mistral 7B v0.2',
-                    category: 'ai',
-                    description: 'Mô hình 7B parameters hiệu suất cao, vượt trội so với các mô hình cùng kích thước.',
-                    link: 'https://mistral.ai',
-                    tags: ['llm', 'efficient', 'open-source', 'mistral'],
-                    date: new Date(Date.now() - 691200000).toISOString(), // 8 days ago
-                    trending: true
-                },
-                {
-                    id: '9',
-                    name: 'YOLOv8',
-                    category: 'computer-vision',
-                    description: 'Phiên bản mới nhất của YOLO với độ chính xác và tốc độ được cải thiện, hỗ trợ đa nhiệm vụ.',
-                    link: 'https://github.com/ultralytics/ultralytics',
-                    tags: ['yolo', 'object-detection', 'real-time', 'ultralytics'],
-                    date: new Date(Date.now() - 777600000).toISOString(), // 9 days ago
-                    trending: false
-                },
-                {
-                    id: '10',
-                    name: 'Phi-2',
-                    category: 'ai',
-                    description: 'Mô hình nhỏ nhưng mạnh mẽ của Microsoft, 2.7B parameters với khả năng reasoning đáng kinh ngạc.',
-                    link: 'https://huggingface.co/microsoft/phi-2',
-                    tags: ['small-model', 'reasoning', 'microsoft', 'efficient'],
-                    date: new Date(Date.now() - 864000000).toISOString(), // 10 days ago
-                    trending: true
-                }
-            ];
-
-            this.techData = sampleTechData;
+            this.loadSampleTechData();
         }
+        
+        // Load news from API or cache
+        await this.newsFetcher.loadNews();
+    }
 
-        if (this.newsData.length === 0) {
-            const sampleNewsData = [
-                {
-                    id: 'n1',
-                    title: 'OpenAI công bố GPT-5 với khả năng reasoning vượt trội',
-                    category: 'ai-news',
-                    source: 'OpenAI Blog',
-                    description: 'OpenAI vừa công bố GPT-5, phiên bản mới nhất với khả năng reasoning và hiểu ngữ cảnh được cải thiện đáng kể, vượt trội hơn GPT-4 về mọi mặt.',
-                    link: 'https://openai.com/index/gpt-4/',
-                    tags: ['openai', 'gpt-5', 'llm', 'reasoning'],
-                    date: new Date(Date.now() - 43200000).toISOString(), // 12 hours ago
-                    trending: true
-                },
-                {
-                    id: 'n2',
-                    title: 'Google ra mắt Gemini Ultra với 1.5 triệu parameters',
-                    category: 'tech-giants',
-                    source: 'Google AI Blog',
-                    description: 'Google công bố Gemini Ultra, mô hình lớn nhất của họ với 1.5 triệu parameters, cạnh tranh trực tiếp với GPT-5.',
-                    link: 'https://blog.google/technology/ai/google-gemini-ai/',
-                    tags: ['google', 'gemini', 'ultra', 'llm'],
-                    date: new Date(Date.now() - 86400000).toISOString(), // 1 day ago
-                    trending: true
-                },
-                {
-                    id: 'n3',
-                    title: 'Anthropic Claude 3 đạt benchmark mới trong reasoning',
-                    category: 'ai-news',
-                    source: 'Anthropic Blog',
-                    description: 'Claude 3 của Anthropic đạt điểm cao nhất trong các bài test reasoning, cho thấy sự tiến bộ vượt bậc trong NLP.',
-                    link: 'https://www.anthropic.com/news/claude-3-family',
-                    tags: ['anthropic', 'claude-3', 'reasoning', 'nlp'],
-                    date: new Date(Date.now() - 172800000).toISOString(), // 2 days ago
-                    trending: false
-                },
-                {
-                    id: 'n4',
-                    title: 'Meta开源 LLaMA 3.2，性能超越GPT-4',
-                    category: 'research',
-                    source: 'Meta AI',
-                    description: 'Meta phát hành LLaMA 3.2 với hiệu suất vượt trội GPT-4 trong nhiều benchmark, đặc biệt là coding và reasoning.',
-                    link: 'https://ai.meta.com/blog/',
-                    tags: ['meta', 'llama-3-2', 'open-source', 'benchmark'],
-                    date: new Date(Date.now() - 259200000).toISOString(), // 3 days ago
-                    trending: true
-                },
-                {
-                    id: 'n5',
-                    title: 'Microsoft tích hợp Copilot sâu hơn vào Windows 12',
-                    category: 'tech-giants',
-                    source: 'Microsoft Blog',
-                    description: 'Microsoft công bố Windows 12 với Copilot được tích hợp sâu vào hệ điều hành, hỗ trợ AI trong mọi tác vụ.',
-                    link: 'https://blogs.windows.com/',
-                    tags: ['microsoft', 'windows-12', 'copilot', 'ai-integration'],
-                    date: new Date(Date.now() - 345600000).toISOString(), // 4 days ago
-                    trending: false
-                },
-                {
-                    id: 'n6',
-                    title: 'NVIDIA ra mắt H200 GPU cho AI training',
-                    category: 'tech-giants',
-                    source: 'NVIDIA Blog',
-                    description: 'NVIDIA công bố H200, GPU mới nhất với hiệu suất training AI nhanh gấp 2 lần H100, hỗ trợ models lớn hơn.',
-                    link: 'https://nvidianews.nvidia.com/',
-                    tags: ['nvidia', 'h200', 'gpu', 'ai-training'],
-                    date: new Date(Date.now() - 432000000).toISOString(), // 5 days ago
-                    trending: true
-                },
-                {
-                    id: 'n7',
-                    title: 'Stability AI ra mắt Stable Diffusion 3',
-                    category: 'ai-news',
-                    source: 'Stability AI Blog',
-                    description: 'Stable Diffusion 3 với chất lượng hình ảnh vượt trội và khả năng tạo video ngắn, cạnh tranh với DALL-E 3.',
-                    link: 'https://stability.ai/news',
-                    tags: ['stability-ai', 'stable-diffusion-3', 'image-generation', 'video'],
-                    date: new Date(Date.now() - 518400000).toISOString(), // 6 days ago
-                    trending: false
-                },
-                {
-                    id: 'n8',
-                    title: 'Hugging Face huy động 500M USD cho open source AI',
-                    category: 'startups',
-                    source: 'TechCrunch',
-                    description: 'Hugging Face huy động thành công 500 triệu USD để phát triển các công cụ AI mã nguồn mở và platform.',
-                    link: 'https://techcrunch.com/',
-                    tags: ['huggingface', 'funding', 'open-source', 'platform'],
-                    date: new Date(Date.now() - 604800000).toISOString(), // 7 days ago
-                    trending: true
-                },
-                {
-                    id: 'n9',
-                    title: 'OpenAI ra mắt ChatGPT Enterprise cho doanh nghiệp',
-                    category: 'tech-giants',
-                    source: 'OpenAI Blog',
-                    description: 'ChatGPT Enterprise với tính năng bảo mật cao, custom models và unlimited usage cho doanh nghiệp lớn.',
-                    link: 'https://openai.com/enterprise/',
-                    tags: ['openai', 'chatgpt-enterprise', 'business', 'security'],
-                    date: new Date(Date.now() - 691200000).toISOString(), // 8 days ago
-                    trending: false
-                },
-                {
-                    id: 'n10',
-                    title: 'Perplexity AI vượt 10 triệu users',
-                    category: 'startups',
-                    source: 'Perplexity Blog',
-                    description: 'Perplexity AI, công cụ tìm kiếm AI, đạt mốc 10 triệu người dùng và huy động 100M USD Series B.',
-                    link: 'https://www.perplexity.ai/',
-                    tags: ['perplexity', 'ai-search', 'milestone', 'funding'],
-                    date: new Date(Date.now() - 777600000).toISOString(), // 9 days ago
-                    trending: true
-                }
-            ];
+    loadSampleTechData() {
+        const sampleTechData = [
+            {
+                id: '1',
+                name: 'GPT-4 Vision',
+                category: 'ai',
+                description: 'Mô hình ngôn ngữ lớn mới nhất của OpenAI với khả năng hiểu và xử lý hình ảnh, kết hợp văn bản và hình ảnh trong một lần xử lý.',
+                link: 'https://openai.com/gpt-4',
+                tags: ['multimodal', 'vision', 'llm', 'openai'],
+                date: new Date(Date.now() - 86400000).toISOString(),
+                trending: true
+            },
+            {
+                id: '2',
+                name: 'Segment Anything Model 2 (SAM 2)',
+                category: 'computer-vision',
+                description: 'Phiên bản nâng cấp của SAM với khả năng phân đoạn đối tượng thời gian thực trên video và hình ảnh.',
+                link: 'https://segment-anything.com',
+                tags: ['segmentation', 'real-time', 'video', 'meta'],
+                date: new Date(Date.now() - 172800000).toISOString(),
+                trending: true
+            },
+            {
+                id: '3',
+                name: 'LLaMA 3.1',
+                category: 'ai',
+                description: 'Mô hình ngôn ngữ mã nguồn mở mới nhất của Meta với hiệu suất vượt trội và khả năng reasoning cải thiện.',
+                link: 'https://llama.meta.com',
+                tags: ['llm', 'open-source', 'meta', 'reasoning'],
+                date: new Date(Date.now() - 259200000).toISOString(),
+                trending: false
+            },
+            {
+                id: '4',
+                name: 'Diffusion Transformers (DiT)',
+                category: 'machine-learning',
+                description: 'Kiến trúc mới cho diffusion models sử dụng transformers, đạt hiệu suất cao hơn trong image generation.',
+                link: 'https://arxiv.org/abs/2212.09748',
+                tags: ['diffusion', 'transformers', 'image-generation', 'research'],
+                date: new Date(Date.now() - 345600000).toISOString(),
+                trending: true
+            },
+            {
+                id: '5',
+                name: 'CLIP ViT-L/14',
+                category: 'computer-vision',
+                description: 'Phiên bản cải tiến của CLIP với Vision Transformer lớn hơn, khả năng hiểu text-image tốt hơn.',
+                link: 'https://github.com/openai/CLIP',
+                tags: ['clip', 'vision-transformer', 'multimodal', 'openai'],
+                date: new Date(Date.now() - 432000000).toISOString(),
+                trending: false
+            },
+            {
+                id: '6',
+                name: 'Bard Advanced',
+                category: 'nlp',
+                description: 'Phiên bản nâng cấp của Bard với Gemini Pro, khả năng xử lý đa ngôn ngữ và reasoning phức tạp.',
+                link: 'https://bard.google.com',
+                tags: ['nlp', 'gemini', 'google', 'multilingual'],
+                date: new Date(Date.now() - 518400000).toISOString(),
+                trending: true
+            },
+            {
+                id: '7',
+                name: 'Stable Diffusion XL Turbo',
+                category: 'computer-vision',
+                description: 'Phiên bản tối ưu của SDXL với tốc độ tạo ảnh nhanh gấp 2-4 lần mà không giảm chất lượng.',
+                link: 'https://stability.ai',
+                tags: ['stable-diffusion', 'image-generation', 'optimization'],
+                date: new Date(Date.now() - 604800000).toISOString(),
+                trending: false
+            },
+            {
+                id: '8',
+                name: 'Mistral 7B v0.2',
+                category: 'ai',
+                description: 'Mô hình 7B parameters hiệu suất cao, vượt trội so với các mô hình cùng kích thước.',
+                link: 'https://mistral.ai',
+                tags: ['llm', 'efficient', 'open-source', 'mistral'],
+                date: new Date(Date.now() - 691200000).toISOString(),
+                trending: true
+            },
+            {
+                id: '9',
+                name: 'YOLOv8',
+                category: 'computer-vision',
+                description: 'Phiên bản mới nhất của YOLO với độ chính xác và tốc độ được cải thiện, hỗ trợ đa nhiệm vụ.',
+                link: 'https://github.com/ultralytics/ultralytics',
+                tags: ['yolo', 'object-detection', 'real-time', 'ultralytics'],
+                date: new Date(Date.now() - 777600000).toISOString(),
+                trending: false
+            },
+            {
+                id: '10',
+                name: 'Phi-2',
+                category: 'ai',
+                description: 'Mô hình nhỏ nhưng mạnh mẽ của Microsoft, 2.7B parameters với khả năng reasoning đáng kinh ngạc.',
+                link: 'https://huggingface.co/microsoft/phi-2',
+                tags: ['small-model', 'reasoning', 'microsoft', 'efficient'],
+                date: new Date(Date.now() - 864000000).toISOString(),
+                trending: true
+            }
+        ];
 
-            this.newsData = sampleNewsData;
-        }
-
+        this.techData = sampleTechData;
         this.saveData();
         this.renderTechCards();
-        this.renderNewsCards();
         this.updateStats();
+    }
+
+    loadSampleData() {
+        // Deprecated - replaced by loadInitialData
+        this.loadInitialData();
     }
 
     showNotification(message) {
@@ -621,6 +520,246 @@ class AITechHub {
                 document.body.removeChild(notification);
             }, 300);
         }, 3000);
+    }
+}
+
+// News Fetcher Class - Tự động lấy tin tức từ API
+class NewsFetcher {
+    constructor(app) {
+        this.app = app;
+        // Sử dụng NewsAPI - bạn cần đăng ký tại newsapi.org để lấy API key miễn phí
+        this.API_KEY = localStorage.getItem('newsApiKey') || '';
+        this.CACHE_KEY = 'newsCache';
+        this.CACHE_TIME_KEY = 'newsCacheTime';
+        this.CACHE_DURATION = 30 * 60 * 1000; // 30 phút
+    }
+
+    // Kiểm tra xem có API key không
+    hasApiKey() {
+        return this.API_KEY && this.API_KEY.length > 0;
+    }
+
+    // Lưu API key
+    setApiKey(key) {
+        this.API_KEY = key;
+        localStorage.setItem('newsApiKey', key);
+    }
+
+    async loadNews() {
+        // Nếu đã có news trong localStorage, hiển thị trước
+        if (this.app.newsData.length > 0) {
+            this.app.renderNewsCards();
+        }
+
+        // Kiểm tra cache
+        const cachedNews = this.getCachedNews();
+        if (cachedNews && !this.isCacheExpired()) {
+            this.app.newsData = cachedNews;
+            this.app.saveData();
+            this.app.renderNewsCards();
+            this.app.updateStats();
+            return;
+        }
+
+        // Nếu không có API key, dùng sample data hoặc đã có sẵn
+        if (!this.hasApiKey()) {
+            console.log('NewsAPI key not configured. Using local data or sample data.');
+            if (this.app.newsData.length === 0) {
+                this.loadFallbackNews();
+            }
+            return;
+        }
+
+        // Fetch từ API
+        await this.fetchNews();
+    }
+
+    async fetchNews(forceRefresh = false) {
+        if (!this.hasApiKey()) {
+            this.app.showNotification('Vui lòng cấu hình NewsAPI key trong settings!');
+            return;
+        }
+
+        // Kiểm tra rate limit
+        const lastFetch = localStorage.getItem('lastNewsFetch');
+        const now = Date.now();
+        if (!forceRefresh && lastFetch && (now - parseInt(lastFetch)) < 60000) {
+            console.log('Rate limited: Chờ 1 phút giữa các lần fetch');
+            return;
+        }
+
+        try {
+            this.showLoading(true);
+            
+            // Fetch tin tức AI/Technology từ NewsAPI
+            const queries = [
+                'artificial intelligence',
+                'machine learning',
+                'OpenAI',
+                'Google AI',
+                'Microsoft AI'
+            ];
+            
+            const allArticles = [];
+            
+            for (const query of queries.slice(0, 2)) { // Giới hạn 2 queries để tránh quota
+                const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sortBy=publishedAt&language=en&pageSize=10&apiKey=${this.API_KEY}`;
+                
+                const response = await fetch(url);
+                const data = await response.json();
+                
+                if (data.status === 'ok' && data.articles) {
+                    allArticles.push(...data.articles);
+                }
+            }
+
+            // Loại bỏ trùng lặp và chuyển đổi format
+            const uniqueArticles = this.removeDuplicates(allArticles);
+            const newsData = uniqueArticles.map((article, index) => this.convertToNewsFormat(article, index));
+
+            // Merge với data hiện tại, ưu tiên tin mới
+            const existingLinks = new Set(this.app.newsData.map(n => n.link));
+            const newArticles = newsData.filter(n => !existingLinks.has(n.link));
+            
+            if (newArticles.length > 0) {
+                this.app.newsData = [...newArticles.slice(0, 10), ...this.app.newsData].slice(0, 50);
+                this.app.saveData();
+                this.cacheNews(this.app.newsData);
+                
+                // Gửi notification nếu có tin mới
+                if (this.app.notificationManager) {
+                    this.app.notificationManager.showNotification(
+                        '📰 Tin tức mới!',
+                        `Có ${newArticles.length} tin tức mới được cập nhật`,
+                        { type: 'news', count: newArticles.length }
+                    );
+                }
+                
+                this.app.showNotification(`Đã cập nhật ${newArticles.length} tin tức mới!`);
+            } else {
+                this.app.showNotification('Không có tin tức mới');
+            }
+
+            localStorage.setItem('lastNewsFetch', now.toString());
+            this.app.renderNewsCards();
+            this.app.updateStats();
+
+        } catch (error) {
+            console.error('Error fetching news:', error);
+            this.app.showNotification('Lỗi khi tải tin tức. Sử dụng dữ liệu local.');
+            
+            if (this.app.newsData.length === 0) {
+                this.loadFallbackNews();
+            }
+        } finally {
+            this.showLoading(false);
+        }
+    }
+
+    convertToNewsFormat(article, index) {
+        // Xác định category dựa trên nội dung
+        let category = 'ai-news';
+        const title = (article.title || '').toLowerCase();
+        const desc = (article.description || '').toLowerCase();
+        
+        if (title.includes('google') || title.includes('microsoft') || title.includes('nvidia') || 
+            title.includes('amazon') || title.includes('meta') || title.includes('apple')) {
+            category = 'tech-giants';
+        } else if (title.includes('research') || title.includes('study') || title.includes('paper') ||
+                   desc.includes('research') || desc.includes('arxiv')) {
+            category = 'research';
+        } else if (title.includes('startup') || title.includes('funding') || title.includes('million') ||
+                   title.includes('billion') || title.includes('invest')) {
+            category = 'startups';
+        }
+
+        return {
+            id: `api_${Date.now()}_${index}`,
+            title: article.title || 'No title',
+            category: category,
+            source: article.source?.name || 'Unknown',
+            description: article.description || article.content || 'No description available',
+            link: article.url,
+            tags: this.extractTags(article.title + ' ' + article.description),
+            date: article.publishedAt || new Date().toISOString(),
+            trending: Math.random() > 0.7,
+            imageUrl: article.urlToImage
+        };
+    }
+
+    extractTags(text) {
+        const keywords = ['AI', 'OpenAI', 'Google', 'Microsoft', 'Meta', 'NVIDIA', 'ChatGPT', 
+                         'GPT', 'LLM', 'Machine Learning', 'Neural', 'Deep Learning',
+                         'Chatbot', 'Automation', 'Robot', 'Vision', 'NLP'];
+        return keywords.filter(kw => text.toLowerCase().includes(kw.toLowerCase())).slice(0, 4);
+    }
+
+    removeDuplicates(articles) {
+        const seen = new Set();
+        return articles.filter(article => {
+            const key = article.url || article.title;
+            if (seen.has(key)) return false;
+            seen.add(key);
+            return true;
+        });
+    }
+
+    getCachedNews() {
+        const cached = localStorage.getItem(this.CACHE_KEY);
+        return cached ? JSON.parse(cached) : null;
+    }
+
+    cacheNews(news) {
+        localStorage.setItem(this.CACHE_KEY, JSON.stringify(news));
+        localStorage.setItem(this.CACHE_TIME_KEY, Date.now().toString());
+    }
+
+    isCacheExpired() {
+        const cacheTime = localStorage.getItem(this.CACHE_TIME_KEY);
+        if (!cacheTime) return true;
+        return (Date.now() - parseInt(cacheTime)) > this.CACHE_DURATION;
+    }
+
+    loadFallbackNews() {
+        // Fallback data khi không có API key hoặc lỗi
+        const fallbackNews = [
+            {
+                id: 'fallback_1',
+                title: 'Cấu hình NewsAPI để tự động cập nhật tin tức',
+                category: 'ai-news',
+                source: 'AI Tech Hub',
+                description: 'Đăng ký tài khoản miễn phí tại newsapi.org để nhận API key và tự động cập nhật tin tức AI mới nhất.',
+                link: 'https://newsapi.org/register',
+                tags: ['setup', 'api', 'configuration'],
+                date: new Date().toISOString(),
+                trending: false
+            }
+        ];
+        
+        this.app.newsData = fallbackNews;
+        this.app.saveData();
+        this.app.renderNewsCards();
+        this.app.updateStats();
+    }
+
+    showLoading(show) {
+        const container = document.getElementById('newsContainer');
+        if (!container) return;
+
+        if (show) {
+            const existing = container.querySelector('.loading-state');
+            if (!existing) {
+                container.insertAdjacentHTML('afterbegin', `
+                    <div class="loading-state">
+                        <i class="fas fa-spinner fa-spin"></i>
+                        <p>Đang tải tin tức...</p>
+                    </div>
+                `);
+            }
+        } else {
+            const loading = container.querySelector('.loading-state');
+            if (loading) loading.remove();
+        }
     }
 }
 
