@@ -107,6 +107,7 @@ async function main() {
             
             items.slice(0, 5).forEach((item, index) => {
                 if (!item.title) return;
+                console.log(`    Adding article [${feed.category}]: ${item.title.substring(0, 50)}...`);
                 allArticles.push({
                     id: `rss_${feed.source.replace(/\s+/g, '_')}_${Date.now()}_${index}`,
                     title: item.title,
