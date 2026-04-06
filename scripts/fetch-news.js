@@ -129,14 +129,64 @@ async function main() {
     console.log(`\nSuccessfully fetched from ${successCount}/${RSS_FEEDS.length} feeds`);
     console.log(`Total articles collected: ${allArticles.length}`);
     
-    // Luôn lưu file, dù có articles hay không
-    const sortedArticles = allArticles
-        .sort((a, b) => new Date(b.date) - new Date(a.date))
-        .slice(0, 20);
+    // Group articles by category
+    const articlesByCategory = {};
+    allArticles.forEach(article => {
+        if (!articlesByCategory[article.category]) {
+            articlesByCategory[article.category] = [];
+        }
+        articlesByCategory[article.category].push(article);
+    });
+    
+    // Log số lượng mỗi category
+    Object.keys(articlesByCategory).forEach(cat => {
+        console.log(`  ${cat}: ${articlesByCategory[cat].length} articles`);
+    });
+    
+    // Đảm bảo mỗi category có tối thiểu 4 bài (nếu có), tối đa 30 bài tổng cộng
+    const MIN_PER_CATEGORY = 4;
+    const MAX_TOTAL = 30;
+    const categories = ['ai-news', 'tech-giants', 'research', 'startups'];
+    const finalArticles = [];
+    
+    // Bước 1: Lấy tối thiểu 4 bài từ mỗi category
+    categories.forEach(cat => {
+        const catArticles = articlesByCategory[cat] || [];
+        // Sort by date
+        catArticles.sort((a, b) => new Date(b.date) - new Date(a.date));
+        // Lấy tối thiểu 4 bài
+        const selected = catArticles.slice(0, MIN_PER_CATEGORY);
+        finalArticles.push(...selected);
+    });
+    
+    // Bước 2: Nếu còn chỗ, lấy thêm bài từ các category có nhiều bài nhất
+    let remainingSlots = MAX_TOTAL - finalArticles.length;
+    if (remainingSlots > 0) {
+        // Lấy các bài chưa được chọn
+        const selectedIds = new Set(finalArticles.map(a => a.id));
+        const remainingArticles = allArticles.filter(a => !selectedIds.has(a.id));
+        // Sort by date
+        remainingArticles.sort((a, b) => new Date(b.date) - new Date(a.date));
+        // Lấy thêm đến khi đủ 30
+        finalArticles.push(...remainingArticles.slice(0, remainingSlots));
+    }
+    
+    // Sort tất cả theo date
+    finalArticles.sort((a, b) => new Date(b.date) - new Date(a.date));
+    
+    // Log kết quả cuối
+    const finalByCat = {};
+    finalArticles.forEach(a => {
+        finalByCat[a.category] = (finalByCat[a.category] || 0) + 1;
+    });
+    console.log(`\nFinal distribution (total ${finalArticles.length}):`);
+    Object.keys(finalByCat).forEach(cat => {
+        console.log(`  ${cat}: ${finalByCat[cat]} articles`);
+    });
     
     const outputPath = 'data/news.json';
-    fs.writeFileSync(outputPath, JSON.stringify(sortedArticles, null, 2));
-    console.log(`Saved ${sortedArticles.length} news to ${outputPath}`);
+    fs.writeFileSync(outputPath, JSON.stringify(finalArticles, null, 2));
+    console.log(`Saved ${finalArticles.length} news to ${outputPath}`);
     
     // Verify file was created
     if (fs.existsSync(outputPath)) {
