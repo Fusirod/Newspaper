@@ -1,0 +1,633 @@
+class AITechHub {
+    constructor() {
+        this.techData = this.loadData('techData');
+        this.newsData = this.loadData('newsData');
+        this.currentTechFilter = 'all';
+        this.currentNewsFilter = 'all';
+        this.currentTab = 'papers';
+        this.init();
+    }
+
+    init() {
+        this.setupEventListeners();
+        this.renderTechCards();
+        this.renderNewsCards();
+        this.updateStats();
+        this.loadSampleData();
+    }
+
+    setupEventListeners() {
+        // Tab navigation
+        document.querySelectorAll('.tab-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                this.switchTab(e.target.closest('.tab-btn').dataset.tab);
+            });
+        });
+
+        // Tech filter buttons
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                this.setActiveFilter(e.target.closest('.filter-btn'), 'tech');
+                this.currentTechFilter = e.target.closest('.filter-btn').dataset.category;
+                this.renderTechCards();
+            });
+        });
+
+        // News filter buttons
+        document.querySelectorAll('.news-filter-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                this.setActiveFilter(e.target.closest('.news-filter-btn'), 'news');
+                this.currentNewsFilter = e.target.closest('.news-filter-btn').dataset.newsCategory;
+                this.renderNewsCards();
+            });
+        });
+
+        // Add tech button
+        document.getElementById('addTechBtn').addEventListener('click', () => {
+            this.openTechModal();
+        });
+
+        // Add news button
+        document.getElementById('addNewsBtn').addEventListener('click', () => {
+            this.openNewsModal();
+        });
+
+        // Modal controls
+        document.querySelector('.tech-close').addEventListener('click', () => {
+            this.closeTechModal();
+        });
+
+        document.querySelector('.news-close').addEventListener('click', () => {
+            this.closeNewsModal();
+        });
+
+        window.addEventListener('click', (e) => {
+            if (e.target === document.getElementById('addTechModal')) {
+                this.closeTechModal();
+            }
+            if (e.target === document.getElementById('addNewsModal')) {
+                this.closeNewsModal();
+            }
+        });
+
+        // Form submissions
+        document.getElementById('addTechForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+            this.addNewTech();
+        });
+
+        document.getElementById('addNewsForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+            this.addNewNews();
+        });
+    }
+
+    switchTab(tabName) {
+        // Update tab buttons
+        document.querySelectorAll('.tab-btn').forEach(btn => {
+            btn.classList.remove('active');
+        });
+        document.querySelector(`[data-tab="${tabName}"]`).classList.add('active');
+
+        // Update tab content
+        document.querySelectorAll('.tab-content').forEach(content => {
+            content.classList.remove('active');
+        });
+        document.getElementById(`${tabName}Section`).classList.add('active');
+
+        this.currentTab = tabName;
+    }
+
+    setActiveFilter(activeBtn, type) {
+        const selector = type === 'tech' ? '.filter-btn' : '.news-filter-btn';
+        document.querySelectorAll(selector).forEach(btn => {
+            btn.classList.remove('active');
+        });
+        activeBtn.classList.add('active');
+    }
+
+    openTechModal() {
+        document.getElementById('addTechModal').style.display = 'block';
+    }
+
+    closeTechModal() {
+        document.getElementById('addTechModal').style.display = 'none';
+        document.getElementById('addTechForm').reset();
+    }
+
+    openNewsModal() {
+        document.getElementById('addNewsModal').style.display = 'block';
+    }
+
+    closeNewsModal() {
+        document.getElementById('addNewsModal').style.display = 'none';
+        document.getElementById('addNewsForm').reset();
+    }
+
+    addNewTech() {
+        const formData = {
+            id: Date.now().toString(),
+            name: document.getElementById('techName').value,
+            category: document.getElementById('techCategory').value,
+            description: document.getElementById('techDescription').value,
+            link: document.getElementById('techLink').value,
+            tags: document.getElementById('techTags').value.split(',').map(tag => tag.trim()),
+            date: new Date().toISOString(),
+            trending: Math.random() > 0.7 // Random trending status
+        };
+
+        this.techData.unshift(formData);
+        this.saveData();
+        this.renderTechCards();
+        this.updateStats();
+        this.closeTechModal();
+        this.showNotification('Công nghệ mới đã được thêm thành công!');
+    }
+
+    addNewNews() {
+        const formData = {
+            id: Date.now().toString(),
+            title: document.getElementById('newsTitle').value,
+            category: document.getElementById('newsCategory').value,
+            source: document.getElementById('newsSource').value,
+            description: document.getElementById('newsDescription').value,
+            link: document.getElementById('newsLink').value,
+            tags: document.getElementById('newsTags').value.split(',').map(tag => tag.trim()),
+            date: new Date().toISOString(),
+            trending: Math.random() > 0.7 // Random trending status
+        };
+
+        this.newsData.unshift(formData);
+        this.saveData();
+        this.renderNewsCards();
+        this.updateStats();
+        this.closeNewsModal();
+        this.showNotification('Tin tức mới đã được thêm thành công!');
+    }
+
+    renderTechCards() {
+        const container = document.getElementById('techContainer');
+        const filteredData = this.getFilteredData('tech');
+
+        if (filteredData.length === 0) {
+            container.innerHTML = `
+                <div class="empty-state">
+                    <i class="fas fa-inbox"></i>
+                    <h3>Chưa có công nghệ nào</h3>
+                    <p>Hãy thêm công nghệ mới hoặc thử bộ lọc khác</p>
+                </div>
+            `;
+            return;
+        }
+
+        // Display only top 20 technologies
+        const topTwenty = filteredData.slice(0, 20);
+        
+        container.innerHTML = topTwenty.map(tech => `
+            <div class="tech-card" data-category="${tech.category}">
+                <div class="tech-header">
+                    <div>
+                        <h3 class="tech-title">${tech.name}</h3>
+                        <span class="tech-category">${this.getCategoryLabel(tech.category)}</span>
+                        ${tech.trending ? '<span class="tech-category" style="background: #ff6b6b; color: white; margin-left: 0.5rem;"><i class="fas fa-fire"></i> Hot</span>' : ''}
+                    </div>
+                </div>
+                <p class="tech-description">${tech.description}</p>
+                <div class="tech-tags">
+                    ${tech.tags.map(tag => `<span class="tech-tag">${tag}</span>`).join('')}
+                </div>
+                <div class="tech-footer">
+                    <span class="tech-date"><i class="fas fa-calendar"></i> ${this.formatDate(tech.date)}</span>
+                    <a href="${tech.link}" target="_blank" class="tech-link">
+                        Xem chi tiết <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+            </div>
+        `).join('');
+    }
+
+    renderNewsCards() {
+        const container = document.getElementById('newsContainer');
+        const filteredData = this.getFilteredData('news');
+
+        if (filteredData.length === 0) {
+            container.innerHTML = `
+                <div class="empty-state">
+                    <i class="fas fa-newspaper"></i>
+                    <h3>Chưa có tin tức nào</h3>
+                    <p>Hãy thêm tin tức mới hoặc thử bộ lọc khác</p>
+                </div>
+            `;
+            return;
+        }
+
+        // Display only top 20 news
+        const topTwenty = filteredData.slice(0, 20);
+        
+        container.innerHTML = topTwenty.map(news => `
+            <div class="news-card" data-category="${news.category}">
+                <div class="news-header">
+                    <div>
+                        <h3 class="news-title">${news.title}</h3>
+                        <div>
+                            <span class="news-source">${news.source}</span>
+                            <span class="news-category">${this.getNewsCategoryLabel(news.category)}</span>
+                            ${news.trending ? '<span class="news-category" style="background: #ff6b6b; color: white; margin-left: 0.5rem;"><i class="fas fa-fire"></i> Hot</span>' : ''}
+                        </div>
+                    </div>
+                </div>
+                <p class="news-description">${news.description}</p>
+                <div class="news-tags">
+                    ${news.tags.map(tag => `<span class="news-tag">${tag}</span>`).join('')}
+                </div>
+                <div class="news-footer">
+                    <span class="news-date"><i class="fas fa-calendar"></i> ${this.formatDate(news.date)}</span>
+                    <a href="${news.link}" target="_blank" class="news-link">
+                        Đọc thêm <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+            </div>
+        `).join('');
+    }
+
+    getFilteredData(type = 'tech') {
+        if (type === 'tech') {
+            if (this.currentTechFilter === 'all') {
+                return this.techData;
+            }
+            return this.techData.filter(tech => tech.category === this.currentTechFilter);
+        } else {
+            if (this.currentNewsFilter === 'all') {
+                return this.newsData;
+            }
+            return this.newsData.filter(news => news.category === this.currentNewsFilter);
+        }
+    }
+
+    getCategoryLabel(category) {
+        const labels = {
+            'ai': 'AI',
+            'computer-vision': 'Computer Vision',
+            'machine-learning': 'Machine Learning',
+            'nlp': 'NLP'
+        };
+        return labels[category] || category;
+    }
+
+    getNewsCategoryLabel(category) {
+        const labels = {
+            'ai-news': 'AI News',
+            'tech-giants': 'Tech Giants',
+            'research': 'Research',
+            'startups': 'Startups'
+        };
+        return labels[category] || category;
+    }
+
+    formatDate(dateString) {
+        const date = new Date(dateString);
+        const today = new Date();
+        const diffTime = Math.abs(today - date);
+        const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+        
+        if (diffDays === 0) return 'Hôm nay';
+        if (diffDays === 1) return 'Hôm qua';
+        if (diffDays < 7) return `${diffDays} ngày trước`;
+        if (diffDays < 30) return `${Math.floor(diffDays / 7)} tuần trước`;
+        return date.toLocaleDateString('vi-VN');
+    }
+
+    updateStats() {
+        const paperCount = document.getElementById('paperCount');
+        const newsCount = document.getElementById('newsCount');
+        const todayCount = document.getElementById('todayCount');
+        const trendingCount = document.getElementById('trendingCount');
+
+        paperCount.textContent = this.techData.length;
+        newsCount.textContent = this.newsData.length;
+
+        const today = new Date().toDateString();
+        const todayTechs = this.techData.filter(tech => 
+            new Date(tech.date).toDateString() === today
+        );
+        const todayNews = this.newsData.filter(news => 
+            new Date(news.date).toDateString() === today
+        );
+        todayCount.textContent = todayTechs.length + todayNews.length;
+
+        const trendingTechs = this.techData.filter(tech => tech.trending);
+        const trendingNews = this.newsData.filter(news => news.trending);
+        trendingCount.textContent = trendingTechs.length + trendingNews.length;
+    }
+
+    loadData(type) {
+        const savedData = localStorage.getItem(type);
+        return savedData ? JSON.parse(savedData) : [];
+    }
+
+    saveData() {
+        localStorage.setItem('techData', JSON.stringify(this.techData));
+        localStorage.setItem('newsData', JSON.stringify(this.newsData));
+    }
+
+    loadSampleData() {
+        if (this.techData.length === 0) {
+            const sampleTechData = [
+                {
+                    id: '1',
+                    name: 'GPT-4 Vision',
+                    category: 'ai',
+                    description: 'Mô hình ngôn ngữ lớn mới nhất của OpenAI với khả năng hiểu và xử lý hình ảnh, kết hợp văn bản và hình ảnh trong một lần xử lý.',
+                    link: 'https://openai.com/gpt-4',
+                    tags: ['multimodal', 'vision', 'llm', 'openai'],
+                    date: new Date(Date.now() - 86400000).toISOString(), // 1 day ago
+                    trending: true
+                },
+                {
+                    id: '2',
+                    name: 'Segment Anything Model 2 (SAM 2)',
+                    category: 'computer-vision',
+                    description: 'Phiên bản nâng cấp của SAM với khả năng phân đoạn đối tượng thời gian thực trên video và hình ảnh.',
+                    link: 'https://segment-anything.com',
+                    tags: ['segmentation', 'real-time', 'video', 'meta'],
+                    date: new Date(Date.now() - 172800000).toISOString(), // 2 days ago
+                    trending: true
+                },
+                {
+                    id: '3',
+                    name: 'LLaMA 3.1',
+                    category: 'ai',
+                    description: 'Mô hình ngôn ngữ mã nguồn mở mới nhất của Meta với hiệu suất vượt trội và khả năng reasoning cải thiện.',
+                    link: 'https://llama.meta.com',
+                    tags: ['llm', 'open-source', 'meta', 'reasoning'],
+                    date: new Date(Date.now() - 259200000).toISOString(), // 3 days ago
+                    trending: false
+                },
+                {
+                    id: '4',
+                    name: 'Diffusion Transformers (DiT)',
+                    category: 'machine-learning',
+                    description: 'Kiến trúc mới cho diffusion models sử dụng transformers, đạt hiệu suất cao hơn trong image generation.',
+                    link: 'https://arxiv.org/abs/2212.09748',
+                    tags: ['diffusion', 'transformers', 'image-generation', 'research'],
+                    date: new Date(Date.now() - 345600000).toISOString(), // 4 days ago
+                    trending: true
+                },
+                {
+                    id: '5',
+                    name: 'CLIP ViT-L/14',
+                    category: 'computer-vision',
+                    description: 'Phiên bản cải tiến của CLIP với Vision Transformer lớn hơn, khả năng hiểu text-image tốt hơn.',
+                    link: 'https://github.com/openai/CLIP',
+                    tags: ['clip', 'vision-transformer', 'multimodal', 'openai'],
+                    date: new Date(Date.now() - 432000000).toISOString(), // 5 days ago
+                    trending: false
+                },
+                {
+                    id: '6',
+                    name: 'Bard Advanced',
+                    category: 'nlp',
+                    description: 'Phiên bản nâng cấp của Bard với Gemini Pro, khả năng xử lý đa ngôn ngữ và reasoning phức tạp.',
+                    link: 'https://bard.google.com',
+                    tags: ['nlp', 'gemini', 'google', 'multilingual'],
+                    date: new Date(Date.now() - 518400000).toISOString(), // 6 days ago
+                    trending: true
+                },
+                {
+                    id: '7',
+                    name: 'Stable Diffusion XL Turbo',
+                    category: 'computer-vision',
+                    description: 'Phiên bản tối ưu của SDXL với tốc độ tạo ảnh nhanh gấp 2-4 lần mà không giảm chất lượng.',
+                    link: 'https://stability.ai',
+                    tags: ['stable-diffusion', 'image-generation', 'optimization'],
+                    date: new Date(Date.now() - 604800000).toISOString(), // 7 days ago
+                    trending: false
+                },
+                {
+                    id: '8',
+                    name: 'Mistral 7B v0.2',
+                    category: 'ai',
+                    description: 'Mô hình 7B parameters hiệu suất cao, vượt trội so với các mô hình cùng kích thước.',
+                    link: 'https://mistral.ai',
+                    tags: ['llm', 'efficient', 'open-source', 'mistral'],
+                    date: new Date(Date.now() - 691200000).toISOString(), // 8 days ago
+                    trending: true
+                },
+                {
+                    id: '9',
+                    name: 'YOLOv8',
+                    category: 'computer-vision',
+                    description: 'Phiên bản mới nhất của YOLO với độ chính xác và tốc độ được cải thiện, hỗ trợ đa nhiệm vụ.',
+                    link: 'https://github.com/ultralytics/ultralytics',
+                    tags: ['yolo', 'object-detection', 'real-time', 'ultralytics'],
+                    date: new Date(Date.now() - 777600000).toISOString(), // 9 days ago
+                    trending: false
+                },
+                {
+                    id: '10',
+                    name: 'Phi-2',
+                    category: 'ai',
+                    description: 'Mô hình nhỏ nhưng mạnh mẽ của Microsoft, 2.7B parameters với khả năng reasoning đáng kinh ngạc.',
+                    link: 'https://huggingface.co/microsoft/phi-2',
+                    tags: ['small-model', 'reasoning', 'microsoft', 'efficient'],
+                    date: new Date(Date.now() - 864000000).toISOString(), // 10 days ago
+                    trending: true
+                }
+            ];
+
+            this.techData = sampleTechData;
+        }
+
+        if (this.newsData.length === 0) {
+            const sampleNewsData = [
+                {
+                    id: 'n1',
+                    title: 'OpenAI công bố GPT-5 với khả năng reasoning vượt trội',
+                    category: 'ai-news',
+                    source: 'OpenAI Blog',
+                    description: 'OpenAI vừa công bố GPT-5, phiên bản mới nhất với khả năng reasoning và hiểu ngữ cảnh được cải thiện đáng kể, vượt trội hơn GPT-4 về mọi mặt.',
+                    link: 'https://openai.com/blog/gpt-5',
+                    tags: ['openai', 'gpt-5', 'llm', 'reasoning'],
+                    date: new Date(Date.now() - 43200000).toISOString(), // 12 hours ago
+                    trending: true
+                },
+                {
+                    id: 'n2',
+                    title: 'Google ra mắt Gemini Ultra với 1.5 triệu parameters',
+                    category: 'tech-giants',
+                    source: 'Google AI Blog',
+                    description: 'Google công bố Gemini Ultra, mô hình lớn nhất của họ với 1.5 triệu parameters, cạnh tranh trực tiếp với GPT-5.',
+                    link: 'https://ai.googleblog.com/gemini-ultra',
+                    tags: ['google', 'gemini', 'ultra', 'llm'],
+                    date: new Date(Date.now() - 86400000).toISOString(), // 1 day ago
+                    trending: true
+                },
+                {
+                    id: 'n3',
+                    title: 'Anthropic Claude 3 đạt benchmark mới trong reasoning',
+                    category: 'ai-news',
+                    source: 'Anthropic Blog',
+                    description: 'Claude 3 của Anthropic đạt điểm cao nhất trong các bài test reasoning, cho thấy sự tiến bộ vượt bậc trong NLP.',
+                    link: 'https://anthropic.com/claude-3',
+                    tags: ['anthropic', 'claude-3', 'reasoning', 'nlp'],
+                    date: new Date(Date.now() - 172800000).toISOString(), // 2 days ago
+                    trending: false
+                },
+                {
+                    id: 'n4',
+                    title: 'Meta开源 LLaMA 3.2，性能超越GPT-4',
+                    category: 'research',
+                    source: 'Meta AI',
+                    description: 'Meta phát hành LLaMA 3.2 với hiệu suất vượt trội GPT-4 trong nhiều benchmark, đặc biệt là coding và reasoning.',
+                    link: 'https://ai.meta.com/llama-3-2',
+                    tags: ['meta', 'llama-3-2', 'open-source', 'benchmark'],
+                    date: new Date(Date.now() - 259200000).toISOString(), // 3 days ago
+                    trending: true
+                },
+                {
+                    id: 'n5',
+                    title: 'Microsoft tích hợp Copilot sâu hơn vào Windows 12',
+                    category: 'tech-giants',
+                    source: 'Microsoft Blog',
+                    description: 'Microsoft công bố Windows 12 với Copilot được tích hợp sâu vào hệ điều hành, hỗ trợ AI trong mọi tác vụ.',
+                    link: 'https://blogs.windows.com/windows-12',
+                    tags: ['microsoft', 'windows-12', 'copilot', 'ai-integration'],
+                    date: new Date(Date.now() - 345600000).toISOString(), // 4 days ago
+                    trending: false
+                },
+                {
+                    id: 'n6',
+                    title: 'NVIDIA ra mắt H200 GPU cho AI training',
+                    category: 'tech-giants',
+                    source: 'NVIDIA Blog',
+                    description: 'NVIDIA công bố H200, GPU mới nhất với hiệu suất training AI nhanh gấp 2 lần H100, hỗ trợ models lớn hơn.',
+                    link: 'https://nvidianews.com/h200',
+                    tags: ['nvidia', 'h200', 'gpu', 'ai-training'],
+                    date: new Date(Date.now() - 432000000).toISOString(), // 5 days ago
+                    trending: true
+                },
+                {
+                    id: 'n7',
+                    title: 'Stability AI ra mắt Stable Diffusion 3',
+                    category: 'ai-news',
+                    source: 'Stability AI Blog',
+                    description: 'Stable Diffusion 3 với chất lượng hình ảnh vượt trội và khả năng tạo video ngắn, cạnh tranh với DALL-E 3.',
+                    link: 'https://stability.ai/blog/stable-diffusion-3',
+                    tags: ['stability-ai', 'stable-diffusion-3', 'image-generation', 'video'],
+                    date: new Date(Date.now() - 518400000).toISOString(), // 6 days ago
+                    trending: false
+                },
+                {
+                    id: 'n8',
+                    title: 'Hugging Face huy động 500M USD cho open source AI',
+                    category: 'startups',
+                    source: 'TechCrunch',
+                    description: 'Hugging Face huy động thành công 500 triệu USD để phát triển các công cụ AI mã nguồn mở và platform.',
+                    link: 'https://techcrunch.com/hugging-face-funding',
+                    tags: ['huggingface', 'funding', 'open-source', 'platform'],
+                    date: new Date(Date.now() - 604800000).toISOString(), // 7 days ago
+                    trending: true
+                },
+                {
+                    id: 'n9',
+                    title: 'OpenAI ra mắt ChatGPT Enterprise cho doanh nghiệp',
+                    category: 'tech-giants',
+                    source: 'OpenAI Blog',
+                    description: 'ChatGPT Enterprise với tính năng bảo mật cao, custom models và unlimited usage cho doanh nghiệp lớn.',
+                    link: 'https://openai.com/blog/chatgpt-enterprise',
+                    tags: ['openai', 'chatgpt-enterprise', 'business', 'security'],
+                    date: new Date(Date.now() - 691200000).toISOString(), // 8 days ago
+                    trending: false
+                },
+                {
+                    id: 'n10',
+                    title: 'Perplexity AI vượt 10 triệu users',
+                    category: 'startups',
+                    source: 'Perplexity Blog',
+                    description: 'Perplexity AI, công cụ tìm kiếm AI, đạt mốc 10 triệu người dùng và huy động 100M USD Series B.',
+                    link: 'https://blog.perplexity.ai/10m-users',
+                    tags: ['perplexity', 'ai-search', 'milestone', 'funding'],
+                    date: new Date(Date.now() - 777600000).toISOString(), // 9 days ago
+                    trending: true
+                }
+            ];
+
+            this.newsData = sampleNewsData;
+        }
+
+        this.saveData();
+        this.renderTechCards();
+        this.renderNewsCards();
+        this.updateStats();
+    }
+
+    showNotification(message) {
+        // Create notification element
+        const notification = document.createElement('div');
+        notification.className = 'notification';
+        notification.innerHTML = `
+            <i class="fas fa-check-circle"></i>
+            <span>${message}</span>
+        `;
+        
+        // Add styles
+        notification.style.cssText = `
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 1rem 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            z-index: 10000;
+            animation: slideIn 0.3s ease-out;
+        `;
+
+        // Add animation
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes slideIn {
+                from {
+                    transform: translateX(100%);
+                    opacity: 0;
+                }
+                to {
+                    transform: translateX(0);
+                    opacity: 1;
+                }
+            }
+        `;
+        document.head.appendChild(style);
+
+        document.body.appendChild(notification);
+
+        // Remove after 3 seconds
+        setTimeout(() => {
+            notification.style.animation = 'slideIn 0.3s ease-out reverse';
+            setTimeout(() => {
+                document.body.removeChild(notification);
+            }, 300);
+        }, 3000);
+    }
+}
+
+// Initialize the app when DOM is loaded
+document.addEventListener('DOMContentLoaded', () => {
+    new AITechHub();
+});
+
+// Add CSS fix for background-clip compatibility
+const style = document.createElement('style');
+style.textContent = `
+    header h1 {
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+`;
+document.head.appendChild(style);

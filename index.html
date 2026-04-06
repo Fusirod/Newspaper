@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Tech Hub - Paper & News Tracking</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><i class="fas fa-brain"></i> AI Tech Hub</h1>
+            <p>Cập nhật công nghệ AI, Computer Vision và tin tức công nghệ mới nhất</p>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <!-- Tab Navigation -->
+            <section class="tab-navigation">
+                <div class="tab-buttons">
+                    <button class="tab-btn active" data-tab="papers">
+                        <i class="fas fa-file-alt"></i> Paper Tracking
+                    </button>
+                    <button class="tab-btn" data-tab="news">
+                        <i class="fas fa-newspaper"></i> News Tracking
+                    </button>
+                </div>
+            </section>
+
+            <!-- Paper Tracking Section -->
+            <section id="papersSection" class="tab-content active">
+                <div class="controls">
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-category="all">
+                            <i class="fas fa-globe"></i> Tất cả
+                        </button>
+                        <button class="filter-btn" data-category="ai">
+                            <i class="fas fa-robot"></i> AI
+                        </button>
+                        <button class="filter-btn" data-category="computer-vision">
+                            <i class="fas fa-eye"></i> Computer Vision
+                        </button>
+                        <button class="filter-btn" data-category="machine-learning">
+                            <i class="fas fa-cogs"></i> Machine Learning
+                        </button>
+                        <button class="filter-btn" data-category="nlp">
+                            <i class="fas fa-language"></i> NLP
+                        </button>
+                    </div>
+                    <div class="add-section">
+                        <button id="addTechBtn" class="add-btn">
+                            <i class="fas fa-plus"></i> Thêm công nghệ mới
+                        </button>
+                    </div>
+                </div>
+
+                <div class="tech-grid">
+                    <div id="techContainer" class="tech-container">
+                        <!-- Các công nghệ sẽ được hiển thị ở đây -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- News Tracking Section -->
+            <section id="newsSection" class="tab-content">
+                <div class="controls">
+                    <div class="filter-buttons">
+                        <button class="news-filter-btn active" data-news-category="all">
+                            <i class="fas fa-globe"></i> Tất cả
+                        </button>
+                        <button class="news-filter-btn" data-news-category="ai-news">
+                            <i class="fas fa-robot"></i> AI News
+                        </button>
+                        <button class="news-filter-btn" data-news-category="tech-giants">
+                            <i class="fas fa-building"></i> Tech Giants
+                        </button>
+                        <button class="news-filter-btn" data-news-category="research">
+                            <i class="fas fa-microscope"></i> Research
+                        </button>
+                        <button class="news-filter-btn" data-news-category="startups">
+                            <i class="fas fa-rocket"></i> Startups
+                        </button>
+                    </div>
+                    <div class="add-section">
+                        <button id="addNewsBtn" class="add-btn">
+                            <i class="fas fa-plus"></i> Thêm tin tức mới
+                        </button>
+                    </div>
+                </div>
+
+                <div class="news-grid">
+                    <div id="newsContainer" class="news-container">
+                        <!-- Các tin tức sẽ được hiển thị ở đây -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- Stats Section -->
+            <section class="stats">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <i class="fas fa-file-alt"></i>
+                        <div>
+                            <h3 id="paperCount">0</h3>
+                            <p>Papers</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <i class="fas fa-newspaper"></i>
+                        <div>
+                            <h3 id="newsCount">0</h3>
+                            <p>News</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <i class="fas fa-calendar-day"></i>
+                        <div>
+                            <h3 id="todayCount">0</h3>
+                            <p>Hôm nay</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <i class="fas fa-fire"></i>
+                        <div>
+                            <h3 id="trendingCount">0</h3>
+                            <p>Đang thịnh hành</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Modal thêm công nghệ mới -->
+    <div id="addTechModal" class="modal">
+        <div class="modal-content">
+            <span class="close tech-close">&times;</span>
+            <h2>Thêm công nghệ mới</h2>
+            <form id="addTechForm">
+                <div class="form-group">
+                    <label for="techName">Tên công nghệ:</label>
+                    <input type="text" id="techName" required>
+                </div>
+                <div class="form-group">
+                    <label for="techCategory">Danh mục:</label>
+                    <select id="techCategory" required>
+                        <option value="ai">AI</option>
+                        <option value="computer-vision">Computer Vision</option>
+                        <option value="machine-learning">Machine Learning</option>
+                        <option value="nlp">NLP</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="techDescription">Mô tả:</label>
+                    <textarea id="techDescription" rows="3" required></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="techLink">Link paper/bài viết:</label>
+                    <input type="url" id="techLink" required>
+                </div>
+                <div class="form-group">
+                    <label for="techTags">Tags (cách nhau bằng dấu phẩy):</label>
+                    <input type="text" id="techTags" placeholder="VD: deep-learning, transformer, vision">
+                </div>
+                <button type="submit" class="submit-btn">
+                    <i class="fas fa-save"></i> Lưu công nghệ
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal thêm tin tức mới -->
+    <div id="addNewsModal" class="modal">
+        <div class="modal-content">
+            <span class="close news-close">&times;</span>
+            <h2>Thêm tin tức mới</h2>
+            <form id="addNewsForm">
+                <div class="form-group">
+                    <label for="newsTitle">Tiêu đề tin tức:</label>
+                    <input type="text" id="newsTitle" required>
+                </div>
+                <div class="form-group">
+                    <label for="newsCategory">Danh mục:</label>
+                    <select id="newsCategory" required>
+                        <option value="ai-news">AI News</option>
+                        <option value="tech-giants">Tech Giants</option>
+                        <option value="research">Research</option>
+                        <option value="startups">Startups</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="newsSource">Nguồn tin:</label>
+                    <input type="text" id="newsSource" placeholder="VD: TechCrunch, OpenAI Blog, ArXiv" required>
+                </div>
+                <div class="form-group">
+                    <label for="newsDescription">Nội dung tóm tắt:</label>
+                    <textarea id="newsDescription" rows="4" required></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="newsLink">Link bài viết gốc:</label>
+                    <input type="url" id="newsLink" required>
+                </div>
+                <div class="form-group">
+                    <label for="newsTags">Tags (cách nhau bằng dấu phẩy):</label>
+                    <input type="text" id="newsTags" placeholder="VD: claude, openai, chatgpt, gemini">
+                </div>
+                <button type="submit" class="submit-btn">
+                    <i class="fas fa-save"></i> Lưu tin tức
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 AI Tech Hub. Built with <i class="fas fa-heart"></i> for AI community.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
