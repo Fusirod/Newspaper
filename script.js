@@ -1,21 +1,27 @@
 class AITechHub {
     constructor() {
-        this.techData = this.loadData('techData');
-        this.newsData = this.loadData('newsData');
+        this.techData = [];
+        this.newsData = [];
         this.currentTechFilter = 'all';
         this.currentNewsFilter = 'all';
         this.currentTab = 'papers';
         this.notificationManager = new NotificationManager();
+        this.dataFetcher = new DataFetcher(this);
         this.newsFetcher = new NewsFetcher(this);
+        this.paperFetcher = new PaperFetcher(this);
         this.init();
     }
 
     init() {
         this.setupEventListeners();
         this.notificationManager.init();
-        this.renderTechCards();
         this.updateStats();
-        this.loadInitialData();
+        this.loadAllData();
+    }
+
+    async loadAllData() {
+        // Load both papers and news from data folder (cho GitHub Pages)
+        await this.dataFetcher.loadAllData();
     }
 
     setupEventListeners() {
@@ -47,6 +53,11 @@ class AITechHub {
         // Add tech button
         document.getElementById('addTechBtn').addEventListener('click', () => {
             this.openTechModal();
+        });
+
+        // Refresh tech/papers button
+        document.getElementById('refreshTechBtn')?.addEventListener('click', () => {
+            this.paperFetcher.fetchPapers(true);
         });
 
         // Add news button
@@ -344,129 +355,12 @@ class AITechHub {
         localStorage.setItem('newsData', JSON.stringify(this.newsData));
     }
 
-    async loadInitialData() {
-        // Load tech data from sample if empty
-        if (this.techData.length === 0) {
-            this.loadSampleTechData();
-        }
-        
-        // Load news from API or cache
-        await this.newsFetcher.loadNews();
-    }
-
-    loadSampleTechData() {
-        const sampleTechData = [
-            {
-                id: '1',
-                name: 'GPT-4 Vision',
-                category: 'ai',
-                description: 'Mô hình ngôn ngữ lớn mới nhất của OpenAI với khả năng hiểu và xử lý hình ảnh, kết hợp văn bản và hình ảnh trong một lần xử lý.',
-                link: 'https://openai.com/gpt-4',
-                tags: ['multimodal', 'vision', 'llm', 'openai'],
-                date: new Date(Date.now() - 86400000).toISOString(),
-                trending: true
-            },
-            {
-                id: '2',
-                name: 'Segment Anything Model 2 (SAM 2)',
-                category: 'computer-vision',
-                description: 'Phiên bản nâng cấp của SAM với khả năng phân đoạn đối tượng thời gian thực trên video và hình ảnh.',
-                link: 'https://segment-anything.com',
-                tags: ['segmentation', 'real-time', 'video', 'meta'],
-                date: new Date(Date.now() - 172800000).toISOString(),
-                trending: true
-            },
-            {
-                id: '3',
-                name: 'LLaMA 3.1',
-                category: 'ai',
-                description: 'Mô hình ngôn ngữ mã nguồn mở mới nhất của Meta với hiệu suất vượt trội và khả năng reasoning cải thiện.',
-                link: 'https://llama.meta.com',
-                tags: ['llm', 'open-source', 'meta', 'reasoning'],
-                date: new Date(Date.now() - 259200000).toISOString(),
-                trending: false
-            },
-            {
-                id: '4',
-                name: 'Diffusion Transformers (DiT)',
-                category: 'machine-learning',
-                description: 'Kiến trúc mới cho diffusion models sử dụng transformers, đạt hiệu suất cao hơn trong image generation.',
-                link: 'https://arxiv.org/abs/2212.09748',
-                tags: ['diffusion', 'transformers', 'image-generation', 'research'],
-                date: new Date(Date.now() - 345600000).toISOString(),
-                trending: true
-            },
-            {
-                id: '5',
-                name: 'CLIP ViT-L/14',
-                category: 'computer-vision',
-                description: 'Phiên bản cải tiến của CLIP với Vision Transformer lớn hơn, khả năng hiểu text-image tốt hơn.',
-                link: 'https://github.com/openai/CLIP',
-                tags: ['clip', 'vision-transformer', 'multimodal', 'openai'],
-                date: new Date(Date.now() - 432000000).toISOString(),
-                trending: false
-            },
-            {
-                id: '6',
-                name: 'Bard Advanced',
-                category: 'nlp',
-                description: 'Phiên bản nâng cấp của Bard với Gemini Pro, khả năng xử lý đa ngôn ngữ và reasoning phức tạp.',
-                link: 'https://bard.google.com',
-                tags: ['nlp', 'gemini', 'google', 'multilingual'],
-                date: new Date(Date.now() - 518400000).toISOString(),
-                trending: true
-            },
-            {
-                id: '7',
-                name: 'Stable Diffusion XL Turbo',
-                category: 'computer-vision',
-                description: 'Phiên bản tối ưu của SDXL với tốc độ tạo ảnh nhanh gấp 2-4 lần mà không giảm chất lượng.',
-                link: 'https://stability.ai',
-                tags: ['stable-diffusion', 'image-generation', 'optimization'],
-                date: new Date(Date.now() - 604800000).toISOString(),
-                trending: false
-            },
-            {
-                id: '8',
-                name: 'Mistral 7B v0.2',
-                category: 'ai',
-                description: 'Mô hình 7B parameters hiệu suất cao, vượt trội so với các mô hình cùng kích thước.',
-                link: 'https://mistral.ai',
-                tags: ['llm', 'efficient', 'open-source', 'mistral'],
-                date: new Date(Date.now() - 691200000).toISOString(),
-                trending: true
-            },
-            {
-                id: '9',
-                name: 'YOLOv8',
-                category: 'computer-vision',
-                description: 'Phiên bản mới nhất của YOLO với độ chính xác và tốc độ được cải thiện, hỗ trợ đa nhiệm vụ.',
-                link: 'https://github.com/ultralytics/ultralytics',
-                tags: ['yolo', 'object-detection', 'real-time', 'ultralytics'],
-                date: new Date(Date.now() - 777600000).toISOString(),
-                trending: false
-            },
-            {
-                id: '10',
-                name: 'Phi-2',
-                category: 'ai',
-                description: 'Mô hình nhỏ nhưng mạnh mẽ của Microsoft, 2.7B parameters với khả năng reasoning đáng kinh ngạc.',
-                link: 'https://huggingface.co/microsoft/phi-2',
-                tags: ['small-model', 'reasoning', 'microsoft', 'efficient'],
-                date: new Date(Date.now() - 864000000).toISOString(),
-                trending: true
-            }
-        ];
-
-        this.techData = sampleTechData;
-        this.saveData();
-        this.renderTechCards();
-        this.updateStats();
-    }
-
-    loadSampleData() {
-        // Deprecated - replaced by loadInitialData
-        this.loadInitialData();
+    async loadAllData() {
+        // Load both papers and news from APIs
+        await Promise.all([
+            this.paperFetcher.loadPapers(),
+            this.newsFetcher.loadNews()
+        ]);
     }
 
     showNotification(message) {
@@ -520,6 +414,277 @@ class AITechHub {
                 document.body.removeChild(notification);
             }, 300);
         }, 3000);
+    }
+}
+
+// Data Fetcher - Load data từ JSON files (cho GitHub Pages)
+class DataFetcher {
+    constructor(app) {
+        this.app = app;
+        this.dataUrl = 'data/';
+    }
+
+    async loadAllData() {
+        console.log('Loading data from JSON files...');
+        
+        try {
+            // Load papers
+            const papersResponse = await fetch(`${this.dataUrl}papers.json`);
+            if (papersResponse.ok) {
+                const papers = await papersResponse.json();
+                this.app.techData = papers;
+                console.log('Loaded', papers.length, 'papers from data/papers.json');
+            } else {
+                console.log('No papers.json found, trying to fetch from arXiv directly...');
+                // Fallback: thử fetch từ arXiv qua proxy
+                await this.app.paperFetcher.loadPapers();
+            }
+            
+            // Load news
+            const newsResponse = await fetch(`${this.dataUrl}news.json`);
+            if (newsResponse.ok) {
+                const news = await newsResponse.json();
+                this.app.newsData = news;
+                console.log('Loaded', news.length, 'news from data/news.json');
+            } else {
+                console.log('No news.json found, trying to fetch from NewsAPI directly...');
+                // Fallback: thử fetch từ NewsAPI (chỉ hoạt động trên localhost)
+                await this.app.newsFetcher.loadNews();
+            }
+            
+            this.app.saveData();
+            this.app.renderTechCards();
+            this.app.renderNewsCards();
+            this.app.updateStats();
+            
+        } catch (error) {
+            console.error('Error loading data:', error);
+            this.app.showNotification('Lỗi tải dữ liệu. Sử dụng fallback.');
+        }
+    }
+}
+
+// Paper Fetcher Class - Tự động lấy papers từ arXiv API
+class PaperFetcher {
+    constructor(app) {
+        this.app = app;
+        this.CACHE_KEY = 'papersCache';
+        this.CACHE_TIME_KEY = 'papersCacheTime';
+        this.CACHE_DURATION = 60 * 60 * 1000; // 60 phút
+    }
+
+    async loadPapers() {
+        // Nếu đã có papers trong localStorage, hiển thị trước
+        if (this.app.techData.length > 0) {
+            this.app.renderTechCards();
+        }
+
+        // Kiểm tra cache
+        const cachedPapers = this.getCachedPapers();
+        if (cachedPapers && !this.isCacheExpired()) {
+            this.app.techData = cachedPapers;
+            this.app.saveData();
+            this.app.renderTechCards();
+            this.app.updateStats();
+            return;
+        }
+
+        // Fetch từ arXiv API
+        await this.fetchPapers();
+    }
+
+    async fetchPapers(forceRefresh = false) {
+        // Kiểm tra rate limit
+        const lastFetch = localStorage.getItem('lastPapersFetch');
+        const now = Date.now();
+        if (!forceRefresh && lastFetch && (now - parseInt(lastFetch)) < 60000) {
+            console.log('Rate limited: Chờ 1 phút giữa các lần fetch');
+            return;
+        }
+
+        try {
+            this.showLoading(true);
+            console.log('Fetching papers from arXiv...');
+            
+            // Fetch papers từ arXiv API - các lĩnh vực AI/ML/CV/NLP
+            const queries = [
+                { term: 'cat:cs.AI', category: 'ai' },
+                { term: 'cat:cs.CV', category: 'computer-vision' },
+                { term: 'cat:cs.LG', category: 'machine-learning' },
+                { term: 'cat:cs.CL', category: 'nlp' }
+            ];
+            
+            const allPapers = [];
+            
+            for (const query of queries) {
+                try {
+                    // Sử dụng CORS proxy để bypass CORS error
+                    const arxivUrl = `https://export.arxiv.org/api/query?search_query=${encodeURIComponent(query.term)}&sortBy=submittedDate&sortOrder=descending&max_results=5`;
+                    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(arxivUrl)}`;
+                    console.log('Fetching via proxy:', arxivUrl);
+                    
+                    const response = await fetch(proxyUrl);
+                    console.log('Response status:', response.status);
+                    
+                    if (!response.ok) {
+                        console.error('arXiv API error:', response.status, response.statusText);
+                        continue;
+                    }
+                    
+                    const xmlText = await response.text();
+                    console.log('Got XML, length:', xmlText.length);
+                    
+                    // Parse XML
+                    const parser = new DOMParser();
+                    const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+                    const entries = xmlDoc.querySelectorAll('entry');
+                    console.log('Found entries:', entries.length, 'for', query.category);
+                    
+                    entries.forEach((entry, index) => {
+                        const paper = this.parseArxivEntry(entry, query.category, index);
+                        if (paper) {
+                            allPapers.push(paper);
+                            console.log('Parsed paper:', paper.name.substring(0, 50));
+                        }
+                    });
+                } catch (queryError) {
+                    console.error('Error fetching query', query.term, ':', queryError);
+                }
+            }
+
+            console.log('Total papers fetched:', allPapers.length);
+
+            // Sắp xếp theo ngày và lấy 20 papers mới nhất
+            const sortedPapers = allPapers.sort((a, b) => 
+                new Date(b.date) - new Date(a.date)
+            ).slice(0, 20);
+
+            // Merge với data hiện tại
+            const existingLinks = new Set(this.app.techData.map(t => t.link));
+            const newPapers = sortedPapers.filter(p => !existingLinks.has(p.link));
+            
+            if (newPapers.length > 0 || sortedPapers.length > 0) {
+                this.app.techData = [...newPapers, ...this.app.techData]
+                    .sort((a, b) => new Date(b.date) - new Date(a.date))
+                    .slice(0, 20);
+                this.app.saveData();
+                this.cachePapers(this.app.techData);
+                
+                this.app.showNotification(`Đã cập nhật ${newPapers.length || sortedPapers.length} papers mới!`);
+            } else {
+                this.app.showNotification('Không có papers mới');
+            }
+
+            localStorage.setItem('lastPapersFetch', now.toString());
+            this.app.renderTechCards();
+            this.app.updateStats();
+
+        } catch (error) {
+            console.error('Error fetching papers:', error);
+            this.app.showNotification('Lỗi khi tải papers. Sử dụng dữ liệu local.');
+            
+            if (this.app.techData.length === 0) {
+                this.loadFallbackPapers();
+            }
+        } finally {
+            this.showLoading(false);
+        }
+    }
+
+    parseArxivEntry(entry, category, index) {
+        try {
+            const title = entry.querySelector('title')?.textContent?.trim() || 'No title';
+            const summary = entry.querySelector('summary')?.textContent?.trim() || 'No abstract';
+            const published = entry.querySelector('published')?.textContent;
+            const id = entry.querySelector('id')?.textContent;
+            
+            // Lấy authors
+            const authors = Array.from(entry.querySelectorAll('author name')).map(a => a.textContent).slice(0, 3);
+            const authorStr = authors.join(', ') + (entry.querySelectorAll('author').length > 3 ? ' et al.' : '');
+            
+            // Extract tags từ categories
+            const categories = Array.from(entry.querySelectorAll('category')).map(c => c.getAttribute('term'));
+            const tags = this.extractTags(categories.join(' ') + ' ' + title + ' ' + summary);
+            
+            return {
+                id: `arxiv_${Date.now()}_${index}`,
+                name: title,
+                category: category,
+                description: summary.substring(0, 200) + (summary.length > 200 ? '...' : ''),
+                link: id || `https://arxiv.org/abs/${id?.split('/').pop()}`,
+                tags: tags,
+                date: published || new Date().toISOString(),
+                trending: Math.random() > 0.7,
+                source: `arXiv - ${authorStr}`
+            };
+        } catch (e) {
+            console.error('Error parsing arXiv entry:', e);
+            return null;
+        }
+    }
+
+    extractTags(text) {
+        const keywords = ['AI', 'Neural', 'Deep Learning', 'Machine Learning', 'Vision', 
+                         'NLP', 'Transformer', 'GAN', 'CNN', 'RNN', 'LLM', 'GPT', 'BERT',
+                         'Diffusion', 'Reinforcement Learning', 'Optimization', 'Robotics'];
+        return keywords.filter(kw => text.toLowerCase().includes(kw.toLowerCase())).slice(0, 4);
+    }
+
+    getCachedPapers() {
+        const cached = localStorage.getItem(this.CACHE_KEY);
+        return cached ? JSON.parse(cached) : null;
+    }
+
+    cachePapers(papers) {
+        localStorage.setItem(this.CACHE_KEY, JSON.stringify(papers));
+        localStorage.setItem(this.CACHE_TIME_KEY, Date.now().toString());
+    }
+
+    isCacheExpired() {
+        const cacheTime = localStorage.getItem(this.CACHE_TIME_KEY);
+        if (!cacheTime) return true;
+        return (Date.now() - parseInt(cacheTime)) > this.CACHE_DURATION;
+    }
+
+    loadFallbackPapers() {
+        const fallbackPapers = [
+            {
+                id: 'fallback_1',
+                name: 'Chưa có dữ liệu papers',
+                category: 'ai',
+                description: 'Nhấn nút "Cập nhật papers" để tải papers mới nhất từ arXiv.',
+                link: 'https://arxiv.org/',
+                tags: ['setup', 'arxiv'],
+                date: new Date().toISOString(),
+                trending: false,
+                source: 'AI Tech Hub'
+            }
+        ];
+        
+        this.app.techData = fallbackPapers;
+        this.app.saveData();
+        this.app.renderTechCards();
+        this.app.updateStats();
+    }
+
+    showLoading(show) {
+        const container = document.getElementById('techContainer');
+        if (!container) return;
+
+        if (show) {
+            const existing = container.querySelector('.loading-state');
+            if (!existing) {
+                container.insertAdjacentHTML('afterbegin', `
+                    <div class="loading-state">
+                        <i class="fas fa-spinner fa-spin"></i>
+                        <p>Đang tải papers...</p>
+                    </div>
+                `);
+            }
+        } else {
+            const loading = container.querySelector('.loading-state');
+            if (loading) loading.remove();
+        }
     }
 }
 
@@ -592,39 +757,62 @@ class NewsFetcher {
 
         try {
             this.showLoading(true);
+            console.log('Fetching news from NewsAPI...');
+            console.log('API Key:', this.API_KEY.substring(0, 10) + '...');
             
             // Fetch tin tức AI/Technology từ NewsAPI
             const queries = [
                 'artificial intelligence',
-                'machine learning',
-                'OpenAI',
-                'Google AI',
-                'Microsoft AI'
+                'machine learning'
             ];
             
             const allArticles = [];
             
-            for (const query of queries.slice(0, 2)) { // Giới hạn 2 queries để tránh quota
-                const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sortBy=publishedAt&language=en&pageSize=10&apiKey=${this.API_KEY}`;
-                
-                const response = await fetch(url);
-                const data = await response.json();
-                
-                if (data.status === 'ok' && data.articles) {
-                    allArticles.push(...data.articles);
+            for (const query of queries.slice(0, 2)) {
+                try {
+                    const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sortBy=publishedAt&language=en&pageSize=15&apiKey=${this.API_KEY}`;
+                    console.log('Fetching URL:', url.substring(0, 80) + '...');
+                    
+                    const response = await fetch(url);
+                    console.log('NewsAPI Response status:', response.status);
+                    
+                    if (!response.ok) {
+                        console.error('NewsAPI HTTP error:', response.status, response.statusText);
+                        continue;
+                    }
+                    
+                    const data = await response.json();
+                    console.log('NewsAPI Response:', data);
+                    
+                    if (data.status === 'ok' && data.articles) {
+                        console.log('Got', data.articles.length, 'articles for query:', query);
+                        allArticles.push(...data.articles);
+                    } else if (data.status === 'error') {
+                        console.error('NewsAPI Error:', data.message);
+                    }
+                } catch (queryError) {
+                    console.error('Error fetching query', query, ':', queryError.message);
                 }
             }
 
-            // Loại bỏ trùng lặp và chuyển đổi format
-            const uniqueArticles = this.removeDuplicates(allArticles);
-            const newsData = uniqueArticles.map((article, index) => this.convertToNewsFormat(article, index));
+            console.log('Total articles fetched:', allArticles.length);
 
-            // Merge với data hiện tại, ưu tiên tin mới
+            // Loại bỏ trùng lặp, sắp xếp theo thời gian và lấy 20 tin gần nhất
+            const uniqueArticles = this.removeDuplicates(allArticles);
+            const sortedArticles = uniqueArticles.sort((a, b) => 
+                new Date(b.publishedAt) - new Date(a.publishedAt)
+            ).slice(0, 20);
+            const newsData = sortedArticles.map((article, index) => this.convertToNewsFormat(article, index));
+
+            // Merge với data hiện tại, giữ tối đa 20 tin gần nhất
             const existingLinks = new Set(this.app.newsData.map(n => n.link));
             const newArticles = newsData.filter(n => !existingLinks.has(n.link));
             
             if (newArticles.length > 0) {
-                this.app.newsData = [...newArticles.slice(0, 10), ...this.app.newsData].slice(0, 50);
+                // Thêm tin mới vào đầu và giữ tối đa 20 tin
+                this.app.newsData = [...newArticles, ...this.app.newsData]
+                    .sort((a, b) => new Date(b.date) - new Date(a.date))
+                    .slice(0, 20);
                 this.app.saveData();
                 this.cacheNews(this.app.newsData);
                 
