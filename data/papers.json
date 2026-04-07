@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1775577768032_0",
+    "id": "arxiv_1775583955230_0",
     "name": "Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision",
     "category": "computer-vision",
     "description": "We present Vanast, a unified framework that generates garment-transferred human animation videos directly from a single human image, garment images, and a pose guidance video. Conventional two-stage p...",
@@ -16,7 +16,7 @@
     "source": "arXiv - Hyunsoo Cha, Wonjung Woo, Byungjun Kim et al."
   },
   {
-    "id": "arxiv_1775577768032_1",
+    "id": "arxiv_1775583955230_1",
     "name": "PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding",
     "category": "computer-vision",
     "description": "Scene-level point cloud understanding remains challenging due to diverse geometries, imbalanced category distributions, and highly varied spatial layouts. Existing methods improve object-level perform...",
@@ -29,7 +29,7 @@
     "source": "arXiv - Siyuan Liu, Chaoqun Zheng, Xin Zhou et al."
   },
   {
-    "id": "arxiv_1775577768315_0",
+    "id": "arxiv_1775583955263_0",
     "name": "Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection",
     "category": "nlp",
     "description": "The misuse of large language models (LLMs) requires precise detection of synthetic text. Existing works mainly follow binary or ternary classification settings, which can only distinguish pure human/L...",
@@ -39,11 +39,11 @@
       "LLM"
     ],
     "date": "2026-04-06T17:59:55Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yang Li, Qiang Sheng, Zhengjia Wang et al."
   },
   {
-    "id": "arxiv_1775577768033_2",
+    "id": "arxiv_1775583955230_2",
     "name": "LoMa: Local Feature Matching Revisited",
     "category": "computer-vision",
     "description": "Local feature matching has long been a fundamental component of 3D vision systems such as Structure-from-Motion (SfM), yet progress has lagged behind the rapid advances of modern data-driven approache...",
@@ -57,7 +57,7 @@
     "source": "arXiv - David Nordström, Johan Edstedt, Georg Bökman et al."
   },
   {
-    "id": "arxiv_1775577768005_0",
+    "id": "arxiv_1775583955211_0",
     "name": "Early Stopping for Large Reasoning Models via Confidence Dynamics",
     "category": "ai",
     "description": "Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to ov...",
@@ -70,7 +70,7 @@
     "source": "arXiv - Parsa Hosseini, Sumit Nawathe, Mahdi Salmani et al."
   },
   {
-    "id": "arxiv_1775577768289_0",
+    "id": "arxiv_1775583955247_0",
     "name": "Early Stopping for Large Reasoning Models via Confidence Dynamics",
     "category": "machine-learning",
     "description": "Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to ov...",
@@ -79,11 +79,11 @@
       "AI"
     ],
     "date": "2026-04-06T17:59:45Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Parsa Hosseini, Sumit Nawathe, Mahdi Salmani et al."
   },
   {
-    "id": "arxiv_1775577768315_1",
+    "id": "arxiv_1775583955263_1",
     "name": "Early Stopping for Large Reasoning Models via Confidence Dynamics",
     "category": "nlp",
     "description": "Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to ov...",
@@ -96,7 +96,7 @@
     "source": "arXiv - Parsa Hosseini, Sumit Nawathe, Mahdi Salmani et al."
   },
   {
-    "id": "arxiv_1775577768033_3",
+    "id": "arxiv_1775583955230_3",
     "name": "Rethinking Model Efficiency: Multi-Agent Inference with Large Models",
     "category": "computer-vision",
     "description": "Most vision-language models (VLMs) apply a large language model (LLM) as the decoder, where the response tokens are generated sequentially through autoregression. Therefore, the number of output token...",
@@ -110,7 +110,7 @@
     "source": "arXiv - Sixun Dong, Juhua Hu, Steven Li et al."
   },
   {
-    "id": "arxiv_1775577768033_4",
+    "id": "arxiv_1775583955230_4",
     "name": "Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo",
     "category": "computer-vision",
     "description": "In this paper, we explore the design space of procedural rules for multi-view stereo (MVS). We demonstrate that we can generate effective training data using SimpleProc: a new, fully procedural genera...",
@@ -119,11 +119,11 @@
       "AI"
     ],
     "date": "2026-04-06T17:59:05Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zeyu Ma, Alexander Raistrick, Jia Deng"
   },
   {
-    "id": "arxiv_1775577768005_1",
+    "id": "arxiv_1775583955211_1",
     "name": "Your Pre-trained Diffusion Model Secretly Knows Restoration",
     "category": "ai",
     "description": "Pre-trained diffusion models have enabled significant advancements in All-in-One Restoration (AiOR), offering improved perceptual quality and generalization. However, diffusion-based restoration metho...",
@@ -134,11 +134,11 @@
       "Optimization"
     ],
     "date": "2026-04-06T17:59:04Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sudarshan Rajagopalan, Vishal M. Patel"
   },
   {
-    "id": "arxiv_1775577768289_1",
+    "id": "arxiv_1775583955247_1",
     "name": "Stratifying Reinforcement Learning with Signal Temporal Logic",
     "category": "machine-learning",
     "description": "In this paper, we develop a stratification-based semantics for Signal Temporal Logic (STL) in which each atomic predicate is interpreted as a membership test in a stratified space. This perspective re...",
@@ -147,11 +147,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-04-06T17:58:58Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Justin Curry, Alberto Speranzon"
   },
   {
-    "id": "arxiv_1775577768316_2",
+    "id": "arxiv_1775583955264_2",
     "name": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
     "category": "nlp",
     "description": "Extended reasoning in large language models (LLMs) creates severe KV cache memory bottlenecks. Leading KV cache compression methods estimate KV importance using attention scores from recent post-RoPE ...",
@@ -165,7 +165,7 @@
     "source": "arXiv - Weian Mao, Xi Lin, Wei Huang et al."
   },
   {
-    "id": "arxiv_1775577768289_2",
+    "id": "arxiv_1775583955247_2",
     "name": "PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods",
     "category": "machine-learning",
     "description": "We study physics-informed neural networks (PINNs) as numerical tools for the optimal control of semilinear partial differential equations. We first recall the classical direct and indirect viewpoints ...",
@@ -175,11 +175,11 @@
       "Neural"
     ],
     "date": "2026-04-06T17:57:53Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhen Zhang, Shanqing Liu, Alessandro Alla et al."
   },
   {
-    "id": "arxiv_1775577768005_2",
+    "id": "arxiv_1775583955211_2",
     "name": "Vero: An Open RL Recipe for General Visual Reasoning",
     "category": "ai",
     "description": "What does it take to build a visual reasoner that works across charts, science, spatial understanding, and open-ended tasks? The strongest vision-language models (VLMs) show such broad visual reasonin...",
@@ -194,7 +194,7 @@
     "source": "arXiv - Gabriel Sarch, Linrong Cai, Qunzhong Wang et al."
   },
   {
-    "id": "arxiv_1775577768316_3",
+    "id": "arxiv_1775583955264_3",
     "name": "Vero: An Open RL Recipe for General Visual Reasoning",
     "category": "nlp",
     "description": "What does it take to build a visual reasoner that works across charts, science, spatial understanding, and open-ended tasks? The strongest vision-language models (VLMs) show such broad visual reasonin...",
@@ -205,11 +205,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-04-06T17:56:25Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Gabriel Sarch, Linrong Cai, Qunzhong Wang et al."
   },
   {
-    "id": "arxiv_1775577768289_3",
+    "id": "arxiv_1775583955247_3",
     "name": "Empowering Power Outage Prediction with Spatially Aware Hybrid Graph Neural Networks and Contrastive Learning",
     "category": "machine-learning",
     "description": "Extreme weather events, such as severe storms, hurricanes, snowstorms, and ice storms, which are exacerbated by climate change, frequently cause widespread power outages. These outages halt industrial...",
@@ -222,7 +222,7 @@
     "source": "arXiv - Xuyang Shen, Zijie Pan, Diego Cerrai et al."
   },
   {
-    "id": "arxiv_1775577768005_3",
+    "id": "arxiv_1775583955211_3",
     "name": "Analyzing Symbolic Properties for DRL Agents in Systems and Networking",
     "category": "ai",
     "description": "Deep reinforcement learning (DRL) has shown remarkable performance on complex control problems in systems and networking, including adaptive video streaming, wireless resource management, and congesti...",
@@ -236,7 +236,7 @@
     "source": "arXiv - Mohammad Zangooei, Jannis Weil, Amr Rizk et al."
   },
   {
-    "id": "arxiv_1775577768289_4",
+    "id": "arxiv_1775583955248_4",
     "name": "Analyzing Symbolic Properties for DRL Agents in Systems and Networking",
     "category": "machine-learning",
     "description": "Deep reinforcement learning (DRL) has shown remarkable performance on complex control problems in systems and networking, including adaptive video streaming, wireless resource management, and congesti...",
@@ -250,7 +250,7 @@
     "source": "arXiv - Mohammad Zangooei, Jannis Weil, Amr Rizk et al."
   },
   {
-    "id": "arxiv_1775577768006_4",
+    "id": "arxiv_1775583955212_4",
     "name": "How AI Aggregation Affects Knowledge",
     "category": "ai",
     "description": "Artificial intelligence (AI) changes social learning when aggregated outputs become training data for future predictions. To study this, we extend the DeGroot model by introducing an AI aggregator tha...",
@@ -263,7 +263,7 @@
     "source": "arXiv - Daron Acemoglu, Tianyi Lin, Asuman Ozdaglar et al."
   },
   {
-    "id": "arxiv_1775577768316_4",
+    "id": "arxiv_1775583955264_4",
     "name": "QED-Nano: Teaching a Tiny Model to Prove Hard Theorems",
     "category": "nlp",
     "description": "Proprietary AI systems have recently demonstrated impressive capabilities on complex proof-based problems, with gold-level performance reported at the 2025 International Mathematical Olympiad (IMO). H...",
