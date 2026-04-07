@@ -1,89 +1,36 @@
 [
   {
-    "id": "arxiv_1775549080805_0",
-    "name": "Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection",
-    "category": "nlp",
-    "description": "The misuse of large language models (LLMs) requires precise detection of synthetic text. Existing works mainly follow binary or ternary classification settings, which can only distinguish pure human/L...",
-    "link": "http://arxiv.org/abs/2604.04932v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-04-06T17:59:55Z",
-    "trending": false,
-    "source": "arXiv - Yang Li, Qiang Sheng, Zhengjia Wang et al."
-  },
-  {
-    "id": "arxiv_1775549065488_0",
+    "id": "arxiv_1775555771561_0",
     "name": "Early Stopping for Large Reasoning Models via Confidence Dynamics",
-    "category": "machine-learning",
+    "category": "ai",
     "description": "Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to ov...",
     "link": "http://arxiv.org/abs/2604.04930v1",
     "tags": [
       "AI"
     ],
     "date": "2026-04-06T17:59:45Z",
-    "trending": false,
-    "source": "arXiv - Parsa Hosseini, Sumit Nawathe, Mahdi Salmani et al."
-  },
-  {
-    "id": "arxiv_1775549080805_1",
-    "name": "Early Stopping for Large Reasoning Models via Confidence Dynamics",
-    "category": "nlp",
-    "description": "Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to ov...",
-    "link": "http://arxiv.org/abs/2604.04930v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-06T17:59:45Z",
-    "trending": false,
-    "source": "arXiv - Parsa Hosseini, Sumit Nawathe, Mahdi Salmani et al."
-  },
-  {
-    "id": "arxiv_1775549065488_1",
-    "name": "Stratifying Reinforcement Learning with Signal Temporal Logic",
-    "category": "machine-learning",
-    "description": "In this paper, we develop a stratification-based semantics for Signal Temporal Logic (STL) in which each atomic predicate is interpreted as a membership test in a stratified space. This perspective re...",
-    "link": "http://arxiv.org/abs/2604.04923v1",
-    "tags": [
-      "Reinforcement Learning"
-    ],
-    "date": "2026-04-06T17:58:58Z",
     "trending": true,
-    "source": "arXiv - Justin Curry, Alberto Speranzon"
+    "source": "arXiv - Parsa Hosseini, Sumit Nawathe, Mahdi Salmani et al."
   },
   {
-    "id": "arxiv_1775549080806_2",
-    "name": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
-    "category": "nlp",
-    "description": "Extended reasoning in large language models (LLMs) creates severe KV cache memory bottlenecks. Leading KV cache compression methods estimate KV importance using attention scores from recent post-RoPE ...",
-    "link": "http://arxiv.org/abs/2604.04921v1",
+    "id": "arxiv_1775555771561_1",
+    "name": "Your Pre-trained Diffusion Model Secretly Knows Restoration",
+    "category": "ai",
+    "description": "Pre-trained diffusion models have enabled significant advancements in All-in-One Restoration (AiOR), offering improved perceptual quality and generalization. However, diffusion-based restoration metho...",
+    "link": "http://arxiv.org/abs/2604.04924v1",
     "tags": [
       "AI",
-      "LLM"
+      "Diffusion",
+      "Optimization"
     ],
-    "date": "2026-04-06T17:58:42Z",
+    "date": "2026-04-06T17:59:04Z",
     "trending": false,
-    "source": "arXiv - Weian Mao, Xi Lin, Wei Huang et al."
+    "source": "arXiv - Sudarshan Rajagopalan, Vishal M. Patel"
   },
   {
-    "id": "arxiv_1775549065488_2",
-    "name": "PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods",
-    "category": "machine-learning",
-    "description": "We study physics-informed neural networks (PINNs) as numerical tools for the optimal control of semilinear partial differential equations. We first recall the classical direct and indirect viewpoints ...",
-    "link": "http://arxiv.org/abs/2604.04920v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-04-06T17:57:53Z",
-    "trending": false,
-    "source": "arXiv - Zhen Zhang, Shanqing Liu, Alessandro Alla et al."
-  },
-  {
-    "id": "arxiv_1775549080806_3",
+    "id": "arxiv_1775555771561_2",
     "name": "Vero: An Open RL Recipe for General Visual Reasoning",
-    "category": "nlp",
+    "category": "ai",
     "description": "What does it take to build a visual reasoner that works across charts, science, spatial understanding, and open-ended tasks? The strongest vision-language models (VLMs) show such broad visual reasonin...",
     "link": "http://arxiv.org/abs/2604.04917v1",
     "tags": [
@@ -96,22 +43,9 @@
     "source": "arXiv - Gabriel Sarch, Linrong Cai, Qunzhong Wang et al."
   },
   {
-    "id": "arxiv_1775549065488_3",
-    "name": "Empowering Power Outage Prediction with Spatially Aware Hybrid Graph Neural Networks and Contrastive Learning",
-    "category": "machine-learning",
-    "description": "Extreme weather events, such as severe storms, hurricanes, snowstorms, and ice storms, which are exacerbated by climate change, frequently cause widespread power outages. These outages halt industrial...",
-    "link": "http://arxiv.org/abs/2604.04916v1",
-    "tags": [
-      "Neural"
-    ],
-    "date": "2026-04-06T17:56:03Z",
-    "trending": true,
-    "source": "arXiv - Xuyang Shen, Zijie Pan, Diego Cerrai et al."
-  },
-  {
-    "id": "arxiv_1775549065488_4",
+    "id": "arxiv_1775555771561_3",
     "name": "Analyzing Symbolic Properties for DRL Agents in Systems and Networking",
-    "category": "machine-learning",
+    "category": "ai",
     "description": "Deep reinforcement learning (DRL) has shown remarkable performance on complex control problems in systems and networking, including adaptive video streaming, wireless resource management, and congesti...",
     "link": "http://arxiv.org/abs/2604.04914v1",
     "tags": [
@@ -119,22 +53,20 @@
       "Reinforcement Learning"
     ],
     "date": "2026-04-06T17:55:15Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Mohammad Zangooei, Jannis Weil, Amr Rizk et al."
   },
   {
-    "id": "arxiv_1775549080806_4",
-    "name": "QED-Nano: Teaching a Tiny Model to Prove Hard Theorems",
-    "category": "nlp",
-    "description": "Proprietary AI systems have recently demonstrated impressive capabilities on complex proof-based problems, with gold-level performance reported at the 2025 International Mathematical Olympiad (IMO). H...",
-    "link": "http://arxiv.org/abs/2604.04898v1",
+    "id": "arxiv_1775555771562_4",
+    "name": "How AI Aggregation Affects Knowledge",
+    "category": "ai",
+    "description": "Artificial intelligence (AI) changes social learning when aggregated outputs become training data for future predictions. To study this, we extend the DeGroot model by introducing an AI aggregator tha...",
+    "link": "http://arxiv.org/abs/2604.04906v1",
     "tags": [
-      "AI",
-      "GPT",
-      "Reinforcement Learning"
+      "AI"
     ],
-    "date": "2026-04-06T17:44:25Z",
+    "date": "2026-04-06T17:51:34Z",
     "trending": false,
-    "source": "arXiv -  LM-Provers, Yuxiao Qu, Amrith Setlur et al."
+    "source": "arXiv - Daron Acemoglu, Tianyi Lin, Asuman Ozdaglar et al."
   }
 ]
