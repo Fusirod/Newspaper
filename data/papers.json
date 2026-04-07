@@ -1,284 +1,280 @@
 [
   {
-    "id": "arxiv_1775524285203_0",
-    "name": "Position: Logical Soundness is not a Reliable Criterion for Neurosymbolic Fact-Checking with LLMs",
+    "id": "arxiv_1775535776761_0",
+    "name": "Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision",
+    "category": "computer-vision",
+    "description": "We present Vanast, a unified framework that generates garment-transferred human animation videos directly from a single human image, garment images, and a pose guidance video. Conventional two-stage p...",
+    "link": "http://arxiv.org/abs/2604.04934v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer",
+      "Diffusion"
+    ],
+    "date": "2026-04-06T17:59:59Z",
+    "trending": false,
+    "source": "arXiv - Hyunsoo Cha, Wonjung Woo, Byungjun Kim et al."
+  },
+  {
+    "id": "arxiv_1775535776761_1",
+    "name": "PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding",
+    "category": "computer-vision",
+    "description": "Scene-level point cloud understanding remains challenging due to diverse geometries, imbalanced category distributions, and highly varied spatial layouts. Existing methods improve object-level perform...",
+    "link": "http://arxiv.org/abs/2604.04933v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-04-06T17:59:58Z",
+    "trending": false,
+    "source": "arXiv - Siyuan Liu, Chaoqun Zheng, Xin Zhou et al."
+  },
+  {
+    "id": "arxiv_1775535776796_0",
+    "name": "Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection",
     "category": "nlp",
-    "description": "As large language models (LLMs) are increasing integrated into fact-checking pipelines, formal logic is often proposed as a rigorous means by which to mitigate bias, errors and hallucinations in these...",
-    "link": "http://arxiv.org/abs/2604.04177v1",
+    "description": "The misuse of large language models (LLMs) requires precise detection of synthetic text. Existing works mainly follow binary or ternary classification settings, which can only distinguish pure human/L...",
+    "link": "http://arxiv.org/abs/2604.04932v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-04-05T16:48:57Z",
+    "date": "2026-04-06T17:59:55Z",
     "trending": false,
-    "source": "arXiv - Jason Chan, Robert Gaizauskas, Zhixue Zhao"
+    "source": "arXiv - Yang Li, Qiang Sheng, Zhengjia Wang et al."
   },
   {
-    "id": "arxiv_1775524285040_0",
-    "name": "Uncertainty-Aware Foundation Models for Clinical Data",
-    "category": "machine-learning",
-    "description": "Healthcare foundation models have largely followed paradigms from natural language processing and computer vision, emphasizing large scale pretraining and deterministic representations over heterogene...",
-    "link": "http://arxiv.org/abs/2604.04175v1",
+    "id": "arxiv_1775535776762_2",
+    "name": "LoMa: Local Feature Matching Revisited",
+    "category": "computer-vision",
+    "description": "Local feature matching has long been a fundamental component of 3D vision systems such as Structure-from-Motion (SfM), yet progress has lagged behind the rapid advances of modern data-driven approache...",
+    "link": "http://arxiv.org/abs/2604.04931v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-04-05T16:44:13Z",
-    "trending": false,
-    "source": "arXiv - Qian Zhou, Yuanyun Zhang, Shi Li"
+    "date": "2026-04-06T17:59:49Z",
+    "trending": true,
+    "source": "arXiv - David Nordström, Johan Edstedt, Georg Bökman et al."
   },
   {
-    "id": "arxiv_1775524285203_1",
-    "name": "A Semi-Automated Annotation Workflow for Paediatric Histopathology Reports Using Small Language Models",
-    "category": "nlp",
-    "description": "Electronic Patient Record (EPR) systems contain valuable clinical information, but much of it is trapped in unstructured text, limiting its use for research and decision-making. Large language models ...",
-    "link": "http://arxiv.org/abs/2604.04168v1",
-    "tags": [
-      "AI",
-      "NLP",
-      "BERT"
-    ],
-    "date": "2026-04-05T16:15:39Z",
-    "trending": false,
-    "source": "arXiv - Avish Vijayaraghavan, Jaskaran Singh Kawatra, Sebin Sabu et al."
-  },
-  {
-    "id": "arxiv_1775524285040_1",
-    "name": "The Geometric Alignment Tax: Tokenization vs. Continuous Geometry in Scientific Foundation Models",
-    "category": "machine-learning",
-    "description": "Foundation models for biology and physics optimize predictive accuracy, but their internal representations systematically fail to preserve the continuous geometry of the systems they model. We identif...",
-    "link": "http://arxiv.org/abs/2604.04155v1",
+    "id": "arxiv_1775535776743_0",
+    "name": "Early Stopping for Large Reasoning Models via Confidence Dynamics",
+    "category": "ai",
+    "description": "Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to ov...",
+    "link": "http://arxiv.org/abs/2604.04930v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-04-05T15:45:49Z",
+    "date": "2026-04-06T17:59:45Z",
     "trending": false,
-    "source": "arXiv - Prashant C. Raju"
+    "source": "arXiv - Parsa Hosseini, Sumit Nawathe, Mahdi Salmani et al."
   },
   {
-    "id": "arxiv_1775524285040_2",
-    "name": "Non-Equilibrium Stochastic Dynamics as a Unified Framework for Insight and Repetitive Learning: A Kramers Escape Approach to Continual Learning",
+    "id": "arxiv_1775535776779_0",
+    "name": "Early Stopping for Large Reasoning Models via Confidence Dynamics",
     "category": "machine-learning",
-    "description": "Continual learning in artificial neural networks is fundamentally limited by the stability--plasticity dilemma: systems that retain prior knowledge tend to resist acquiring new knowledge, and vice ver...",
-    "link": "http://arxiv.org/abs/2604.04154v1",
+    "description": "Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to ov...",
+    "link": "http://arxiv.org/abs/2604.04930v1",
     "tags": [
-      "AI",
-      "Neural",
-      "Diffusion"
+      "AI"
     ],
-    "date": "2026-04-05T15:42:23Z",
-    "trending": true,
-    "source": "arXiv - Gunn Kim"
-  },
-  {
-    "id": "arxiv_1775524285041_3",
-    "name": "Uncertainty-Aware Test-Time Adaptation for Cross-Region Spatio-Temporal Fusion of Land Surface Temperature",
-    "category": "machine-learning",
-    "description": "Deep learning models have shown great promise in diverse remote sensing applications. However, they often struggle to generalize across geographic regions unseen during training due to domain shifts. ...",
-    "link": "http://arxiv.org/abs/2604.04153v1",
-    "tags": [
-      "AI",
-      "Deep Learning"
-    ],
-    "date": "2026-04-05T15:33:40Z",
+    "date": "2026-04-06T17:59:45Z",
     "trending": false,
-    "source": "arXiv - Sofiane Bouaziz, Adel Hafiane, Raphael Canals et al."
+    "source": "arXiv - Parsa Hosseini, Sumit Nawathe, Mahdi Salmani et al."
   },
   {
-    "id": "arxiv_1775524285203_2",
-    "name": "Many Preferences, Few Policies: Towards Scalable Language Model Personalization",
+    "id": "arxiv_1775535776796_1",
+    "name": "Early Stopping for Large Reasoning Models via Confidence Dynamics",
     "category": "nlp",
-    "description": "The holy grail of LLM personalization is a single LLM for each user, perfectly aligned with that user's preferences. However, maintaining a separate LLM per user is impractical due to constraints on c...",
-    "link": "http://arxiv.org/abs/2604.04144v1",
+    "description": "Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to ov...",
+    "link": "http://arxiv.org/abs/2604.04930v1",
     "tags": [
-      "AI",
+      "AI"
+    ],
+    "date": "2026-04-06T17:59:45Z",
+    "trending": false,
+    "source": "arXiv - Parsa Hosseini, Sumit Nawathe, Mahdi Salmani et al."
+  },
+  {
+    "id": "arxiv_1775535776762_3",
+    "name": "Rethinking Model Efficiency: Multi-Agent Inference with Large Models",
+    "category": "computer-vision",
+    "description": "Most vision-language models (VLMs) apply a large language model (LLM) as the decoder, where the response tokens are generated sequentially through autoregression. Therefore, the number of output token...",
+    "link": "http://arxiv.org/abs/2604.04929v1",
+    "tags": [
+      "Vision",
       "LLM"
     ],
-    "date": "2026-04-05T15:12:07Z",
+    "date": "2026-04-06T17:59:35Z",
     "trending": false,
-    "source": "arXiv - Cheol Woo Kum, Jai Moondra, Roozbeh Nahavandi et al."
+    "source": "arXiv - Sixun Dong, Juhua Hu, Steven Li et al."
   },
   {
-    "id": "arxiv_1775524285041_4",
-    "name": "Primal-Dual Methods for Nonsmooth Nonconvex Optimization with Orthogonality Constraints",
-    "category": "machine-learning",
-    "description": "Recent advancements in data science have significantly elevated the importance of orthogonally constrained optimization problems. The Riemannian approach has become a popular technique for addressing ...",
-    "link": "http://arxiv.org/abs/2604.04130v1",
+    "id": "arxiv_1775535776762_4",
+    "name": "Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo",
+    "category": "computer-vision",
+    "description": "In this paper, we explore the design space of procedural rules for multi-view stereo (MVS). We demonstrate that we can generate effective training data using SimpleProc: a new, fully procedural genera...",
+    "link": "http://arxiv.org/abs/2604.04925v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-04-06T17:59:05Z",
+    "trending": false,
+    "source": "arXiv - Zeyu Ma, Alexander Raistrick, Jia Deng"
+  },
+  {
+    "id": "arxiv_1775535776743_1",
+    "name": "Your Pre-trained Diffusion Model Secretly Knows Restoration",
+    "category": "ai",
+    "description": "Pre-trained diffusion models have enabled significant advancements in All-in-One Restoration (AiOR), offering improved perceptual quality and generalization. However, diffusion-based restoration metho...",
+    "link": "http://arxiv.org/abs/2604.04924v1",
     "tags": [
       "AI",
+      "Diffusion",
       "Optimization"
     ],
-    "date": "2026-04-05T14:27:12Z",
+    "date": "2026-04-06T17:59:04Z",
     "trending": true,
-    "source": "arXiv - Linglingzhi Zhu, Wentao Ding, Shangyuan Liu et al."
+    "source": "arXiv - Sudarshan Rajagopalan, Vishal M. Patel"
   },
   {
-    "id": "arxiv_1775524285203_3",
-    "name": "Shorter, but Still Trustworthy? An Empirical Study of Chain-of-Thought Compression",
-    "category": "nlp",
-    "description": "Long chain-of-thought (Long-CoT) reasoning models have motivated a growing body of work on compressing reasoning traces to reduce inference cost, yet existing evaluations focus almost exclusively on t...",
-    "link": "http://arxiv.org/abs/2604.04120v1",
+    "id": "arxiv_1775535776779_1",
+    "name": "Stratifying Reinforcement Learning with Signal Temporal Logic",
+    "category": "machine-learning",
+    "description": "In this paper, we develop a stratification-based semantics for Signal Temporal Logic (STL) in which each atomic predicate is interpreted as a membership test in a stratified space. This perspective re...",
+    "link": "http://arxiv.org/abs/2604.04923v1",
     "tags": [
-      "AI"
+      "Reinforcement Learning"
     ],
-    "date": "2026-04-05T13:43:12Z",
+    "date": "2026-04-06T17:58:58Z",
     "trending": false,
-    "source": "arXiv - Lingjie Zeng, Xiaofan Chen, Yanbo Wang et al."
+    "source": "arXiv - Justin Curry, Alberto Speranzon"
   },
   {
-    "id": "arxiv_1775524285203_4",
-    "name": "Lexical Indicators of Mind Perception in Human-AI Companionship",
+    "id": "arxiv_1775535776796_2",
+    "name": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
     "category": "nlp",
-    "description": "Mind perception (MP) is a psychological phenomenon in which humans automatically infer that another entity has a mind and/or mental capacities, usually understood in two dimensions (perceived agency a...",
-    "link": "http://arxiv.org/abs/2604.04105v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-05T12:56:31Z",
-    "trending": true,
-    "source": "arXiv - Jaime Banks, Jianghui Li"
-  },
-  {
-    "id": "arxiv_1775524285018_0",
-    "name": "CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning",
-    "category": "computer-vision",
-    "description": "Recent vision-language models (VLMs) typically rely on a single vision encoder trained with contrastive image-text objectives, such as CLIP-style pretraining. While contrastive encoders are effective ...",
-    "link": "http://arxiv.org/abs/2604.03231v1",
+    "description": "Extended reasoning in large language models (LLMs) creates severe KV cache memory bottlenecks. Leading KV cache compression methods estimate KV importance using attention scores from recent post-RoPE ...",
+    "link": "http://arxiv.org/abs/2604.04921v1",
     "tags": [
       "AI",
-      "Vision",
       "LLM"
     ],
-    "date": "2026-04-03T17:59:51Z",
-    "trending": false,
-    "source": "arXiv - Ankan Deria, Komal Kumar, Xilin He et al."
-  },
-  {
-    "id": "arxiv_1775524285003_0",
-    "name": "Enhancing Robustness of Federated Learning via Server Learning",
-    "category": "ai",
-    "description": "This paper explores the use of server learning for enhancing the robustness of federated learning against malicious attacks even when clients' training data are not independent and identically distrib...",
-    "link": "http://arxiv.org/abs/2604.03226v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-03T17:51:29Z",
-    "trending": false,
-    "source": "arXiv - Van Sy Mai, Kushal Chakrabarti, Richard J. La et al."
-  },
-  {
-    "id": "arxiv_1775524285018_1",
-    "name": "VOSR: A Vision-Only Generative Model for Image Super-Resolution",
-    "category": "computer-vision",
-    "description": "Most of the recent generative image super-resolution (SR) methods rely on adapting large text-to-image (T2I) diffusion models pretrained on web-scale text-image data. While effective, this paradigm st...",
-    "link": "http://arxiv.org/abs/2604.03225v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Diffusion"
-    ],
-    "date": "2026-04-03T17:50:29Z",
-    "trending": false,
-    "source": "arXiv - Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang et al."
-  },
-  {
-    "id": "arxiv_1775524285018_2",
-    "name": "HyperCT: Low-Rank Hypernet for Unified Chest CT Analysis",
-    "category": "computer-vision",
-    "description": "Non-contrast chest CTs offer a rich opportunity for both conventional pulmonary and opportunistic extra-pulmonary screening. While Multi-Task Learning (MTL) can unify these diverse tasks, standard har...",
-    "link": "http://arxiv.org/abs/2604.03224v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer"
-    ],
-    "date": "2026-04-03T17:50:09Z",
-    "trending": false,
-    "source": "arXiv - Fengbei Liu, Sunwoo Kwak, Hao Phung et al."
-  },
-  {
-    "id": "arxiv_1775524285019_3",
-    "name": "ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow",
-    "category": "computer-vision",
-    "description": "Remote sensing segmentation in real deployment is inherently continual: new semantic categories emerge, and acquisition conditions shift across seasons, cities, and sensors. Despite recent progress, m...",
-    "link": "http://arxiv.org/abs/2604.03212v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-03T17:40:58Z",
-    "trending": false,
-    "source": "arXiv - Jiekai Wu, Rong Fu, Chuangqi Li et al."
-  },
-  {
-    "id": "arxiv_1775524285003_1",
-    "name": "PR3DICTR: A modular AI framework for medical 3D image-based detection and outcome prediction",
-    "category": "ai",
-    "description": "Three-dimensional medical image data and computer-aided decision making, particularly using deep learning, are becoming increasingly important in the medical field. To aid in these developments we int...",
-    "link": "http://arxiv.org/abs/2604.03203v1",
-    "tags": [
-      "AI",
-      "Deep Learning"
-    ],
-    "date": "2026-04-03T17:25:17Z",
+    "date": "2026-04-06T17:58:42Z",
     "trending": true,
-    "source": "arXiv - Daniel C. MacRae, Luuk van der Hoek, Robert van der Wal et al."
+    "source": "arXiv - Weian Mao, Xi Lin, Wei Huang et al."
   },
   {
-    "id": "arxiv_1775524285019_4",
-    "name": "PR3DICTR: A modular AI framework for medical 3D image-based detection and outcome prediction",
-    "category": "computer-vision",
-    "description": "Three-dimensional medical image data and computer-aided decision making, particularly using deep learning, are becoming increasingly important in the medical field. To aid in these developments we int...",
-    "link": "http://arxiv.org/abs/2604.03203v1",
+    "id": "arxiv_1775535776779_2",
+    "name": "PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods",
+    "category": "machine-learning",
+    "description": "We study physics-informed neural networks (PINNs) as numerical tools for the optimal control of semilinear partial differential equations. We first recall the classical direct and indirect viewpoints ...",
+    "link": "http://arxiv.org/abs/2604.04920v1",
     "tags": [
       "AI",
-      "Deep Learning"
+      "Neural"
     ],
-    "date": "2026-04-03T17:25:17Z",
+    "date": "2026-04-06T17:57:53Z",
     "trending": false,
-    "source": "arXiv - Daniel C. MacRae, Luuk van der Hoek, Robert van der Wal et al."
+    "source": "arXiv - Zhen Zhang, Shanqing Liu, Alessandro Alla et al."
   },
   {
-    "id": "arxiv_1775524285003_2",
-    "name": "Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding",
+    "id": "arxiv_1775535776743_2",
+    "name": "Vero: An Open RL Recipe for General Visual Reasoning",
     "category": "ai",
-    "description": "Agentic AI is increasingly judged not by fluent output alone but by whether it can act, remember, and verify under partial observability, delay, and strategic observation. Existing research often stud...",
-    "link": "http://arxiv.org/abs/2604.03201v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "Robotics"
-    ],
-    "date": "2026-04-03T17:25:05Z",
-    "trending": false,
-    "source": "arXiv - Maximiliano Armesto, Christophe Kolb"
-  },
-  {
-    "id": "arxiv_1775524285003_3",
-    "name": "Reliability Gated Multi-Teacher Distillation for Low Resource Abstractive Summarization",
-    "category": "ai",
-    "description": "We study multiteacher knowledge distillation for low resource abstractive summarization from a reliability aware perspective. We introduce EWAD (Entropy Weighted Agreement Aware Distillation), a token...",
-    "link": "http://arxiv.org/abs/2604.03192v1",
+    "description": "What does it take to build a visual reasoner that works across charts, science, spatial understanding, and open-ended tasks? The strongest vision-language models (VLMs) show such broad visual reasonin...",
+    "link": "http://arxiv.org/abs/2604.04917v1",
     "tags": [
       "AI",
       "Vision",
-      "LLM"
+      "Reinforcement Learning"
     ],
-    "date": "2026-04-03T17:06:51Z",
+    "date": "2026-04-06T17:56:25Z",
     "trending": false,
-    "source": "arXiv - Dipto Sumit, Ankan Kumar Roy, Sadia Khair Rodela et al."
+    "source": "arXiv - Gabriel Sarch, Linrong Cai, Qunzhong Wang et al."
   },
   {
-    "id": "arxiv_1775524285004_4",
-    "name": "Gradient Boosting within a Single Attention Layer",
-    "category": "ai",
-    "description": "Transformer attention computes a single softmax-weighted average over values -- a one-pass estimate that cannot correct its own errors. We introduce \\emph{gradient-boosted attention}, which applies th...",
-    "link": "http://arxiv.org/abs/2604.03190v1",
+    "id": "arxiv_1775535776796_3",
+    "name": "Vero: An Open RL Recipe for General Visual Reasoning",
+    "category": "nlp",
+    "description": "What does it take to build a visual reasoner that works across charts, science, spatial understanding, and open-ended tasks? The strongest vision-language models (VLMs) show such broad visual reasonin...",
+    "link": "http://arxiv.org/abs/2604.04917v1",
     "tags": [
       "AI",
-      "Transformer"
+      "Vision",
+      "Reinforcement Learning"
     ],
-    "date": "2026-04-03T17:06:08Z",
+    "date": "2026-04-06T17:56:25Z",
+    "trending": true,
+    "source": "arXiv - Gabriel Sarch, Linrong Cai, Qunzhong Wang et al."
+  },
+  {
+    "id": "arxiv_1775535776779_3",
+    "name": "Empowering Power Outage Prediction with Spatially Aware Hybrid Graph Neural Networks and Contrastive Learning",
+    "category": "machine-learning",
+    "description": "Extreme weather events, such as severe storms, hurricanes, snowstorms, and ice storms, which are exacerbated by climate change, frequently cause widespread power outages. These outages halt industrial...",
+    "link": "http://arxiv.org/abs/2604.04916v1",
+    "tags": [
+      "Neural"
+    ],
+    "date": "2026-04-06T17:56:03Z",
     "trending": false,
-    "source": "arXiv - Saleh Sargolzaei"
+    "source": "arXiv - Xuyang Shen, Zijie Pan, Diego Cerrai et al."
+  },
+  {
+    "id": "arxiv_1775535776743_3",
+    "name": "Analyzing Symbolic Properties for DRL Agents in Systems and Networking",
+    "category": "ai",
+    "description": "Deep reinforcement learning (DRL) has shown remarkable performance on complex control problems in systems and networking, including adaptive video streaming, wireless resource management, and congesti...",
+    "link": "http://arxiv.org/abs/2604.04914v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-04-06T17:55:15Z",
+    "trending": false,
+    "source": "arXiv - Mohammad Zangooei, Jannis Weil, Amr Rizk et al."
+  },
+  {
+    "id": "arxiv_1775535776779_4",
+    "name": "Analyzing Symbolic Properties for DRL Agents in Systems and Networking",
+    "category": "machine-learning",
+    "description": "Deep reinforcement learning (DRL) has shown remarkable performance on complex control problems in systems and networking, including adaptive video streaming, wireless resource management, and congesti...",
+    "link": "http://arxiv.org/abs/2604.04914v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-04-06T17:55:15Z",
+    "trending": true,
+    "source": "arXiv - Mohammad Zangooei, Jannis Weil, Amr Rizk et al."
+  },
+  {
+    "id": "arxiv_1775535776744_4",
+    "name": "How AI Aggregation Affects Knowledge",
+    "category": "ai",
+    "description": "Artificial intelligence (AI) changes social learning when aggregated outputs become training data for future predictions. To study this, we extend the DeGroot model by introducing an AI aggregator tha...",
+    "link": "http://arxiv.org/abs/2604.04906v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-04-06T17:51:34Z",
+    "trending": false,
+    "source": "arXiv - Daron Acemoglu, Tianyi Lin, Asuman Ozdaglar et al."
+  },
+  {
+    "id": "arxiv_1775535776796_4",
+    "name": "QED-Nano: Teaching a Tiny Model to Prove Hard Theorems",
+    "category": "nlp",
+    "description": "Proprietary AI systems have recently demonstrated impressive capabilities on complex proof-based problems, with gold-level performance reported at the 2025 International Mathematical Olympiad (IMO). H...",
+    "link": "http://arxiv.org/abs/2604.04898v1",
+    "tags": [
+      "AI",
+      "GPT",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-04-06T17:44:25Z",
+    "trending": false,
+    "source": "arXiv -  LM-Provers, Yuxiao Qu, Amrith Setlur et al."
   }
 ]
