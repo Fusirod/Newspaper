@@ -1,17 +1,58 @@
 [
   {
-    "id": "rss_TechCrunch_1775587448709_0",
+    "id": "rss_Ars_Technica_1775591261834_0",
+    "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Use of AI coding tools has become a convenient boogeyman for any tech issues.\r\n\n                    ",
+    "link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 07 Apr 2026 19:09:44 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1775591262890_0",
+    "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.",
+    "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Tue, 07 Apr 2026 18:49:50 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1775591258381_0",
+    "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
+    "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+    "tags": [
+      "AI",
+      "NVIDIA"
+    ],
+    "date": "Tue, 07 Apr 2026 18:46:55 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1775591258381_1",
     "title": "Intel signs on to Elon Musk’s Terafab chips project",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "The partnership brings semiconductor experience to Musk's latest high-tech project. ",
+    "description": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.",
     "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
     "tags": [],
     "date": "Tue, 07 Apr 2026 18:10:01 +0000",
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1775587452056_0",
+    "id": "rss_Ars_Technica_1775591261834_1",
     "title": "SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -24,7 +65,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1775587448709_1",
+    "id": "rss_TechCrunch_1775591258381_2",
     "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -37,8 +78,8 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775587452056_1",
-    "title": "Testing suggests Google's AI Overviews tells millions of lies per hour",
+    "id": "rss_Ars_Technica_1775591261834_2",
+    "title": "Testing suggests Google's AI Overviews tell millions of lies per hour",
     "category": "ai-news",
     "source": "Ars Technica",
     "description": "\n                        Is 90 percent accuracy good enough for a search robot? \n                    ",
@@ -52,7 +93,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1775587448710_2",
+    "id": "rss_TechCrunch_1775591258381_3",
     "title": "Uber is the latest to be won over by Amazon’s AI chips",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -63,10 +104,10 @@
       "Google"
     ],
     "date": "Tue, 07 Apr 2026 16:46:59 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1775587452056_2",
+    "id": "rss_Ars_Technica_1775591261834_3",
     "title": "Linux kernel maintainers are following through on removing Intel 486 support",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -76,10 +117,10 @@
       "AI"
     ],
     "date": "Tue, 07 Apr 2026 16:39:12 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1775587448710_3",
+    "id": "rss_TechCrunch_1775591258381_4",
     "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -89,10 +130,10 @@
       "Google"
     ],
     "date": "Tue, 07 Apr 2026 16:05:56 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1775587452056_3",
+    "id": "rss_Ars_Technica_1775591261834_4",
     "title": "Finally, Artemis delivers some exceptional, high-quality photos of the Moon",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -103,34 +144,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1775587448710_4",
-    "title": "Google Maps can now write captions for your photos using AI",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Google is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place.",
-    "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Tue, 07 Apr 2026 15:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1775587452056_4",
-    "title": "The Rivian R2 will launch with 335 miles of range",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The test document also shows the effect on range of fitting all-terrain tires.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/04/rivian-r2-epa-certification-leaked-gets-335-miles-of-range/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 07 Apr 2026 14:54:16 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1775587450951_0",
+    "id": "rss_MIT_Tech_Review_1775591260604_0",
     "title": "Desalination plants in the Middle East are increasingly vulnerable",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -140,10 +154,10 @@
       "AI"
     ],
     "date": "Tue, 07 Apr 2026 14:54:06 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775587450951_1",
+    "id": "rss_MIT_Tech_Review_1775591260604_1",
     "title": "Enabling agent-first process redesign",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -156,7 +170,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775587450951_2",
+    "id": "rss_MIT_Tech_Review_1775591260604_2",
     "title": "The Download: AI’s impact on jobs, and data centres in space",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -166,10 +180,10 @@
       "AI"
     ],
     "date": "Tue, 07 Apr 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775587450951_3",
+    "id": "rss_MIT_Tech_Review_1775591260604_3",
     "title": "The one piece of data that could actually shed light on your job and AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -182,7 +196,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775587450951_4",
+    "id": "rss_MIT_Tech_Review_1775591260604_4",
     "title": "AI is changing how small online sellers decide what to make",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -192,10 +206,10 @@
       "AI"
     ],
     "date": "Mon, 06 Apr 2026 11:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1775587453270_0",
+    "id": "rss_Wired_1775591262890_1",
     "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
     "category": "ai-news",
     "source": "Wired",
@@ -205,10 +219,10 @@
       "AI"
     ],
     "date": "Mon, 06 Apr 2026 09:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1775587453270_1",
+    "id": "rss_Wired_1775591262890_2",
     "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
     "category": "ai-news",
     "source": "Wired",
@@ -218,10 +232,10 @@
       "AI"
     ],
     "date": "Sat, 04 Apr 2026 10:30:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1775587453270_2",
+    "id": "rss_Wired_1775591262890_3",
     "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
     "category": "ai-news",
     "source": "Wired",
@@ -232,10 +246,10 @@
       "Meta"
     ],
     "date": "Fri, 03 Apr 2026 21:28:14 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1775587453270_3",
+    "id": "rss_Wired_1775591262890_4",
     "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
     "category": "ai-news",
     "source": "Wired",
@@ -249,20 +263,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1775587453270_4",
-    "title": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.",
-    "link": "https://www.wired.com/story/best-portable-jump-starters/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 03 Apr 2026 10:39:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1775587461978_0",
+    "id": "rss_Distill_1775591270855_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -275,7 +276,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1775587461978_1",
+    "id": "rss_Distill_1775591270855_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -288,7 +289,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1775587461978_2",
+    "id": "rss_Distill_1775591270855_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -299,7 +300,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1775587461978_3",
+    "id": "rss_Distill_1775591270855_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -312,7 +313,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1775587461978_4",
+    "id": "rss_Distill_1775591270855_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -320,6 +321,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
