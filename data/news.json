@@ -1,6 +1,63 @@
 [
   {
-    "id": "rss_Ars_Technica_1775671002923_0",
+    "id": "rss_Wired_1775674994002_0",
+    "title": "Meta's New AI Model Gives Mark Zuckerberg a Seat at the Big Kid's Table",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
+    "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Wed, 08 Apr 2026 18:51:09 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1775674992888_0",
+    "title": "Motorola suddenly raises budget phone prices up to 50%—you can probably thank AI",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Motorola's budget phones are much less budget-friendly today.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/04/motorolas-budget-phones-are-now-up-to-50-more-expensive-as-memory-shortage-drags-on/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 08 Apr 2026 18:39:08 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1775674989529_0",
+    "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers. ",
+    "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "GPT",
+      "Chatbot"
+    ],
+    "date": "Wed, 08 Apr 2026 18:23:06 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1775674994002_1",
+    "title": "The US Army Is Building Its Own Chatbot for Combat",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
+    "link": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
+    "tags": [
+      "AI",
+      "Chatbot"
+    ],
+    "date": "Wed, 08 Apr 2026 18:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1775674992888_1",
     "title": "To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,10 +68,10 @@
       "OpenAI"
     ],
     "date": "Wed, 08 Apr 2026 17:37:06 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775671002923_1",
+    "id": "rss_Ars_Technica_1775674992888_2",
     "title": "Tankers passing through Strait of Hormuz will have to pay cryptocurrency toll",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -27,7 +84,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1775671004078_0",
+    "id": "rss_Wired_1775674994002_2",
     "title": "5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel",
     "category": "ai-news",
     "source": "Wired",
@@ -37,10 +94,10 @@
       "AI"
     ],
     "date": "Wed, 08 Apr 2026 17:13:33 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1775671004078_1",
+    "id": "rss_Wired_1775674994002_3",
     "title": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
     "category": "ai-news",
     "source": "Wired",
@@ -50,10 +107,10 @@
       "AI"
     ],
     "date": "Wed, 08 Apr 2026 17:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1775670999445_0",
+    "id": "rss_TechCrunch_1775674989529_1",
     "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -66,7 +123,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775671002923_2",
+    "id": "rss_Ars_Technica_1775674992888_3",
     "title": "Steam client files point to \"framerate estimator\" feature in the works",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -74,10 +131,10 @@
     "link": "https://arstechnica.com/gaming/2026/04/steam-client-files-point-to-framerate-estimator-feature-in-the-works/",
     "tags": [],
     "date": "Wed, 08 Apr 2026 15:37:04 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775671002923_3",
+    "id": "rss_Ars_Technica_1775674992888_4",
     "title": "For the first time ever, Amazon is cutting old Kindles off from the Kindle Store",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -88,7 +145,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1775670999445_1",
+    "id": "rss_TechCrunch_1775674989529_2",
     "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -102,18 +159,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775671002923_4",
-    "title": "No big trucks for little roads: American OEMs say EU is blocking imports",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        European buyers aren't interested in full-size trucks; US car industry doesn't care.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/04/no-f-150-in-france-us-automakers-complain-the-eu-blocks-big-trucks/",
-    "tags": [],
-    "date": "Wed, 08 Apr 2026 15:13:20 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1775670999445_2",
+    "id": "rss_TechCrunch_1775674989529_3",
     "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -123,10 +169,10 @@
       "AI"
     ],
     "date": "Wed, 08 Apr 2026 15:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1775670999445_3",
+    "id": "rss_TechCrunch_1775674989529_4",
     "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -137,7 +183,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1775671001746_0",
+    "id": "rss_MIT_Tech_Review_1775674991727_0",
     "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -147,23 +193,10 @@
       "AI"
     ],
     "date": "Wed, 08 Apr 2026 14:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1775670999445_4",
-    "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma. ",
-    "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 08 Apr 2026 13:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1775671001747_1",
+    "id": "rss_MIT_Tech_Review_1775674991728_1",
     "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -173,10 +206,10 @@
       "AI"
     ],
     "date": "Wed, 08 Apr 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1775671004078_2",
+    "id": "rss_Wired_1775674994002_4",
     "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
     "category": "ai-news",
     "source": "Wired",
@@ -187,10 +220,10 @@
       "Google"
     ],
     "date": "Tue, 07 Apr 2026 18:49:50 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1775671001747_2",
+    "id": "rss_MIT_Tech_Review_1775674991728_2",
     "title": "Desalination plants in the Middle East are increasingly vulnerable",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -203,7 +236,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775671001747_3",
+    "id": "rss_MIT_Tech_Review_1775674991728_3",
     "title": "Enabling agent-first process redesign",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -216,7 +249,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775671001747_4",
+    "id": "rss_MIT_Tech_Review_1775674991728_4",
     "title": "The Download: AI’s impact on jobs, and data centres in space",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -229,33 +262,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1775671004078_3",
-    "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
-    "link": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 06 Apr 2026 09:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1775671004078_4",
-    "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
-    "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Sat, 04 Apr 2026 10:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1775671011879_0",
+    "id": "rss_Distill_1775675001549_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -265,10 +272,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1775671011879_1",
+    "id": "rss_Distill_1775675001549_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -281,7 +288,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1775671011879_2",
+    "id": "rss_Distill_1775675001549_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -292,7 +299,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1775671011879_3",
+    "id": "rss_Distill_1775675001549_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -302,10 +309,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1775671011879_4",
+    "id": "rss_Distill_1775675001549_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
