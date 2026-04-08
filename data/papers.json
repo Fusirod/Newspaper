@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1775628833221_0",
+    "id": "arxiv_1775635558509_0",
     "name": "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework",
     "category": "nlp",
     "description": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large langu...",
@@ -15,7 +15,7 @@
     "source": "arXiv - Komal Kumar, Aman Chadha, Salman Khan et al."
   },
   {
-    "id": "arxiv_1775628833165_0",
+    "id": "arxiv_1775635536702_0",
     "name": "In-Place Test-Time Training",
     "category": "ai",
     "description": "The static ``train then deploy\" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real...",
@@ -25,11 +25,11 @@
       "LLM"
     ],
     "date": "2026-04-07T17:59:44Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Guhao Feng, Shengjie Luo, Kai Hua et al."
   },
   {
-    "id": "arxiv_1775628833201_0",
+    "id": "arxiv_1775635549630_0",
     "name": "In-Place Test-Time Training",
     "category": "machine-learning",
     "description": "The static ``train then deploy\" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real...",
@@ -43,7 +43,7 @@
     "source": "arXiv - Guhao Feng, Shengjie Luo, Kai Hua et al."
   },
   {
-    "id": "arxiv_1775628833221_1",
+    "id": "arxiv_1775635558509_1",
     "name": "In-Place Test-Time Training",
     "category": "nlp",
     "description": "The static ``train then deploy\" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real...",
@@ -57,7 +57,7 @@
     "source": "arXiv - Guhao Feng, Shengjie Luo, Kai Hua et al."
   },
   {
-    "id": "arxiv_1775628833184_0",
+    "id": "arxiv_1775635549603_0",
     "name": "Action Images: End-to-End Policy Learning via Multiview Video Generation",
     "category": "computer-vision",
     "description": "World action models (WAMs) have emerged as a promising direction for robot policy learning, as they can leverage powerful video backbones to model the future states. However, existing approaches often...",
@@ -66,11 +66,11 @@
       "AI"
     ],
     "date": "2026-04-07T17:59:30Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Haoyu Zhen, Zixian Gao, Qiao Sun et al."
   },
   {
-    "id": "arxiv_1775628833202_1",
+    "id": "arxiv_1775635549630_1",
     "name": "Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes",
     "category": "machine-learning",
     "description": "Churn flow-the chaotic, oscillatory regime in vertical two-phase flow-has lacked a quantitative mathematical definition for over $40$ years. We introduce the first topology-based characterization usin...",
@@ -79,11 +79,11 @@
       "AI"
     ],
     "date": "2026-04-07T17:59:15Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Brady Koenig, Sushovan Majhi, Atish Mitra et al."
   },
   {
-    "id": "arxiv_1775628833184_1",
+    "id": "arxiv_1775635549603_1",
     "name": "HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models",
     "category": "computer-vision",
     "description": "Large vision-language models can produce object hallucinations in image descriptions, highlighting the need for effective detection and mitigation strategies. Prior work commonly relies on the model's...",
@@ -97,7 +97,7 @@
     "source": "arXiv - Reihaneh Zohrabi, Hosein Hasani, Akshita Gupta et al."
   },
   {
-    "id": "arxiv_1775628833202_2",
+    "id": "arxiv_1775635549630_2",
     "name": "HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models",
     "category": "machine-learning",
     "description": "Large vision-language models can produce object hallucinations in image descriptions, highlighting the need for effective detection and mitigation strategies. Prior work commonly relies on the model's...",
@@ -111,7 +111,7 @@
     "source": "arXiv - Reihaneh Zohrabi, Hosein Hasani, Akshita Gupta et al."
   },
   {
-    "id": "arxiv_1775628833165_1",
+    "id": "arxiv_1775635536703_1",
     "name": "DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models",
     "category": "ai",
     "description": "Most digital videos are stored in 8-bit low dynamic range (LDR) formats, where much of the original high dynamic range (HDR) scene radiance is lost due to saturation and quantization. This loss of hig...",
@@ -121,11 +121,11 @@
       "Diffusion"
     ],
     "date": "2026-04-07T17:56:18Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhengming Yu, Li Ma, Mingming He et al."
   },
   {
-    "id": "arxiv_1775628833184_2",
+    "id": "arxiv_1775635549603_2",
     "name": "DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models",
     "category": "computer-vision",
     "description": "Most digital videos are stored in 8-bit low dynamic range (LDR) formats, where much of the original high dynamic range (HDR) scene radiance is lost due to saturation and quantization. This loss of hig...",
@@ -135,11 +135,11 @@
       "Diffusion"
     ],
     "date": "2026-04-07T17:56:18Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhengming Yu, Li Ma, Mingming He et al."
   },
   {
-    "id": "arxiv_1775628833184_3",
+    "id": "arxiv_1775635549603_3",
     "name": "The Character Error Vector: Decomposable errors for page-level OCR evaluation",
     "category": "computer-vision",
     "description": "The Character Error Rate (CER) is a key metric for evaluating the quality of Optical Character Recognition (OCR). However, this metric assumes that text has been perfectly parsed, which is often not t...",
@@ -148,11 +148,11 @@
       "AI"
     ],
     "date": "2026-04-07T17:56:06Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jonathan Bourne, Mwiza Simbeye, Joseph Nockels"
   },
   {
-    "id": "arxiv_1775628833202_3",
+    "id": "arxiv_1775635549630_3",
     "name": "The Character Error Vector: Decomposable errors for page-level OCR evaluation",
     "category": "machine-learning",
     "description": "The Character Error Rate (CER) is a key metric for evaluating the quality of Optical Character Recognition (OCR). However, this metric assumes that text has been perfectly parsed, which is often not t...",
@@ -165,7 +165,7 @@
     "source": "arXiv - Jonathan Bourne, Mwiza Simbeye, Joseph Nockels"
   },
   {
-    "id": "arxiv_1775628833202_4",
+    "id": "arxiv_1775635549630_4",
     "name": "Target Policy Optimization",
     "category": "machine-learning",
     "description": "In RL, given a prompt, we sample a group of completions from a model and score them. Two questions follow: which completions should gain probability mass, and how should the parameters move to realize...",
@@ -177,11 +177,11 @@
       "Optimization"
     ],
     "date": "2026-04-07T17:55:59Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jean Kaddour"
   },
   {
-    "id": "arxiv_1775628833166_2",
+    "id": "arxiv_1775635536703_2",
     "name": "MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control",
     "category": "ai",
     "description": "MLLMs have been successfully applied to multimodal embedding tasks, yet their generative reasoning capabilities remain underutilized. Directly incorporating chain-of-thought reasoning into embedding l...",
@@ -197,7 +197,7 @@
     "source": "arXiv - Yuchi Wang, Haiyang Yu, Weikang Bian et al."
   },
   {
-    "id": "arxiv_1775628833184_4",
+    "id": "arxiv_1775635549603_4",
     "name": "MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control",
     "category": "computer-vision",
     "description": "MLLMs have been successfully applied to multimodal embedding tasks, yet their generative reasoning capabilities remain underutilized. Directly incorporating chain-of-thought reasoning into embedding l...",
@@ -209,11 +209,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-04-07T17:55:17Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yuchi Wang, Haiyang Yu, Weikang Bian et al."
   },
   {
-    "id": "arxiv_1775628833221_2",
+    "id": "arxiv_1775635558509_2",
     "name": "MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control",
     "category": "nlp",
     "description": "MLLMs have been successfully applied to multimodal embedding tasks, yet their generative reasoning capabilities remain underutilized. Directly incorporating chain-of-thought reasoning into embedding l...",
@@ -229,9 +229,24 @@
     "source": "arXiv - Yuchi Wang, Haiyang Yu, Weikang Bian et al."
   },
   {
-    "id": "arxiv_1775628833166_3",
+    "id": "arxiv_1775635536703_3",
     "name": "Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement",
     "category": "ai",
+    "description": "Whether Large Language Models (LLMs) develop coherent internal world models remains a core debate. While conventional Next-Token Prediction (NTP) focuses on one-step-ahead supervision, Multi-Token Pre...",
+    "link": "http://arxiv.org/abs/2604.06155v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-04-07T17:54:22Z",
+    "trending": false,
+    "source": "arXiv - Qimin Zhong, Hao Liao, Haiming Qin et al."
+  },
+  {
+    "id": "arxiv_1775635558510_3",
+    "name": "Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement",
+    "category": "nlp",
     "description": "Whether Large Language Models (LLMs) develop coherent internal world models remains a core debate. While conventional Next-Token Prediction (NTP) focuses on one-step-ahead supervision, Multi-Token Pre...",
     "link": "http://arxiv.org/abs/2604.06155v1",
     "tags": [
@@ -244,22 +259,7 @@
     "source": "arXiv - Qimin Zhong, Hao Liao, Haiming Qin et al."
   },
   {
-    "id": "arxiv_1775628833221_3",
-    "name": "Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement",
-    "category": "nlp",
-    "description": "Whether Large Language Models (LLMs) develop coherent internal world models remains a core debate. While conventional Next-Token Prediction (NTP) focuses on one-step-ahead supervision, Multi-Token Pre...",
-    "link": "http://arxiv.org/abs/2604.06155v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-04-07T17:54:22Z",
-    "trending": false,
-    "source": "arXiv - Qimin Zhong, Hao Liao, Haiming Qin et al."
-  },
-  {
-    "id": "arxiv_1775628833221_4",
+    "id": "arxiv_1775635558510_4",
     "name": "Exclusive Unlearning",
     "category": "nlp",
     "description": "When introducing Large Language Models (LLMs) into industrial applications, such as healthcare and education, the risk of generating harmful content becomes a significant challenge. While existing mac...",
@@ -269,11 +269,11 @@
       "LLM"
     ],
     "date": "2026-04-07T17:54:11Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Mutsumi Sasaki, Kouta Nakayama, Yusuke Miyao et al."
   },
   {
-    "id": "arxiv_1775628833166_4",
+    "id": "arxiv_1775635536703_4",
     "name": "Who Governs the Machine? A Machine Identity Governance Taxonomy (MIGT) for AI Systems Operating Across Enterprise and Geopolitical Boundaries",
     "category": "ai",
     "description": "The governance of artificial intelligence has a blind spot: the machine identities that AI systems use to act. AI agents, service accounts, API tokens, and automated workflows now outnumber human iden...",
