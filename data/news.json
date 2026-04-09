@@ -1,6 +1,19 @@
 [
   {
-    "id": "rss_Wired_1775696544527_0",
+    "id": "rss_Ars_Technica_1775708550359_0",
+    "title": "The Moon is already on Google Maps—did Artemis II really tell us anything new?",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"I think the biggest value here is the PR. I mean, it's getting the public excited.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new/",
+    "tags": [
+      "Google"
+    ],
+    "date": "Thu, 09 Apr 2026 03:44:24 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1775708551491_0",
     "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
     "category": "ai-news",
     "source": "Wired",
@@ -10,10 +23,10 @@
       "AI"
     ],
     "date": "Wed, 08 Apr 2026 22:27:26 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1775696543374_0",
+    "id": "rss_Ars_Technica_1775708550359_1",
     "title": "Trump admin makes sweeping request for medical records of federal workers",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -24,7 +37,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775696543374_1",
+    "id": "rss_Ars_Technica_1775708550360_2",
     "title": "LinkedIn scanning users' browser extensions sparks controversy and two lawsuits",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -34,11 +47,11 @@
       "AI"
     ],
     "date": "Wed, 08 Apr 2026 21:08:06 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1775696540025_0",
-    "title": "AI agent Poke makes setting up automations as easy as sending a text",
+    "id": "rss_TechCrunch_1775708546559_0",
+    "title": "Poke makes using AI agents as easy as sending a text",
     "category": "ai-news",
     "source": "TechCrunch",
     "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
@@ -51,7 +64,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775696543375_2",
+    "id": "rss_Ars_Technica_1775708550360_3",
     "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -59,10 +72,10 @@
     "link": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
     "tags": [],
     "date": "Wed, 08 Apr 2026 20:49:11 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1775696540026_1",
+    "id": "rss_TechCrunch_1775708546559_1",
     "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -76,7 +89,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775696543375_3",
+    "id": "rss_Ars_Technica_1775708550360_4",
     "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -89,20 +102,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775696543375_4",
-    "title": "How our digital devices are putting our right to privacy at risk",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Law professor Andrew Guthrie Ferguson chats with Ars about his new book, Your Data Will Be Used Against You.\n                    ",
-    "link": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 08 Apr 2026 19:17:30 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1775696544527_1",
+    "id": "rss_Wired_1775708551491_1",
     "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
     "category": "ai-news",
     "source": "Wired",
@@ -113,10 +113,10 @@
       "Meta"
     ],
     "date": "Wed, 08 Apr 2026 18:51:09 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1775696540026_2",
+    "id": "rss_TechCrunch_1775708546559_2",
     "title": "Tubi is the first streamer to launch a native app within ChatGPT",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -132,7 +132,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1775696544527_2",
+    "id": "rss_Wired_1775708551491_2",
     "title": "The US Army Is Building Its Own Chatbot for Combat",
     "category": "ai-news",
     "source": "Wired",
@@ -146,7 +146,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1775696544527_3",
+    "id": "rss_Wired_1775708551491_3",
     "title": "5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel",
     "category": "ai-news",
     "source": "Wired",
@@ -159,7 +159,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1775696544527_4",
+    "id": "rss_Wired_1775708551492_4",
     "title": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
     "category": "ai-news",
     "source": "Wired",
@@ -172,7 +172,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1775696540026_3",
+    "id": "rss_TechCrunch_1775708546559_3",
     "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -182,10 +182,10 @@
       "AI"
     ],
     "date": "Wed, 08 Apr 2026 16:01:09 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1775696540026_4",
+    "id": "rss_TechCrunch_1775708546559_4",
     "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -199,7 +199,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775696542204_0",
+    "id": "rss_MIT_Tech_Review_1775708548882_0",
     "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -209,10 +209,10 @@
       "AI"
     ],
     "date": "Wed, 08 Apr 2026 14:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1775696542204_1",
+    "id": "rss_MIT_Tech_Review_1775708548882_1",
     "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -225,7 +225,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775696542204_2",
+    "id": "rss_MIT_Tech_Review_1775708548882_2",
     "title": "Desalination plants in the Middle East are increasingly vulnerable",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -235,10 +235,10 @@
       "AI"
     ],
     "date": "Tue, 07 Apr 2026 14:54:06 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775696542204_3",
+    "id": "rss_MIT_Tech_Review_1775708548883_3",
     "title": "Enabling agent-first process redesign",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -248,10 +248,10 @@
       "AI"
     ],
     "date": "Tue, 07 Apr 2026 14:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775696542204_4",
+    "id": "rss_MIT_Tech_Review_1775708548883_4",
     "title": "The Download: AI’s impact on jobs, and data centres in space",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -261,10 +261,10 @@
       "AI"
     ],
     "date": "Tue, 07 Apr 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1775696553494_0",
+    "id": "rss_Distill_1775708560669_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -277,7 +277,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1775696553494_1",
+    "id": "rss_Distill_1775708560669_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -290,7 +290,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1775696553494_2",
+    "id": "rss_Distill_1775708560669_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -301,7 +301,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1775696553494_3",
+    "id": "rss_Distill_1775708560669_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -314,7 +314,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1775696553494_4",
+    "id": "rss_Distill_1775708560669_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
