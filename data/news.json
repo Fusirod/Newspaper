@@ -1,20 +1,84 @@
 [
   {
-    "id": "rss_TechCrunch_1775760229872_0",
+    "id": "rss_Ars_Technica_1775764576491_0",
+    "title": "Nutanix claims it has poached 30,000 VMware customers",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Western Union exec says there were \"challenges\" working with Broadcom. \n                    ",
+    "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 09 Apr 2026 19:44:31 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1775764572709_0",
+    "title": "After data breach, $10B valued startup Mercor is having a month",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+    "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+    "tags": [
+      "Startup"
+    ],
+    "date": "Thu, 09 Apr 2026 19:33:54 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1775764576491_1",
+    "title": "Ugandan chimps split into two factions, then killed rivals",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Rare event suggests relational dynamics may play a role in collective violence, along with cultural markers.\n                    ",
+    "link": "https://arstechnica.com/science/2026/04/ugandan-chimps-split-into-two-factions-then-killed-rivals/",
+    "tags": [],
+    "date": "Thu, 09 Apr 2026 19:21:59 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1775764572709_1",
+    "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising. ",
+    "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Thu, 09 Apr 2026 19:10:07 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1775764572709_2",
+    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+    "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 09 Apr 2026 18:50:05 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1775764572709_3",
     "title": "Google and Intel deepen AI infrastructure partnership",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "The two tech giants are looking to co-develop custom chips, at a time where demand for CPUs is high due to a growing global shortage. ",
+    "description": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage. ",
     "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
     "tags": [
       "AI",
       "Google"
     ],
     "date": "Thu, 09 Apr 2026 18:27:47 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1775760233655_0",
+    "id": "rss_Ars_Technica_1775764576491_2",
     "title": "The gravity of their experience hasn't quite set in for the Artemis II astronauts",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -25,7 +89,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1775760233655_1",
+    "id": "rss_Ars_Technica_1775764576491_3",
     "title": "Trump-appointed judges refuse to block Trump blacklisting of Anthropic AI tech",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -35,10 +99,10 @@
       "AI"
     ],
     "date": "Thu, 09 Apr 2026 18:07:56 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1775760234898_0",
+    "id": "rss_Wired_1775764577647_0",
     "title": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
     "category": "ai-news",
     "source": "Wired",
@@ -52,20 +116,20 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1775760229872_1",
+    "id": "rss_TechCrunch_1775764572709_4",
     "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "Co-founder of Sierra predicts that AI agents will make software interfaces obsolete. ",
+    "description": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language. Users simply describe what they need, prompting Ghostwriter to autonomously create and",
     "link": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
     "tags": [
-      "AI"
+      "Startup"
     ],
     "date": "Thu, 09 Apr 2026 17:20:50 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775760233655_2",
+    "id": "rss_Ars_Technica_1775764576491_4",
     "title": "Volkswagen stops building ID.4s in the US, has inventory \"into 2027\"",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -76,60 +140,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1775760233655_3",
-    "title": "Police corporal created AI porn from driver's license pics",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Officer created over 3,000 \"deepfake\" images.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/04/state-police-corporal-created-porn-deepfakes-from-drivers-license-photos/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 09 Apr 2026 16:37:52 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1775760233655_4",
-    "title": "First man convicted under Take It Down Act kept making AI nudes after arrest",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Ohio man used more than 100 AI tools to make fake nudes of women and minors.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 09 Apr 2026 15:43:40 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1775760229872_2",
-    "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
-    "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
-    "tags": [
-      "AI",
-      "NVIDIA"
-    ],
-    "date": "Thu, 09 Apr 2026 14:27:57 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1775760229872_3",
-    "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech events of the year. Register now to lock in these savings.",
-    "link": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 09 Apr 2026 14:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1775760234898_1",
+    "id": "rss_Wired_1775764577647_1",
     "title": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
     "category": "ai-news",
     "source": "Wired",
@@ -139,10 +150,10 @@
       "AI"
     ],
     "date": "Thu, 09 Apr 2026 13:25:21 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775760232242_0",
+    "id": "rss_MIT_Tech_Review_1775764574901_0",
     "title": "The Download: AstroTurf wars and exponential AI growth",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -155,7 +166,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775760232242_1",
+    "id": "rss_MIT_Tech_Review_1775764574901_1",
     "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -166,7 +177,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775760232242_2",
+    "id": "rss_MIT_Tech_Review_1775764574901_2",
     "title": "Desalination technology, by the numbers",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -177,7 +188,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1775760234898_2",
+    "id": "rss_Wired_1775764577647_2",
     "title": "This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
     "category": "ai-news",
     "source": "Wired",
@@ -188,10 +199,10 @@
       "Vision"
     ],
     "date": "Thu, 09 Apr 2026 09:30:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1775760234898_3",
+    "id": "rss_Wired_1775764577647_3",
     "title": "Anthropic vs. the Pentagon: This Time, a US Court Has Ruled in the Government's Favor",
     "category": "ai-news",
     "source": "Wired",
@@ -204,21 +215,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1775760229872_4",
-    "title": "Poke makes using AI agents as easy as sending a text",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
-    "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-    "tags": [
-      "AI",
-      "Automation"
-    ],
-    "date": "Wed, 08 Apr 2026 21:05:13 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1775760234898_4",
+    "id": "rss_Wired_1775764577647_4",
     "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
     "category": "ai-news",
     "source": "Wired",
@@ -232,7 +229,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775760232243_3",
+    "id": "rss_MIT_Tech_Review_1775764574901_3",
     "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -245,7 +242,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775760232243_4",
+    "id": "rss_MIT_Tech_Review_1775764574901_4",
     "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -258,7 +255,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1775760244125_0",
+    "id": "rss_Distill_1775764586234_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -268,10 +265,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1775760244125_1",
+    "id": "rss_Distill_1775764586234_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -284,7 +281,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1775760244125_2",
+    "id": "rss_Distill_1775764586234_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -292,10 +289,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1775760244125_3",
+    "id": "rss_Distill_1775764586234_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -308,7 +305,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1775760244125_4",
+    "id": "rss_Distill_1775764586234_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -316,6 +313,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]

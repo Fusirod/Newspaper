@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1775760229132_0",
+    "id": "arxiv_1775764571924_0",
     "name": "Fast Spatial Memory with Elastic Test-Time Training",
     "category": "computer-vision",
     "description": "Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates remain vulnerable to catastrophic forgetting and over...",
@@ -9,11 +9,11 @@
       "AI"
     ],
     "date": "2026-04-08T17:59:48Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ziqiao Ma, Xueyang Yu, Haoyu Zhen et al."
   },
   {
-    "id": "arxiv_1775760229424_0",
+    "id": "arxiv_1775764572252_0",
     "name": "Fast Spatial Memory with Elastic Test-Time Training",
     "category": "machine-learning",
     "description": "Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates remain vulnerable to catastrophic forgetting and over...",
@@ -22,11 +22,11 @@
       "AI"
     ],
     "date": "2026-04-08T17:59:48Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ziqiao Ma, Xueyang Yu, Haoyu Zhen et al."
   },
   {
-    "id": "arxiv_1775760228893_0",
+    "id": "arxiv_1775764571627_0",
     "name": "Toward a Tractability Frontier for Exact Relevance Certification",
     "category": "ai",
     "description": "Exact relevance certification asks which coordinates are necessary to determine the optimal action in a coordinate-structured decision problem. The tractable families treated here admit a finite primi...",
@@ -39,7 +39,7 @@
     "source": "arXiv - Tristan Simas"
   },
   {
-    "id": "arxiv_1775760228894_1",
+    "id": "arxiv_1775764571627_1",
     "name": "MoRight: Motion Control Done Right",
     "category": "ai",
     "description": "Generating motion-controlled videos--where user-specified actions drive physically plausible scene dynamics under freely chosen viewpoints--demands two capabilities: (1) disentangled motion control, a...",
@@ -48,11 +48,11 @@
       "AI"
     ],
     "date": "2026-04-08T17:59:22Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shaowei Liu, Xuanchi Ren, Tianchang Shen et al."
   },
   {
-    "id": "arxiv_1775760229132_1",
+    "id": "arxiv_1775764571924_1",
     "name": "MoRight: Motion Control Done Right",
     "category": "computer-vision",
     "description": "Generating motion-controlled videos--where user-specified actions drive physically plausible scene dynamics under freely chosen viewpoints--demands two capabilities: (1) disentangled motion control, a...",
@@ -65,7 +65,7 @@
     "source": "arXiv - Shaowei Liu, Xuanchi Ren, Tianchang Shen et al."
   },
   {
-    "id": "arxiv_1775760229424_1",
+    "id": "arxiv_1775764572252_1",
     "name": "MoRight: Motion Control Done Right",
     "category": "machine-learning",
     "description": "Generating motion-controlled videos--where user-specified actions drive physically plausible scene dynamics under freely chosen viewpoints--demands two capabilities: (1) disentangled motion control, a...",
@@ -74,11 +74,11 @@
       "AI"
     ],
     "date": "2026-04-08T17:59:22Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shaowei Liu, Xuanchi Ren, Tianchang Shen et al."
   },
   {
-    "id": "arxiv_1775760229424_2",
+    "id": "arxiv_1775764572252_2",
     "name": "Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning",
     "category": "machine-learning",
     "description": "The rapid growth of generative artificial intelligence (AI) has introduced unprecedented computational demands, driving significant increases in the energy footprint of data centers. However, existing...",
@@ -92,7 +92,7 @@
     "source": "arXiv - Roberto Vercellino, Jared Willard, Gustavo Campos et al."
   },
   {
-    "id": "arxiv_1775760229424_3",
+    "id": "arxiv_1775764572252_3",
     "name": "Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization",
     "category": "machine-learning",
     "description": "Pluralistic alignment has emerged as a critical frontier in the development of Large Language Models (LLMs), with reward models (RMs) serving as a central mechanism for capturing diverse human values....",
@@ -103,11 +103,11 @@
       "Optimization"
     ],
     "date": "2026-04-08T17:55:00Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Qiyao Ma, Dechen Gao, Rui Cai et al."
   },
   {
-    "id": "arxiv_1775760229667_0",
+    "id": "arxiv_1775764572516_0",
     "name": "Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization",
     "category": "nlp",
     "description": "Pluralistic alignment has emerged as a critical frontier in the development of Large Language Models (LLMs), with reward models (RMs) serving as a central mechanism for capturing diverse human values....",
@@ -118,11 +118,11 @@
       "Optimization"
     ],
     "date": "2026-04-08T17:55:00Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Qiyao Ma, Dechen Gao, Rui Cai et al."
   },
   {
-    "id": "arxiv_1775760229132_2",
+    "id": "arxiv_1775764571924_2",
     "name": "TC-AE: Unlocking Token Capacity for Deep Compression Autoencoders",
     "category": "computer-vision",
     "description": "We propose TC-AE, a ViT-based architecture for deep compression autoencoders. Existing methods commonly increase the channel number of latent representations to maintain reconstruction quality under h...",
@@ -131,11 +131,11 @@
       "AI"
     ],
     "date": "2026-04-08T17:53:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Teng Li, Ziyuan Huang, Cong Chen et al."
   },
   {
-    "id": "arxiv_1775760229132_3",
+    "id": "arxiv_1775764571925_3",
     "name": "Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images",
     "category": "computer-vision",
     "description": "Recent advances in vision-language models (VLMs) have improved image captioning for cultural heritage. However, inferring structured cultural metadata (e.g., creator, origin, period) from visual input...",
@@ -150,7 +150,7 @@
     "source": "arXiv - Yuechen Jiang, Enze Zhang, Md Mohsinul Kabir et al."
   },
   {
-    "id": "arxiv_1775760229667_1",
+    "id": "arxiv_1775764572516_1",
     "name": "Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images",
     "category": "nlp",
     "description": "Recent advances in vision-language models (VLMs) have improved image captioning for cultural heritage. However, inferring structured cultural metadata (e.g., creator, origin, period) from visual input...",
@@ -161,22 +161,22 @@
       "LLM"
     ],
     "date": "2026-04-08T17:53:26Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuechen Jiang, Enze Zhang, Md Mohsinul Kabir et al."
   },
   {
-    "id": "arxiv_1775760229132_4",
+    "id": "arxiv_1775764571925_4",
     "name": "From Blobs to Spokes: High-Fidelity Surface Reconstruction via Oriented Gaussians",
     "category": "computer-vision",
     "description": "3D Gaussian Splatting (3DGS) has revolutionized fast novel view synthesis, yet its opacity-based formulation makes surface extraction fundamentally difficult. Unlike implicit methods built on Signed D...",
     "link": "http://arxiv.org/abs/2604.07337v1",
     "tags": [],
     "date": "2026-04-08T17:52:39Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Diego Gomez, Antoine Guédon, Nissim Maruani et al."
   },
   {
-    "id": "arxiv_1775760228894_2",
+    "id": "arxiv_1775764571627_2",
     "name": "RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild",
     "category": "ai",
     "description": "Scaling up robot learning will likely require human data containing rich and long-horizon interactions in the wild. Existing approaches for collecting such data trade off portability, robustness to oc...",
@@ -189,7 +189,7 @@
     "source": "arXiv - Wenjing Margaret Mao, Jefferson Ng, Luyang Hu et al."
   },
   {
-    "id": "arxiv_1775760229424_4",
+    "id": "arxiv_1775764572252_4",
     "name": "How to sketch a learning algorithm",
     "category": "machine-learning",
     "description": "How does the choice of training data influence an AI model? This question is of central importance to interpretability, privacy, and basic science. At its core is the data deletion problem: after a re...",
@@ -200,11 +200,11 @@
       "GPT"
     ],
     "date": "2026-04-08T17:46:06Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sam Gunn"
   },
   {
-    "id": "arxiv_1775760228894_3",
+    "id": "arxiv_1775764571627_3",
     "name": "Syntax Is Easy, Semantics Is Hard: Evaluating LLMs for LTL Translation",
     "category": "ai",
     "description": "Propositional Linear Temporal Logic (LTL) is a popular formalism for specifying desirable requirements and security and privacy policies for software, networks, and systems. Yet expressing such requir...",
@@ -218,7 +218,7 @@
     "source": "arXiv - Priscilla Kyei Danso, Mohammad Saqib Hasan, Niranjan Balasubramanian et al."
   },
   {
-    "id": "arxiv_1775760228894_4",
+    "id": "arxiv_1775764571628_4",
     "name": "Evaluating In-Context Translation with Synchronous Context-Free Grammar Transduction",
     "category": "ai",
     "description": "Low-resource languages pose a challenge for machine translation with large language models (LLMs), which require large amounts of training data. One potential way to circumvent this data dependence is...",
@@ -228,11 +228,11 @@
       "LLM"
     ],
     "date": "2026-04-08T17:35:44Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jackson Petty, Jaulie Goe, Tal Linzen"
   },
   {
-    "id": "arxiv_1775760229667_2",
+    "id": "arxiv_1775764572516_2",
     "name": "Evaluating In-Context Translation with Synchronous Context-Free Grammar Transduction",
     "category": "nlp",
     "description": "Low-resource languages pose a challenge for machine translation with large language models (LLMs), which require large amounts of training data. One potential way to circumvent this data dependence is...",
@@ -246,7 +246,7 @@
     "source": "arXiv - Jackson Petty, Jaulie Goe, Tal Linzen"
   },
   {
-    "id": "arxiv_1775760229667_3",
+    "id": "arxiv_1775764572517_3",
     "name": "OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence",
     "category": "nlp",
     "description": "Spatial understanding is a fundamental cornerstone of human-level intelligence. Nonetheless, current research predominantly focuses on domain-specific data production, leaving a critical void: the abs...",
@@ -259,7 +259,7 @@
     "source": "arXiv - Jianhui Liu, Haoze Sun, Wenbo Li et al."
   },
   {
-    "id": "arxiv_1775760229667_4",
+    "id": "arxiv_1775764572517_4",
     "name": "Why teaching resists automation in an AI-inundated era: Human judgment, non-modular work, and the limits of delegation",
     "category": "nlp",
     "description": "Debates about artificial intelligence (AI) in education often portray teaching as a modular and procedural job that can increasingly be automated or delegated to technology. This brief communication p...",
