@@ -1,6 +1,35 @@
 [
   {
-    "id": "rss_Ars_Technica_1775767211100_0",
+    "id": "rss_TechCrunch_1775770590846_0",
+    "title": "ChatGPT finally offers $100/month Pro plan",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously subscriptions jumped from $20 to $200 per month.",
+    "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "ChatGPT",
+      "GPT"
+    ],
+    "date": "Thu, 09 Apr 2026 21:29:11 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1775770594252_0",
+    "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Mythos is \"the most psychologically settled model we have trained to date.\"\n                    ",
+    "link": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 09 Apr 2026 21:20:31 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1775770594252_1",
     "title": "Clinical trial shows gene editing works for β-Thalassaemia, too",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,7 +40,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1775767207430_0",
+    "id": "rss_TechCrunch_1775770590846_1",
     "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -24,10 +53,10 @@
       "GPT"
     ],
     "date": "Thu, 09 Apr 2026 20:11:55 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775767211100_1",
+    "id": "rss_Ars_Technica_1775770594252_2",
     "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -35,11 +64,11 @@
     "link": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
     "tags": [],
     "date": "Thu, 09 Apr 2026 19:44:31 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1775767207430_1",
-    "title": "After data breach, $10B valued startup Mercor is having a month",
+    "id": "rss_TechCrunch_1775770590846_2",
+    "title": "After data breach, $10B-valued startup Mercor is having a month",
     "category": "ai-news",
     "source": "TechCrunch",
     "description": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
@@ -51,7 +80,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775767211100_2",
+    "id": "rss_Ars_Technica_1775770594252_3",
     "title": "Ugandan chimps split into two factions, then killed rivals",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -59,10 +88,10 @@
     "link": "https://arstechnica.com/science/2026/04/ugandan-chimps-split-into-two-factions-then-killed-rivals/",
     "tags": [],
     "date": "Thu, 09 Apr 2026 19:21:59 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1775767207431_2",
+    "id": "rss_TechCrunch_1775770590846_3",
     "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -76,7 +105,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1775767207431_3",
+    "id": "rss_TechCrunch_1775770590846_4",
     "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -86,24 +115,10 @@
       "AI"
     ],
     "date": "Thu, 09 Apr 2026 18:50:05 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1775767207431_4",
-    "title": "Google and Intel deepen AI infrastructure partnership",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage. ",
-    "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Thu, 09 Apr 2026 18:27:47 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775767211100_3",
+    "id": "rss_Ars_Technica_1775770594252_4",
     "title": "The gravity of their experience hasn't quite set in for the Artemis II astronauts",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -114,20 +129,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1775767211100_4",
-    "title": "Trump-appointed judges refuse to block Trump blacklisting of Anthropic AI tech",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Appeals court denies Anthropic's emergency motion for a stay.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 09 Apr 2026 18:07:56 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1775767212147_0",
+    "id": "rss_Wired_1775770595307_0",
     "title": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
     "category": "ai-news",
     "source": "Wired",
@@ -138,10 +140,10 @@
       "Startup"
     ],
     "date": "Thu, 09 Apr 2026 18:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1775767212147_1",
+    "id": "rss_Wired_1775770595307_1",
     "title": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
     "category": "ai-news",
     "source": "Wired",
@@ -151,10 +153,10 @@
       "AI"
     ],
     "date": "Thu, 09 Apr 2026 13:25:21 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775767209695_0",
+    "id": "rss_MIT_Tech_Review_1775770593068_0",
     "title": "The Download: AstroTurf wars and exponential AI growth",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -167,7 +169,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775767209696_1",
+    "id": "rss_MIT_Tech_Review_1775770593069_1",
     "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -178,7 +180,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775767209696_2",
+    "id": "rss_MIT_Tech_Review_1775770593069_2",
     "title": "Desalination technology, by the numbers",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -189,7 +191,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1775767212147_2",
+    "id": "rss_Wired_1775770595307_2",
     "title": "This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
     "category": "ai-news",
     "source": "Wired",
@@ -203,7 +205,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1775767212147_3",
+    "id": "rss_Wired_1775770595307_3",
     "title": "Anthropic vs. the Pentagon: This Time, a US Court Has Ruled in the Government's Favor",
     "category": "ai-news",
     "source": "Wired",
@@ -213,10 +215,10 @@
       "AI"
     ],
     "date": "Wed, 08 Apr 2026 22:27:26 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1775767212147_4",
+    "id": "rss_Wired_1775770595307_4",
     "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
     "category": "ai-news",
     "source": "Wired",
@@ -227,10 +229,10 @@
       "Meta"
     ],
     "date": "Wed, 08 Apr 2026 18:51:09 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1775767209696_3",
+    "id": "rss_MIT_Tech_Review_1775770593069_3",
     "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -243,7 +245,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1775767209696_4",
+    "id": "rss_MIT_Tech_Review_1775770593069_4",
     "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -256,7 +258,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1775767220597_0",
+    "id": "rss_Distill_1775770603868_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -269,7 +271,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1775767220597_1",
+    "id": "rss_Distill_1775770603868_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -279,10 +281,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1775767220597_2",
+    "id": "rss_Distill_1775770603868_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -290,10 +292,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1775767220597_3",
+    "id": "rss_Distill_1775770603868_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -303,10 +305,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1775767220597_4",
+    "id": "rss_Distill_1775770603868_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -314,6 +316,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
