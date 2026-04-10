@@ -1,202 +1,287 @@
 [
   {
-    "id": "arxiv_1775783645547_0",
-    "name": "SeLaR: Selective Latent Reasoning in Large Language Models",
-    "category": "nlp",
-    "description": "Chain-of-Thought (CoT) has become a cornerstone of reasoning in large language models, yet its effectiveness is constrained by the limited expressiveness of discrete token sampling. Recent latent reas...",
-    "link": "http://arxiv.org/abs/2604.08299v1",
+    "id": "arxiv_1775795765510_0",
+    "name": "GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics",
+    "category": "computer-vision",
+    "description": "Free-form bones, that conform closely to the surface, can effectively capture non-rigid deformations, but lack a kinematic structure necessary for intuitive control. Thus, we propose a Scaffold-Skin R...",
+    "link": "http://arxiv.org/abs/2604.08547v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-04-09T14:32:07Z",
+    "date": "2026-04-09T17:59:59Z",
     "trending": false,
-    "source": "arXiv - Renyu Fu, Guibo Luo"
+    "source": "arXiv - Jiaxin Wang, Dongxin Lyu, Zeyu Cai et al."
   },
   {
-    "id": "arxiv_1775783645547_1",
-    "name": "Can Vision Language Models Judge Action Quality? An Empirical Evaluation",
-    "category": "nlp",
-    "description": "Action Quality Assessment (AQA) has broad applications in physical therapy, sports coaching, and competitive judging. Although Vision Language Models (VLMs) hold considerable promise for AQA, their ac...",
-    "link": "http://arxiv.org/abs/2604.08294v1",
+    "id": "arxiv_1775795765511_1",
+    "name": "ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
+    "category": "computer-vision",
+    "description": "Human body fitting, which aligns parametric body models such as SMPL to raw 3D point clouds of clothed humans, serves as a crucial first step for downstream tasks like animation and texturing. An effe...",
+    "link": "http://arxiv.org/abs/2604.08548v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-04-09T17:59:59Z",
+    "trending": false,
+    "source": "arXiv - Xiaoben Li, Jingyi Wu, Zeyu Cai et al."
+  },
+  {
+    "id": "arxiv_1775795765491_0",
+    "name": "Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
+    "category": "ai",
+    "description": "The advent of agentic multimodal models has empowered systems to actively interact with external environments. However, current agents suffer from a profound meta-cognitive deficit: they struggle to a...",
+    "link": "http://arxiv.org/abs/2604.08545v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-04-09T17:59:57Z",
+    "trending": false,
+    "source": "arXiv - Shilin Yan, Jintao Tong, Hongwei Xue et al."
+  },
+  {
+    "id": "arxiv_1775795765511_2",
+    "name": "When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models",
+    "category": "computer-vision",
+    "description": "Text-to-video diffusion models have enabled open-ended video synthesis, but often struggle with generating the correct number of objects specified in a prompt. We introduce NUMINA , a training-free id...",
+    "link": "http://arxiv.org/abs/2604.08546v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-04-09T17:59:57Z",
+    "trending": false,
+    "source": "arXiv - Zhengyang Sun, Yu Chen, Xin Zhou et al."
+  },
+  {
+    "id": "arxiv_1775795765511_3",
+    "name": "Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
+    "category": "computer-vision",
+    "description": "The advent of agentic multimodal models has empowered systems to actively interact with external environments. However, current agents suffer from a profound meta-cognitive deficit: they struggle to a...",
+    "link": "http://arxiv.org/abs/2604.08545v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-04-09T17:59:57Z",
+    "trending": false,
+    "source": "arXiv - Shilin Yan, Jintao Tong, Hongwei Xue et al."
+  },
+  {
+    "id": "arxiv_1775795765492_1",
+    "name": "SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
+    "category": "ai",
+    "description": "Robotic manipulation with deformable objects represents a data-intensive regime in embodied learning, where shape, contact, and topology co-evolve in ways that far exceed the variability of rigids. Al...",
+    "link": "http://arxiv.org/abs/2604.08544v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion"
+    ],
+    "date": "2026-04-09T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Yunsong Zhou, Hangxu Liu, Xuekun Jiang et al."
+  },
+  {
+    "id": "arxiv_1775795765511_4",
+    "name": "SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
+    "category": "computer-vision",
+    "description": "Robotic manipulation with deformable objects represents a data-intensive regime in embodied learning, where shape, contact, and topology co-evolve in ways that far exceed the variability of rigids. Al...",
+    "link": "http://arxiv.org/abs/2604.08544v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion"
+    ],
+    "date": "2026-04-09T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Yunsong Zhou, Hangxu Liu, Xuekun Jiang et al."
+  },
+  {
+    "id": "arxiv_1775795765492_2",
+    "name": "Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
+    "category": "ai",
+    "description": "Multimodal Mixture-of-Experts (MoE) models have achieved remarkable performance on vision-language tasks. However, we identify a puzzling phenomenon termed Seeing but Not Thinking: models accurately p...",
+    "link": "http://arxiv.org/abs/2604.08541v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-04-09T14:29:19Z",
+    "date": "2026-04-09T17:59:44Z",
     "trending": false,
-    "source": "arXiv - Miguel Monte e Freitas, Rui Henriques, Ricardo Rei et al."
+    "source": "arXiv - Haolei Xu, Haiwen Hong, Hongxing Li et al."
   },
   {
-    "id": "arxiv_1775783645547_2",
-    "name": "Distributed Multi-Layer Editing for Rule-Level Knowledge in Large Language Models",
+    "id": "arxiv_1775795765738_0",
+    "name": "Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
     "category": "nlp",
-    "description": "Large language models store not only isolated facts but also rules that support reasoning across symbolic expressions, natural language explanations, and concrete instances. Yet most model editing met...",
-    "link": "http://arxiv.org/abs/2604.08284v1",
+    "description": "Multimodal Mixture-of-Experts (MoE) models have achieved remarkable performance on vision-language tasks. However, we identify a puzzling phenomenon termed Seeing but Not Thinking: models accurately p...",
+    "link": "http://arxiv.org/abs/2604.08541v1",
     "tags": [
       "AI",
-      "Transformer",
-      "GAN",
-      "GPT"
+      "Vision"
     ],
-    "date": "2026-04-09T14:22:19Z",
+    "date": "2026-04-09T17:59:44Z",
     "trending": false,
-    "source": "arXiv - Yating Wang, Wenting Zhao, Yaqi Zhao et al."
+    "source": "arXiv - Haolei Xu, Haiwen Hong, Hongxing Li et al."
   },
   {
-    "id": "arxiv_1775783645547_3",
-    "name": "When to Trust Tools? Adaptive Tool Trust Calibration For Tool-Integrated Math Reasoning",
-    "category": "nlp",
-    "description": "Large reasoning models (LRMs) have achieved strong performance enhancement through scaling test time computation, but due to the inherent limitations of the underlying language models, they still have...",
-    "link": "http://arxiv.org/abs/2604.08281v1",
-    "tags": [],
-    "date": "2026-04-09T14:14:37Z",
-    "trending": false,
-    "source": "arXiv - Ruotao Xu, Yixin Ji, Yu Luo et al."
-  },
-  {
-    "id": "arxiv_1775783645547_4",
-    "name": "Floating or Suggesting Ideas? A Large-Scale Contrastive Analysis of Metaphorical and Literal Verb-Object Constructions",
-    "category": "nlp",
-    "description": "Metaphor pervades everyday language, allowing speakers to express abstract concepts via concrete domains. While prior work has studied metaphors cognitively and psycholinguistically, large-scale compa...",
-    "link": "http://arxiv.org/abs/2604.08275v1",
-    "tags": [
-      "AI",
-      "NLP"
-    ],
-    "date": "2026-04-09T14:08:57Z",
-    "trending": false,
-    "source": "arXiv - Prisca Piccirilli, Alexander Fraser, Sabine Schulte im Walde"
-  },
-  {
-    "id": "arxiv_1775783608671_0",
-    "name": "Fast Spatial Memory with Elastic Test-Time Training",
-    "category": "computer-vision",
-    "description": "Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates remain vulnerable to catastrophic forgetting and over...",
-    "link": "http://arxiv.org/abs/2604.07350v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-08T17:59:48Z",
-    "trending": false,
-    "source": "arXiv - Ziqiao Ma, Xueyang Yu, Haoyu Zhen et al."
-  },
-  {
-    "id": "arxiv_1775783608609_0",
-    "name": "Toward a Tractability Frontier for Exact Relevance Certification",
+    "id": "arxiv_1775795765492_3",
+    "name": "AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation",
     "category": "ai",
-    "description": "Exact relevance certification asks which coordinates are necessary to determine the optimal action in a coordinate-structured decision problem. The tractable families treated here admit a finite primi...",
-    "link": "http://arxiv.org/abs/2604.07349v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-08T17:59:47Z",
-    "trending": false,
-    "source": "arXiv - Tristan Simas"
-  },
-  {
-    "id": "arxiv_1775783608609_1",
-    "name": "MoRight: Motion Control Done Right",
-    "category": "ai",
-    "description": "Generating motion-controlled videos--where user-specified actions drive physically plausible scene dynamics under freely chosen viewpoints--demands two capabilities: (1) disentangled motion control, a...",
-    "link": "http://arxiv.org/abs/2604.07348v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-08T17:59:22Z",
-    "trending": false,
-    "source": "arXiv - Shaowei Liu, Xuanchi Ren, Tianchang Shen et al."
-  },
-  {
-    "id": "arxiv_1775783608671_1",
-    "name": "MoRight: Motion Control Done Right",
-    "category": "computer-vision",
-    "description": "Generating motion-controlled videos--where user-specified actions drive physically plausible scene dynamics under freely chosen viewpoints--demands two capabilities: (1) disentangled motion control, a...",
-    "link": "http://arxiv.org/abs/2604.07348v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-08T17:59:22Z",
-    "trending": true,
-    "source": "arXiv - Shaowei Liu, Xuanchi Ren, Tianchang Shen et al."
-  },
-  {
-    "id": "arxiv_1775783608671_2",
-    "name": "TC-AE: Unlocking Token Capacity for Deep Compression Autoencoders",
-    "category": "computer-vision",
-    "description": "We propose TC-AE, a ViT-based architecture for deep compression autoencoders. Existing methods commonly increase the channel number of latent representations to maintain reconstruction quality under h...",
-    "link": "http://arxiv.org/abs/2604.07340v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-08T17:53:52Z",
-    "trending": false,
-    "source": "arXiv - Teng Li, Ziyuan Huang, Cong Chen et al."
-  },
-  {
-    "id": "arxiv_1775783608671_3",
-    "name": "Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images",
-    "category": "computer-vision",
-    "description": "Recent advances in vision-language models (VLMs) have improved image captioning for cultural heritage. However, inferring structured cultural metadata (e.g., creator, origin, period) from visual input...",
-    "link": "http://arxiv.org/abs/2604.07338v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-04-08T17:53:26Z",
-    "trending": false,
-    "source": "arXiv - Yuechen Jiang, Enze Zhang, Md Mohsinul Kabir et al."
-  },
-  {
-    "id": "arxiv_1775783608672_4",
-    "name": "From Blobs to Spokes: High-Fidelity Surface Reconstruction via Oriented Gaussians",
-    "category": "computer-vision",
-    "description": "3D Gaussian Splatting (3DGS) has revolutionized fast novel view synthesis, yet its opacity-based formulation makes surface extraction fundamentally difficult. Unlike implicit methods built on Signed D...",
-    "link": "http://arxiv.org/abs/2604.07337v1",
-    "tags": [],
-    "date": "2026-04-08T17:52:39Z",
-    "trending": false,
-    "source": "arXiv - Diego Gomez, Antoine Guédon, Nissim Maruani et al."
-  },
-  {
-    "id": "arxiv_1775783608609_2",
-    "name": "RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild",
-    "category": "ai",
-    "description": "Scaling up robot learning will likely require human data containing rich and long-horizon interactions in the wild. Existing approaches for collecting such data trade off portability, robustness to oc...",
-    "link": "http://arxiv.org/abs/2604.07331v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-08T17:48:46Z",
-    "trending": true,
-    "source": "arXiv - Wenjing Margaret Mao, Jefferson Ng, Luyang Hu et al."
-  },
-  {
-    "id": "arxiv_1775783608609_3",
-    "name": "Syntax Is Easy, Semantics Is Hard: Evaluating LLMs for LTL Translation",
-    "category": "ai",
-    "description": "Propositional Linear Temporal Logic (LTL) is a popular formalism for specifying desirable requirements and security and privacy policies for software, networks, and systems. Yet expressing such requir...",
-    "link": "http://arxiv.org/abs/2604.07321v1",
+    "description": "Text-to-Audio-Video (T2AV) generation is rapidly becoming a core interface for media creation, yet its evaluation remains fragmented. Existing benchmarks largely assess audio and video in isolation or...",
+    "link": "http://arxiv.org/abs/2604.08540v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-04-08T17:36:33Z",
-    "trending": true,
-    "source": "arXiv - Priscilla Kyei Danso, Mohammad Saqib Hasan, Niranjan Balasubramanian et al."
+    "date": "2026-04-09T17:59:39Z",
+    "trending": false,
+    "source": "arXiv - Ziwei Zhou, Zeyuan Lai, Rui Wang et al."
   },
   {
-    "id": "arxiv_1775783608609_4",
-    "name": "Evaluating In-Context Translation with Synchronous Context-Free Grammar Transduction",
+    "id": "arxiv_1775795765492_4",
+    "name": "OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks",
     "category": "ai",
-    "description": "Low-resource languages pose a challenge for machine translation with large language models (LLMs), which require large amounts of training data. One potential way to circumvent this data dependence is...",
-    "link": "http://arxiv.org/abs/2604.07320v1",
+    "description": "Group Relative Policy Optimization (GRPO) has emerged as the de facto Reinforcement Learning (RL) objective driving recent advancements in Multimodal Large Language Models. However, extending this suc...",
+    "link": "http://arxiv.org/abs/2604.08539v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-04-09T17:59:39Z",
+    "trending": true,
+    "source": "arXiv - Wenbo Hu, Xin Chen, Yan Gao-Tian et al."
+  },
+  {
+    "id": "arxiv_1775795765738_1",
+    "name": "AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation",
+    "category": "nlp",
+    "description": "Text-to-Audio-Video (T2AV) generation is rapidly becoming a core interface for media creation, yet its evaluation remains fragmented. Existing benchmarks largely assess audio and video in isolation or...",
+    "link": "http://arxiv.org/abs/2604.08540v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-04-08T17:35:44Z",
+    "date": "2026-04-09T17:59:39Z",
+    "trending": true,
+    "source": "arXiv - Ziwei Zhou, Zeyuan Lai, Rui Wang et al."
+  },
+  {
+    "id": "arxiv_1775795765738_2",
+    "name": "OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks",
+    "category": "nlp",
+    "description": "Group Relative Policy Optimization (GRPO) has emerged as the de facto Reinforcement Learning (RL) objective driving recent advancements in Multimodal Large Language Models. However, extending this suc...",
+    "link": "http://arxiv.org/abs/2604.08539v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-04-09T17:59:39Z",
     "trending": false,
-    "source": "arXiv - Jackson Petty, Jaulie Goe, Tal Linzen"
+    "source": "arXiv - Wenbo Hu, Xin Chen, Yan Gao-Tian et al."
+  },
+  {
+    "id": "arxiv_1775795765720_0",
+    "name": "Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding",
+    "category": "machine-learning",
+    "description": "Visual decoding from brain signals is a key challenge at the intersection of computer vision and neuroscience, requiring methods that bridge neural representations and computational models of vision. ...",
+    "link": "http://arxiv.org/abs/2604.08537v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Vision"
+    ],
+    "date": "2026-04-09T17:59:32Z",
+    "trending": false,
+    "source": "arXiv - Mu Nan, Muquan Yu, Weijian Mai et al."
+  },
+  {
+    "id": "arxiv_1775795765721_1",
+    "name": "Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models",
+    "category": "machine-learning",
+    "description": "On-policy distillation (OPD) trains student models under their own induced distribution while leveraging supervision from stronger teachers. We identify a failure mode of OPD: as training progresses, ...",
+    "link": "http://arxiv.org/abs/2604.08527v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-04-09T17:58:02Z",
+    "trending": false,
+    "source": "arXiv - Feng Luo, Yu-Neng Chuang, Guanchu Wang et al."
+  },
+  {
+    "id": "arxiv_1775795765738_3",
+    "name": "Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models",
+    "category": "nlp",
+    "description": "On-policy distillation (OPD) trains student models under their own induced distribution while leveraging supervision from stronger teachers. We identify a failure mode of OPD: as training progresses, ...",
+    "link": "http://arxiv.org/abs/2604.08527v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-04-09T17:58:02Z",
+    "trending": false,
+    "source": "arXiv - Feng Luo, Yu-Neng Chuang, Guanchu Wang et al."
+  },
+  {
+    "id": "arxiv_1775795765738_4",
+    "name": "Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest",
+    "category": "nlp",
+    "description": "Today's large language models (LLMs) are trained to align with user preferences through methods such as reinforcement learning. Yet models are beginning to be deployed not merely to satisfy users, but...",
+    "link": "http://arxiv.org/abs/2604.08525v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "GPT",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-04-09T17:57:50Z",
+    "trending": true,
+    "source": "arXiv - Addison J. Wu, Ryan Liu, Shuyue Stella Li et al."
+  },
+  {
+    "id": "arxiv_1775795765721_2",
+    "name": "What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal",
+    "category": "machine-learning",
+    "description": "Applying steering vectors to large language models (LLMs) is an efficient and effective model alignment technique, but we lack an interpretable explanation for how it works-- specifically, what intern...",
+    "link": "http://arxiv.org/abs/2604.08524v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-04-09T17:57:14Z",
+    "trending": false,
+    "source": "arXiv - Stephen Cheng, Sarah Wiegreffe, Dinesh Manocha"
+  },
+  {
+    "id": "arxiv_1775795765721_3",
+    "name": "Differentially Private Language Generation and Identification in the Limit",
+    "category": "machine-learning",
+    "description": "We initiate the study of language generation in the limit, a model recently introduced by Kleinberg and Mullainathan [KM24], under the constraint of differential privacy. We consider the continual rel...",
+    "link": "http://arxiv.org/abs/2604.08504v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-04-09T17:48:46Z",
+    "trending": false,
+    "source": "arXiv - Anay Mehrotra, Grigoris Velegkas, Xifan Yu et al."
+  },
+  {
+    "id": "arxiv_1775795765721_4",
+    "name": "PIArena: A Platform for Prompt Injection Evaluation",
+    "category": "machine-learning",
+    "description": "Prompt injection attacks pose serious security risks across a wide range of real-world applications. While receiving increasing attention, the community faces a critical gap: the lack of a unified pla...",
+    "link": "http://arxiv.org/abs/2604.08499v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-04-09T17:42:45Z",
+    "trending": false,
+    "source": "arXiv - Runpeng Geng, Chenlong Yin, Yanting Wang et al."
   }
 ]
