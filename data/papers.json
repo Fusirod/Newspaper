@@ -1,20 +1,6 @@
 [
   {
-    "id": "arxiv_1776078405427_0",
-    "name": "Tango: Taming Visual Signals for Efficient Video Large Language Models",
-    "category": "computer-vision",
-    "description": "Token pruning has emerged as a mainstream approach for developing efficient Video Large Language Models (Video LLMs). This work revisits and advances the two predominant token-pruning paradigms: atten...",
-    "link": "http://arxiv.org/abs/2604.09547v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-04-10T17:59:56Z",
-    "trending": false,
-    "source": "arXiv - Shukang Yin, Sirui Zhao, Hanchao Wang et al."
-  },
-  {
-    "id": "arxiv_1776078405368_0",
+    "id": "arxiv_1776084954627_0",
     "name": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
     "category": "ai",
     "description": "Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can...",
@@ -29,51 +15,7 @@
     "source": "arXiv - Hadas Orgad, Boyi Wei, Kaden Zheng et al."
   },
   {
-    "id": "arxiv_1776078405486_0",
-    "name": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
-    "category": "machine-learning",
-    "description": "Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can...",
-    "link": "http://arxiv.org/abs/2604.09544v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "LLM"
-    ],
-    "date": "2026-04-10T17:58:31Z",
-    "trending": false,
-    "source": "arXiv - Hadas Orgad, Boyi Wei, Kaden Zheng et al."
-  },
-  {
-    "id": "arxiv_1776078405544_0",
-    "name": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
-    "category": "nlp",
-    "description": "Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can...",
-    "link": "http://arxiv.org/abs/2604.09544v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "LLM"
-    ],
-    "date": "2026-04-10T17:58:31Z",
-    "trending": false,
-    "source": "arXiv - Hadas Orgad, Boyi Wei, Kaden Zheng et al."
-  },
-  {
-    "id": "arxiv_1776078405486_1",
-    "name": "ANTIC: Adaptive Neural Temporal In-situ Compressor",
-    "category": "machine-learning",
-    "description": "The persistent storage requirements for high-resolution, spatiotemporally evolving fields governed by large-scale and high-dimensional partial differential equations (PDEs) have reached the petabyte-t...",
-    "link": "http://arxiv.org/abs/2604.09543v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-04-10T17:58:16Z",
-    "trending": true,
-    "source": "arXiv - Sandeep S. Cranganore, Andrei Bodnar, Gianluca Galleti et al."
-  },
-  {
-    "id": "arxiv_1776078405368_1",
+    "id": "arxiv_1776084954627_1",
     "name": "Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision",
     "category": "ai",
     "description": "Evidence-grounded reasoning requires more than attaching retrieved text to a prediction: a model should make decisions that depend on whether the provided evidence supports the target claim. In practi...",
@@ -83,52 +25,11 @@
       "Vision"
     ],
     "date": "2026-04-10T17:55:38Z",
-    "trending": false,
-    "source": "arXiv - Soroosh Tayebi Arasteh, Mehdi Joodaki, Mahshad Lotfinia et al."
-  },
-  {
-    "id": "arxiv_1776078405486_2",
-    "name": "Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision",
-    "category": "machine-learning",
-    "description": "Evidence-grounded reasoning requires more than attaching retrieved text to a prediction: a model should make decisions that depend on whether the provided evidence supports the target claim. In practi...",
-    "link": "http://arxiv.org/abs/2604.09537v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-04-10T17:55:38Z",
-    "trending": false,
-    "source": "arXiv - Soroosh Tayebi Arasteh, Mehdi Joodaki, Mahshad Lotfinia et al."
-  },
-  {
-    "id": "arxiv_1776078405544_1",
-    "name": "Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision",
-    "category": "nlp",
-    "description": "Evidence-grounded reasoning requires more than attaching retrieved text to a prediction: a model should make decisions that depend on whether the provided evidence supports the target claim. In practi...",
-    "link": "http://arxiv.org/abs/2604.09537v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-04-10T17:55:38Z",
     "trending": true,
     "source": "arXiv - Soroosh Tayebi Arasteh, Mehdi Joodaki, Mahshad Lotfinia et al."
   },
   {
-    "id": "arxiv_1776078405427_1",
-    "name": "EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks",
-    "category": "computer-vision",
-    "description": "Large foundation models have made significant advances in embodied intelligence, enabling synthesis and reasoning over egocentric input for household tasks. However, VLM-based auto-labeling is often n...",
-    "link": "http://arxiv.org/abs/2604.09535v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-10T17:53:55Z",
-    "trending": false,
-    "source": "arXiv - Lulin Liu, Dayou Li, Yiqing Liang et al."
-  },
-  {
-    "id": "arxiv_1776078405368_2",
+    "id": "arxiv_1776084954627_2",
     "name": "Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise",
     "category": "ai",
     "description": "Prompt learning is a parameter-efficient approach for vision-language models, yet its robustness under label noise is less investigated. Visual content contains richer and more reliable semantic infor...",
@@ -138,104 +39,28 @@
       "Vision"
     ],
     "date": "2026-04-10T17:48:56Z",
-    "trending": false,
-    "source": "arXiv - Zibin Geng, Xuefeng Jiang, Jia Li et al."
-  },
-  {
-    "id": "arxiv_1776078405427_2",
-    "name": "Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise",
-    "category": "computer-vision",
-    "description": "Prompt learning is a parameter-efficient approach for vision-language models, yet its robustness under label noise is less investigated. Visual content contains richer and more reliable semantic infor...",
-    "link": "http://arxiv.org/abs/2604.09532v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-04-10T17:48:56Z",
-    "trending": false,
-    "source": "arXiv - Zibin Geng, Xuefeng Jiang, Jia Li et al."
-  },
-  {
-    "id": "arxiv_1776078405369_3",
-    "name": "VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
-    "category": "ai",
-    "description": "Vision-language models (VLMs) still struggle with visual perception tasks such as spatial understanding and viewpoint recognition. One plausible contributing factor is that natural image datasets prov...",
-    "link": "http://arxiv.org/abs/2604.09531v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-04-10T17:48:51Z",
-    "trending": false,
-    "source": "arXiv - Guanyu Zhou, Yida Yin, Wenhao Chai et al."
-  },
-  {
-    "id": "arxiv_1776078405427_3",
-    "name": "VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
-    "category": "computer-vision",
-    "description": "Vision-language models (VLMs) still struggle with visual perception tasks such as spatial understanding and viewpoint recognition. One plausible contributing factor is that natural image datasets prov...",
-    "link": "http://arxiv.org/abs/2604.09531v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-04-10T17:48:51Z",
-    "trending": false,
-    "source": "arXiv - Guanyu Zhou, Yida Yin, Wenhao Chai et al."
-  },
-  {
-    "id": "arxiv_1776078405544_2",
-    "name": "VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
-    "category": "nlp",
-    "description": "Vision-language models (VLMs) still struggle with visual perception tasks such as spatial understanding and viewpoint recognition. One plausible contributing factor is that natural image datasets prov...",
-    "link": "http://arxiv.org/abs/2604.09531v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-04-10T17:48:51Z",
-    "trending": false,
-    "source": "arXiv - Guanyu Zhou, Yida Yin, Wenhao Chai et al."
-  },
-  {
-    "id": "arxiv_1776078405369_4",
-    "name": "VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
-    "category": "ai",
-    "description": "Large Vision Language Models (LVLMs) achieve strong multimodal reasoning but frequently exhibit hallucinations and incorrect responses with high certainty, which hinders their usage in high-stakes dom...",
-    "link": "http://arxiv.org/abs/2604.09529v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-04-10T17:47:19Z",
-    "trending": false,
-    "source": "arXiv - Wenyi Xiao, Xinchi Xu, Leilei Gan"
-  },
-  {
-    "id": "arxiv_1776078405427_4",
-    "name": "VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
-    "category": "computer-vision",
-    "description": "Large Vision Language Models (LVLMs) achieve strong multimodal reasoning but frequently exhibit hallucinations and incorrect responses with high certainty, which hinders their usage in high-stakes dom...",
-    "link": "http://arxiv.org/abs/2604.09529v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-04-10T17:47:19Z",
     "trending": true,
-    "source": "arXiv - Wenyi Xiao, Xinchi Xu, Leilei Gan"
+    "source": "arXiv - Zibin Geng, Xuefeng Jiang, Jia Li et al."
   },
   {
-    "id": "arxiv_1776078405544_3",
+    "id": "arxiv_1776084954627_3",
+    "name": "VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
+    "category": "ai",
+    "description": "Vision-language models (VLMs) still struggle with visual perception tasks such as spatial understanding and viewpoint recognition. One plausible contributing factor is that natural image datasets prov...",
+    "link": "http://arxiv.org/abs/2604.09531v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-04-10T17:48:51Z",
+    "trending": false,
+    "source": "arXiv - Guanyu Zhou, Yida Yin, Wenhao Chai et al."
+  },
+  {
+    "id": "arxiv_1776084954628_4",
     "name": "VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
-    "category": "nlp",
+    "category": "ai",
     "description": "Large Vision Language Models (LVLMs) achieve strong multimodal reasoning but frequently exhibit hallucinations and incorrect responses with high certainty, which hinders their usage in high-stakes dom...",
     "link": "http://arxiv.org/abs/2604.09529v1",
     "tags": [
@@ -247,50 +72,5 @@
     "date": "2026-04-10T17:47:19Z",
     "trending": false,
     "source": "arXiv - Wenyi Xiao, Xinchi Xu, Leilei Gan"
-  },
-  {
-    "id": "arxiv_1776078405487_3",
-    "name": "Envisioning the Future, One Step at a Time",
-    "category": "machine-learning",
-    "description": "Accurately anticipating how complex, diverse scenes will evolve requires models that represent uncertainty, simulate along extended interaction chains, and efficiently explore many plausible futures. ...",
-    "link": "http://arxiv.org/abs/2604.09527v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Diffusion"
-    ],
-    "date": "2026-04-10T17:46:05Z",
-    "trending": false,
-    "source": "arXiv - Stefan Andreas Baumann, Jannik Wiese, Tommaso Martorella et al."
-  },
-  {
-    "id": "arxiv_1776078405487_4",
-    "name": "Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL",
-    "category": "machine-learning",
-    "description": "The transition of Multi-Agent Reinforcement Learning (MARL) policies from simulated cyber wargames to operational Security Operations Centers (SOCs) is fundamentally bottlenecked by the Sim2Real gap. ...",
-    "link": "http://arxiv.org/abs/2604.09523v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "NLP",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-04-10T17:44:29Z",
-    "trending": false,
-    "source": "arXiv - Igor Jankowski"
-  },
-  {
-    "id": "arxiv_1776078405545_4",
-    "name": "Many Ways to Be Fake: Benchmarking Fake News Detection Under Strategy-Driven AI Generation",
-    "category": "nlp",
-    "description": "Recent advances in large language models (LLMs) have enabled the large-scale generation of highly fluent and deceptive news-like content. While prior work has often treated fake news detection as a bi...",
-    "link": "http://arxiv.org/abs/2604.09514v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-04-10T17:36:00Z",
-    "trending": false,
-    "source": "arXiv - Xinyu Wang, Sai Koneru, Wenbo Zhang et al."
   }
 ]
