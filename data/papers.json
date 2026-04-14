@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1776192933921_0",
+    "id": "arxiv_1776196734504_0",
     "name": "Who Handles Orientation? Investigating Invariance in Feature Matching",
     "category": "computer-vision",
     "description": "Finding matching keypoints between images is a core problem in 3D computer vision. However, modern matchers struggle with large in-plane rotations. A straightforward mitigation is to learn rotation in...",
@@ -10,11 +10,11 @@
       "Vision"
     ],
     "date": "2026-04-13T17:59:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - David Nordström, Johan Edstedt, Fredrik Kahl et al."
   },
   {
-    "id": "arxiv_1776192933921_1",
+    "id": "arxiv_1776196734504_1",
     "name": "Pair2Scene: Learning Local Object Relations for Procedural Scene Generation",
     "category": "computer-vision",
     "description": "Generating high-fidelity 3D indoor scenes remains a significant challenge due to data scarcity and the complexity of modeling intricate spatial relations. Current methods often struggle to scale beyon...",
@@ -28,9 +28,23 @@
     "source": "arXiv - Xingjian Ran, Shujie Zhang, Weipeng Zhong et al."
   },
   {
-    "id": "arxiv_1776192933840_0",
+    "id": "arxiv_1776196734322_0",
     "name": "Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
     "category": "ai",
+    "description": "The stable operation of autonomous off-grid photovoltaic systems dictates reliance on solar forecasting algorithms that respect atmospheric thermodynamics. Contemporary deep learning models consistent...",
+    "link": "http://arxiv.org/abs/2604.11807v1",
+    "tags": [
+      "AI",
+      "Deep Learning"
+    ],
+    "date": "2026-04-13T17:59:49Z",
+    "trending": false,
+    "source": "arXiv - Mohammed Ezzaldin Babiker Abdullah"
+  },
+  {
+    "id": "arxiv_1776196734676_0",
+    "name": "Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
+    "category": "machine-learning",
     "description": "The stable operation of autonomous off-grid photovoltaic systems dictates reliance on solar forecasting algorithms that respect atmospheric thermodynamics. Contemporary deep learning models consistent...",
     "link": "http://arxiv.org/abs/2604.11807v1",
     "tags": [
@@ -42,21 +56,7 @@
     "source": "arXiv - Mohammed Ezzaldin Babiker Abdullah"
   },
   {
-    "id": "arxiv_1776192934238_0",
-    "name": "Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
-    "category": "machine-learning",
-    "description": "The stable operation of autonomous off-grid photovoltaic systems dictates reliance on solar forecasting algorithms that respect atmospheric thermodynamics. Contemporary deep learning models consistent...",
-    "link": "http://arxiv.org/abs/2604.11807v1",
-    "tags": [
-      "AI",
-      "Deep Learning"
-    ],
-    "date": "2026-04-13T17:59:49Z",
-    "trending": false,
-    "source": "arXiv - Mohammed Ezzaldin Babiker Abdullah"
-  },
-  {
-    "id": "arxiv_1776192933840_1",
+    "id": "arxiv_1776196734322_1",
     "name": "Detecting Safety Violations Across Many Agent Traces",
     "category": "ai",
     "description": "To identify safety violations, auditors often search over large sets of agent traces. This search is difficult because failures are often rare, complex, and sometimes even adversarially hidden and onl...",
@@ -65,11 +65,11 @@
       "AI"
     ],
     "date": "2026-04-13T17:59:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Adam Stein, Davis Brown, Hamed Hassani et al."
   },
   {
-    "id": "arxiv_1776192933841_2",
+    "id": "arxiv_1776196734322_2",
     "name": "Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
     "category": "ai",
     "description": "We have witnessed remarkable advances in LLM reasoning capabilities with the advent of DeepSeek-R1. However, much of this progress has been fueled by the abundance of internet question-answer (QA) pai...",
@@ -85,7 +85,7 @@
     "source": "arXiv - Mihir Prabhudesai, Aryan Satpathy, Yangmin Li et al."
   },
   {
-    "id": "arxiv_1776192933921_2",
+    "id": "arxiv_1776196734504_2",
     "name": "Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
     "category": "computer-vision",
     "description": "We have witnessed remarkable advances in LLM reasoning capabilities with the advent of DeepSeek-R1. However, much of this progress has been fueled by the abundance of internet question-answer (QA) pai...",
@@ -97,11 +97,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-04-13T17:59:40Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Mihir Prabhudesai, Aryan Satpathy, Yangmin Li et al."
   },
   {
-    "id": "arxiv_1776192934238_1",
+    "id": "arxiv_1776196734676_1",
     "name": "Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
     "category": "machine-learning",
     "description": "We have witnessed remarkable advances in LLM reasoning capabilities with the advent of DeepSeek-R1. However, much of this progress has been fueled by the abundance of internet question-answer (QA) pai...",
@@ -113,11 +113,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-04-13T17:59:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Mihir Prabhudesai, Aryan Satpathy, Yangmin Li et al."
   },
   {
-    "id": "arxiv_1776192934316_0",
+    "id": "arxiv_1776196734907_0",
     "name": "Detecting Safety Violations Across Many Agent Traces",
     "category": "nlp",
     "description": "To identify safety violations, auditors often search over large sets of agent traces. This search is difficult because failures are often rare, complex, and sometimes even adversarially hidden and onl...",
@@ -130,7 +130,7 @@
     "source": "arXiv - Adam Stein, Davis Brown, Hamed Hassani et al."
   },
   {
-    "id": "arxiv_1776192933921_3",
+    "id": "arxiv_1776196734504_3",
     "name": "OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation",
     "category": "computer-vision",
     "description": "In this work, we study Human-Object Interaction Video Generation (HOIVG), which aims to synthesize high-quality human-object interaction videos conditioned on text, reference images, audio, and pose. ...",
@@ -143,7 +143,7 @@
     "source": "arXiv - Donghao Zhou, Guisheng Liu, Hao Yang et al."
   },
   {
-    "id": "arxiv_1776192934316_1",
+    "id": "arxiv_1776196734907_1",
     "name": "Saar-Voice: A Multi-Speaker Saarbrücken Dialect Speech Corpus",
     "category": "nlp",
     "description": "Natural language processing (NLP) and speech technologies have made significant progress in recent years; however, they remain largely focused on standardized language varieties. Dialects, despite the...",
@@ -157,7 +157,7 @@
     "source": "arXiv - Lena S. Oberkircher, Jesujoba O. Alabi, Dietrich Klakow et al."
   },
   {
-    "id": "arxiv_1776192934316_2",
+    "id": "arxiv_1776196734907_2",
     "name": "Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs?",
     "category": "nlp",
     "description": "Using psychological constructs such as the Big Five, large language models (LLMs) can imitate specific personality profiles and predict a user's personality. While LLMs can exhibit behaviors consisten...",
@@ -168,11 +168,11 @@
       "LLM"
     ],
     "date": "2026-04-13T17:58:49Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yuto Harada, Hiro Taiyo Hamada"
   },
   {
-    "id": "arxiv_1776192934316_3",
+    "id": "arxiv_1776196734907_3",
     "name": "CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation",
     "category": "nlp",
     "description": "With the recent progress of Large Language Models (LLMs), there is a growing interest in applying these models to solve complex and challenging problems. Modern LLMs, capable of processing long contex...",
@@ -182,11 +182,11 @@
       "LLM"
     ],
     "date": "2026-04-13T17:58:43Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - WonJin Yoon, Kangyu Zhu, Ian Bulovic et al."
   },
   {
-    "id": "arxiv_1776192933841_3",
+    "id": "arxiv_1776196734322_3",
     "name": "Budget-Aware Uncertainty for Radiotherapy Segmentation QA Using nnU-Net",
     "category": "ai",
     "description": "Accurate delineation of the Clinical Target Volume (CTV) is essential for radiotherapy planning, yet remains time-consuming and difficult to assess, especially for complex treatments such as Total Mar...",
@@ -201,7 +201,7 @@
     "source": "arXiv - Ricardo Coimbra Brioso, Lorenzo Mondo, Damiano Dei et al."
   },
   {
-    "id": "arxiv_1776192933921_4",
+    "id": "arxiv_1776196734504_4",
     "name": "Budget-Aware Uncertainty for Radiotherapy Segmentation QA Using nnU-Net",
     "category": "computer-vision",
     "description": "Accurate delineation of the Clinical Target Volume (CTV) is essential for radiotherapy planning, yet remains time-consuming and difficult to assess, especially for complex treatments such as Total Mar...",
@@ -212,11 +212,11 @@
       "Vision"
     ],
     "date": "2026-04-13T17:58:15Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ricardo Coimbra Brioso, Lorenzo Mondo, Damiano Dei et al."
   },
   {
-    "id": "arxiv_1776192933841_4",
+    "id": "arxiv_1776196734322_4",
     "name": "C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts",
     "category": "ai",
     "description": "Recently, large language models (LLMs) are capable of generating highly fluent textual content. While they offer significant convenience to humans, they also introduce various risks, like phishing and...",
@@ -230,7 +230,7 @@
     "source": "arXiv - Chenxi Qing, Junxi Wu, Zheng Liu et al."
   },
   {
-    "id": "arxiv_1776192934316_4",
+    "id": "arxiv_1776196734907_4",
     "name": "C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts",
     "category": "nlp",
     "description": "Recently, large language models (LLMs) are capable of generating highly fluent textual content. While they offer significant convenience to humans, they also introduce various risks, like phishing and...",
@@ -244,7 +244,7 @@
     "source": "arXiv - Chenxi Qing, Junxi Wu, Zheng Liu et al."
   },
   {
-    "id": "arxiv_1776192934238_2",
+    "id": "arxiv_1776196734676_2",
     "name": "A Mechanistic Analysis of Looped Reasoning Language Models",
     "category": "machine-learning",
     "description": "Reasoning has become a central capability in large language models. Recent research has shown that reasoning performance can be improved by looping an LLM's layers in the latent dimension, resulting i...",
@@ -258,7 +258,7 @@
     "source": "arXiv - Hugh Blayney, Álvaro Arroyo, Johan Obando-Ceron et al."
   },
   {
-    "id": "arxiv_1776192934238_3",
+    "id": "arxiv_1776196734676_3",
     "name": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
     "category": "machine-learning",
     "description": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications t...",
@@ -272,7 +272,7 @@
     "source": "arXiv - Fei Tang, Zhiqiong Lu, Boxuan Zhang et al."
   },
   {
-    "id": "arxiv_1776192934238_4",
+    "id": "arxiv_1776196734677_4",
     "name": "Autonomous Diffractometry Enabled by Visual Reinforcement Learning",
     "category": "machine-learning",
     "description": "Automation underpins progress across scientific and industrial disciplines. Yet, automating tasks requiring interpretation of abstract visual information remain challenging. For example, crystal align...",
@@ -283,7 +283,7 @@
       "Reinforcement Learning"
     ],
     "date": "2026-04-13T17:42:19Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - J. Oppliger, M. Stifter, A. Rüegg et al."
   }
 ]
