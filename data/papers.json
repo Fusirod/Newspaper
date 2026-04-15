@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1776289212442_0",
+    "id": "arxiv_1776292265011_0",
     "name": "Lyra 2.0: Explorable Generative 3D Worlds",
     "category": "computer-vision",
     "description": "Recent advances in video generation enable a new paradigm for 3D scene creation: generating camera-controlled videos that simulate scene walkthroughs, then lifting them to 3D via feed-forward reconstr...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Tianchang Shen, Sherwin Bahmani, Kai He et al."
   },
   {
-    "id": "arxiv_1776289212442_1",
+    "id": "arxiv_1776292265011_1",
     "name": "SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis",
     "category": "computer-vision",
     "description": "Large Language Models (LLMs) and Vision-Language Models (VLMs) increasingly generate indoor scenes through intermediate structures such as layouts and scene graphs, yet evaluation still relies on LLM ...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Kathakoli Sengupta, Kai Ao, Paola Cascante-Bonilla"
   },
   {
-    "id": "arxiv_1776289212730_0",
+    "id": "arxiv_1776292265401_0",
     "name": "SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis",
     "category": "nlp",
     "description": "Large Language Models (LLMs) and Vision-Language Models (VLMs) increasingly generate indoor scenes through intermediate structures such as layouts and scene graphs, yet evaluation still relies on LLM ...",
@@ -43,7 +43,7 @@
     "source": "arXiv - Kathakoli Sengupta, Kai Ao, Paola Cascante-Bonilla"
   },
   {
-    "id": "arxiv_1776289212442_2",
+    "id": "arxiv_1776292265012_2",
     "name": "Generative Refinement Networks for Visual Synthesis",
     "category": "computer-vision",
     "description": "While diffusion models dominate the field of visual generation, they are computationally inefficient, applying a uniform computational effort regardless of different complexity. In contrast, autoregre...",
@@ -53,11 +53,11 @@
       "Diffusion"
     ],
     "date": "2026-04-14T17:59:03Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jian Han, Jinlai Liu, Jiahuan Wang et al."
   },
   {
-    "id": "arxiv_1776289212212_0",
+    "id": "arxiv_1776292264928_0",
     "name": "Visual Preference Optimization with Rubric Rewards",
     "category": "ai",
     "description": "The effectiveness of Direct Preference Optimization (DPO) depends on preference data that reflect the quality differences that matter in multimodal tasks. Existing pipelines often rely on off-policy p...",
@@ -68,11 +68,11 @@
       "Optimization"
     ],
     "date": "2026-04-14T17:58:22Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ya-Qi Yu, Fangyu Hong, Xiangyang Qu et al."
   },
   {
-    "id": "arxiv_1776289212443_3",
+    "id": "arxiv_1776292265012_3",
     "name": "Visual Preference Optimization with Rubric Rewards",
     "category": "computer-vision",
     "description": "The effectiveness of Direct Preference Optimization (DPO) depends on preference data that reflect the quality differences that matter in multimodal tasks. Existing pipelines often rely on off-policy p...",
@@ -87,7 +87,7 @@
     "source": "arXiv - Ya-Qi Yu, Fangyu Hong, Xiangyang Qu et al."
   },
   {
-    "id": "arxiv_1776289212443_4",
+    "id": "arxiv_1776292265012_4",
     "name": "Conflated Inverse Modeling to Generate Diverse and Temperature-Change Inducing Urban Vegetation Patterns",
     "category": "computer-vision",
     "description": "Urban areas are increasingly vulnerable to thermal extremes driven by rapid urbanization and climate change. Traditionally, thermal extremes have been monitored using Earth-observing satellites and nu...",
@@ -98,11 +98,11 @@
       "Diffusion"
     ],
     "date": "2026-04-14T17:58:07Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Baris Sarper Tezcan, Hrishikesh Viswanath, Rubab Saher et al."
   },
   {
-    "id": "arxiv_1776289212513_0",
+    "id": "arxiv_1776292265320_0",
     "name": "CLAD: Efficient Log Anomaly Detection Directly on Compressed Representations",
     "category": "machine-learning",
     "description": "The explosive growth of system logs makes streaming compression essential, yet existing log anomaly detection (LAD) methods incur severe pre-processing overhead by requiring full decompression and par...",
@@ -113,11 +113,11 @@
       "Transformer"
     ],
     "date": "2026-04-14T17:57:01Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Benzhao Tang, Shiyu Yang"
   },
   {
-    "id": "arxiv_1776289212513_1",
+    "id": "arxiv_1776292265320_1",
     "name": "Classical and Quantum Speedups for Non-Convex Optimization via Energy Conserving Descent",
     "category": "machine-learning",
     "description": "The Energy Conserving Descent (ECD) algorithm was recently proposed (De Luca & Silverstein, 2022) as a global non-convex optimization method. Unlike gradient descent, appropriately configured ECD dyna...",
@@ -132,7 +132,7 @@
     "source": "arXiv - Yihang Sun, Huaijin Wang, Patrick Hayden et al."
   },
   {
-    "id": "arxiv_1776289212212_1",
+    "id": "arxiv_1776292264929_1",
     "name": "Representation geometry shapes task performance in vision-language modeling for CT enterography",
     "category": "ai",
     "description": "Computed tomography (CT) enterography is a primary imaging modality for assessing inflammatory bowel disease (IBD), yet the representational choices that best support automated analysis of this modali...",
@@ -142,11 +142,11 @@
       "Vision"
     ],
     "date": "2026-04-14T17:56:23Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Cristian Minoccheri, Emily Wittrup, Kayvan Najarian et al."
   },
   {
-    "id": "arxiv_1776289212730_1",
+    "id": "arxiv_1776292265402_1",
     "name": "Toward Autonomous Long-Horizon Engineering for ML Research",
     "category": "nlp",
     "description": "Autonomous AI research has advanced rapidly, but long-horizon ML research engineering remains difficult: agents must sustain coherent progress across task comprehension, environment setup, implementat...",
@@ -155,11 +155,11 @@
       "AI"
     ],
     "date": "2026-04-14T17:55:16Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Guoxin Chen, Jie Chen, Lei Chen et al."
   },
   {
-    "id": "arxiv_1776289212213_2",
+    "id": "arxiv_1776292264929_2",
     "name": "PAL: Personal Adaptive Learner",
     "category": "ai",
     "description": "AI-driven education platforms have made some progress in personalisation, yet most remain constrained to static adaptation--predefined quizzes, uniform pacing, or generic feedback--limiting their abil...",
@@ -168,11 +168,11 @@
       "AI"
     ],
     "date": "2026-04-14T17:54:37Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Megha Chakraborty, Darssan L. Eswaramoorthi, Madhur Thareja et al."
   },
   {
-    "id": "arxiv_1776289212213_3",
+    "id": "arxiv_1776292264929_3",
     "name": "Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe",
     "category": "ai",
     "description": "On-policy distillation (OPD) has become a core technique in the post-training of large language models, yet its training dynamics remain poorly understood. This paper provides a systematic investigati...",
@@ -185,7 +185,7 @@
     "source": "arXiv - Yaxuan Li, Yuxin Zuo, Bingxiang He et al."
   },
   {
-    "id": "arxiv_1776289212513_2",
+    "id": "arxiv_1776292265320_2",
     "name": "Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe",
     "category": "machine-learning",
     "description": "On-policy distillation (OPD) has become a core technique in the post-training of large language models, yet its training dynamics remain poorly understood. This paper provides a systematic investigati...",
@@ -198,7 +198,7 @@
     "source": "arXiv - Yaxuan Li, Yuxin Zuo, Bingxiang He et al."
   },
   {
-    "id": "arxiv_1776289212730_2",
+    "id": "arxiv_1776292265402_2",
     "name": "Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe",
     "category": "nlp",
     "description": "On-policy distillation (OPD) has become a core technique in the post-training of large language models, yet its training dynamics remain poorly understood. This paper provides a systematic investigati...",
@@ -211,7 +211,7 @@
     "source": "arXiv - Yaxuan Li, Yuxin Zuo, Bingxiang He et al."
   },
   {
-    "id": "arxiv_1776289212213_4",
+    "id": "arxiv_1776292264929_4",
     "name": "Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem",
     "category": "ai",
     "description": "This paper tackles the Electric Capacitated Vehicle Routing Problem (E-CVRP) through a bilevel optimization framework that handles routing and charging decisions separately or jointly depending on the...",
@@ -221,11 +221,11 @@
       "Optimization"
     ],
     "date": "2026-04-14T17:47:12Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yinghao Qin, Mosab Bazargani, Edmund K. Burke et al."
   },
   {
-    "id": "arxiv_1776289212513_3",
+    "id": "arxiv_1776292265320_3",
     "name": "Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation",
     "category": "machine-learning",
     "description": "On-policy distillation (OPD) has emerged as an efficient post-training paradigm for large language models. However, standard OPD requires a live teacher inference server throughout training, resulting...",
@@ -235,11 +235,11 @@
       "LLM"
     ],
     "date": "2026-04-14T17:44:50Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yecheng Wu, Song Han, Hai Cai"
   },
   {
-    "id": "arxiv_1776289212730_3",
+    "id": "arxiv_1776292265402_3",
     "name": "One Token Away from Collapse: The Fragility of Instruction-Tuned Helpfulness",
     "category": "nlp",
     "description": "Instruction-tuned large language models produce helpful, structured responses, but how robust is this helpfulness when trivially constrained? We show that simple lexical constraints (banning a single ...",
@@ -254,7 +254,7 @@
     "source": "arXiv - Erfan Baghaei Potraghloo, Seyedarmin Azizi, Souvik Kundu et al."
   },
   {
-    "id": "arxiv_1776289212730_4",
+    "id": "arxiv_1776292265403_4",
     "name": "PolicyLLM: Towards Excellent Comprehension of Public Policy for Large Language Models",
     "category": "nlp",
     "description": "Large Language Models (LLMs) are increasingly integrated into real-world decision-making, including in the domain of public policy. Yet, their ability to comprehend and reason about policy-related con...",
@@ -264,11 +264,11 @@
       "LLM"
     ],
     "date": "2026-04-14T17:27:50Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Han Bao, Penghao Zhang, Yue Huang et al."
   },
   {
-    "id": "arxiv_1776289212513_4",
+    "id": "arxiv_1776292265321_4",
     "name": "Causal Diffusion Models for Counterfactual Outcome Distributions in Longitudinal Data",
     "category": "machine-learning",
     "description": "Predicting counterfactual outcomes in longitudinal data, where sequential treatment decisions heavily depend on evolving patient states, is critical yet notoriously challenging due to complex time-dep...",
@@ -278,7 +278,7 @@
       "Diffusion"
     ],
     "date": "2026-04-14T17:25:53Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Farbod Alinezhad, Jianfei Cao, Gary J. Young et al."
   }
 ]
