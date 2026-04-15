@@ -1,6 +1,59 @@
 [
   {
-    "id": "rss_TechCrunch_1776280348820_0",
+    "id": "rss_Ars_Technica_1776285381355_0",
+    "title": "Google releases new apps for Windows and MacOS",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Google mostly creates products for the web, but it has some new desktop apps today. \n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+    "tags": [
+      "Google"
+    ],
+    "date": "Wed, 15 Apr 2026 19:46:43 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1776285381355_1",
+    "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Google's AI enables robots to read gauges while inspecting industrial facilities.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
+    "tags": [
+      "AI",
+      "Google",
+      "Robot"
+    ],
+    "date": "Wed, 15 Apr 2026 19:34:33 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1776285377172_0",
+    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity. ",
+    "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 15 Apr 2026 19:28:36 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1776285381355_2",
+    "title": "Prime Video shows “technical difficulties” sign instead of NBA game in overtime",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"Am I trippin??\" asks LeBron James. \n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/04/nba-fans-cry-foul-as-prime-video-cuts-out-during-overtime-fails-to-sync-audio/",
+    "tags": [],
+    "date": "Wed, 15 Apr 2026 19:16:43 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1776285377173_1",
     "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -14,7 +67,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776280348820_1",
+    "id": "rss_TechCrunch_1776285377173_2",
     "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -24,10 +77,10 @@
       "AI"
     ],
     "date": "Wed, 15 Apr 2026 18:51:54 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1776280352211_0",
+    "id": "rss_Ars_Technica_1776285381355_3",
     "title": "New teaser gives us first look at Godzilla Minus Zero",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -38,7 +91,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1776280348820_2",
+    "id": "rss_TechCrunch_1776285377173_3",
     "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -52,7 +105,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776280352211_1",
+    "id": "rss_Ars_Technica_1776285381355_4",
     "title": "Vulcan woes will \"absolutely\" be a factor in Pentagon's next rocket competition",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -60,10 +113,10 @@
     "link": "https://arstechnica.com/space/2026/04/space-force-looks-at-moving-significant-number-of-launches-from-ula-to-spacex/",
     "tags": [],
     "date": "Wed, 15 Apr 2026 18:33:53 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776280348820_3",
+    "id": "rss_TechCrunch_1776285377173_4",
     "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -74,23 +127,10 @@
       "Startup"
     ],
     "date": "Wed, 15 Apr 2026 18:33:20 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1776280348820_4",
-    "title": "Google rolls out a native Gemini app for Mac",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
-    "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-    "tags": [
-      "Google"
-    ],
-    "date": "Wed, 15 Apr 2026 18:22:13 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1776280353319_0",
+    "id": "rss_Wired_1776285382494_0",
     "title": "AI Could Democratize One of Tech's Most Valuable Resources",
     "category": "ai-news",
     "source": "Wired",
@@ -102,45 +142,10 @@
       "Startup"
     ],
     "date": "Wed, 15 Apr 2026 18:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1776280352211_2",
-    "title": "FCC exempts Netgear from ban on foreign routers, doesn't explain why",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Trump FCC starts handing out exemptions to its ban on foreign-made routers.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 15 Apr 2026 17:58:07 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776280352211_3",
-    "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        This is a big step in a new strategic direction for Adobe.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
-    "tags": [],
-    "date": "Wed, 15 Apr 2026 16:54:33 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1776280352211_4",
-    "title": "US jobs too important to risk Chinese car imports, says Ford CEO",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        China has enough spare capacity to swallow the entire US car market, says Ford's Jim Farley.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/04/us-jobs-too-important-to-risk-chinese-car-imports-says-ford-ceo/",
-    "tags": [],
-    "date": "Wed, 15 Apr 2026 16:08:26 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1776280353319_1",
+    "id": "rss_Wired_1776285382494_1",
     "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
     "category": "ai-news",
     "source": "Wired",
@@ -153,7 +158,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776280350975_0",
+    "id": "rss_MIT_Tech_Review_1776285379995_0",
     "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -163,10 +168,10 @@
       "AI"
     ],
     "date": "Wed, 15 Apr 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776280350975_1",
+    "id": "rss_MIT_Tech_Review_1776285379995_1",
     "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -177,7 +182,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776280353319_2",
+    "id": "rss_Wired_1776285382494_2",
     "title": "AI Slop Is Making the Internet Fake-Happy",
     "category": "ai-news",
     "source": "Wired",
@@ -187,10 +192,10 @@
       "AI"
     ],
     "date": "Wed, 15 Apr 2026 11:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1776280353319_3",
+    "id": "rss_Wired_1776285382494_3",
     "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
     "category": "ai-news",
     "source": "Wired",
@@ -200,10 +205,10 @@
       "AI"
     ],
     "date": "Wed, 15 Apr 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1776280350975_2",
+    "id": "rss_MIT_Tech_Review_1776285379995_2",
     "title": "No one’s sure if synthetic mirror life will kill us all",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -213,10 +218,10 @@
       "AI"
     ],
     "date": "Wed, 15 Apr 2026 09:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1776280350975_3",
+    "id": "rss_MIT_Tech_Review_1776285379995_3",
     "title": "Building trust in the AI era with privacy-led UX",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -229,7 +234,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776280350976_4",
+    "id": "rss_MIT_Tech_Review_1776285379996_4",
     "title": "Redefining the future of software engineering",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -240,7 +245,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776280353320_4",
+    "id": "rss_Wired_1776285382495_4",
     "title": "How to Use Google Chrome’s New AI-Powered ‘Skills’",
     "category": "ai-news",
     "source": "Wired",
@@ -254,7 +259,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776280361561_0",
+    "id": "rss_Distill_1776285391429_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -264,10 +269,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1776280361561_1",
+    "id": "rss_Distill_1776285391429_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -280,7 +285,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776280361561_2",
+    "id": "rss_Distill_1776285391429_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -291,7 +296,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776280361561_3",
+    "id": "rss_Distill_1776285391429_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -301,10 +306,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1776280361561_4",
+    "id": "rss_Distill_1776285391429_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -312,6 +317,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
