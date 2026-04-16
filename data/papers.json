@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1776362478849_0",
+    "id": "arxiv_1776369314595_0",
     "name": "One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding",
     "category": "computer-vision",
     "description": "Long video understanding is inherently challenging for vision-language models (VLMs) because of the extensive number of frames. With each video frame typically expanding into tens or hundreds of token...",
@@ -10,11 +10,11 @@
       "LLM"
     ],
     "date": "2026-04-15T17:59:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zheyu Zhang, Ziqi Pang, Shixing Chen et al."
   },
   {
-    "id": "arxiv_1776362478850_1",
+    "id": "arxiv_1776369314596_1",
     "name": "Seedance 2.0: Advancing Video Generation for World Complexity",
     "category": "computer-vision",
     "description": "Seedance 2.0 is a new native multi-modal audio-video generation model, officially released in China in early February 2026. Compared with its predecessors, Seedance 1.0 and 1.5 Pro, Seedance 2.0 adopt...",
@@ -23,11 +23,11 @@
       "AI"
     ],
     "date": "2026-04-15T17:59:40Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Team Seedance, De Chen, Liyang Chen et al."
   },
   {
-    "id": "arxiv_1776362478850_2",
+    "id": "arxiv_1776369314596_2",
     "name": "ROSE: Retrieval-Oriented Segmentation Enhancement",
     "category": "computer-vision",
     "description": "Existing segmentation models based on multimodal large language models (MLLMs), such as LISA, often struggle with novel or emerging entities due to their inability to incorporate up-to-date knowledge....",
@@ -37,11 +37,11 @@
       "LLM"
     ],
     "date": "2026-04-15T17:59:35Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Song Tang, Guangquan Jie, Henghui Ding et al."
   },
   {
-    "id": "arxiv_1776362478850_3",
+    "id": "arxiv_1776369314596_3",
     "name": "SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
     "category": "computer-vision",
     "description": "Spatial reasoning over three-dimensional scenes is a core capability for embodied intelligence, yet continuous model improvement remains bottlenecked by the cost of geometric annotation. The self-evol...",
@@ -54,7 +54,7 @@
     "source": "arXiv - Dinging Li, Yingxiu Zhao, Xinrui Cheng et al."
   },
   {
-    "id": "arxiv_1776362478902_0",
+    "id": "arxiv_1776369315014_0",
     "name": "SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
     "category": "nlp",
     "description": "Spatial reasoning over three-dimensional scenes is a core capability for embodied intelligence, yet continuous model improvement remains bottlenecked by the cost of geometric annotation. The self-evol...",
@@ -67,7 +67,7 @@
     "source": "arXiv - Dinging Li, Yingxiu Zhao, Xinrui Cheng et al."
   },
   {
-    "id": "arxiv_1776362478817_0",
+    "id": "arxiv_1776369314342_0",
     "name": "From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space",
     "category": "ai",
     "description": "While reinforcement learning with verifiable rewards (RLVR) significantly enhances LLM reasoning by optimizing the conditional distribution P(y|x), its potential is fundamentally bounded by the base m...",
@@ -83,7 +83,7 @@
     "source": "arXiv - Yuqiao Tan, Minzheng Wang, Bo Liu et al."
   },
   {
-    "id": "arxiv_1776362478876_0",
+    "id": "arxiv_1776369314841_0",
     "name": "From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space",
     "category": "machine-learning",
     "description": "While reinforcement learning with verifiable rewards (RLVR) significantly enhances LLM reasoning by optimizing the conditional distribution P(y|x), its potential is fundamentally bounded by the base m...",
@@ -95,11 +95,11 @@
       "Optimization"
     ],
     "date": "2026-04-15T17:59:01Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuqiao Tan, Minzheng Wang, Bo Liu et al."
   },
   {
-    "id": "arxiv_1776362478903_1",
+    "id": "arxiv_1776369315014_1",
     "name": "From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space",
     "category": "nlp",
     "description": "While reinforcement learning with verifiable rewards (RLVR) significantly enhances LLM reasoning by optimizing the conditional distribution P(y|x), its potential is fundamentally bounded by the base m...",
@@ -115,7 +115,7 @@
     "source": "arXiv - Yuqiao Tan, Minzheng Wang, Bo Liu et al."
   },
   {
-    "id": "arxiv_1776362478851_4",
+    "id": "arxiv_1776369314596_4",
     "name": "Geometric Context Transformer for Streaming 3D Reconstruction",
     "category": "computer-vision",
     "description": "Streaming 3D reconstruction aims to recover 3D information, such as camera poses and point clouds, from a video stream, which necessitates geometric accuracy, temporal\n  consistency, and computational...",
@@ -130,9 +130,23 @@
     "source": "arXiv - Lin-Zhuo Chen, Jian Gao, Yihang Chen et al."
   },
   {
-    "id": "arxiv_1776362478817_1",
+    "id": "arxiv_1776369314343_1",
     "name": "LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning",
     "category": "ai",
+    "description": "As language models are increasingly deployed for complex autonomous tasks, their ability to reason accurately over longer horizons becomes critical. An essential component of this ability is planning ...",
+    "link": "http://arxiv.org/abs/2604.14140v1",
+    "tags": [
+      "AI",
+      "GPT"
+    ],
+    "date": "2026-04-15T17:58:05Z",
+    "trending": true,
+    "source": "arXiv - Sumeet Ramesh Motwani, Daniel Nichols, Charles London et al."
+  },
+  {
+    "id": "arxiv_1776369314841_1",
+    "name": "LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning",
+    "category": "machine-learning",
     "description": "As language models are increasingly deployed for complex autonomous tasks, their ability to reason accurately over longer horizons becomes critical. An essential component of this ability is planning ...",
     "link": "http://arxiv.org/abs/2604.14140v1",
     "tags": [
@@ -144,21 +158,7 @@
     "source": "arXiv - Sumeet Ramesh Motwani, Daniel Nichols, Charles London et al."
   },
   {
-    "id": "arxiv_1776362478876_1",
-    "name": "LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning",
-    "category": "machine-learning",
-    "description": "As language models are increasingly deployed for complex autonomous tasks, their ability to reason accurately over longer horizons becomes critical. An essential component of this ability is planning ...",
-    "link": "http://arxiv.org/abs/2604.14140v1",
-    "tags": [
-      "AI",
-      "GPT"
-    ],
-    "date": "2026-04-15T17:58:05Z",
-    "trending": false,
-    "source": "arXiv - Sumeet Ramesh Motwani, Daniel Nichols, Charles London et al."
-  },
-  {
-    "id": "arxiv_1776362478817_2",
+    "id": "arxiv_1776369314343_2",
     "name": "From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs",
     "category": "ai",
     "description": "Evaluating LLMs is challenging, as benchmark scores often fail to capture models' real-world usefulness. Instead, users often rely on ``vibe-testing'': informal experience-based evaluation, such as co...",
@@ -172,7 +172,7 @@
     "source": "arXiv - Itay Itzhak, Eliya Habba, Gabriel Stanovsky et al."
   },
   {
-    "id": "arxiv_1776362478876_2",
+    "id": "arxiv_1776369314841_2",
     "name": "From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs",
     "category": "machine-learning",
     "description": "Evaluating LLMs is challenging, as benchmark scores often fail to capture models' real-world usefulness. Instead, users often rely on ``vibe-testing'': informal experience-based evaluation, such as co...",
@@ -186,7 +186,7 @@
     "source": "arXiv - Itay Itzhak, Eliya Habba, Gabriel Stanovsky et al."
   },
   {
-    "id": "arxiv_1776362478903_2",
+    "id": "arxiv_1776369315014_2",
     "name": "From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs",
     "category": "nlp",
     "description": "Evaluating LLMs is challenging, as benchmark scores often fail to capture models' real-world usefulness. Instead, users often rely on ``vibe-testing'': informal experience-based evaluation, such as co...",
@@ -196,11 +196,11 @@
       "LLM"
     ],
     "date": "2026-04-15T17:57:08Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Itay Itzhak, Eliya Habba, Gabriel Stanovsky et al."
   },
   {
-    "id": "arxiv_1776362478818_3",
+    "id": "arxiv_1776369314343_3",
     "name": "Rhetorical Questions in LLM Representations: A Linear Probing Study",
     "category": "ai",
     "description": "Rhetorical questions are asked not to seek information but to persuade or signal stance. How large language models internally represent them remains unclear. We analyze rhetorical questions in LLM rep...",
@@ -214,7 +214,7 @@
     "source": "arXiv - Louie Hong Yao, Vishesh Anand, Yuan Zhuang et al."
   },
   {
-    "id": "arxiv_1776362478876_3",
+    "id": "arxiv_1776369314841_3",
     "name": "Rhetorical Questions in LLM Representations: A Linear Probing Study",
     "category": "machine-learning",
     "description": "Rhetorical questions are asked not to seek information but to persuade or signal stance. How large language models internally represent them remains unclear. We analyze rhetorical questions in LLM rep...",
@@ -228,7 +228,7 @@
     "source": "arXiv - Louie Hong Yao, Vishesh Anand, Yuan Zhuang et al."
   },
   {
-    "id": "arxiv_1776362478903_3",
+    "id": "arxiv_1776369315014_3",
     "name": "Rhetorical Questions in LLM Representations: A Linear Probing Study",
     "category": "nlp",
     "description": "Rhetorical questions are asked not to seek information but to persuade or signal stance. How large language models internally represent them remains unclear. We analyze rhetorical questions in LLM rep...",
@@ -238,11 +238,11 @@
       "LLM"
     ],
     "date": "2026-04-15T17:50:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Louie Hong Yao, Vishesh Anand, Yuan Zhuang et al."
   },
   {
-    "id": "arxiv_1776362478818_4",
+    "id": "arxiv_1776369314343_4",
     "name": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
     "category": "ai",
     "description": "While end-to-end Vision-Language-Action (VLA) models offer a promising paradigm for robotic manipulation, fine-tuning them on narrow control data often compromises the profound reasoning capabilities ...",
@@ -258,7 +258,7 @@
     "source": "arXiv - Tianshuo Yang, Guanyu Chen, Yutian Chen et al."
   },
   {
-    "id": "arxiv_1776362478903_4",
+    "id": "arxiv_1776369315015_4",
     "name": "Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis",
     "category": "nlp",
     "description": "LLM reasoning traces suffer from complex flaws -- *Step Internal Flaws* (logical errors, hallucinations, etc.) and *Step-wise Flaws* (overthinking, underthinking), which vary by sample. A natural appr...",
@@ -272,14 +272,14 @@
     "source": "arXiv - Zipeng Ling, Shuliang Liu, Shenghong Fu et al."
   },
   {
-    "id": "arxiv_1776362478876_4",
+    "id": "arxiv_1776369314841_4",
     "name": "Complex Interpolation of Matrices with an application to Multi-Manifold Learning",
     "category": "machine-learning",
     "description": "Given two symmetric positive-definite matrices $A, B \\in \\mathbb{R}^{n \\times n}$, we study the spectral properties of the interpolation $A^{1-x} B^x$ for $0 \\leq x \\leq 1$. The presence of `common st...",
     "link": "http://arxiv.org/abs/2604.14118v1",
     "tags": [],
     "date": "2026-04-15T17:40:37Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Adi Arbel, Stefan Steinerberger, Ronen Talmon"
   }
 ]
