@@ -1,6 +1,45 @@
 [
   {
-    "id": "rss_Ars_Technica_1776351323616_0",
+    "id": "rss_TechCrunch_1776356099535_0",
+    "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
+    "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 16 Apr 2026 16:14:03 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1776356099536_1",
+    "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The new new tools are designed to help creators throughout the entire development process.",
+    "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 16 Apr 2026 16:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1776356099536_2",
+    "title": "Google is now targeting bad ads over bad actors",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.",
+    "link": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
+    "tags": [
+      "Google"
+    ],
+    "date": "Thu, 16 Apr 2026 15:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1776356103154_0",
     "title": "Meet the Quantum Kid",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -13,7 +52,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776351320092_0",
+    "id": "rss_TechCrunch_1776356099536_3",
     "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -26,7 +65,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776351324830_0",
+    "id": "rss_Wired_1776356104202_0",
     "title": "Anthropic Plots Major London Expansion",
     "category": "ai-news",
     "source": "Wired",
@@ -34,10 +73,10 @@
     "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
     "tags": [],
     "date": "Thu, 16 Apr 2026 13:49:35 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1776351320093_1",
+    "id": "rss_TechCrunch_1776356099536_4",
     "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -51,20 +90,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1776351320093_2",
-    "title": "Canva’s AI assistant can now call various tools to make designs for you",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
-    "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 16 Apr 2026 13:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1776351322377_0",
+    "id": "rss_MIT_Tech_Review_1776356101769_0",
     "title": "Making AI operational in constrained public sector environments",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -77,11 +103,11 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776351322377_1",
+    "id": "rss_MIT_Tech_Review_1776356101769_1",
     "title": "Treating enterprise AI as an operating layer",
     "category": "ai-news",
     "source": "MIT Tech Review",
-    "description": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks — GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: ",
+    "description": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: wh",
     "link": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
     "tags": [
       "AI",
@@ -91,22 +117,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1776351320093_3",
-    "title": "This simulation startup wants to be the Cursor for physical AI",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Antioch raised a $8.5 million seed round to create simulation tools for a new generation of robot builders. ",
-    "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
-    "tags": [
-      "AI",
-      "Robot",
-      "Startup"
-    ],
-    "date": "Thu, 16 Apr 2026 12:30:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1776351322378_2",
+    "id": "rss_MIT_Tech_Review_1776356101769_2",
     "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -116,10 +127,10 @@
       "AI"
     ],
     "date": "Thu, 16 Apr 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776351322378_3",
+    "id": "rss_MIT_Tech_Review_1776356101769_3",
     "title": "Why having “humans in the loop” in an AI war is an illusion",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -132,7 +143,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776351323616_1",
+    "id": "rss_Ars_Technica_1776356103155_1",
     "title": "The race to Shackleton Crater is on—will Jeff Bezos or China get there first?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -143,7 +154,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776351324830_1",
+    "id": "rss_Wired_1776356104202_1",
     "title": "This Beanie Is Designed to Read Your Thoughts",
     "category": "ai-news",
     "source": "Wired",
@@ -153,10 +164,10 @@
       "Startup"
     ],
     "date": "Thu, 16 Apr 2026 11:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1776351322378_4",
+    "id": "rss_MIT_Tech_Review_1776356101769_4",
     "title": "The noise we make is hurting animals. Can we learn to shut up?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -166,23 +177,10 @@
       "AI"
     ],
     "date": "Thu, 16 Apr 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1776351320093_4",
-    "title": "DeepL, known for text translation, now wants to translate your voice",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams",
-    "link": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
-    "tags": [
-      "Microsoft"
-    ],
-    "date": "Thu, 16 Apr 2026 08:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1776351323616_2",
+    "id": "rss_Ars_Technica_1776356103155_2",
     "title": "Florida surgeon charged with killing man after removing liver instead of spleen",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -193,7 +191,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776351323616_3",
+    "id": "rss_Ars_Technica_1776356103155_3",
     "title": "Jury finds Live Nation/Ticketmaster is illegal monopoly that overcharged fans",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -201,10 +199,10 @@
     "link": "https://arstechnica.com/tech-policy/2026/04/jury-finds-live-nation-ticketmaster-is-illegal-monopoly-that-overcharged-fans/",
     "tags": [],
     "date": "Wed, 15 Apr 2026 22:06:23 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1776351323616_4",
+    "id": "rss_Ars_Technica_1776356103155_4",
     "title": "\"TotalRecall Reloaded\" tool finds a side entrance to Windows 11's Recall database",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -215,7 +213,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1776351324830_2",
+    "id": "rss_Wired_1776356104202_2",
     "title": "AI Could Democratize One of Tech's Most Valuable Resources",
     "category": "ai-news",
     "source": "Wired",
@@ -230,7 +228,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1776351324831_3",
+    "id": "rss_Wired_1776356104202_3",
     "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
     "category": "ai-news",
     "source": "Wired",
@@ -243,7 +241,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776351324831_4",
+    "id": "rss_Wired_1776356104202_4",
     "title": "AI Slop Is Making the Internet Fake-Happy",
     "category": "ai-news",
     "source": "Wired",
@@ -253,10 +251,10 @@
       "AI"
     ],
     "date": "Wed, 15 Apr 2026 11:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1776351333481_0",
+    "id": "rss_Distill_1776356112331_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -269,7 +267,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776351333481_1",
+    "id": "rss_Distill_1776356112331_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -279,10 +277,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1776351333481_2",
+    "id": "rss_Distill_1776356112331_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -293,7 +291,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776351333481_3",
+    "id": "rss_Distill_1776356112331_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -303,10 +301,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1776351333481_4",
+    "id": "rss_Distill_1776356112331_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
