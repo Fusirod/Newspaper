@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1776597950817_0",
+    "id": "arxiv_1776601935618_0",
     "name": "Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo",
     "category": "computer-vision",
     "description": "Conventional frame-based cameras capture rich contextual information but suffer from limited temporal resolution and motion blur in dynamic scenes. Event cameras offer an alternative visual representa...",
@@ -9,11 +9,11 @@
       "AI"
     ],
     "date": "2026-04-16T17:59:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ninghui Xu, Fabio Tosi, Lihui Wang et al."
   },
   {
-    "id": "arxiv_1776597950817_1",
+    "id": "arxiv_1776601935618_1",
     "name": "LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories",
     "category": "computer-vision",
     "description": "This paper focuses on the alignment of flow matching models with human preferences. A promising way is fine-tuning by directly backpropagating reward gradients through the differentiable generation pr...",
@@ -22,11 +22,11 @@
       "AI"
     ],
     "date": "2026-04-16T17:59:56Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhanhao Liang, Tao Yang, Jie Wu et al."
   },
   {
-    "id": "arxiv_1776597950817_2",
+    "id": "arxiv_1776601935618_2",
     "name": "TokenLight: Precise Lighting Control in Images using Attribute Tokens",
     "category": "computer-vision",
     "description": "This paper presents a method for image relighting that enables precise and continuous control over multiple illumination attributes in a photograph. We formulate relighting as a conditional image gene...",
@@ -40,7 +40,7 @@
     "source": "arXiv - Sumit Chaturvedi, Yannick Hold-Geoffroy, Mengwei Ren et al."
   },
   {
-    "id": "arxiv_1776597950801_0",
+    "id": "arxiv_1776601935404_0",
     "name": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
     "category": "ai",
     "description": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly...",
@@ -53,22 +53,9 @@
     "source": "arXiv - Yan Li, Zezi Zeng, Yifan Yang et al."
   },
   {
-    "id": "arxiv_1776597950817_3",
+    "id": "arxiv_1776601935618_3",
     "name": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
     "category": "computer-vision",
-    "description": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly...",
-    "link": "http://arxiv.org/abs/2604.15309v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-16T17:59:49Z",
-    "trending": true,
-    "source": "arXiv - Yan Li, Zezi Zeng, Yifan Yang et al."
-  },
-  {
-    "id": "arxiv_1776597950845_0",
-    "name": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
-    "category": "nlp",
     "description": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly...",
     "link": "http://arxiv.org/abs/2604.15309v1",
     "tags": [
@@ -79,7 +66,20 @@
     "source": "arXiv - Yan Li, Zezi Zeng, Yifan Yang et al."
   },
   {
-    "id": "arxiv_1776597950817_4",
+    "id": "arxiv_1776601938182_0",
+    "name": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+    "category": "nlp",
+    "description": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly...",
+    "link": "http://arxiv.org/abs/2604.15309v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-04-16T17:59:49Z",
+    "trending": true,
+    "source": "arXiv - Yan Li, Zezi Zeng, Yifan Yang et al."
+  },
+  {
+    "id": "arxiv_1776601935618_4",
     "name": "RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework",
     "category": "computer-vision",
     "description": "High-level autonomous driving requires motion planners capable of modeling multimodal future uncertainties while remaining robust in closed-loop interactions. Although diffusion-based planners are eff...",
@@ -91,11 +91,11 @@
       "Optimization"
     ],
     "date": "2026-04-16T17:59:44Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hao Gao, Shaoyu Chen, Yifan Zhu et al."
   },
   {
-    "id": "arxiv_1776597950802_1",
+    "id": "arxiv_1776601935404_1",
     "name": "Generalization in LLM Problem Solving: The Case of the Shortest Path",
     "category": "ai",
     "description": "Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference...",
@@ -107,11 +107,11 @@
       "Optimization"
     ],
     "date": "2026-04-16T17:59:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yao Tong, Jiayuan Ye, Anastasia Borovykh et al."
   },
   {
-    "id": "arxiv_1776597950830_0",
+    "id": "arxiv_1776601937958_0",
     "name": "Generalization in LLM Problem Solving: The Case of the Shortest Path",
     "category": "machine-learning",
     "description": "Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference...",
@@ -123,11 +123,11 @@
       "Optimization"
     ],
     "date": "2026-04-16T17:59:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yao Tong, Jiayuan Ye, Anastasia Borovykh et al."
   },
   {
-    "id": "arxiv_1776597950802_2",
+    "id": "arxiv_1776601935404_2",
     "name": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
     "category": "ai",
     "description": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva...",
@@ -137,11 +137,11 @@
       "LLM"
     ],
     "date": "2026-04-16T17:58:21Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Manan Gupta, Dhruv Kumar"
   },
   {
-    "id": "arxiv_1776597950830_1",
+    "id": "arxiv_1776601937958_1",
     "name": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
     "category": "machine-learning",
     "description": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva...",
@@ -155,7 +155,7 @@
     "source": "arXiv - Manan Gupta, Dhruv Kumar"
   },
   {
-    "id": "arxiv_1776597950845_1",
+    "id": "arxiv_1776601938182_1",
     "name": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
     "category": "nlp",
     "description": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva...",
@@ -165,11 +165,11 @@
       "LLM"
     ],
     "date": "2026-04-16T17:58:21Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Manan Gupta, Dhruv Kumar"
   },
   {
-    "id": "arxiv_1776597950830_2",
+    "id": "arxiv_1776601937958_2",
     "name": "Benchmarking Optimizers for MLPs in Tabular Deep Learning",
     "category": "machine-learning",
     "description": "MLP is a heavily used backbone in modern deep learning (DL) architectures for supervised learning on tabular data, and AdamW is the go-to optimizer used to train tabular DL models. Unlike architecture...",
@@ -179,11 +179,11 @@
       "Deep Learning"
     ],
     "date": "2026-04-16T17:57:02Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yury Gorishniy, Ivan Rubachev, Dmitrii Feoktistov et al."
   },
   {
-    "id": "arxiv_1776597950802_3",
+    "id": "arxiv_1776601935405_3",
     "name": "How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study",
     "category": "ai",
     "description": "Over the past year, spatial intelligence has drawn increasing attention. Many prior works study it from the perspective of visual-spatial intelligence, where models have access to visuospatial informa...",
@@ -198,7 +198,7 @@
     "source": "arXiv - Zhen Yang, Ping Jian, Zhongbin Guo et al."
   },
   {
-    "id": "arxiv_1776597950802_4",
+    "id": "arxiv_1776601935405_4",
     "name": "AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving",
     "category": "ai",
     "description": "The reliability of a machine vision system for autonomous driving depends heavily on its training data distribution. When a vehicle encounters significantly different conditions, such as atypical obst...",
@@ -212,7 +212,7 @@
     "source": "arXiv - Fabrizio Genilotti, Arianna Stropeni, Gionata Grotto et al."
   },
   {
-    "id": "arxiv_1776597950830_3",
+    "id": "arxiv_1776601937959_3",
     "name": "Structural interpretability in SVMs with truncated orthogonal polynomial kernels",
     "category": "machine-learning",
     "description": "We study post-training interpretability for Support Vector Machines (SVMs) built from truncated orthogonal polynomial kernels. Since the associated reproducing kernel Hilbert space is finite-dimension...",
@@ -222,11 +222,11 @@
       "BERT"
     ],
     "date": "2026-04-16T17:52:08Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Víctor Soto-Larrosa, Nuria Torrado, Edmundo J. Huertas"
   },
   {
-    "id": "arxiv_1776597950831_4",
+    "id": "arxiv_1776601937959_4",
     "name": "How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations",
     "category": "machine-learning",
     "description": "Node embeddings act as the information interface for graph neural networks, yet their empirical impact is often reported under mismatched backbones, splits, and training budgets. This paper provides a...",
@@ -237,11 +237,11 @@
       "Optimization"
     ],
     "date": "2026-04-16T17:45:24Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Nouhaila Innan, Antonello Rosato, Alberto Marchisio et al."
   },
   {
-    "id": "arxiv_1776597950845_2",
+    "id": "arxiv_1776601938182_2",
     "name": "CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas",
     "category": "nlp",
     "description": "It is increasingly important that LLM agents interact effectively and safely with other goal-pursuing agents, yet, recent works report the opposite trend: LLMs with stronger reasoning capabilities beh...",
@@ -255,7 +255,7 @@
     "source": "arXiv - Emanuel Tewolde, Xiao Zhang, David Guzman Piedrahita et al."
   },
   {
-    "id": "arxiv_1776597950845_3",
+    "id": "arxiv_1776601938182_3",
     "name": "From Tokens to Steps: Verification-Aware Speculative Decoding for Efficient Multi-Step Reasoning",
     "category": "nlp",
     "description": "Speculative decoding (SD) accelerates large language model inference by allowing a lightweight draft model to propose outputs that a stronger target model verifies. However, its token-centric nature a...",
@@ -266,7 +266,7 @@
     "source": "arXiv - Kiran Purohit, Ramasuri Narayanam, Soumyabrata Pal"
   },
   {
-    "id": "arxiv_1776597950846_4",
+    "id": "arxiv_1776601938183_4",
     "name": "Context Over Content: Exposing Evaluation Faking in Automated Judges",
     "category": "nlp",
     "description": "The $\\textit{LLM-as-a-judge}$ paradigm has become the operational backbone of automated AI evaluation pipelines, yet rests on an unverified assumption: that judges evaluate text strictly on its semant...",
@@ -276,7 +276,7 @@
       "LLM"
     ],
     "date": "2026-04-16T16:55:53Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Manan Gupta, Inderjeet Nair, Lu Wang et al."
   }
 ]
