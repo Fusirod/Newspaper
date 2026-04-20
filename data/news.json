@@ -1,10 +1,36 @@
 [
   {
-    "id": "rss_TechCrunch_1776724328849_0",
-    "title": "Google rolls out Gemini in Chrome in seven new countries",
+    "id": "rss_TechCrunch_1776727927778_0",
+    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam.",
+    "description": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+    "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 20 Apr 2026 23:10:27 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1776727932434_0",
+    "title": "A Humanoid Robot Set a Half-Marathon Record in China",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
+    "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+    "tags": [
+      "Robot"
+    ],
+    "date": "Mon, 20 Apr 2026 22:33:27 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1776727927778_1",
+    "title": "Google rolls out Gemini in Chrome in 7 new countries",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
     "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
     "tags": [
       "Google"
@@ -13,7 +39,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776724332213_0",
+    "id": "rss_Ars_Technica_1776727931317_0",
     "title": "John Ternus will replace Tim Cook as Apple CEO",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -26,7 +52,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1776724332213_1",
+    "id": "rss_Ars_Technica_1776727931317_1",
     "title": "Absurd study suggests eating fruits and vegetables leads to cancer",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -37,7 +63,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776724328849_1",
+    "id": "rss_TechCrunch_1776727927779_2",
     "title": "It’s not just one thing — it’s another thing",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -50,7 +76,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776724332213_2",
+    "id": "rss_Ars_Technica_1776727931317_2",
     "title": "US opens refund portal to start paying back Trump's illegal tariffs",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -61,7 +87,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776724332213_3",
+    "id": "rss_Ars_Technica_1776727931317_3",
     "title": "Here's how F1 is tweaking its hybrid systems to try to save the show",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -72,7 +98,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776724332213_4",
+    "id": "rss_Ars_Technica_1776727931317_4",
     "title": "Robot runner handily beats humans in half-marathon, setting new record",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -85,7 +111,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776724328849_2",
+    "id": "rss_TechCrunch_1776727927779_3",
     "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -98,7 +124,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776724328849_3",
+    "id": "rss_TechCrunch_1776727927779_4",
     "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -112,7 +138,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776724333282_0",
+    "id": "rss_Wired_1776727932434_1",
     "title": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
     "category": "ai-news",
     "source": "Wired",
@@ -123,7 +149,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776724330968_0",
+    "id": "rss_MIT_Tech_Review_1776727930068_0",
     "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -133,10 +159,10 @@
       "AI"
     ],
     "date": "Mon, 20 Apr 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1776724333282_1",
+    "id": "rss_Wired_1776727932434_2",
     "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
     "category": "ai-news",
     "source": "Wired",
@@ -150,7 +176,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776724330968_1",
+    "id": "rss_MIT_Tech_Review_1776727930068_1",
     "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -160,10 +186,10 @@
       "AI"
     ],
     "date": "Mon, 20 Apr 2026 10:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776724330969_2",
+    "id": "rss_MIT_Tech_Review_1776727930068_2",
     "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -176,21 +202,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776724328849_4",
-    "title": "OpenAI’s existential questions",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-    "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Sun, 19 Apr 2026 21:24:06 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1776724333282_2",
+    "id": "rss_Wired_1776727932434_3",
     "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
     "category": "ai-news",
     "source": "Wired",
@@ -203,7 +215,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776724333282_3",
+    "id": "rss_Wired_1776727932434_4",
     "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
     "category": "ai-news",
     "source": "Wired",
@@ -216,23 +228,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776724333282_4",
-    "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
-    "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "ChatGPT",
-      "GPT"
-    ],
-    "date": "Fri, 17 Apr 2026 19:56:42 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1776724330969_3",
+    "id": "rss_MIT_Tech_Review_1776727930068_3",
     "title": "Pie Day 2026",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -243,7 +239,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776724330969_4",
+    "id": "rss_MIT_Tech_Review_1776727930068_4",
     "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -256,7 +252,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776724341166_0",
+    "id": "rss_Distill_1776727941792_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -269,7 +265,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776724341166_1",
+    "id": "rss_Distill_1776727941792_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -279,10 +275,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1776724341166_2",
+    "id": "rss_Distill_1776727941792_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -293,7 +289,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776724341166_3",
+    "id": "rss_Distill_1776727941792_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -306,7 +302,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776724341166_4",
+    "id": "rss_Distill_1776727941792_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -314,6 +310,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
