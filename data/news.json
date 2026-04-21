@@ -1,6 +1,44 @@
 [
   {
-    "id": "rss_Ars_Technica_1776801454314_0",
+    "id": "rss_TechCrunch_1776804216470_0",
+    "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+    "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+    "tags": [],
+    "date": "Tue, 21 Apr 2026 20:23:24 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1776804219985_0",
+    "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"We actually have slightly more Linux users than Windows users.\"\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
+    "tags": [],
+    "date": "Tue, 21 Apr 2026 20:22:20 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1776804219985_1",
+    "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Can ChatGPT be blamed for a mass shooting? Florida is investigating.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "ChatGPT",
+      "GPT"
+    ],
+    "date": "Tue, 21 Apr 2026 20:01:36 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1776804219985_2",
     "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,10 +49,10 @@
       "Meta"
     ],
     "date": "Tue, 21 Apr 2026 19:30:52 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1776801451018_0",
+    "id": "rss_TechCrunch_1776804216470_1",
     "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -28,7 +66,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776801451018_1",
+    "id": "rss_TechCrunch_1776804216470_2",
     "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -41,14 +79,14 @@
       "GPT"
     ],
     "date": "Tue, 21 Apr 2026 19:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1776801455355_0",
-    "title": "OpenAI Beefs Up ChatGPT's Image Generation Model",
+    "id": "rss_Wired_1776804221034_0",
+    "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
     "category": "ai-news",
     "source": "Wired",
-    "description": "The ChatGPT Images 2.0 model is here. Our testing shows it's better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+    "description": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
     "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
     "tags": [
       "AI",
@@ -57,10 +95,10 @@
       "GPT"
     ],
     "date": "Tue, 21 Apr 2026 19:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1776801451019_2",
+    "id": "rss_TechCrunch_1776804216470_3",
     "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -71,10 +109,10 @@
       "OpenAI"
     ],
     "date": "Tue, 21 Apr 2026 18:51:52 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1776801455355_1",
+    "id": "rss_Wired_1776804221034_1",
     "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
     "category": "ai-news",
     "source": "Wired",
@@ -84,10 +122,10 @@
       "AI"
     ],
     "date": "Tue, 21 Apr 2026 18:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1776801454314_1",
+    "id": "rss_Ars_Technica_1776804219985_3",
     "title": "Microsoft removes Call of Duty from Game Pass, lowers subscription pricing",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -97,10 +135,10 @@
       "Microsoft"
     ],
     "date": "Tue, 21 Apr 2026 18:18:27 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776801454314_2",
+    "id": "rss_Ars_Technica_1776804219985_4",
     "title": "Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -108,36 +146,10 @@
     "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/",
     "tags": [],
     "date": "Tue, 21 Apr 2026 18:15:15 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1776801454314_3",
-    "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        A lower-end Ryzen AI 340 CPU option will also bring the price down, for now. \n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 21 Apr 2026 18:15:03 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1776801454314_4",
-    "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        “It’s working!“: Amazon emails with vendors show pattern of disappearing deals.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 21 Apr 2026 18:06:06 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1776801455355_2",
+    "id": "rss_Wired_1776804221034_2",
     "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
     "category": "ai-news",
     "source": "Wired",
@@ -150,7 +162,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1776801453154_0",
+    "id": "rss_MIT_Tech_Review_1776804218612_0",
     "title": "Building agent-first governance and security",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -160,10 +172,10 @@
       "AI"
     ],
     "date": "Tue, 21 Apr 2026 17:22:54 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776801451019_3",
+    "id": "rss_TechCrunch_1776804216470_4",
     "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -173,23 +185,10 @@
       "AI"
     ],
     "date": "Tue, 21 Apr 2026 17:11:01 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1776801451019_4",
-    "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game. ",
-    "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 21 Apr 2026 16:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1776801453155_1",
+    "id": "rss_MIT_Tech_Review_1776804218612_1",
     "title": "The Download: turning down human noise, and LA’s stunning subway upgrade",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -202,7 +201,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776801455355_3",
+    "id": "rss_Wired_1776804221034_3",
     "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
     "category": "ai-news",
     "source": "Wired",
@@ -215,7 +214,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776801453155_2",
+    "id": "rss_MIT_Tech_Review_1776804218612_2",
     "title": "Digging for clues about the North Pole’s past",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -223,10 +222,10 @@
     "link": "https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/",
     "tags": [],
     "date": "Tue, 21 Apr 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1776801455356_4",
+    "id": "rss_Wired_1776804221034_4",
     "title": "A Humanoid Robot Set a Half-Marathon Record in China",
     "category": "ai-news",
     "source": "Wired",
@@ -239,7 +238,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776801453155_3",
+    "id": "rss_MIT_Tech_Review_1776804218612_3",
     "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -252,7 +251,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776801453155_4",
+    "id": "rss_MIT_Tech_Review_1776804218612_4",
     "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -262,10 +261,10 @@
       "AI"
     ],
     "date": "Mon, 20 Apr 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1776801463430_0",
+    "id": "rss_Distill_1776804229613_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -278,7 +277,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776801463430_1",
+    "id": "rss_Distill_1776804229613_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -288,10 +287,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1776801463430_2",
+    "id": "rss_Distill_1776804229613_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -299,10 +298,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1776801463430_3",
+    "id": "rss_Distill_1776804229614_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -312,10 +311,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1776801463430_4",
+    "id": "rss_Distill_1776804229614_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -323,6 +322,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
