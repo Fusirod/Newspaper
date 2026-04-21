@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1776793751914_0",
+    "id": "arxiv_1776797620361_0",
     "name": "MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval",
     "category": "ai",
     "description": "Mathematical problem solving remains a challenging test of reasoning for large language and multimodal models, yet existing benchmarks are limited in size, language coverage, and task diversity. We in...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Shaden Alshammari, Kevin Wen, Abrar Zainal et al."
   },
   {
-    "id": "arxiv_1776793752109_0",
+    "id": "arxiv_1776797620875_0",
     "name": "MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval",
     "category": "machine-learning",
     "description": "Mathematical problem solving remains a challenging test of reasoning for large language and multimodal models, yet existing benchmarks are limited in size, language coverage, and task diversity. We in...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Shaden Alshammari, Kevin Wen, Abrar Zainal et al."
   },
   {
-    "id": "arxiv_1776793752085_0",
+    "id": "arxiv_1776797620683_0",
     "name": "MUA: Mobile Ultra-detailed Animatable Avatars",
     "category": "computer-vision",
     "description": "Building photorealistic, animatable full-body digital humans remains a longstanding challenge in computer graphics and vision. Recent advances in animatable avatar modeling have largely progressed alo...",
@@ -38,11 +38,11 @@
       "Vision"
     ],
     "date": "2026-04-20T17:59:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Heming Zhu, Guoxing Sun, Marc Habermann"
   },
   {
-    "id": "arxiv_1776793751914_1",
+    "id": "arxiv_1776797620361_1",
     "name": "Sessa: Selective State Space Attention",
     "category": "ai",
     "description": "Modern sequence models are dominated by Transformers, where self-attention mixes information from the visible context in an input-dependent way. However, when retrieval is not sharp and attention rema...",
@@ -56,7 +56,7 @@
     "source": "arXiv - Liubomyr Horbatko"
   },
   {
-    "id": "arxiv_1776793752110_1",
+    "id": "arxiv_1776797620875_1",
     "name": "Sessa: Selective State Space Attention",
     "category": "machine-learning",
     "description": "Modern sequence models are dominated by Transformers, where self-attention mixes information from the visible context in an input-dependent way. However, when retrieval is not sharp and attention rema...",
@@ -66,11 +66,11 @@
       "Transformer"
     ],
     "date": "2026-04-20T17:59:08Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Liubomyr Horbatko"
   },
   {
-    "id": "arxiv_1776793752144_0",
+    "id": "arxiv_1776797621228_0",
     "name": "Sessa: Selective State Space Attention",
     "category": "nlp",
     "description": "Modern sequence models are dominated by Transformers, where self-attention mixes information from the visible context in an input-dependent way. However, when retrieval is not sharp and attention rema...",
@@ -84,7 +84,7 @@
     "source": "arXiv - Liubomyr Horbatko"
   },
   {
-    "id": "arxiv_1776793751914_2",
+    "id": "arxiv_1776797620361_2",
     "name": "Bounded Ratio Reinforcement Learning",
     "category": "ai",
     "description": "Proximal Policy Optimization (PPO) has become the predominant algorithm for on-policy reinforcement learning due to its scalability and empirical robustness across domains. However, there is a signifi...",
@@ -100,7 +100,7 @@
     "source": "arXiv - Yunke Ao, Le Chen, Bruce D. Lee et al."
   },
   {
-    "id": "arxiv_1776793752110_2",
+    "id": "arxiv_1776797620875_2",
     "name": "Bounded Ratio Reinforcement Learning",
     "category": "machine-learning",
     "description": "Proximal Policy Optimization (PPO) has become the predominant algorithm for on-policy reinforcement learning due to its scalability and empirical robustness across domains. However, there is a signifi...",
@@ -112,11 +112,11 @@
       "Optimization"
     ],
     "date": "2026-04-20T17:59:01Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yunke Ao, Le Chen, Bruce D. Lee et al."
   },
   {
-    "id": "arxiv_1776793751914_3",
+    "id": "arxiv_1776797620361_3",
     "name": "Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs",
     "category": "ai",
     "description": "We present BLF (Bayesian Linguistic Forecaster), an agentic system for binary forecasting that achieves state-of-the-art performance on the ForecastBench benchmark. The system is built on three ideas....",
@@ -127,11 +127,11 @@
       "GPT"
     ],
     "date": "2026-04-20T17:57:51Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Kevin Murphy"
   },
   {
-    "id": "arxiv_1776793752085_1",
+    "id": "arxiv_1776797620683_1",
     "name": "ReCap: Lightweight Referential Grounding for Coherent Story Visualization",
     "category": "computer-vision",
     "description": "Story Visualization aims to generate a sequence of images that faithfully depicts a textual narrative that preserve character identity, spatial configuration, and stylistic coherence as the narratives...",
@@ -143,11 +143,11 @@
       "Diffusion"
     ],
     "date": "2026-04-20T17:57:50Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Aditya Arora, Akshita Gupta, Pau Rodriguez et al."
   },
   {
-    "id": "arxiv_1776793751915_4",
+    "id": "arxiv_1776797620362_4",
     "name": "When Can LLMs Learn to Reason with Weak Supervision?",
     "category": "ai",
     "description": "Large language models have achieved significant reasoning improvements through reinforcement learning with verifiable rewards (RLVR). Yet as model capabilities grow, constructing high-quality reward s...",
@@ -159,11 +159,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-04-20T17:57:49Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Salman Rahman, Jingyan Shen, Anna Mordvina et al."
   },
   {
-    "id": "arxiv_1776793752110_3",
+    "id": "arxiv_1776797620875_3",
     "name": "When Can LLMs Learn to Reason with Weak Supervision?",
     "category": "machine-learning",
     "description": "Large language models have achieved significant reasoning improvements through reinforcement learning with verifiable rewards (RLVR). Yet as model capabilities grow, constructing high-quality reward s...",
@@ -179,7 +179,7 @@
     "source": "arXiv - Salman Rahman, Jingyan Shen, Anna Mordvina et al."
   },
   {
-    "id": "arxiv_1776793752085_2",
+    "id": "arxiv_1776797620683_2",
     "name": "T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability",
     "category": "computer-vision",
     "description": "Despite recent progress, vision-language encoders struggle with two core limitations: (1) weak alignment between language and dense vision features, which hurts tasks like open-vocabulary semantic seg...",
@@ -193,7 +193,7 @@
     "source": "arXiv - Savya Khosla, Sethuraman T, Aryan Chadha et al."
   },
   {
-    "id": "arxiv_1776793752085_3",
+    "id": "arxiv_1776797620683_3",
     "name": "Back into Plato's Cave: Examining Cross-modal Representational Convergence at Scale",
     "category": "computer-vision",
     "description": "The Platonic Representation Hypothesis suggests that neural networks trained on different modalities (e.g., text and images) align and eventually converge toward the same representation of reality. If...",
@@ -208,7 +208,7 @@
     "source": "arXiv - A. Sophia Koepke, Daniil Zverev, Shiry Ginosar et al."
   },
   {
-    "id": "arxiv_1776793752110_4",
+    "id": "arxiv_1776797620875_4",
     "name": "Back into Plato's Cave: Examining Cross-modal Representational Convergence at Scale",
     "category": "machine-learning",
     "description": "The Platonic Representation Hypothesis suggests that neural networks trained on different modalities (e.g., text and images) align and eventually converge toward the same representation of reality. If...",
@@ -219,11 +219,11 @@
       "Vision"
     ],
     "date": "2026-04-20T17:56:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - A. Sophia Koepke, Daniil Zverev, Shiry Ginosar et al."
   },
   {
-    "id": "arxiv_1776793752144_1",
+    "id": "arxiv_1776797621228_1",
     "name": "A multimodal and temporal foundation model for virtual patient representations at healthcare system scale",
     "category": "nlp",
     "description": "Modern medicine generates vast multimodal data across siloed systems, yet no existing model integrates the full breadth and temporal depth of the clinical record into a unified patient representation....",
@@ -232,11 +232,11 @@
       "AI"
     ],
     "date": "2026-04-20T17:55:47Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Andrew Zhang, Tong Ding, Sophia J. Wagner et al."
   },
   {
-    "id": "arxiv_1776793752144_2",
+    "id": "arxiv_1776797621228_2",
     "name": "Latent Phase-Shift Rollback: Inference-Time Error Correction via Residual Stream Monitoring and KV-Cache Steering",
     "category": "nlp",
     "description": "Large language models frequently commit unrecoverable reasoning errors mid-generation: once a wrong step is taken, subsequent tokens compound the mistake rather than correct it. We introduce $\\textbf{...",
@@ -245,11 +245,11 @@
       "AI"
     ],
     "date": "2026-04-20T17:53:33Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Manan Gupta, Dhruv Kumar"
   },
   {
-    "id": "arxiv_1776793752086_4",
+    "id": "arxiv_1776797620683_4",
     "name": "MultiWorld: Scalable Multi-Agent Multi-View Video World Models",
     "category": "computer-vision",
     "description": "Video world models have achieved remarkable success in simulating environmental dynamics in response to actions by users or agents. They are modeled as action-conditioned video generation models that ...",
@@ -262,7 +262,7 @@
     "source": "arXiv - Haoyu Wu, Jiwen Yu, Yingtian Zou et al."
   },
   {
-    "id": "arxiv_1776793752144_3",
+    "id": "arxiv_1776797621228_3",
     "name": "Dual Alignment Between Language Model Layers and Human Sentence Processing",
     "category": "nlp",
     "description": "A recent study (Kuribayashi et al., 2025) has shown that human sentence processing behavior, typically measured on syntactically unchallenging constructions, can be effectively modeled using surprisal...",
@@ -276,7 +276,7 @@
     "source": "arXiv - Tatsuki Kuribayashi, Alex Warstadt, Yohei Oseki et al."
   },
   {
-    "id": "arxiv_1776793752144_4",
+    "id": "arxiv_1776797621228_4",
     "name": "GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling",
     "category": "nlp",
     "description": "Weight quantization has become a standard tool for efficient LLM deployment, especially for local inference, where models are now routinely served at 2-3 bits per parameter. The state of the art is cu...",
@@ -288,7 +288,7 @@
       "Optimization"
     ],
     "date": "2026-04-20T17:45:47Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Alireza Dadgarnia, Soroush Tabesh, Mahdi Nikdan et al."
   }
 ]
