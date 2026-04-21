@@ -1,20 +1,81 @@
 [
   {
-    "id": "rss_TechCrunch_1776797621864_0",
+    "id": "rss_Ars_Technica_1776801454314_0",
+    "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Move highlights the difficulty of finding high-quality interactive training data.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Tue, 21 Apr 2026 19:30:52 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1776801451018_0",
+    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+    "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Tue, 21 Apr 2026 19:11:29 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1776801451018_1",
+    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+    "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "ChatGPT",
+      "GPT"
+    ],
+    "date": "Tue, 21 Apr 2026 19:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1776801455355_0",
+    "title": "OpenAI Beefs Up ChatGPT's Image Generation Model",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The ChatGPT Images 2.0 model is here. Our testing shows it's better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+    "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "ChatGPT",
+      "GPT"
+    ],
+    "date": "Tue, 21 Apr 2026 19:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1776801451019_2",
     "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "The AI industry's mudslinging continues. ",
+    "description": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
     "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
     "tags": [
-      "AI"
+      "AI",
+      "OpenAI"
     ],
     "date": "Tue, 21 Apr 2026 18:51:52 +0000",
     "trending": false
   },
   {
-    "id": "rss_Wired_1776797626845_0",
-    "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox",
+    "id": "rss_Wired_1776801455355_1",
+    "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
     "category": "ai-news",
     "source": "Wired",
     "description": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
@@ -26,7 +87,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776797625683_0",
+    "id": "rss_Ars_Technica_1776801454314_1",
     "title": "Microsoft removes Call of Duty from Game Pass, lowers subscription pricing",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -36,10 +97,10 @@
       "Microsoft"
     ],
     "date": "Tue, 21 Apr 2026 18:18:27 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1776797625683_1",
+    "id": "rss_Ars_Technica_1776801454314_2",
     "title": "Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -50,7 +111,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776797625683_2",
+    "id": "rss_Ars_Technica_1776801454314_3",
     "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -63,7 +124,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776797625683_3",
+    "id": "rss_Ars_Technica_1776801454314_4",
     "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -76,7 +137,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776797626845_1",
+    "id": "rss_Wired_1776801455355_2",
     "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
     "category": "ai-news",
     "source": "Wired",
@@ -86,10 +147,10 @@
       "AI"
     ],
     "date": "Tue, 21 Apr 2026 17:35:12 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1776797624306_0",
+    "id": "rss_MIT_Tech_Review_1776801453154_0",
     "title": "Building agent-first governance and security",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -99,10 +160,10 @@
       "AI"
     ],
     "date": "Tue, 21 Apr 2026 17:22:54 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1776797621864_1",
+    "id": "rss_TechCrunch_1776801451019_3",
     "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -115,18 +176,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776797625683_4",
-    "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
-    "tags": [],
-    "date": "Tue, 21 Apr 2026 17:00:04 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1776797621864_2",
+    "id": "rss_TechCrunch_1776801451019_4",
     "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -139,33 +189,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776797621864_3",
-    "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app. ",
-    "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 21 Apr 2026 15:24:29 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1776797621864_4",
-    "title": "YouTube expands its AI likeness detection technology to celebrities",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.  ",
-    "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 21 Apr 2026 15:02:06 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1776797624306_1",
+    "id": "rss_MIT_Tech_Review_1776801453155_1",
     "title": "The Download: turning down human noise, and LA’s stunning subway upgrade",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -178,7 +202,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776797626845_2",
+    "id": "rss_Wired_1776801455355_3",
     "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
     "category": "ai-news",
     "source": "Wired",
@@ -191,7 +215,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776797624306_2",
+    "id": "rss_MIT_Tech_Review_1776801453155_2",
     "title": "Digging for clues about the North Pole’s past",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -202,7 +226,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776797626845_3",
+    "id": "rss_Wired_1776801455356_4",
     "title": "A Humanoid Robot Set a Half-Marathon Record in China",
     "category": "ai-news",
     "source": "Wired",
@@ -212,21 +236,10 @@
       "Robot"
     ],
     "date": "Mon, 20 Apr 2026 22:33:27 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1776797626845_4",
-    "title": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The pasta-sauce company has partnered with the nonprofit StoryCorps on a device designed to record family conversations around the table and save them for all time.",
-    "link": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
-    "tags": [],
-    "date": "Mon, 20 Apr 2026 13:00:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776797624306_3",
+    "id": "rss_MIT_Tech_Review_1776801453155_3",
     "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -239,7 +252,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776797624306_4",
+    "id": "rss_MIT_Tech_Review_1776801453155_4",
     "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -249,10 +262,10 @@
       "AI"
     ],
     "date": "Mon, 20 Apr 2026 10:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1776797635342_0",
+    "id": "rss_Distill_1776801463430_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -262,10 +275,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1776797635342_1",
+    "id": "rss_Distill_1776801463430_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -278,7 +291,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776797635343_2",
+    "id": "rss_Distill_1776801463430_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -289,7 +302,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776797635343_3",
+    "id": "rss_Distill_1776801463430_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -302,7 +315,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776797635343_4",
+    "id": "rss_Distill_1776801463430_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
