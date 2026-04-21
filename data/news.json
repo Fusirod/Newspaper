@@ -1,6 +1,56 @@
 [
   {
-    "id": "rss_TechCrunch_1776787337345_0",
+    "id": "rss_Wired_1776793756821_0",
+    "title": "Tim Cook's Legacy Is Turning Apple Into a Subscription",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
+    "link": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 21 Apr 2026 17:35:12 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1776793754471_0",
+    "title": "Building agent-first governance and security",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "As AI agents increasingly work alongside humans across organizations, companies could be inadvertently opening a new attack surface. Insecure agents can be manipulated to access sensitive systems and proprietary data, increasing enterprise risk. In some modern enterprises, non-human identities (NHI)",
+    "link": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 21 Apr 2026 17:22:54 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1776793752321_0",
+    "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents. ",
+    "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 21 Apr 2026 17:11:01 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1776793755729_0",
+    "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
+    "tags": [],
+    "date": "Tue, 21 Apr 2026 17:00:04 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1776793752322_1",
     "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -13,7 +63,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776787337345_1",
+    "id": "rss_TechCrunch_1776793752322_2",
     "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -26,7 +76,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776787337345_2",
+    "id": "rss_TechCrunch_1776793752322_3",
     "title": "YouTube expands its AI likeness detection technology to celebrities",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -39,7 +89,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776787341067_0",
+    "id": "rss_Ars_Technica_1776793755729_1",
     "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -50,7 +100,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776787341067_1",
+    "id": "rss_Ars_Technica_1776793755729_2",
     "title": "AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -58,10 +108,10 @@
     "link": "https://arstechnica.com/gadgets/2026/04/amd-ryzen-9-9950x3d2-dual-edition-review-tons-of-cache-for-tons-of-dollars/",
     "tags": [],
     "date": "Tue, 21 Apr 2026 14:45:36 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1776787341067_2",
+    "id": "rss_Ars_Technica_1776793755729_3",
     "title": "What's the deal with spacesuits for the Moon? Will they be ready in time?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -72,7 +122,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1776787341067_3",
+    "id": "rss_Ars_Technica_1776793755729_4",
     "title": "Loneliness in older adults can often lead to memory impairment",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -82,10 +132,10 @@
       "AI"
     ],
     "date": "Tue, 21 Apr 2026 14:23:24 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776787337345_3",
+    "id": "rss_TechCrunch_1776793752322_4",
     "title": "GRAI believes AI can make music more social, not replace artists",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -96,21 +146,10 @@
       "Startup"
     ],
     "date": "Tue, 21 Apr 2026 13:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1776787341067_4",
-    "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        A stubborn misconception is hampering the already hard work of quantum readiness.\n                    ",
-    "link": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
-    "tags": [],
-    "date": "Tue, 21 Apr 2026 12:35:20 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1776787339739_0",
+    "id": "rss_MIT_Tech_Review_1776793754471_1",
     "title": "The Download: turning down human noise, and LA’s stunning subway upgrade",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -123,7 +162,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776787342195_0",
+    "id": "rss_Wired_1776793756821_1",
     "title": "This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
     "category": "ai-news",
     "source": "Wired",
@@ -136,7 +175,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776787339739_1",
+    "id": "rss_MIT_Tech_Review_1776793754471_2",
     "title": "Digging for clues about the North Pole’s past",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -147,20 +186,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776787337345_4",
-    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-    "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 20 Apr 2026 23:10:27 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1776787342195_1",
+    "id": "rss_Wired_1776793756821_2",
     "title": "A Humanoid Robot Set a Half-Marathon Record in China",
     "category": "ai-news",
     "source": "Wired",
@@ -170,10 +196,10 @@
       "Robot"
     ],
     "date": "Mon, 20 Apr 2026 22:33:27 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1776787342195_2",
+    "id": "rss_Wired_1776793756821_3",
     "title": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
     "category": "ai-news",
     "source": "Wired",
@@ -181,10 +207,10 @@
     "link": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
     "tags": [],
     "date": "Mon, 20 Apr 2026 13:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1776787339739_2",
+    "id": "rss_MIT_Tech_Review_1776793754471_3",
     "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -197,7 +223,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776787342196_3",
+    "id": "rss_Wired_1776793756821_4",
     "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
     "category": "ai-news",
     "source": "Wired",
@@ -211,7 +237,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776787339739_3",
+    "id": "rss_MIT_Tech_Review_1776793754471_4",
     "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -224,33 +250,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776787339739_4",
-    "title": "Chinese tech workers are starting to train their AI doubles—and pushing back",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” the",
-    "link": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 20 Apr 2026 09:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1776787342196_4",
-    "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
-    "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Sat, 18 Apr 2026 10:30:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Distill_1776787351046_0",
+    "id": "rss_Distill_1776793764449_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -263,7 +263,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776787351046_1",
+    "id": "rss_Distill_1776793764449_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -273,10 +273,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1776787351046_2",
+    "id": "rss_Distill_1776793764449_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -287,7 +287,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776787351046_3",
+    "id": "rss_Distill_1776793764449_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -300,7 +300,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1776787351046_4",
+    "id": "rss_Distill_1776793764449_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
