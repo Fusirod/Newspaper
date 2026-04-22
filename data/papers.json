@@ -1,6 +1,47 @@
 [
   {
-    "id": "arxiv_1776852516734_0",
+    "id": "arxiv_1776858580067_0",
+    "name": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
+    "category": "computer-vision",
+    "description": "Recent advances in image generation and editing have opened new opportunities for virtual try-on. However, existing methods still struggle to meet complex real-world demands. We present Tstars-Tryon 1...",
+    "link": "http://arxiv.org/abs/2604.19748v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-04-21T17:59:49Z",
+    "trending": false,
+    "source": "arXiv - Mengting Chen, Zhengrui Chen, Yongchao Du et al."
+  },
+  {
+    "id": "arxiv_1776858580067_1",
+    "name": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
+    "category": "computer-vision",
+    "description": "Sparse-view 3D reconstruction is essential for modeling scenes from casual captures, but remain challenging for non-generative reconstruction. Existing diffusion-based approaches mitigates this issues...",
+    "link": "http://arxiv.org/abs/2604.19747v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-04-21T17:59:47Z",
+    "trending": false,
+    "source": "arXiv - Yutian Chen, Shi Guo, Renbiao Jin et al."
+  },
+  {
+    "id": "arxiv_1776858580068_2",
+    "name": "CityRAG: Stepping Into a City via Spatially-Grounded Video Generation",
+    "category": "computer-vision",
+    "description": "We address the problem of generating a 3D-consistent, navigable environment that is spatially grounded: a simulation of a real location. Existing video generative models can produce a plausible sequen...",
+    "link": "http://arxiv.org/abs/2604.19741v1",
+    "tags": [
+      "AI",
+      "Robotics"
+    ],
+    "date": "2026-04-21T17:59:03Z",
+    "trending": true,
+    "source": "arXiv - Gene Chou, Charles Herrmann, Kyle Genova et al."
+  },
+  {
+    "id": "arxiv_1776858580042_0",
     "name": "Generalization at the Edge of Stability",
     "category": "ai",
     "description": "Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this re...",
@@ -16,7 +57,81 @@
     "source": "arXiv - Mario Tuci, Caner Korkmaz, Umut Şimşekli et al."
   },
   {
-    "id": "arxiv_1776852516734_1",
+    "id": "arxiv_1776858580068_3",
+    "name": "Generalization at the Edge of Stability",
+    "category": "computer-vision",
+    "description": "Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this re...",
+    "link": "http://arxiv.org/abs/2604.19740v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Transformer",
+      "Optimization"
+    ],
+    "date": "2026-04-21T17:59:02Z",
+    "trending": false,
+    "source": "arXiv - Mario Tuci, Caner Korkmaz, Umut Şimşekli et al."
+  },
+  {
+    "id": "arxiv_1776858580232_0",
+    "name": "Generalization at the Edge of Stability",
+    "category": "machine-learning",
+    "description": "Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this re...",
+    "link": "http://arxiv.org/abs/2604.19740v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Transformer",
+      "Optimization"
+    ],
+    "date": "2026-04-21T17:59:02Z",
+    "trending": false,
+    "source": "arXiv - Mario Tuci, Caner Korkmaz, Umut Şimşekli et al."
+  },
+  {
+    "id": "arxiv_1776858580232_1",
+    "name": "Phase Transitions in the Fluctuations of Functionals of Random Neural Networks",
+    "category": "machine-learning",
+    "description": "We establish central and non-central limit theorems for sequences of functionals of the Gaussian output of an infinitely-wide random neural network on the d-dimensional sphere . We show that the asymp...",
+    "link": "http://arxiv.org/abs/2604.19738v1",
+    "tags": [
+      "Neural"
+    ],
+    "date": "2026-04-21T17:58:39Z",
+    "trending": false,
+    "source": "arXiv - Simmaco Di Lillo, Leonardo Maini, Domenico Marinucci"
+  },
+  {
+    "id": "arxiv_1776858580233_2",
+    "name": "Safe Continual Reinforcement Learning in Non-stationary Environments",
+    "category": "machine-learning",
+    "description": "Reinforcement learning (RL) offers a compelling data-driven paradigm for synthesizing controllers for complex systems when accurate physical models are unavailable; however, most existing control-orie...",
+    "link": "http://arxiv.org/abs/2604.19737v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-04-21T17:58:32Z",
+    "trending": true,
+    "source": "arXiv - Austin Coursey, Abel Diaz-Gonzalez, Marcos Quinones-Grueiro et al."
+  },
+  {
+    "id": "arxiv_1776858580068_4",
+    "name": "Generative Drifting for Conditional Medical Image Generation",
+    "category": "computer-vision",
+    "description": "Conditional medical image generation plays an important role in many clinically relevant imaging tasks. However, existing methods still face a fundamental challenge in balancing inference efficiency, ...",
+    "link": "http://arxiv.org/abs/2604.19736v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "Optimization"
+    ],
+    "date": "2026-04-21T17:58:26Z",
+    "trending": true,
+    "source": "arXiv - Zirong Li, Siyuan Mei, Weiwen Wu et al."
+  },
+  {
+    "id": "arxiv_1776858580042_1",
     "name": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
     "category": "ai",
     "description": "Scaling humanoid foundation models is bottlenecked by the scarcity of robotic data. While massive egocentric human data offers a scalable alternative, bridging the cross-embodiment chasm remains a fun...",
@@ -30,9 +145,24 @@
     "source": "arXiv - Boyu Chen, Yi Chen, Lu Qiu et al."
   },
   {
-    "id": "arxiv_1776852516734_2",
+    "id": "arxiv_1776858580042_2",
     "name": "FASTER: Value-Guided Sampling for Fast RL",
     "category": "ai",
+    "description": "Some of the most performant reinforcement learning algorithms today can be prohibitively expensive as they use test-time scaling methods such as sampling multiple action candidates and selecting the b...",
+    "link": "http://arxiv.org/abs/2604.19730v1",
+    "tags": [
+      "AI",
+      "Diffusion",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-04-21T17:52:17Z",
+    "trending": true,
+    "source": "arXiv - Perry Dong, Alexander Swerdlow, Dorsa Sadigh et al."
+  },
+  {
+    "id": "arxiv_1776858580233_3",
+    "name": "FASTER: Value-Guided Sampling for Fast RL",
+    "category": "machine-learning",
     "description": "Some of the most performant reinforcement learning algorithms today can be prohibitively expensive as they use test-time scaling methods such as sampling multiple action candidates and selecting the b...",
     "link": "http://arxiv.org/abs/2604.19730v1",
     "tags": [
@@ -45,7 +175,22 @@
     "source": "arXiv - Perry Dong, Alexander Swerdlow, Dorsa Sadigh et al."
   },
   {
-    "id": "arxiv_1776852516735_3",
+    "id": "arxiv_1776858580233_4",
+    "name": "FB-NLL: A Feature-Based Approach to Tackle Noisy Labels in Personalized Federated Learning",
+    "category": "machine-learning",
+    "description": "Personalized Federated Learning (PFL) aims to learn multiple task-specific models rather than a single global model across heterogeneous data distributions. Existing PFL approaches typically rely on i...",
+    "link": "http://arxiv.org/abs/2604.19729v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Optimization"
+    ],
+    "date": "2026-04-21T17:51:58Z",
+    "trending": true,
+    "source": "arXiv - Abdulmoneam Ali, Ahmed Arafa"
+  },
+  {
+    "id": "arxiv_1776858580043_3",
     "name": "VLA Foundry: A Unified Framework for Training Vision-Language-Action Models",
     "category": "ai",
     "description": "We present VLA Foundry, an open-source framework that unifies LLM, VLM, and VLA training in a single codebase. Most open-source VLA efforts specialize on the action training stage, often stitching tog...",
@@ -56,11 +201,11 @@
       "LLM"
     ],
     "date": "2026-04-21T17:51:51Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jean Mercat, Sedrick Keh, Kushal Arora et al."
   },
   {
-    "id": "arxiv_1776852516735_4",
+    "id": "arxiv_1776858580043_4",
     "name": "Benign Overfitting in Adversarial Training for Vision Transformers",
     "category": "ai",
     "description": "Despite the remarkable success of Vision Transformers (ViTs) across a wide range of vision tasks, recent studies have revealed that they remain vulnerable to adversarial examples, much like Convolutio...",
@@ -74,5 +219,74 @@
     "date": "2026-04-21T17:48:51Z",
     "trending": true,
     "source": "arXiv - Jiaming Zhang, Meng Ding, Shaopeng Fu et al."
+  },
+  {
+    "id": "arxiv_1776858580257_0",
+    "name": "Discovering a Shared Logical Subspace: Steering LLM Logical Reasoning via Alignment of Natural-Language and Symbolic Views",
+    "category": "nlp",
+    "description": "Large Language Models (LLMs) still struggle with multi-step logical reasoning. Existing approaches either purely refine the reasoning chain in natural language form or attach a symbolic solver as an e...",
+    "link": "http://arxiv.org/abs/2604.19716v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-04-21T17:42:54Z",
+    "trending": false,
+    "source": "arXiv - Feihao Fang, My T. Thai, Yuanyuan Lei"
+  },
+  {
+    "id": "arxiv_1776858580257_1",
+    "name": "Epistemic orientation in parliamentary discourse is associated with deliberative democracy",
+    "category": "nlp",
+    "description": "The pursuit of truth is central to democratic deliberation and governance, yet political discourse reflects varying epistemic orientations, ranging from evidence-based reasoning grounded in verifiable...",
+    "link": "http://arxiv.org/abs/2604.19699v1",
+    "tags": [
+      "LLM"
+    ],
+    "date": "2026-04-21T17:19:09Z",
+    "trending": false,
+    "source": "arXiv - Segun Aroyehun, Stephan Lewandowsky, David Garcia"
+  },
+  {
+    "id": "arxiv_1776858580258_2",
+    "name": "An Answer is just the Start: Related Insight Generation for Open-Ended Document-Grounded QA",
+    "category": "nlp",
+    "description": "Answering open-ended questions remains challenging for AI systems because it requires synthesis, judgment, and exploration beyond factual retrieval, and users often refine answers through multiple ite...",
+    "link": "http://arxiv.org/abs/2604.19685v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-04-21T17:07:53Z",
+    "trending": false,
+    "source": "arXiv - Saransh Sharma, Pritika Ramu, Aparna Garimella et al."
+  },
+  {
+    "id": "arxiv_1776858580258_3",
+    "name": "Exploring Language-Agnosticity in Function Vectors: A Case Study in Machine Translation",
+    "category": "nlp",
+    "description": "Function vectors (FVs) are vector representations of tasks extracted from model activations during in-context learning. While prior work has shown that multilingual model representations can be langua...",
+    "link": "http://arxiv.org/abs/2604.19678v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-04-21T16:56:55Z",
+    "trending": true,
+    "source": "arXiv - Nurkhan Laiyk, Gerard I. Gállego, Javier Ferrando et al."
+  },
+  {
+    "id": "arxiv_1776858580258_4",
+    "name": "Chat2Workflow: A Benchmark for Generating Executable Visual Workflows with Natural Language",
+    "category": "nlp",
+    "description": "At present, executable visual workflows have emerged as a mainstream paradigm in real-world industrial deployments, offering strong reliability and controllability. However, in current practice, such ...",
+    "link": "http://arxiv.org/abs/2604.19667v1",
+    "tags": [
+      "AI",
+      "NLP"
+    ],
+    "date": "2026-04-21T16:49:11Z",
+    "trending": false,
+    "source": "arXiv - Yi Zhong, Buqiang Xu, Yijun Wang et al."
   }
 ]
