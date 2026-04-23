@@ -1,7 +1,31 @@
 [
   {
-    "id": "rss_TechCrunch_1776970317921_0",
-    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’",
+    "id": "rss_TechCrunch_1776974395163_0",
+    "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+    "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 23 Apr 2026 19:38:25 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1776974399653_0",
+    "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "In this week’s episode of Uncanny Valley, we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+    "tags": [],
+    "date": "Thu, 23 Apr 2026 19:26:11 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1776974395163_1",
+    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
     "category": "ai-news",
     "source": "TechCrunch",
     "description": "OpenAI says its latest model offers increased capabilities across a broad variety of categories. ",
@@ -15,7 +39,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776970322489_0",
+    "id": "rss_Wired_1776974399653_1",
     "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
     "category": "ai-news",
     "source": "Wired",
@@ -25,10 +49,10 @@
       "AI"
     ],
     "date": "Thu, 23 Apr 2026 18:24:37 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776970321420_0",
+    "id": "rss_Ars_Technica_1776974398596_0",
     "title": "RFK Jr.’s rejection of germ theory debunked in Senate hearing",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -36,10 +60,10 @@
     "link": "https://arstechnica.com/health/2026/04/rfk-jr-s-rejection-of-germ-theory-debunked-in-senate-hearing/",
     "tags": [],
     "date": "Thu, 23 Apr 2026 18:05:53 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1776970321420_1",
+    "id": "rss_Ars_Technica_1776974398596_1",
     "title": "Why are the Mac mini and Mac Studio gradually becoming impossible to buy?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -52,7 +76,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776970321420_2",
+    "id": "rss_Ars_Technica_1776974398596_2",
     "title": "US Space Command: Russia is now operationalizing co-orbital ASAT weapons",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -63,7 +87,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776970321420_3",
+    "id": "rss_Ars_Technica_1776974398596_3",
     "title": "Apple stops weirdly storing data that let cops spy on Signal chats",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -74,7 +98,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1776970321420_4",
+    "id": "rss_Ars_Technica_1776974398596_4",
     "title": "Eight months early and under budget, the Roman Telescope is ready to launch",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -85,7 +109,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776970317921_1",
+    "id": "rss_TechCrunch_1776974395163_2",
     "title": "Era raises $11M to build a software platform for AI gadgets",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -95,10 +119,10 @@
       "AI"
     ],
     "date": "Thu, 23 Apr 2026 16:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1776970317922_2",
+    "id": "rss_TechCrunch_1776974395163_3",
     "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -109,7 +133,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1776970317922_3",
+    "id": "rss_TechCrunch_1776974395163_4",
     "title": "Another customer of troubled startup Delve suffered a big security incident",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -120,23 +144,10 @@
       "Startup"
     ],
     "date": "Thu, 23 Apr 2026 14:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1776970317922_4",
-    "title": "AI galaxy hunters are adding to the global GPU crunch",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Astronomers are turning to GPUs to find needles in the galactic haystack. ",
-    "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 23 Apr 2026 13:00:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776970320255_0",
+    "id": "rss_MIT_Tech_Review_1776974397388_0",
     "title": "The Download: introducing the Nature issue",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -149,7 +160,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776970320255_1",
+    "id": "rss_MIT_Tech_Review_1776974397388_1",
     "title": "Will fusion power get cheap? Don’t count on it.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -160,7 +171,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776970322489_1",
+    "id": "rss_Wired_1776974399654_2",
     "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
     "category": "ai-news",
     "source": "Wired",
@@ -171,7 +182,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1776970322489_2",
+    "id": "rss_Wired_1776974399654_3",
     "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
     "category": "ai-news",
     "source": "Wired",
@@ -181,10 +192,10 @@
       "AI"
     ],
     "date": "Wed, 22 Apr 2026 18:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1776970322489_3",
+    "id": "rss_Wired_1776974399654_4",
     "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
     "category": "ai-news",
     "source": "Wired",
@@ -194,10 +205,10 @@
       "AI"
     ],
     "date": "Wed, 22 Apr 2026 16:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776970320255_2",
+    "id": "rss_MIT_Tech_Review_1776974397389_2",
     "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -210,7 +221,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1776970320255_3",
+    "id": "rss_MIT_Tech_Review_1776974397389_3",
     "title": "AI needs a strong data fabric to deliver business value",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -220,10 +231,10 @@
       "AI"
     ],
     "date": "Wed, 22 Apr 2026 10:05:06 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1776970320255_4",
+    "id": "rss_MIT_Tech_Review_1776974397389_4",
     "title": "3 things Michelle Kim is into right now",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -231,24 +242,10 @@
     "link": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
     "tags": [],
     "date": "Wed, 22 Apr 2026 10:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1776970322489_4",
-    "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
-    "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Wed, 22 Apr 2026 10:00:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_Distill_1776970331536_0",
+    "id": "rss_Distill_1776974407588_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -258,10 +255,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1776970331536_1",
+    "id": "rss_Distill_1776974407588_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -274,7 +271,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1776970331536_2",
+    "id": "rss_Distill_1776974407589_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -282,10 +279,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1776970331536_3",
+    "id": "rss_Distill_1776974407589_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -298,7 +295,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1776970331536_4",
+    "id": "rss_Distill_1776974407589_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
