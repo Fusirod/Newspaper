@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1776948871021_0",
+    "id": "arxiv_1776956742926_0",
     "name": "SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation",
     "category": "ai",
     "description": "Paralinguistic cues are essential for natural human-computer interaction, yet their evaluation in Large Audio-Language Models (LALMs) remains limited by coarse feature coverage and the inherent subjec...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Ruohan Liu, Shukang Yin, Tao Wang et al."
   },
   {
-    "id": "arxiv_1776948871540_0",
+    "id": "arxiv_1776956743453_0",
     "name": "SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation",
     "category": "nlp",
     "description": "Paralinguistic cues are essential for natural human-computer interaction, yet their evaluation in Large Audio-Language Models (LALMs) remains limited by coarse feature coverage and the inherent subjec...",
@@ -28,18 +28,18 @@
     "source": "arXiv - Ruohan Liu, Shukang Yin, Tao Wang et al."
   },
   {
-    "id": "arxiv_1776948871250_0",
+    "id": "arxiv_1776956743152_0",
     "name": "DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation",
     "category": "computer-vision",
     "description": "Recent advances in video generative models enable the synthesis of realistic human-object interaction videos across a wide range of scenarios and object categories, including complex dexterous manipul...",
     "link": "http://arxiv.org/abs/2604.20841v1",
     "tags": [],
     "date": "2026-04-22T17:59:55Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hyeonwoo Kim, Jeonghwan Kim, Kyungwon Cho et al."
   },
   {
-    "id": "arxiv_1776948871540_1",
+    "id": "arxiv_1776956743454_1",
     "name": "Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
     "category": "nlp",
     "description": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by trainin...",
@@ -48,11 +48,11 @@
       "AI"
     ],
     "date": "2026-04-22T17:58:36Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zhaofeng Wu, Shiqi Wang, Boya Peng et al."
   },
   {
-    "id": "arxiv_1776948871021_1",
+    "id": "arxiv_1776956742926_1",
     "name": "AVISE: Framework for Evaluating the Security of AI Systems",
     "category": "ai",
     "description": "As artificial intelligence (AI) systems are increasingly deployed across critical domains, their security vulnerabilities pose growing risks of high-profile exploits and consequential system failures....",
@@ -61,11 +61,11 @@
       "AI"
     ],
     "date": "2026-04-22T17:58:17Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Mikko Lempinen, Joni Kemppainen, Niklas Raesalmi"
   },
   {
-    "id": "arxiv_1776948871541_2",
+    "id": "arxiv_1776956743454_2",
     "name": "AVISE: Framework for Evaluating the Security of AI Systems",
     "category": "nlp",
     "description": "As artificial intelligence (AI) systems are increasingly deployed across critical domains, their security vulnerabilities pose growing risks of high-profile exploits and consequential system failures....",
@@ -78,7 +78,7 @@
     "source": "arXiv - Mikko Lempinen, Joni Kemppainen, Niklas Raesalmi"
   },
   {
-    "id": "arxiv_1776948871021_2",
+    "id": "arxiv_1776956742926_2",
     "name": "FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels",
     "category": "ai",
     "description": "Federated learning (FL) enables collaborative model training without sharing raw data; however, the presence of noisy labels across distributed clients can severely degrade the learning performance. I...",
@@ -88,11 +88,11 @@
       "Optimization"
     ],
     "date": "2026-04-22T17:49:20Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Sina Gholami, Abdulmoneam Ali, Tania Haghighi et al."
   },
   {
-    "id": "arxiv_1776948871251_1",
+    "id": "arxiv_1776956743153_1",
     "name": "FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels",
     "category": "computer-vision",
     "description": "Federated learning (FL) enables collaborative model training without sharing raw data; however, the presence of noisy labels across distributed clients can severely degrade the learning performance. I...",
@@ -106,7 +106,7 @@
     "source": "arXiv - Sina Gholami, Abdulmoneam Ali, Tania Haghighi et al."
   },
   {
-    "id": "arxiv_1776948871309_0",
+    "id": "arxiv_1776956743224_0",
     "name": "FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels",
     "category": "machine-learning",
     "description": "Federated learning (FL) enables collaborative model training without sharing raw data; however, the presence of noisy labels across distributed clients can severely degrade the learning performance. I...",
@@ -120,7 +120,7 @@
     "source": "arXiv - Sina Gholami, Abdulmoneam Ali, Tania Haghighi et al."
   },
   {
-    "id": "arxiv_1776948871310_1",
+    "id": "arxiv_1776956743224_1",
     "name": "Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples",
     "category": "machine-learning",
     "description": "The central problem in biomedical imaging are batch effects: systematic technical variations unrelated to the biological signal of interest. These batch effects critically undermine experimental repro...",
@@ -134,7 +134,7 @@
     "source": "arXiv - Ana Sanchez-Fernandez, Thomas Pinetz, Werner Zellinger et al."
   },
   {
-    "id": "arxiv_1776948871251_2",
+    "id": "arxiv_1776956743153_2",
     "name": "Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series",
     "category": "computer-vision",
     "description": "The offshore wind energy sector is expanding rapidly, increasing the need for independent, high-temporal-resolution monitoring of infrastructure deployment and operation at global scale. While Earth O...",
@@ -147,7 +147,7 @@
     "source": "arXiv - Thorsten Hoeser, Felix Bachofer, Claudia Kuenzer"
   },
   {
-    "id": "arxiv_1776948871310_2",
+    "id": "arxiv_1776956743224_2",
     "name": "Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series",
     "category": "machine-learning",
     "description": "The offshore wind energy sector is expanding rapidly, increasing the need for independent, high-temporal-resolution monitoring of infrastructure deployment and operation at global scale. While Earth O...",
@@ -160,7 +160,7 @@
     "source": "arXiv - Thorsten Hoeser, Felix Bachofer, Claudia Kuenzer"
   },
   {
-    "id": "arxiv_1776948871310_3",
+    "id": "arxiv_1776956743225_3",
     "name": "Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling",
     "category": "machine-learning",
     "description": "The scalability of long-context large language models is fundamentally limited by the quadratic memory cost of exact self-attention, which often leads to out-of-memory (OOM) failures on modern hardwar...",
@@ -173,7 +173,7 @@
     "source": "arXiv - Yiming Bian, Joshua M. Akey"
   },
   {
-    "id": "arxiv_1776948871022_3",
+    "id": "arxiv_1776956742927_3",
     "name": "Convergent Evolution: How Different Language Models Learn Similar Number Representations",
     "category": "ai",
     "description": "Language models trained on natural text learn to represent numbers using periodic features with dominant periods at $T=2, 5, 10$. In this paper, we identify a two-tiered hierarchy of these features: w...",
@@ -188,7 +188,7 @@
     "source": "arXiv - Deqing Fu, Tianyi Zhou, Mikhail Belkin et al."
   },
   {
-    "id": "arxiv_1776948871310_4",
+    "id": "arxiv_1776956743225_4",
     "name": "Convergent Evolution: How Different Language Models Learn Similar Number Representations",
     "category": "machine-learning",
     "description": "Language models trained on natural text learn to represent numbers using periodic features with dominant periods at $T=2, 5, 10$. In this paper, we identify a two-tiered hierarchy of these features: w...",
@@ -203,7 +203,7 @@
     "source": "arXiv - Deqing Fu, Tianyi Zhou, Mikhail Belkin et al."
   },
   {
-    "id": "arxiv_1776948871541_3",
+    "id": "arxiv_1776956743454_3",
     "name": "Convergent Evolution: How Different Language Models Learn Similar Number Representations",
     "category": "nlp",
     "description": "Language models trained on natural text learn to represent numbers using periodic features with dominant periods at $T=2, 5, 10$. In this paper, we identify a two-tiered hierarchy of these features: w...",
@@ -218,7 +218,7 @@
     "source": "arXiv - Deqing Fu, Tianyi Zhou, Mikhail Belkin et al."
   },
   {
-    "id": "arxiv_1776948871251_3",
+    "id": "arxiv_1776956743153_3",
     "name": "ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control",
     "category": "computer-vision",
     "description": "Reinforcement Learning (RL) post-training has become the standard for aligning generative models with human preferences, yet most methods rely on a single scalar reward. When multiple criteria matter,...",
@@ -229,11 +229,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-04-22T17:44:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Shelly Golan, Michael Finkelson, Ariel Bereslavsky et al."
   },
   {
-    "id": "arxiv_1776948871251_4",
+    "id": "arxiv_1776956743153_4",
     "name": "Adapting TrOCR for Printed Tigrinya Text Recognition: Word-Aware Loss Weighting for Cross-Script Transfer Learning",
     "category": "computer-vision",
     "description": "Transformer-based OCR models have shown strong performance on Latin and CJK scripts, but their application to African syllabic writing systems remains limited. We present the first adaptation of TrOCR...",
@@ -247,7 +247,7 @@
     "source": "arXiv - Yonatan Haile Medhanie, Yuanhua Ni"
   },
   {
-    "id": "arxiv_1776948871022_4",
+    "id": "arxiv_1776956742927_4",
     "name": "Diagnosing CFG Interpretation in LLMs",
     "category": "ai",
     "description": "As LLMs are increasingly integrated into agentic systems, they must adhere to dynamically defined, machine-interpretable interfaces. We evaluate LLMs as in-context interpreters: given a novel context-...",
@@ -261,7 +261,7 @@
     "source": "arXiv - Hanqi Li, Lu Chen, Kai Yu"
   },
   {
-    "id": "arxiv_1776948871541_4",
+    "id": "arxiv_1776956743454_4",
     "name": "OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model",
     "category": "nlp",
     "description": "Large vision-language models (LVLMs) have made substantial advances in reasoning tasks at the Olympiad level. Nevertheless, current Olympiad-level multimodal reasoning benchmarks for these models ofte...",
