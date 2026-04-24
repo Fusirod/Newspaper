@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1777052480531_0",
+    "id": "arxiv_1777055657872_0",
     "name": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
     "category": "ai",
     "description": "How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ...",
@@ -10,11 +10,11 @@
       "Vision"
     ],
     "date": "2026-04-23T17:59:57Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yen-Siang Wu, Rundong Luo, Jingsen Zhu et al."
   },
   {
-    "id": "arxiv_1777052480559_0",
+    "id": "arxiv_1777055657949_0",
     "name": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
     "category": "computer-vision",
     "description": "How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Yen-Siang Wu, Rundong Luo, Jingsen Zhu et al."
   },
   {
-    "id": "arxiv_1777052480586_0",
+    "id": "arxiv_1777055658023_0",
     "name": "Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability",
     "category": "machine-learning",
     "description": "Streaming Continual Learning (CL) typically converts a continuous stream into a sequence of discrete tasks through temporal partitioning. We argue that this temporal taskification step is not a neutra...",
@@ -37,11 +37,11 @@
       "AI"
     ],
     "date": "2026-04-23T17:59:54Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Nicolae Filat, Ahmed Hussain, Konstantinos Kalogiannis et al."
   },
   {
-    "id": "arxiv_1777052480613_0",
+    "id": "arxiv_1777055658097_0",
     "name": "Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
     "category": "nlp",
     "description": "Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human pe...",
@@ -51,11 +51,11 @@
       "LLM"
     ],
     "date": "2026-04-23T17:59:47Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Thibault Bañeras-Roux, Shashi Kumar, Driss Khalil et al."
   },
   {
-    "id": "arxiv_1777052480586_1",
+    "id": "arxiv_1777055658023_1",
     "name": "Fine-Tuning Regimes Define Distinct Continual Learning Problems",
     "category": "machine-learning",
     "description": "Continual learning (CL) studies how models acquire tasks sequentially while retaining previously learned knowledge. Despite substantial progress in benchmarking CL methods, comparative evaluations typ...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Paul-Tiberiu Iordache, Elena Burceanu"
   },
   {
-    "id": "arxiv_1777052480559_1",
+    "id": "arxiv_1777055657949_1",
     "name": "Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs",
     "category": "computer-vision",
     "description": "Understanding human activities and their surrounding environments typically relies on visual perception, yet cameras pose persistent challenges in privacy, safety, energy efficiency, and scalability. ...",
@@ -79,11 +79,11 @@
       "Vision"
     ],
     "date": "2026-04-23T17:59:16Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hao-Yu Hsu, Tianhang Cheng, Jing Wen et al."
   },
   {
-    "id": "arxiv_1777052480586_2",
+    "id": "arxiv_1777055658023_2",
     "name": "The Sample Complexity of Multicalibration",
     "category": "machine-learning",
     "description": "We study the minimax sample complexity of multicalibration in the batch setting. A learner observes $n$ i.i.d. samples from an unknown distribution and must output a (possibly randomized) predictor wh...",
@@ -96,7 +96,7 @@
     "source": "arXiv - Natalie Collina, Jiuyao Lu, Georgy Noarov et al."
   },
   {
-    "id": "arxiv_1777052480560_2",
+    "id": "arxiv_1777055657949_2",
     "name": "Context Unrolling in Omni Models",
     "category": "computer-vision",
     "description": "We present Omni, a unified multimodal model natively trained on diverse modalities, including text, images, videos, 3D geometry, and hidden representations. We find that such training enables Context ...",
@@ -109,7 +109,7 @@
     "source": "arXiv - Ceyuan Yang, Zhijie Lin, Yang Zhao et al."
   },
   {
-    "id": "arxiv_1777052480613_1",
+    "id": "arxiv_1777055658097_1",
     "name": "MathDuels: Evaluating LLMs as Problem Posers and Solvers",
     "category": "nlp",
     "description": "As frontier language models attain near-ceiling performance on static mathematical benchmarks, existing evaluations are increasingly unable to differentiate model capabilities, largely because they ca...",
@@ -123,7 +123,7 @@
     "source": "arXiv - Zhiqiu Xu, Shibo Jin, Shreya Arya et al."
   },
   {
-    "id": "arxiv_1777052480560_3",
+    "id": "arxiv_1777055657949_3",
     "name": "Vista4D: Video Reshooting with 4D Point Clouds",
     "category": "computer-vision",
     "description": "We present Vista4D, a robust and flexible video reshooting framework that grounds the input video and target cameras in a 4D point cloud. Specifically, given an input video, our method re-synthesizes ...",
@@ -132,11 +132,11 @@
       "AI"
     ],
     "date": "2026-04-23T17:57:28Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Kuan Heng Lin, Zhizheng Liu, Pablo Salamanca et al."
   },
   {
-    "id": "arxiv_1777052480531_1",
+    "id": "arxiv_1777055657872_1",
     "name": "When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs",
     "category": "ai",
     "description": "Despite impressive progress in capabilities of large vision-language models (LVLMs), these systems remain vulnerable to hallucinations, i.e., outputs that are not grounded in the visual input. Prior w...",
@@ -151,7 +151,7 @@
     "source": "arXiv - Pegah Khayatan, Jayneel Parekh, Arnaud Dapogny et al."
   },
   {
-    "id": "arxiv_1777052480560_4",
+    "id": "arxiv_1777055657950_4",
     "name": "When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs",
     "category": "computer-vision",
     "description": "Despite impressive progress in capabilities of large vision-language models (LVLMs), these systems remain vulnerable to hallucinations, i.e., outputs that are not grounded in the visual input. Prior w...",
@@ -166,7 +166,7 @@
     "source": "arXiv - Pegah Khayatan, Jayneel Parekh, Arnaud Dapogny et al."
   },
   {
-    "id": "arxiv_1777052480586_3",
+    "id": "arxiv_1777055658023_3",
     "name": "When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs",
     "category": "machine-learning",
     "description": "Despite impressive progress in capabilities of large vision-language models (LVLMs), these systems remain vulnerable to hallucinations, i.e., outputs that are not grounded in the visual input. Prior w...",
@@ -177,11 +177,11 @@
       "Optimization"
     ],
     "date": "2026-04-23T17:54:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Pegah Khayatan, Jayneel Parekh, Arnaud Dapogny et al."
   },
   {
-    "id": "arxiv_1777052480613_2",
+    "id": "arxiv_1777055658097_2",
     "name": "When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs",
     "category": "nlp",
     "description": "Despite impressive progress in capabilities of large vision-language models (LVLMs), these systems remain vulnerable to hallucinations, i.e., outputs that are not grounded in the visual input. Prior w...",
@@ -196,7 +196,7 @@
     "source": "arXiv - Pegah Khayatan, Jayneel Parekh, Arnaud Dapogny et al."
   },
   {
-    "id": "arxiv_1777052480531_2",
+    "id": "arxiv_1777055657873_2",
     "name": "From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation",
     "category": "ai",
     "description": "Scientific workflow systems automate execution -- scheduling, fault tolerance, resource management -- but not the semantic translation that precedes it. Scientists still manually convert research ques...",
@@ -211,7 +211,7 @@
     "source": "arXiv - Bartosz Balis, Michal Orzechowski, Piotr Kica et al."
   },
   {
-    "id": "arxiv_1777052480587_4",
+    "id": "arxiv_1777055658023_4",
     "name": "Low-Rank Adaptation Redux for Large Models",
     "category": "machine-learning",
     "description": "Low-rank adaptation (LoRA) has emerged as the de facto standard for parameter-efficient fine-tuning (PEFT) of foundation models, enabling the adaptation of billion-parameter networks with minimal comp...",
@@ -222,11 +222,11 @@
       "Optimization"
     ],
     "date": "2026-04-23T17:50:23Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Bingcong Li, Yilang Zhang, Georgios B. Giannakis"
   },
   {
-    "id": "arxiv_1777052480531_3",
+    "id": "arxiv_1777055657873_3",
     "name": "A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models",
     "category": "ai",
     "description": "Deep-learning video super-resolution has progressed rapidly, but climate applications typically super-resolve (increase resolution) either space or time, and joint spatiotemporal models are often desi...",
@@ -240,7 +240,7 @@
     "source": "arXiv - Max Defez, Filippo Quarenghi, Mathieu Vrac et al."
   },
   {
-    "id": "arxiv_1777052480531_4",
+    "id": "arxiv_1777055657873_4",
     "name": "GiVA: Gradient-Informed Bases for Vector-Based Adaptation",
     "category": "ai",
     "description": "As model sizes continue to grow, parameter-efficient fine-tuning has emerged as a powerful alternative to full fine-tuning. While LoRA is widely adopted among these methods, recent research has explor...",
@@ -253,7 +253,7 @@
     "source": "arXiv - Neeraj Gangwar, Rishabh Deshmukh, Michael Shavlovsky et al."
   },
   {
-    "id": "arxiv_1777052480613_3",
+    "id": "arxiv_1777055658097_3",
     "name": "GiVA: Gradient-Informed Bases for Vector-Based Adaptation",
     "category": "nlp",
     "description": "As model sizes continue to grow, parameter-efficient fine-tuning has emerged as a powerful alternative to full fine-tuning. While LoRA is widely adopted among these methods, recent research has explor...",
@@ -266,7 +266,7 @@
     "source": "arXiv - Neeraj Gangwar, Rishabh Deshmukh, Michael Shavlovsky et al."
   },
   {
-    "id": "arxiv_1777052480613_4",
+    "id": "arxiv_1777055658098_4",
     "name": "Mapping the Political Discourse in the Brazilian Chamber of Deputies: A Multi-Faceted Computational Approach",
     "category": "nlp",
     "description": "Analyses of legislative behavior often rely on voting records, overlooking the rich semantic and rhetorical content of political speech. In this paper, we ask three complementary questions about parli...",
@@ -275,7 +275,7 @@
       "AI"
     ],
     "date": "2026-04-23T17:46:33Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Flávio Soriano, Victoria F. Mello, Pedro B. Rigueira et al."
   }
 ]
