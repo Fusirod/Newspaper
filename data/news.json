@@ -1,6 +1,44 @@
 [
   {
-    "id": "rss_TechCrunch_1777312679982_0",
+    "id": "rss_Ars_Technica_1777317122689_0",
+    "title": "\"Super ZSNES\" is a stab at a modern SNES emulator from the original developers",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Upgrades to SNES graphics and sound go way beyond the typical screen filtering.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/04/super-zsnes-is-a-stab-at-a-modern-snes-emulator-from-the-original-developers/",
+    "tags": [],
+    "date": "Mon, 27 Apr 2026 18:30:14 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1777317122689_1",
+    "title": "China kills Meta’s acquisition of Manus as US-China AI rivalry deepens",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The unwinding of Meta’s deal shows how tech founders struggle to cut China ties.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Mon, 27 Apr 2026 18:12:04 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1777317122689_2",
+    "title": "Study: Infrasound likely a key factor in alleged hauntings",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Low-frequency infrasound (below 20 Hz) can raise cortisol levels in saliva and increase irritability.\n                    ",
+    "link": "https://arstechnica.com/science/2026/04/that-spooky-sensation-likely-due-to-rumbling-pipes-not-spirits/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 27 Apr 2026 18:00:35 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1777317119132_0",
     "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -12,10 +50,10 @@
       "Microsoft"
     ],
     "date": "Mon, 27 Apr 2026 17:40:38 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777312683534_0",
+    "id": "rss_Ars_Technica_1777317122689_3",
     "title": "Steam Controller: The Ars Technica review",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -26,7 +64,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777312679982_1",
+    "id": "rss_TechCrunch_1777317119132_1",
     "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -40,7 +78,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777312682253_0",
+    "id": "rss_MIT_Tech_Review_1777317121471_0",
     "title": "The missing step between hype and profit",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -53,7 +91,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777312679982_2",
+    "id": "rss_TechCrunch_1777317119132_2",
     "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -66,7 +104,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777312683534_1",
+    "id": "rss_Ars_Technica_1777317122689_4",
     "title": "National Science Board eviscerated; Trump admin fires all 22 members",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -77,31 +115,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777312683534_2",
-    "title": "Next El Niño could be tipping point for a hotter climate",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Pacific heat pulse is temporary, but scientists warn that its climate impacts are not.\n                    ",
-    "link": "https://arstechnica.com/science/2026/04/next-el-nino-could-be-tipping-point-for-a-hotter-climate/",
-    "tags": [],
-    "date": "Mon, 27 Apr 2026 14:12:41 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1777312683534_3",
-    "title": "Gateway manufacturer finally acknowledges issue, fails to mention \"corrosion\"",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        \"At this time, further comments would be premature.\"\n                    ",
-    "link": "https://arstechnica.com/space/2026/04/gateway-manufacturer-finally-acknowledges-issue-fails-to-mention-corrosion/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 27 Apr 2026 14:02:43 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1777312684689_0",
+    "id": "rss_Wired_1777317123770_0",
     "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
     "category": "ai-news",
     "source": "Wired",
@@ -111,10 +125,10 @@
       "AI"
     ],
     "date": "Mon, 27 Apr 2026 14:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1777312679982_3",
+    "id": "rss_TechCrunch_1777317119132_3",
     "title": "China blocks Meta’s $2B Manus deal after months-long probe",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -125,10 +139,10 @@
       "Meta"
     ],
     "date": "Mon, 27 Apr 2026 13:16:55 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1777312679983_4",
+    "id": "rss_TechCrunch_1777317119132_4",
     "title": "OpenAI could be making a phone with AI agents replacing apps",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -142,7 +156,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777312682253_1",
+    "id": "rss_MIT_Tech_Review_1777317121471_1",
     "title": "Rebuilding the data stack for AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -152,10 +166,10 @@
       "AI"
     ],
     "date": "Mon, 27 Apr 2026 13:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777312682253_2",
+    "id": "rss_MIT_Tech_Review_1777317121471_2",
     "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -165,23 +179,10 @@
       "AI"
     ],
     "date": "Mon, 27 Apr 2026 12:10:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1777312683534_4",
-    "title": "Meet the players who lost big money on Peter Molyneux’s failed Legacy",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        After millions in NFT sales, the hyped “play to earn” game was effectively dead in weeks.\n                    ",
-    "link": "https://arstechnica.com/gaming/2026/04/how-legacy-became-a-costly-crypto-bust-for-players-and-a-business-win-for-peter-molyneux/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 27 Apr 2026 10:45:31 +0000",
     "trending": false
   },
   {
-    "id": "rss_Wired_1777312684689_1",
+    "id": "rss_Wired_1777317123770_1",
     "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
     "category": "ai-news",
     "source": "Wired",
@@ -194,7 +195,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1777312684689_2",
+    "id": "rss_Wired_1777317123770_2",
     "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
     "category": "ai-news",
     "source": "Wired",
@@ -204,10 +205,10 @@
       "Robot"
     ],
     "date": "Sat, 25 Apr 2026 09:30:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777312682254_3",
+    "id": "rss_MIT_Tech_Review_1777317121471_3",
     "title": "Three reasons why DeepSeek’s new model matters",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -217,10 +218,10 @@
       "AI"
     ],
     "date": "Fri, 24 Apr 2026 21:40:58 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1777312684689_3",
+    "id": "rss_Wired_1777317123770_3",
     "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
     "category": "ai-news",
     "source": "Wired",
@@ -234,7 +235,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1777312684689_4",
+    "id": "rss_Wired_1777317123770_4",
     "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
     "category": "ai-news",
     "source": "Wired",
@@ -247,7 +248,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777312682254_4",
+    "id": "rss_MIT_Tech_Review_1777317121471_4",
     "title": "The Download: supercharged scams and studying AI healthcare",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -262,7 +263,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1777312694093_0",
+    "id": "rss_Distill_1777317132830_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -275,7 +276,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777312694094_1",
+    "id": "rss_Distill_1777317132831_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -288,7 +289,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777312694094_2",
+    "id": "rss_Distill_1777317132831_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -299,7 +300,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777312694094_3",
+    "id": "rss_Distill_1777317132831_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -312,7 +313,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777312694094_4",
+    "id": "rss_Distill_1777317132831_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
