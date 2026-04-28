@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1777333238444_0",
+    "id": "arxiv_1777339815480_0",
     "name": "Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection",
     "category": "machine-learning",
     "description": "Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot e...",
@@ -13,36 +13,7 @@
     "source": "arXiv - Sijie Li, Shanda Li, Haowei Lin et al."
   },
   {
-    "id": "arxiv_1777333238621_0",
-    "name": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
-    "category": "nlp",
-    "description": "The wide adoption of AI agents in complex human workflows is driving rapid growth in LLM token consumption. When agents are deployed on tasks that require a significant amount of tokens, three questio...",
-    "link": "http://arxiv.org/abs/2604.22750v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT"
-    ],
-    "date": "2026-04-24T17:54:47Z",
-    "trending": true,
-    "source": "arXiv - Longju Bai, Zhemin Huang, Xingyao Wang et al."
-  },
-  {
-    "id": "arxiv_1777333238621_1",
-    "name": "Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities",
-    "category": "nlp",
-    "description": "Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers...",
-    "link": "http://arxiv.org/abs/2604.22749v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-04-24T17:49:09Z",
-    "trending": false,
-    "source": "arXiv - Ilana Nguyen, Harini Suresh, Thema Monroe-White et al."
-  },
-  {
-    "id": "arxiv_1777333237775_0",
+    "id": "arxiv_1777339815351_0",
     "name": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
     "category": "ai",
     "description": "As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, na...",
@@ -57,7 +28,7 @@
     "source": "arXiv - Meng Chu, Xuan Billy Zhang, Kevin Qinghong Lin et al."
   },
   {
-    "id": "arxiv_1777333238444_1",
+    "id": "arxiv_1777339815480_1",
     "name": "Relaxation-Informed Training of Neural Network Surrogate Models",
     "category": "machine-learning",
     "description": "ReLU neural networks trained as surrogate models can be embedded exactly in mixed-integer linear programs (MILPs), enabling global optimization over the learned function. The tractability of the resul...",
@@ -68,11 +39,11 @@
       "Optimization"
     ],
     "date": "2026-04-24T17:46:55Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Calvin Tsay"
   },
   {
-    "id": "arxiv_1777333238234_0",
+    "id": "arxiv_1777339815412_0",
     "name": "Inter-Stance: A Dyadic Multimodal Corpus for Conversational Stance Analysis",
     "category": "computer-vision",
     "description": "Social interactions dominate our perceptions of the world and shape our daily behavior by attaching social meaning to acts as simple and spontaneous as gestures, facial expressions, voice, and speech....",
@@ -81,11 +52,11 @@
       "AI"
     ],
     "date": "2026-04-24T17:37:42Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Xiang Zhang, Xiaotian Li, Taoyue Wang et al."
   },
   {
-    "id": "arxiv_1777333237775_1",
+    "id": "arxiv_1777339815351_1",
     "name": "An Undecidability Proof for the Plan Existence Problem",
     "category": "ai",
     "description": "The plan existence problem asks, given a goal in the form of a formula in modal logic, an initial epistemic state (a pointed Kripke model), and a set of epistemic actions, whether there exists a seque...",
@@ -98,7 +69,7 @@
     "source": "arXiv - Antonis Achilleos"
   },
   {
-    "id": "arxiv_1777333238444_2",
+    "id": "arxiv_1777339815480_2",
     "name": "Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data",
     "category": "machine-learning",
     "description": "We investigate whether neural models trained exclusively on modern morphological data can recover cross-lingual lexical structure consistent with historical reconstruction. Using BantuMorph v7, a tran...",
@@ -113,22 +84,7 @@
     "source": "arXiv - Hillary Mutisya, John Mugane"
   },
   {
-    "id": "arxiv_1777333238621_2",
-    "name": "Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data",
-    "category": "nlp",
-    "description": "We investigate whether neural models trained exclusively on modern morphological data can recover cross-lingual lexical structure consistent with historical reconstruction. Using BantuMorph v7, a tran...",
-    "link": "http://arxiv.org/abs/2604.22730v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Transformer"
-    ],
-    "date": "2026-04-24T17:27:26Z",
-    "trending": false,
-    "source": "arXiv - Hillary Mutisya, John Mugane"
-  },
-  {
-    "id": "arxiv_1777333238444_3",
+    "id": "arxiv_1777339815480_3",
     "name": "Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering",
     "category": "machine-learning",
     "description": "We present a method for discovering morphological features in low-resource Bantu languages by combining cross-lingual transfer learning with unsupervised clustering. Applied to Giriama (nyf), a langua...",
@@ -139,18 +95,7 @@
     "source": "arXiv - Hillary Mutisya, John Mugane"
   },
   {
-    "id": "arxiv_1777333238621_3",
-    "name": "Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering",
-    "category": "nlp",
-    "description": "We present a method for discovering morphological features in low-resource Bantu languages by combining cross-lingual transfer learning with unsupervised clustering. Applied to Giriama (nyf), a langua...",
-    "link": "http://arxiv.org/abs/2604.22723v1",
-    "tags": [],
-    "date": "2026-04-24T17:21:00Z",
-    "trending": false,
-    "source": "arXiv - Hillary Mutisya, John Mugane"
-  },
-  {
-    "id": "arxiv_1777333237775_2",
+    "id": "arxiv_1777339815351_2",
     "name": "Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation",
     "category": "ai",
     "description": "Dense vector retrieval is the practical backbone of Retrieval- Augmented Generation (RAG), but similarity search can suffer from precision limitations. Conversely, utility-based approaches leveraging ...",
@@ -160,11 +105,11 @@
       "LLM"
     ],
     "date": "2026-04-24T17:18:56Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Rajinder Sandhu, Di Mu, Cheng Chang et al."
   },
   {
-    "id": "arxiv_1777333238444_4",
+    "id": "arxiv_1777339815480_4",
     "name": "Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation",
     "category": "machine-learning",
     "description": "Dense vector retrieval is the practical backbone of Retrieval- Augmented Generation (RAG), but similarity search can suffer from precision limitations. Conversely, utility-based approaches leveraging ...",
@@ -174,11 +119,11 @@
       "LLM"
     ],
     "date": "2026-04-24T17:18:56Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Rajinder Sandhu, Di Mu, Cheng Chang et al."
   },
   {
-    "id": "arxiv_1777333238234_1",
+    "id": "arxiv_1777339815413_1",
     "name": "Long-tail Internet photo reconstruction",
     "category": "computer-vision",
     "description": "Internet photo collections exhibit an extremely long-tailed distribution: a few famous landmarks are densely photographed and easily reconstructed in 3D, while most real-world sites are represented wi...",
@@ -192,21 +137,7 @@
     "source": "arXiv - Yuan Li, Yuanbo Xiangli, Hadar Averbuch-Elor et al."
   },
   {
-    "id": "arxiv_1777333238622_4",
-    "name": "Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought",
-    "category": "nlp",
-    "description": "While long, explicit chains-of-thought (CoT) have proven effective on complex reasoning tasks, they are costly to generate during inference. Non-verbal reasoning methods have emerged with shorter gene...",
-    "link": "http://arxiv.org/abs/2604.22709v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-04-24T16:45:51Z",
-    "trending": false,
-    "source": "arXiv - Keshav Ramji, Tahira Naseem, Ramón Fernandez Astudillo"
-  },
-  {
-    "id": "arxiv_1777333238235_2",
+    "id": "arxiv_1777339815413_2",
     "name": "Generative Modeling of Neurodegenerative Brain Anatomy with 4D Longitudinal Diffusion Model",
     "category": "computer-vision",
     "description": "Understanding and predicting the progression of neurodegenerative diseases remains a major challenge in medical AI, with significant implications for early diagnosis, disease monitoring, and treatment...",
@@ -220,7 +151,7 @@
     "source": "arXiv - Nivetha Jayakumar, Swakshar Deb, Bahram Jafrasteh et al."
   },
   {
-    "id": "arxiv_1777333237775_3",
+    "id": "arxiv_1777339815351_3",
     "name": "CRAFT: Clustered Regression for Adaptive Filtering of Training data",
     "category": "ai",
     "description": "Selecting a small, high-quality subset from a large corpus for fine-tuning is increasingly important as corpora grow to tens of millions of datapoints, making full fine-tuning expensive and often unne...",
@@ -229,11 +160,11 @@
       "AI"
     ],
     "date": "2026-04-24T16:27:39Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Parthasarathi Panda, Asheswari Swain, Subhrakanta Panda"
   },
   {
-    "id": "arxiv_1777333238235_3",
+    "id": "arxiv_1777339815413_3",
     "name": "SS3D: End2End Self-Supervised 3D from Web Videos",
     "category": "computer-vision",
     "description": "We present SS3D, a web-scale SfM-based self-supervision pretraining pipeline for feed-forward 3D estimation from monocular video. Our model jointly predicts depth, ego-motion, and intrinsics in a sing...",
@@ -247,7 +178,7 @@
     "source": "arXiv - Marwane Hariat, Gianni Franchi, David Filliat et al."
   },
   {
-    "id": "arxiv_1777333237776_4",
+    "id": "arxiv_1777339815351_4",
     "name": "How Supply Chain Dependencies Complicate Bias Measurement and Accountability Attribution in AI Hiring Applications",
     "category": "ai",
     "description": "The increasing adoption of AI systems in hiring has raised concerns about algorithmic bias and accountability, prompting regulatory responses including the EU AI Act, NYC Local Law 144, and Colorado's...",
@@ -257,11 +188,11 @@
       "GAN"
     ],
     "date": "2026-04-24T16:01:35Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Gauri Sharma, Maryam Molamohammadi"
   },
   {
-    "id": "arxiv_1777333238235_4",
+    "id": "arxiv_1777339815413_4",
     "name": "PASR: Pose-Aware 3D Shape Retrieval from Occluded Single Views",
     "category": "computer-vision",
     "description": "Single-view 3D shape retrieval is a fundamental yet challenging task that is increasingly important with the growth of available 3D data. Existing approaches largely fall into two categories: those us...",
