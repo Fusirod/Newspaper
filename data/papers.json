@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1777468593611_0",
+    "id": "arxiv_1777477834810_0",
     "name": "Recursive Multi-Agent Systems",
     "category": "ai",
     "description": "Recursive or looped language models have recently emerged as a new scaling axis by iteratively refining the same model computation over latent states to deepen reasoning. We extend such scaling princi...",
@@ -10,70 +10,13 @@
       "Optimization"
     ],
     "date": "2026-04-28T17:59:34Z",
-    "trending": false,
-    "source": "arXiv - Xiyuan Yang, Jiaru Zou, Rui Pan et al."
-  },
-  {
-    "id": "arxiv_1777468593660_0",
-    "name": "Recursive Multi-Agent Systems",
-    "category": "machine-learning",
-    "description": "Recursive or looped language models have recently emerged as a new scaling axis by iteratively refining the same model computation over latent states to deepen reasoning. We extend such scaling princi...",
-    "link": "http://arxiv.org/abs/2604.25917v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-04-28T17:59:34Z",
-    "trending": false,
-    "source": "arXiv - Xiyuan Yang, Jiaru Zou, Rui Pan et al."
-  },
-  {
-    "id": "arxiv_1777468593684_0",
-    "name": "Recursive Multi-Agent Systems",
-    "category": "nlp",
-    "description": "Recursive or looped language models have recently emerged as a new scaling axis by iteratively refining the same model computation over latent states to deepen reasoning. We extend such scaling princi...",
-    "link": "http://arxiv.org/abs/2604.25917v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-04-28T17:59:34Z",
-    "trending": false,
-    "source": "arXiv - Xiyuan Yang, Jiaru Zou, Rui Pan et al."
-  },
-  {
-    "id": "arxiv_1777468593684_1",
-    "name": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
-    "category": "nlp",
-    "description": "Real-world data visualization (DV) requires native environmental grounding, cross-platform evolution, and proactive intent alignment. Yet, existing benchmarks often suffer from code-sandbox confinemen...",
-    "link": "http://arxiv.org/abs/2604.25914v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-04-28T17:58:21Z",
-    "trending": false,
-    "source": "arXiv - Jinxiang Meng, Shaoping Huang, Fangyu Lei et al."
-  },
-  {
-    "id": "arxiv_1777468593611_1",
-    "name": "How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum",
-    "category": "ai",
-    "description": "Adapting reasoning models to new tasks during post-training with only output-level supervision stalls under reinforcement learning from verifiable rewards (RLVR) when the initial success probability $...",
-    "link": "http://arxiv.org/abs/2604.25907v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-04-28T17:52:38Z",
     "trending": true,
-    "source": "arXiv - Chu-Cheng Lin, Eugene Ie"
+    "source": "arXiv - Xiyuan Yang, Jiaru Zou, Rui Pan et al."
   },
   {
-    "id": "arxiv_1777468593660_1",
+    "id": "arxiv_1777477834810_1",
     "name": "How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum",
-    "category": "machine-learning",
+    "category": "ai",
     "description": "Adapting reasoning models to new tasks during post-training with only output-level supervision stalls under reinforcement learning from verifiable rewards (RLVR) when the initial success probability $...",
     "link": "http://arxiv.org/abs/2604.25907v1",
     "tags": [
@@ -86,51 +29,7 @@
     "source": "arXiv - Chu-Cheng Lin, Eugene Ie"
   },
   {
-    "id": "arxiv_1777468593685_2",
-    "name": "A paradox of AI fluency",
-    "category": "nlp",
-    "description": "How much does a user's skill with AI shape what AI actually delivers for them? This question is critical for users, AI product builders, and society at large, but it remains underexplored. Using a ric...",
-    "link": "http://arxiv.org/abs/2604.25905v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-28T17:51:13Z",
-    "trending": false,
-    "source": "arXiv - Christopher Potts, Moritz Sudhof"
-  },
-  {
-    "id": "arxiv_1777468593660_2",
-    "name": "Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics",
-    "category": "machine-learning",
-    "description": "Identity teacher forcing (ITF) enables stable training of deterministic recurrent surrogates for chaotic dynamical systems and has been highly effective for dynamical systems reconstruction (DSR) with...",
-    "link": "http://arxiv.org/abs/2604.25904v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "RNN",
-      "Optimization"
-    ],
-    "date": "2026-04-28T17:50:37Z",
-    "trending": true,
-    "source": "arXiv - Andre Herz, Daniel Durstewitz, Georgia Koppe"
-  },
-  {
-    "id": "arxiv_1777468593661_3",
-    "name": "Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models",
-    "category": "machine-learning",
-    "description": "The accelerating adoption of Large Language Models (LLMs) in software engineering (SE) has brought with it a silent crisis: unsustainable computational cost. While these models demonstrate remarkable ...",
-    "link": "http://arxiv.org/abs/2604.25903v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "LLM"
-    ],
-    "date": "2026-04-28T17:48:16Z",
-    "trending": false,
-    "source": "arXiv - Ajmain Inqiad Alam, Palash Roy, Chanchal K. Roy et al."
-  },
-  {
-    "id": "arxiv_1777468593611_2",
+    "id": "arxiv_1777477834811_2",
     "name": "Toward a Functional Geometric Algebra for Natural Language Semantics",
     "category": "ai",
     "description": "Distributional and neural approaches to natural language semantics have been built almost exclusively on conventional linear algebra: vectors, matrices, tensors, and the operations that accompany them...",
@@ -142,43 +41,11 @@
       "GAN"
     ],
     "date": "2026-04-28T17:47:46Z",
-    "trending": false,
-    "source": "arXiv - James Pustejovsky"
-  },
-  {
-    "id": "arxiv_1777468593661_4",
-    "name": "Toward a Functional Geometric Algebra for Natural Language Semantics",
-    "category": "machine-learning",
-    "description": "Distributional and neural approaches to natural language semantics have been built almost exclusively on conventional linear algebra: vectors, matrices, tensors, and the operations that accompany them...",
-    "link": "http://arxiv.org/abs/2604.25902v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Transformer",
-      "GAN"
-    ],
-    "date": "2026-04-28T17:47:46Z",
-    "trending": false,
-    "source": "arXiv - James Pustejovsky"
-  },
-  {
-    "id": "arxiv_1777468593685_3",
-    "name": "Toward a Functional Geometric Algebra for Natural Language Semantics",
-    "category": "nlp",
-    "description": "Distributional and neural approaches to natural language semantics have been built almost exclusively on conventional linear algebra: vectors, matrices, tensors, and the operations that accompany them...",
-    "link": "http://arxiv.org/abs/2604.25902v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Transformer",
-      "GAN"
-    ],
-    "date": "2026-04-28T17:47:46Z",
     "trending": true,
     "source": "arXiv - James Pustejovsky"
   },
   {
-    "id": "arxiv_1777468593611_3",
+    "id": "arxiv_1777477834811_3",
     "name": "TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning",
     "category": "ai",
     "description": "Continual offline reinforcement learning (CORL) aims to learn a sequence of tasks from datasets collected over time while preserving performance on previously learned tasks. This setting corresponds t...",
@@ -193,7 +60,7 @@
     "source": "arXiv - Dominik Żurek, Kamil Faber, Marcin Pietron et al."
   },
   {
-    "id": "arxiv_1777468593611_4",
+    "id": "arxiv_1777477834811_4",
     "name": "Three Models of RLHF Annotation: Extension, Evidence, and Authority",
     "category": "ai",
     "description": "Preference-based alignment methods, most prominently Reinforcement Learning with Human Feedback (RLHF), use the judgments of human annotators to shape large language model behaviour. However, the norm...",
@@ -205,86 +72,5 @@
     "date": "2026-04-28T17:39:14Z",
     "trending": true,
     "source": "arXiv - Steve Coyne"
-  },
-  {
-    "id": "arxiv_1777468593685_4",
-    "name": "Three Models of RLHF Annotation: Extension, Evidence, and Authority",
-    "category": "nlp",
-    "description": "Preference-based alignment methods, most prominently Reinforcement Learning with Human Feedback (RLHF), use the judgments of human annotators to shape large language model behaviour. However, the norm...",
-    "link": "http://arxiv.org/abs/2604.25895v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-04-28T17:39:14Z",
-    "trending": false,
-    "source": "arXiv - Steve Coyne"
-  },
-  {
-    "id": "arxiv_1777468593636_0",
-    "name": "Robust Deepfake Detection: Mitigating Spatial Attention Drift via Calibrated Complementary Ensembles",
-    "category": "computer-vision",
-    "description": "Current deepfake detection models achieve state-of-the-art performance on pristine academic datasets but suffer severe spatial attention drift under real-world compound degradations, such as blurring ...",
-    "link": "http://arxiv.org/abs/2604.25889v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-28T17:32:48Z",
-    "trending": false,
-    "source": "arXiv - Minh-Khoa Le-Phan, Minh-Hoang Le, Trong-Le Do et al."
-  },
-  {
-    "id": "arxiv_1777468593636_1",
-    "name": "No Pedestrian Left Behind: Real-Time Detection and Tracking of Vulnerable Road Users for Adaptive Traffic Signal Control",
-    "category": "computer-vision",
-    "description": "Current pedestrian crossing signals operate on fixed timing without adjustment to pedestrian behavior, which can leave vulnerable road users (VRUs) such as the elderly, disabled, or distracted pedestr...",
-    "link": "http://arxiv.org/abs/2604.25887v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-28T17:29:23Z",
-    "trending": false,
-    "source": "arXiv - Anas Gamal Aly, Hala ElAarag"
-  },
-  {
-    "id": "arxiv_1777468593636_2",
-    "name": "QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding",
-    "category": "computer-vision",
-    "description": "Quantum computing calibration depends on interpreting experimental data, and calibration plots provide the most universal human-readable representation for this task, yet no systematic evaluation exis...",
-    "link": "http://arxiv.org/abs/2604.25884v1",
-    "tags": [
-      "Vision"
-    ],
-    "date": "2026-04-28T17:28:33Z",
-    "trending": false,
-    "source": "arXiv - Shuxiang Cao, Zijian Zhang, Abhishek Agarwal et al."
-  },
-  {
-    "id": "arxiv_1777468593636_3",
-    "name": "SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring",
-    "category": "computer-vision",
-    "description": "Multimodal large language models (MLLMs) achieve ever-stronger performance on visual-language tasks. Even as traditional visual question answering benchmarks approach saturation, reliable deployment r...",
-    "link": "http://arxiv.org/abs/2604.25855v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-04-28T16:57:29Z",
-    "trending": false,
-    "source": "arXiv - Hector G. Rodriguez, Marcus Rohrbach"
-  },
-  {
-    "id": "arxiv_1777468593637_4",
-    "name": "Mutual Forcing: Dual-Mode Self-Evolution for Fast Autoregressive Audio-Video Character Generation",
-    "category": "computer-vision",
-    "description": "In this work, we propose Mutual Forcing, a framework for fast autoregressive audio-video generation with long-horizon audio-video synchronization. Our approach addresses two key challenges: joint audi...",
-    "link": "http://arxiv.org/abs/2604.25819v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-04-28T16:28:05Z",
-    "trending": false,
-    "source": "arXiv - Yupeng Zhou, Lianghua Huang, Zhifan Wu et al."
   }
 ]
