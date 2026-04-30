@@ -1,99 +1,270 @@
 [
   {
-    "id": "arxiv_1777513461385_0",
-    "name": "KAYRA: A Microservice Architecture for AI-Assisted Karyotyping with Cloud and On-Premise Deployment",
-    "category": "computer-vision",
-    "description": "We present KAYRA, an end-to-end karyotyping system that operates inside the operational constraints of a clinical cytogenetic laboratory. KAYRA is architected as a containerized microservice pipeline ...",
-    "link": "http://arxiv.org/abs/2604.26869v1",
+    "id": "arxiv_1777526399141_0",
+    "name": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
+    "category": "ai",
+    "description": "Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distill...",
+    "link": "http://arxiv.org/abs/2604.26951v1",
     "tags": [
       "AI",
-      "CNN"
+      "LLM",
+      "Diffusion"
     ],
-    "date": "2026-04-29T16:35:31Z",
+    "date": "2026-04-29T17:59:01Z",
     "trending": false,
-    "source": "arXiv - Attila Pintér, Javier Rico, Attila Répai et al."
+    "source": "arXiv - Gongbo Zhang, Wen Wang, Ye Tian et al."
   },
   {
-    "id": "arxiv_1777513461803_0",
-    "name": "KAYRA: A Microservice Architecture for AI-Assisted Karyotyping with Cloud and On-Premise Deployment",
+    "id": "arxiv_1777526410496_0",
+    "name": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
     "category": "machine-learning",
-    "description": "We present KAYRA, an end-to-end karyotyping system that operates inside the operational constraints of a clinical cytogenetic laboratory. KAYRA is architected as a containerized microservice pipeline ...",
-    "link": "http://arxiv.org/abs/2604.26869v1",
+    "description": "Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distill...",
+    "link": "http://arxiv.org/abs/2604.26951v1",
     "tags": [
       "AI",
-      "CNN"
+      "LLM",
+      "Diffusion"
     ],
-    "date": "2026-04-29T16:35:31Z",
-    "trending": false,
-    "source": "arXiv - Attila Pintér, Javier Rico, Attila Répai et al."
-  },
-  {
-    "id": "arxiv_1777513461385_1",
-    "name": "Breaking the Rigid Prior: Towards Articulated 3D Anomaly Detection",
-    "category": "computer-vision",
-    "description": "Existing 3D anomaly detection methods are built on a rigid prior: normal geometry is pose-invariant and can be canonicalized through registration or alignment. This prior does not hold for articulated...",
-    "link": "http://arxiv.org/abs/2604.26868v1",
-    "tags": [],
-    "date": "2026-04-29T16:35:26Z",
-    "trending": false,
-    "source": "arXiv - Jinye Gan, Bozhong Zheng, Xiaohao Xu et al."
-  },
-  {
-    "id": "arxiv_1777513461803_1",
-    "name": "MoRFI: Monotonic Sparse Autoencoder Feature Identification",
-    "category": "machine-learning",
-    "description": "Large language models (LLMs) acquire most of their factual knowledge during the pre-training stage, through next token prediction. Subsequent stages of post-training often introduce new facts outwith ...",
-    "link": "http://arxiv.org/abs/2604.26866v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-04-29T16:32:57Z",
-    "trending": false,
-    "source": "arXiv - Dimitris Dimakopoulos, Shay B. Cohen, Ioannis Konstas"
-  },
-  {
-    "id": "arxiv_1777513462021_0",
-    "name": "MoRFI: Monotonic Sparse Autoencoder Feature Identification",
-    "category": "nlp",
-    "description": "Large language models (LLMs) acquire most of their factual knowledge during the pre-training stage, through next token prediction. Subsequent stages of post-training often introduce new facts outwith ...",
-    "link": "http://arxiv.org/abs/2604.26866v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-04-29T16:32:57Z",
-    "trending": false,
-    "source": "arXiv - Dimitris Dimakopoulos, Shay B. Cohen, Ioannis Konstas"
-  },
-  {
-    "id": "arxiv_1777513461386_2",
-    "name": "Edge AI for Automotive Vulnerable Road User Safety: Deployable Detection via Knowledge Distillation",
-    "category": "computer-vision",
-    "description": "Deploying accurate object detection for Vulnerable Road User (VRU) safety on edge hardware requires balancing model capacity against computational constraints. Large models achieve high accuracy but f...",
-    "link": "http://arxiv.org/abs/2604.26857v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-29T16:24:45Z",
+    "date": "2026-04-29T17:59:01Z",
     "trending": true,
-    "source": "arXiv - Akshay Karjol, Darrin M. Hanna"
+    "source": "arXiv - Gongbo Zhang, Wen Wang, Ye Tian et al."
   },
   {
-    "id": "arxiv_1777513461803_2",
-    "name": "Edge AI for Automotive Vulnerable Road User Safety: Deployable Detection via Knowledge Distillation",
-    "category": "machine-learning",
-    "description": "Deploying accurate object detection for Vulnerable Road User (VRU) safety on edge hardware requires balancing model capacity against computational constraints. Large models achieve high accuracy but f...",
-    "link": "http://arxiv.org/abs/2604.26857v1",
+    "id": "arxiv_1777526418987_0",
+    "name": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
+    "category": "nlp",
+    "description": "Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distill...",
+    "link": "http://arxiv.org/abs/2604.26951v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Diffusion"
+    ],
+    "date": "2026-04-29T17:59:01Z",
+    "trending": false,
+    "source": "arXiv - Gongbo Zhang, Wen Wang, Ye Tian et al."
+  },
+  {
+    "id": "arxiv_1777526399159_0",
+    "name": "Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation",
+    "category": "computer-vision",
+    "description": "Breakthrough progress in vision-based navigation through unknown environments has been achieved by using multimodal large language models (MLLMs). These models can plan a sequence of motions by evalua...",
+    "link": "http://arxiv.org/abs/2604.26946v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-04-29T17:55:05Z",
+    "trending": false,
+    "source": "arXiv - Wanrong Zheng, Yunhao Ge, Laurent Itti"
+  },
+  {
+    "id": "arxiv_1777526399159_1",
+    "name": "ProcFunc: Function-Oriented Abstractions for Procedural 3D Generation in Python",
+    "category": "computer-vision",
+    "description": "We introduce ProcFunc, a library for Blender-based procedural 3D generation in Python. ProcFunc provides a library of easy-to-use Python functions, which streamline creating, combining, analyzing, and...",
+    "link": "http://arxiv.org/abs/2604.26943v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-04-29T16:24:45Z",
+    "date": "2026-04-29T17:52:17Z",
     "trending": false,
-    "source": "arXiv - Akshay Karjol, Darrin M. Hanna"
+    "source": "arXiv - Alexander Raistrick, Karhan Kayan, Jack Nugent et al."
   },
   {
-    "id": "arxiv_1777513461099_0",
+    "id": "arxiv_1777526410497_1",
+    "name": "Hyper Input Convex Neural Networks for Shape Constrained Learning and Optimal Transport",
+    "category": "machine-learning",
+    "description": "We introduce Hyper Input Convex Neural Networks (HyCNNs), a novel neural network architecture designed for learning convex functions. HyCNNs combine the principles of Maxout networks with input convex...",
+    "link": "http://arxiv.org/abs/2604.26942v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "CNN"
+    ],
+    "date": "2026-04-29T17:52:05Z",
+    "trending": false,
+    "source": "arXiv - Shayan Hundrieser, Insung Kong, Johannes Schmidt-Hieber"
+  },
+  {
+    "id": "arxiv_1777526418987_1",
+    "name": "Select to Think: Unlocking SLM Potential with Local Sufficiency",
+    "category": "nlp",
+    "description": "Small language models (SLMs) offer computational efficiency for scalable deployment, yet they often fall short of the reasoning power exhibited by their larger counterparts (LLMs). To mitigate this ga...",
+    "link": "http://arxiv.org/abs/2604.26940v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-04-29T17:51:39Z",
+    "trending": true,
+    "source": "arXiv - Wenxuan Ye, Yangyang Zhang, Xueli An et al."
+  },
+  {
+    "id": "arxiv_1777526399159_2",
+    "name": "World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning",
+    "category": "computer-vision",
+    "description": "Vision-language models (VLMs) have shown strong performance on static visual understanding, yet they still struggle with dynamic spatial reasoning that requires imagining how scenes evolve under egoce...",
+    "link": "http://arxiv.org/abs/2604.26934v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-04-29T17:48:01Z",
+    "trending": false,
+    "source": "arXiv - Wanyue Zhang, Wenxiang Wu, Wang Xu et al."
+  },
+  {
+    "id": "arxiv_1777526410497_2",
+    "name": "Learning Over-Relaxation Policies for ADMM with Convergence Guarantees",
+    "category": "machine-learning",
+    "description": "The Alternating Direction Method of Multipliers (ADMM) is a widely used method for structured convex optimization, and its practical performance depends strongly on the choice of penalty and relaxatio...",
+    "link": "http://arxiv.org/abs/2604.26932v1",
+    "tags": [
+      "Optimization"
+    ],
+    "date": "2026-04-29T17:45:52Z",
+    "trending": true,
+    "source": "arXiv - Junan Lin, Paul J. Goulart, Luca Furieri"
+  },
+  {
+    "id": "arxiv_1777526410497_3",
+    "name": "A Note on How to Remove the $\\ln\\ln T$ Term from the Squint Bound",
+    "category": "machine-learning",
+    "description": "In Orabona and Pál [2016], we introduced the shifted KT potentials, to remove the $\\ln \\ln T$ factor in the parameter-free learning with expert bound. In this short technical note, I show that this is...",
+    "link": "http://arxiv.org/abs/2604.26926v1",
+    "tags": [],
+    "date": "2026-04-29T17:40:25Z",
+    "trending": true,
+    "source": "arXiv - Francesco Orabona"
+  },
+  {
+    "id": "arxiv_1777526418987_2",
+    "name": "ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation",
+    "category": "nlp",
+    "description": "LLMs have achieved strong results on both function-level code synthesis and repository-level code modification, yet a capability that falls between these two extremes -- compositional code creation, i...",
+    "link": "http://arxiv.org/abs/2604.26923v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-04-29T17:38:37Z",
+    "trending": false,
+    "source": "arXiv - Yeheng Chen, Chaoxiang Xie, Yuling Shi et al."
+  },
+  {
+    "id": "arxiv_1777526410497_4",
+    "name": "On the Learning Curves of Revenue Maximization",
+    "category": "machine-learning",
+    "description": "Learning curves are a fundamental primitive in supervised learning, describing how an algorithm's performance improves with more data and providing a quantitative measure of its generalization ability...",
+    "link": "http://arxiv.org/abs/2604.26922v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-04-29T17:38:25Z",
+    "trending": true,
+    "source": "arXiv - Steve Hanneke, Alkis Kalavasis, Shay Moran et al."
+  },
+  {
+    "id": "arxiv_1777526399159_3",
+    "name": "Color-Encoded Illumination for High-Speed Volumetric Scene Reconstruction",
+    "category": "computer-vision",
+    "description": "The task of capturing and rendering 3D dynamic scenes from 2D images has become increasingly popular in recent years. However, most conventional cameras are bandwidth-limited to 30-60 FPS, restricting...",
+    "link": "http://arxiv.org/abs/2604.26920v1",
+    "tags": [],
+    "date": "2026-04-29T17:38:11Z",
+    "trending": false,
+    "source": "arXiv - David Novikov, Eilon Vaknin, Narek Tumanyan et al."
+  },
+  {
+    "id": "arxiv_1777526399141_1",
+    "name": "Causal Learning with Neural Assemblies",
+    "category": "ai",
+    "description": "Can Neural Assemblies -- groups of neurons that fire together and strengthen through co-activation -- learn the direction of causal influence between variables? While established as a computationally ...",
+    "link": "http://arxiv.org/abs/2604.26919v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-04-29T17:34:33Z",
+    "trending": false,
+    "source": "arXiv - Evangelia Kopadi, Dimitris Kalles"
+  },
+  {
+    "id": "arxiv_1777526399159_4",
+    "name": "AnimateAnyMesh++: A Flexible 4D Foundation Model for High-Fidelity Text-Driven Mesh Animation",
+    "category": "computer-vision",
+    "description": "Recent advances in 4D content generation have attracted increasing attention, yet creating high-quality animated 3D models remains challenging due to the complexity of modeling spatio-temporal distrib...",
+    "link": "http://arxiv.org/abs/2604.26917v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-04-29T17:27:40Z",
+    "trending": false,
+    "source": "arXiv - Zijie Wu, Chaohui Yu, Fan Wang et al."
+  },
+  {
+    "id": "arxiv_1777526399141_2",
+    "name": "ClawGym: A Scalable Framework for Building Effective Claw Agents",
+    "category": "ai",
+    "description": "Claw-style environments support multi-step workflows over local files, tools, and persistent workspace states. However, scalable development around these environments remains constrained by the absenc...",
+    "link": "http://arxiv.org/abs/2604.26904v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-04-29T17:12:22Z",
+    "trending": true,
+    "source": "arXiv - Fei Bai, Huatong Song, Shuang Sun et al."
+  },
+  {
+    "id": "arxiv_1777526418987_3",
+    "name": "ClawGym: A Scalable Framework for Building Effective Claw Agents",
+    "category": "nlp",
+    "description": "Claw-style environments support multi-step workflows over local files, tools, and persistent workspace states. However, scalable development around these environments remains constrained by the absenc...",
+    "link": "http://arxiv.org/abs/2604.26904v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-04-29T17:12:22Z",
+    "trending": true,
+    "source": "arXiv - Fei Bai, Huatong Song, Shuang Sun et al."
+  },
+  {
+    "id": "arxiv_1777526399142_3",
+    "name": "Recent Advances in mm-Wave and Sub-THz/THz Oscillators for FutureG Technologies",
+    "category": "ai",
+    "description": "This paper provides a concise yet comprehensive review of recent advancements in millimeter-wave (mm-wave) oscillators below 100 GHz and sub-terahertz (sub-THz/THz) oscillators above 100 GHz for next-...",
+    "link": "http://arxiv.org/abs/2604.26903v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-04-29T17:12:18Z",
+    "trending": false,
+    "source": "arXiv - Baktash Behmanesh, Ahmad Rezvanitabar"
+  },
+  {
+    "id": "arxiv_1777526418987_4",
+    "name": "HealthNLP_Retrievers at ArchEHR-QA 2026: Cascaded LLM Pipeline for Grounded Clinical Question Answering",
+    "category": "nlp",
+    "description": "Patient portals now give individuals direct access to their electronic health records (EHRs), yet access alone does not ensure patients understand or act on the complex clinical information contained ...",
+    "link": "http://arxiv.org/abs/2604.26880v1",
+    "tags": [
+      "AI",
+      "NLP",
+      "LLM"
+    ],
+    "date": "2026-04-29T16:47:20Z",
+    "trending": false,
+    "source": "arXiv - Md Biplob Hosen, Md Alomgeer Hussein, Md Akmol Masud et al."
+  },
+  {
+    "id": "arxiv_1777526399142_4",
     "name": "Resume-ing Control: (Mis)Perceptions of Agency Around GenAI Use in Recruiting Workflows",
     "category": "ai",
     "description": "When generative AI (genAI) systems are used in high-stakes decision-making, its recommended role is to aid, rather than replace, human decision-making. However, there is little empirical exploration o...",
@@ -102,176 +273,7 @@
       "AI"
     ],
     "date": "2026-04-29T16:17:16Z",
-    "trending": false,
-    "source": "arXiv - Sajel Surati, Rosanna Bellini, Emily Black"
-  },
-  {
-    "id": "arxiv_1777513462021_1",
-    "name": "What Kind of Language is Easy to Language-Model Under Curriculum Learning?",
-    "category": "nlp",
-    "description": "Many of the thousands of attested languages share common configurations of features, creating a spectrum from typologically very rare (e.g., object-verb-subject word order) or impossible languages to ...",
-    "link": "http://arxiv.org/abs/2604.26844v1",
-    "tags": [],
-    "date": "2026-04-29T16:09:23Z",
-    "trending": false,
-    "source": "arXiv - Nadine El-Naggar, Tatsuki Kuribayashi, Ted Briscoe"
-  },
-  {
-    "id": "arxiv_1777513461099_1",
-    "name": "Language Diffusion Models are Associative Memories Capable of Retrieving Unseen Data",
-    "category": "ai",
-    "description": "When do language diffusion models memorize their training data, and how to quantitatively assess their true generative regime? We address these questions by showing that Uniform-based Discrete Diffusi...",
-    "link": "http://arxiv.org/abs/2604.26841v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-04-29T16:06:45Z",
-    "trending": false,
-    "source": "arXiv - Bao Pham, Mohammed J. Zaki, Luca Ambrogioni et al."
-  },
-  {
-    "id": "arxiv_1777513461803_3",
-    "name": "Language Diffusion Models are Associative Memories Capable of Retrieving Unseen Data",
-    "category": "machine-learning",
-    "description": "When do language diffusion models memorize their training data, and how to quantitatively assess their true generative regime? We address these questions by showing that Uniform-based Discrete Diffusi...",
-    "link": "http://arxiv.org/abs/2604.26841v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-04-29T16:06:45Z",
-    "trending": false,
-    "source": "arXiv - Bao Pham, Mohammed J. Zaki, Luca Ambrogioni et al."
-  },
-  {
-    "id": "arxiv_1777513462021_2",
-    "name": "Language Diffusion Models are Associative Memories Capable of Retrieving Unseen Data",
-    "category": "nlp",
-    "description": "When do language diffusion models memorize their training data, and how to quantitatively assess their true generative regime? We address these questions by showing that Uniform-based Discrete Diffusi...",
-    "link": "http://arxiv.org/abs/2604.26841v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-04-29T16:06:45Z",
-    "trending": false,
-    "source": "arXiv - Bao Pham, Mohammed J. Zaki, Luca Ambrogioni et al."
-  },
-  {
-    "id": "arxiv_1777513461803_4",
-    "name": "Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving",
-    "category": "machine-learning",
-    "description": "Long-context LLM serving is bottlenecked by the cost of attending over ever-growing KV caches. Dynamic sparse attention promises relief by accessing only a small, query-dependent subset of the KV stat...",
-    "link": "http://arxiv.org/abs/2604.26837v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-04-29T16:02:00Z",
-    "trending": false,
-    "source": "arXiv - Zihan Zhao, Baotong Lu, Shengjie Lin et al."
-  },
-  {
-    "id": "arxiv_1777513461100_2",
-    "name": "HalluCiteChecker: A Lightweight Toolkit for Hallucinated Citation Detection and Verification in the Era of AI Scientists",
-    "category": "ai",
-    "description": "We introduce HalluCiteChecker, a toolkit for detecting and verifying hallucinated citations in scientific papers. While AI assistant technologies have transformed the academic writing process, includi...",
-    "link": "http://arxiv.org/abs/2604.26835v1",
-    "tags": [
-      "AI",
-      "NLP",
-      "GAN"
-    ],
-    "date": "2026-04-29T16:01:42Z",
-    "trending": false,
-    "source": "arXiv - Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe"
-  },
-  {
-    "id": "arxiv_1777513462021_3",
-    "name": "HalluCiteChecker: A Lightweight Toolkit for Hallucinated Citation Detection and Verification in the Era of AI Scientists",
-    "category": "nlp",
-    "description": "We introduce HalluCiteChecker, a toolkit for detecting and verifying hallucinated citations in scientific papers. While AI assistant technologies have transformed the academic writing process, includi...",
-    "link": "http://arxiv.org/abs/2604.26835v1",
-    "tags": [
-      "AI",
-      "NLP",
-      "GAN"
-    ],
-    "date": "2026-04-29T16:01:42Z",
-    "trending": false,
-    "source": "arXiv - Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe"
-  },
-  {
-    "id": "arxiv_1777513461100_3",
-    "name": "Rule-based High-Level Coaching for Goal-Conditioned Reinforcement Learning in Search-and-Rescue UAV Missions Under Limited-Simulation Training",
-    "category": "ai",
-    "description": "This paper presents a hierarchical decision-making framework for unmanned aerial vehicle (UAV) missions motivated by search-and-rescue (SAR) scenarios under limited simulation training. The framework ...",
-    "link": "http://arxiv.org/abs/2604.26833v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-04-29T16:01:22Z",
-    "trending": false,
-    "source": "arXiv - Mahya Ramezani, Holger Voos"
-  },
-  {
-    "id": "arxiv_1777513461100_4",
-    "name": "Random Cloud: Finding Minimal Neural Architectures Without Training",
-    "category": "ai",
-    "description": "I propose the \\emph{Random Cloud} method, a training-free approach to neural architecture search that discovers minimal feedforward network topologies through stochastic exploration and progressive st...",
-    "link": "http://arxiv.org/abs/2604.26830v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-04-29T15:57:01Z",
     "trending": true,
-    "source": "arXiv - Javier Gil Blázquez"
-  },
-  {
-    "id": "arxiv_1777513461386_3",
-    "name": "Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization",
-    "category": "computer-vision",
-    "description": "Detectors often suffer from degraded performance, primarily due to the distributional gap between the source and target domains. This issue is especially evident in single-source domains with limited ...",
-    "link": "http://arxiv.org/abs/2604.26820v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Diffusion"
-    ],
-    "date": "2026-04-29T15:48:00Z",
-    "trending": false,
-    "source": "arXiv - Mingbo Hong, Feng Liu, Caroline Gevaert et al."
-  },
-  {
-    "id": "arxiv_1777513461386_4",
-    "name": "ViCrop-Det: Spatial Attention Entropy Guided Cropping for Training-Free Small-Object Detection",
-    "category": "computer-vision",
-    "description": "Transformer-based architectures have established a dominant paradigm in global semantic perception; however, they remain fundamentally constrained by the profound spatial heterogeneity inherent in nat...",
-    "link": "http://arxiv.org/abs/2604.26806v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-04-29T15:35:03Z",
-    "trending": false,
-    "source": "arXiv - Hui Wang, Hongze Li, Wei Chen et al."
-  },
-  {
-    "id": "arxiv_1777513462021_4",
-    "name": "Accelerating RL Post-Training Rollouts via System-Integrated Speculative Decoding",
-    "category": "nlp",
-    "description": "RL post-training of frontier language models is increasingly bottlenecked by autoregressive rollout generation, making rollout acceleration a central systems challenge. Many existing efficiency method...",
-    "link": "http://arxiv.org/abs/2604.26779v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-04-29T15:11:48Z",
-    "trending": false,
-    "source": "arXiv - Hayate Iso, Tiyasa Mitra, Sudipta Mondal et al."
+    "source": "arXiv - Sajel Surati, Rosanna Bellini, Emily Black"
   }
 ]
