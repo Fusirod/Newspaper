@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1777585469776_0",
+    "id": "arxiv_1777588744043_0",
     "name": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
     "category": "ai",
     "description": "Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distill...",
@@ -11,11 +11,11 @@
       "Diffusion"
     ],
     "date": "2026-04-29T17:59:01Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Gongbo Zhang, Wen Wang, Ye Tian et al."
   },
   {
-    "id": "arxiv_1777585470293_0",
+    "id": "arxiv_1777588744180_0",
     "name": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
     "category": "machine-learning",
     "description": "Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distill...",
@@ -26,11 +26,11 @@
       "Diffusion"
     ],
     "date": "2026-04-29T17:59:01Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Gongbo Zhang, Wen Wang, Ye Tian et al."
   },
   {
-    "id": "arxiv_1777585470495_0",
+    "id": "arxiv_1777588744247_0",
     "name": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
     "category": "nlp",
     "description": "Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distill...",
@@ -41,11 +41,11 @@
       "Diffusion"
     ],
     "date": "2026-04-29T17:59:01Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Gongbo Zhang, Wen Wang, Ye Tian et al."
   },
   {
-    "id": "arxiv_1777585470034_0",
+    "id": "arxiv_1777588744112_0",
     "name": "Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation",
     "category": "computer-vision",
     "description": "Breakthrough progress in vision-based navigation through unknown environments has been achieved by using multimodal large language models (MLLMs). These models can plan a sequence of motions by evalua...",
@@ -56,11 +56,11 @@
       "LLM"
     ],
     "date": "2026-04-29T17:55:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Wanrong Zheng, Yunhao Ge, Laurent Itti"
   },
   {
-    "id": "arxiv_1777585470035_1",
+    "id": "arxiv_1777588744113_1",
     "name": "ProcFunc: Function-Oriented Abstractions for Procedural 3D Generation in Python",
     "category": "computer-vision",
     "description": "We introduce ProcFunc, a library for Blender-based procedural 3D generation in Python. ProcFunc provides a library of easy-to-use Python functions, which streamline creating, combining, analyzing, and...",
@@ -73,7 +73,7 @@
     "source": "arXiv - Alexander Raistrick, Karhan Kayan, Jack Nugent et al."
   },
   {
-    "id": "arxiv_1777585470294_1",
+    "id": "arxiv_1777588744180_1",
     "name": "Hyper Input Convex Neural Networks for Shape Constrained Learning and Optimal Transport",
     "category": "machine-learning",
     "description": "We introduce Hyper Input Convex Neural Networks (HyCNNs), a novel neural network architecture designed for learning convex functions. HyCNNs combine the principles of Maxout networks with input convex...",
@@ -84,11 +84,11 @@
       "CNN"
     ],
     "date": "2026-04-29T17:52:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shayan Hundrieser, Insung Kong, Johannes Schmidt-Hieber"
   },
   {
-    "id": "arxiv_1777585470496_1",
+    "id": "arxiv_1777588744247_1",
     "name": "Select to Think: Unlocking SLM Potential with Local Sufficiency",
     "category": "nlp",
     "description": "Small language models (SLMs) offer computational efficiency for scalable deployment, yet they often fall short of the reasoning power exhibited by their larger counterparts (LLMs). To mitigate this ga...",
@@ -103,7 +103,7 @@
     "source": "arXiv - Wenxuan Ye, Yangyang Zhang, Xueli An et al."
   },
   {
-    "id": "arxiv_1777585470035_2",
+    "id": "arxiv_1777588744113_2",
     "name": "World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning",
     "category": "computer-vision",
     "description": "Vision-language models (VLMs) have shown strong performance on static visual understanding, yet they still struggle with dynamic spatial reasoning that requires imagining how scenes evolve under egoce...",
@@ -113,11 +113,11 @@
       "Vision"
     ],
     "date": "2026-04-29T17:48:01Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Wanyue Zhang, Wenxiang Wu, Wang Xu et al."
   },
   {
-    "id": "arxiv_1777585470294_2",
+    "id": "arxiv_1777588744180_2",
     "name": "Learning Over-Relaxation Policies for ADMM with Convergence Guarantees",
     "category": "machine-learning",
     "description": "The Alternating Direction Method of Multipliers (ADMM) is a widely used method for structured convex optimization, and its practical performance depends strongly on the choice of penalty and relaxatio...",
@@ -130,7 +130,7 @@
     "source": "arXiv - Junan Lin, Paul J. Goulart, Luca Furieri"
   },
   {
-    "id": "arxiv_1777585470294_3",
+    "id": "arxiv_1777588744180_3",
     "name": "A Note on How to Remove the $\\ln\\ln T$ Term from the Squint Bound",
     "category": "machine-learning",
     "description": "In Orabona and Pál [2016], we introduced the shifted KT potentials, to remove the $\\ln \\ln T$ factor in the parameter-free learning with expert bound. In this short technical note, I show that this is...",
@@ -141,7 +141,7 @@
     "source": "arXiv - Francesco Orabona"
   },
   {
-    "id": "arxiv_1777585470496_2",
+    "id": "arxiv_1777588744247_2",
     "name": "ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation",
     "category": "nlp",
     "description": "LLMs have achieved strong results on both function-level code synthesis and repository-level code modification, yet a capability that falls between these two extremes -- compositional code creation, i...",
@@ -155,7 +155,7 @@
     "source": "arXiv - Yeheng Chen, Chaoxiang Xie, Yuling Shi et al."
   },
   {
-    "id": "arxiv_1777585470294_4",
+    "id": "arxiv_1777588744180_4",
     "name": "On the Learning Curves of Revenue Maximization",
     "category": "machine-learning",
     "description": "Learning curves are a fundamental primitive in supervised learning, describing how an algorithm's performance improves with more data and providing a quantitative measure of its generalization ability...",
@@ -168,7 +168,7 @@
     "source": "arXiv - Steve Hanneke, Alkis Kalavasis, Shay Moran et al."
   },
   {
-    "id": "arxiv_1777585470035_3",
+    "id": "arxiv_1777588744113_3",
     "name": "Color-Encoded Illumination for High-Speed Volumetric Scene Reconstruction",
     "category": "computer-vision",
     "description": "The task of capturing and rendering 3D dynamic scenes from 2D images has become increasingly popular in recent years. However, most conventional cameras are bandwidth-limited to 30-60 FPS, restricting...",
@@ -179,7 +179,7 @@
     "source": "arXiv - David Novikov, Eilon Vaknin, Narek Tumanyan et al."
   },
   {
-    "id": "arxiv_1777585469776_1",
+    "id": "arxiv_1777588744043_1",
     "name": "Causal Learning with Neural Assemblies",
     "category": "ai",
     "description": "Can Neural Assemblies -- groups of neurons that fire together and strengthen through co-activation -- learn the direction of causal influence between variables? While established as a computationally ...",
@@ -189,11 +189,11 @@
       "Neural"
     ],
     "date": "2026-04-29T17:34:33Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Evangelia Kopadi, Dimitris Kalles"
   },
   {
-    "id": "arxiv_1777585470035_4",
+    "id": "arxiv_1777588744113_4",
     "name": "AnimateAnyMesh++: A Flexible 4D Foundation Model for High-Fidelity Text-Driven Mesh Animation",
     "category": "computer-vision",
     "description": "Recent advances in 4D content generation have attracted increasing attention, yet creating high-quality animated 3D models remains challenging due to the complexity of modeling spatio-temporal distrib...",
@@ -206,7 +206,7 @@
     "source": "arXiv - Zijie Wu, Chaohui Yu, Fan Wang et al."
   },
   {
-    "id": "arxiv_1777585469776_2",
+    "id": "arxiv_1777588744044_2",
     "name": "ClawGym: A Scalable Framework for Building Effective Claw Agents",
     "category": "ai",
     "description": "Claw-style environments support multi-step workflows over local files, tools, and persistent workspace states. However, scalable development around these environments remains constrained by the absenc...",
@@ -221,7 +221,7 @@
     "source": "arXiv - Fei Bai, Huatong Song, Shuang Sun et al."
   },
   {
-    "id": "arxiv_1777585470496_3",
+    "id": "arxiv_1777588744247_3",
     "name": "ClawGym: A Scalable Framework for Building Effective Claw Agents",
     "category": "nlp",
     "description": "Claw-style environments support multi-step workflows over local files, tools, and persistent workspace states. However, scalable development around these environments remains constrained by the absenc...",
@@ -236,7 +236,7 @@
     "source": "arXiv - Fei Bai, Huatong Song, Shuang Sun et al."
   },
   {
-    "id": "arxiv_1777585469776_3",
+    "id": "arxiv_1777588744044_3",
     "name": "Recent Advances in mm-Wave and Sub-THz/THz Oscillators for FutureG Technologies",
     "category": "ai",
     "description": "This paper provides a concise yet comprehensive review of recent advancements in millimeter-wave (mm-wave) oscillators below 100 GHz and sub-terahertz (sub-THz/THz) oscillators above 100 GHz for next-...",
@@ -249,7 +249,7 @@
     "source": "arXiv - Baktash Behmanesh, Ahmad Rezvanitabar"
   },
   {
-    "id": "arxiv_1777585470496_4",
+    "id": "arxiv_1777588744247_4",
     "name": "HealthNLP_Retrievers at ArchEHR-QA 2026: Cascaded LLM Pipeline for Grounded Clinical Question Answering",
     "category": "nlp",
     "description": "Patient portals now give individuals direct access to their electronic health records (EHRs), yet access alone does not ensure patients understand or act on the complex clinical information contained ...",
@@ -264,7 +264,7 @@
     "source": "arXiv - Md Biplob Hosen, Md Alomgeer Hussein, Md Akmol Masud et al."
   },
   {
-    "id": "arxiv_1777585469776_4",
+    "id": "arxiv_1777588744044_4",
     "name": "Resume-ing Control: (Mis)Perceptions of Agency Around GenAI Use in Recruiting Workflows",
     "category": "ai",
     "description": "When generative AI (genAI) systems are used in high-stakes decision-making, its recommended role is to aid, rather than replace, human decision-making. However, there is little empirical exploration o...",
@@ -273,7 +273,7 @@
       "AI"
     ],
     "date": "2026-04-29T16:17:16Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Sajel Surati, Rosanna Bellini, Emily Black"
   }
 ]
