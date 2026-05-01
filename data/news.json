@@ -1,6 +1,63 @@
 [
   {
-    "id": "rss_Ars_Technica_1777671661768_0",
+    "id": "rss_Ars_Technica_1777675104613_0",
+    "title": "Study: AI models that consider user's feeling are more likely to make errors",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Overtuning can cause models to \"prioritize user satisfaction over truthfulness.” \n                    ",
+    "link": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 01 May 2026 22:23:36 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1777675101193_0",
+    "title": "Meta buys robotic startup to bolster its humanoid AI ambitions",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+    "link": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "tags": [
+      "AI",
+      "Meta",
+      "Robot",
+      "Startup"
+    ],
+    "date": "Fri, 01 May 2026 22:13:27 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1777675103482_0",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160; that AI could destroy us all and sat",
+    "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Fri, 01 May 2026 22:08:19 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1777675104613_1",
+    "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?\n                    ",
+    "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
+    "tags": [
+      "AI",
+      "Microsoft"
+    ],
+    "date": "Fri, 01 May 2026 22:00:59 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1777675104613_2",
     "title": "Man dies covered in necrotic lesions after amoebas eat him alive",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -8,10 +65,10 @@
     "link": "https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/",
     "tags": [],
     "date": "Fri, 01 May 2026 21:05:37 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1777671662937_0",
+    "id": "rss_Wired_1777675105708_0",
     "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
     "category": "ai-news",
     "source": "Wired",
@@ -26,7 +83,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1777671661768_1",
+    "id": "rss_Ars_Technica_1777675104613_3",
     "title": "Ubuntu infrastructure has been down for more than a day",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -37,7 +94,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777671661768_2",
+    "id": "rss_Ars_Technica_1777675104613_4",
     "title": "Senators ban themselves from prediction markets after candidates bet on own races",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -48,7 +105,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777671658193_0",
+    "id": "rss_TechCrunch_1777675101193_1",
     "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -62,33 +119,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777671661768_3",
-    "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 01 May 2026 17:36:29 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1777671661768_4",
-    "title": "Amazon stuck with months of repairs after drone strikes on data centers",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        AWS stops billing Middle East cloud customers as repairs to war damage drag on.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 01 May 2026 17:09:59 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1777671658193_1",
+    "id": "rss_TechCrunch_1777675101193_2",
     "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -103,7 +134,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777671660503_0",
+    "id": "rss_MIT_Tech_Review_1777675103482_1",
     "title": "Cyber-Insecurity in the AI Era",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -116,7 +147,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777671660503_1",
+    "id": "rss_MIT_Tech_Review_1777675103482_2",
     "title": "Operationalizing AI for Scale and Sovereignty",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -129,7 +160,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777671658193_2",
+    "id": "rss_TechCrunch_1777675101193_3",
     "title": "Musk v. Altman is just getting started",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -140,10 +171,10 @@
       "OpenAI"
     ],
     "date": "Fri, 01 May 2026 14:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777671660504_2",
+    "id": "rss_MIT_Tech_Review_1777675103482_3",
     "title": "The Download: a new Christian phone network, and debugging LLMs",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -154,10 +185,10 @@
       "LLM"
     ],
     "date": "Fri, 01 May 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777671660504_3",
+    "id": "rss_MIT_Tech_Review_1777675103482_4",
     "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -170,18 +201,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777671660504_4",
-    "title": "Trump’s mass firing just dealt another blow to American science",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday la",
-    "link": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
-    "tags": [],
-    "date": "Fri, 01 May 2026 09:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1777671658193_3",
+    "id": "rss_TechCrunch_1777675101193_4",
     "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -196,7 +216,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1777671662937_1",
+    "id": "rss_Wired_1777675105708_1",
     "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
     "category": "ai-news",
     "source": "Wired",
@@ -210,20 +230,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777671658193_4",
-    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter. ",
-    "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 30 Apr 2026 23:07:56 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1777671662937_2",
+    "id": "rss_Wired_1777675105708_2",
     "title": "Good Luck Getting a Mac Mini for the Next ‘Several Months’",
     "category": "ai-news",
     "source": "Wired",
@@ -236,7 +243,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1777671662937_3",
+    "id": "rss_Wired_1777675105708_3",
     "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
     "category": "ai-news",
     "source": "Wired",
@@ -250,7 +257,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1777671662937_4",
+    "id": "rss_Wired_1777675105708_4",
     "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
     "category": "ai-news",
     "source": "Wired",
@@ -261,10 +268,10 @@
       "OpenAI"
     ],
     "date": "Thu, 30 Apr 2026 17:41:14 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1777671672038_0",
+    "id": "rss_Distill_1777675118268_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -274,10 +281,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1777671672038_1",
+    "id": "rss_Distill_1777675118269_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -287,10 +294,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1777671672038_2",
+    "id": "rss_Distill_1777675118269_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -301,7 +308,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777671672038_3",
+    "id": "rss_Distill_1777675118269_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -311,10 +318,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1777671672038_4",
+    "id": "rss_Distill_1777675118269_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
