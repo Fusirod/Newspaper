@@ -1,6 +1,44 @@
 [
   {
-    "id": "rss_Ars_Technica_1777653768563_0",
+    "id": "rss_TechCrunch_1777657550124_0",
+    "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting",
+    "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Fri, 01 May 2026 17:44:29 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1777657553549_0",
+    "title": "Minnesota set to be first state to ban nudification apps",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
+    "tags": [],
+    "date": "Fri, 01 May 2026 17:36:29 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1777657553549_1",
+    "title": "Amazon stuck with months of repairs after drone strikes on data centers",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        AWS stops billing Middle East cloud customers as repairs to war damage drag on.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 01 May 2026 17:09:59 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1777657553549_2",
     "title": "Scorpions go terminator mode and reinforce their weapons with metal",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -10,10 +48,10 @@
       "Meta"
     ],
     "date": "Fri, 01 May 2026 16:24:45 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1777653764983_0",
+    "id": "rss_TechCrunch_1777657550124_1",
     "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -28,7 +66,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777653767125_0",
+    "id": "rss_MIT_Tech_Review_1777657552370_0",
     "title": "Cyber-Insecurity in the AI Era",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -41,7 +79,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777653768563_1",
+    "id": "rss_Ars_Technica_1777657553549_3",
     "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -51,10 +89,10 @@
       "GPT"
     ],
     "date": "Fri, 01 May 2026 15:32:27 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777653767126_1",
+    "id": "rss_MIT_Tech_Review_1777657552370_1",
     "title": "Operationalizing AI for Scale and Sovereignty",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -67,7 +105,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777653768563_2",
+    "id": "rss_Ars_Technica_1777657553549_4",
     "title": "Is your Purosangue SUV not sharp enough? Ferrari has you covered.",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -78,31 +116,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777653768563_3",
-    "title": "Virgin Galactic reveals new ship, but it's running out of time and cash",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        It's not clear whether Virgin Galactic has the cash reserves to fund a prolonged test phase.\n                    ",
-    "link": "https://arstechnica.com/space/2026/05/the-suborbital-space-tourism-industry-is-on-life-support/",
-    "tags": [],
-    "date": "Fri, 01 May 2026 14:42:45 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1777653768563_4",
-    "title": "Apple may take \"several months\" to catch up to Mac mini and Studio demand",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Chip shortages and demand from AI enthusiasts are both playing a part.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 01 May 2026 14:10:48 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1777653767126_2",
+    "id": "rss_MIT_Tech_Review_1777657552370_2",
     "title": "The Download: a new Christian phone network, and debugging LLMs",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -116,7 +130,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777653767126_3",
+    "id": "rss_MIT_Tech_Review_1777657552370_3",
     "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -126,10 +140,10 @@
       "AI"
     ],
     "date": "Fri, 01 May 2026 10:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777653767126_4",
+    "id": "rss_MIT_Tech_Review_1777657552371_4",
     "title": "Trump’s mass firing just dealt another blow to American science",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -140,7 +154,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777653764983_1",
+    "id": "rss_TechCrunch_1777657550124_2",
     "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -152,10 +166,10 @@
       "GPT"
     ],
     "date": "Fri, 01 May 2026 02:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1777653769608_0",
+    "id": "rss_Wired_1777657554687_0",
     "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
     "category": "ai-news",
     "source": "Wired",
@@ -166,10 +180,10 @@
       "OpenAI"
     ],
     "date": "Fri, 01 May 2026 00:51:18 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777653764983_2",
+    "id": "rss_TechCrunch_1777657550124_3",
     "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -179,10 +193,10 @@
       "AI"
     ],
     "date": "Thu, 30 Apr 2026 23:07:56 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1777653769608_1",
+    "id": "rss_Wired_1777657554687_1",
     "title": "Good Luck Getting a Mac Mini for the Next ‘Several Months’",
     "category": "ai-news",
     "source": "Wired",
@@ -192,10 +206,10 @@
       "AI"
     ],
     "date": "Thu, 30 Apr 2026 23:00:51 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777653764983_3",
+    "id": "rss_TechCrunch_1777657550124_4",
     "title": "Apple was surprised by AI-driven demand for Macs",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -205,24 +219,10 @@
       "AI"
     ],
     "date": "Thu, 30 Apr 2026 22:12:52 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1777653764983_4",
-    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
-    "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Thu, 30 Apr 2026 20:14:47 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1777653769608_2",
+    "id": "rss_Wired_1777657554687_2",
     "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
     "category": "ai-news",
     "source": "Wired",
@@ -236,7 +236,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1777653769608_3",
+    "id": "rss_Wired_1777657554687_3",
     "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
     "category": "ai-news",
     "source": "Wired",
@@ -250,7 +250,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1777653769608_4",
+    "id": "rss_Wired_1777657554687_4",
     "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
     "category": "ai-news",
     "source": "Wired",
@@ -266,7 +266,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777653777880_0",
+    "id": "rss_Distill_1777657563083_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -279,7 +279,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1777653777880_1",
+    "id": "rss_Distill_1777657563083_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -292,7 +292,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777653777880_2",
+    "id": "rss_Distill_1777657563083_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -303,7 +303,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777653777880_3",
+    "id": "rss_Distill_1777657563083_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -316,7 +316,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777653777880_4",
+    "id": "rss_Distill_1777657563083_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
