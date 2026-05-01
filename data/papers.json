@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1777650193846_0",
+    "id": "arxiv_1777653749127_0",
     "name": "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation",
     "category": "computer-vision",
     "description": "Driving world models serve as a pivotal technology for autonomous driving by simulating environmental dynamics. However, existing approaches predominantly focus on future scene generation, often overl...",
@@ -15,7 +15,7 @@
     "source": "arXiv - Xin Zhou, Dingkang Liang, Xiwu Chen et al."
   },
   {
-    "id": "arxiv_1777650193846_1",
+    "id": "arxiv_1777653749127_1",
     "name": "OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction",
     "category": "computer-vision",
     "description": "Human-robot collaboration has been studied primarily in dyadic or sequential settings. However, real homes require multiadic collaboration, where multiple humans and robots share a workspace, acting c...",
@@ -24,11 +24,11 @@
       "AI"
     ],
     "date": "2026-04-30T17:59:58Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Junyoung Lee, Sookwan Han, Jeonghwan Kim et al."
   },
   {
-    "id": "arxiv_1777650193846_2",
+    "id": "arxiv_1777653749127_2",
     "name": "Generalizable Sparse-View 3D Reconstruction from Unconstrained Images",
     "category": "computer-vision",
     "description": "Reconstructing 3D scenes from sparse, unposed images remains challenging under real-world conditions with varying illumination and transient occlusions. Existing methods rely on scene-specific optimiz...",
@@ -42,7 +42,7 @@
     "source": "arXiv - Vinayak Gupta, Chih-Hao Lin, Shenlong Wang et al."
   },
   {
-    "id": "arxiv_1777650193846_3",
+    "id": "arxiv_1777653749127_3",
     "name": "LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models",
     "category": "computer-vision",
     "description": "Vision-Language-Action (VLA) models have increasingly incorporated reasoning mechanisms for complex robotic manipulation. However, existing approaches share a critical limitation: whether employing ex...",
@@ -58,7 +58,7 @@
     "source": "arXiv - Hao Chen, Jiaming Liu, Zhonghao Yan et al."
   },
   {
-    "id": "arxiv_1777650193847_4",
+    "id": "arxiv_1777653749127_4",
     "name": "Representation Fréchet Loss for Visual Generation",
     "category": "computer-vision",
     "description": "We show that Fréchet Distance (FD), long considered impractical as a training objective, can in fact be effectively optimized in the representation space. Our idea is simple: decouple the population s...",
@@ -71,22 +71,9 @@
     "source": "arXiv - Jiawei Yang, Zhengyang Geng, Xuan Ju et al."
   },
   {
-    "id": "arxiv_1777650193820_0",
+    "id": "arxiv_1777653722966_0",
     "name": "Computing Equilibrium beyond Unilateral Deviation",
     "category": "ai",
-    "description": "Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against ...",
-    "link": "http://arxiv.org/abs/2604.28186v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-04-30T17:59:07Z",
-    "trending": true,
-    "source": "arXiv - Mingyang Liu, Gabriele Farina, Asuman Ozdaglar"
-  },
-  {
-    "id": "arxiv_1777650193877_0",
-    "name": "Computing Equilibrium beyond Unilateral Deviation",
-    "category": "machine-learning",
     "description": "Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against ...",
     "link": "http://arxiv.org/abs/2604.28186v1",
     "tags": [
@@ -97,7 +84,20 @@
     "source": "arXiv - Mingyang Liu, Gabriele Farina, Asuman Ozdaglar"
   },
   {
-    "id": "arxiv_1777650193877_1",
+    "id": "arxiv_1777653749199_0",
+    "name": "Computing Equilibrium beyond Unilateral Deviation",
+    "category": "machine-learning",
+    "description": "Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against ...",
+    "link": "http://arxiv.org/abs/2604.28186v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-04-30T17:59:07Z",
+    "trending": true,
+    "source": "arXiv - Mingyang Liu, Gabriele Farina, Asuman Ozdaglar"
+  },
+  {
+    "id": "arxiv_1777653749199_1",
     "name": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
     "category": "machine-learning",
     "description": "Reinforcement learning (RL) has become essential to the post-training of large language models (LLMs) for reasoning, agentic capabilities and alignment. Successful RL relies on sufficient exploration ...",
@@ -109,11 +109,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-04-30T17:58:39Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Eyon Jang, Damon Falck, Joschka Braun et al."
   },
   {
-    "id": "arxiv_1777650193904_0",
+    "id": "arxiv_1777653764828_0",
     "name": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
     "category": "nlp",
     "description": "Reinforcement learning (RL) has become essential to the post-training of large language models (LLMs) for reasoning, agentic capabilities and alignment. Successful RL relies on sufficient exploration ...",
@@ -129,7 +129,7 @@
     "source": "arXiv - Eyon Jang, Damon Falck, Joschka Braun et al."
   },
   {
-    "id": "arxiv_1777650193820_1",
+    "id": "arxiv_1777653722966_1",
     "name": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
     "category": "ai",
     "description": "Realistic long-horizon productivity work is strongly conditioned on user-specific computer environments, where much of the work context is stored and organized through directory structures and content...",
@@ -144,24 +144,9 @@
     "source": "arXiv - Tao Ge, Baolin Peng, Hao Cheng et al."
   },
   {
-    "id": "arxiv_1777650193877_2",
+    "id": "arxiv_1777653749200_2",
     "name": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
     "category": "machine-learning",
-    "description": "Realistic long-horizon productivity work is strongly conditioned on user-specific computer environments, where much of the work context is stored and organized through directory structures and content...",
-    "link": "http://arxiv.org/abs/2604.28181v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-04-30T17:58:02Z",
-    "trending": true,
-    "source": "arXiv - Tao Ge, Baolin Peng, Hao Cheng et al."
-  },
-  {
-    "id": "arxiv_1777650193904_1",
-    "name": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
-    "category": "nlp",
     "description": "Realistic long-horizon productivity work is strongly conditioned on user-specific computer environments, where much of the work context is stored and organized through directory structures and content...",
     "link": "http://arxiv.org/abs/2604.28181v1",
     "tags": [
@@ -174,7 +159,22 @@
     "source": "arXiv - Tao Ge, Baolin Peng, Hao Cheng et al."
   },
   {
-    "id": "arxiv_1777650193877_3",
+    "id": "arxiv_1777653764828_1",
+    "name": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
+    "category": "nlp",
+    "description": "Realistic long-horizon productivity work is strongly conditioned on user-specific computer environments, where much of the work context is stored and organized through directory structures and content...",
+    "link": "http://arxiv.org/abs/2604.28181v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-04-30T17:58:02Z",
+    "trending": true,
+    "source": "arXiv - Tao Ge, Baolin Peng, Hao Cheng et al."
+  },
+  {
+    "id": "arxiv_1777653749200_3",
     "name": "An adaptive wavelet-based PINN for problems with localized high-magnitude source",
     "category": "machine-learning",
     "description": "In recent years, physics-informed neural networks (PINNs) have gained significant attention for solving differential equations, although they suffer from two fundamental limitations, namely, spectral ...",
@@ -188,7 +188,7 @@
     "source": "arXiv - Himanshu Pandey, Ratikanta Behera"
   },
   {
-    "id": "arxiv_1777650193820_2",
+    "id": "arxiv_1777653722967_2",
     "name": "LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis",
     "category": "ai",
     "description": "Electroencephalogram (EEG) signals are vital for automated seizure detection, but their inherent noise makes robust representation learning challenging. Existing graph construction methods, whether co...",
@@ -203,7 +203,7 @@
     "source": "arXiv - Lincan Li, Zheng Chen, Yushun Dong"
   },
   {
-    "id": "arxiv_1777650193877_4",
+    "id": "arxiv_1777653749200_4",
     "name": "Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders",
     "category": "machine-learning",
     "description": "Machine learning models can learn from data samples to carry out various tasks efficiently. When data samples are adversarially manipulated, such as by insertion of carefully crafted noise, it can cau...",
@@ -213,11 +213,11 @@
       "Machine Learning"
     ],
     "date": "2026-04-30T17:56:40Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Emma Andrews, Sahan Sanjaya, Prabhat Mishra"
   },
   {
-    "id": "arxiv_1777650193820_3",
+    "id": "arxiv_1777653722967_3",
     "name": "PhyCo: Learning Controllable Physical Priors for Generative Motion",
     "category": "ai",
     "description": "Modern video diffusion models excel at appearance synthesis but still struggle with physical consistency: objects drift, collisions lack realistic rebound, and material responses seldom match their un...",
@@ -233,7 +233,7 @@
     "source": "arXiv - Sriram Narayanan, Ziyu Jiang, Srinivasa Narasimhan et al."
   },
   {
-    "id": "arxiv_1777650193821_4",
+    "id": "arxiv_1777653722967_4",
     "name": "Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists",
     "category": "ai",
     "description": "Existing research infrastructure is fundamentally document-centric, providing citation links between papers but lacking explicit representations of methodological evolution. In particular, it does not...",
@@ -246,7 +246,7 @@
     "source": "arXiv - Yujun Wu, Dongxu Zhang, Xinchen Li et al."
   },
   {
-    "id": "arxiv_1777650193904_2",
+    "id": "arxiv_1777653764828_2",
     "name": "On the Proper Treatment of Units in Surprisal Theory",
     "category": "nlp",
     "description": "Surprisal theory links human processing effort to the predictability of an upcoming linguistic unit, but empirical work often leaves the notion of a unit underspecified. In practice, experimental stim...",
@@ -259,7 +259,7 @@
     "source": "arXiv - Samuel Kiegeland, Vésteinn Snæbjarnarson, Tim Vieira et al."
   },
   {
-    "id": "arxiv_1777650193904_3",
+    "id": "arxiv_1777653764828_3",
     "name": "PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning",
     "category": "nlp",
     "description": "The standard post-training recipe for large multimodal models (LMMs) applies supervised fine-tuning (SFT) on curated demonstrations followed by reinforcement learning with verifiable rewards (RLVR). H...",
@@ -274,7 +274,7 @@
     "source": "arXiv - Sudong Wang, Weiquan Huang, Xiaomin Yu et al."
   },
   {
-    "id": "arxiv_1777650193904_4",
+    "id": "arxiv_1777653764828_4",
     "name": "Mapping the Methodological Space of Classroom Interaction Research: Scale, Duration, and Modality in an Age of AI",
     "category": "nlp",
     "description": "Research on classroom interaction has long been divided between large-scale observation and in-depth ethnographic work. We propose a framework mapping this methodological space along three dimensions-...",
@@ -284,7 +284,7 @@
       "GAN"
     ],
     "date": "2026-04-30T16:42:38Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Dorottya Demszky, Edith Bouton, Alison Twiner et al."
   }
 ]
