@@ -1,6 +1,17 @@
 [
   {
-    "id": "rss_TechCrunch_1777657550124_0",
+    "id": "rss_Ars_Technica_1777661602534_0",
+    "title": "Senators ban themselves from prediction markets after candidates bet on own races",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Senator decries \"blatant, brazen corruption,\" wants to target Trump admin next.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
+    "tags": [],
+    "date": "Fri, 01 May 2026 17:51:24 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1777661599031_0",
     "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -14,18 +25,20 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777657553549_0",
-    "title": "Minnesota set to be first state to ban nudification apps",
+    "id": "rss_Ars_Technica_1777661602534_1",
+    "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
     "category": "ai-news",
     "source": "Ars Technica",
     "description": "\n                        More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "date": "Fri, 01 May 2026 17:36:29 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777657553549_1",
+    "id": "rss_Ars_Technica_1777661602534_2",
     "title": "Amazon stuck with months of repairs after drone strikes on data centers",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -35,10 +48,10 @@
       "AI"
     ],
     "date": "Fri, 01 May 2026 17:09:59 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777657553549_2",
+    "id": "rss_Ars_Technica_1777661602534_3",
     "title": "Scorpions go terminator mode and reinforce their weapons with metal",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -48,10 +61,10 @@
       "Meta"
     ],
     "date": "Fri, 01 May 2026 16:24:45 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777657550124_1",
+    "id": "rss_TechCrunch_1777661599031_1",
     "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -63,10 +76,10 @@
       "NVIDIA"
     ],
     "date": "Fri, 01 May 2026 16:02:36 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1777657552370_0",
+    "id": "rss_MIT_Tech_Review_1777661601168_0",
     "title": "Cyber-Insecurity in the AI Era",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -79,7 +92,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777657553549_3",
+    "id": "rss_Ars_Technica_1777661602534_4",
     "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -92,7 +105,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777657552370_1",
+    "id": "rss_MIT_Tech_Review_1777661601168_1",
     "title": "Operationalizing AI for Scale and Sovereignty",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -105,18 +118,21 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777657553549_4",
-    "title": "Is your Purosangue SUV not sharp enough? Ferrari has you covered.",
+    "id": "rss_TechCrunch_1777661599031_2",
+    "title": "Musk v. Altman is just getting started",
     "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        We'll soon get to see the brand's first EV; first, a more honed V12 four-seater.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/05/is-your-purosangue-suv-not-sharp-enough-ferrari-has-you-covered/",
-    "tags": [],
-    "date": "Fri, 01 May 2026 15:23:38 +0000",
-    "trending": false
+    "source": "TechCrunch",
+    "description": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s arg",
+    "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Fri, 01 May 2026 14:00:00 +0000",
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1777657552370_2",
+    "id": "rss_MIT_Tech_Review_1777661601169_2",
     "title": "The Download: a new Christian phone network, and debugging LLMs",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -127,10 +143,10 @@
       "LLM"
     ],
     "date": "Fri, 01 May 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1777657552370_3",
+    "id": "rss_MIT_Tech_Review_1777661601169_3",
     "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -143,7 +159,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777657552371_4",
+    "id": "rss_MIT_Tech_Review_1777661601169_4",
     "title": "Trump’s mass firing just dealt another blow to American science",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -154,7 +170,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777657550124_2",
+    "id": "rss_TechCrunch_1777661599031_3",
     "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -169,7 +185,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1777657554687_0",
+    "id": "rss_Wired_1777661603584_0",
     "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
     "category": "ai-news",
     "source": "Wired",
@@ -183,7 +199,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777657550124_3",
+    "id": "rss_TechCrunch_1777661599031_4",
     "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -193,10 +209,10 @@
       "AI"
     ],
     "date": "Thu, 30 Apr 2026 23:07:56 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1777657554687_1",
+    "id": "rss_Wired_1777661603584_1",
     "title": "Good Luck Getting a Mac Mini for the Next ‘Several Months’",
     "category": "ai-news",
     "source": "Wired",
@@ -209,20 +225,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777657550124_4",
-    "title": "Apple was surprised by AI-driven demand for Macs",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too. ",
-    "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 30 Apr 2026 22:12:52 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1777657554687_2",
+    "id": "rss_Wired_1777661603584_2",
     "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
     "category": "ai-news",
     "source": "Wired",
@@ -236,7 +239,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1777657554687_3",
+    "id": "rss_Wired_1777661603585_3",
     "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
     "category": "ai-news",
     "source": "Wired",
@@ -250,7 +253,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1777657554687_4",
+    "id": "rss_Wired_1777661603585_4",
     "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
     "category": "ai-news",
     "source": "Wired",
@@ -266,7 +269,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777657563083_0",
+    "id": "rss_Distill_1777661612199_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -279,7 +282,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1777657563083_1",
+    "id": "rss_Distill_1777661612199_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -292,7 +295,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777657563083_2",
+    "id": "rss_Distill_1777661612199_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -300,10 +303,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1777657563083_3",
+    "id": "rss_Distill_1777661612199_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -316,7 +319,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777657563083_4",
+    "id": "rss_Distill_1777661612199_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
