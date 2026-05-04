@@ -1,1 +1,290 @@
-[]
+[
+  {
+    "id": "arxiv_1777872111547_0",
+    "name": "Posterior Augmented Flow Matching",
+    "category": "computer-vision",
+    "description": "Flow matching (FM) trains a time-dependent vector field that transports samples from a simple prior to a complex data distribution. However, for high-dimensional images, each training sample supervise...",
+    "link": "http://arxiv.org/abs/2605.00825v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-01T17:59:59Z",
+    "trending": false,
+    "source": "arXiv - George Stoica, Sayak Paul, Matthew Wallingford et al."
+  },
+  {
+    "id": "arxiv_1777872111627_0",
+    "name": "HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs",
+    "category": "machine-learning",
+    "description": "We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way...",
+    "link": "http://arxiv.org/abs/2605.00820v1",
+    "tags": [
+      "Neural",
+      "Diffusion"
+    ],
+    "date": "2026-05-01T17:57:48Z",
+    "trending": false,
+    "source": "arXiv - Jinpai Zhao, Nishant Panda, Yen Ting Lin et al."
+  },
+  {
+    "id": "arxiv_1777872111879_0",
+    "name": "When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models",
+    "category": "nlp",
+    "description": "Large language models (LLMs) often achieve strong performance on reasoning benchmarks, but final-answer accuracy alone does not show whether they faithfully execute the procedure specified in a prompt...",
+    "link": "http://arxiv.org/abs/2605.00817v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-01T17:55:47Z",
+    "trending": false,
+    "source": "arXiv - Sailesh Panda, Pritam Kadasi, Abhishek Upperwal et al."
+  },
+  {
+    "id": "arxiv_1777872111301_0",
+    "name": "Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
+    "category": "ai",
+    "description": "While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a \"Visual Signal Dilution\" phenomenon, where the accumulation of textual his...",
+    "link": "http://arxiv.org/abs/2605.00814v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-01T17:54:37Z",
+    "trending": true,
+    "source": "arXiv - Siyuan Huang, Xiaoye Qu, Yafu Li et al."
+  },
+  {
+    "id": "arxiv_1777872111547_1",
+    "name": "Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
+    "category": "computer-vision",
+    "description": "While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a \"Visual Signal Dilution\" phenomenon, where the accumulation of textual his...",
+    "link": "http://arxiv.org/abs/2605.00814v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-01T17:54:37Z",
+    "trending": true,
+    "source": "arXiv - Siyuan Huang, Xiaoye Qu, Yafu Li et al."
+  },
+  {
+    "id": "arxiv_1777872111547_2",
+    "name": "Let ViT Speak: Generative Language-Image Pre-training",
+    "category": "computer-vision",
+    "description": "In this paper, we present \\textbf{Gen}erative \\textbf{L}anguage-\\textbf{I}mage \\textbf{P}re-training (GenLIP), a minimalist generative pretraining framework for Vision Transformers (ViTs) designed for...",
+    "link": "http://arxiv.org/abs/2605.00809v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer",
+      "LLM"
+    ],
+    "date": "2026-05-01T17:51:38Z",
+    "trending": false,
+    "source": "arXiv - Yan Fang, Mengcheng Lan, Zilong Huang et al."
+  },
+  {
+    "id": "arxiv_1777872111301_1",
+    "name": "Can Coding Agents Reproduce Findings in Computational Materials Science?",
+    "category": "ai",
+    "description": "Large language models are increasingly deployed as autonomous coding agents and have achieved remarkably strong performance on software engineering benchmarks. However, it is unclear whether such succ...",
+    "link": "http://arxiv.org/abs/2605.00803v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-01T17:42:12Z",
+    "trending": false,
+    "source": "arXiv - Ziyang Huang, Yi Cao, Ali K. Shargh et al."
+  },
+  {
+    "id": "arxiv_1777872111879_1",
+    "name": "Can Coding Agents Reproduce Findings in Computational Materials Science?",
+    "category": "nlp",
+    "description": "Large language models are increasingly deployed as autonomous coding agents and have achieved remarkably strong performance on software engineering benchmarks. However, it is unclear whether such succ...",
+    "link": "http://arxiv.org/abs/2605.00803v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-01T17:42:12Z",
+    "trending": false,
+    "source": "arXiv - Ziyang Huang, Yi Cao, Ali K. Shargh et al."
+  },
+  {
+    "id": "arxiv_1777872111627_1",
+    "name": "Generating Statistical Charts with Validation-Driven LLM Workflows",
+    "category": "machine-learning",
+    "description": "Generating diverse, readable statistical charts from tabular data remains challenging for LLMs, as many failures become apparent after rendering and are not detectable from data or code alone. Existin...",
+    "link": "http://arxiv.org/abs/2605.00800v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-01T17:39:00Z",
+    "trending": true,
+    "source": "arXiv - Pavlin G. Poličar, Andraž Pevcin, Blaž Zupan"
+  },
+  {
+    "id": "arxiv_1777872111547_3",
+    "name": "GMGaze: MoE-Based Context-Aware Gaze Estimation with CLIP and Multiscale Transformer",
+    "category": "computer-vision",
+    "description": "Gaze estimation methods commonly use facial appearances to predict the direction of a person gaze. However, previous studies show three major challenges with convolutional neural network (CNN)-based, ...",
+    "link": "http://arxiv.org/abs/2605.00799v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Transformer",
+      "CNN"
+    ],
+    "date": "2026-05-01T17:35:17Z",
+    "trending": true,
+    "source": "arXiv - Xinyuan Zhao, Yihang Wu, Ahmad Chaddad et al."
+  },
+  {
+    "id": "arxiv_1777872111627_2",
+    "name": "RunAgent: Interpreting Natural-Language Plans with Constraint-Guided Execution",
+    "category": "machine-learning",
+    "description": "Humans solve problems by executing targeted plans, yet large language models (LLMs) remain unreliable for structured workflow execution. We propose RunAgent, a multi-agent plan execution platform that...",
+    "link": "http://arxiv.org/abs/2605.00798v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-01T17:29:45Z",
+    "trending": false,
+    "source": "arXiv - Arunabh Srivastava, Mohammad A.,  Khojastepour et al."
+  },
+  {
+    "id": "arxiv_1777872111879_2",
+    "name": "RunAgent: Interpreting Natural-Language Plans with Constraint-Guided Execution",
+    "category": "nlp",
+    "description": "Humans solve problems by executing targeted plans, yet large language models (LLMs) remain unreliable for structured workflow execution. We propose RunAgent, a multi-agent plan execution platform that...",
+    "link": "http://arxiv.org/abs/2605.00798v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-01T17:29:45Z",
+    "trending": false,
+    "source": "arXiv - Arunabh Srivastava, Mohammad A.,  Khojastepour et al."
+  },
+  {
+    "id": "arxiv_1777872111302_2",
+    "name": "When RAG Chatbots Expose Their Backend: An Anonymized Case Study of Privacy and Security Risks in Patient-Facing Medical AI",
+    "category": "ai",
+    "description": "Background: Patient-facing medical chatbots based on retrieval-augmented generation (RAG) are increasingly promoted to deliver accessible, grounded health information. AI-assisted development lowers t...",
+    "link": "http://arxiv.org/abs/2605.00796v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-01T17:29:09Z",
+    "trending": false,
+    "source": "arXiv - Alfredo Madrid-García, Miguel Rujas"
+  },
+  {
+    "id": "arxiv_1777872111880_3",
+    "name": "When RAG Chatbots Expose Their Backend: An Anonymized Case Study of Privacy and Security Risks in Patient-Facing Medical AI",
+    "category": "nlp",
+    "description": "Background: Patient-facing medical chatbots based on retrieval-augmented generation (RAG) are increasingly promoted to deliver accessible, grounded health information. AI-assisted development lowers t...",
+    "link": "http://arxiv.org/abs/2605.00796v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-01T17:29:09Z",
+    "trending": true,
+    "source": "arXiv - Alfredo Madrid-García, Miguel Rujas"
+  },
+  {
+    "id": "arxiv_1777872111302_3",
+    "name": "Unsupervised Denoising of Real Clinical Low Dose Liver CT with Perceptual Attention Networks",
+    "category": "ai",
+    "description": "With the development of deep learning, medical image processing has been widely used to assist clinical research. This paper focuses on the denoising problem of low-dose computed tomography using deep...",
+    "link": "http://arxiv.org/abs/2605.00793v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "GAN"
+    ],
+    "date": "2026-05-01T17:19:15Z",
+    "trending": false,
+    "source": "arXiv - Jingxi Pu, Tonghua Liu, Zhilin Guan et al."
+  },
+  {
+    "id": "arxiv_1777872111547_4",
+    "name": "Unsupervised Denoising of Real Clinical Low Dose Liver CT with Perceptual Attention Networks",
+    "category": "computer-vision",
+    "description": "With the development of deep learning, medical image processing has been widely used to assist clinical research. This paper focuses on the denoising problem of low-dose computed tomography using deep...",
+    "link": "http://arxiv.org/abs/2605.00793v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "GAN"
+    ],
+    "date": "2026-05-01T17:19:15Z",
+    "trending": false,
+    "source": "arXiv - Jingxi Pu, Tonghua Liu, Zhilin Guan et al."
+  },
+  {
+    "id": "arxiv_1777872111302_4",
+    "name": "Make Your LVLM KV Cache More Lightweight",
+    "category": "ai",
+    "description": "Key-Value (KV) cache has become a de facto component of modern Large Vision-Language Models (LVLMs) for inference. While it enhances decoding efficiency in Large Language Models (LLMs), its direct ado...",
+    "link": "http://arxiv.org/abs/2605.00789v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-05-01T17:11:39Z",
+    "trending": false,
+    "source": "arXiv - Xihao Chen, Yangyang Guo, Roger Zimmermann"
+  },
+  {
+    "id": "arxiv_1777872111627_3",
+    "name": "Make Your LVLM KV Cache More Lightweight",
+    "category": "machine-learning",
+    "description": "Key-Value (KV) cache has become a de facto component of modern Large Vision-Language Models (LVLMs) for inference. While it enhances decoding efficiency in Large Language Models (LLMs), its direct ado...",
+    "link": "http://arxiv.org/abs/2605.00789v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-05-01T17:11:39Z",
+    "trending": false,
+    "source": "arXiv - Xihao Chen, Yangyang Guo, Roger Zimmermann"
+  },
+  {
+    "id": "arxiv_1777872111627_4",
+    "name": "SAVGO: Learning State-Action Value Geometry with Cosine Similarity for Continuous Control",
+    "category": "machine-learning",
+    "description": "While representation and similarity learning have improved the sample efficiency of Reinforcement Learning (RL), they are rarely used to shape policy updates directly in the action space. To bridge th...",
+    "link": "http://arxiv.org/abs/2605.00787v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-05-01T17:09:58Z",
+    "trending": false,
+    "source": "arXiv - Stavros Orfanoudakis, Pedro P. Vergara"
+  },
+  {
+    "id": "arxiv_1777872111880_4",
+    "name": "LASE: Language-Adversarial Speaker Encoding for Indic Cross-Script Identity Preservation",
+    "category": "nlp",
+    "description": "A speaker encoder used in multilingual voice cloning should treat the same speaker identically regardless of which script the audio was uttered in. Off-the-shelf encoders do not, and the failure is ac...",
+    "link": "http://arxiv.org/abs/2605.00777v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-01T16:46:25Z",
+    "trending": false,
+    "source": "arXiv - Venkata Pushpak Teja Menta"
+  }
+]
