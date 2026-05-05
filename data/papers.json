@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1777965002016_0",
+    "id": "arxiv_1777974569919_0",
     "name": "AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion",
     "category": "computer-vision",
     "description": "Personalized image completion aims to restore occluded regions in personal photos while preserving identity and appearance. Existing methods either rely on generic inpainting models that often fail to...",
@@ -10,27 +10,13 @@
       "Vision"
     ],
     "date": "2026-05-04T17:59:59Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yu-Ju Tsai, Brian Price, Qing Liu et al."
   },
   {
-    "id": "arxiv_1777964986424_0",
+    "id": "arxiv_1777974565822_0",
     "name": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
     "category": "ai",
-    "description": "Speculative decoding accelerates large language model (LLM) inference by using a small draft model to propose candidate tokens that a larger target model verifies. A critical hyperparameter in this pr...",
-    "link": "http://arxiv.org/abs/2605.02888v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-04T17:55:05Z",
-    "trending": false,
-    "source": "arXiv - Shikhar Shukla"
-  },
-  {
-    "id": "arxiv_1777965002084_0",
-    "name": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
-    "category": "machine-learning",
     "description": "Speculative decoding accelerates large language model (LLM) inference by using a small draft model to propose candidate tokens that a larger target model verifies. A critical hyperparameter in this pr...",
     "link": "http://arxiv.org/abs/2605.02888v1",
     "tags": [
@@ -42,7 +28,21 @@
     "source": "arXiv - Shikhar Shukla"
   },
   {
-    "id": "arxiv_1777965002153_0",
+    "id": "arxiv_1777974569943_0",
+    "name": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
+    "category": "machine-learning",
+    "description": "Speculative decoding accelerates large language model (LLM) inference by using a small draft model to propose candidate tokens that a larger target model verifies. A critical hyperparameter in this pr...",
+    "link": "http://arxiv.org/abs/2605.02888v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-04T17:55:05Z",
+    "trending": false,
+    "source": "arXiv - Shikhar Shukla"
+  },
+  {
+    "id": "arxiv_1777974569968_0",
     "name": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
     "category": "nlp",
     "description": "Speculative decoding accelerates large language model (LLM) inference by using a small draft model to propose candidate tokens that a larger target model verifies. A critical hyperparameter in this pr...",
@@ -56,7 +56,7 @@
     "source": "arXiv - Shikhar Shukla"
   },
   {
-    "id": "arxiv_1777965002085_1",
+    "id": "arxiv_1777974569944_1",
     "name": "Unsupervised Machine Learning for Detecting Structural Anomalies in European Regional Statistics",
     "category": "machine-learning",
     "description": "Ensuring the coherence of regional socio-economic statistics is a central task for national statistical institutes. Traditional validation tools, such as range edits, ratio checks, or univariate outli...",
@@ -66,11 +66,11 @@
       "Machine Learning"
     ],
     "date": "2026-05-04T17:54:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Bogdan Oancea"
   },
   {
-    "id": "arxiv_1777965002085_2",
+    "id": "arxiv_1777974569944_2",
     "name": "Multi-fidelity surrogates for mechanics of composites: from co-kriging to multi-fidelity neural networks",
     "category": "machine-learning",
     "description": "Composite materials exhibit strongly hierarchical and anisotropic properties governed by coupled mechanisms spanning constituents, plies, laminates, structures, and manufacturing history. This intrins...",
@@ -85,7 +85,7 @@
     "source": "arXiv - Haizhou Wen, Elham Kiyani, Gang Li et al."
   },
   {
-    "id": "arxiv_1777964986424_1",
+    "id": "arxiv_1777974565822_1",
     "name": "Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters",
     "category": "ai",
     "description": "Despite significant advances in Reinforcement Learning (RL), model performance remains highly sensitive to algorithm and hyperparameter configurations, while generalization gaps across environments co...",
@@ -96,11 +96,11 @@
       "Robotics"
     ],
     "date": "2026-05-04T17:41:04Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Lingxiao Kong, Cong Yang, Oya Deniz Beyan et al."
   },
   {
-    "id": "arxiv_1777965002085_3",
+    "id": "arxiv_1777974569944_3",
     "name": "Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters",
     "category": "machine-learning",
     "description": "Despite significant advances in Reinforcement Learning (RL), model performance remains highly sensitive to algorithm and hyperparameter configurations, while generalization gaps across environments co...",
@@ -111,11 +111,11 @@
       "Robotics"
     ],
     "date": "2026-05-04T17:41:04Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Lingxiao Kong, Cong Yang, Oya Deniz Beyan et al."
   },
   {
-    "id": "arxiv_1777965002016_1",
+    "id": "arxiv_1777974569919_1",
     "name": "Laplacian Frequency Interaction Network for Rural Thematic Road Extraction",
     "category": "computer-vision",
     "description": "Rural thematic road network construction aims to extract topological road structures from movement trajectory images of agricultural machinery. However, this task faces challenges where downsampling m...",
@@ -129,7 +129,7 @@
     "source": "arXiv - Baiyan Chen, Weixin Zhai"
   },
   {
-    "id": "arxiv_1777965002017_2",
+    "id": "arxiv_1777974569919_2",
     "name": "Pixel Perfect: Relational Image Quality Assessment with Spatially-Aware Distortions",
     "category": "computer-vision",
     "description": "Traditional image quality assessment (IQA) methods rely on mean opinion scores (MOS), which are resource-intensive to collect and fail to provide interpretable, localized feedback on specific image di...",
@@ -143,7 +143,7 @@
     "source": "arXiv - Fadeel Sher Khan, Long N. Le, Abhinau K. Venkataramanan et al."
   },
   {
-    "id": "arxiv_1777964986424_2",
+    "id": "arxiv_1777974565822_2",
     "name": "Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection",
     "category": "ai",
     "description": "Cross-language code clone detection (X-CCD) is challenging because semantically equivalent programs written in different languages often share little surface similarity. Although large language models...",
@@ -157,7 +157,7 @@
     "source": "arXiv - Mohamad Khajezade, Fatemeh H. Fard, Mohamed Sami Shehata"
   },
   {
-    "id": "arxiv_1777965002085_4",
+    "id": "arxiv_1777974569944_4",
     "name": "Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection",
     "category": "machine-learning",
     "description": "Cross-language code clone detection (X-CCD) is challenging because semantically equivalent programs written in different languages often share little surface similarity. Although large language models...",
@@ -171,7 +171,7 @@
     "source": "arXiv - Mohamad Khajezade, Fatemeh H. Fard, Mohamed Sami Shehata"
   },
   {
-    "id": "arxiv_1777964986424_3",
+    "id": "arxiv_1777974565822_3",
     "name": "From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications",
     "category": "ai",
     "description": "Scientists increasingly rely on sensor-based data, yet transforming raw streams into insights across the edge-to-cloud continuum remains difficult. Provisioning heterogeneous infrastructure and managi...",
@@ -185,7 +185,7 @@
     "source": "arXiv - Komal Thareja, Anirban Mandal, Ewa Deelman"
   },
   {
-    "id": "arxiv_1777965002017_3",
+    "id": "arxiv_1777974569919_3",
     "name": "Active Sampling for Ultra-Low-Bit-Rate Video Compression via Conditional Controlled Diffusion",
     "category": "computer-vision",
     "description": "Diffusion models provide a powerful generative prior for perceptual reconstruction at ultra-low bitrates, but effective video compression requires controlling the generative process using highly compa...",
@@ -195,11 +195,11 @@
       "Diffusion"
     ],
     "date": "2026-05-04T17:25:14Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Amirhosein Javadi, Shirin Saeedi Bidokhti, Tara Javidi"
   },
   {
-    "id": "arxiv_1777964986424_4",
+    "id": "arxiv_1777974565822_4",
     "name": "(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications",
     "category": "ai",
     "description": "Scientists increasingly rely on sensor-based data; however transforming raw streams into insights across the edge-to-cloud continuum remains difficult due to the breadth of expertise required to coord...",
@@ -212,7 +212,7 @@
     "source": "arXiv - Komal Thareja, Anirban Mandal, Ewa Deelman"
   },
   {
-    "id": "arxiv_1777965002017_4",
+    "id": "arxiv_1777974569919_4",
     "name": "VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition",
     "category": "computer-vision",
     "description": "Videos are unique in their ability to capture actions which transcend multiple frames. Accordingly, for many years action recognition was the quintessential task for video understanding. Unfortunately...",
@@ -222,11 +222,11 @@
       "Vision"
     ],
     "date": "2026-05-04T17:11:16Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Tanush Yadav, Mohammadreza Salehi, Jae Sung Park et al."
   },
   {
-    "id": "arxiv_1777965002153_1",
+    "id": "arxiv_1777974569968_1",
     "name": "FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents",
     "category": "nlp",
     "description": "Text-to-SQL over large analytical databases requires navigating complex schemas, resolving ambiguous queries, and grounding decisions in actual data. Most current systems follow a fixed pipeline where...",
@@ -242,7 +242,7 @@
     "source": "arXiv - Quang Hieu Pham, Yang He, Ping Nie et al."
   },
   {
-    "id": "arxiv_1777965002153_2",
+    "id": "arxiv_1777974569968_2",
     "name": "Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces",
     "category": "nlp",
     "description": "As large language model (LLM) agents evolve from isolated tool users into coordinated teams, reinforcement learning (RL) must optimize not only individual actions but also how work is spawned, delegat...",
@@ -257,7 +257,7 @@
     "source": "arXiv - Chenchen Zhang"
   },
   {
-    "id": "arxiv_1777965002154_3",
+    "id": "arxiv_1777974569968_3",
     "name": "FunFuzz: An LLM-Powered Evolutionary Fuzzing Framework",
     "category": "nlp",
     "description": "Modern fuzzers increasingly use Large Language Models (LLMs) to generate structured inputs, but LLM-driven fuzzing is sensitive to prompt initialization and sampling variance, which can reduce explora...",
@@ -271,7 +271,7 @@
     "source": "arXiv - Mario Rodríguez Béjar, B. Romera-Paredes, Jose L. Hernández-Ramos"
   },
   {
-    "id": "arxiv_1777965002154_4",
+    "id": "arxiv_1777974569968_4",
     "name": "When Audio-Language Models Fail to Leverage Multimodal Context for Dysarthric Speech Recognition",
     "category": "nlp",
     "description": "Automatic speech recognition (ASR) systems remain brittle on dysarthric and other atypical speech. Recent audio-language models raise the possibility of improving performance by conditioning on additi...",
@@ -280,7 +280,7 @@
       "AI"
     ],
     "date": "2026-05-04T16:24:06Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Pehuén Moure, Niclas Pokel, Bilal Bounajma et al."
   }
 ]
