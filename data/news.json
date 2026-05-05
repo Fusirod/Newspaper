@@ -1,6 +1,46 @@
 [
   {
-    "id": "rss_TechCrunch_1778014221029_0",
+    "id": "rss_Ars_Technica_1778017831831_0",
+    "title": "Silicon Valley bets on floating AI data centers powered by ocean waves",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Panthalassa aims to test floating AI computing nodes in the Pacific in 2026.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 05 May 2026 21:41:32 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1778017831831_1",
+    "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        State says chatbot claimed to practice medicine, gave invalid license number.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
+    "tags": [
+      "AI",
+      "Chatbot"
+    ],
+    "date": "Tue, 05 May 2026 20:58:56 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1778017828366_0",
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks. ",
+    "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 05 May 2026 20:56:41 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1778017828367_1",
     "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -8,10 +48,10 @@
     "link": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
     "tags": [],
     "date": "Tue, 05 May 2026 20:06:40 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1778014224375_0",
+    "id": "rss_Ars_Technica_1778017831831_2",
     "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -21,10 +61,10 @@
       "AI"
     ],
     "date": "Tue, 05 May 2026 19:46:15 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1778014224375_1",
+    "id": "rss_Ars_Technica_1778017831831_3",
     "title": "RFK Jr. plans to curb antidepressants, which he falsely compares to heroin",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -37,7 +77,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1778014221029_1",
+    "id": "rss_TechCrunch_1778017828367_2",
     "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -51,7 +91,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1778014224375_2",
+    "id": "rss_Ars_Technica_1778017831831_4",
     "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -65,18 +105,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1778014224375_3",
-    "title": "Trump SEC lets Musk settle $150 million Twitter lawsuit for $1.5 million",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        SEC alleged Musk's late disclosure cheated Twitter investors out of $150 million.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/trump-sec-lets-musk-settle-150-million-twitter-lawsuit-for-1-5-million/",
-    "tags": [],
-    "date": "Tue, 05 May 2026 17:07:32 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1778014221029_2",
+    "id": "rss_TechCrunch_1778017828367_3",
     "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -92,7 +121,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1778014221030_3",
+    "id": "rss_TechCrunch_1778017828367_4",
     "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -106,33 +135,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1778014224375_4",
-    "title": "How do you design a $30,000 electric pickup? Inside Ford's skunkworks.",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        We tour Ford’s top-secret Electric Vehicle Development Center in California.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/",
-    "tags": [],
-    "date": "Tue, 05 May 2026 15:39:21 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1778014221030_4",
-    "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users. ",
-    "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-    "tags": [
-      "AI",
-      "ChatGPT",
-      "GPT"
-    ],
-    "date": "Tue, 05 May 2026 15:31:37 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1778014223135_0",
+    "id": "rss_MIT_Tech_Review_1778017830570_0",
     "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -145,7 +148,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778014225469_0",
+    "id": "rss_Wired_1778017833016_0",
     "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
     "category": "ai-news",
     "source": "Wired",
@@ -159,7 +162,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778014225469_1",
+    "id": "rss_Wired_1778017833016_1",
     "title": "He Couldn’t Land a Job Interview. Was AI to Blame?",
     "category": "ai-news",
     "source": "Wired",
@@ -172,7 +175,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1778014223135_1",
+    "id": "rss_MIT_Tech_Review_1778017830570_1",
     "title": "A blueprint for using AI to strengthen democracy",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -185,7 +188,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778014225469_2",
+    "id": "rss_Wired_1778017833016_2",
     "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
     "category": "ai-news",
     "source": "Wired",
@@ -196,10 +199,10 @@
       "OpenAI"
     ],
     "date": "Mon, 04 May 2026 23:19:52 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778014223135_2",
+    "id": "rss_MIT_Tech_Review_1778017830570_2",
     "title": "Week one of the Musk v. Altman trial: What it was like in the room",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -213,7 +216,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778014223135_3",
+    "id": "rss_MIT_Tech_Review_1778017830570_3",
     "title": "Tailoring AI solutions for health care needs",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -226,7 +229,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778014225469_3",
+    "id": "rss_Wired_1778017833016_3",
     "title": "Disneyland Now Uses Face Recognition on Visitors",
     "category": "ai-news",
     "source": "Wired",
@@ -234,10 +237,10 @@
     "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
     "tags": [],
     "date": "Sat, 02 May 2026 10:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1778014223136_4",
+    "id": "rss_MIT_Tech_Review_1778017830571_4",
     "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -251,7 +254,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778014225469_4",
+    "id": "rss_Wired_1778017833016_4",
     "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
     "category": "ai-news",
     "source": "Wired",
@@ -266,7 +269,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1778014234025_0",
+    "id": "rss_Distill_1778017841425_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -279,7 +282,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1778014234025_1",
+    "id": "rss_Distill_1778017841425_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -292,7 +295,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1778014234025_2",
+    "id": "rss_Distill_1778017841425_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -303,7 +306,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1778014234025_3",
+    "id": "rss_Distill_1778017841425_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -316,7 +319,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1778014234025_4",
+    "id": "rss_Distill_1778017841425_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
