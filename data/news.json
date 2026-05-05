@@ -1,6 +1,46 @@
 [
   {
-    "id": "rss_Wired_1777979309295_0",
+    "id": "rss_MIT_Tech_Review_1777986251850_0",
+    "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle o",
+    "link": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 05 May 2026 12:10:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1777986254078_0",
+    "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "UK staff of Google's AI research lab hope to block the use of the company's artificial intelligence models in military settings.",
+    "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Tue, 05 May 2026 11:59:20 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1777986252996_0",
+    "title": "Why Reddit blocked my daily visit to its mobile website",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Reddit REALLY wants you to use its app.\n                    ",
+    "link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 05 May 2026 11:20:08 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1777986254078_1",
     "title": "He Couldn’t Land a Job Interview. Was AI to Blame?",
     "category": "ai-news",
     "source": "Wired",
@@ -10,10 +50,10 @@
       "AI"
     ],
     "date": "Tue, 05 May 2026 10:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777979306892_0",
+    "id": "rss_MIT_Tech_Review_1777986251850_1",
     "title": "A blueprint for using AI to strengthen democracy",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -26,7 +66,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1777979304748_0",
+    "id": "rss_TechCrunch_1777986249690_0",
     "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -37,10 +77,10 @@
       "NVIDIA"
     ],
     "date": "Tue, 05 May 2026 03:31:54 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1777979309295_1",
+    "id": "rss_Wired_1777986254078_2",
     "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
     "category": "ai-news",
     "source": "Wired",
@@ -54,7 +94,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777979304748_1",
+    "id": "rss_TechCrunch_1777986249691_1",
     "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -68,7 +108,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777979308268_0",
+    "id": "rss_Ars_Technica_1777986252996_1",
     "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -76,10 +116,10 @@
     "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
     "tags": [],
     "date": "Mon, 04 May 2026 21:38:37 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1777979308268_1",
+    "id": "rss_Ars_Technica_1777986252996_2",
     "title": "Canadian election databases use \"canary traps\"—and they work",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -87,10 +127,10 @@
     "link": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
     "tags": [],
     "date": "Mon, 04 May 2026 19:45:57 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1777979304748_2",
+    "id": "rss_TechCrunch_1777986249691_2",
     "title": "Image AI models now drive app growth, beating chatbot upgrades",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -104,7 +144,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777979308268_2",
+    "id": "rss_Ars_Technica_1777986252996_3",
     "title": "Influential study touting ChatGPT in education retracted over red flags",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -115,10 +155,10 @@
       "GPT"
     ],
     "date": "Mon, 04 May 2026 19:03:39 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1777979308269_3",
+    "id": "rss_Ars_Technica_1777986252996_4",
     "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -131,18 +171,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1777979308269_4",
-    "title": "F1 in Miami: That's what it looks like when an upgrade works",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        2026's Formula 1 championship now looks far from a foregone thing.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/05/f1-in-miami-thats-what-it-looks-like-when-an-upgrade-works/",
-    "tags": [],
-    "date": "Mon, 04 May 2026 17:47:05 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1777979304748_3",
+    "id": "rss_TechCrunch_1777986249691_3",
     "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -156,7 +185,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1777979304748_4",
+    "id": "rss_TechCrunch_1777986249691_4",
     "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -166,10 +195,10 @@
       "AI"
     ],
     "date": "Mon, 04 May 2026 16:45:55 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777979306892_1",
+    "id": "rss_MIT_Tech_Review_1777986251850_2",
     "title": "Week one of the Musk v. Altman trial: What it was like in the room",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -183,7 +212,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777979306892_2",
+    "id": "rss_MIT_Tech_Review_1777986251850_3",
     "title": "Tailoring AI solutions for health care needs",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -193,10 +222,10 @@
       "AI"
     ],
     "date": "Mon, 04 May 2026 13:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1777979309295_2",
+    "id": "rss_Wired_1777986254078_3",
     "title": "Disneyland Now Uses Face Recognition on Visitors",
     "category": "ai-news",
     "source": "Wired",
@@ -207,7 +236,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777979306892_3",
+    "id": "rss_MIT_Tech_Review_1777986251850_4",
     "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -218,10 +247,10 @@
       "OpenAI"
     ],
     "date": "Fri, 01 May 2026 22:08:19 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1777979309295_3",
+    "id": "rss_Wired_1777986254078_4",
     "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
     "category": "ai-news",
     "source": "Wired",
@@ -236,34 +265,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1777979306893_4",
-    "title": "Cyber-Insecurity in the AI Era",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethoug",
-    "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 01 May 2026 15:54:01 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1777979309295_4",
-    "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
-    "link": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Fri, 01 May 2026 00:51:18 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Distill_1777979318061_0",
+    "id": "rss_Distill_1777986262442_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -276,7 +278,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777979318061_1",
+    "id": "rss_Distill_1777986262443_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -289,7 +291,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777979318061_2",
+    "id": "rss_Distill_1777986262443_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -300,7 +302,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1777979318061_3",
+    "id": "rss_Distill_1777986262443_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -310,10 +312,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1777979318061_4",
+    "id": "rss_Distill_1777986262443_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
