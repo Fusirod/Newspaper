@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1778095029366_0",
+    "id": "arxiv_1778101228446_0",
     "name": "A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification",
     "category": "machine-learning",
     "description": "We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth;...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Sushovan Majhi, Atish Mitra, Žiga Virk et al."
   },
   {
-    "id": "arxiv_1778095029298_0",
+    "id": "arxiv_1778101223520_0",
     "name": "Audio-Visual Intelligence in Large Foundation Models",
     "category": "computer-vision",
     "description": "Audio-Visual Intelligence (AVI) has emerged as a central frontier in artificial intelligence, bridging auditory and visual modalities to enable machines that can perceive, generate, and interact in th...",
@@ -29,7 +29,7 @@
     "source": "arXiv - You Qin, Kai Liu, Shengqiong Wu et al."
   },
   {
-    "id": "arxiv_1778095029298_1",
+    "id": "arxiv_1778101223520_1",
     "name": "UniCorrn: Unified Correspondence Transformer Across 2D and 3D",
     "category": "computer-vision",
     "description": "Visual correspondence across image-to-image (2D-2D), image-to-point cloud (2D-3D), and point cloud-to-point cloud (3D-3D) geometric matching forms the foundation for numerous 3D vision tasks. Despite ...",
@@ -44,7 +44,7 @@
     "source": "arXiv - Prajnan Goswami, Tianye Ding, Feng Liu et al."
   },
   {
-    "id": "arxiv_1778095029298_2",
+    "id": "arxiv_1778101223521_2",
     "name": "Large Language Models are Universal Reasoners for Visual Generation",
     "category": "computer-vision",
     "description": "Text-to-image generation has advanced rapidly with diffusion models, progressing from CLIP and T5 conditioning to unified systems where a single LLM backbone handles both visual understanding and gene...",
@@ -56,11 +56,11 @@
       "Diffusion"
     ],
     "date": "2026-05-05T17:57:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sucheng Ren, Chen Chen, Zhenbang Wang et al."
   },
   {
-    "id": "arxiv_1778095029084_0",
+    "id": "arxiv_1778101221210_0",
     "name": "Safety and accuracy follow different scaling laws in clinical large language models",
     "category": "ai",
     "description": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. Thi...",
@@ -70,11 +70,11 @@
       "LLM"
     ],
     "date": "2026-05-05T17:57:19Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Sebastian Wind, Tri-Thien Nguyen, Jeta Sopa et al."
   },
   {
-    "id": "arxiv_1778095029366_1",
+    "id": "arxiv_1778101228446_1",
     "name": "Safety and accuracy follow different scaling laws in clinical large language models",
     "category": "machine-learning",
     "description": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. Thi...",
@@ -84,11 +84,11 @@
       "LLM"
     ],
     "date": "2026-05-05T17:57:19Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sebastian Wind, Tri-Thien Nguyen, Jeta Sopa et al."
   },
   {
-    "id": "arxiv_1778095029626_0",
+    "id": "arxiv_1778101230373_0",
     "name": "Safety and accuracy follow different scaling laws in clinical large language models",
     "category": "nlp",
     "description": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. Thi...",
@@ -102,24 +102,9 @@
     "source": "arXiv - Sebastian Wind, Tri-Thien Nguyen, Jeta Sopa et al."
   },
   {
-    "id": "arxiv_1778095029085_1",
+    "id": "arxiv_1778101221210_1",
     "name": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
     "category": "ai",
-    "description": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry reci...",
-    "link": "http://arxiv.org/abs/2605.04036v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-05-05T17:55:25Z",
-    "trending": true,
-    "source": "arXiv - Yuwen Du, Rui Ye, Shuo Tang et al."
-  },
-  {
-    "id": "arxiv_1778095029626_1",
-    "name": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
-    "category": "nlp",
     "description": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry reci...",
     "link": "http://arxiv.org/abs/2605.04036v1",
     "tags": [
@@ -132,7 +117,22 @@
     "source": "arXiv - Yuwen Du, Rui Ye, Shuo Tang et al."
   },
   {
-    "id": "arxiv_1778095029298_3",
+    "id": "arxiv_1778101230374_1",
+    "name": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
+    "category": "nlp",
+    "description": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry reci...",
+    "link": "http://arxiv.org/abs/2605.04036v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-05-05T17:55:25Z",
+    "trending": true,
+    "source": "arXiv - Yuwen Du, Rui Ye, Shuo Tang et al."
+  },
+  {
+    "id": "arxiv_1778101223521_3",
     "name": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
     "category": "computer-vision",
     "description": "We propose HeadsUp, a scalable feed-forward method for reconstructing high-quality 3D Gaussian heads from large-scale multi-camera setups. Our method employs an efficient encoder-decoder architecture ...",
@@ -142,11 +142,11 @@
       "Optimization"
     ],
     "date": "2026-05-05T17:55:01Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Evangelos Ntavelis, Sean Wu, Mohamad Shahbazi et al."
   },
   {
-    "id": "arxiv_1778095029366_2",
+    "id": "arxiv_1778101228446_2",
     "name": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
     "category": "machine-learning",
     "description": "We propose HeadsUp, a scalable feed-forward method for reconstructing high-quality 3D Gaussian heads from large-scale multi-camera setups. Our method employs an efficient encoder-decoder architecture ...",
@@ -160,7 +160,7 @@
     "source": "arXiv - Evangelos Ntavelis, Sean Wu, Mohamad Shahbazi et al."
   },
   {
-    "id": "arxiv_1778095029085_2",
+    "id": "arxiv_1778101221210_2",
     "name": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
     "category": "ai",
     "description": "AI systems are entering critical domains like healthcare, finance, and defense, yet remain vulnerable to adversarial attacks. While AI red teaming is a primary defense, current approaches force operat...",
@@ -169,11 +169,11 @@
       "AI"
     ],
     "date": "2026-05-05T17:43:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Raja Sekhar Rao Dheekonda, Will Pearce, Nick Landers"
   },
   {
-    "id": "arxiv_1778095029626_2",
+    "id": "arxiv_1778101230374_2",
     "name": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
     "category": "nlp",
     "description": "Reasoning-intensive retrieval aims to surface evidence that supports downstream reasoning rather than merely matching topical similarity. This capability is increasingly important for agentic search s...",
@@ -182,11 +182,11 @@
       "AI"
     ],
     "date": "2026-05-05T17:42:50Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yilun Zhao, Jinbiao Wei, Tingyu Song et al."
   },
   {
-    "id": "arxiv_1778095029366_3",
+    "id": "arxiv_1778101228446_3",
     "name": "Conditional Diffusion Sampling",
     "category": "machine-learning",
     "description": "Sampling from unnormalized multimodal distributions with limited density evaluations remains a fundamental challenge in machine learning and natural sciences. Successful approaches construct a bridge ...",
@@ -202,7 +202,7 @@
     "source": "arXiv - Francisco M. Castro-Macías, Pablo Morales-Álvarez, Saifuddin Syed et al."
   },
   {
-    "id": "arxiv_1778095029085_3",
+    "id": "arxiv_1778101221211_3",
     "name": "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment",
     "category": "ai",
     "description": "Language models excel at diagnostic assessments on currated medical case-studies and vignettes, performing on par with, or better than, clinical professionals. However, existing studies focus on compl...",
@@ -212,11 +212,11 @@
       "LLM"
     ],
     "date": "2026-05-05T17:36:12Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Joseph Breda, Fadi Yousif, Beszel Hawkins et al."
   },
   {
-    "id": "arxiv_1778095029298_4",
+    "id": "arxiv_1778101223521_4",
     "name": "Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training",
     "category": "computer-vision",
     "description": "A brain tumor is a medical disorder faced by individuals of all demographics. Medically, it is described as the spread of non-essential cells close to or throughout the brain. Symptoms of this ailment...",
@@ -229,7 +229,7 @@
     "source": "arXiv - Adwaitt Pandya, Ozioma C. Oguine, Harita Bhargava et al."
   },
   {
-    "id": "arxiv_1778095029366_4",
+    "id": "arxiv_1778101228446_4",
     "name": "Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training",
     "category": "machine-learning",
     "description": "A brain tumor is a medical disorder faced by individuals of all demographics. Medically, it is described as the spread of non-essential cells close to or throughout the brain. Symptoms of this ailment...",
@@ -238,11 +238,11 @@
       "AI"
     ],
     "date": "2026-05-05T17:30:17Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Adwaitt Pandya, Ozioma C. Oguine, Harita Bhargava et al."
   },
   {
-    "id": "arxiv_1778095029085_4",
+    "id": "arxiv_1778101221211_4",
     "name": "Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing",
     "category": "ai",
     "description": "High-precision CNC machining of free-form aerospace components requires bounded compensations informed by inspection, simulation, and process knowledge. Off-the-shelf large language model (LLM) assist...",
@@ -256,7 +256,7 @@
     "source": "arXiv - Danny Hoang, Ryan Matthiessen, Christopher Miller et al."
   },
   {
-    "id": "arxiv_1778095029626_3",
+    "id": "arxiv_1778101230374_3",
     "name": "EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage",
     "category": "nlp",
     "description": "Emergency department triage assigns patients an acuity score that determines treatment priority, and clinical evidence documents persistent gender disparities in human acuity assessment. As hospitals ...",
@@ -271,7 +271,7 @@
     "source": "arXiv - Richard J. Young, Alice M. Matthews"
   },
   {
-    "id": "arxiv_1778095029626_4",
+    "id": "arxiv_1778101230374_4",
     "name": "Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments",
     "category": "nlp",
     "description": "Large Language Models (LLMs) are prone to factual hallucinations, risking their reliability in real-world applications. Existing hallucination detectors mainly extract micro-level intrinsic patterns f...",
