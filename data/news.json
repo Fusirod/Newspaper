@@ -1,6 +1,85 @@
 [
   {
-    "id": "rss_Ars_Technica_1778087950353_0",
+    "id": "rss_Wired_1778095034365_0",
+    "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
+    "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 06 May 2026 18:28:52 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1778095029803_0",
+    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI. ",
+    "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Startup"
+    ],
+    "date": "Wed, 06 May 2026 18:23:54 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1778095034365_1",
+    "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
+    "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 06 May 2026 18:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1778095029803_1",
+    "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+    "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+    "tags": [],
+    "date": "Wed, 06 May 2026 17:23:08 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1778095029803_2",
+    "title": "DeepSeek could hit $45B valuation from its first investment round",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic. ",
+    "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 06 May 2026 17:20:34 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1778095033333_0",
+    "title": "Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Anyone who buys into SpaceX IPO must waive right to sue the firm, report says.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/05/report-spacex-ipo-gives-musk-unchecked-power-and-forbids-investor-lawsuits/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 06 May 2026 17:20:06 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1778095033333_1",
     "title": "Google DeepMind partners with EVE Online for AI model testing",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -14,7 +93,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778087951506_0",
+    "id": "rss_Wired_1778095034365_2",
     "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
     "category": "ai-news",
     "source": "Wired",
@@ -27,7 +106,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1778087950353_1",
+    "id": "rss_Ars_Technica_1778095033333_2",
     "title": "The animated version of the iconic \"Hello, world\" image reveals striking new details",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -37,10 +116,10 @@
       "AI"
     ],
     "date": "Wed, 06 May 2026 16:42:30 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1778087950353_2",
+    "id": "rss_Ars_Technica_1778095033333_3",
     "title": "FDA vaccine studies censored by Trump admin after finding benefits of shots",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -48,22 +127,22 @@
     "link": "https://arstechnica.com/health/2026/05/trump-admin-censors-more-studies-conflicting-with-rfk-jr-s-anti-vaccine-views/",
     "tags": [],
     "date": "Wed, 06 May 2026 16:19:58 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1778087950353_3",
+    "id": "rss_Ars_Technica_1778095033333_4",
     "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of",
     "category": "ai-news",
     "source": "Ars Technica",
-    "description": "\n                        Also, rate limits will double for Pro and Max users of tools like Claude Code.\n                    ",
+    "description": "\n                        Also, 5-hour usage limits will double for Pro and Max users of Claude Code.\n                    ",
     "link": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
     "tags": [],
     "date": "Wed, 06 May 2026 16:15:27 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1778087946741_0",
-    "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
+    "id": "rss_TechCrunch_1778095029803_3",
+    "title": "Google updates AI search to include quotes from Reddit and other sources",
     "category": "ai-news",
     "source": "TechCrunch",
     "description": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
@@ -76,7 +155,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778087951506_1",
+    "id": "rss_Wired_1778095034365_3",
     "title": "Hackers Hate AI Slop Even More Than You Do",
     "category": "ai-news",
     "source": "Wired",
@@ -86,10 +165,10 @@
       "AI"
     ],
     "date": "Wed, 06 May 2026 15:49:12 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1778087946741_1",
+    "id": "rss_TechCrunch_1778095029803_4",
     "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -101,63 +180,10 @@
       "Startup"
     ],
     "date": "Wed, 06 May 2026 15:46:38 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1778087950353_4",
-    "title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Up to 3x the speed with no loss of quality—is it too good to be true?\n                    ",
-    "link": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Wed, 06 May 2026 15:44:20 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1778087946741_2",
-    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\" ",
-    "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 06 May 2026 15:27:36 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1778087946741_3",
-    "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
-    "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 06 May 2026 15:12:49 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1778087946741_4",
-    "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Ethos says it is onboarding 35,000 experts per week.",
-    "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 06 May 2026 15:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1778087949086_0",
+    "id": "rss_MIT_Tech_Review_1778095031950_0",
     "title": "The Download: seafloor science and military chatbots",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -168,10 +194,10 @@
       "Chatbot"
     ],
     "date": "Wed, 06 May 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1778087951506_2",
+    "id": "rss_Wired_1778095034365_4",
     "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri’s AI Features",
     "category": "ai-news",
     "source": "Wired",
@@ -184,34 +210,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778087951506_3",
-    "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
-    "link": "https://www.wired.com/story/hasan-piker-user-behavior/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 06 May 2026 10:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1778087951506_4",
-    "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk in 2017 and subsequent efforts to remove several board members.",
-    "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Tue, 05 May 2026 23:24:58 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1778087949086_1",
+    "id": "rss_MIT_Tech_Review_1778095031951_1",
     "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -224,7 +223,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778087949086_2",
+    "id": "rss_MIT_Tech_Review_1778095031951_2",
     "title": "A blueprint for using AI to strengthen democracy",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -234,10 +233,10 @@
       "AI"
     ],
     "date": "Tue, 05 May 2026 09:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778087949086_3",
+    "id": "rss_MIT_Tech_Review_1778095031951_3",
     "title": "Week one of the Musk v. Altman trial: What it was like in the room",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -251,7 +250,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778087949086_4",
+    "id": "rss_MIT_Tech_Review_1778095031951_4",
     "title": "Tailoring AI solutions for health care needs",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -261,10 +260,10 @@
       "AI"
     ],
     "date": "Mon, 04 May 2026 13:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1778087960842_0",
+    "id": "rss_Distill_1778095042215_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -274,10 +273,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1778087960842_1",
+    "id": "rss_Distill_1778095042215_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -290,7 +289,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1778087960842_2",
+    "id": "rss_Distill_1778095042215_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -301,7 +300,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1778087960842_3",
+    "id": "rss_Distill_1778095042215_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -314,7 +313,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1778087960842_4",
+    "id": "rss_Distill_1778095042216_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
