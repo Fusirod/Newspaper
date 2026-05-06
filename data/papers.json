@@ -1,72 +1,288 @@
 [
   {
-    "id": "arxiv_1778030789388_0",
-    "name": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
-    "category": "ai",
-    "description": "Speculative decoding accelerates large language model (LLM) inference by using a small draft model to propose candidate tokens that a larger target model verifies. A critical hyperparameter in this pr...",
-    "link": "http://arxiv.org/abs/2605.02888v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-04T17:55:05Z",
-    "trending": false,
-    "source": "arXiv - Shikhar Shukla"
-  },
-  {
-    "id": "arxiv_1778030789388_1",
-    "name": "Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters",
-    "category": "ai",
-    "description": "Despite significant advances in Reinforcement Learning (RL), model performance remains highly sensitive to algorithm and hyperparameter configurations, while generalization gaps across environments co...",
-    "link": "http://arxiv.org/abs/2605.02867v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning",
-      "Robotics"
-    ],
-    "date": "2026-05-04T17:41:04Z",
-    "trending": true,
-    "source": "arXiv - Lingxiao Kong, Cong Yang, Oya Deniz Beyan et al."
-  },
-  {
-    "id": "arxiv_1778030789388_2",
-    "name": "Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection",
-    "category": "ai",
-    "description": "Cross-language code clone detection (X-CCD) is challenging because semantically equivalent programs written in different languages often share little surface similarity. Although large language models...",
-    "link": "http://arxiv.org/abs/2605.02860v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-04T17:37:16Z",
-    "trending": false,
-    "source": "arXiv - Mohamad Khajezade, Fatemeh H. Fard, Mohamed Sami Shehata"
-  },
-  {
-    "id": "arxiv_1778030789388_3",
-    "name": "From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications",
-    "category": "ai",
-    "description": "Scientists increasingly rely on sensor-based data, yet transforming raw streams into insights across the edge-to-cloud continuum remains difficult. Provisioning heterogeneous infrastructure and managi...",
-    "link": "http://arxiv.org/abs/2605.02859v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-04T17:36:42Z",
-    "trending": false,
-    "source": "arXiv - Komal Thareja, Anirban Mandal, Ewa Deelman"
-  },
-  {
-    "id": "arxiv_1778030789388_4",
-    "name": "(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications",
-    "category": "ai",
-    "description": "Scientists increasingly rely on sensor-based data; however transforming raw streams into insights across the edge-to-cloud continuum remains difficult due to the breadth of expertise required to coord...",
-    "link": "http://arxiv.org/abs/2605.02844v1",
+    "id": "arxiv_1778044624888_0",
+    "name": "A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification",
+    "category": "machine-learning",
+    "description": "We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth;...",
+    "link": "http://arxiv.org/abs/2605.04046v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-05-04T17:21:37Z",
+    "date": "2026-05-05T17:59:18Z",
+    "trending": false,
+    "source": "arXiv - Sushovan Majhi, Atish Mitra, Žiga Virk et al."
+  },
+  {
+    "id": "arxiv_1778044624685_0",
+    "name": "Audio-Visual Intelligence in Large Foundation Models",
+    "category": "computer-vision",
+    "description": "Audio-Visual Intelligence (AVI) has emerged as a central frontier in artificial intelligence, bridging auditory and visual modalities to enable machines that can perceive, generate, and interact in th...",
+    "link": "http://arxiv.org/abs/2605.04045v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion",
+      "Optimization"
+    ],
+    "date": "2026-05-05T17:59:16Z",
     "trending": true,
-    "source": "arXiv - Komal Thareja, Anirban Mandal, Ewa Deelman"
+    "source": "arXiv - You Qin, Kai Liu, Shengqiong Wu et al."
+  },
+  {
+    "id": "arxiv_1778044624685_1",
+    "name": "UniCorrn: Unified Correspondence Transformer Across 2D and 3D",
+    "category": "computer-vision",
+    "description": "Visual correspondence across image-to-image (2D-2D), image-to-point cloud (2D-3D), and point cloud-to-point cloud (3D-3D) geometric matching forms the foundation for numerous 3D vision tasks. Despite ...",
+    "link": "http://arxiv.org/abs/2605.04044v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-05-05T17:58:53Z",
+    "trending": true,
+    "source": "arXiv - Prajnan Goswami, Tianye Ding, Feng Liu et al."
+  },
+  {
+    "id": "arxiv_1778044624685_2",
+    "name": "Large Language Models are Universal Reasoners for Visual Generation",
+    "category": "computer-vision",
+    "description": "Text-to-image generation has advanced rapidly with diffusion models, progressing from CLIP and T5 conditioning to unified systems where a single LLM backbone handles both visual understanding and gene...",
+    "link": "http://arxiv.org/abs/2605.04040v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Diffusion"
+    ],
+    "date": "2026-05-05T17:57:36Z",
+    "trending": true,
+    "source": "arXiv - Sucheng Ren, Chen Chen, Zhenbang Wang et al."
+  },
+  {
+    "id": "arxiv_1778044624464_0",
+    "name": "Safety and accuracy follow different scaling laws in clinical large language models",
+    "category": "ai",
+    "description": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. Thi...",
+    "link": "http://arxiv.org/abs/2605.04039v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-05T17:57:19Z",
+    "trending": false,
+    "source": "arXiv - Sebastian Wind, Tri-Thien Nguyen, Jeta Sopa et al."
+  },
+  {
+    "id": "arxiv_1778044624889_1",
+    "name": "Safety and accuracy follow different scaling laws in clinical large language models",
+    "category": "machine-learning",
+    "description": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. Thi...",
+    "link": "http://arxiv.org/abs/2605.04039v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-05T17:57:19Z",
+    "trending": true,
+    "source": "arXiv - Sebastian Wind, Tri-Thien Nguyen, Jeta Sopa et al."
+  },
+  {
+    "id": "arxiv_1778044625080_0",
+    "name": "Safety and accuracy follow different scaling laws in clinical large language models",
+    "category": "nlp",
+    "description": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. Thi...",
+    "link": "http://arxiv.org/abs/2605.04039v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-05T17:57:19Z",
+    "trending": false,
+    "source": "arXiv - Sebastian Wind, Tri-Thien Nguyen, Jeta Sopa et al."
+  },
+  {
+    "id": "arxiv_1778044624464_1",
+    "name": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
+    "category": "ai",
+    "description": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry reci...",
+    "link": "http://arxiv.org/abs/2605.04036v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-05-05T17:55:25Z",
+    "trending": false,
+    "source": "arXiv - Yuwen Du, Rui Ye, Shuo Tang et al."
+  },
+  {
+    "id": "arxiv_1778044625080_1",
+    "name": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
+    "category": "nlp",
+    "description": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry reci...",
+    "link": "http://arxiv.org/abs/2605.04036v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-05-05T17:55:25Z",
+    "trending": false,
+    "source": "arXiv - Yuwen Du, Rui Ye, Shuo Tang et al."
+  },
+  {
+    "id": "arxiv_1778044624685_3",
+    "name": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
+    "category": "computer-vision",
+    "description": "We propose HeadsUp, a scalable feed-forward method for reconstructing high-quality 3D Gaussian heads from large-scale multi-camera setups. Our method employs an efficient encoder-decoder architecture ...",
+    "link": "http://arxiv.org/abs/2605.04035v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-05-05T17:55:01Z",
+    "trending": false,
+    "source": "arXiv - Evangelos Ntavelis, Sean Wu, Mohamad Shahbazi et al."
+  },
+  {
+    "id": "arxiv_1778044624889_2",
+    "name": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
+    "category": "machine-learning",
+    "description": "We propose HeadsUp, a scalable feed-forward method for reconstructing high-quality 3D Gaussian heads from large-scale multi-camera setups. Our method employs an efficient encoder-decoder architecture ...",
+    "link": "http://arxiv.org/abs/2605.04035v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-05-05T17:55:01Z",
+    "trending": false,
+    "source": "arXiv - Evangelos Ntavelis, Sean Wu, Mohamad Shahbazi et al."
+  },
+  {
+    "id": "arxiv_1778044624464_2",
+    "name": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
+    "category": "ai",
+    "description": "AI systems are entering critical domains like healthcare, finance, and defense, yet remain vulnerable to adversarial attacks. While AI red teaming is a primary defense, current approaches force operat...",
+    "link": "http://arxiv.org/abs/2605.04019v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-05T17:43:52Z",
+    "trending": false,
+    "source": "arXiv - Raja Sekhar Rao Dheekonda, Will Pearce, Nick Landers"
+  },
+  {
+    "id": "arxiv_1778044625080_2",
+    "name": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
+    "category": "nlp",
+    "description": "Reasoning-intensive retrieval aims to surface evidence that supports downstream reasoning rather than merely matching topical similarity. This capability is increasingly important for agentic search s...",
+    "link": "http://arxiv.org/abs/2605.04018v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-05T17:42:50Z",
+    "trending": false,
+    "source": "arXiv - Yilun Zhao, Jinbiao Wei, Tingyu Song et al."
+  },
+  {
+    "id": "arxiv_1778044624889_3",
+    "name": "Conditional Diffusion Sampling",
+    "category": "machine-learning",
+    "description": "Sampling from unnormalized multimodal distributions with limited density evaluations remains a fundamental challenge in machine learning and natural sciences. Successful approaches construct a bridge ...",
+    "link": "http://arxiv.org/abs/2605.04013v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Machine Learning",
+      "Diffusion"
+    ],
+    "date": "2026-05-05T17:36:29Z",
+    "trending": false,
+    "source": "arXiv - Francisco M. Castro-Macías, Pablo Morales-Álvarez, Saifuddin Syed et al."
+  },
+  {
+    "id": "arxiv_1778044624464_3",
+    "name": "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment",
+    "category": "ai",
+    "description": "Language models excel at diagnostic assessments on currated medical case-studies and vignettes, performing on par with, or better than, clinical professionals. However, existing studies focus on compl...",
+    "link": "http://arxiv.org/abs/2605.04012v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-05T17:36:12Z",
+    "trending": false,
+    "source": "arXiv - Joseph Breda, Fadi Yousif, Beszel Hawkins et al."
+  },
+  {
+    "id": "arxiv_1778044624685_4",
+    "name": "Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training",
+    "category": "computer-vision",
+    "description": "A brain tumor is a medical disorder faced by individuals of all demographics. Medically, it is described as the spread of non-essential cells close to or throughout the brain. Symptoms of this ailment...",
+    "link": "http://arxiv.org/abs/2605.04008v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-05T17:30:17Z",
+    "trending": false,
+    "source": "arXiv - Adwaitt Pandya, Ozioma C. Oguine, Harita Bhargava et al."
+  },
+  {
+    "id": "arxiv_1778044624889_4",
+    "name": "Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training",
+    "category": "machine-learning",
+    "description": "A brain tumor is a medical disorder faced by individuals of all demographics. Medically, it is described as the spread of non-essential cells close to or throughout the brain. Symptoms of this ailment...",
+    "link": "http://arxiv.org/abs/2605.04008v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-05T17:30:17Z",
+    "trending": false,
+    "source": "arXiv - Adwaitt Pandya, Ozioma C. Oguine, Harita Bhargava et al."
+  },
+  {
+    "id": "arxiv_1778044624464_4",
+    "name": "Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing",
+    "category": "ai",
+    "description": "High-precision CNC machining of free-form aerospace components requires bounded compensations informed by inspection, simulation, and process knowledge. Off-the-shelf large language model (LLM) assist...",
+    "link": "http://arxiv.org/abs/2605.04003v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-05T17:24:53Z",
+    "trending": true,
+    "source": "arXiv - Danny Hoang, Ryan Matthiessen, Christopher Miller et al."
+  },
+  {
+    "id": "arxiv_1778044625080_3",
+    "name": "EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage",
+    "category": "nlp",
+    "description": "Emergency department triage assigns patients an acuity score that determines treatment priority, and clinical evidence documents persistent gender disparities in human acuity assessment. As hospitals ...",
+    "link": "http://arxiv.org/abs/2605.03998v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "GPT"
+    ],
+    "date": "2026-05-05T17:20:55Z",
+    "trending": false,
+    "source": "arXiv - Richard J. Young, Alice M. Matthews"
+  },
+  {
+    "id": "arxiv_1778044625080_4",
+    "name": "Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments",
+    "category": "nlp",
+    "description": "Large Language Models (LLMs) are prone to factual hallucinations, risking their reliability in real-world applications. Existing hallucination detectors mainly extract micro-level intrinsic patterns f...",
+    "link": "http://arxiv.org/abs/2605.03971v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "LLM"
+    ],
+    "date": "2026-05-05T16:53:20Z",
+    "trending": false,
+    "source": "arXiv - Hao Mi, Qiang Sheng, Shaofei Wang et al."
   }
 ]
