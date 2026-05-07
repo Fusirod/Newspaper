@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1778181713223_0",
+    "id": "arxiv_1778187295306_0",
     "name": "Syn4D: A Multiview Synthetic 4D Dataset",
     "category": "computer-vision",
     "description": "Dense 3D reconstruction and tracking of dynamic scenes from monocular video remains an important open challenge in computer vision. Progress in this area has been constrained by the scarcity of high-q...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Zeren Jiang, Yushi Lan, Yihang Luo et al."
   },
   {
-    "id": "arxiv_1778181713159_0",
+    "id": "arxiv_1778187295232_0",
     "name": "Taming Outlier Tokens in Diffusion Transformers",
     "category": "ai",
     "description": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract dispropo...",
@@ -30,7 +30,7 @@
     "source": "arXiv - Xiaoyu Wu, Yifei Wang, Tsu-Jui Fu et al."
   },
   {
-    "id": "arxiv_1778181713223_1",
+    "id": "arxiv_1778187295306_1",
     "name": "Taming Outlier Tokens in Diffusion Transformers",
     "category": "computer-vision",
     "description": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract dispropo...",
@@ -42,11 +42,11 @@
       "Diffusion"
     ],
     "date": "2026-05-06T17:59:42Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Xiaoyu Wu, Yifei Wang, Tsu-Jui Fu et al."
   },
   {
-    "id": "arxiv_1778181720751_0",
+    "id": "arxiv_1778187295374_0",
     "name": "Taming Outlier Tokens in Diffusion Transformers",
     "category": "machine-learning",
     "description": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract dispropo...",
@@ -62,7 +62,7 @@
     "source": "arXiv - Xiaoyu Wu, Yifei Wang, Tsu-Jui Fu et al."
   },
   {
-    "id": "arxiv_1778181713223_2",
+    "id": "arxiv_1778187295306_2",
     "name": "D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models",
     "category": "computer-vision",
     "description": "The landscape of high-performance image generation models is currently shifting from the inefficient multi-step ones to the efficient few-step counterparts (e.g, Z-Image-Turbo and FLUX.2-klein). Howev...",
@@ -78,7 +78,7 @@
     "source": "arXiv - Dengyang Jiang, Xin Jin, Dongyang Liu et al."
   },
   {
-    "id": "arxiv_1778181720812_0",
+    "id": "arxiv_1778187295441_0",
     "name": "Implicit Representations of Grammaticality in Language Models",
     "category": "nlp",
     "description": "Grammaticality and likelihood are distinct notions in human language. Pretrained language models (LMs), which are probabilistic models of language fitted to maximize corpus likelihood, generate gramma...",
@@ -91,7 +91,7 @@
     "source": "arXiv - Yingshan Susan Wang, Linlu Qiu, Zhaofeng Wu et al."
   },
   {
-    "id": "arxiv_1778181713159_1",
+    "id": "arxiv_1778187295232_1",
     "name": "Grokability in five inequalities",
     "category": "ai",
     "description": "In this note, we report five mathematical discoveries made in collaboration with Grok, all of which have been subsequently verified by the authors. These include an improved lower bound on the maximal...",
@@ -100,11 +100,11 @@
       "AI"
     ],
     "date": "2026-05-06T17:55:15Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Paata Ivanisvili, Xinyuan Xie"
   },
   {
-    "id": "arxiv_1778181713159_2",
+    "id": "arxiv_1778187295232_2",
     "name": "Almost-Orthogonality in Lp Spaces: A Case Study with Grok",
     "category": "ai",
     "description": "Carbery proposed the following sharpened form of triangle inequality for many functions: for any $p\\ge 2$ and any finite sequence $(f_j)_j\\subset L^p$ we have \\[ \\Big\\|\\sum_j f_j\\Big\\|_p \\ \\le\\ \\left(...",
@@ -113,11 +113,11 @@
       "AI"
     ],
     "date": "2026-05-06T17:54:51Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ziang Chen, Jaume de Dios Pont, Paata Ivanisvili et al."
   },
   {
-    "id": "arxiv_1778181713159_3",
+    "id": "arxiv_1778187295232_3",
     "name": "LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents",
     "category": "ai",
     "description": "Long-horizon search agents must manage a rapidly growing working context as they reason, call tools, and observe information. Naively accumulating all intermediate content can overwhelm the agent, inc...",
@@ -130,7 +130,7 @@
     "source": "arXiv - Yijun Lu, Rui Ye, Yuwen Du et al."
   },
   {
-    "id": "arxiv_1778181720751_1",
+    "id": "arxiv_1778187295374_1",
     "name": "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to Listwise Retrieval",
     "category": "machine-learning",
     "description": "How many key-value associations can a $d\\times d$ linear memory store? We show that the answer depends not only on the $d^2$ degrees of freedom in the memory matrix, but also on the retrieval criterio...",
@@ -139,11 +139,11 @@
       "AI"
     ],
     "date": "2026-05-06T17:53:20Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Nicholas Barnfield, Juno Kim, Eshaan Nichani et al."
   },
   {
-    "id": "arxiv_1778181713223_3",
+    "id": "arxiv_1778187295306_3",
     "name": "LoViF 2026 The First Challenge on Holistic Quality Assessment for 4D World Model (PhyScore)",
     "category": "computer-vision",
     "description": "This paper reports on the LoViF 2026 PhyScore challenge, a competition on holistic quality assessment of world-model-generated videos across both 2D and 4D generation settings. The challenge is motiva...",
@@ -157,7 +157,7 @@
     "source": "arXiv - Wei Luo, Yiting Lu, Xin Li et al."
   },
   {
-    "id": "arxiv_1778181713223_4",
+    "id": "arxiv_1778187295306_4",
     "name": "OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents",
     "category": "computer-vision",
     "description": "Deep search has become a crucial capability for frontier multimodal agents, enabling models to solve complex questions through active search, evidence verification, and multi-step reasoning. Despite r...",
@@ -171,7 +171,7 @@
     "source": "arXiv - Shuang Chen, Kaituo Feng, Hangting Chen et al."
   },
   {
-    "id": "arxiv_1778181720751_2",
+    "id": "arxiv_1778187295374_2",
     "name": "Estimating the expected output of wide random MLPs more efficiently than sampling",
     "category": "machine-learning",
     "description": "By far the most common way to estimate an expected loss in machine learning is to draw samples, compute the loss on each one, and take the empirical average. However, sampling is not necessarily optim...",
@@ -185,7 +185,7 @@
     "source": "arXiv - Wilson Wu, Victor Lecomte, Michael Winer et al."
   },
   {
-    "id": "arxiv_1778181720751_3",
+    "id": "arxiv_1778187295374_3",
     "name": "Understanding In-Context Learning for Nonlinear Regression with Transformers: Attention as Featurizer",
     "category": "machine-learning",
     "description": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-context learning (ICL). Despite its demonstrated ef...",
@@ -199,7 +199,7 @@
     "source": "arXiv - Alexander Hsu, Zhaiming Shen, Wenjing Liao et al."
   },
   {
-    "id": "arxiv_1778181720812_1",
+    "id": "arxiv_1778187295441_1",
     "name": "MRI-Eval: A Tiered Benchmark for Evaluating LLM Performance on MRI Physics and GE Scanner Operations Knowledge",
     "category": "nlp",
     "description": "Background: Existing MRI LLM benchmarks rely mainly on review-book multiple-choice questions, where top proprietary models already score highly, limiting discrimination. No systematic benchmark has ev...",
@@ -210,11 +210,11 @@
       "GPT"
     ],
     "date": "2026-05-06T17:42:01Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Perry E. Radau"
   },
   {
-    "id": "arxiv_1778181713159_4",
+    "id": "arxiv_1778187295233_4",
     "name": "When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning",
     "category": "ai",
     "description": "Behavior Cloning (BC) has emerged as a highly effective paradigm for robot learning. However, BC lacks a self-guided mechanism for online improvement after demonstrations have been collected. Existing...",
@@ -224,11 +224,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-05-06T17:40:11Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Lakshita Dodeja, Ondrej Biza, Shivam Vats et al."
   },
   {
-    "id": "arxiv_1778181720812_2",
+    "id": "arxiv_1778187295441_2",
     "name": "The First Token Knows: Single-Decode Confidence for Hallucination Detection",
     "category": "nlp",
     "description": "Self-consistency detects hallucinations by generating multiple sampled answers to a question and measuring agreement, but this requires repeated decoding and can be sensitive to lexical variation. Sem...",
@@ -241,7 +241,7 @@
     "source": "arXiv - Mina Gabriel"
   },
   {
-    "id": "arxiv_1778181720751_4",
+    "id": "arxiv_1778187295374_4",
     "name": "PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble Gemma Models with Synthetic Data Augmentation",
     "category": "machine-learning",
     "description": "We present our system for SemEval-2026 Task 9: Multilingual Polarization Detection, a binary classification task spanning 22 languages. Our approach fine-tunes separate Gemma~3 models (12B and 27B par...",
@@ -253,11 +253,11 @@
       "BERT"
     ],
     "date": "2026-05-06T17:29:14Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Srikar Kashyap Pulipaka"
   },
   {
-    "id": "arxiv_1778181720812_3",
+    "id": "arxiv_1778187295441_3",
     "name": "PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble Gemma Models with Synthetic Data Augmentation",
     "category": "nlp",
     "description": "We present our system for SemEval-2026 Task 9: Multilingual Polarization Detection, a binary classification task spanning 22 languages. Our approach fine-tunes separate Gemma~3 models (12B and 27B par...",
@@ -273,7 +273,7 @@
     "source": "arXiv - Srikar Kashyap Pulipaka"
   },
   {
-    "id": "arxiv_1778181720812_4",
+    "id": "arxiv_1778187295441_4",
     "name": "Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction",
     "category": "nlp",
     "description": "Automated mental health prediction using textual data has shown promising results with deep learning and large language models. However, deploying these models in high-stakes real-world settings remai...",
@@ -283,7 +283,7 @@
       "Deep Learning"
     ],
     "date": "2026-05-06T16:49:17Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yucheng Ruan, Ling Huang, Qika Lin et al."
   }
 ]
