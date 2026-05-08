@@ -1,6 +1,148 @@
 [
   {
-    "id": "arxiv_1778197319278_0",
+    "id": "arxiv_1778204895948_0",
+    "name": "YEZE at SemEval-2026 Task 9: Detecting Multilingual, Multicultural and Multievent Online Polarization via Heterogeneous Ensembling",
+    "category": "nlp",
+    "description": "This paper presents our system for SemEval-2026 Task 9: Detecting Multilingual, Multicultural and Multievent Online Polarization, which identifies polarized social media content in 22 languages throug...",
+    "link": "http://arxiv.org/abs/2605.06231v1",
+    "tags": [
+      "AI",
+      "BERT"
+    ],
+    "date": "2026-05-07T13:21:40Z",
+    "trending": true,
+    "source": "arXiv - Fengze Guo, Yue Chang"
+  },
+  {
+    "id": "arxiv_1778204880290_0",
+    "name": "Safactory: A Scalable Agent Factory for Trustworthy Autonomous Intelligence",
+    "category": "ai",
+    "description": "As large models evolve from conversational assistants into autonomous agents, challenges increasingly arise from long-horizon decision making, tool use, and real environment interaction. Existing agen...",
+    "link": "http://arxiv.org/abs/2605.06230v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-05-07T13:21:15Z",
+    "trending": false,
+    "source": "arXiv - Xinquan Chen, Zhenyun Yin, Shan He et al."
+  },
+  {
+    "id": "arxiv_1778204880291_1",
+    "name": "Soft Deterministic Policy Gradient with Gaussian Smoothing",
+    "category": "ai",
+    "description": "Deterministic policy gradient (DPG) is widely utilized for continuous control; however, it inherently relies on the differentiability of the critic with respect to the action during policy updates. Th...",
+    "link": "http://arxiv.org/abs/2605.06228v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-05-07T13:21:01Z",
+    "trending": false,
+    "source": "arXiv - Hyunjun Na, Donghwan Lee"
+  },
+  {
+    "id": "arxiv_1778204880291_2",
+    "name": "Price of Fairness in Short-Term and Long-Term Algorithmic Selections",
+    "category": "ai",
+    "description": "Algorithmic decision-making in high-stakes settings can have profound impacts on individuals and populations. While much prior work studies fairness in static settings, recent results show that enforc...",
+    "link": "http://arxiv.org/abs/2605.06227v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-07T13:20:15Z",
+    "trending": false,
+    "source": "arXiv - Shahin Jabbari, Chen Wang"
+  },
+  {
+    "id": "arxiv_1778204880291_3",
+    "name": "A Versatile AI Agent for Rare Disease Diagnosis and Risk Gene Prioritization",
+    "category": "ai",
+    "description": "Accurate and timely diagnosis is essential for effective treatment, particularly in the context of rare diseases. However, current diagnostic workflows often lead to prolonged assessment times and low...",
+    "link": "http://arxiv.org/abs/2605.06226v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-07T13:19:42Z",
+    "trending": false,
+    "source": "arXiv - Tianyu Liu, Wangjie Zheng, Rui Yang et al."
+  },
+  {
+    "id": "arxiv_1778204880291_4",
+    "name": "Memory Inception: Latent-Space KV Cache Manipulation for Steering LLMs",
+    "category": "ai",
+    "description": "Steering large language models (LLMs) is usually done by either instruction prompting or activation steering. Prompting often gives strong control, but caches guidance tokens at every layer and can cl...",
+    "link": "http://arxiv.org/abs/2605.06225v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-07T13:19:33Z",
+    "trending": false,
+    "source": "arXiv - Andy Zeyi Liu, Michael Zhang, Ilana Greenberg et al."
+  },
+  {
+    "id": "arxiv_1778204895948_1",
+    "name": "UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification",
+    "category": "nlp",
+    "description": "As large language models (LLMs) continue to advance rapidly, they are becoming increasingly capable while simultaneously demanding ever-longer context lengths. To improve the inference efficiency of l...",
+    "link": "http://arxiv.org/abs/2605.06221v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-07T13:18:08Z",
+    "trending": true,
+    "source": "arXiv - Qihang Fan, Huaibo Huang, Zhiying Wu et al."
+  },
+  {
+    "id": "arxiv_1778204895948_2",
+    "name": "TIDE: Every Layer Knows the Token Beneath the Context",
+    "category": "nlp",
+    "description": "We revisit a universally accepted but under-examined design choice in every modern LLM: a token index is looked up once at the input embedding layer and then permanently discarded. This single-injecti...",
+    "link": "http://arxiv.org/abs/2605.06216v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "LLM"
+    ],
+    "date": "2026-05-07T13:16:18Z",
+    "trending": false,
+    "source": "arXiv - Ajay Jaiswal, Lauren Hannah, Han-Byul Kim et al."
+  },
+  {
+    "id": "arxiv_1778204895948_3",
+    "name": "Contrastive Identification and Generation in the Limit",
+    "category": "nlp",
+    "description": "In the classical identification in the limit model of Gold [1967], a stream of positive examples is presented round by round, and the learner must eventually recover the target hypothesis. Recently, K...",
+    "link": "http://arxiv.org/abs/2605.06211v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-07T13:14:51Z",
+    "trending": true,
+    "source": "arXiv - Xiaoyu Li, Andi Han, Jiaojiao Jiang et al."
+  },
+  {
+    "id": "arxiv_1778204895948_4",
+    "name": "A$^2$TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping",
+    "category": "nlp",
+    "description": "Reinforcement learning for agentic large language models (LLMs) typically relies on a sparse, trajectory-level outcome reward, making it difficult to evaluate the contribution of individual tool-calls...",
+    "link": "http://arxiv.org/abs/2605.06200v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-05-07T13:09:31Z",
+    "trending": true,
+    "source": "arXiv - Dingwei Chen, Zefang Zong, Zhipeng Ma et al."
+  },
+  {
+    "id": "arxiv_1778204895827_0",
     "name": "Syn4D: A Multiview Synthetic 4D Dataset",
     "category": "computer-vision",
     "description": "Dense 3D reconstruction and tracking of dynamic scenes from monocular video remains an important open challenge in computer vision. Progress in this area has been constrained by the scarcity of high-q...",
@@ -14,7 +156,7 @@
     "source": "arXiv - Zeren Jiang, Yushi Lan, Yihang Luo et al."
   },
   {
-    "id": "arxiv_1778197319278_1",
+    "id": "arxiv_1778204895828_1",
     "name": "Taming Outlier Tokens in Diffusion Transformers",
     "category": "computer-vision",
     "description": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract dispropo...",
@@ -30,23 +172,7 @@
     "source": "arXiv - Xiaoyu Wu, Yifei Wang, Tsu-Jui Fu et al."
   },
   {
-    "id": "arxiv_1778197335031_0",
-    "name": "Taming Outlier Tokens in Diffusion Transformers",
-    "category": "machine-learning",
-    "description": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract dispropo...",
-    "link": "http://arxiv.org/abs/2605.05206v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-05-06T17:59:42Z",
-    "trending": false,
-    "source": "arXiv - Xiaoyu Wu, Yifei Wang, Tsu-Jui Fu et al."
-  },
-  {
-    "id": "arxiv_1778197319279_2",
+    "id": "arxiv_1778204895828_2",
     "name": "D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models",
     "category": "computer-vision",
     "description": "The landscape of high-performance image generation models is currently shifting from the inefficient multi-step ones to the efficient few-step counterparts (e.g, Z-Image-Turbo and FLUX.2-klein). Howev...",
@@ -58,24 +184,11 @@
       "Diffusion"
     ],
     "date": "2026-05-06T17:59:34Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Dengyang Jiang, Xin Jin, Dongyang Liu et al."
   },
   {
-    "id": "arxiv_1778197335032_1",
-    "name": "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to Listwise Retrieval",
-    "category": "machine-learning",
-    "description": "How many key-value associations can a $d\\times d$ linear memory store? We show that the answer depends not only on the $d^2$ degrees of freedom in the memory matrix, but also on the retrieval criterio...",
-    "link": "http://arxiv.org/abs/2605.05189v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-06T17:53:20Z",
-    "trending": true,
-    "source": "arXiv - Nicholas Barnfield, Juno Kim, Eshaan Nichani et al."
-  },
-  {
-    "id": "arxiv_1778197319279_3",
+    "id": "arxiv_1778204895828_3",
     "name": "LoViF 2026 The First Challenge on Holistic Quality Assessment for 4D World Model (PhyScore)",
     "category": "computer-vision",
     "description": "This paper reports on the LoViF 2026 PhyScore challenge, a competition on holistic quality assessment of world-model-generated videos across both 2D and 4D generation settings. The challenge is motiva...",
@@ -85,11 +198,11 @@
       "GAN"
     ],
     "date": "2026-05-06T17:52:39Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Wei Luo, Yiting Lu, Xin Li et al."
   },
   {
-    "id": "arxiv_1778197319279_4",
+    "id": "arxiv_1778204895828_4",
     "name": "OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents",
     "category": "computer-vision",
     "description": "Deep search has become a crucial capability for frontier multimodal agents, enabling models to solve complex questions through active search, evidence verification, and multi-step reasoning. Despite r...",
@@ -101,49 +214,5 @@
     "date": "2026-05-06T17:50:38Z",
     "trending": false,
     "source": "arXiv - Shuang Chen, Kaituo Feng, Hangting Chen et al."
-  },
-  {
-    "id": "arxiv_1778197335032_2",
-    "name": "Estimating the expected output of wide random MLPs more efficiently than sampling",
-    "category": "machine-learning",
-    "description": "By far the most common way to estimate an expected loss in machine learning is to draw samples, compute the loss on each one, and take the empirical average. However, sampling is not necessarily optim...",
-    "link": "http://arxiv.org/abs/2605.05179v1",
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "date": "2026-05-06T17:46:12Z",
-    "trending": true,
-    "source": "arXiv - Wilson Wu, Victor Lecomte, Michael Winer et al."
-  },
-  {
-    "id": "arxiv_1778197335032_3",
-    "name": "Understanding In-Context Learning for Nonlinear Regression with Transformers: Attention as Featurizer",
-    "category": "machine-learning",
-    "description": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-context learning (ICL). Despite its demonstrated ef...",
-    "link": "http://arxiv.org/abs/2605.05176v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-05-06T17:42:07Z",
-    "trending": true,
-    "source": "arXiv - Alexander Hsu, Zhaiming Shen, Wenjing Liao et al."
-  },
-  {
-    "id": "arxiv_1778197335033_4",
-    "name": "PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble Gemma Models with Synthetic Data Augmentation",
-    "category": "machine-learning",
-    "description": "We present our system for SemEval-2026 Task 9: Multilingual Polarization Detection, a binary classification task spanning 22 languages. Our approach fine-tunes separate Gemma~3 models (12B and 27B par...",
-    "link": "http://arxiv.org/abs/2605.05159v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT",
-      "BERT"
-    ],
-    "date": "2026-05-06T17:29:14Z",
-    "trending": false,
-    "source": "arXiv - Srikar Kashyap Pulipaka"
   }
 ]
