@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "id": "arxiv_1778221626482_0",
+    "name": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+    "category": "machine-learning",
+    "description": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m...",
+    "link": "http://arxiv.org/abs/2605.06667v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-05-07T17:59:58Z",
+    "trending": false,
+    "source": "arXiv - Omar El Khalifi, Thomas Rossi, Oscar Fossey et al."
+  },
+  {
+    "id": "arxiv_1778221626483_1",
+    "name": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+    "category": "machine-learning",
+    "description": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin...",
+    "link": "http://arxiv.org/abs/2605.06665v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-05-07T17:59:44Z",
+    "trending": false,
+    "source": "arXiv - Minbin Huang, Han Shi, Chuanyang Zheng et al."
+  },
+  {
+    "id": "arxiv_1778221626553_0",
+    "name": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
+    "category": "nlp",
+    "description": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know...",
+    "link": "http://arxiv.org/abs/2605.06663v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-07T17:59:20Z",
+    "trending": true,
+    "source": "arXiv - Ryan Wang, Akshita Bhagia, Sewon Min"
+  },
+  {
+    "id": "arxiv_1778221626483_2",
+    "name": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+    "category": "machine-learning",
+    "description": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential compon...",
+    "link": "http://arxiv.org/abs/2605.06660v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-07T17:58:32Z",
+    "trending": false,
+    "source": "arXiv - Yuhang Lai, Jiazhan Feng, Yee Whye Teh et al."
+  },
+  {
+    "id": "arxiv_1778221626553_1",
+    "name": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+    "category": "nlp",
+    "description": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential compon...",
+    "link": "http://arxiv.org/abs/2605.06660v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-07T17:58:32Z",
+    "trending": false,
+    "source": "arXiv - Yuhang Lai, Jiazhan Feng, Yee Whye Teh et al."
+  },
+  {
+    "id": "arxiv_1778221626483_3",
+    "name": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+    "category": "machine-learning",
+    "description": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr...",
+    "link": "http://arxiv.org/abs/2605.06656v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "LLM"
+    ],
+    "date": "2026-05-07T17:57:58Z",
+    "trending": false,
+    "source": "arXiv - Jai Moondra, Ayela Chughtai, Bhargavi Lanka et al."
+  },
+  {
+    "id": "arxiv_1778221626484_4",
+    "name": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+    "category": "machine-learning",
+    "description": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same opti...",
+    "link": "http://arxiv.org/abs/2605.06654v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-07T17:57:02Z",
+    "trending": false,
+    "source": "arXiv - Yuxing Liu, Jianyu Wang, Tong Zhang"
+  },
+  {
+    "id": "arxiv_1778221626554_2",
+    "name": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+    "category": "nlp",
+    "description": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless...",
+    "link": "http://arxiv.org/abs/2605.06652v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-07T17:56:41Z",
+    "trending": false,
+    "source": "arXiv - Sushant Gautam, Finn Schwall, Annika Willoch Olstad et al."
+  },
+  {
+    "id": "arxiv_1778221626554_3",
+    "name": "Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients",
+    "category": "nlp",
+    "description": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The commu...",
+    "link": "http://arxiv.org/abs/2605.06650v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-05-07T17:55:21Z",
+    "trending": true,
+    "source": "arXiv - Mingwei Xu, Hao Fang"
+  },
+  {
+    "id": "arxiv_1778221626554_4",
+    "name": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
+    "category": "nlp",
+    "description": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, wh...",
+    "link": "http://arxiv.org/abs/2605.06642v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-05-07T17:51:16Z",
+    "trending": false,
+    "source": "arXiv - Xiangyuan Xue, Yifan Zhou, Zidong Wang et al."
+  }
+]
