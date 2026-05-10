@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1778413175335_0",
+    "id": "arxiv_1778417207787_0",
     "name": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
     "category": "ai",
     "description": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m...",
@@ -14,21 +14,7 @@
     "source": "arXiv - Omar El Khalifi, Thomas Rossi, Oscar Fossey et al."
   },
   {
-    "id": "arxiv_1778413175361_0",
-    "name": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
-    "category": "computer-vision",
-    "description": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m...",
-    "link": "http://arxiv.org/abs/2605.06667v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-05-07T17:59:58Z",
-    "trending": true,
-    "source": "arXiv - Omar El Khalifi, Thomas Rossi, Oscar Fossey et al."
-  },
-  {
-    "id": "arxiv_1778413175518_0",
+    "id": "arxiv_1778417279520_0",
     "name": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
     "category": "machine-learning",
     "description": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m...",
@@ -42,7 +28,7 @@
     "source": "arXiv - Omar El Khalifi, Thomas Rossi, Oscar Fossey et al."
   },
   {
-    "id": "arxiv_1778413175336_1",
+    "id": "arxiv_1778417207787_1",
     "name": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
     "category": "ai",
     "description": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin...",
@@ -56,7 +42,7 @@
     "source": "arXiv - Minbin Huang, Han Shi, Chuanyang Zheng et al."
   },
   {
-    "id": "arxiv_1778413175519_1",
+    "id": "arxiv_1778417279521_1",
     "name": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
     "category": "machine-learning",
     "description": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin...",
@@ -70,7 +56,7 @@
     "source": "arXiv - Minbin Huang, Han Shi, Chuanyang Zheng et al."
   },
   {
-    "id": "arxiv_1778413175336_2",
+    "id": "arxiv_1778417207788_2",
     "name": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
     "category": "ai",
     "description": "GUI grounding is a critical capability for enabling GUI agents to execute tasks such as clicking and dragging. However, in complex scenarios like the ScreenSpot-Pro benchmark, existing models often su...",
@@ -83,20 +69,7 @@
     "source": "arXiv - Borui Zhang, Bo Zhang, Bo Wang et al."
   },
   {
-    "id": "arxiv_1778413175361_1",
-    "name": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
-    "category": "computer-vision",
-    "description": "GUI grounding is a critical capability for enabling GUI agents to execute tasks such as clicking and dragging. However, in complex scenarios like the ScreenSpot-Pro benchmark, existing models often su...",
-    "link": "http://arxiv.org/abs/2605.06664v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-07T17:59:31Z",
-    "trending": false,
-    "source": "arXiv - Borui Zhang, Bo Zhang, Bo Wang et al."
-  },
-  {
-    "id": "arxiv_1778413175525_0",
+    "id": "arxiv_1778417279546_0",
     "name": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
     "category": "nlp",
     "description": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know...",
@@ -105,11 +78,11 @@
       "AI"
     ],
     "date": "2026-05-07T17:59:20Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ryan Wang, Akshita Bhagia, Sewon Min"
   },
   {
-    "id": "arxiv_1778413175336_3",
+    "id": "arxiv_1778417207788_3",
     "name": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
     "category": "ai",
     "description": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential compon...",
@@ -123,7 +96,7 @@
     "source": "arXiv - Yuhang Lai, Jiazhan Feng, Yee Whye Teh et al."
   },
   {
-    "id": "arxiv_1778413175519_2",
+    "id": "arxiv_1778417279521_2",
     "name": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
     "category": "machine-learning",
     "description": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential compon...",
@@ -133,11 +106,11 @@
       "LLM"
     ],
     "date": "2026-05-07T17:58:32Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yuhang Lai, Jiazhan Feng, Yee Whye Teh et al."
   },
   {
-    "id": "arxiv_1778413175525_1",
+    "id": "arxiv_1778417279546_1",
     "name": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
     "category": "nlp",
     "description": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential compon...",
@@ -147,26 +120,11 @@
       "LLM"
     ],
     "date": "2026-05-07T17:58:32Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yuhang Lai, Jiazhan Feng, Yee Whye Teh et al."
   },
   {
-    "id": "arxiv_1778413175361_2",
-    "name": "Relit-LiVE: Relight Video by Jointly Learning Environment Video",
-    "category": "computer-vision",
-    "description": "Recent advances have shown that large-scale video diffusion models can be repurposed as neural renderers by first decomposing videos into intrinsic scene representations and then performing forward re...",
-    "link": "http://arxiv.org/abs/2605.06658v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Diffusion"
-    ],
-    "date": "2026-05-07T17:58:15Z",
-    "trending": false,
-    "source": "arXiv - Weiqing Xiao, Hong Li, Xiuyu Yang et al."
-  },
-  {
-    "id": "arxiv_1778413175519_3",
+    "id": "arxiv_1778417279521_3",
     "name": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
     "category": "machine-learning",
     "description": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr...",
@@ -177,11 +135,11 @@
       "LLM"
     ],
     "date": "2026-05-07T17:57:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jai Moondra, Ayela Chughtai, Bhargavi Lanka et al."
   },
   {
-    "id": "arxiv_1778413175336_4",
+    "id": "arxiv_1778417207788_4",
     "name": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
     "category": "ai",
     "description": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same opti...",
@@ -191,11 +149,11 @@
       "LLM"
     ],
     "date": "2026-05-07T17:57:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuxing Liu, Jianyu Wang, Tong Zhang"
   },
   {
-    "id": "arxiv_1778413175519_4",
+    "id": "arxiv_1778417279522_4",
     "name": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
     "category": "machine-learning",
     "description": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same opti...",
@@ -209,7 +167,7 @@
     "source": "arXiv - Yuxing Liu, Jianyu Wang, Tong Zhang"
   },
   {
-    "id": "arxiv_1778413175525_2",
+    "id": "arxiv_1778417279546_2",
     "name": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
     "category": "nlp",
     "description": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless...",
@@ -219,11 +177,11 @@
       "LLM"
     ],
     "date": "2026-05-07T17:56:41Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Sushant Gautam, Finn Schwall, Annika Willoch Olstad et al."
   },
   {
-    "id": "arxiv_1778413175525_3",
+    "id": "arxiv_1778417279547_3",
     "name": "Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients",
     "category": "nlp",
     "description": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The commu...",
@@ -235,25 +193,11 @@
       "Optimization"
     ],
     "date": "2026-05-07T17:55:21Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Mingwei Xu, Hao Fang"
   },
   {
-    "id": "arxiv_1778413175361_3",
-    "name": "Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study",
-    "category": "computer-vision",
-    "description": "Despite the growing popularity of Multimodal Domain Generalization (MMDG) for enhancing model robustness, it remains unclear whether reported performance gains reflect genuine algorithmic progress or ...",
-    "link": "http://arxiv.org/abs/2605.06643v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-05-07T17:51:16Z",
-    "trending": false,
-    "source": "arXiv - Hao Dong, Hongzhao Li, Shupan Li et al."
-  },
-  {
-    "id": "arxiv_1778413175525_4",
+    "id": "arxiv_1778417279547_4",
     "name": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
     "category": "nlp",
     "description": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, wh...",
@@ -266,19 +210,5 @@
     "date": "2026-05-07T17:51:16Z",
     "trending": false,
     "source": "arXiv - Xiangyuan Xue, Yifan Zhou, Zidong Wang et al."
-  },
-  {
-    "id": "arxiv_1778413175362_4",
-    "name": "GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation",
-    "category": "computer-vision",
-    "description": "Developing ceramic glazes is a costly, time-consuming process of trial and error due to complex chemistry, placing a significant burden on independent artists. While recent advances in multimodal AI o...",
-    "link": "http://arxiv.org/abs/2605.06641v1",
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "date": "2026-05-07T17:51:13Z",
-    "trending": false,
-    "source": "arXiv - Ziyu Zhai, Siyou Li, Juexi Shao et al."
   }
 ]
