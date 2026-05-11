@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1778539406138_0",
+    "id": "arxiv_1778543060363_0",
     "name": "123D: Unifying Multi-Modal Autonomous Driving Data at Scale",
     "category": "computer-vision",
     "description": "The pursuit of autonomous driving has produced one of the richest sensor data collections in all of robotics. However, its scale and diversity remain largely untapped. Each dataset adopts different 2D...",
@@ -11,11 +11,11 @@
       "Robotics"
     ],
     "date": "2026-05-08T17:59:53Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Daniel Dauner, Valentin Charraut, Bastian Berle et al."
   },
   {
-    "id": "arxiv_1778539406814_0",
+    "id": "arxiv_1778543060874_0",
     "name": "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling",
     "category": "nlp",
     "description": "Test-time scaling (TTS) has become an effective approach for improving large language model performance by allocating additional computation during inference. However, existing TTS strategies are larg...",
@@ -29,7 +29,7 @@
     "source": "arXiv - Tong Zheng, Haolin Liu, Chengsong Huang et al."
   },
   {
-    "id": "arxiv_1778539406138_1",
+    "id": "arxiv_1778543060363_1",
     "name": "Normalizing Trajectory Models",
     "category": "computer-vision",
     "description": "Diffusion-based models decompose sampling into many small Gaussian denoising steps -- an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step method...",
@@ -43,7 +43,7 @@
     "source": "arXiv - Jiatao Gu, Tianrong Chen, Ying Shen et al."
   },
   {
-    "id": "arxiv_1778539406299_0",
+    "id": "arxiv_1778543060573_0",
     "name": "Normalizing Trajectory Models",
     "category": "machine-learning",
     "description": "Diffusion-based models decompose sampling into many small Gaussian denoising steps -- an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step method...",
@@ -57,7 +57,7 @@
     "source": "arXiv - Jiatao Gu, Tianrong Chen, Ying Shen et al."
   },
   {
-    "id": "arxiv_1778539406815_1",
+    "id": "arxiv_1778543060874_1",
     "name": "Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration",
     "category": "nlp",
     "description": "Knowledge Graph Question Answering (KGQA) has shown promise for grounded and interpretable reasoning, yet existing approaches often fail to provide reliable coverage guarantees over retrieved answers....",
@@ -70,7 +70,7 @@
     "source": "arXiv - Shuhang Lin, Chuhao Zhou, Xiao Lin et al."
   },
   {
-    "id": "arxiv_1778539406299_1",
+    "id": "arxiv_1778543060573_1",
     "name": "Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping",
     "category": "machine-learning",
     "description": "Decoding imagined speech from non-invasive brain recordings is challenging because imagined datasets are scarce and difficult to align temporally across subjects and sessions In this work, we propose ...",
@@ -84,7 +84,7 @@
     "source": "arXiv - Maryam Maghsoudi, Shihab Shamma"
   },
   {
-    "id": "arxiv_1778539406299_2",
+    "id": "arxiv_1778543060573_2",
     "name": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs",
     "category": "machine-learning",
     "description": "Conformal prediction (CP) provides a distribution-free approach to uncertainty quantification with finite-sample guarantees. However, applying CP to graph neural networks (GNNs) remains challenging as...",
@@ -98,7 +98,7 @@
     "source": "arXiv - Peyman Baghershahi, Fangxin Wang, Debmalya Mandal et al."
   },
   {
-    "id": "arxiv_1778539405980_0",
+    "id": "arxiv_1778543060143_0",
     "name": "EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction",
     "category": "ai",
     "description": "Recent event-based image reconstruction methods predominantly rely on Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) to process complementary event information. However, these arc...",
@@ -110,11 +110,11 @@
       "Transformer"
     ],
     "date": "2026-05-08T17:56:01Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Wei Yu, Yunhang Qian"
   },
   {
-    "id": "arxiv_1778539406138_2",
+    "id": "arxiv_1778543060363_2",
     "name": "EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction",
     "category": "computer-vision",
     "description": "Recent event-based image reconstruction methods predominantly rely on Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) to process complementary event information. However, these arc...",
@@ -130,7 +130,7 @@
     "source": "arXiv - Wei Yu, Yunhang Qian"
   },
   {
-    "id": "arxiv_1778539406299_3",
+    "id": "arxiv_1778543060573_3",
     "name": "A Note on Non-Negative $L_1$-Approximating Polynomials",
     "category": "machine-learning",
     "description": "$L_1$-Approximating polynomials, i.e., polynomials that approximate indicator functions in $L_1$-norm under certain distributions, are widely used in computational learning theory. We study the existe...",
@@ -139,11 +139,11 @@
       "AI"
     ],
     "date": "2026-05-08T17:55:39Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jane H. Lee, Anay Mehrotra, Manolis Zampetakis"
   },
   {
-    "id": "arxiv_1778539405980_1",
+    "id": "arxiv_1778543060143_1",
     "name": "VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clustering and Candidate Answer Selection",
     "category": "ai",
     "description": "A standard technique for scaling inference-time reasoning is Self-Consistency, whereby multiple candidate answers are sampled from an LLM and the most common answer is selected. More recently, it has ...",
@@ -157,7 +157,7 @@
     "source": "arXiv - James Petullo, Sonny George, Dylan Cashman et al."
   },
   {
-    "id": "arxiv_1778539406138_3",
+    "id": "arxiv_1778543060363_3",
     "name": "Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment",
     "category": "computer-vision",
     "description": "Spatial intelligence in vision-language models (VLMs) attracts research interest with the practical demand to reason in the 3D world.Despite promising results, most existing methods follow the convent...",
@@ -167,11 +167,11 @@
       "Vision"
     ],
     "date": "2026-05-08T17:50:47Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jerry Jiang, Haowen Sun, Denis Gudovskiy et al."
   },
   {
-    "id": "arxiv_1778539405980_2",
+    "id": "arxiv_1778543060143_2",
     "name": "Flow-OPD: On-Policy Distillation for Flow Matching Models",
     "category": "ai",
     "description": "Existing Flow Matching (FM) text-to-image models suffer from two critical bottlenecks under multi-task alignment: the reward sparsity induced by scalar-valued rewards, and the gradient interference ar...",
@@ -186,7 +186,7 @@
     "source": "arXiv - Zhen Fang, Wenxuan Huang, Yu Zeng et al."
   },
   {
-    "id": "arxiv_1778539406139_4",
+    "id": "arxiv_1778543060363_4",
     "name": "Flow-OPD: On-Policy Distillation for Flow Matching Models",
     "category": "computer-vision",
     "description": "Existing Flow Matching (FM) text-to-image models suffer from two critical bottlenecks under multi-task alignment: the reward sparsity induced by scalar-valued rewards, and the gradient interference ar...",
@@ -201,7 +201,7 @@
     "source": "arXiv - Zhen Fang, Wenxuan Huang, Yu Zeng et al."
   },
   {
-    "id": "arxiv_1778539405981_3",
+    "id": "arxiv_1778543060143_3",
     "name": "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning",
     "category": "ai",
     "description": "We argue that decomposing reward into weighted, verifiable criteria and using an LLM judge to score them provides a partial-credit optimization signal: instead of a binary outcome or a single holistic...",
@@ -217,7 +217,7 @@
     "source": "arXiv - Manish Bhattarai, Ismael Boureima, Nishath Rajiv Ranasinghe et al."
   },
   {
-    "id": "arxiv_1778539405981_4",
+    "id": "arxiv_1778543060144_4",
     "name": "The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents",
     "category": "ai",
     "description": "Context window expansion is often treated as a straightforward capability upgrade for LLMs, but we find it systematically fails in multi-agent social dilemmas. Across 7 LLMs and 4 games over 500 round...",
@@ -231,7 +231,7 @@
     "source": "arXiv - Jiayuan Liu, Tianqin Li, Shiyi Du et al."
   },
   {
-    "id": "arxiv_1778539406815_2",
+    "id": "arxiv_1778543060874_2",
     "name": "The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents",
     "category": "nlp",
     "description": "Context window expansion is often treated as a straightforward capability upgrade for LLMs, but we find it systematically fails in multi-agent social dilemmas. Across 7 LLMs and 4 games over 500 round...",
@@ -241,11 +241,11 @@
       "LLM"
     ],
     "date": "2026-05-08T17:47:13Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jiayuan Liu, Tianqin Li, Shiyi Du et al."
   },
   {
-    "id": "arxiv_1778539406815_3",
+    "id": "arxiv_1778543060874_3",
     "name": "CA-SQL: Complexity-Aware Inference Time Reasoning for Text-to-SQL via Exploration and Compute Budget Allocation",
     "category": "nlp",
     "description": "While recent advancements in inference-time learning have improved LLM reasoning on Text-to-SQL tasks, current solutions still struggle to perform well on the most challenging tasks in the Bird-Bench ...",
@@ -260,7 +260,7 @@
     "source": "arXiv - James Petullo, Nianwen Xue"
   },
   {
-    "id": "arxiv_1778539406299_4",
+    "id": "arxiv_1778543060573_4",
     "name": "Reinforcement Learning for Exponential Utility: Algorithms and Convergence in Discounted MDPs",
     "category": "machine-learning",
     "description": "Reinforcement learning (RL) for exponential-utility optimization in discounted Markov decision processes (MDPs) lacks principled value-based algorithms. We address this gap in the fixed risk-aversion ...",
@@ -276,7 +276,7 @@
     "source": "arXiv - Gugan Thoppe, L. A. Prashanth, Ankur Naskar et al."
   },
   {
-    "id": "arxiv_1778539406815_4",
+    "id": "arxiv_1778543060875_4",
     "name": "Accurate and Efficient Statistical Testing for Word Semantic Breadth",
     "category": "nlp",
     "description": "Measuring the breadth of a word's meaning, or its spread across contexts, has become feasible with contextualized token embeddings. A word type can be represented as a cloud of token vectors, with dis...",
@@ -285,7 +285,7 @@
       "AI"
     ],
     "date": "2026-05-08T17:38:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yo Ehara"
   }
 ]
