@@ -1,6 +1,47 @@
 [
   {
-    "id": "rss_Ars_Technica_1778543064829_0",
+    "id": "rss_TechCrunch_1778550396535_0",
+    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+    "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Tue, 12 May 2026 00:09:01 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1778550401060_0",
+    "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
+    "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Mon, 11 May 2026 23:51:35 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1778550396535_1",
+    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+    "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 11 May 2026 23:04:10 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1778550400024_0",
     "title": "Linux bitten by second severe vulnerability in as many weeks",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,7 +52,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1778543064829_1",
+    "id": "rss_Ars_Technica_1778550400024_1",
     "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -19,10 +60,10 @@
     "link": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
     "tags": [],
     "date": "Mon, 11 May 2026 22:01:57 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1778543064829_2",
+    "id": "rss_Ars_Technica_1778550400024_2",
     "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -35,7 +76,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1778543064829_3",
+    "id": "rss_Ars_Technica_1778550400024_3",
     "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -48,7 +89,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1778543064829_4",
+    "id": "rss_Ars_Technica_1778550400024_4",
     "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -58,10 +99,10 @@
       "AI"
     ],
     "date": "Mon, 11 May 2026 18:12:43 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1778543063546_0",
+    "id": "rss_MIT_Tech_Review_1778550398811_0",
     "title": "Three things in AI to watch, according to a Nobel-winning economist",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -74,7 +115,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1778543061054_0",
+    "id": "rss_TechCrunch_1778550396535_2",
     "title": "Digg tries again, this time as an AI news aggregator",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -87,7 +128,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778543063546_1",
+    "id": "rss_MIT_Tech_Review_1778550398813_1",
     "title": "Fostering breakthrough AI innovation through customer-back engineering",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -100,7 +141,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1778543061055_1",
+    "id": "rss_TechCrunch_1778550396535_3",
     "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -113,7 +154,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778543063548_2",
+    "id": "rss_MIT_Tech_Review_1778550398813_2",
     "title": "Innovation abounds in device charging",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -121,10 +162,10 @@
     "link": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
     "tags": [],
     "date": "Mon, 11 May 2026 13:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1778543063548_3",
+    "id": "rss_MIT_Tech_Review_1778550398813_3",
     "title": "Implementing advanced AI technologies in finance",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -137,7 +178,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778543063548_4",
+    "id": "rss_MIT_Tech_Review_1778550398813_4",
     "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -150,7 +191,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778543065969_0",
+    "id": "rss_Wired_1778550401060_1",
     "title": "CUDA Proves Nvidia Is a Software Company",
     "category": "ai-news",
     "source": "Wired",
@@ -160,10 +201,10 @@
       "NVIDIA"
     ],
     "date": "Mon, 11 May 2026 10:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1778543065969_1",
+    "id": "rss_Wired_1778550401060_2",
     "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
     "category": "ai-news",
     "source": "Wired",
@@ -176,7 +217,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1778543061055_2",
+    "id": "rss_TechCrunch_1778550396535_4",
     "title": "Get ready for the whisper-filled office of the future",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -184,36 +225,10 @@
     "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
     "tags": [],
     "date": "Sun, 10 May 2026 21:15:30 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1778543061055_3",
-    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
-    "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Sun, 10 May 2026 20:40:41 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1778543061055_4",
-    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
-    "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Sun, 10 May 2026 15:34:25 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1778543065969_2",
+    "id": "rss_Wired_1778550401060_3",
     "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
     "category": "ai-news",
     "source": "Wired",
@@ -224,10 +239,10 @@
       "Robot"
     ],
     "date": "Sat, 09 May 2026 10:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1778543065969_3",
+    "id": "rss_Wired_1778550401060_4",
     "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
     "category": "ai-news",
     "source": "Wired",
@@ -240,20 +255,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778543065969_4",
-    "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-    "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 08 May 2026 15:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1778543074955_0",
+    "id": "rss_Distill_1778550409125_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -266,7 +268,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1778543074955_1",
+    "id": "rss_Distill_1778550409125_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -279,7 +281,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1778543074955_2",
+    "id": "rss_Distill_1778550409126_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -287,10 +289,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1778543074955_3",
+    "id": "rss_Distill_1778550409126_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -303,7 +305,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1778543074955_4",
+    "id": "rss_Distill_1778550409126_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -311,6 +313,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
