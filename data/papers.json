@@ -1,8 +1,8 @@
 [
   {
-    "id": "arxiv_1778617546193_0",
+    "id": "arxiv_1778623239676_0",
     "name": "ELF: Embedded Language Flows",
-    "category": "ai",
+    "category": "machine-learning",
     "description": "Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their success has attracted growing interest in applying...",
     "link": "http://arxiv.org/abs/2605.10938v1",
     "tags": [
@@ -14,21 +14,7 @@
     "source": "arXiv - Keya Hu, Linlu Qiu, Yiyang Lu et al."
   },
   {
-    "id": "arxiv_1778617546651_0",
-    "name": "ELF: Embedded Language Flows",
-    "category": "machine-learning",
-    "description": "Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their success has attracted growing interest in applying...",
-    "link": "http://arxiv.org/abs/2605.10938v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-05-11T17:59:29Z",
-    "trending": true,
-    "source": "arXiv - Keya Hu, Linlu Qiu, Yiyang Lu et al."
-  },
-  {
-    "id": "arxiv_1778617547115_0",
+    "id": "arxiv_1778623254972_0",
     "name": "ELF: Embedded Language Flows",
     "category": "nlp",
     "description": "Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their success has attracted growing interest in applying...",
@@ -38,69 +24,11 @@
       "Diffusion"
     ],
     "date": "2026-05-11T17:59:29Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Keya Hu, Linlu Qiu, Yiyang Lu et al."
   },
   {
-    "id": "arxiv_1778617546581_0",
-    "name": "Power Reinforcement Post-Training of Text-to-Image Models with Super-Linear Advantage Shaping",
-    "category": "computer-vision",
-    "description": "Recently, post-training methods based on reinforcement learning, with a particular focus on Group Relative Policy Optimization (GRPO), have emerged as the robust paradigm for further advancement of te...",
-    "link": "http://arxiv.org/abs/2605.10937v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning",
-      "Optimization"
-    ],
-    "date": "2026-05-11T17:59:25Z",
-    "trending": true,
-    "source": "arXiv - Haoyuan Sun, Jing Wang, Yuxin Song et al."
-  },
-  {
-    "id": "arxiv_1778617546581_1",
-    "name": "Personal Visual Context Learning in Large Multimodal Models",
-    "category": "computer-vision",
-    "description": "As wearable devices like smart glasses integrate Large Multimodal Models (LMMs) into the continuous first-person visual streams of individual users, the evolution of these models into true personal as...",
-    "link": "http://arxiv.org/abs/2605.10936v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-11T17:59:17Z",
-    "trending": true,
-    "source": "arXiv - Zihui Xue, Ami Baid, Sangho Kim et al."
-  },
-  {
-    "id": "arxiv_1778617546193_1",
-    "name": "Variational Inference for Lévy Process-Driven SDEs via Neural Tilting",
-    "category": "ai",
-    "description": "Modelling extreme events and heavy-tailed phenomena is central to building reliable predictive systems in domains such as finance, climate science, and safety-critical AI. While Lévy processes provide...",
-    "link": "http://arxiv.org/abs/2605.10934v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Optimization"
-    ],
-    "date": "2026-05-11T17:58:45Z",
-    "trending": false,
-    "source": "arXiv - Yaman Kindap, Manfred Opper, Benjamin Dupuis et al."
-  },
-  {
-    "id": "arxiv_1778617546581_2",
-    "name": "Variational Inference for Lévy Process-Driven SDEs via Neural Tilting",
-    "category": "computer-vision",
-    "description": "Modelling extreme events and heavy-tailed phenomena is central to building reliable predictive systems in domains such as finance, climate science, and safety-critical AI. While Lévy processes provide...",
-    "link": "http://arxiv.org/abs/2605.10934v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Optimization"
-    ],
-    "date": "2026-05-11T17:58:45Z",
-    "trending": false,
-    "source": "arXiv - Yaman Kindap, Manfred Opper, Benjamin Dupuis et al."
-  },
-  {
-    "id": "arxiv_1778617546651_1",
+    "id": "arxiv_1778623239676_1",
     "name": "Variational Inference for Lévy Process-Driven SDEs via Neural Tilting",
     "category": "machine-learning",
     "description": "Modelling extreme events and heavy-tailed phenomena is central to building reliable predictive systems in domains such as finance, climate science, and safety-critical AI. While Lévy processes provide...",
@@ -111,11 +39,11 @@
       "Optimization"
     ],
     "date": "2026-05-11T17:58:45Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yaman Kindap, Manfred Opper, Benjamin Dupuis et al."
   },
   {
-    "id": "arxiv_1778617546651_2",
+    "id": "arxiv_1778623239676_2",
     "name": "DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices",
     "category": "machine-learning",
     "description": "While Mixture-of-Experts (MoE) scales model capacity without proportionally increasing computation, its massive total parameter footprint creates significant storage and memory-access bottlenecks, whi...",
@@ -129,7 +57,7 @@
     "source": "arXiv - Chenyang Song, Weilin Zhao, Xu Han et al."
   },
   {
-    "id": "arxiv_1778617547115_1",
+    "id": "arxiv_1778623254972_1",
     "name": "DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices",
     "category": "nlp",
     "description": "While Mixture-of-Experts (MoE) scales model capacity without proportionally increasing computation, its massive total parameter footprint creates significant storage and memory-access bottlenecks, whi...",
@@ -143,7 +71,7 @@
     "source": "arXiv - Chenyang Song, Weilin Zhao, Xu Han et al."
   },
   {
-    "id": "arxiv_1778617546651_3",
+    "id": "arxiv_1778623239677_3",
     "name": "Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime",
     "category": "machine-learning",
     "description": "Transformers with self-attention modules as their core components have become an integral architecture in modern large language and foundation models. In this paper, we study the evolution of tokens i...",
@@ -157,7 +85,7 @@
     "source": "arXiv - Albert Alcalde, Leon Bungert, Konstantin Riedl et al."
   },
   {
-    "id": "arxiv_1778617546651_4",
+    "id": "arxiv_1778623239678_4",
     "name": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
     "category": "machine-learning",
     "description": "Large language model agents increasingly rely on external skills to solve complex tasks, where skills act as modular units that extend their capabilities beyond what parametric memory alone supports. ...",
@@ -172,7 +100,7 @@
     "source": "arXiv - Junhao Shen, Teng Zhang, Xiaoyan Zhao et al."
   },
   {
-    "id": "arxiv_1778617547115_2",
+    "id": "arxiv_1778623254972_2",
     "name": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
     "category": "nlp",
     "description": "Large language model agents increasingly rely on external skills to solve complex tasks, where skills act as modular units that extend their capabilities beyond what parametric memory alone supports. ...",
@@ -187,66 +115,7 @@
     "source": "arXiv - Junhao Shen, Teng Zhang, Xiaoyan Zhao et al."
   },
   {
-    "id": "arxiv_1778617546581_3",
-    "name": "Pixal3D: Pixel-Aligned 3D Generation from Images",
-    "category": "computer-vision",
-    "description": "Recent advances in 3D generative models have rapidly improved image-to-3D synthesis quality, enabling higher-resolution geometry and more realistic appearance. Yet fidelity, which measures pixel-level...",
-    "link": "http://arxiv.org/abs/2605.10922v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-11T17:55:04Z",
-    "trending": false,
-    "source": "arXiv - Dong-Yang Li, Wang Zhao, Yuxin Chen et al."
-  },
-  {
-    "id": "arxiv_1778617546193_2",
-    "name": "Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition",
-    "category": "ai",
-    "description": "Recognition of handwritten Bangla compound characters remains a challenging problem due to complex character structures, large intra-class variation, and limited availability of high-quality annotated...",
-    "link": "http://arxiv.org/abs/2605.10916v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-05-11T17:51:46Z",
-    "trending": true,
-    "source": "arXiv - Md. Sultan Al Rayhan, Maheen Islam"
-  },
-  {
-    "id": "arxiv_1778617546581_4",
-    "name": "Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition",
-    "category": "computer-vision",
-    "description": "Recognition of handwritten Bangla compound characters remains a challenging problem due to complex character structures, large intra-class variation, and limited availability of high-quality annotated...",
-    "link": "http://arxiv.org/abs/2605.10916v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-05-11T17:51:46Z",
-    "trending": false,
-    "source": "arXiv - Md. Sultan Al Rayhan, Maheen Islam"
-  },
-  {
-    "id": "arxiv_1778617546193_3",
-    "name": "Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace",
-    "category": "ai",
-    "description": "We introduce Shepherd, a functional programming model that formalizes meta-agent operations on target agents as functions, with core operations mechanized in Lean. Shepherd records every agent-environ...",
-    "link": "http://arxiv.org/abs/2605.10913v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-05-11T17:50:51Z",
-    "trending": false,
-    "source": "arXiv - Simon Yu, Derek Chong, Ananjan Nandi et al."
-  },
-  {
-    "id": "arxiv_1778617547115_3",
+    "id": "arxiv_1778623254972_3",
     "name": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",
     "category": "nlp",
     "description": "Large language and vision-language models increasingly power agents that act on a user's behalf through command-line interface (CLI) harnesses. However, most agent benchmarks still rely on synthetic s...",
@@ -257,25 +126,11 @@
       "LLM"
     ],
     "date": "2026-05-11T17:49:43Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shuangrui Ding, Xuanlang Dai, Long Xing et al."
   },
   {
-    "id": "arxiv_1778617546194_4",
-    "name": "Engineering Robustness into Personal Agents with the AI Workflow Store",
-    "category": "ai",
-    "description": "The dominant paradigm for AI agents is an \"on-the-fly\" loop in which agents synthesize plans and execute actions within seconds or minutes in response to user prompts. We argue that this paradigm shor...",
-    "link": "http://arxiv.org/abs/2605.10907v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-11T17:46:33Z",
-    "trending": false,
-    "source": "arXiv - Roxana Geambasu, Mariana Raykova, Pierre Tholoniat et al."
-  },
-  {
-    "id": "arxiv_1778617547115_4",
+    "id": "arxiv_1778623254972_4",
     "name": "RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards",
     "category": "nlp",
     "description": "Training deep research agents, namely systems that plan, search, evaluate evidence, and synthesize long-form reports, pushes reinforcement learning beyond the regime of verifiable rewards. Their outpu...",
@@ -286,7 +141,7 @@
       "Optimization"
     ],
     "date": "2026-05-11T17:40:38Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Gaotang Li, Bhavana Dalvi Mishra, Zifeng Wang et al."
   }
 ]
