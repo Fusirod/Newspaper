@@ -1,291 +1,296 @@
 [
   {
-    "id": "arxiv_1778715947166_0",
-    "name": "Covering Human Action Space for Computer Use: Data Synthesis and Benchmark",
+    "id": "arxiv_1778723648612_0",
+    "name": "Backbone is All You Need: Assessing Vulnerabilities of Frozen Foundation Models in Synthetic Image Forensics",
     "category": "computer-vision",
-    "description": "Computer-use agents (CUAs) automate on-screen work, as illustrated by GPT-5.4 and Claude. Yet their reliability on complex, low-frequency interactions is still poor, limiting user trust. Our analysis ...",
-    "link": "http://arxiv.org/abs/2605.12501v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT"
-    ],
-    "date": "2026-05-12T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Miaosen Zhang, Xiaohan Zhao, Zhihong Tan et al."
-  },
-  {
-    "id": "arxiv_1778715947166_1",
-    "name": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
-    "category": "computer-vision",
-    "description": "Recent large vision-language models (VLMs) remain fundamentally constrained by a persistent dichotomy: understanding and generation are treated as distinct problems, leading to fragmented architecture...",
-    "link": "http://arxiv.org/abs/2605.12500v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-12T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Haiwen Diao, Penghao Wu, Hanming Deng et al."
-  },
-  {
-    "id": "arxiv_1778715947166_2",
-    "name": "EgoForce: Forearm-Guided Camera-Space 3D Hand Pose from a Monocular Egocentric Camera",
-    "category": "computer-vision",
-    "description": "Reconstructing the absolute 3D pose and shape of the hands from the user's viewpoint using a single head-mounted camera is crucial for practical egocentric interaction in AR/VR, telepresence, and hand...",
-    "link": "http://arxiv.org/abs/2605.12498v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-05-12T17:59:56Z",
-    "trending": true,
-    "source": "arXiv - Christen Millerdurai, Shaoxiang Wang, Yaxu Xie et al."
-  },
-  {
-    "id": "arxiv_1778715947166_3",
-    "name": "From Web to Pixels: Bringing Agentic Search into Visual Perception",
-    "category": "computer-vision",
-    "description": "Visual perception connects high-level semantic understanding to pixel-level perception, but most existing settings assume that the decisive evidence for identifying a target is already in the image or...",
-    "link": "http://arxiv.org/abs/2605.12497v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-12T17:59:51Z",
-    "trending": false,
-    "source": "arXiv - Bokang Yang, Xinyi Sun, Kaituo Feng et al."
-  },
-  {
-    "id": "arxiv_1778715947167_4",
-    "name": "CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives",
-    "category": "computer-vision",
-    "description": "Autoregressive video generation aims at real-time, open-ended synthesis. Yet, cinematic storytelling is not merely the endless extension of a single scene; it requires progressing through evolving eve...",
-    "link": "http://arxiv.org/abs/2605.12496v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-12T17:59:51Z",
-    "trending": true,
-    "source": "arXiv - Yihao Meng, Zichen Liu, Hao Ouyang et al."
-  },
-  {
-    "id": "arxiv_1778715947148_0",
-    "name": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
-    "category": "ai",
-    "description": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabili...",
-    "link": "http://arxiv.org/abs/2605.12495v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Diffusion"
-    ],
-    "date": "2026-05-12T17:59:47Z",
-    "trending": false,
-    "source": "arXiv - Runhui Huang, Jie Wu, Rui Yang et al."
-  },
-  {
-    "id": "arxiv_1778715947179_0",
-    "name": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
-    "category": "machine-learning",
-    "description": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabili...",
-    "link": "http://arxiv.org/abs/2605.12495v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Diffusion"
-    ],
-    "date": "2026-05-12T17:59:47Z",
-    "trending": true,
-    "source": "arXiv - Runhui Huang, Jie Wu, Rui Yang et al."
-  },
-  {
-    "id": "arxiv_1778715947179_1",
-    "name": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation",
-    "category": "machine-learning",
-    "description": "We introduce Pion, a spectrum-preserving optimizer for large language model (LLM) training based on orthogonal equivalence transformation. Unlike additive optimizers such as Adam and Muon, Pion update...",
-    "link": "http://arxiv.org/abs/2605.12492v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-05-12T17:59:34Z",
-    "trending": true,
-    "source": "arXiv - Kexuan Shi, Hanxuan Li, Zeju Qiu et al."
-  },
-  {
-    "id": "arxiv_1778715947192_0",
-    "name": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
-    "category": "nlp",
-    "description": "Long-term memory is crucial for agents in specialized web environments, where success depends on recalling interface affordances, state dynamics, workflows, and recurring failure modes. However, exist...",
-    "link": "http://arxiv.org/abs/2605.12493v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-12T17:59:34Z",
-    "trending": false,
-    "source": "arXiv - Di Wu, Zixiang Ji, Asmi Kawatkar et al."
-  },
-  {
-    "id": "arxiv_1778715947179_2",
-    "name": "Elastic Attention Cores for Scalable Vision Transformers",
-    "category": "machine-learning",
-    "description": "Vision Transformers (ViTs) achieve strong data-driven scaling by leveraging all-to-all self-attention. However, this flexibility incurs a computational cost that scales quadratically with image resolu...",
-    "link": "http://arxiv.org/abs/2605.12491v1",
+    "description": "As AI-generated synthetic images become increasingly realistic, Vision Transformers (ViTs) have emerged as a cornerstone of modern deepfake detection. However, the prevailing reliance on frozen, pre-t...",
+    "link": "http://arxiv.org/abs/2605.13381v1",
     "tags": [
       "AI",
       "Vision",
       "Transformer"
     ],
-    "date": "2026-05-12T17:59:26Z",
+    "date": "2026-05-13T11:35:56Z",
     "trending": true,
-    "source": "arXiv - Alan Z. Song, Yinjie Chen, Mu Nan et al."
+    "source": "arXiv - Chiara Musso, Joy Battocchio, Andrea Montibeller et al."
   },
   {
-    "id": "arxiv_1778715947179_3",
-    "name": "Task-Adaptive Embedding Refinement via Test-time LLM Guidance",
-    "category": "machine-learning",
-    "description": "We explore the effectiveness of an LLM-guided query refinement paradigm for extending the usability of embedding models to challenging zero-shot search and classification tasks. Our approach refines t...",
-    "link": "http://arxiv.org/abs/2605.12487v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-12T17:58:27Z",
-    "trending": false,
-    "source": "arXiv - Ariel Gera, Shir Ashury-Tahan, Gal Bloch et al."
-  },
-  {
-    "id": "arxiv_1778715947193_1",
-    "name": "Task-Adaptive Embedding Refinement via Test-time LLM Guidance",
-    "category": "nlp",
-    "description": "We explore the effectiveness of an LLM-guided query refinement paradigm for extending the usability of embedding models to challenging zero-shot search and classification tasks. Our approach refines t...",
-    "link": "http://arxiv.org/abs/2605.12487v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-12T17:58:27Z",
-    "trending": false,
-    "source": "arXiv - Ariel Gera, Shir Ashury-Tahan, Gal Bloch et al."
-  },
-  {
-    "id": "arxiv_1778715947148_1",
-    "name": "Learning, Fast and Slow: Towards LLMs That Adapt Continually",
+    "id": "arxiv_1778723648439_0",
+    "name": "GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models",
     "category": "ai",
-    "description": "Large language models (LLMs) are trained for downstream tasks by updating their parameters (e.g., via RL). However, updating parameters forces them to absorb task-specific information, which can resul...",
-    "link": "http://arxiv.org/abs/2605.12484v1",
+    "description": "In Vision-Language Models (VLMs), processing a massive number of visual tokens incurs prohibitive computational overhead. While recent training-aware pruning methods attempt to selectively discard red...",
+    "link": "http://arxiv.org/abs/2605.13375v1",
     "tags": [
       "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-05-12T17:58:20Z",
-    "trending": false,
-    "source": "arXiv - Rishabh Tiwari, Kusha Sareen, Lakshya A Agrawal et al."
-  },
-  {
-    "id": "arxiv_1778715947180_4",
-    "name": "Learning, Fast and Slow: Towards LLMs That Adapt Continually",
-    "category": "machine-learning",
-    "description": "Large language models (LLMs) are trained for downstream tasks by updating their parameters (e.g., via RL). However, updating parameters forces them to absorb task-specific information, which can resul...",
-    "link": "http://arxiv.org/abs/2605.12484v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-05-12T17:58:20Z",
-    "trending": false,
-    "source": "arXiv - Rishabh Tiwari, Kusha Sareen, Lakshya A Agrawal et al."
-  },
-  {
-    "id": "arxiv_1778715947148_2",
-    "name": "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training",
-    "category": "ai",
-    "description": "In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practice is to use this data directly on the model that w...",
-    "link": "http://arxiv.org/abs/2605.12483v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-12T17:57:48Z",
-    "trending": true,
-    "source": "arXiv - Yuanda Xu, Hejian Sang, Zhengze Zhou et al."
-  },
-  {
-    "id": "arxiv_1778715947148_3",
-    "name": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents",
-    "category": "ai",
-    "description": "Computer Use Agents (CUAs) can act through both atomic GUI actions, such as click and type, and high-level tool calls, such as API-based file operations, but this hybrid action space often leaves them...",
-    "link": "http://arxiv.org/abs/2605.12481v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-12T17:57:04Z",
-    "trending": false,
-    "source": "arXiv - Xuhao Hu, Xi Zhang, Haiyang Xu et al."
-  },
-  {
-    "id": "arxiv_1778715947148_4",
-    "name": "OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation",
-    "category": "ai",
-    "description": "Recent advances in joint audio-video generation have been remarkable, yet real-world applications demand strong per-modality fidelity, cross-modal alignment, and fine-grained synchronization. Reinforc...",
-    "link": "http://arxiv.org/abs/2605.12480v1",
-    "tags": [
-      "AI",
-      "Diffusion",
+      "Vision",
       "Reinforcement Learning",
       "Optimization"
     ],
-    "date": "2026-05-12T17:56:59Z",
+    "date": "2026-05-13T11:32:03Z",
     "trending": false,
-    "source": "arXiv - Guohui Zhang, XiaoXiao Ma, Jie Huang et al."
+    "source": "arXiv - Mingzhe Huang, Weijun Wang, Xin Ding et al."
   },
   {
-    "id": "arxiv_1778715947193_2",
-    "name": "MEME: Multi-entity & Evolving Memory Evaluation",
-    "category": "nlp",
-    "description": "LLM-based agents increasingly operate in persistent environments where they must store, update, and reason over information across many sessions. While prior benchmarks evaluate only single-entity upd...",
-    "link": "http://arxiv.org/abs/2605.12477v1",
+    "id": "arxiv_1778723648612_1",
+    "name": "GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models",
+    "category": "computer-vision",
+    "description": "In Vision-Language Models (VLMs), processing a massive number of visual tokens incurs prohibitive computational overhead. While recent training-aware pruning methods attempt to selectively discard red...",
+    "link": "http://arxiv.org/abs/2605.13375v1",
     "tags": [
       "AI",
+      "Vision",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-05-13T11:32:03Z",
+    "trending": false,
+    "source": "arXiv - Mingzhe Huang, Weijun Wang, Xin Ding et al."
+  },
+  {
+    "id": "arxiv_1778723648954_0",
+    "name": "Exploiting Pre-trained Encoder-Decoder Transformers for Sequence-to-Sequence Constituent Parsing",
+    "category": "nlp",
+    "description": "To achieve deep natural language understanding, syntactic constituent parsing plays a crucial role and is widely required by many artificial intelligence systems for processing both text and speech. A...",
+    "link": "http://arxiv.org/abs/2605.13373v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "BERT"
+    ],
+    "date": "2026-05-13T11:28:56Z",
+    "trending": false,
+    "source": "arXiv - Daniel Fernández-González, Cristina Outeiriño Cid"
+  },
+  {
+    "id": "arxiv_1778723648792_0",
+    "name": "Phasor Memory Networks: Stable Backpropagation Through Time for Scalable Explicit Memory",
+    "category": "machine-learning",
+    "description": "For over a decade, explicit memory architectures like the Neural Turing Machine have remained theoretically appealing yet practically intractable for language modeling due to catastrophic gradient ins...",
+    "link": "http://arxiv.org/abs/2605.13370v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-05-13T11:28:06Z",
+    "trending": false,
+    "source": "arXiv - Sungwoo Goo, Hwi-yeol Yun, Sangkeun Jung"
+  },
+  {
+    "id": "arxiv_1778723648954_1",
+    "name": "Phasor Memory Networks: Stable Backpropagation Through Time for Scalable Explicit Memory",
+    "category": "nlp",
+    "description": "For over a decade, explicit memory architectures like the Neural Turing Machine have remained theoretically appealing yet practically intractable for language modeling due to catastrophic gradient ins...",
+    "link": "http://arxiv.org/abs/2605.13370v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-05-13T11:28:06Z",
+    "trending": false,
+    "source": "arXiv - Sungwoo Goo, Hwi-yeol Yun, Sangkeun Jung"
+  },
+  {
+    "id": "arxiv_1778723648439_1",
+    "name": "Query-Conditioned Test-Time Self-Training for Large Language Models",
+    "category": "ai",
+    "description": "Large language models (LLMs) are typically deployed with fixed parameters, and their performance is often improved by allocating more computation at inference time. While such test-time scaling can be...",
+    "link": "http://arxiv.org/abs/2605.13369v1",
+    "tags": [
+      "AI",
+      "Vision",
       "LLM",
       "Optimization"
     ],
-    "date": "2026-05-12T17:55:10Z",
-    "trending": false,
-    "source": "arXiv - Seokwon Jung, Alexander Rubinstein, Arnas Uselis et al."
+    "date": "2026-05-13T11:27:40Z",
+    "trending": true,
+    "source": "arXiv - Chaehee Song, Minseok Seo, Yeeun Seong et al."
   },
   {
-    "id": "arxiv_1778715947193_3",
-    "name": "Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixture-of-Experts",
+    "id": "arxiv_1778723648792_1",
+    "name": "Query-Conditioned Test-Time Self-Training for Large Language Models",
+    "category": "machine-learning",
+    "description": "Large language models (LLMs) are typically deployed with fixed parameters, and their performance is often improved by allocating more computation at inference time. While such test-time scaling can be...",
+    "link": "http://arxiv.org/abs/2605.13369v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-05-13T11:27:40Z",
+    "trending": false,
+    "source": "arXiv - Chaehee Song, Minseok Seo, Yeeun Seong et al."
+  },
+  {
+    "id": "arxiv_1778723648954_2",
+    "name": "Query-Conditioned Test-Time Self-Training for Large Language Models",
     "category": "nlp",
-    "description": "Sparse Mixture-of-Experts (SMoE) models enable scaling language models efficiently, but training them remains challenging, as routing can collapse onto few experts and auxiliary load-balancing losses ...",
-    "link": "http://arxiv.org/abs/2605.12476v1",
+    "description": "Large language models (LLMs) are typically deployed with fixed parameters, and their performance is often improved by allocating more computation at inference time. While such test-time scaling can be...",
+    "link": "http://arxiv.org/abs/2605.13369v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-05-13T11:27:40Z",
+    "trending": true,
+    "source": "arXiv - Chaehee Song, Minseok Seo, Yeeun Seong et al."
+  },
+  {
+    "id": "arxiv_1778723648954_3",
+    "name": "What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation",
+    "category": "nlp",
+    "description": "Iterative self-refinement is a simple inference-time strategy for machine translation: an LLM revises its own translation over multiple inference-time passes. Yet document-scale refinement remains poo...",
+    "link": "http://arxiv.org/abs/2605.13368v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-13T11:27:32Z",
+    "trending": false,
+    "source": "arXiv - Shaomu Tan, Dawei Zhu, Ke Tran et al."
+  },
+  {
+    "id": "arxiv_1778723648439_2",
+    "name": "A Horn extension of DL-Lite with NL data complexity",
+    "category": "ai",
+    "description": "The literature on ontology-mediated query answering (OMQA) has been shaped by two key results: first-order rewritability for DL-Lite, and PTime-hardness of data complexity for essentially every descri...",
+    "link": "http://arxiv.org/abs/2605.13367v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-13T11:26:32Z",
+    "trending": false,
+    "source": "arXiv - Janos Arpasi, Bartosz Jan Bednarczyk, Magdalena Ortiz"
+  },
+  {
+    "id": "arxiv_1778723648612_2",
+    "name": "Neural Surrogate Forward Modelling For Electrocardiology Without Explicit Intracellular Conductivity Tensor",
+    "category": "computer-vision",
+    "description": "Accurate forward modelling is essential for non-invasive cardiac electrophysiology, particularly in atrial fibrillation, where electrical activation is highly disorganised. Conventional physics-based ...",
+    "link": "http://arxiv.org/abs/2605.13366v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Deep Learning",
+      "GAN"
+    ],
+    "date": "2026-05-13T11:26:28Z",
+    "trending": false,
+    "source": "arXiv - Shaheim Ogbomo-Harmitt, Cesare Magnetti, Jakub Grzelak et al."
+  },
+  {
+    "id": "arxiv_1778723648792_2",
+    "name": "Neural Surrogate Forward Modelling For Electrocardiology Without Explicit Intracellular Conductivity Tensor",
+    "category": "machine-learning",
+    "description": "Accurate forward modelling is essential for non-invasive cardiac electrophysiology, particularly in atrial fibrillation, where electrical activation is highly disorganised. Conventional physics-based ...",
+    "link": "http://arxiv.org/abs/2605.13366v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Deep Learning",
+      "GAN"
+    ],
+    "date": "2026-05-13T11:26:28Z",
+    "trending": true,
+    "source": "arXiv - Shaheim Ogbomo-Harmitt, Cesare Magnetti, Jakub Grzelak et al."
+  },
+  {
+    "id": "arxiv_1778723648439_3",
+    "name": "Constitutional Governance in Metric Spaces",
+    "category": "ai",
+    "description": "Computational social choice and algorithmic decision theory offer rich aggregation theory but no end-to-end, polynomial-time process for egalitarian self-governance: prior work treats aggregation, del...",
+    "link": "http://arxiv.org/abs/2605.13362v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "Optimization"
+    ],
+    "date": "2026-05-13T11:23:34Z",
+    "trending": true,
+    "source": "arXiv - Ehud Shapiro, Nimrod Talmon"
+  },
+  {
+    "id": "arxiv_1778723648792_3",
+    "name": "Building Interactive Real-Time Agents with Asynchronous I/O and Speculative Tool Calling",
+    "category": "machine-learning",
+    "description": "There is a growing demand for agentic AI technologies for a range of downstream applications like customer service and personal assistants. For applications where the agent needs to interact with a pe...",
+    "link": "http://arxiv.org/abs/2605.13360v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-13T11:20:52Z",
+    "trending": true,
+    "source": "arXiv - Coleman Hooper, Minwoo Kang, Suhong Moon et al."
+  },
+  {
+    "id": "arxiv_1778723648439_4",
+    "name": "AI Harness Engineering: A Runtime Substrate for Foundation-Model Software Agents",
+    "category": "ai",
+    "description": "Foundation models have transformed automated code generation, yet autonomous software-engineering agents remain unreliable in realistic development settings. The dominant explanation locates this gap ...",
+    "link": "http://arxiv.org/abs/2605.13357v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-13T11:14:59Z",
+    "trending": false,
+    "source": "arXiv - Hailin Zhong, Shengxin Zhu"
+  },
+  {
+    "id": "arxiv_1778723648792_4",
+    "name": "GeoFlowVLM: Geometry-Aware Joint Uncertainty for Frozen Vision-Language Embedding",
+    "category": "machine-learning",
+    "description": "Standard dual-encoder vision-language models that map images and text to deterministic points on a shared unit hypersphere through $\\ell_2$ normalization typically expose neither \\emph{aleatoric} unce...",
+    "link": "http://arxiv.org/abs/2605.13352v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-05-12T17:55:02Z",
+    "date": "2026-05-13T11:12:18Z",
     "trending": false,
-    "source": "arXiv - Sagi Ahrac, Noya Hochwald, Mor Geva"
+    "source": "arXiv - Mayank Nautiyal, Li Ju, Andreas Hellander et al."
   },
   {
-    "id": "arxiv_1778715947193_4",
-    "name": "KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference",
-    "category": "nlp",
-    "description": "We introduce KV-Fold, a simple, training-free long-context inference protocol that treats the key-value (KV) cache as the accumulator in a left fold over sequence chunks. At each step, the model proce...",
-    "link": "http://arxiv.org/abs/2605.12471v1",
+    "id": "arxiv_1778723648612_3",
+    "name": "Drag within Prior Distribution: Text-Conditioned Point-Based Image Editing within Distribution Constraints",
+    "category": "computer-vision",
+    "description": "Diffusion-based point editing methods have gained significant traction in image editing tasks due to their ability to manipulate image semantics and fine details by applying localized perturbations on...",
+    "link": "http://arxiv.org/abs/2605.13349v1",
     "tags": [
       "AI",
-      "Transformer"
+      "Diffusion"
     ],
-    "date": "2026-05-12T17:53:47Z",
-    "trending": true,
-    "source": "arXiv - Alireza Nadali, Patrick Cooper, Ashutosh Trivedi et al."
+    "date": "2026-05-13T11:05:31Z",
+    "trending": false,
+    "source": "arXiv - Haoyang Hu, Masataka Seo, Yen-Wei Chen"
+  },
+  {
+    "id": "arxiv_1778723648954_4",
+    "name": "Probing Persona-Dependent Preferences in Language Models",
+    "category": "nlp",
+    "description": "Large language models (LLMs) can be said to have preferences: they reliably pick certain tasks and outputs over others, and preferences shaped by post-training and system prompts appear to shape much ...",
+    "link": "http://arxiv.org/abs/2605.13339v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-13T10:57:37Z",
+    "trending": false,
+    "source": "arXiv - Oscar Gilg, Pierre Beckmann, Daniel Paleka et al."
+  },
+  {
+    "id": "arxiv_1778723648612_4",
+    "name": "Ego2World: Compiling Egocentric Cooking Videos into Executable Worlds for Belief-State Planning",
+    "category": "computer-vision",
+    "description": "Embodied agents in household environments must plan under partial observation: they need to remember objects, track state changes, and recover when actions fail. Existing benchmarks only partially tes...",
+    "link": "http://arxiv.org/abs/2605.13335v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-13T10:53:15Z",
+    "trending": false,
+    "source": "arXiv - Qinchuan Cheng, Zhantao Gong, Pengzhan Sun et al."
   }
 ]
