@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1778737087638_0",
+    "id": "arxiv_1778746974585_0",
     "name": "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data",
     "category": "ai",
     "description": "This paper introduces WARDEN, an early language model system capable of transcribing and translating Wardaman, an endangered Australian indigenous language into English. The significant challenge we f...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Ziheng Zhang, Yunzhong Hou, Naijing Liu et al."
   },
   {
-    "id": "arxiv_1778737087638_1",
+    "id": "arxiv_1778746974585_1",
     "name": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
     "category": "ai",
     "description": "Voice agents, artificial intelligence systems that conduct spoken conversations to complete tasks, are increasingly deployed across enterprise applications. However, no existing benchmark jointly addr...",
@@ -23,11 +23,11 @@
       "AI"
     ],
     "date": "2026-05-13T17:58:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Tara Bogavelli, Gabrielle Gauthier Melançon, Katrina Stankiewicz et al."
   },
   {
-    "id": "arxiv_1778737087638_2",
+    "id": "arxiv_1778746974585_2",
     "name": "Topology-Preserving Neural Operator Learning via Hodge Decomposition",
     "category": "ai",
     "description": "In this paper, we study solution operators of physical field equations on geometric meshes from a function-space perspective. We reveal that Hodge orthogonality fundamentally resolves spectral interfe...",
@@ -41,7 +41,7 @@
     "source": "arXiv - Dongzhe Zheng, Tao Zhong, Christine Allen-Blanchette"
   },
   {
-    "id": "arxiv_1778737087639_3",
+    "id": "arxiv_1778746974585_3",
     "name": "Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approach",
     "category": "ai",
     "description": "Decision tree ensembles (DTE) are a popular model for a wide range of AI classification tasks, used in multiple safety critical domains, and hence verifying properties on these models has been an acti...",
@@ -50,11 +50,11 @@
       "AI"
     ],
     "date": "2026-05-13T17:52:19Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - S. Akshay, Chaitanya Garg, Ashutosh Gupta et al."
   },
   {
-    "id": "arxiv_1778737087639_4",
+    "id": "arxiv_1778746974586_4",
     "name": "Negation Neglect: When models fail to learn negations in training",
     "category": "ai",
     "description": "We introduce Negation Neglect, where finetuning LLMs on documents that flag a claim as false makes them believe the claim is true. For example, models are finetuned on documents that convey \"Ed Sheera...",
@@ -65,7 +65,7 @@
       "GPT"
     ],
     "date": "2026-05-13T17:51:31Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Harry Mayne, Lev McKinney, Jan Dubiński et al."
   }
 ]
