@@ -1,7 +1,55 @@
 [
   {
-    "id": "rss_TechCrunch_1778774736222_0",
-    "title": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, imploded",
+    "id": "rss_Ars_Technica_1778783195764_0",
+    "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Made-up therapy referrals, incorrect prescriptions among the common mistakes.\n                    ",
+    "link": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 14 May 2026 17:28:43 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1778783195764_1",
+    "title": "Vaporware or not? Aptera assembles its first five validation models.",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The three-wheel, two-seat EV has been in development since 2006.\n                    ",
+    "link": "https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/",
+    "tags": [],
+    "date": "Thu, 14 May 2026 17:06:23 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1778783195764_2",
+    "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Layoffs are \"not a savings-driven restructure,\" CFO says. \n                    ",
+    "link": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+    "tags": [],
+    "date": "Thu, 14 May 2026 16:47:43 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1778783192079_0",
+    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "A year ago, it looked like this day would never happen for Cerebras. ",
+    "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 14 May 2026 16:30:02 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1778783192079_1",
+    "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
     "category": "ai-news",
     "source": "TechCrunch",
     "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups. ",
@@ -14,7 +62,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1778774736222_1",
+    "id": "rss_TechCrunch_1778783192080_2",
     "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -27,7 +75,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1778774736222_2",
+    "id": "rss_TechCrunch_1778783192080_3",
     "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -41,11 +89,11 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1778774736222_3",
-    "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+    "id": "rss_TechCrunch_1778783192080_4",
+    "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
+    "description": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs. ",
     "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
     "tags": [
       "AI"
@@ -54,7 +102,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1778774739568_0",
+    "id": "rss_Ars_Technica_1778783195764_3",
     "title": "Forecasters predict wildfires, floods, severe heatwaves from incoming El Niño",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -65,7 +113,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1778774739568_1",
+    "id": "rss_Ars_Technica_1778783195764_4",
     "title": "Motorola Razr Fold review: Fits neatly in your pocket but not your budget",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -73,10 +121,10 @@
     "link": "https://arstechnica.com/gadgets/2026/05/motorola-razr-fold-review-looking-for-an-edge/",
     "tags": [],
     "date": "Thu, 14 May 2026 13:00:28 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778774738356_0",
+    "id": "rss_MIT_Tech_Review_1778783194325_0",
     "title": "Data readiness for agentic AI in financial services",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -86,10 +134,10 @@
       "AI"
     ],
     "date": "Thu, 14 May 2026 13:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778774738356_1",
+    "id": "rss_MIT_Tech_Review_1778783194325_1",
     "title": "Establishing AI and data sovereignty in the age of autonomous systems",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -99,10 +147,10 @@
       "AI"
     ],
     "date": "Thu, 14 May 2026 13:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1778774740646_0",
+    "id": "rss_Wired_1778783196866_0",
     "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
     "category": "ai-news",
     "source": "Wired",
@@ -112,10 +160,10 @@
       "AI"
     ],
     "date": "Thu, 14 May 2026 12:52:28 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778774738356_2",
+    "id": "rss_MIT_Tech_Review_1778783194325_2",
     "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -128,20 +176,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1778774739568_2",
-    "title": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Xi meeting may force Trump to pivot on chip restrictions and Taiwan.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 14 May 2026 11:00:58 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1778774740646_1",
+    "id": "rss_Wired_1778783196866_1",
     "title": "Gen Z Is Pioneering a New Understanding of Truth",
     "category": "ai-news",
     "source": "Wired",
@@ -149,10 +184,10 @@
     "link": "https://www.wired.com/story/book-excerpt-the-future-of-truth-steven-rosenbaum/",
     "tags": [],
     "date": "Thu, 14 May 2026 11:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778774738356_3",
+    "id": "rss_MIT_Tech_Review_1778783194325_3",
     "title": "The Tesla Semi could be a big deal for electric trucking",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -163,7 +198,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778774738357_4",
+    "id": "rss_MIT_Tech_Review_1778783194325_4",
     "title": "The shock of seeing your body used in deepfake porn ",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -174,11 +209,11 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778774740646_2",
+    "id": "rss_Wired_1778783196867_2",
     "title": "Meta’s New Reality: Record High Profits. Record Low Morale",
     "category": "ai-news",
     "source": "Wired",
-    "description": "Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where \"everyone is unhappy.\"",
+    "description": "Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where “everyone is unhappy.”",
     "link": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
     "tags": [
       "Meta"
@@ -187,21 +222,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1778774736222_4",
-    "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"\n\n",
-    "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Thu, 14 May 2026 06:05:31 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1778774740646_3",
+    "id": "rss_Wired_1778783196867_3",
     "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
     "category": "ai-news",
     "source": "Wired",
@@ -214,33 +235,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1778774739568_3",
-    "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The final flight and complex legacy of a pioneering solar-powered aircraft.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 13 May 2026 21:48:27 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1778774739568_4",
-    "title": "FCC angers small carriers by helping AT&T and Starlink buy EchoStar spectrum",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Approval is no surprise after FCC chair pressured EchoStar to sell licenses.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 13 May 2026 20:44:38 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1778774740646_4",
+    "id": "rss_Wired_1778783196867_4",
     "title": "What It Will Take to Make AI Sustainable",
     "category": "ai-news",
     "source": "Wired",
@@ -253,7 +248,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1778774748794_0",
+    "id": "rss_Distill_1778783206228_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -266,7 +261,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1778774748795_1",
+    "id": "rss_Distill_1778783206228_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -276,10 +271,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1778774748795_2",
+    "id": "rss_Distill_1778783206228_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -290,7 +285,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1778774748795_3",
+    "id": "rss_Distill_1778783206228_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -300,10 +295,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1778774748795_4",
+    "id": "rss_Distill_1778783206228_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -311,6 +306,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]

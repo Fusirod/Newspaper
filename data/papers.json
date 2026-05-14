@@ -1,1 +1,285 @@
-[]
+[
+  {
+    "id": "arxiv_1778783191505_0",
+    "name": "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data",
+    "category": "ai",
+    "description": "This paper introduces WARDEN, an early language model system capable of transcribing and translating Wardaman, an endangered Australian indigenous language into English. The significant challenge we f...",
+    "link": "http://arxiv.org/abs/2605.13846v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-13T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Ziheng Zhang, Yunzhong Hou, Naijing Liu et al."
+  },
+  {
+    "id": "arxiv_1778783191912_0",
+    "name": "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data",
+    "category": "nlp",
+    "description": "This paper introduces WARDEN, an early language model system capable of transcribing and translating Wardaman, an endangered Australian indigenous language into English. The significant challenge we f...",
+    "link": "http://arxiv.org/abs/2605.13846v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-13T17:59:52Z",
+    "trending": true,
+    "source": "arXiv - Ziheng Zhang, Yunzhong Hou, Naijing Liu et al."
+  },
+  {
+    "id": "arxiv_1778783191506_1",
+    "name": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
+    "category": "ai",
+    "description": "Voice agents, artificial intelligence systems that conduct spoken conversations to complete tasks, are increasingly deployed across enterprise applications. However, no existing benchmark jointly addr...",
+    "link": "http://arxiv.org/abs/2605.13841v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-13T17:58:52Z",
+    "trending": false,
+    "source": "arXiv - Tara Bogavelli, Gabrielle Gauthier Melançon, Katrina Stankiewicz et al."
+  },
+  {
+    "id": "arxiv_1778783191836_0",
+    "name": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
+    "category": "machine-learning",
+    "description": "Voice agents, artificial intelligence systems that conduct spoken conversations to complete tasks, are increasingly deployed across enterprise applications. However, no existing benchmark jointly addr...",
+    "link": "http://arxiv.org/abs/2605.13841v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-13T17:58:52Z",
+    "trending": false,
+    "source": "arXiv - Tara Bogavelli, Gabrielle Gauthier Melançon, Katrina Stankiewicz et al."
+  },
+  {
+    "id": "arxiv_1778783191913_1",
+    "name": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
+    "category": "nlp",
+    "description": "Voice agents, artificial intelligence systems that conduct spoken conversations to complete tasks, are increasingly deployed across enterprise applications. However, no existing benchmark jointly addr...",
+    "link": "http://arxiv.org/abs/2605.13841v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-13T17:58:52Z",
+    "trending": true,
+    "source": "arXiv - Tara Bogavelli, Gabrielle Gauthier Melançon, Katrina Stankiewicz et al."
+  },
+  {
+    "id": "arxiv_1778783191836_1",
+    "name": "What is Learnable in Valiant's Theory of the Learnable?",
+    "category": "machine-learning",
+    "description": "Valiant's 1984 paper is widely credited with introducing the PAC learning model, but it, in fact, introduced a different model: unlike PAC learning, the learner receives only positives, may issue memb...",
+    "link": "http://arxiv.org/abs/2605.13840v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-13T17:58:46Z",
+    "trending": true,
+    "source": "arXiv - Steve Hanneke, Anay Mehrotra, Grigoris Velegkas et al."
+  },
+  {
+    "id": "arxiv_1778783191913_2",
+    "name": "Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights",
+    "category": "nlp",
+    "description": "Multi-agent LLM systems usually collaborate by exchanging natural-language messages. This interface is simple and interpretable, but it forces each sender's intermediate computation to be serialized i...",
+    "link": "http://arxiv.org/abs/2605.13839v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-13T17:58:32Z",
+    "trending": false,
+    "source": "arXiv - Wenrui Bao, Huan Wang, Jian Wang et al."
+  },
+  {
+    "id": "arxiv_1778783191581_0",
+    "name": "R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow",
+    "category": "computer-vision",
+    "description": "Video-guided 3D animation holds immense potential for content creation, offering intuitive and precise control over dynamic assets. However, practical deployment faces a critical yet frequently overlo...",
+    "link": "http://arxiv.org/abs/2605.13838v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "Diffusion"
+    ],
+    "date": "2026-05-13T17:58:13Z",
+    "trending": false,
+    "source": "arXiv - Zijie Wu, Lixin Xu, Puhua Jiang et al."
+  },
+  {
+    "id": "arxiv_1778783191836_2",
+    "name": "R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow",
+    "category": "machine-learning",
+    "description": "Video-guided 3D animation holds immense potential for content creation, offering intuitive and precise control over dynamic assets. However, practical deployment faces a critical yet frequently overlo...",
+    "link": "http://arxiv.org/abs/2605.13838v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "Diffusion"
+    ],
+    "date": "2026-05-13T17:58:13Z",
+    "trending": false,
+    "source": "arXiv - Zijie Wu, Lixin Xu, Puhua Jiang et al."
+  },
+  {
+    "id": "arxiv_1778783191506_2",
+    "name": "Topology-Preserving Neural Operator Learning via Hodge Decomposition",
+    "category": "ai",
+    "description": "In this paper, we study solution operators of physical field equations on geometric meshes from a function-space perspective. We reveal that Hodge orthogonality fundamentally resolves spectral interfe...",
+    "link": "http://arxiv.org/abs/2605.13834v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-05-13T17:56:23Z",
+    "trending": false,
+    "source": "arXiv - Dongzhe Zheng, Tao Zhong, Christine Allen-Blanchette"
+  },
+  {
+    "id": "arxiv_1778783191581_1",
+    "name": "Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning",
+    "category": "computer-vision",
+    "description": "Class-Incremental Learning (CIL) enables models to continuously integrate new knowledge while mitigating catastrophic forgetting. Driven by the remarkable generalization of CLIP, leveraging pre-traine...",
+    "link": "http://arxiv.org/abs/2605.13835v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "GPT"
+    ],
+    "date": "2026-05-13T17:56:23Z",
+    "trending": false,
+    "source": "arXiv - Hao Sun, Zi-Jun Ding, Da-Wei Zhou"
+  },
+  {
+    "id": "arxiv_1778783191836_3",
+    "name": "Topology-Preserving Neural Operator Learning via Hodge Decomposition",
+    "category": "machine-learning",
+    "description": "In this paper, we study solution operators of physical field equations on geometric meshes from a function-space perspective. We reveal that Hodge orthogonality fundamentally resolves spectral interfe...",
+    "link": "http://arxiv.org/abs/2605.13834v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-05-13T17:56:23Z",
+    "trending": false,
+    "source": "arXiv - Dongzhe Zheng, Tao Zhong, Christine Allen-Blanchette"
+  },
+  {
+    "id": "arxiv_1778783191581_2",
+    "name": "QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling",
+    "category": "computer-vision",
+    "description": "Modeling long-range dependencies in sequential data remains a central challenge in machine learning. Transformers address this challenge through attention mechanisms, but their quadratic complexity wi...",
+    "link": "http://arxiv.org/abs/2605.13833v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Transformer"
+    ],
+    "date": "2026-05-13T17:56:20Z",
+    "trending": false,
+    "source": "arXiv - Hoang-Quan Nguyen, Sankalp Pandey, Khoa Luu"
+  },
+  {
+    "id": "arxiv_1778783191837_4",
+    "name": "QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling",
+    "category": "machine-learning",
+    "description": "Modeling long-range dependencies in sequential data remains a central challenge in machine learning. Transformers address this challenge through attention mechanisms, but their quadratic complexity wi...",
+    "link": "http://arxiv.org/abs/2605.13833v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Transformer"
+    ],
+    "date": "2026-05-13T17:56:20Z",
+    "trending": true,
+    "source": "arXiv - Hoang-Quan Nguyen, Sankalp Pandey, Khoa Luu"
+  },
+  {
+    "id": "arxiv_1778783191581_3",
+    "name": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context",
+    "category": "computer-vision",
+    "description": "Long-context modeling is becoming a core capability of modern large vision-language models (LVLMs), enabling sustained context management across long-document understanding, video analysis, and multi-...",
+    "link": "http://arxiv.org/abs/2605.13831v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "GPT"
+    ],
+    "date": "2026-05-13T17:52:53Z",
+    "trending": true,
+    "source": "arXiv - Zhaowei Wang, Lishu Luo, Haodong Duan et al."
+  },
+  {
+    "id": "arxiv_1778783191506_3",
+    "name": "Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approach",
+    "category": "ai",
+    "description": "Decision tree ensembles (DTE) are a popular model for a wide range of AI classification tasks, used in multiple safety critical domains, and hence verifying properties on these models has been an acti...",
+    "link": "http://arxiv.org/abs/2605.13830v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-13T17:52:19Z",
+    "trending": false,
+    "source": "arXiv - S. Akshay, Chaitanya Garg, Ashutosh Gupta et al."
+  },
+  {
+    "id": "arxiv_1778783191506_4",
+    "name": "Negation Neglect: When models fail to learn negations in training",
+    "category": "ai",
+    "description": "We introduce Negation Neglect, where finetuning LLMs on documents that flag a claim as false makes them believe the claim is true. For example, models are finetuned on documents that convey \"Ed Sheera...",
+    "link": "http://arxiv.org/abs/2605.13829v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "GPT"
+    ],
+    "date": "2026-05-13T17:51:31Z",
+    "trending": true,
+    "source": "arXiv - Harry Mayne, Lev McKinney, Jan Dubiński et al."
+  },
+  {
+    "id": "arxiv_1778783191913_3",
+    "name": "Negation Neglect: When models fail to learn negations in training",
+    "category": "nlp",
+    "description": "We introduce Negation Neglect, where finetuning LLMs on documents that flag a claim as false makes them believe the claim is true. For example, models are finetuned on documents that convey \"Ed Sheera...",
+    "link": "http://arxiv.org/abs/2605.13829v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "GPT"
+    ],
+    "date": "2026-05-13T17:51:31Z",
+    "trending": true,
+    "source": "arXiv - Harry Mayne, Lev McKinney, Jan Dubiński et al."
+  },
+  {
+    "id": "arxiv_1778783191581_4",
+    "name": "History Anchors: How Prior Behavior Steers LLM Decisions Toward Unsafe Actions",
+    "category": "computer-vision",
+    "description": "Frontier LLMs are increasingly deployed as agents that pick the next action after a long log of prior tool calls produced by the same or a different model. We ask a simple safety question: if a prior ...",
+    "link": "http://arxiv.org/abs/2605.13825v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-13T17:50:27Z",
+    "trending": true,
+    "source": "arXiv - Alberto G. Rodríguez Salgado"
+  },
+  {
+    "id": "arxiv_1778783191913_4",
+    "name": "An LLM-Based System for Argument Reconstruction",
+    "category": "nlp",
+    "description": "Arguments are a fundamental aspect of human reasoning, in which claims are supported, challenged, and weighed against one another. We present an end-to-end large language model (LLM)-based system for ...",
+    "link": "http://arxiv.org/abs/2605.13793v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-13T17:13:45Z",
+    "trending": false,
+    "source": "arXiv - Paulo Pirozelli, Victor Hugo Nascimento Rocha, Fabio G. Cozman et al."
+  }
+]
