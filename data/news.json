@@ -1,6 +1,69 @@
 [
   {
-    "id": "rss_TechCrunch_1778790121134_0",
+    "id": "rss_Ars_Technica_1778795898290_0",
+    "title": "Men use \"vocal fry\" more than women, counter to stereotype",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Study suggests \"the bias is real but socially constructed, rather than grounded in how women actually sound.\"\n                    ",
+    "link": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
+    "tags": [],
+    "date": "Thu, 14 May 2026 21:32:29 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1778795894899_0",
+    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+    "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 14 May 2026 21:30:44 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1778795898290_1",
+    "title": "Fired hacker twins forget to end Teams recording, capture own crimes",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        One little mystery—solved.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/05/fired-hacker-twins-forget-to-end-teams-recording-capture-own-crimes/",
+    "tags": [],
+    "date": "Thu, 14 May 2026 21:02:53 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1778795894899_1",
+    "title": "OpenAI says Codex is coming to your phone",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The update gives users enhanced flexibility over how they can manage their workflows. ",
+    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Thu, 14 May 2026 20:58:55 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1778795899347_0",
+    "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
+    "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Thu, 14 May 2026 20:27:34 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1778795894900_2",
     "title": "What happens when AI starts building itself?",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -11,10 +74,10 @@
       "Startup"
     ],
     "date": "Thu, 14 May 2026 19:57:20 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1778790124744_0",
+    "id": "rss_Ars_Technica_1778795898290_2",
     "title": "Cell phone users can't stop incriminating themselves",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -22,10 +85,10 @@
     "link": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
     "tags": [],
     "date": "Thu, 14 May 2026 19:27:50 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1778790124744_1",
+    "id": "rss_Ars_Technica_1778795898290_3",
     "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -36,21 +99,23 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1778790121134_1",
+    "id": "rss_TechCrunch_1778795894900_3",
     "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
+    "description": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
     "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
     "tags": [
       "AI",
-      "OpenAI"
+      "OpenAI",
+      "ChatGPT",
+      "GPT"
     ],
     "date": "Thu, 14 May 2026 19:12:03 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1778790121134_2",
+    "id": "rss_TechCrunch_1778795894900_4",
     "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -63,7 +128,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778790125848_0",
+    "id": "rss_Wired_1778795899347_1",
     "title": "Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
     "category": "ai-news",
     "source": "Wired",
@@ -74,7 +139,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1778790124744_2",
+    "id": "rss_Ars_Technica_1778795898290_4",
     "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -85,60 +150,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1778790124744_3",
-    "title": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Trump admin wants to let Musk pay $1.5M fine to settle $150 million Twitter suit.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 14 May 2026 18:45:01 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1778790124744_4",
-    "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        It's not entirely clear how the exploit works. Microsoft says it's investigating.\n                    ",
-    "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
-    "tags": [
-      "Microsoft"
-    ],
-    "date": "Thu, 14 May 2026 18:32:01 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1778790121134_3",
-    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "A year ago, it looked like this day would never happen for Cerebras. ",
-    "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 14 May 2026 16:30:02 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1778790121134_4",
-    "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups. ",
-    "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Thu, 14 May 2026 15:20:18 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1778790123393_0",
+    "id": "rss_MIT_Tech_Review_1778795897099_0",
     "title": "Data readiness for agentic AI in financial services",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -151,7 +163,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778790123394_1",
+    "id": "rss_MIT_Tech_Review_1778795897099_1",
     "title": "Establishing AI and data sovereignty in the age of autonomous systems",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -164,7 +176,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778790125848_1",
+    "id": "rss_Wired_1778795899347_2",
     "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
     "category": "ai-news",
     "source": "Wired",
@@ -177,7 +189,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1778790123394_2",
+    "id": "rss_MIT_Tech_Review_1778795897099_2",
     "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -190,7 +202,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778790125848_2",
+    "id": "rss_Wired_1778795899347_3",
     "title": "Gen Z Is Pioneering a New Understanding of Truth",
     "category": "ai-news",
     "source": "Wired",
@@ -198,10 +210,10 @@
     "link": "https://www.wired.com/story/book-excerpt-the-future-of-truth-steven-rosenbaum/",
     "tags": [],
     "date": "Thu, 14 May 2026 11:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1778790123394_3",
+    "id": "rss_MIT_Tech_Review_1778795897100_3",
     "title": "The Tesla Semi could be a big deal for electric trucking",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -212,7 +224,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1778790123394_4",
+    "id": "rss_MIT_Tech_Review_1778795897100_4",
     "title": "The shock of seeing your body used in deepfake porn ",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -223,7 +235,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1778790125848_3",
+    "id": "rss_Wired_1778795899348_4",
     "title": "Meta’s New Reality: Record High Profits. Record Low Morale",
     "category": "ai-news",
     "source": "Wired",
@@ -233,23 +245,10 @@
       "Meta"
     ],
     "date": "Thu, 14 May 2026 09:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1778790125849_4",
-    "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
-    "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 13 May 2026 21:58:47 +0000",
     "trending": false
   },
   {
-    "id": "rss_Distill_1778790135057_0",
+    "id": "rss_Distill_1778795907074_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -259,10 +258,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1778790135057_1",
+    "id": "rss_Distill_1778795907074_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -272,10 +271,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1778790135057_2",
+    "id": "rss_Distill_1778795907074_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -286,7 +285,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1778790135057_3",
+    "id": "rss_Distill_1778795907074_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -299,7 +298,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1778790135057_4",
+    "id": "rss_Distill_1778795907074_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
