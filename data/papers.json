@@ -1,296 +1,71 @@
 [
   {
-    "id": "arxiv_1778723648612_0",
-    "name": "Backbone is All You Need: Assessing Vulnerabilities of Frozen Foundation Models in Synthetic Image Forensics",
-    "category": "computer-vision",
-    "description": "As AI-generated synthetic images become increasingly realistic, Vision Transformers (ViTs) have emerged as a cornerstone of modern deepfake detection. However, the prevailing reliance on frozen, pre-t...",
-    "link": "http://arxiv.org/abs/2605.13381v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer"
-    ],
-    "date": "2026-05-13T11:35:56Z",
-    "trending": true,
-    "source": "arXiv - Chiara Musso, Joy Battocchio, Andrea Montibeller et al."
-  },
-  {
-    "id": "arxiv_1778723648439_0",
-    "name": "GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models",
+    "id": "arxiv_1778737087638_0",
+    "name": "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data",
     "category": "ai",
-    "description": "In Vision-Language Models (VLMs), processing a massive number of visual tokens incurs prohibitive computational overhead. While recent training-aware pruning methods attempt to selectively discard red...",
-    "link": "http://arxiv.org/abs/2605.13375v1",
+    "description": "This paper introduces WARDEN, an early language model system capable of transcribing and translating Wardaman, an endangered Australian indigenous language into English. The significant challenge we f...",
+    "link": "http://arxiv.org/abs/2605.13846v1",
     "tags": [
       "AI",
-      "Vision",
-      "Reinforcement Learning",
-      "Optimization"
+      "LLM"
     ],
-    "date": "2026-05-13T11:32:03Z",
+    "date": "2026-05-13T17:59:52Z",
     "trending": false,
-    "source": "arXiv - Mingzhe Huang, Weijun Wang, Xin Ding et al."
+    "source": "arXiv - Ziheng Zhang, Yunzhong Hou, Naijing Liu et al."
   },
   {
-    "id": "arxiv_1778723648612_1",
-    "name": "GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models",
-    "category": "computer-vision",
-    "description": "In Vision-Language Models (VLMs), processing a massive number of visual tokens incurs prohibitive computational overhead. While recent training-aware pruning methods attempt to selectively discard red...",
-    "link": "http://arxiv.org/abs/2605.13375v1",
+    "id": "arxiv_1778737087638_1",
+    "name": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
+    "category": "ai",
+    "description": "Voice agents, artificial intelligence systems that conduct spoken conversations to complete tasks, are increasingly deployed across enterprise applications. However, no existing benchmark jointly addr...",
+    "link": "http://arxiv.org/abs/2605.13841v1",
     "tags": [
-      "AI",
-      "Vision",
-      "Reinforcement Learning",
-      "Optimization"
+      "AI"
     ],
-    "date": "2026-05-13T11:32:03Z",
-    "trending": false,
-    "source": "arXiv - Mingzhe Huang, Weijun Wang, Xin Ding et al."
+    "date": "2026-05-13T17:58:52Z",
+    "trending": true,
+    "source": "arXiv - Tara Bogavelli, Gabrielle Gauthier Melançon, Katrina Stankiewicz et al."
   },
   {
-    "id": "arxiv_1778723648954_0",
-    "name": "Exploiting Pre-trained Encoder-Decoder Transformers for Sequence-to-Sequence Constituent Parsing",
-    "category": "nlp",
-    "description": "To achieve deep natural language understanding, syntactic constituent parsing plays a crucial role and is widely required by many artificial intelligence systems for processing both text and speech. A...",
-    "link": "http://arxiv.org/abs/2605.13373v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "BERT"
-    ],
-    "date": "2026-05-13T11:28:56Z",
-    "trending": false,
-    "source": "arXiv - Daniel Fernández-González, Cristina Outeiriño Cid"
-  },
-  {
-    "id": "arxiv_1778723648792_0",
-    "name": "Phasor Memory Networks: Stable Backpropagation Through Time for Scalable Explicit Memory",
-    "category": "machine-learning",
-    "description": "For over a decade, explicit memory architectures like the Neural Turing Machine have remained theoretically appealing yet practically intractable for language modeling due to catastrophic gradient ins...",
-    "link": "http://arxiv.org/abs/2605.13370v1",
+    "id": "arxiv_1778737087638_2",
+    "name": "Topology-Preserving Neural Operator Learning via Hodge Decomposition",
+    "category": "ai",
+    "description": "In this paper, we study solution operators of physical field equations on geometric meshes from a function-space perspective. We reveal that Hodge orthogonality fundamentally resolves spectral interfe...",
+    "link": "http://arxiv.org/abs/2605.13834v1",
     "tags": [
       "AI",
       "Neural"
     ],
-    "date": "2026-05-13T11:28:06Z",
-    "trending": false,
-    "source": "arXiv - Sungwoo Goo, Hwi-yeol Yun, Sangkeun Jung"
-  },
-  {
-    "id": "arxiv_1778723648954_1",
-    "name": "Phasor Memory Networks: Stable Backpropagation Through Time for Scalable Explicit Memory",
-    "category": "nlp",
-    "description": "For over a decade, explicit memory architectures like the Neural Turing Machine have remained theoretically appealing yet practically intractable for language modeling due to catastrophic gradient ins...",
-    "link": "http://arxiv.org/abs/2605.13370v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-05-13T11:28:06Z",
-    "trending": false,
-    "source": "arXiv - Sungwoo Goo, Hwi-yeol Yun, Sangkeun Jung"
-  },
-  {
-    "id": "arxiv_1778723648439_1",
-    "name": "Query-Conditioned Test-Time Self-Training for Large Language Models",
-    "category": "ai",
-    "description": "Large language models (LLMs) are typically deployed with fixed parameters, and their performance is often improved by allocating more computation at inference time. While such test-time scaling can be...",
-    "link": "http://arxiv.org/abs/2605.13369v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-05-13T11:27:40Z",
+    "date": "2026-05-13T17:56:23Z",
     "trending": true,
-    "source": "arXiv - Chaehee Song, Minseok Seo, Yeeun Seong et al."
+    "source": "arXiv - Dongzhe Zheng, Tao Zhong, Christine Allen-Blanchette"
   },
   {
-    "id": "arxiv_1778723648792_1",
-    "name": "Query-Conditioned Test-Time Self-Training for Large Language Models",
-    "category": "machine-learning",
-    "description": "Large language models (LLMs) are typically deployed with fixed parameters, and their performance is often improved by allocating more computation at inference time. While such test-time scaling can be...",
-    "link": "http://arxiv.org/abs/2605.13369v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-05-13T11:27:40Z",
-    "trending": false,
-    "source": "arXiv - Chaehee Song, Minseok Seo, Yeeun Seong et al."
-  },
-  {
-    "id": "arxiv_1778723648954_2",
-    "name": "Query-Conditioned Test-Time Self-Training for Large Language Models",
-    "category": "nlp",
-    "description": "Large language models (LLMs) are typically deployed with fixed parameters, and their performance is often improved by allocating more computation at inference time. While such test-time scaling can be...",
-    "link": "http://arxiv.org/abs/2605.13369v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-05-13T11:27:40Z",
-    "trending": true,
-    "source": "arXiv - Chaehee Song, Minseok Seo, Yeeun Seong et al."
-  },
-  {
-    "id": "arxiv_1778723648954_3",
-    "name": "What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation",
-    "category": "nlp",
-    "description": "Iterative self-refinement is a simple inference-time strategy for machine translation: an LLM revises its own translation over multiple inference-time passes. Yet document-scale refinement remains poo...",
-    "link": "http://arxiv.org/abs/2605.13368v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-13T11:27:32Z",
-    "trending": false,
-    "source": "arXiv - Shaomu Tan, Dawei Zhu, Ke Tran et al."
-  },
-  {
-    "id": "arxiv_1778723648439_2",
-    "name": "A Horn extension of DL-Lite with NL data complexity",
+    "id": "arxiv_1778737087639_3",
+    "name": "Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approach",
     "category": "ai",
-    "description": "The literature on ontology-mediated query answering (OMQA) has been shaped by two key results: first-order rewritability for DL-Lite, and PTime-hardness of data complexity for essentially every descri...",
-    "link": "http://arxiv.org/abs/2605.13367v1",
+    "description": "Decision tree ensembles (DTE) are a popular model for a wide range of AI classification tasks, used in multiple safety critical domains, and hence verifying properties on these models has been an acti...",
+    "link": "http://arxiv.org/abs/2605.13830v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-05-13T11:26:32Z",
-    "trending": false,
-    "source": "arXiv - Janos Arpasi, Bartosz Jan Bednarczyk, Magdalena Ortiz"
-  },
-  {
-    "id": "arxiv_1778723648612_2",
-    "name": "Neural Surrogate Forward Modelling For Electrocardiology Without Explicit Intracellular Conductivity Tensor",
-    "category": "computer-vision",
-    "description": "Accurate forward modelling is essential for non-invasive cardiac electrophysiology, particularly in atrial fibrillation, where electrical activation is highly disorganised. Conventional physics-based ...",
-    "link": "http://arxiv.org/abs/2605.13366v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Deep Learning",
-      "GAN"
-    ],
-    "date": "2026-05-13T11:26:28Z",
-    "trending": false,
-    "source": "arXiv - Shaheim Ogbomo-Harmitt, Cesare Magnetti, Jakub Grzelak et al."
-  },
-  {
-    "id": "arxiv_1778723648792_2",
-    "name": "Neural Surrogate Forward Modelling For Electrocardiology Without Explicit Intracellular Conductivity Tensor",
-    "category": "machine-learning",
-    "description": "Accurate forward modelling is essential for non-invasive cardiac electrophysiology, particularly in atrial fibrillation, where electrical activation is highly disorganised. Conventional physics-based ...",
-    "link": "http://arxiv.org/abs/2605.13366v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Deep Learning",
-      "GAN"
-    ],
-    "date": "2026-05-13T11:26:28Z",
+    "date": "2026-05-13T17:52:19Z",
     "trending": true,
-    "source": "arXiv - Shaheim Ogbomo-Harmitt, Cesare Magnetti, Jakub Grzelak et al."
+    "source": "arXiv - S. Akshay, Chaitanya Garg, Ashutosh Gupta et al."
   },
   {
-    "id": "arxiv_1778723648439_3",
-    "name": "Constitutional Governance in Metric Spaces",
+    "id": "arxiv_1778737087639_4",
+    "name": "Negation Neglect: When models fail to learn negations in training",
     "category": "ai",
-    "description": "Computational social choice and algorithmic decision theory offer rich aggregation theory but no end-to-end, polynomial-time process for egalitarian self-governance: prior work treats aggregation, del...",
-    "link": "http://arxiv.org/abs/2605.13362v1",
+    "description": "We introduce Negation Neglect, where finetuning LLMs on documents that flag a claim as false makes them believe the claim is true. For example, models are finetuned on documents that convey \"Ed Sheera...",
+    "link": "http://arxiv.org/abs/2605.13829v1",
     "tags": [
       "AI",
-      "GAN",
-      "Optimization"
+      "LLM",
+      "GPT"
     ],
-    "date": "2026-05-13T11:23:34Z",
+    "date": "2026-05-13T17:51:31Z",
     "trending": true,
-    "source": "arXiv - Ehud Shapiro, Nimrod Talmon"
-  },
-  {
-    "id": "arxiv_1778723648792_3",
-    "name": "Building Interactive Real-Time Agents with Asynchronous I/O and Speculative Tool Calling",
-    "category": "machine-learning",
-    "description": "There is a growing demand for agentic AI technologies for a range of downstream applications like customer service and personal assistants. For applications where the agent needs to interact with a pe...",
-    "link": "http://arxiv.org/abs/2605.13360v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-13T11:20:52Z",
-    "trending": true,
-    "source": "arXiv - Coleman Hooper, Minwoo Kang, Suhong Moon et al."
-  },
-  {
-    "id": "arxiv_1778723648439_4",
-    "name": "AI Harness Engineering: A Runtime Substrate for Foundation-Model Software Agents",
-    "category": "ai",
-    "description": "Foundation models have transformed automated code generation, yet autonomous software-engineering agents remain unreliable in realistic development settings. The dominant explanation locates this gap ...",
-    "link": "http://arxiv.org/abs/2605.13357v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-13T11:14:59Z",
-    "trending": false,
-    "source": "arXiv - Hailin Zhong, Shengxin Zhu"
-  },
-  {
-    "id": "arxiv_1778723648792_4",
-    "name": "GeoFlowVLM: Geometry-Aware Joint Uncertainty for Frozen Vision-Language Embedding",
-    "category": "machine-learning",
-    "description": "Standard dual-encoder vision-language models that map images and text to deterministic points on a shared unit hypersphere through $\\ell_2$ normalization typically expose neither \\emph{aleatoric} unce...",
-    "link": "http://arxiv.org/abs/2605.13352v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-13T11:12:18Z",
-    "trending": false,
-    "source": "arXiv - Mayank Nautiyal, Li Ju, Andreas Hellander et al."
-  },
-  {
-    "id": "arxiv_1778723648612_3",
-    "name": "Drag within Prior Distribution: Text-Conditioned Point-Based Image Editing within Distribution Constraints",
-    "category": "computer-vision",
-    "description": "Diffusion-based point editing methods have gained significant traction in image editing tasks due to their ability to manipulate image semantics and fine details by applying localized perturbations on...",
-    "link": "http://arxiv.org/abs/2605.13349v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-05-13T11:05:31Z",
-    "trending": false,
-    "source": "arXiv - Haoyang Hu, Masataka Seo, Yen-Wei Chen"
-  },
-  {
-    "id": "arxiv_1778723648954_4",
-    "name": "Probing Persona-Dependent Preferences in Language Models",
-    "category": "nlp",
-    "description": "Large language models (LLMs) can be said to have preferences: they reliably pick certain tasks and outputs over others, and preferences shaped by post-training and system prompts appear to shape much ...",
-    "link": "http://arxiv.org/abs/2605.13339v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-13T10:57:37Z",
-    "trending": false,
-    "source": "arXiv - Oscar Gilg, Pierre Beckmann, Daniel Paleka et al."
-  },
-  {
-    "id": "arxiv_1778723648612_4",
-    "name": "Ego2World: Compiling Egocentric Cooking Videos into Executable Worlds for Belief-State Planning",
-    "category": "computer-vision",
-    "description": "Embodied agents in household environments must plan under partial observation: they need to remember objects, track state changes, and recover when actions fail. Existing benchmarks only partially tes...",
-    "link": "http://arxiv.org/abs/2605.13335v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-13T10:53:15Z",
-    "trending": false,
-    "source": "arXiv - Qinchuan Cheng, Zhantao Gong, Pengzhan Sun et al."
+    "source": "arXiv - Harry Mayne, Lev McKinney, Jan Dubiński et al."
   }
 ]
