@@ -1,284 +1,68 @@
 [
   {
-    "id": "arxiv_1778809934289_0",
-    "name": "A Non-Monotone Preconditioned Trust-Region Method for Neural Network Training",
-    "category": "machine-learning",
-    "description": "Training deep neural networks at scale can benefit from domain decomposition, where the network is split into subdomains trained in parallel and coupled by a global trust-region mechanism. Building on...",
-    "link": "http://arxiv.org/abs/2605.14860v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-05-14T14:06:51Z",
-    "trending": false,
-    "source": "arXiv - Andrea Angino, Bindi Çapriqi, Shega Likaj et al."
-  },
-  {
-    "id": "arxiv_1778809933927_0",
-    "name": "Do Coding Agents Understand Least-Privilege Authorization?",
+    "id": "arxiv_1778823836602_0",
+    "name": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
     "category": "ai",
-    "description": "As coding agents gain access to shells, repositories, and user files, least-privilege authorization becomes a prerequisite for safe deployment: an agent should receive enough authority to complete the...",
-    "link": "http://arxiv.org/abs/2605.14859v1",
+    "description": "Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long seque...",
+    "link": "http://arxiv.org/abs/2605.15199v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-05-14T14:05:58Z",
+    "date": "2026-05-14T17:59:55Z",
     "trending": false,
-    "source": "arXiv - Zheng Yan, Jingxiang Weng, Charles Chen et al."
+    "source": "arXiv - Ruozhen He, Meng Wei, Ziyan Yang et al."
   },
   {
-    "id": "arxiv_1778809933927_1",
-    "name": "A Deterministic Agentic Workflow for HS Tariff Classification: Multi-Dimensional Rule Reasoning with Interpretable Decisions",
+    "id": "arxiv_1778823836602_1",
+    "name": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
     "category": "ai",
-    "description": "Harmonized System (HS) tariff classification is a high-stakes, expert-level task in which a free-form product description must be mapped to a specific six- or eight-digit code under the General Interp...",
-    "link": "http://arxiv.org/abs/2605.14857v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-14T14:04:46Z",
-    "trending": false,
-    "source": "arXiv - Yu Zhang, Dongjiang Zhuang, Qu Zhou et al."
-  },
-  {
-    "id": "arxiv_1778809933928_2",
-    "name": "Exploitation of Hidden Context in Dynamic Movement Forecasting: A Neural Network Journey from Recurrent to Graph Neural Networks and General Purpose Transformers",
-    "category": "ai",
-    "description": "Forecasting within signal processing pipelines is crucial for mitigating delays, particularly in predicting the dynamic movements of objects such as NBA players. This task poses significant challenges...",
-    "link": "http://arxiv.org/abs/2605.14855v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Machine Learning",
-      "Transformer"
-    ],
-    "date": "2026-05-14T14:02:45Z",
-    "trending": false,
-    "source": "arXiv - Lukas Schelenz, Shobha Rajanna, Denis Gosalci et al."
-  },
-  {
-    "id": "arxiv_1778809934289_1",
-    "name": "Exploitation of Hidden Context in Dynamic Movement Forecasting: A Neural Network Journey from Recurrent to Graph Neural Networks and General Purpose Transformers",
-    "category": "machine-learning",
-    "description": "Forecasting within signal processing pipelines is crucial for mitigating delays, particularly in predicting the dynamic movements of objects such as NBA players. This task poses significant challenges...",
-    "link": "http://arxiv.org/abs/2605.14855v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Machine Learning",
-      "Transformer"
-    ],
-    "date": "2026-05-14T14:02:45Z",
-    "trending": true,
-    "source": "arXiv - Lukas Schelenz, Shobha Rajanna, Denis Gosalci et al."
-  },
-  {
-    "id": "arxiv_1778809933928_3",
-    "name": "FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery",
-    "category": "ai",
-    "description": "Human Mesh Recovery (HMR) is fundamentally ambiguous: under occlusion or weak depth cues, multiple 3D bodies can explain the same image evidence. This ambiguity is not uniform across the body, as tors...",
-    "link": "http://arxiv.org/abs/2605.14854v1",
+    "description": "Visual reasoning, often interleaved with intermediate visual states, has emerged as a promising direction in the field. A straightforward approach is to directly generate images via unified models dur...",
+    "link": "http://arxiv.org/abs/2605.15198v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-05-14T13:59:56Z",
-    "trending": true,
-    "source": "arXiv - Patrick Kwon, Chen Chen"
+    "date": "2026-05-14T17:59:55Z",
+    "trending": false,
+    "source": "arXiv - Ziyu Guo, Rain Liu, Xinyan Chen et al."
   },
   {
-    "id": "arxiv_1778809934102_0",
-    "name": "FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery",
-    "category": "computer-vision",
-    "description": "Human Mesh Recovery (HMR) is fundamentally ambiguous: under occlusion or weak depth cues, multiple 3D bodies can explain the same image evidence. This ambiguity is not uniform across the body, as tors...",
-    "link": "http://arxiv.org/abs/2605.14854v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-14T13:59:56Z",
-    "trending": true,
-    "source": "arXiv - Patrick Kwon, Chen Chen"
-  },
-  {
-    "id": "arxiv_1778809933928_4",
-    "name": "IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification",
+    "id": "arxiv_1778823836602_2",
+    "name": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
     "category": "ai",
-    "description": "Operational plan generation and verification are critical for modern complex and rapidly changing battlefield environments, yet traditional generation and verification methods still respectively face ...",
-    "link": "http://arxiv.org/abs/2605.14851v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-14T13:58:36Z",
-    "trending": false,
-    "source": "arXiv - Zhigao Huang, Zhengqing Hu, Dong Chen et al."
-  },
-  {
-    "id": "arxiv_1778809934102_1",
-    "name": "SR-Prominence: A Crowdsourced Protocol and Dataset Suite for Perceptually-Weighted Super-Resolution Artifact Evaluation",
-    "category": "computer-vision",
-    "description": "Modern image super-resolution methods generate detailed, visually appealing results, but they often introduce visual artifacts: unnatural patterns and texture distortions that degrade perceived qualit...",
-    "link": "http://arxiv.org/abs/2605.14847v1",
+    "description": "AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we...",
+    "link": "http://arxiv.org/abs/2605.15188v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-05-14T13:56:08Z",
-    "trending": false,
-    "source": "arXiv - Ivan Molodetskikh, Kirill Malyshev, Mark Mirgaleev et al."
-  },
-  {
-    "id": "arxiv_1778809934102_2",
-    "name": "Exploring Vision-Language Models for Online Signature Verification: A Zero-Shot Capability Study",
-    "category": "computer-vision",
-    "description": "Recent advancements in Vision-Language Models (VLMs) have demonstrated strong capabilities in general visual reasoning, yet their applicability to rigorous biometric tasks remains unexplored. This wor...",
-    "link": "http://arxiv.org/abs/2605.14845v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GPT"
-    ],
-    "date": "2026-05-14T13:53:28Z",
-    "trending": false,
-    "source": "arXiv - Marta Robledo-Moreno, Ruben Vera-Rodriguez, Ruben Tolosana et al."
-  },
-  {
-    "id": "arxiv_1778809934289_2",
-    "name": "XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference",
-    "category": "machine-learning",
-    "description": "We introduce XFP, a dynamic weight quantizer for LLM inference that inverts the conventional workflow: the operator specifies reconstruction quality floors on per-channel cosine similarity (one strict...",
-    "link": "http://arxiv.org/abs/2605.14844v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-14T13:52:31Z",
-    "trending": false,
-    "source": "arXiv - Thomas Witt"
-  },
-  {
-    "id": "arxiv_1778809934102_3",
-    "name": "MechVerse: Evaluating Physical Motion Consistency in Video Generation Models",
-    "category": "computer-vision",
-    "description": "Text- and image-conditioned video generation models have achieved strong visual fidelity and temporal coherence, but they often fail to generate motion governed by kinematic and geometric constraints....",
-    "link": "http://arxiv.org/abs/2605.14843v1",
-    "tags": [
-      "AI",
-      "GAN"
-    ],
-    "date": "2026-05-14T13:48:17Z",
+    "date": "2026-05-14T17:59:28Z",
     "trending": true,
-    "source": "arXiv - Rahul Jain, Mayank Patel, Asim Unmesh et al."
+    "source": "arXiv - Shashwat Goel, Nikhil Chandak, Arvindh Arun et al."
   },
   {
-    "id": "arxiv_1778809934102_4",
-    "name": "Editor's Choice: Evaluating Abstract Intent in Image Editing through Atomic Entity Analysis",
-    "category": "computer-vision",
-    "description": "Humans naturally communicate through abstract concepts like \"mood\". However, current image editing benchmarks focus primarily on explicit, literal commands, leaving abstract instructions largely under...",
-    "link": "http://arxiv.org/abs/2605.14842v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-14T13:46:24Z",
-    "trending": false,
-    "source": "arXiv - Mor Ventura, Roy Hirsch, Yonatan Bitton et al."
-  },
-  {
-    "id": "arxiv_1778809934289_3",
-    "name": "GPart: End-to-End Isometric Fine-Tuning via Global Parameter Partitioning",
-    "category": "machine-learning",
-    "description": "Low-rank adaptation (LoRA) has become the dominant paradigm for parameter-efficient fine-tuning (PEFT) of large language models (LLMs). However, its bilinear structure introduces a critical limitation...",
-    "link": "http://arxiv.org/abs/2605.14841v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GAN",
-      "LLM"
-    ],
-    "date": "2026-05-14T13:46:04Z",
-    "trending": false,
-    "source": "arXiv - Paolo Mandica, Michał Brzozowski, Zuzanna Dubanowska et al."
-  },
-  {
-    "id": "arxiv_1778809934289_4",
-    "name": "In-Context Learning for Data-Driven Censored Inventory Control",
-    "category": "machine-learning",
-    "description": "We study inventory control with decision-dependent censoring, focusing on the censored or repeated newsvendor (R-NV), where each order quantity determines whether demand is fully observed or censored ...",
-    "link": "http://arxiv.org/abs/2605.14840v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "Optimization"
-    ],
-    "date": "2026-05-14T13:45:20Z",
-    "trending": false,
-    "source": "arXiv - Sohom Mukherjee, Anh-Duy Pham, Richard Pibernik et al."
-  },
-  {
-    "id": "arxiv_1778809934470_0",
-    "name": "Conversion of Lexicon-Grammar tables to LMF. Application to French",
-    "category": "nlp",
-    "description": "We describe the first experiment of conversion of Lexicon-Grammar tables for French verbs into the Lexical Markup Framework (LMF) format. The Lexicon-Grammar of the French language is currently one of...",
-    "link": "http://arxiv.org/abs/2605.14816v1",
+    "id": "arxiv_1778823836603_3",
+    "name": "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction",
+    "category": "ai",
+    "description": "High-quality 3D scene reconstruction has recently advanced toward generalizable feed-forward architectures, enabling the generation of complex environments in a single forward pass. However, despite t...",
+    "link": "http://arxiv.org/abs/2605.15186v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-05-14T13:28:24Z",
+    "date": "2026-05-14T17:59:04Z",
     "trending": true,
-    "source": "arXiv - Eric Laporte, Elsa Tolone, Mathieu Constant"
+    "source": "arXiv - Kaixin Zhu, Yiwen Tang, Yifan Yang et al."
   },
   {
-    "id": "arxiv_1778809934470_1",
-    "name": "Graphs of Research: Citation Evolution Graphs as Supervision for Research Idea Generation",
-    "category": "nlp",
-    "description": "Research idea generation is the innovation-driving step of automated scientific research. Recently, large language models (LLMs) have shown potential for automating idea generation at scale. However, ...",
-    "link": "http://arxiv.org/abs/2605.14790v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "NLP",
-      "GAN"
-    ],
-    "date": "2026-05-14T12:57:56Z",
-    "trending": false,
-    "source": "arXiv - Songyang Gao, Yinghui Xia, Siyi Liu et al."
-  },
-  {
-    "id": "arxiv_1778809934470_2",
-    "name": "Do Composed Image Retrieval Benchmarks Require Multimodal Composition?",
-    "category": "nlp",
-    "description": "Composed Image Retrieval (CIR) is a multimodal retrieval task where a query consists of a reference image and a textual modification, and the goal is to retrieve a target image satisfying both. In pri...",
-    "link": "http://arxiv.org/abs/2605.14787v1",
-    "tags": [],
-    "date": "2026-05-14T12:56:36Z",
-    "trending": false,
-    "source": "arXiv - Matteo Attimonelli, Alessandro De Bellis, Aryo Pradipta Gema et al."
-  },
-  {
-    "id": "arxiv_1778809934470_3",
-    "name": "Streaming Speech-to-Text Translation with a SpeechLLM",
-    "category": "nlp",
-    "description": "Normally, a system that translates speech into text consists of separate modules for speech recognition and text-to-text translation. Combining those tasks into a SpeechLLM promises to exploit paralin...",
-    "link": "http://arxiv.org/abs/2605.14766v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-14T12:32:57Z",
-    "trending": true,
-    "source": "arXiv - Titouan Parcollet, Shucong Zhang, Xianrui Zheng et al."
-  },
-  {
-    "id": "arxiv_1778809934470_4",
-    "name": "Persian MusicGen: A Large-Scale Dataset and Culturally-Aware Generative Model for Persian Music",
-    "category": "nlp",
-    "description": "Persian music, with its unique tonalities, modal systems (Dastgah), and rhythmic structures, presents significant challenges for music generation models trained primarily on Western music. We address ...",
-    "link": "http://arxiv.org/abs/2605.14765v1",
+    "id": "arxiv_1778823836603_4",
+    "name": "Quantitative Video World Model Evaluation for Geometric-Consistency",
+    "category": "ai",
+    "description": "Generative video models are increasingly studied as implicit world models, yet evaluating whether they produce physically plausible 3D structure and motion remains challenging. Most existing video eva...",
+    "link": "http://arxiv.org/abs/2605.15185v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-05-14T12:31:46Z",
-    "trending": false,
-    "source": "arXiv - Mohammad Hossein Sameti, Diba Hadi Esfangereh, Sepehr Harfi Moridani et al."
+    "date": "2026-05-14T17:59:04Z",
+    "trending": true,
+    "source": "arXiv - Jiaxin Wu, Yihao Pi, Yinling Zhang et al."
   }
 ]
