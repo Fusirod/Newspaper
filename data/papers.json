@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1778963760935_0",
+    "id": "arxiv_1778967423610_0",
     "name": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
     "category": "ai",
     "description": "Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long seque...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Ruozhen He, Meng Wei, Ziyan Yang et al."
   },
   {
-    "id": "arxiv_1778963760935_1",
+    "id": "arxiv_1778967423610_1",
     "name": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
     "category": "ai",
     "description": "Visual reasoning, often interleaved with intermediate visual states, has emerged as a promising direction in the field. A straightforward approach is to directly generate images via unified models dur...",
@@ -23,38 +23,11 @@
       "Vision"
     ],
     "date": "2026-05-14T17:59:55Z",
-    "trending": true,
-    "source": "arXiv - Ziyu Guo, Rain Liu, Xinyan Chen et al."
-  },
-  {
-    "id": "arxiv_1778963760960_0",
-    "name": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
-    "category": "computer-vision",
-    "description": "Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long seque...",
-    "link": "http://arxiv.org/abs/2605.15199v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-14T17:59:55Z",
-    "trending": false,
-    "source": "arXiv - Ruozhen He, Meng Wei, Ziyan Yang et al."
-  },
-  {
-    "id": "arxiv_1778963760960_1",
-    "name": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
-    "category": "computer-vision",
-    "description": "Visual reasoning, often interleaved with intermediate visual states, has emerged as a promising direction in the field. A straightforward approach is to directly generate images via unified models dur...",
-    "link": "http://arxiv.org/abs/2605.15198v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-14T17:59:55Z",
     "trending": false,
     "source": "arXiv - Ziyu Guo, Rain Liu, Xinyan Chen et al."
   },
   {
-    "id": "arxiv_1778963761006_0",
+    "id": "arxiv_1778967454666_0",
     "name": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
     "category": "nlp",
     "description": "Visual reasoning, often interleaved with intermediate visual states, has emerged as a promising direction in the field. A straightforward approach is to directly generate images via unified models dur...",
@@ -68,21 +41,7 @@
     "source": "arXiv - Ziyu Guo, Rain Liu, Xinyan Chen et al."
   },
   {
-    "id": "arxiv_1778963760960_2",
-    "name": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding",
-    "category": "computer-vision",
-    "description": "Video generation powers a vast array of downstream applications. However, while the de facto standard, i.e., latent diffusion models, typically employ heavily conditioned denoising networks, their dec...",
-    "link": "http://arxiv.org/abs/2605.15196v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-05-14T17:59:52Z",
-    "trending": false,
-    "source": "arXiv - Xiang Fan, Yuheng Wang, Bohan Fang et al."
-  },
-  {
-    "id": "arxiv_1778963760982_0",
+    "id": "arxiv_1778967454652_0",
     "name": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding",
     "category": "machine-learning",
     "description": "Video generation powers a vast array of downstream applications. However, while the de facto standard, i.e., latent diffusion models, typically employ heavily conditioned denoising networks, their dec...",
@@ -92,40 +51,11 @@
       "Diffusion"
     ],
     "date": "2026-05-14T17:59:52Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xiang Fan, Yuheng Wang, Bohan Fang et al."
   },
   {
-    "id": "arxiv_1778963760960_3",
-    "name": "VGGT-$Ω$",
-    "category": "computer-vision",
-    "description": "Recent feed-forward reconstruction models, such as VGGT, have proven competitive with traditional optimization-based reconstructors while also providing geometry-aware features useful for other tasks....",
-    "link": "http://arxiv.org/abs/2605.15195v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Optimization"
-    ],
-    "date": "2026-05-14T17:59:51Z",
-    "trending": false,
-    "source": "arXiv - Jianyuan Wang, Minghao Chen, Shangzhan Zhang et al."
-  },
-  {
-    "id": "arxiv_1778963760960_4",
-    "name": "Aligning Latent Geometry for Spherical Flow Matching in Image Generation",
-    "category": "computer-vision",
-    "description": "Latent flow matching for image generation usually transports Gaussian noise to variational autoencoder latents along linear paths. Both endpoints, however, concentrate in thin spherical shells, and a ...",
-    "link": "http://arxiv.org/abs/2605.15193v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-05-14T17:59:37Z",
-    "trending": false,
-    "source": "arXiv - Tuna Han Salih Meral, Kaan Oktay, Hidir Yesiltepe et al."
-  },
-  {
-    "id": "arxiv_1778963760935_2",
+    "id": "arxiv_1778967423610_2",
     "name": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
     "category": "ai",
     "description": "AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we...",
@@ -138,7 +68,7 @@
     "source": "arXiv - Shashwat Goel, Nikhil Chandak, Arvindh Arun et al."
   },
   {
-    "id": "arxiv_1778963760982_1",
+    "id": "arxiv_1778967454652_1",
     "name": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
     "category": "machine-learning",
     "description": "AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we...",
@@ -151,7 +81,7 @@
     "source": "arXiv - Shashwat Goel, Nikhil Chandak, Arvindh Arun et al."
   },
   {
-    "id": "arxiv_1778963761006_1",
+    "id": "arxiv_1778967454666_1",
     "name": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
     "category": "nlp",
     "description": "AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we...",
@@ -164,7 +94,7 @@
     "source": "arXiv - Shashwat Goel, Nikhil Chandak, Arvindh Arun et al."
   },
   {
-    "id": "arxiv_1778963760936_3",
+    "id": "arxiv_1778967423611_3",
     "name": "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction",
     "category": "ai",
     "description": "High-quality 3D scene reconstruction has recently advanced toward generalizable feed-forward architectures, enabling the generation of complex environments in a single forward pass. However, despite t...",
@@ -177,7 +107,7 @@
     "source": "arXiv - Kaixin Zhu, Yiwen Tang, Yifan Yang et al."
   },
   {
-    "id": "arxiv_1778963760936_4",
+    "id": "arxiv_1778967423611_4",
     "name": "Quantitative Video World Model Evaluation for Geometric-Consistency",
     "category": "ai",
     "description": "Generative video models are increasingly studied as implicit world models, yet evaluating whether they produce physically plausible 3D structure and motion remains challenging. Most existing video eva...",
@@ -190,7 +120,7 @@
     "source": "arXiv - Jiaxin Wu, Yihao Pi, Yinling Zhang et al."
   },
   {
-    "id": "arxiv_1778963761006_2",
+    "id": "arxiv_1778967454666_2",
     "name": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
     "category": "nlp",
     "description": "Recent advances in Large Language Model (LLM) agents have enabled complex agentic workflows where models autonomously retrieve information, call tools, and reason over large corpora to complete tasks ...",
@@ -205,7 +135,7 @@
     "source": "arXiv - Sahil Sen, Akhil Kasturi, Elias Lumer et al."
   },
   {
-    "id": "arxiv_1778963760983_2",
+    "id": "arxiv_1778967454652_2",
     "name": "When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability",
     "category": "machine-learning",
     "description": "Mechanistic interpretability aims to break models into meaningful parts; verifying that two such parts implement the same computation is a prerequisite. Existing similarity measures evaluate either em...",
@@ -214,11 +144,11 @@
       "AI"
     ],
     "date": "2026-05-14T17:58:27Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - ML Nissen Gonzalez, Melwina Albuquerque, Laurence Wroe et al."
   },
   {
-    "id": "arxiv_1778963760983_3",
+    "id": "arxiv_1778967454653_3",
     "name": "Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing",
     "category": "machine-learning",
     "description": "Scaling Scientific Machine Learning (SciML) toward universal foundation models is bottlenecked by negative transfer: the simultaneous co-training of disparate partial differential equation (PDE) regim...",
@@ -234,7 +164,7 @@
     "source": "arXiv - Ellwil Sharma, Arastu Sharma"
   },
   {
-    "id": "arxiv_1778963761006_3",
+    "id": "arxiv_1778967454667_3",
     "name": "MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs",
     "category": "nlp",
     "description": "Backdoor attacks pose a serious security threat to large language models (LLMs), which are increasingly deployed as general-purpose assistants in safety- and privacy-critical applications. Existing LL...",
@@ -244,11 +174,11 @@
       "LLM"
     ],
     "date": "2026-05-14T17:56:22Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Rui Wen, Mark Russinovich, Andrew Paverd et al."
   },
   {
-    "id": "arxiv_1778963760983_4",
+    "id": "arxiv_1778967454653_4",
     "name": "Evidential Reasoning Advances Interpretable Real-World Disease Screening",
     "category": "machine-learning",
     "description": "Disease screening is critical for early detection and timely intervention in clinical practice. However, most current screening models for medical images suffer from limited interpretability and subop...",
@@ -257,11 +187,11 @@
       "AI"
     ],
     "date": "2026-05-14T17:56:07Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Chenyu Lian, Hong-Yu Zhou, Jing Qin"
   },
   {
-    "id": "arxiv_1778963761006_4",
+    "id": "arxiv_1778967454667_4",
     "name": "Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieval-Augmented Multimodal Alignment",
     "category": "nlp",
     "description": "Reconstructing precise clinical timelines is essential for modeling patient trajectories and forecasting risk in complex, heterogeneous conditions like sepsis. While unstructured clinical narratives o...",
