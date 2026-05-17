@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "id": "arxiv_1779022140688_0",
+    "name": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
+    "category": "ai",
+    "description": "Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long seque...",
+    "link": "http://arxiv.org/abs/2605.15199v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-14T17:59:55Z",
+    "trending": false,
+    "source": "arXiv - Ruozhen He, Meng Wei, Ziyan Yang et al."
+  },
+  {
+    "id": "arxiv_1779022140688_1",
+    "name": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
+    "category": "ai",
+    "description": "Visual reasoning, often interleaved with intermediate visual states, has emerged as a promising direction in the field. A straightforward approach is to directly generate images via unified models dur...",
+    "link": "http://arxiv.org/abs/2605.15198v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-14T17:59:55Z",
+    "trending": false,
+    "source": "arXiv - Ziyu Guo, Rain Liu, Xinyan Chen et al."
+  },
+  {
+    "id": "arxiv_1779022140688_2",
+    "name": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
+    "category": "ai",
+    "description": "AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we...",
+    "link": "http://arxiv.org/abs/2605.15188v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-14T17:59:28Z",
+    "trending": false,
+    "source": "arXiv - Shashwat Goel, Nikhil Chandak, Arvindh Arun et al."
+  },
+  {
+    "id": "arxiv_1779022140688_3",
+    "name": "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction",
+    "category": "ai",
+    "description": "High-quality 3D scene reconstruction has recently advanced toward generalizable feed-forward architectures, enabling the generation of complex environments in a single forward pass. However, despite t...",
+    "link": "http://arxiv.org/abs/2605.15186v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-14T17:59:04Z",
+    "trending": false,
+    "source": "arXiv - Kaixin Zhu, Yiwen Tang, Yifan Yang et al."
+  },
+  {
+    "id": "arxiv_1779022140689_4",
+    "name": "Quantitative Video World Model Evaluation for Geometric-Consistency",
+    "category": "ai",
+    "description": "Generative video models are increasingly studied as implicit world models, yet evaluating whether they produce physically plausible 3D structure and motion remains challenging. Most existing video eva...",
+    "link": "http://arxiv.org/abs/2605.15185v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-14T17:59:04Z",
+    "trending": false,
+    "source": "arXiv - Jiaxin Wu, Yihao Pi, Yinling Zhang et al."
+  }
+]
