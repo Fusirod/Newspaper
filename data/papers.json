@@ -1,207 +1,212 @@
 [
   {
-    "id": "arxiv_1779069503868_0",
-    "name": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
+    "id": "arxiv_1779084603065_0",
+    "name": "IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation",
     "category": "ai",
-    "description": "Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long seque...",
-    "link": "http://arxiv.org/abs/2605.15199v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-14T17:59:55Z",
-    "trending": false,
-    "source": "arXiv - Ruozhen He, Meng Wei, Ziyan Yang et al."
-  },
-  {
-    "id": "arxiv_1779069503869_1",
-    "name": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
-    "category": "ai",
-    "description": "Visual reasoning, often interleaved with intermediate visual states, has emerged as a promising direction in the field. A straightforward approach is to directly generate images via unified models dur...",
-    "link": "http://arxiv.org/abs/2605.15198v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-14T17:59:55Z",
-    "trending": false,
-    "source": "arXiv - Ziyu Guo, Rain Liu, Xinyan Chen et al."
-  },
-  {
-    "id": "arxiv_1779069503884_0",
-    "name": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
-    "category": "computer-vision",
-    "description": "Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long seque...",
-    "link": "http://arxiv.org/abs/2605.15199v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-14T17:59:55Z",
-    "trending": false,
-    "source": "arXiv - Ruozhen He, Meng Wei, Ziyan Yang et al."
-  },
-  {
-    "id": "arxiv_1779069503884_1",
-    "name": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
-    "category": "computer-vision",
-    "description": "Visual reasoning, often interleaved with intermediate visual states, has emerged as a promising direction in the field. A straightforward approach is to directly generate images via unified models dur...",
-    "link": "http://arxiv.org/abs/2605.15198v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-14T17:59:55Z",
-    "trending": false,
-    "source": "arXiv - Ziyu Guo, Rain Liu, Xinyan Chen et al."
-  },
-  {
-    "id": "arxiv_1779069503884_2",
-    "name": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding",
-    "category": "computer-vision",
-    "description": "Video generation powers a vast array of downstream applications. However, while the de facto standard, i.e., latent diffusion models, typically employ heavily conditioned denoising networks, their dec...",
-    "link": "http://arxiv.org/abs/2605.15196v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-05-14T17:59:52Z",
-    "trending": false,
-    "source": "arXiv - Xiang Fan, Yuheng Wang, Bohan Fang et al."
-  },
-  {
-    "id": "arxiv_1779069534731_0",
-    "name": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding",
-    "category": "machine-learning",
-    "description": "Video generation powers a vast array of downstream applications. However, while the de facto standard, i.e., latent diffusion models, typically employ heavily conditioned denoising networks, their dec...",
-    "link": "http://arxiv.org/abs/2605.15196v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-05-14T17:59:52Z",
-    "trending": false,
-    "source": "arXiv - Xiang Fan, Yuheng Wang, Bohan Fang et al."
-  },
-  {
-    "id": "arxiv_1779069503885_3",
-    "name": "VGGT-$Ω$",
-    "category": "computer-vision",
-    "description": "Recent feed-forward reconstruction models, such as VGGT, have proven competitive with traditional optimization-based reconstructors while also providing geometry-aware features useful for other tasks....",
-    "link": "http://arxiv.org/abs/2605.15195v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Optimization"
-    ],
-    "date": "2026-05-14T17:59:51Z",
-    "trending": false,
-    "source": "arXiv - Jianyuan Wang, Minghao Chen, Shangzhan Zhang et al."
-  },
-  {
-    "id": "arxiv_1779069503885_4",
-    "name": "Aligning Latent Geometry for Spherical Flow Matching in Image Generation",
-    "category": "computer-vision",
-    "description": "Latent flow matching for image generation usually transports Gaussian noise to variational autoencoder latents along linear paths. Both endpoints, however, concentrate in thin spherical shells, and a ...",
-    "link": "http://arxiv.org/abs/2605.15193v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-05-14T17:59:37Z",
-    "trending": false,
-    "source": "arXiv - Tuna Han Salih Meral, Kaan Oktay, Hidir Yesiltepe et al."
-  },
-  {
-    "id": "arxiv_1779069503869_2",
-    "name": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
-    "category": "ai",
-    "description": "AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we...",
-    "link": "http://arxiv.org/abs/2605.15188v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-14T17:59:28Z",
-    "trending": false,
-    "source": "arXiv - Shashwat Goel, Nikhil Chandak, Arvindh Arun et al."
-  },
-  {
-    "id": "arxiv_1779069534731_1",
-    "name": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
-    "category": "machine-learning",
-    "description": "AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we...",
-    "link": "http://arxiv.org/abs/2605.15188v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-14T17:59:28Z",
-    "trending": false,
-    "source": "arXiv - Shashwat Goel, Nikhil Chandak, Arvindh Arun et al."
-  },
-  {
-    "id": "arxiv_1779069503869_3",
-    "name": "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction",
-    "category": "ai",
-    "description": "High-quality 3D scene reconstruction has recently advanced toward generalizable feed-forward architectures, enabling the generation of complex environments in a single forward pass. However, despite t...",
-    "link": "http://arxiv.org/abs/2605.15186v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-14T17:59:04Z",
-    "trending": false,
-    "source": "arXiv - Kaixin Zhu, Yiwen Tang, Yifan Yang et al."
-  },
-  {
-    "id": "arxiv_1779069503869_4",
-    "name": "Quantitative Video World Model Evaluation for Geometric-Consistency",
-    "category": "ai",
-    "description": "Generative video models are increasingly studied as implicit world models, yet evaluating whether they produce physically plausible 3D structure and motion remains challenging. Most existing video eva...",
-    "link": "http://arxiv.org/abs/2605.15185v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-14T17:59:04Z",
-    "trending": false,
-    "source": "arXiv - Jiaxin Wu, Yihao Pi, Yinling Zhang et al."
-  },
-  {
-    "id": "arxiv_1779069534731_2",
-    "name": "When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability",
-    "category": "machine-learning",
-    "description": "Mechanistic interpretability aims to break models into meaningful parts; verifying that two such parts implement the same computation is a prerequisite. Existing similarity measures evaluate either em...",
-    "link": "http://arxiv.org/abs/2605.15183v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-14T17:58:27Z",
-    "trending": false,
-    "source": "arXiv - ML Nissen Gonzalez, Melwina Albuquerque, Laurence Wroe et al."
-  },
-  {
-    "id": "arxiv_1779069534731_3",
-    "name": "Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing",
-    "category": "machine-learning",
-    "description": "Scaling Scientific Machine Learning (SciML) toward universal foundation models is bottlenecked by negative transfer: the simultaneous co-training of disparate partial differential equation (PDE) regim...",
-    "link": "http://arxiv.org/abs/2605.15179v1",
+    "description": "Reconstructing coherent 3D geometry and appearance from unposed multi-view images is a fundamental yet challenging problem in computer vision. Most existing visual geometry foundation models predict e...",
+    "link": "http://arxiv.org/abs/2605.16258v1",
     "tags": [
       "AI",
       "Neural",
-      "Machine Learning",
+      "Vision",
       "Transformer"
     ],
-    "date": "2026-05-14T17:58:15Z",
-    "trending": false,
-    "source": "arXiv - Ellwil Sharma, Arastu Sharma"
+    "date": "2026-05-15T17:59:57Z",
+    "trending": true,
+    "source": "arXiv - Yuqi Wu, Tianyu Hu, Wenzhao Zheng et al."
   },
   {
-    "id": "arxiv_1779069534731_4",
-    "name": "Evidential Reasoning Advances Interpretable Real-World Disease Screening",
+    "id": "arxiv_1779084603065_1",
+    "name": "Designing Datacenter Power Delivery Hierarchies for the AI Era",
+    "category": "ai",
+    "description": "Demand for AI accelerators is rapidly increasing rack power density, with projections approaching 1MW per deployment by 2027. This poses a major challenge for datacenter power delivery designers. As p...",
+    "link": "http://arxiv.org/abs/2605.16255v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-15T17:58:58Z",
+    "trending": false,
+    "source": "arXiv - Grant Wilkins, Fiodar Kazhamiaka, Alok Gautam Kumbhare et al."
+  },
+  {
+    "id": "arxiv_1779084603065_2",
+    "name": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
+    "category": "ai",
+    "description": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load against grid stress and emissions constr...",
+    "link": "http://arxiv.org/abs/2605.16250v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-05-15T17:52:57Z",
+    "trending": false,
+    "source": "arXiv - Pavan Manjunath, Thomas Pruefer"
+  },
+  {
+    "id": "arxiv_1779084603202_0",
+    "name": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
     "category": "machine-learning",
-    "description": "Disease screening is critical for early detection and timely intervention in clinical practice. However, most current screening models for medical images suffer from limited interpretability and subop...",
-    "link": "http://arxiv.org/abs/2605.15171v1",
+    "description": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load against grid stress and emissions constr...",
+    "link": "http://arxiv.org/abs/2605.16250v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-05-15T17:52:57Z",
+    "trending": false,
+    "source": "arXiv - Pavan Manjunath, Thomas Pruefer"
+  },
+  {
+    "id": "arxiv_1779084603226_0",
+    "name": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
+    "category": "nlp",
+    "description": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load against grid stress and emissions constr...",
+    "link": "http://arxiv.org/abs/2605.16250v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-05-15T17:52:57Z",
+    "trending": false,
+    "source": "arXiv - Pavan Manjunath, Thomas Pruefer"
+  },
+  {
+    "id": "arxiv_1779084603065_3",
+    "name": "AI-Mediated Communication Can Steer Collective Opinion",
+    "category": "ai",
+    "description": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now polish users' posts on LinkedIn and provid...",
+    "link": "http://arxiv.org/abs/2605.16245v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-15T17:49:24Z",
+    "trending": false,
+    "source": "arXiv - Stratis Tsirtsis, Kai Rawal, Chris Russell et al."
+  },
+  {
+    "id": "arxiv_1779084603202_1",
+    "name": "AI-Mediated Communication Can Steer Collective Opinion",
+    "category": "machine-learning",
+    "description": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now polish users' posts on LinkedIn and provid...",
+    "link": "http://arxiv.org/abs/2605.16245v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-15T17:49:24Z",
+    "trending": true,
+    "source": "arXiv - Stratis Tsirtsis, Kai Rawal, Chris Russell et al."
+  },
+  {
+    "id": "arxiv_1779084603226_1",
+    "name": "AI-Mediated Communication Can Steer Collective Opinion",
+    "category": "nlp",
+    "description": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now polish users' posts on LinkedIn and provid...",
+    "link": "http://arxiv.org/abs/2605.16245v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-15T17:49:24Z",
+    "trending": false,
+    "source": "arXiv - Stratis Tsirtsis, Kai Rawal, Chris Russell et al."
+  },
+  {
+    "id": "arxiv_1779084603065_4",
+    "name": "Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation",
+    "category": "ai",
+    "description": "Billion-parameter Vision-Language-Action (VLA) policies have recently shown impressive performance in robotic manipulation, yet their size and inference cost remain major obstacles for real-time close...",
+    "link": "http://arxiv.org/abs/2605.16241v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-15T17:48:25Z",
+    "trending": false,
+    "source": "arXiv - Jin Shi, Brady Zhang, Yishun Lu"
+  },
+  {
+    "id": "arxiv_1779084603202_2",
+    "name": "Dynamics-Level Watermarking of Flow Matching Models with Random Codes",
+    "category": "machine-learning",
+    "description": "We introduce a dynamics-level approach to watermarking generative models. Rather than embedding signals into model weights or outputs, we embed the watermark directly into the learned continuous dynam...",
+    "link": "http://arxiv.org/abs/2605.16239v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-05-14T17:56:07Z",
+    "date": "2026-05-15T17:48:22Z",
     "trending": false,
-    "source": "arXiv - Chenyu Lian, Hong-Yu Zhou, Jing Qin"
+    "source": "arXiv - Shuchan Wang"
+  },
+  {
+    "id": "arxiv_1779084603202_3",
+    "name": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find",
+    "category": "machine-learning",
+    "description": "When researchers ask whether two transformer layers are \"equivalent\" for compression, they often conflate distinct tests. Replacement asks whether one layer's map can substitute for another's in place...",
+    "link": "http://arxiv.org/abs/2605.16234v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-05-15T17:43:16Z",
+    "trending": false,
+    "source": "arXiv - Gabriel Garcia"
+  },
+  {
+    "id": "arxiv_1779084603227_2",
+    "name": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find",
+    "category": "nlp",
+    "description": "When researchers ask whether two transformer layers are \"equivalent\" for compression, they often conflate distinct tests. Replacement asks whether one layer's map can substitute for another's in place...",
+    "link": "http://arxiv.org/abs/2605.16234v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-05-15T17:43:16Z",
+    "trending": false,
+    "source": "arXiv - Gabriel Garcia"
+  },
+  {
+    "id": "arxiv_1779084603202_4",
+    "name": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
+    "category": "machine-learning",
+    "description": "Can LLM agents improve decision-making through self-generated memory without gradient updates? We propose FORGE (Failure-Optimized Reflective Graduation and Evolution), a staged, population-based prot...",
+    "link": "http://arxiv.org/abs/2605.16233v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-15T17:42:49Z",
+    "trending": true,
+    "source": "arXiv - Igor Bogdanov, Chung-Horng Lung, Thomas Kunz et al."
+  },
+  {
+    "id": "arxiv_1779084603227_3",
+    "name": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
+    "category": "nlp",
+    "description": "Can LLM agents improve decision-making through self-generated memory without gradient updates? We propose FORGE (Failure-Optimized Reflective Graduation and Evolution), a staged, population-based prot...",
+    "link": "http://arxiv.org/abs/2605.16233v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-15T17:42:49Z",
+    "trending": false,
+    "source": "arXiv - Igor Bogdanov, Chung-Horng Lung, Thomas Kunz et al."
+  },
+  {
+    "id": "arxiv_1779084603227_4",
+    "name": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+    "category": "nlp",
+    "description": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy utilities manage physical infrastructure, cu...",
+    "link": "http://arxiv.org/abs/2605.16232v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-15T17:42:11Z",
+    "trending": false,
+    "source": "arXiv - Pavan Manjunath, Thomas pruefer"
   }
 ]
