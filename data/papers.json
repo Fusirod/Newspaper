@@ -1,24 +1,77 @@
 [
   {
-    "id": "arxiv_1779148390781_0",
-    "name": "IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation",
-    "category": "ai",
-    "description": "Reconstructing coherent 3D geometry and appearance from unposed multi-view images is a fundamental yet challenging problem in computer vision. Most existing visual geometry foundation models predict e...",
-    "link": "http://arxiv.org/abs/2605.16258v1",
+    "id": "arxiv_1779155930983_0",
+    "name": "Is VLA Reasoning Faithful? Probing Safety of Chain-of-Causation",
+    "category": "computer-vision",
+    "description": "We present the first systematic study of faithfulness in Vision-Language-Action (VLA) driving models, analyzing 300 Alpamayo-R1-10B inferences across 100 diverse PhysicalAI-AV scenarios. Our main find...",
+    "link": "http://arxiv.org/abs/2605.17268v1",
     "tags": [
       "AI",
-      "Neural",
-      "Vision",
-      "Transformer"
+      "Vision"
     ],
-    "date": "2026-05-15T17:59:57Z",
-    "trending": true,
-    "source": "arXiv - Yuqi Wu, Tianyu Hu, Wenzhao Zheng et al."
+    "date": "2026-05-17T05:29:48Z",
+    "trending": false,
+    "source": "arXiv - Nicanor Mayumu, Xiaoheng Deng, Patrick Mukala"
   },
   {
-    "id": "arxiv_1779148390849_0",
-    "name": "IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation",
+    "id": "arxiv_1779155930983_1",
+    "name": "EgoIntrospect: An Egocentric Dataset and Benchmark for User-Centric Internal State Reasoning",
     "category": "computer-vision",
+    "description": "Despite extensive efforts on egocentric video datasets and benchmarks, understanding users' internal states, which is crucial for enabling seamless AI assistant experiences, remains largely overlooked...",
+    "link": "http://arxiv.org/abs/2605.17262v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-17T05:05:29Z",
+    "trending": true,
+    "source": "arXiv - Zeyu Wang, Chang Liu, Eduardus Tjitrahardja et al."
+  },
+  {
+    "id": "arxiv_1779155930983_2",
+    "name": "LiteFrame: Efficient Vision Encoders Unlock Frame Scaling in Video LLMs",
+    "category": "computer-vision",
+    "description": "The fundamental challenge in scaling Video Large Language Models (Video LLMs) to long-form video lies in managing the explosion of visual-token context length. Existing strategies predominantly focus ...",
+    "link": "http://arxiv.org/abs/2605.17260v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-05-17T05:02:52Z",
+    "trending": true,
+    "source": "arXiv - Jihwan Kim, Nikhil Parthasarathy, Danfeng Qin et al."
+  },
+  {
+    "id": "arxiv_1779155930984_3",
+    "name": "Monocular Depth Perception Enhancement Based on Joint Shading/Contrast Model and Motion Parallax (JSM)",
+    "category": "computer-vision",
+    "description": "Stereoscopic 3D displays adopt a binocular depth cue to provide depth perception. However, users should be equipped with expensive special devices to appreciate depth perception based on the binocular...",
+    "link": "http://arxiv.org/abs/2605.17252v1",
+    "tags": [],
+    "date": "2026-05-17T04:19:31Z",
+    "trending": true,
+    "source": "arXiv - Seungchul Ryu, Hyunjin Yoo, Tara Akhavan"
+  },
+  {
+    "id": "arxiv_1779155930984_4",
+    "name": "Image-to-Video Diffusion: From Foundations to Open Frontiers",
+    "category": "computer-vision",
+    "description": "Diffusion-based \\textit{image-to-video} (I2V) generation has become a central direction in generative models by turning a reference image, with optional conditions, into a temporally coherent video. C...",
+    "link": "http://arxiv.org/abs/2605.17248v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "Diffusion"
+    ],
+    "date": "2026-05-17T04:10:55Z",
+    "trending": true,
+    "source": "arXiv - Xianlong Wang, Wenbo Pan, Shijia Zhou et al."
+  },
+  {
+    "id": "arxiv_1779155923215_0",
+    "name": "IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation",
+    "category": "ai",
     "description": "Reconstructing coherent 3D geometry and appearance from unposed multi-view images is a fundamental yet challenging problem in computer vision. Most existing visual geometry foundation models predict e...",
     "link": "http://arxiv.org/abs/2605.16258v1",
     "tags": [
@@ -32,7 +85,7 @@
     "source": "arXiv - Yuqi Wu, Tianyu Hu, Wenzhao Zheng et al."
   },
   {
-    "id": "arxiv_1779148390781_1",
+    "id": "arxiv_1779155923215_1",
     "name": "Designing Datacenter Power Delivery Hierarchies for the AI Era",
     "category": "ai",
     "description": "Demand for AI accelerators is rapidly increasing rack power density, with projections approaching 1MW per deployment by 2027. This poses a major challenge for datacenter power delivery designers. As p...",
@@ -42,11 +95,11 @@
       "Vision"
     ],
     "date": "2026-05-15T17:58:58Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Grant Wilkins, Fiodar Kazhamiaka, Alok Gautam Kumbhare et al."
   },
   {
-    "id": "arxiv_1779148390781_2",
+    "id": "arxiv_1779155923216_2",
     "name": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
     "category": "ai",
     "description": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load against grid stress and emissions constr...",
@@ -60,23 +113,9 @@
     "source": "arXiv - Pavan Manjunath, Thomas Pruefer"
   },
   {
-    "id": "arxiv_1779148390918_0",
+    "id": "arxiv_1779155946644_0",
     "name": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
     "category": "machine-learning",
-    "description": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load against grid stress and emissions constr...",
-    "link": "http://arxiv.org/abs/2605.16250v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-05-15T17:52:57Z",
-    "trending": true,
-    "source": "arXiv - Pavan Manjunath, Thomas Pruefer"
-  },
-  {
-    "id": "arxiv_1779148390986_0",
-    "name": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
-    "category": "nlp",
     "description": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load against grid stress and emissions constr...",
     "link": "http://arxiv.org/abs/2605.16250v1",
     "tags": [
@@ -88,7 +127,7 @@
     "source": "arXiv - Pavan Manjunath, Thomas Pruefer"
   },
   {
-    "id": "arxiv_1779148390781_3",
+    "id": "arxiv_1779155923216_3",
     "name": "AI-Mediated Communication Can Steer Collective Opinion",
     "category": "ai",
     "description": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now polish users' posts on LinkedIn and provid...",
@@ -102,23 +141,9 @@
     "source": "arXiv - Stratis Tsirtsis, Kai Rawal, Chris Russell et al."
   },
   {
-    "id": "arxiv_1779148390919_1",
+    "id": "arxiv_1779155946645_1",
     "name": "AI-Mediated Communication Can Steer Collective Opinion",
     "category": "machine-learning",
-    "description": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now polish users' posts on LinkedIn and provid...",
-    "link": "http://arxiv.org/abs/2605.16245v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-15T17:49:24Z",
-    "trending": true,
-    "source": "arXiv - Stratis Tsirtsis, Kai Rawal, Chris Russell et al."
-  },
-  {
-    "id": "arxiv_1779148390987_1",
-    "name": "AI-Mediated Communication Can Steer Collective Opinion",
-    "category": "nlp",
     "description": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now polish users' posts on LinkedIn and provid...",
     "link": "http://arxiv.org/abs/2605.16245v1",
     "tags": [
@@ -130,7 +155,7 @@
     "source": "arXiv - Stratis Tsirtsis, Kai Rawal, Chris Russell et al."
   },
   {
-    "id": "arxiv_1779148390782_4",
+    "id": "arxiv_1779155923216_4",
     "name": "Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation",
     "category": "ai",
     "description": "Billion-parameter Vision-Language-Action (VLA) policies have recently shown impressive performance in robotic manipulation, yet their size and inference cost remain major obstacles for real-time close...",
@@ -144,21 +169,7 @@
     "source": "arXiv - Jin Shi, Brady Zhang, Yishun Lu"
   },
   {
-    "id": "arxiv_1779148390850_1",
-    "name": "Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation",
-    "category": "computer-vision",
-    "description": "Billion-parameter Vision-Language-Action (VLA) policies have recently shown impressive performance in robotic manipulation, yet their size and inference cost remain major obstacles for real-time close...",
-    "link": "http://arxiv.org/abs/2605.16241v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-15T17:48:25Z",
-    "trending": false,
-    "source": "arXiv - Jin Shi, Brady Zhang, Yishun Lu"
-  },
-  {
-    "id": "arxiv_1779148390919_2",
+    "id": "arxiv_1779155946645_2",
     "name": "Dynamics-Level Watermarking of Flow Matching Models with Random Codes",
     "category": "machine-learning",
     "description": "We introduce a dynamics-level approach to watermarking generative models. Rather than embedding signals into model weights or outputs, we embed the watermark directly into the learned continuous dynam...",
@@ -171,23 +182,9 @@
     "source": "arXiv - Shuchan Wang"
   },
   {
-    "id": "arxiv_1779148390919_3",
+    "id": "arxiv_1779155946645_3",
     "name": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find",
     "category": "machine-learning",
-    "description": "When researchers ask whether two transformer layers are \"equivalent\" for compression, they often conflate distinct tests. Replacement asks whether one layer's map can substitute for another's in place...",
-    "link": "http://arxiv.org/abs/2605.16234v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-05-15T17:43:16Z",
-    "trending": false,
-    "source": "arXiv - Gabriel Garcia"
-  },
-  {
-    "id": "arxiv_1779148390987_2",
-    "name": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find",
-    "category": "nlp",
     "description": "When researchers ask whether two transformer layers are \"equivalent\" for compression, they often conflate distinct tests. Replacement asks whether one layer's map can substitute for another's in place...",
     "link": "http://arxiv.org/abs/2605.16234v1",
     "tags": [
@@ -199,7 +196,7 @@
     "source": "arXiv - Gabriel Garcia"
   },
   {
-    "id": "arxiv_1779148390919_4",
+    "id": "arxiv_1779155946645_4",
     "name": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
     "category": "machine-learning",
     "description": "Can LLM agents improve decision-making through self-generated memory without gradient updates? We propose FORGE (Failure-Optimized Reflective Graduation and Evolution), a staged, population-based prot...",
@@ -211,75 +208,5 @@
     "date": "2026-05-15T17:42:49Z",
     "trending": false,
     "source": "arXiv - Igor Bogdanov, Chung-Horng Lung, Thomas Kunz et al."
-  },
-  {
-    "id": "arxiv_1779148390987_3",
-    "name": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
-    "category": "nlp",
-    "description": "Can LLM agents improve decision-making through self-generated memory without gradient updates? We propose FORGE (Failure-Optimized Reflective Graduation and Evolution), a staged, population-based prot...",
-    "link": "http://arxiv.org/abs/2605.16233v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-15T17:42:49Z",
-    "trending": false,
-    "source": "arXiv - Igor Bogdanov, Chung-Horng Lung, Thomas Kunz et al."
-  },
-  {
-    "id": "arxiv_1779148390987_4",
-    "name": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
-    "category": "nlp",
-    "description": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy utilities manage physical infrastructure, cu...",
-    "link": "http://arxiv.org/abs/2605.16232v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-15T17:42:11Z",
-    "trending": false,
-    "source": "arXiv - Pavan Manjunath, Thomas pruefer"
-  },
-  {
-    "id": "arxiv_1779148390850_2",
-    "name": "Evaluating Design Video Generation: Metrics for Compositional Fidelity",
-    "category": "computer-vision",
-    "description": "Generative video models are increasingly used in design animation tasks, yet no standardized evaluation framework exists for this domain. Unlike natural video generation, design animation imposes stru...",
-    "link": "http://arxiv.org/abs/2605.16223v1",
-    "tags": [
-      "AI",
-      "GAN"
-    ],
-    "date": "2026-05-15T17:34:05Z",
-    "trending": false,
-    "source": "arXiv - Adrienne Deganutti, Dingning Cao, Jaejung Seol et al."
-  },
-  {
-    "id": "arxiv_1779148390850_3",
-    "name": "MAgSeg: Segmentation of Agricultural Landscapes in High-Resolution Satellite Imagery using Multimodal Large Language Models",
-    "category": "computer-vision",
-    "description": "Agricultural landscape segmentation in the Global South is challenging as it is characterized by fragmented plots, high intra-class variance, and a scarcity of labeled training data. Recent advances i...",
-    "link": "http://arxiv.org/abs/2605.16179v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-05-15T16:59:39Z",
-    "trending": false,
-    "source": "arXiv - Piyush Tiwary, Utkarsh Ahuja, Depanshu Sani et al."
-  },
-  {
-    "id": "arxiv_1779148390850_4",
-    "name": "Res$^2$CLIP: Few-Shot Generalist Anomaly Detection with Residual-to-Residual Alignment",
-    "category": "computer-vision",
-    "description": "Few-shot Generalist Anomaly Detection requires models to generalize to novel categories without retraining, posing significant challenges in real-world scenarios with scarce samples and rapidly changi...",
-    "link": "http://arxiv.org/abs/2605.16171v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-05-15T16:49:58Z",
-    "trending": true,
-    "source": "arXiv - Xinyue Liu, Jianyuan Wang, Biao Leng et al."
   }
 ]
