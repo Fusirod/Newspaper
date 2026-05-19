@@ -1,6 +1,172 @@
 [
   {
-    "id": "rss_Ars_Technica_1779208953954_0",
+    "id": "rss_Ars_Technica_1779215400663_0",
+    "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        SSH keys, plaintext passwords, other sensitive data had been up since November 2025.\n                    ",
+    "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 19 May 2026 18:27:08 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1779215400663_1",
+    "title": "RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Charter would have expanded member eligibility and focused on alleged injuries.\n                    ",
+    "link": "https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks/",
+    "tags": [],
+    "date": "Tue, 19 May 2026 18:17:54 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1779215400664_2",
+    "title": "Gemini 3.5 Flash might be fast enough for gen AI to make sense",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Google says its more efficient Gemini 3.5 Flash is the key to your agentic AI future.\n                    ",
+    "link": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Tue, 19 May 2026 18:11:50 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1779215396717_0",
+    "title": "Google’s Genie world model can now simulate real streets with Street View",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
+    "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+    "tags": [
+      "Google",
+      "Robot"
+    ],
+    "date": "Tue, 19 May 2026 17:51:39 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1779215396718_1",
+    "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+    "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+    "tags": [
+      "AI",
+      "Google",
+      "Chatbot"
+    ],
+    "date": "Tue, 19 May 2026 17:51:30 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1779215396718_2",
+    "title": "How to use Google’s new information agents",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Tue, 19 May 2026 17:50:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1779215396718_3",
+    "title": "Google Search as you know it is over",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.",
+    "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Tue, 19 May 2026 17:46:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1779215396718_4",
+    "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
+    "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Tue, 19 May 2026 17:45:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1779215401746_0",
+    "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
+    "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Tue, 19 May 2026 17:45:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1779215401746_1",
+    "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
+    "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
+    "tags": [
+      "AI",
+      "Google",
+      "Vision"
+    ],
+    "date": "Tue, 19 May 2026 17:45:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1779215401746_2",
+    "title": "Google Makes It Easy to Deepfake Yourself",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
+    "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Tue, 19 May 2026 17:45:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1779215401746_3",
+    "title": "Google’s Response to OpenClaw’s 24/7 AI Agent",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Google’s always-running, data-hungry AI agent is designed to spend your money and send your emails.",
+    "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Tue, 19 May 2026 17:45:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1779215400664_3",
     "title": "The era of 1,000 Hz gaming monitors has arrived, but why?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,7 +177,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1779208953954_1",
+    "id": "rss_Ars_Technica_1779215400664_4",
     "title": "EV drivers will pay $130 a year under Congress' 2026 transportation bill",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -24,32 +190,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1779208953954_2",
-    "title": "Civilization VII finally lets you build a civ that stands the test of time",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Civ 7’s devs talk walking back the game's most controversial decision.\n                    ",
-    "link": "https://arstechnica.com/gaming/2026/05/civilization-vii-finally-lets-you-build-a-civilization-that-stands-the-test-of-time/",
-    "tags": [],
-    "date": "Tue, 19 May 2026 16:00:01 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1779208950642_0",
-    "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
-    "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Tue, 19 May 2026 15:43:04 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1779208955075_0",
+    "id": "rss_Wired_1779215401746_4",
     "title": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
     "category": "ai-news",
     "source": "Wired",
@@ -60,32 +201,10 @@
       "OpenAI"
     ],
     "date": "Tue, 19 May 2026 15:00:28 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1779208953954_3",
-    "title": "Electrical utility megamerger is all about the data centers",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        NextEra’s blockbuster deal with Dominion likely means higher bills for consumers.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers/",
-    "tags": [],
-    "date": "Tue, 19 May 2026 13:45:31 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1779208953954_4",
-    "title": "In addition to space stations, Vast says it will now build high-power satellites",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        \"Every single successful space company is diversified in its products.\"\n                    ",
-    "link": "https://arstechnica.com/space/2026/05/vast-space-seeks-to-diversify-by-building-satellites-as-well-as-space-stations/",
-    "tags": [],
-    "date": "Tue, 19 May 2026 13:00:45 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1779208952828_0",
+    "id": "rss_MIT_Tech_Review_1779215399257_0",
     "title": "Understanding the modern cybercrime landscape",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -96,10 +215,10 @@
       "Automation"
     ],
     "date": "Tue, 19 May 2026 13:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1779208952828_1",
+    "id": "rss_MIT_Tech_Review_1779215399257_1",
     "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -114,7 +233,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1779208952828_2",
+    "id": "rss_MIT_Tech_Review_1779215399257_2",
     "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -127,20 +246,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1779208955075_1",
-    "title": "Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The hedge fund billionaire turned gubernatorial candidate wants to tax California’s ultrawealthy, regulate AI, and keep Silicon Valley happy at the same time. Good luck with that.",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-tom-steyer/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 19 May 2026 10:30:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1779208952830_3",
+    "id": "rss_MIT_Tech_Review_1779215399257_3",
     "title": "Here’s why Elon Musk lost his suit against OpenAI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -151,53 +257,10 @@
       "OpenAI"
     ],
     "date": "Tue, 19 May 2026 00:53:10 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1779208950643_1",
-    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it. ",
-    "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 18 May 2026 21:29:31 +0000",
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1779208950643_2",
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
-    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "Google",
-      "Startup"
-    ],
-    "date": "Mon, 18 May 2026 19:27:52 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1779208955075_2",
-    "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
-    "link": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Mon, 18 May 2026 17:40:30 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1779208952831_4",
+    "id": "rss_MIT_Tech_Review_1779215399257_4",
     "title": "What to expect from Google this week",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -208,62 +271,10 @@
       "Google"
     ],
     "date": "Mon, 18 May 2026 17:35:43 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1779208950643_3",
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Mon, 18 May 2026 17:34:43 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1779208950643_4",
-    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-    "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 18 May 2026 14:56:47 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1779208955076_3",
-    "title": "I’m a Normie. Can Normies Really Vibe Code?",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
-    "link": "https://www.wired.com/story/normie-vibe-code/",
-    "tags": [],
-    "date": "Mon, 18 May 2026 10:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1779208955076_4",
-    "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.",
-    "link": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
-    "tags": [
-      "AI",
-      "Chatbot"
-    ],
-    "date": "Sat, 16 May 2026 09:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1779208963001_0",
+    "id": "rss_Distill_1779215410644_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -276,7 +287,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1779208963001_1",
+    "id": "rss_Distill_1779215410644_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -286,10 +297,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1779208963001_2",
+    "id": "rss_Distill_1779215410644_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -297,10 +308,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1779208963001_3",
+    "id": "rss_Distill_1779215410644_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -313,7 +324,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1779208963001_4",
+    "id": "rss_Distill_1779215410644_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -321,6 +332,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
