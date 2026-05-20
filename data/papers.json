@@ -1,291 +1,211 @@
 [
   {
-    "id": "arxiv_1779234685427_0",
-    "name": "Can These Views Be One Scene? Evaluating Multiview 3D Consistency when 3D Foundation Models Hallucinate",
+    "id": "arxiv_1779242320798_0",
+    "name": "Synergistic Foundation Models for Semi-Supervised Fetal Cardiac Ultrasound Analysis: SAM-Med2D Boundary Refinement and DINOv3 Semantic Enhancement",
     "category": "computer-vision",
-    "description": "Multiview 3D evaluation assumes that the images being scored are observations of one static 3D scene. This assumption can fail in NVS and sparse-view reconstruction: inputs or generated outputs may co...",
-    "link": "http://arxiv.org/abs/2605.18754v1",
+    "description": "We present a semi-supervised framework for joint segmentation and classification of fetal cardiac ultrasound images. Built upon the EchoCare multi-task backbone, our method integrates SAM-Med2D for bo...",
+    "link": "http://arxiv.org/abs/2605.19799v1",
     "tags": [
       "AI",
-      "Neural"
+      "Optimization"
     ],
-    "date": "2026-05-18T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Soumava Paul, Prakhar Kaushik, Alan Yuille"
+    "date": "2026-05-19T13:00:19Z",
+    "trending": true,
+    "source": "arXiv - Tonghao Zhuang, Shanglong Hu, Yongsheng Luo et al."
   },
   {
-    "id": "arxiv_1779234685355_0",
-    "name": "DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention",
-    "category": "ai",
-    "description": "Current hierarchical attention methods, such as NSA and InfLLMv2, select the top-k relevant key-value (KV) blocks based on coarse attention scores and subsequently apply fine-grained softmax attention...",
-    "link": "http://arxiv.org/abs/2605.18753v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-18T17:59:52Z",
-    "trending": false,
-    "source": "arXiv - Yuxiang Huang, Nuno M. T. Gonçalves, Federico Alvetreti et al."
-  },
-  {
-    "id": "arxiv_1779234685498_0",
-    "name": "DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention",
-    "category": "machine-learning",
-    "description": "Current hierarchical attention methods, such as NSA and InfLLMv2, select the top-k relevant key-value (KV) blocks based on coarse attention scores and subsequently apply fine-grained softmax attention...",
-    "link": "http://arxiv.org/abs/2605.18753v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-18T17:59:52Z",
-    "trending": false,
-    "source": "arXiv - Yuxiang Huang, Nuno M. T. Gonçalves, Federico Alvetreti et al."
-  },
-  {
-    "id": "arxiv_1779234685569_0",
-    "name": "DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention",
+    "id": "arxiv_1779242337325_0",
+    "name": "Towards Trust Calibration in Socially Interactive Agents: Investigating Gendered Multimodal Behaviors Generation with LLMs",
     "category": "nlp",
-    "description": "Current hierarchical attention methods, such as NSA and InfLLMv2, select the top-k relevant key-value (KV) blocks based on coarse attention scores and subsequently apply fine-grained softmax attention...",
-    "link": "http://arxiv.org/abs/2605.18753v1",
+    "description": "As Socially Interactive Agents (SIAs) become increasingly integrated into daily life, the ability to calibrate user trust to an agent's actual capabilities would help ensure appropriate usage of these...",
+    "link": "http://arxiv.org/abs/2605.19798v1",
     "tags": [
       "AI",
-      "LLM"
+      "LLM",
+      "GPT"
     ],
-    "date": "2026-05-18T17:59:52Z",
-    "trending": false,
-    "source": "arXiv - Yuxiang Huang, Nuno M. T. Gonçalves, Federico Alvetreti et al."
+    "date": "2026-05-19T12:59:21Z",
+    "trending": true,
+    "source": "arXiv - Lucie Galland, Chloé Clavel, Magalie Ochs"
   },
   {
-    "id": "arxiv_1779234685498_1",
-    "name": "A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variability",
-    "category": "machine-learning",
-    "description": "Pipeline parallelism is a key technique for scaling large-model training, but modern workloads exhibit runtime variability in computation and communication. Existing pipeline systems typically consume...",
-    "link": "http://arxiv.org/abs/2605.18750v1",
+    "id": "arxiv_1779242320798_1",
+    "name": "Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth",
+    "category": "computer-vision",
+    "description": "Monocular depth estimation has improved significantly in recent years, driven by increasingly powerful models and large-scale training data. Predicted depth is increasingly used as an input signal for...",
+    "link": "http://arxiv.org/abs/2605.19797v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-05-18T17:59:18Z",
+    "date": "2026-05-19T12:59:11Z",
     "trending": false,
-    "source": "arXiv - Ruitao Liu, Xinyang Tian, Shuo Chen et al."
+    "source": "arXiv - Viktor Kocur, Sithu Aung, Gabrielle Flood et al."
   },
   {
-    "id": "arxiv_1779234685427_1",
-    "name": "WavFlow: Audio Generation in Waveform Space",
+    "id": "arxiv_1779242320798_2",
+    "name": "Mechanisms of Object Localization in Vision-Language Models",
     "category": "computer-vision",
-    "description": "Modern audio generation predominantly relies on latent-space compression, introducing additional complexity and potential information loss. In this work, we challenge this paradigm with WavFlow, a fra...",
-    "link": "http://arxiv.org/abs/2605.18749v1",
+    "description": "Visually-grounded language models (VLMs) are highly effective in linking visual and textual information, yet they often struggle with basic classification and localization tasks. While classification ...",
+    "link": "http://arxiv.org/abs/2605.19792v1",
     "tags": [
       "AI",
-      "Optimization"
+      "Vision"
     ],
-    "date": "2026-05-18T17:59:10Z",
+    "date": "2026-05-19T12:56:32Z",
     "trending": false,
-    "source": "arXiv - Feiyan Zhou, Luyuan Wang, Shoufa Chen et al."
+    "source": "arXiv - Timothy Schaumlöffel, Martina G. Vilas, Gemma Roig"
   },
   {
-    "id": "arxiv_1779234685356_1",
-    "name": "Code as Agent Harness",
-    "category": "ai",
-    "description": "Recent large language models (LLMs) have demonstrated strong capabilities in understanding and generating code, from competitive programming to repository-level software engineering. In emerging agent...",
-    "link": "http://arxiv.org/abs/2605.18747v1",
+    "id": "arxiv_1779242320798_3",
+    "name": "Fast 4D Mesh Generation by Spatio-Temporal Attention Chains",
+    "category": "computer-vision",
+    "description": "4D mesh generation has recently emerged as a powerful paradigm for recovering dynamic 3D structure from videos, but existing methods remain slow, computationally expensive, and difficult to scale to l...",
+    "link": "http://arxiv.org/abs/2605.19786v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-19T12:51:50Z",
+    "trending": true,
+    "source": "arXiv - Dvir Samuel, Yuval Atzmon, Gal Chechik et al."
+  },
+  {
+    "id": "arxiv_1779242333186_0",
+    "name": "Prior Knowledge or Search? A Study of LLM Agents in Hardware-Aware Code Optimization",
+    "category": "machine-learning",
+    "description": "LLM discovery and optimization systems are increasingly applied across domains, implementing a common propose-evaluate-revise loop. Such optimization or discovery progresses via context conditioning o...",
+    "link": "http://arxiv.org/abs/2605.19782v1",
     "tags": [
       "AI",
-      "GAN",
       "LLM",
       "Optimization"
     ],
-    "date": "2026-05-18T17:59:03Z",
-    "trending": true,
-    "source": "arXiv - Xuying Ning, Katherine Tieu, Dongqi Fu et al."
-  },
-  {
-    "id": "arxiv_1779234685427_2",
-    "name": "Aurora: Unified Video Editing with a Tool-Using Agent",
-    "category": "computer-vision",
-    "description": "Recent video editing models have converged on a unified conditioning design: a single diffusion transformer jointly consumes text, source video, and reference images, and one set of weights covers rep...",
-    "link": "http://arxiv.org/abs/2605.18748v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-05-18T17:59:03Z",
+    "date": "2026-05-19T12:48:48Z",
     "trending": false,
-    "source": "arXiv - Yongsheng Yu, Ziyun Zeng, Zhiyuan Xiao et al."
+    "source": "arXiv - Dmitry Redko, Albert Fazlyev, Konstantin Sozykin et al."
   },
   {
-    "id": "arxiv_1779234685569_1",
-    "name": "Code as Agent Harness",
-    "category": "nlp",
-    "description": "Recent large language models (LLMs) have demonstrated strong capabilities in understanding and generating code, from competitive programming to repository-level software engineering. In emerging agent...",
-    "link": "http://arxiv.org/abs/2605.18747v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-05-18T17:59:03Z",
-    "trending": false,
-    "source": "arXiv - Xuying Ning, Katherine Tieu, Dongqi Fu et al."
-  },
-  {
-    "id": "arxiv_1779234685356_2",
-    "name": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
-    "category": "ai",
-    "description": "Spatial intelligence unfolds through a perception-action loop: agents act to acquire observations, and reason about how observations vary as a function of action. Rather than passively processing what...",
-    "link": "http://arxiv.org/abs/2605.18746v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-18T17:59:02Z",
-    "trending": false,
-    "source": "arXiv - Yining Hong, Jiageng Liu, Han Yin et al."
-  },
-  {
-    "id": "arxiv_1779234685427_3",
-    "name": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
-    "category": "computer-vision",
-    "description": "Spatial intelligence unfolds through a perception-action loop: agents act to acquire observations, and reason about how observations vary as a function of action. Rather than passively processing what...",
-    "link": "http://arxiv.org/abs/2605.18746v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-18T17:59:02Z",
-    "trending": true,
-    "source": "arXiv - Yining Hong, Jiageng Liu, Han Yin et al."
-  },
-  {
-    "id": "arxiv_1779234685498_2",
-    "name": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
+    "id": "arxiv_1779242333186_1",
+    "name": "Distribution-Free Uncertainty Quantification for Continuous AI Agent Evaluation",
     "category": "machine-learning",
-    "description": "Spatial intelligence unfolds through a perception-action loop: agents act to acquire observations, and reason about how observations vary as a function of action. Rather than passively processing what...",
-    "link": "http://arxiv.org/abs/2605.18746v1",
+    "description": "We adapt split conformal prediction and adaptive conformal inference (ACI) to continuous AI agent evaluation, providing distribution-free coverage guarantees for forecasted quality scores. Conformal i...",
+    "link": "http://arxiv.org/abs/2605.19779v1",
     "tags": [
-      "AI",
-      "LLM"
+      "AI"
     ],
-    "date": "2026-05-18T17:59:02Z",
-    "trending": true,
-    "source": "arXiv - Yining Hong, Jiageng Liu, Han Yin et al."
-  },
-  {
-    "id": "arxiv_1779234685569_2",
-    "name": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
-    "category": "nlp",
-    "description": "Spatial intelligence unfolds through a perception-action loop: agents act to acquire observations, and reason about how observations vary as a function of action. Rather than passively processing what...",
-    "link": "http://arxiv.org/abs/2605.18746v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-18T17:59:02Z",
-    "trending": true,
-    "source": "arXiv - Yining Hong, Jiageng Liu, Han Yin et al."
-  },
-  {
-    "id": "arxiv_1779234685499_3",
-    "name": "SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate",
-    "category": "machine-learning",
-    "description": "Diffusion-based generative models increasingly rely on inference-time guidance, adding a drift term or reweighting mixture of experts, to improve sample quality on task-specific objectives. However, m...",
-    "link": "http://arxiv.org/abs/2605.18745v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-05-18T17:59:00Z",
+    "date": "2026-05-19T12:47:21Z",
     "trending": false,
-    "source": "arXiv - Lifu Wei, Yinuo Ren, Naichen Shi et al."
+    "source": "arXiv - Yuxuan Gao, Megan Wang, Yi Ling Yu"
   },
   {
-    "id": "arxiv_1779234685357_3",
-    "name": "Actionable World Representation",
-    "category": "ai",
-    "description": "Inspired by the emergent behaviors in large language models that generalized human intelligence, the research community is pursuing similar emergent capabilities within world models, with a emphasis o...",
-    "link": "http://arxiv.org/abs/2605.18743v1",
+    "id": "arxiv_1779242333186_2",
+    "name": "B-cos GNNs: Faithful Explanations through Dynamic Linearity",
+    "category": "machine-learning",
+    "description": "We introduce B-cos GNNs, an inherently explainable class of graph neural networks whose predictions decompose exactly into per-node, per-feature contributions via a single input-dependent linear map. ...",
+    "link": "http://arxiv.org/abs/2605.19778v1",
     "tags": [
       "AI",
       "Neural"
     ],
-    "date": "2026-05-18T17:58:51Z",
+    "date": "2026-05-19T12:44:58Z",
     "trending": false,
-    "source": "arXiv - Kunqi Xu, Jitao Li, Jianglong Ye et al."
+    "source": "arXiv - Joschka Groß, Mohammad Shaique Solanki, Verena Wolf"
   },
   {
-    "id": "arxiv_1779234685357_4",
-    "name": "Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation",
-    "category": "ai",
-    "description": "Multimodal Large Language Models (MLLMs) still struggle with fine-grained visual understanding, where answers often depend on small but decisive evidence in the full image. We observe a regional-to-gl...",
-    "link": "http://arxiv.org/abs/2605.18740v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-05-18T17:57:04Z",
-    "trending": false,
-    "source": "arXiv - Qianhao Yuan, Jie Lou, Xing Yu et al."
-  },
-  {
-    "id": "arxiv_1779234685428_4",
-    "name": "Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation",
+    "id": "arxiv_1779242320799_4",
+    "name": "Preferences Order, Ratings Anchor: From Fused Expert Aesthetic Ground Truth to Self-Distillation",
     "category": "computer-vision",
-    "description": "Multimodal Large Language Models (MLLMs) still struggle with fine-grained visual understanding, where answers often depend on small but decisive evidence in the full image. We observe a regional-to-gl...",
-    "link": "http://arxiv.org/abs/2605.18740v1",
+    "description": "Pairwise preferences and pointwise ratings are the two dominant annotation protocols in image aesthetic assessment (IAA), yet existing benchmarks adopt only one, leaving their complementarity unmeasur...",
+    "link": "http://arxiv.org/abs/2605.19776v1",
     "tags": [
       "AI",
-      "Vision",
-      "LLM"
+      "Optimization"
     ],
-    "date": "2026-05-18T17:57:04Z",
+    "date": "2026-05-19T12:44:01Z",
     "trending": true,
-    "source": "arXiv - Qianhao Yuan, Jie Lou, Xing Yu et al."
+    "source": "arXiv - Yuanpei Zhao, Jie Lin, Chao Zhang et al."
   },
   {
-    "id": "arxiv_1779234685499_4",
-    "name": "Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation",
+    "id": "arxiv_1779242333187_3",
+    "name": "Minimax Optimal Variance-Aware Regret Bounds for Multinomial Logistic MDPs",
     "category": "machine-learning",
-    "description": "Multimodal Large Language Models (MLLMs) still struggle with fine-grained visual understanding, where answers often depend on small but decisive evidence in the full image. We observe a regional-to-gl...",
-    "link": "http://arxiv.org/abs/2605.18740v1",
+    "description": "We study reinforcement learning for episodic Markov Decision Processes (MDPs) whose transitions are modelled by a multinomial logistic (MNL) model. Existing algorithms for MNL mixture MDPs yield a reg...",
+    "link": "http://arxiv.org/abs/2605.19768v1",
     "tags": [
       "AI",
-      "Vision",
-      "LLM"
+      "Reinforcement Learning"
     ],
-    "date": "2026-05-18T17:57:04Z",
+    "date": "2026-05-19T12:39:32Z",
     "trending": false,
-    "source": "arXiv - Qianhao Yuan, Jie Lou, Xing Yu et al."
+    "source": "arXiv - Pierre Boudart, Pierre Gaillard, Alessandro Rudi"
   },
   {
-    "id": "arxiv_1779234685569_3",
-    "name": "Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation",
-    "category": "nlp",
-    "description": "Multimodal Large Language Models (MLLMs) still struggle with fine-grained visual understanding, where answers often depend on small but decisive evidence in the full image. We observe a regional-to-gl...",
-    "link": "http://arxiv.org/abs/2605.18740v1",
+    "id": "arxiv_1779242333187_4",
+    "name": "AR1-ZO: Topology-Aware Rank-1 Zeroth-Order Queries for High-Rank LoRA Fine-Tuning",
+    "category": "machine-learning",
+    "description": "Zeroth-order (ZO) optimization enables large-language-model fine-tuning without storing backpropagation activations, while LoRA supplies compact trainable adapters. Combining them creates a rank parad...",
+    "link": "http://arxiv.org/abs/2605.19767v1",
     "tags": [
       "AI",
-      "Vision",
-      "LLM"
+      "Optimization"
     ],
-    "date": "2026-05-18T17:57:04Z",
+    "date": "2026-05-19T12:39:30Z",
     "trending": false,
-    "source": "arXiv - Qianhao Yuan, Jie Lou, Xing Yu et al."
+    "source": "arXiv - Ziye Chen, Hongbin Lin, Chenyu Zhang et al."
   },
   {
-    "id": "arxiv_1779234685569_4",
-    "name": "Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and Topic Frequency",
+    "id": "arxiv_1779242337325_1",
+    "name": "Synthesis and Evaluation of Long-term History-aware Medical Dialogue",
     "category": "nlp",
-    "description": "While scaling laws govern aggregate large language model performance, no scaling law has linked factual recall to both model size and training-data composition. We evaluated 38 models on over 8,900 sc...",
-    "link": "http://arxiv.org/abs/2605.18732v1",
+    "description": "An effective healthcare agent must be able to recall and reason over a patient's longitudinal medical history. However, the absence of datasets with realistic long-term dialogue timelines limits syste...",
+    "link": "http://arxiv.org/abs/2605.19766v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-05-18T17:53:44Z",
+    "date": "2026-05-19T12:38:41Z",
+    "trending": true,
+    "source": "arXiv - Hebin Hu, Renke Dai, Ah-Hwee Tan et al."
+  },
+  {
+    "id": "arxiv_1779242337326_2",
+    "name": "What Really Improves Mathematical Reasoning: Structured Reasoning Signals Beyond Pure Code",
+    "category": "nlp",
+    "description": "Code has become a standard component of modern foundation language model (LM) training, yet its role beyond programming remains unclear. We revisit the claim that code improves reasoning through contr...",
+    "link": "http://arxiv.org/abs/2605.19762v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-05-19T12:37:01Z",
     "trending": false,
-    "source": "arXiv - Matthew L. Smith, Jonathan P. Shock, Samuel T. Segun et al."
+    "source": "arXiv - Yuze Zhao, Junpeng Fang, Lu Yu et al."
+  },
+  {
+    "id": "arxiv_1779242337326_3",
+    "name": "TERGAD: Structure-Aware Text-Enhanced Representations for Graph Anomaly Detection",
+    "category": "nlp",
+    "description": "Graph Anomaly Detection (GAD) aims to identify atypical graph entities, such as nodes, edges, or substructures, that deviate significantly from the majority. While existing text-rich approaches typica...",
+    "link": "http://arxiv.org/abs/2605.19738v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-19T12:09:36Z",
+    "trending": false,
+    "source": "arXiv - Wen Shi, Zhe Wang, Huafei Huang et al."
+  },
+  {
+    "id": "arxiv_1779242337326_4",
+    "name": "ContextRAG: Extraction-Free Hierarchical Graph Construction for Retrieval-Augmented Generation",
+    "category": "nlp",
+    "description": "Graph-structured retrieval-augmented generation (RAG) systems can improve answer quality on multi-hop questions, but many current systems rely on large language models (LLMs) to extract entities, rela...",
+    "link": "http://arxiv.org/abs/2605.19735v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-19T12:08:19Z",
+    "trending": false,
+    "source": "arXiv - Roman Prosvirnin, Sergei Kuznetsov, Seungmin Jin"
   }
 ]
