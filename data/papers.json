@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1779304249514_0",
+    "id": "arxiv_1779312452167_0",
     "name": "PiG-Avatar: Hierarchical Neural-Field-Guided Gaussian Avatars",
     "category": "computer-vision",
     "description": "Existing Gaussian avatar methods typically parameterize geometry on a body-template surface, which entangles the avatar's representation space with the template's deformation space and limits the capt...",
@@ -16,7 +16,7 @@
     "source": "arXiv - Julian Kaltheuner, Jan Spindler, Sina Kitz et al."
   },
   {
-    "id": "arxiv_1779304249514_1",
+    "id": "arxiv_1779312452167_1",
     "name": "MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation",
     "category": "computer-vision",
     "description": "Video generation is rapidly evolving from single-shot synthesis to complex multi-shot audio-video (MSAV) narratives to meet real-world demands. However, evaluating such frontier models remains a funda...",
@@ -25,11 +25,11 @@
       "AI"
     ],
     "date": "2026-05-19T17:59:33Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yujie Wei, Yujin Han, Zhekai Chen et al."
   },
   {
-    "id": "arxiv_1779304249500_0",
+    "id": "arxiv_1779312452153_0",
     "name": "Atoms of Thought: Universal EEG Representation Learning with Microstates",
     "category": "ai",
     "description": "Learning universal representations from electroencephalogram (EEG) signals is a cutting-edge approach in the field of neuroinformatics and brain-computer interfaces (BCIs). Conventionally, EEG is trea...",
@@ -42,7 +42,7 @@
     "source": "arXiv - Xinyang Tian, Ruitao Liu, Ziyi Ye et al."
   },
   {
-    "id": "arxiv_1779304249527_0",
+    "id": "arxiv_1779312452312_0",
     "name": "Atoms of Thought: Universal EEG Representation Learning with Microstates",
     "category": "machine-learning",
     "description": "Learning universal representations from electroencephalogram (EEG) signals is a cutting-edge approach in the field of neuroinformatics and brain-computer interfaces (BCIs). Conventionally, EEG is trea...",
@@ -55,7 +55,7 @@
     "source": "arXiv - Xinyang Tian, Ruitao Liu, Ziyi Ye et al."
   },
   {
-    "id": "arxiv_1779304249539_0",
+    "id": "arxiv_1779312452332_0",
     "name": "TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload",
     "category": "nlp",
     "description": "Diffusion Large Language Models (dLLMs) have emerged as a competitive alternative to autoregressive (AR) models, offering better hardware utilization and bidirectional context through parallel block-l...",
@@ -71,7 +71,7 @@
     "source": "arXiv - Zhiben Chen, Youpeng Zhao, Yang Sui et al."
   },
   {
-    "id": "arxiv_1779304249515_2",
+    "id": "arxiv_1779312452167_2",
     "name": "From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models",
     "category": "computer-vision",
     "description": "Recent advances in vision-language models (VLMs) emphasize long chain-of-thought reasoning; yet, we find that their performance on visual tasks is primarily limited by a lack of visual perception as o...",
@@ -86,7 +86,7 @@
     "source": "arXiv - Juncheng Wu, Hardy Chen, Haoqin Tu et al."
   },
   {
-    "id": "arxiv_1779304249539_1",
+    "id": "arxiv_1779312452333_1",
     "name": "From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models",
     "category": "nlp",
     "description": "Recent advances in vision-language models (VLMs) emphasize long chain-of-thought reasoning; yet, we find that their performance on visual tasks is primarily limited by a lack of visual perception as o...",
@@ -97,11 +97,11 @@
       "Optimization"
     ],
     "date": "2026-05-19T17:58:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Juncheng Wu, Hardy Chen, Haoqin Tu et al."
   },
   {
-    "id": "arxiv_1779304249539_2",
+    "id": "arxiv_1779312452333_2",
     "name": "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning",
     "category": "nlp",
     "description": "Large language models (LLMs) and agentic systems have shown promise for clinical decision support, but existing works largely assume that evidence has already been curated and handed to the model. Rea...",
@@ -111,11 +111,11 @@
       "LLM"
     ],
     "date": "2026-05-19T17:58:37Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Juncheng Wu, Letian Zhang, Yuhan Wang et al."
   },
   {
-    "id": "arxiv_1779304249515_3",
+    "id": "arxiv_1779312452167_3",
     "name": "Multi-axis Analysis of Image Manipulation Localization",
     "category": "computer-vision",
     "description": "Advanced image editing software enables easy creation of highly convincing image manipulations, which has been made even more accessible in recent years due to advances in generative AI. Manipulated i...",
@@ -125,11 +125,11 @@
       "Diffusion"
     ],
     "date": "2026-05-19T17:54:33Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Keanu Nichols, Divya Appapogu, Giscard Biamby et al."
   },
   {
-    "id": "arxiv_1779304249527_1",
+    "id": "arxiv_1779312452312_1",
     "name": "Multi-axis Analysis of Image Manipulation Localization",
     "category": "machine-learning",
     "description": "Advanced image editing software enables easy creation of highly convincing image manipulations, which has been made even more accessible in recent years due to advances in generative AI. Manipulated i...",
@@ -139,11 +139,11 @@
       "Diffusion"
     ],
     "date": "2026-05-19T17:54:33Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Keanu Nichols, Divya Appapogu, Giscard Biamby et al."
   },
   {
-    "id": "arxiv_1779304249500_1",
+    "id": "arxiv_1779312452153_1",
     "name": "A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents",
     "category": "ai",
     "description": "Production LLM agents combine stochastic model outputs with deterministic software systems, yet the boundary between the two is rarely treated as a first-class architectural object. This paper names t...",
@@ -158,7 +158,7 @@
     "source": "arXiv - Vasundra Srinivasan"
   },
   {
-    "id": "arxiv_1779304249500_2",
+    "id": "arxiv_1779312452153_2",
     "name": "Long-term Power Grid Planning via Answer Set Programming",
     "category": "ai",
     "description": "The Power grid is a critical infrastructure underpinning all aspects of modern society and its services. Maintaining its effectiveness requires continuous adaptations. In particular, addressing sustai...",
@@ -168,11 +168,11 @@
       "GAN"
     ],
     "date": "2026-05-19T17:54:15Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Antonio Ielo, Francesco Doria, Sandra Castellanos-Paez et al."
   },
   {
-    "id": "arxiv_1779304249539_3",
+    "id": "arxiv_1779312452333_3",
     "name": "KoRe: Compact Knowledge Representations for Large Language Models",
     "category": "nlp",
     "description": "Modern Large Language Models (LLMs) have shown impressive performances in user-facing tasks such as question answering, as well as consistent improvements in reasoning capabilities. Still, the way the...",
@@ -182,11 +182,11 @@
       "LLM"
     ],
     "date": "2026-05-19T17:53:29Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Davide Cavicchini, Fausto Giunchiglia, Jacopo Staiano"
   },
   {
-    "id": "arxiv_1779304249500_3",
+    "id": "arxiv_1779312452153_3",
     "name": "HaorFloodAlert: Deseasonalized ML Ensemble for 72-Hour Flood Prediction in Bangladesh Haor Wetlands",
     "category": "ai",
     "description": "Flash floods in Bangladesh's haor wetlands show up with almost no warning. They wreck the annual boro rice harvest. Current setups, built for riverine floods, miss backwater dynamics entirely. These b...",
@@ -201,7 +201,7 @@
     "source": "arXiv - Salma Hoque Talukdar Koli, Fahima Haque Talukder Jely, Md. Samiul Alim et al."
   },
   {
-    "id": "arxiv_1779304249527_2",
+    "id": "arxiv_1779312452312_2",
     "name": "HaorFloodAlert: Deseasonalized ML Ensemble for 72-Hour Flood Prediction in Bangladesh Haor Wetlands",
     "category": "machine-learning",
     "description": "Flash floods in Bangladesh's haor wetlands show up with almost no warning. They wreck the annual boro rice harvest. Current setups, built for riverine floods, miss backwater dynamics entirely. These b...",
@@ -212,11 +212,11 @@
       "GAN"
     ],
     "date": "2026-05-19T17:51:46Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Salma Hoque Talukdar Koli, Fahima Haque Talukder Jely, Md. Samiul Alim et al."
   },
   {
-    "id": "arxiv_1779304249515_4",
+    "id": "arxiv_1779312452167_4",
     "name": "CaMo: Camera Motion Grounded Evaluation and Training for Vision-Language Models",
     "category": "computer-vision",
     "description": "Vision-Language Models (VLMs) achieve strong performance on spatial question answering benchmarks, yet it remains unclear whether such gains reflect genuine spatial intelligence. We show that existing...",
@@ -231,7 +231,7 @@
     "source": "arXiv - Hsiang-Wei Huang, Junbin Lu, Kuang-Ming Chen et al."
   },
   {
-    "id": "arxiv_1779304249501_4",
+    "id": "arxiv_1779312452153_4",
     "name": "Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR",
     "category": "ai",
     "description": "Reinforcement learning with verifiable rewards has made post-training highly effective when correctness can be checked automatically. However, many important model behaviors require satisfying several...",
@@ -246,7 +246,7 @@
     "source": "arXiv - Utkarsh Tyagi, Xingang Guo, MohammadHossein Rezaei et al."
   },
   {
-    "id": "arxiv_1779304249527_3",
+    "id": "arxiv_1779312452312_3",
     "name": "Interpretable Computer Vision for Defect Detection in X-ray Tomography of Aerospace SiC/SiC Composites",
     "category": "machine-learning",
     "description": "Non-destructive testing of aerospace SiC/SiC composites via X-ray computed tomography (XCT) relies on expert visual assessment, with current workflows offering limited traceability for accept/reject d...",
@@ -260,7 +260,7 @@
     "source": "arXiv - Antonio Peña Corredor, Julien Lesseur, Romain Nunez et al."
   },
   {
-    "id": "arxiv_1779304249539_4",
+    "id": "arxiv_1779312452333_4",
     "name": "Rethinking Visual Attribution for Chest X-ray Reasoning in Large Vision Language Models",
     "category": "nlp",
     "description": "Large Vision Language Models (LVLMs) show promise in medical applications, but their inability to faithfully ground responses in visual evidence raises serious concerns about clinical trustworthiness....",
@@ -274,7 +274,7 @@
     "source": "arXiv - Guangzhi Xiong, Qiao Jin, Sanchit Sinha et al."
   },
   {
-    "id": "arxiv_1779304249527_4",
+    "id": "arxiv_1779312452312_4",
     "name": "SAGE: Scalable Automatic Gating Ensemble for Confident Negative Harvesting in Fraud Detection",
     "category": "machine-learning",
     "description": "Music streaming fraud, where bad actors artificially inflate stream counts to manipulate chart rankings and royalty payments, poses a significant threat to streaming services and legitimate content cr...",
