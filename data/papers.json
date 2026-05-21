@@ -1,22 +1,8 @@
 [
   {
-    "id": "arxiv_1779359255894_0",
+    "id": "arxiv_1779371506408_0",
     "name": "Variance Reduction for Expectations with Diffusion Teachers",
     "category": "ai",
-    "description": "Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are ...",
-    "link": "http://arxiv.org/abs/2605.21489v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-05-20T17:59:52Z",
-    "trending": false,
-    "source": "arXiv - Jesse Bettencourt, Xindi Wu, Matan Atzmon et al."
-  },
-  {
-    "id": "arxiv_1779359256091_0",
-    "name": "Variance Reduction for Expectations with Diffusion Teachers",
-    "category": "computer-vision",
     "description": "Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are ...",
     "link": "http://arxiv.org/abs/2605.21489v1",
     "tags": [
@@ -28,7 +14,7 @@
     "source": "arXiv - Jesse Bettencourt, Xindi Wu, Matan Atzmon et al."
   },
   {
-    "id": "arxiv_1779359256305_0",
+    "id": "arxiv_1779371583286_0",
     "name": "Variance Reduction for Expectations with Diffusion Teachers",
     "category": "machine-learning",
     "description": "Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are ...",
@@ -42,7 +28,7 @@
     "source": "arXiv - Jesse Bettencourt, Xindi Wu, Matan Atzmon et al."
   },
   {
-    "id": "arxiv_1779359256306_1",
+    "id": "arxiv_1779371583286_1",
     "name": "Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning",
     "category": "machine-learning",
     "description": "Scaling test-time compute by iteratively updating a latent state has emerged as a powerful paradigm for reasoning. Yet the internal mechanisms that enable these iterative models to generalize beyond m...",
@@ -52,24 +38,11 @@
       "Neural"
     ],
     "date": "2026-05-20T17:59:48Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Benhao Huang, Zhengyang Geng, Zico Kolter"
   },
   {
-    "id": "arxiv_1779359256091_1",
-    "name": "Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning",
-    "category": "computer-vision",
-    "description": "Currently, enhancing Unified Multimodal Models (UMMs) with image understanding, generation, and editing capabilities mainly relies on mixed multi-task training. Due to inherent task conflicts, such st...",
-    "link": "http://arxiv.org/abs/2605.21487v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-20T17:59:42Z",
-    "trending": true,
-    "source": "arXiv - Dian Zheng, Manyuan Zhang, Hongyu Li et al."
-  },
-  {
-    "id": "arxiv_1779359255895_1",
+    "id": "arxiv_1779371506409_1",
     "name": "Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate",
     "category": "ai",
     "description": "Hyperparameter transfer allows extrapolating optimal optimization hyperparameters from small to large scales, making it critical for training large language models (LLMs). This is done either by fitti...",
@@ -80,11 +53,11 @@
       "Optimization"
     ],
     "date": "2026-05-20T17:59:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Dayal Singh Kalra, Maissam Barkeshli"
   },
   {
-    "id": "arxiv_1779359256306_2",
+    "id": "arxiv_1779371583286_2",
     "name": "Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate",
     "category": "machine-learning",
     "description": "Hyperparameter transfer allows extrapolating optimal optimization hyperparameters from small to large scales, making it critical for training large language models (LLMs). This is done either by fitti...",
@@ -95,11 +68,11 @@
       "Optimization"
     ],
     "date": "2026-05-20T17:59:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Dayal Singh Kalra, Maissam Barkeshli"
   },
   {
-    "id": "arxiv_1779359256306_3",
+    "id": "arxiv_1779371583286_3",
     "name": "EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation",
     "category": "machine-learning",
     "description": "Equivariant graph neural network (GNN) methods for antibody complementarity-determining region (CDR) design achieve the highest sequence recovery but suffer from severe vocabulary collapse. The curren...",
@@ -109,26 +82,11 @@
       "Neural"
     ],
     "date": "2026-05-20T17:59:16Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Mansoor Ahmed, Sujin Lee, Umar Khayaz et al."
   },
   {
-    "id": "arxiv_1779359256091_2",
-    "name": "One-Step Distillation of Discrete Diffusion Image Generators via Fixed-Point Iteration",
-    "category": "computer-vision",
-    "description": "Discrete diffusion models excel at visual synthesis but rely on slow, iterative decoding. Existing single-step distillation methods attempt to bypass this bottleneck, either by training auxiliary scor...",
-    "link": "http://arxiv.org/abs/2605.21484v1",
-    "tags": [
-      "AI",
-      "Diffusion",
-      "Optimization"
-    ],
-    "date": "2026-05-20T17:59:10Z",
-    "trending": false,
-    "source": "arXiv - Chaoyang Wang, Yunhai Tong"
-  },
-  {
-    "id": "arxiv_1779359256306_4",
+    "id": "arxiv_1779371583287_4",
     "name": "Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction",
     "category": "machine-learning",
     "description": "Precise measurement of the kinematic Sunyaev-Zel'dovich (kSZ) effect - a probe of the large-scale distribution of baryonic matter, a key observable for cosmological inference - requires accurate recon...",
@@ -138,11 +96,11 @@
       "Transformer"
     ],
     "date": "2026-05-20T17:59:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Tilman Tröster, David Mirkovic, Veronika Oehl et al."
   },
   {
-    "id": "arxiv_1779359255895_2",
+    "id": "arxiv_1779371506409_2",
     "name": "DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation",
     "category": "ai",
     "description": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep researc...",
@@ -151,11 +109,11 @@
       "AI"
     ],
     "date": "2026-05-20T17:59:03Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sixiong Xie, Zhuofan Shi, Haiyang Shen et al."
   },
   {
-    "id": "arxiv_1779359255895_3",
+    "id": "arxiv_1779371506409_3",
     "name": "AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists",
     "category": "ai",
     "description": "Recent advances in artificial intelligence (AI) have accelerated the growth of both human-authored and AI-generated research outputs, placing increasing strain on traditional academic publishing syste...",
@@ -164,11 +122,11 @@
       "AI"
     ],
     "date": "2026-05-20T17:59:03Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Junshu Pan, Panzhong Lu, Yixuan Weng et al."
   },
   {
-    "id": "arxiv_1779359256500_0",
+    "id": "arxiv_1779371598805_0",
     "name": "AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists",
     "category": "nlp",
     "description": "Recent advances in artificial intelligence (AI) have accelerated the growth of both human-authored and AI-generated research outputs, placing increasing strain on traditional academic publishing syste...",
@@ -177,11 +135,11 @@
       "AI"
     ],
     "date": "2026-05-20T17:59:03Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Junshu Pan, Panzhong Lu, Yixuan Weng et al."
   },
   {
-    "id": "arxiv_1779359255896_4",
+    "id": "arxiv_1779371506410_4",
     "name": "WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata",
     "category": "ai",
     "description": "Visual Question Answering (VQA) benchmarks have largely emphasized perception-based tasks that can be solved from visual content alone. In contrast, many real-world scenarios require external knowledg...",
@@ -196,37 +154,7 @@
     "source": "arXiv - Basel Shbita, Pengyuan Li, Anna Lisa Gentile"
   },
   {
-    "id": "arxiv_1779359256091_3",
-    "name": "WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata",
-    "category": "computer-vision",
-    "description": "Visual Question Answering (VQA) benchmarks have largely emphasized perception-based tasks that can be solved from visual content alone. In contrast, many real-world scenarios require external knowledg...",
-    "link": "http://arxiv.org/abs/2605.21479v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-05-20T17:58:24Z",
-    "trending": true,
-    "source": "arXiv - Basel Shbita, Pengyuan Li, Anna Lisa Gentile"
-  },
-  {
-    "id": "arxiv_1779359256092_4",
-    "name": "Latent Dynamics for Full Body Avatar Animation",
-    "category": "computer-vision",
-    "description": "Pose-driven full-body avatars built on neural rendering produce high-quality novel views of a captured subject. Yet loose clothing and other dynamic elements deform in ways pose alone cannot explain: ...",
-    "link": "http://arxiv.org/abs/2605.21478v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Transformer"
-    ],
-    "date": "2026-05-20T17:58:03Z",
-    "trending": false,
-    "source": "arXiv - Shichong Peng, Chengxiang Yin, Fei Jiang et al."
-  },
-  {
-    "id": "arxiv_1779359256500_1",
+    "id": "arxiv_1779371598805_1",
     "name": "You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories",
     "category": "nlp",
     "description": "Reinforcement learning with verifiable rewards (RLVR) has become a dominant paradigm for improving reasoning in large language models (LLMs), yet the underlying geometry of the resulting parameter tra...",
@@ -242,7 +170,7 @@
     "source": "arXiv - Zhepei Wei, Xinyu Zhu, Wei-Lin Chen et al."
   },
   {
-    "id": "arxiv_1779359256500_2",
+    "id": "arxiv_1779371598806_2",
     "name": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
     "category": "nlp",
     "description": "Reinforcement learning from verifiable rewards (RLVR) has emerged as a central technique for improving the reasoning capabilities of large language models. Despite its effectiveness, how response-leve...",
@@ -256,7 +184,7 @@
     "source": "arXiv - Kaiyi Zhang, Wei Wu, Yankai Lin"
   },
   {
-    "id": "arxiv_1779359256500_3",
+    "id": "arxiv_1779371598806_3",
     "name": "Leveraging LLMs for Grammar Adaptation: A Study on Metamodel-Grammar Co-Evolution",
     "category": "nlp",
     "description": "In model-driven engineering, metamodel evolution leads to the need to adapt corresponding grammars to maintain consistency, which typically requires tedious manual work. Existing rule-based methods ca...",
@@ -267,11 +195,11 @@
       "GPT"
     ],
     "date": "2026-05-20T17:51:51Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Weixing Zhang, Bowen Jiang, Rahul Sharma et al."
   },
   {
-    "id": "arxiv_1779359256500_4",
+    "id": "arxiv_1779371598806_4",
     "name": "Mem-$π$: Adaptive Memory through Learning When and What to Generate",
     "category": "nlp",
     "description": "We present Mem-$π$, a framework for adaptive memory in large language model (LLM) agents, where useful guidance is generated on demand rather than retrieved from external memory stores. Existing memor...",
