@@ -1,291 +1,72 @@
 [
   {
-    "id": "arxiv_1779328634042_0",
-    "name": "Automated ICD Classification of Psychiatric Diagnoses: From Classical NLP to Large Language Models",
+    "id": "arxiv_1779343478998_0",
+    "name": "Variance Reduction for Expectations with Diffusion Teachers",
     "category": "ai",
-    "description": "Mental health has become a global priority, leading to a massive administrative burden in the coding of clinical diagnoses. This study proposes the automation of psychiatric diagnostic analysis by map...",
-    "link": "http://arxiv.org/abs/2605.21154v1",
+    "description": "Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are ...",
+    "link": "http://arxiv.org/abs/2605.21489v1",
     "tags": [
       "AI",
-      "Machine Learning",
-      "NLP",
-      "Transformer"
-    ],
-    "date": "2026-05-20T13:26:05Z",
-    "trending": false,
-    "source": "arXiv - Fernando Ortega, Raúl Lara-Cabrera, Jorge Dueñas-Lerín et al."
-  },
-  {
-    "id": "arxiv_1779328634185_0",
-    "name": "Automated ICD Classification of Psychiatric Diagnoses: From Classical NLP to Large Language Models",
-    "category": "machine-learning",
-    "description": "Mental health has become a global priority, leading to a massive administrative burden in the coding of clinical diagnoses. This study proposes the automation of psychiatric diagnostic analysis by map...",
-    "link": "http://arxiv.org/abs/2605.21154v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "NLP",
-      "Transformer"
-    ],
-    "date": "2026-05-20T13:26:05Z",
-    "trending": true,
-    "source": "arXiv - Fernando Ortega, Raúl Lara-Cabrera, Jorge Dueñas-Lerín et al."
-  },
-  {
-    "id": "arxiv_1779328634259_0",
-    "name": "Automated ICD Classification of Psychiatric Diagnoses: From Classical NLP to Large Language Models",
-    "category": "nlp",
-    "description": "Mental health has become a global priority, leading to a massive administrative burden in the coding of clinical diagnoses. This study proposes the automation of psychiatric diagnostic analysis by map...",
-    "link": "http://arxiv.org/abs/2605.21154v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "NLP",
-      "Transformer"
-    ],
-    "date": "2026-05-20T13:26:05Z",
-    "trending": true,
-    "source": "arXiv - Fernando Ortega, Raúl Lara-Cabrera, Jorge Dueñas-Lerín et al."
-  },
-  {
-    "id": "arxiv_1779328634185_1",
-    "name": "SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning",
-    "category": "machine-learning",
-    "description": "As the number of model parameters increases, parameter-efficient fine-tuning (PEFT) has become the go-to choice for tailoring pre-trained large language models. Low-rank Adaptation (LoRA) uses a low-r...",
-    "link": "http://arxiv.org/abs/2605.21147v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-20T13:19:28Z",
-    "trending": false,
-    "source": "arXiv - Yongkang Liu, Xing Li, Mengjie Zhao et al."
-  },
-  {
-    "id": "arxiv_1779328634260_1",
-    "name": "SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning",
-    "category": "nlp",
-    "description": "As the number of model parameters increases, parameter-efficient fine-tuning (PEFT) has become the go-to choice for tailoring pre-trained large language models. Low-rank Adaptation (LoRA) uses a low-r...",
-    "link": "http://arxiv.org/abs/2605.21147v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-20T13:19:28Z",
-    "trending": true,
-    "source": "arXiv - Yongkang Liu, Xing Li, Mengjie Zhao et al."
-  },
-  {
-    "id": "arxiv_1779328634043_1",
-    "name": "Detecting Trojaned DNNs via Spectral Regression Analysis",
-    "category": "ai",
-    "description": "Modern DNNs are repeatedly fine-tuned to incorporate new data and functionality. This evolutionary workflow introduces a security risk when updated data cannot be fully trusted, as adversaries may imp...",
-    "link": "http://arxiv.org/abs/2605.21146v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-20T13:19:27Z",
-    "trending": false,
-    "source": "arXiv - Samuele Pasini, Jinhan Kim, Paolo Tonella"
-  },
-  {
-    "id": "arxiv_1779328634185_2",
-    "name": "CoarseSoundNet: Building a reliable model for ecological soundscape analysis",
-    "category": "machine-learning",
-    "description": "A soundscape is composed of three types of sound: biophony (sounds made by animals), geophony (natural abiotic sounds) and anthropophony (sounds made by humans). A key research question in the field o...",
-    "link": "http://arxiv.org/abs/2605.21143v1",
-    "tags": [
-      "AI",
-      "Deep Learning",
-      "Machine Learning"
-    ],
-    "date": "2026-05-20T13:18:11Z",
-    "trending": true,
-    "source": "arXiv - Alexander Gebhard, Andreas Triantafyllopoulos, Dominik Arend et al."
-  },
-  {
-    "id": "arxiv_1779328634115_0",
-    "name": "Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving",
-    "category": "computer-vision",
-    "description": "Current end-to-end autonomous driving models are fundamentally constrained by the behavioral cloning ceiling of imitation learning. While reinforcement learning offers a path to smarter autonomy, it d...",
-    "link": "http://arxiv.org/abs/2605.21139v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-05-20T13:14:28Z",
-    "trending": false,
-    "source": "arXiv - Yang Wu, Qiang Meng, Zhaojiang Liu et al."
-  },
-  {
-    "id": "arxiv_1779328634185_3",
-    "name": "Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving",
-    "category": "machine-learning",
-    "description": "Current end-to-end autonomous driving models are fundamentally constrained by the behavioral cloning ceiling of imitation learning. While reinforcement learning offers a path to smarter autonomy, it d...",
-    "link": "http://arxiv.org/abs/2605.21139v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-05-20T13:14:28Z",
-    "trending": true,
-    "source": "arXiv - Yang Wu, Qiang Meng, Zhaojiang Liu et al."
-  },
-  {
-    "id": "arxiv_1779328634260_2",
-    "name": "Smarter edits? Post-editing with error highlights and translation suggestions",
-    "category": "nlp",
-    "description": "As MT quality increases, interest in enhanced post-editing features such as QE-derived error highlights is growing, yet evidence for their usefulness remains limited. In this work, we explore the usef...",
-    "link": "http://arxiv.org/abs/2605.21135v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-20T13:09:51Z",
-    "trending": false,
-    "source": "arXiv - Fleur V. J. van Tellingen, Gautam Ranka, Dora Žugčić et al."
-  },
-  {
-    "id": "arxiv_1779328634115_1",
-    "name": "SurgOnAir: Hierarchy-Aware Real-Time Surgical Video Commentary",
-    "category": "computer-vision",
-    "description": "Understanding surgical workflow in real time is fundamental for intelligent surgical embodiment, where AI systems continuously perceive and respond as surgery proceeds. In the operating room, critical...",
-    "link": "http://arxiv.org/abs/2605.21132v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-20T13:04:39Z",
-    "trending": false,
-    "source": "arXiv - Jingyi He, Yue Zhou, Long Bai et al."
-  },
-  {
-    "id": "arxiv_1779328634116_2",
-    "name": "UniT: Unified Geometry Learning with Group Autoregressive Transformer",
-    "category": "computer-vision",
-    "description": "Recent feed-forward models have significantly advanced geometry perception for inferring dense 3D structure from sensor observations. However, its essential capabilities remain fragmented across multi...",
-    "link": "http://arxiv.org/abs/2605.21131v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-05-20T13:04:34Z",
-    "trending": false,
-    "source": "arXiv - Haotian Wang, Yusong Huang, Zhaonian Kuang et al."
-  },
-  {
-    "id": "arxiv_1779328634116_3",
-    "name": "VersusQ: Pairwise Margin Reasoning for Generalizable Video Quality Assessment",
-    "category": "computer-vision",
-    "description": "Large Multimodal Models (LMMs) have shown promise for video quality assessment, but most methods still predict an absolute score for each video. Such pointwise supervision often mixes perceptual quali...",
-    "link": "http://arxiv.org/abs/2605.21130v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-20T13:03:17Z",
-    "trending": false,
-    "source": "arXiv - Shibei Meng, Binxin Yang, Yuan Liu et al."
-  },
-  {
-    "id": "arxiv_1779328634185_4",
-    "name": "Reasoning-Trace Collapse: Evaluating the Loss of Explicit Reasoning During Fine-Tuning",
-    "category": "machine-learning",
-    "description": "Explicit reasoning models are trained to produce intermediate reasoning traces before final answers, but downstream fine-tuning is often performed on ordinary instruction-response data that contains n...",
-    "link": "http://arxiv.org/abs/2605.21127v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-20T12:58:01Z",
-    "trending": false,
-    "source": "arXiv - Lukas Twist, Helen Yannakoudakis, Jie M. Zhang"
-  },
-  {
-    "id": "arxiv_1779328634116_4",
-    "name": "Linear-DPO: Linear Direct Preference Optimization for Diffusion and Flow-Matching Generative Models",
-    "category": "computer-vision",
-    "description": "Direct Preference Optimization (DPO) is successful for alignment in LLMs but still faces challenges in text-to-image generation. Existing studies are confined to denoising diffusion models while overl...",
-    "link": "http://arxiv.org/abs/2605.21123v1",
-    "tags": [
-      "AI",
-      "NLP",
-      "LLM",
       "Diffusion"
     ],
-    "date": "2026-05-20T12:54:51Z",
-    "trending": true,
-    "source": "arXiv - Kesong Li, Yixuan Xu, Kuo-kun Tseng et al."
+    "date": "2026-05-20T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Jesse Bettencourt, Xindi Wu, Matan Atzmon et al."
   },
   {
-    "id": "arxiv_1779328634043_2",
-    "name": "On the Complexity of Entailment for Cumulative Propositional Dependence Logics",
+    "id": "arxiv_1779343478998_1",
+    "name": "Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate",
     "category": "ai",
-    "description": "This paper establishes and proves complexity results for entailment for cumulative propositional dependence logic and for cumulative propositional logic with team semantics. As recently shown, cumulat...",
-    "link": "http://arxiv.org/abs/2605.21113v1",
+    "description": "Hyperparameter transfer allows extrapolating optimal optimization hyperparameters from small to large scales, making it critical for training large language models (LLMs). This is done either by fitti...",
+    "link": "http://arxiv.org/abs/2605.21486v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-05-20T17:59:40Z",
+    "trending": false,
+    "source": "arXiv - Dayal Singh Kalra, Maissam Barkeshli"
+  },
+  {
+    "id": "arxiv_1779343478998_2",
+    "name": "DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation",
+    "category": "ai",
+    "description": "Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case for frontier language models. Frontier deep researc...",
+    "link": "http://arxiv.org/abs/2605.21482v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-05-20T12:46:13Z",
+    "date": "2026-05-20T17:59:03Z",
     "trending": false,
-    "source": "arXiv - Kai Sauerwald, Juha Kontinen, Arne Meier"
+    "source": "arXiv - Sixiong Xie, Zhuofan Shi, Haiyang Shen et al."
   },
   {
-    "id": "arxiv_1779328634043_3",
-    "name": "Efficient Learning of Deep State Space Models via Importance Smoothing",
+    "id": "arxiv_1779343478999_3",
+    "name": "AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists",
     "category": "ai",
-    "description": "Latent state space systems are ubiquitous in statistical modelling, arising naturally when a time series is observed through a noisy measurement function, however training deep state space models (DSS...",
-    "link": "http://arxiv.org/abs/2605.21108v1",
+    "description": "Recent advances in artificial intelligence (AI) have accelerated the growth of both human-authored and AI-generated research outputs, placing increasing strain on traditional academic publishing syste...",
+    "link": "http://arxiv.org/abs/2605.21481v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-05-20T12:41:50Z",
-    "trending": false,
-    "source": "arXiv - John-Joseph Brady, Nikolas Nusken, Yunpeng Li"
+    "date": "2026-05-20T17:59:03Z",
+    "trending": true,
+    "source": "arXiv - Junshu Pan, Panzhong Lu, Yixuan Weng et al."
   },
   {
-    "id": "arxiv_1779328634043_4",
-    "name": "ACL-Verbatim: hallucination-free question answering for research",
+    "id": "arxiv_1779343478999_4",
+    "name": "WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata",
     "category": "ai",
-    "description": "Academic researchers need efficient and reliable methods for collecting high-quality information from trusted sources, but modern tools for AI-assisted research still suffer from the tendency of Large...",
-    "link": "http://arxiv.org/abs/2605.21102v1",
+    "description": "Visual Question Answering (VQA) benchmarks have largely emphasized perception-based tasks that can be solved from visual content alone. In contrast, many real-world scenarios require external knowledg...",
+    "link": "http://arxiv.org/abs/2605.21479v1",
     "tags": [
       "AI",
       "Vision",
-      "NLP",
       "LLM"
     ],
-    "date": "2026-05-20T12:30:29Z",
+    "date": "2026-05-20T17:58:24Z",
     "trending": false,
-    "source": "arXiv - Gábor Recski, Szilveszter Tóth, Nadia Verdha et al."
-  },
-  {
-    "id": "arxiv_1779328634260_3",
-    "name": "ACL-Verbatim: hallucination-free question answering for research",
-    "category": "nlp",
-    "description": "Academic researchers need efficient and reliable methods for collecting high-quality information from trusted sources, but modern tools for AI-assisted research still suffer from the tendency of Large...",
-    "link": "http://arxiv.org/abs/2605.21102v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "NLP",
-      "LLM"
-    ],
-    "date": "2026-05-20T12:30:29Z",
-    "trending": true,
-    "source": "arXiv - Gábor Recski, Szilveszter Tóth, Nadia Verdha et al."
-  },
-  {
-    "id": "arxiv_1779328634260_4",
-    "name": "WCXB: A Multi-Type Web Content Extraction Benchmark",
-    "category": "nlp",
-    "description": "Web content extraction - isolating a page's main content from surrounding boilerplate - is a prerequisite for search indexing, retrieval-augmented generation, NLP dataset construction, and large langu...",
-    "link": "http://arxiv.org/abs/2605.21097v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "NLP",
-      "LLM"
-    ],
-    "date": "2026-05-20T12:28:12Z",
-    "trending": true,
-    "source": "arXiv - Murrough Foley"
+    "source": "arXiv - Basel Shbita, Pengyuan Li, Anna Lisa Gentile"
   }
 ]
