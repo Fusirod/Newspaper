@@ -1,6 +1,30 @@
 [
   {
-    "id": "rss_Ars_Technica_1779489992520_0",
+    "id": "rss_TechCrunch_1779494103826_0",
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system. ",
+    "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 22 May 2026 23:03:33 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1779494107409_0",
+    "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"This capability is not common for satellites conducting typical missions.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
+    "tags": [],
+    "date": "Fri, 22 May 2026 22:50:23 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1779494107409_1",
     "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,7 +35,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1779489992520_1",
+    "id": "rss_Ars_Technica_1779494107409_2",
     "title": "First-generation Chromecast users stressed by devices suddenly failing",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -25,7 +49,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1779489992520_2",
+    "id": "rss_Ars_Technica_1779494107409_3",
     "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -33,14 +57,14 @@
     "link": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
     "tags": [],
     "date": "Fri, 22 May 2026 21:10:46 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1779489989133_0",
+    "id": "rss_TechCrunch_1779494103826_1",
     "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
+    "description": "You can now disco ball-ify your entire Pixel home screen, says Google.",
     "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
     "tags": [
       "Google"
@@ -49,7 +73,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1779489989134_1",
+    "id": "rss_TechCrunch_1779494103826_2",
     "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups ",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -60,10 +84,10 @@
       "Startup"
     ],
     "date": "Fri, 22 May 2026 20:40:48 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1779489992520_3",
+    "id": "rss_Ars_Technica_1779494107409_4",
     "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -71,21 +95,10 @@
     "link": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
     "tags": [],
     "date": "Fri, 22 May 2026 19:39:04 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1779489992520_4",
-    "title": "The Boys is dead. Long live Vought Rising.",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        \"There's a brighter future. All we need to do is take it.\"\n                    ",
-    "link": "https://arstechnica.com/culture/2026/05/the-boys-is-dead-long-live-vought-rising/",
-    "tags": [],
-    "date": "Fri, 22 May 2026 19:02:48 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1779489989134_2",
+    "id": "rss_TechCrunch_1779494103827_3",
     "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -96,7 +109,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1779489989134_3",
+    "id": "rss_TechCrunch_1779494103827_4",
     "title": "You can no longer Google the word ‘disregard’",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -110,21 +123,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1779489989134_4",
-    "title": "We tried Google’s AI glasses and they’re almost there",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view. ",
-    "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Fri, 22 May 2026 15:37:15 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1779489993647_0",
+    "id": "rss_Wired_1779494108563_0",
     "title": "Even If You Hate AI, You Will Use Google AI Search",
     "category": "ai-news",
     "source": "Wired",
@@ -135,10 +134,10 @@
       "Google"
     ],
     "date": "Fri, 22 May 2026 15:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1779489991345_0",
+    "id": "rss_MIT_Tech_Review_1779494106130_0",
     "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -151,7 +150,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1779489991345_1",
+    "id": "rss_MIT_Tech_Review_1779494106131_1",
     "title": "Google I/O showed how the path for AI-driven science is shifting",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -165,7 +164,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1779489991345_2",
+    "id": "rss_MIT_Tech_Review_1779494106131_2",
     "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -175,10 +174,10 @@
       "AI"
     ],
     "date": "Fri, 22 May 2026 09:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1779489993647_1",
+    "id": "rss_Wired_1779494108563_1",
     "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
     "category": "ai-news",
     "source": "Wired",
@@ -188,10 +187,10 @@
       "AI"
     ],
     "date": "Fri, 22 May 2026 09:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1779489993647_2",
+    "id": "rss_Wired_1779494108563_2",
     "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
     "category": "ai-news",
     "source": "Wired",
@@ -205,7 +204,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1779489993647_3",
+    "id": "rss_Wired_1779494108563_3",
     "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
     "category": "ai-news",
     "source": "Wired",
@@ -220,7 +219,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1779489991345_3",
+    "id": "rss_MIT_Tech_Review_1779494106131_3",
     "title": "Roundtables: Can AI Learn to Understand the World?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -234,7 +233,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1779489991345_4",
+    "id": "rss_MIT_Tech_Review_1779494106131_4",
     "title": "Scaling creativity in the age of AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -247,7 +246,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1779489993647_4",
+    "id": "rss_Wired_1779494108563_4",
     "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
     "category": "ai-news",
     "source": "Wired",
@@ -258,10 +257,10 @@
       "Google"
     ],
     "date": "Thu, 21 May 2026 15:48:24 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1779490002502_0",
+    "id": "rss_Distill_1779494117731_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -274,7 +273,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1779490002502_1",
+    "id": "rss_Distill_1779494117731_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -287,7 +286,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1779490002502_2",
+    "id": "rss_Distill_1779494117732_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -295,10 +294,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1779490002502_3",
+    "id": "rss_Distill_1779494117732_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -311,7 +310,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1779490002502_4",
+    "id": "rss_Distill_1779494117732_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
