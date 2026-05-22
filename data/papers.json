@@ -1,23 +1,8 @@
 [
   {
-    "id": "arxiv_1779429913084_0",
-    "name": "Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs",
-    "category": "computer-vision",
-    "description": "Video Large Language Models (Video-LLMs) have made rapid progress on temporal video understanding, yet many fail at a basic perceptual primitive: signed image-plane motion direction. On simple videos ...",
-    "link": "http://arxiv.org/abs/2605.22823v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-05-21T17:59:56Z",
-    "trending": true,
-    "source": "arXiv - Jongseo Lee, Hyuntak Lee, Sunghun Kim et al."
-  },
-  {
-    "id": "arxiv_1779429928570_0",
+    "id": "arxiv_1779444798953_0",
     "name": "Tokenisation via Convex Relaxations",
-    "category": "nlp",
+    "category": "machine-learning",
     "description": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t...",
     "link": "http://arxiv.org/abs/2605.22821v1",
     "tags": [
@@ -29,35 +14,21 @@
     "source": "arXiv - Jan Tempus, Philip Whittington, Craig W. Schmidt et al."
   },
   {
-    "id": "arxiv_1779429913084_1",
-    "name": "Cambrian-P: Pose-Grounded Video Understanding",
-    "category": "computer-vision",
-    "description": "Camera pose matters. The position and orientation of each viewpoint define a shared spatial coordinate frame that relates observations across video frames. Yet this signal is largely absent from multi...",
-    "link": "http://arxiv.org/abs/2605.22819v1",
+    "id": "arxiv_1779444798953_1",
+    "name": "Integrable Elasticity via Neural Demand Potentials",
+    "category": "machine-learning",
+    "description": "We propose the Integrable Context-Dependent Demand Network (ICDN), a demand-first neural model for multiproduct retail demand. The model learns log-demand as a smooth, context-conditioned function of ...",
+    "link": "http://arxiv.org/abs/2605.22820v1",
     "tags": [
       "AI",
-      "LLM"
+      "Neural"
     ],
-    "date": "2026-05-21T17:59:45Z",
-    "trending": true,
-    "source": "arXiv - Jihan Yang, Zifan Zhao, Xichen Pan et al."
-  },
-  {
-    "id": "arxiv_1779429913084_2",
-    "name": "MotiMotion: Motion-Controlled Video Generation with Visual Reasoning",
-    "category": "computer-vision",
-    "description": "Current motion-controlled image-to-video generation models rigidly follow user-provided trajectories that are often sparse, imprecise, and causally incomplete. Such reliance often yields unnatural or ...",
-    "link": "http://arxiv.org/abs/2605.22818v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-21T17:59:36Z",
+    "date": "2026-05-21T17:59:47Z",
     "trending": false,
-    "source": "arXiv - Lee Hsin-Ying, Hanwen Jiang, Yiqun Mei et al."
+    "source": "arXiv - Carlos Heredia, Daniel Roncel"
   },
   {
-    "id": "arxiv_1779429897717_0",
+    "id": "arxiv_1779444798809_0",
     "name": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
     "category": "ai",
     "description": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific ...",
@@ -72,9 +43,9 @@
     "source": "arXiv - Ryan Bahlous-Boldi, Isha Puri, Idan Shenfeld et al."
   },
   {
-    "id": "arxiv_1779429928570_1",
+    "id": "arxiv_1779444798954_2",
     "name": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
-    "category": "nlp",
+    "category": "machine-learning",
     "description": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific ...",
     "link": "http://arxiv.org/abs/2605.22817v1",
     "tags": [
@@ -83,39 +54,25 @@
       "Optimization"
     ],
     "date": "2026-05-21T17:59:26Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ryan Bahlous-Boldi, Isha Puri, Idan Shenfeld et al."
   },
   {
-    "id": "arxiv_1779429913084_3",
-    "name": "AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation",
-    "category": "computer-vision",
-    "description": "Vision-and-Language Navigation (VLN) requires an agent to ground language instructions to its own movement within a visual environment. While state-of-the-art methods leverage the reasoning capabiliti...",
-    "link": "http://arxiv.org/abs/2605.22816v1",
+    "id": "arxiv_1779444798954_3",
+    "name": "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
+    "category": "machine-learning",
+    "description": "Exploration is a prerequisite for learning useful behaviors in sparse-reward, long-horizon tasks, particularly within 3D environments. Curiosity-driven reinforcement learning addresses this via intrin...",
+    "link": "http://arxiv.org/abs/2605.22814v1",
     "tags": [
       "AI",
-      "Vision"
+      "Reinforcement Learning"
     ],
-    "date": "2026-05-21T17:58:26Z",
+    "date": "2026-05-21T17:58:06Z",
     "trending": false,
-    "source": "arXiv - Wenxuan Guo, Xiuwei Xu, Yichen Liu et al."
+    "source": "arXiv - Lily Goli, Justin Kerr, Daniele Reda et al."
   },
   {
-    "id": "arxiv_1779429913084_4",
-    "name": "GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations",
-    "category": "computer-vision",
-    "description": "Vision-Language-Action (VLA) models have shown strong potential for general-purpose robot manipulation by unifying perception and action. However, existing VLA systems primarily rely on textual instru...",
-    "link": "http://arxiv.org/abs/2605.22812v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-21T17:57:44Z",
-    "trending": false,
-    "source": "arXiv - Wenxuan Guo, Ziyuan Li, Meng Zhang et al."
-  },
-  {
-    "id": "arxiv_1779429897717_1",
+    "id": "arxiv_1779444798809_1",
     "name": "The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
     "category": "ai",
     "description": "Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation are usually treated a...",
@@ -128,7 +85,20 @@
     "source": "arXiv - Vishal Rajput"
   },
   {
-    "id": "arxiv_1779429897717_2",
+    "id": "arxiv_1779444798954_4",
+    "name": "The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
+    "category": "machine-learning",
+    "description": "Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation are usually treated a...",
+    "link": "http://arxiv.org/abs/2605.22800v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-21T17:53:28Z",
+    "trending": false,
+    "source": "arXiv - Vishal Rajput"
+  },
+  {
+    "id": "arxiv_1779444798810_2",
     "name": "Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models",
     "category": "ai",
     "description": "We propose and analyze a conservative drifting method for one-step generative modeling. The method replaces the original displacement-based drifting velocity by a kernel density estimator (KDE)-gradie...",
@@ -137,11 +107,11 @@
       "AI"
     ],
     "date": "2026-05-21T17:49:09Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Krishnakumar Balasubramanian"
   },
   {
-    "id": "arxiv_1779429897718_3",
+    "id": "arxiv_1779444798810_3",
     "name": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
     "category": "ai",
     "description": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving a...",
@@ -154,7 +124,7 @@
     "source": "arXiv - Qianshu Cai, Yonggang Zhang, Xianzhang Jia et al."
   },
   {
-    "id": "arxiv_1779429897718_4",
+    "id": "arxiv_1779444798810_4",
     "name": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
     "category": "ai",
     "description": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just...",
@@ -165,47 +135,5 @@
     "date": "2026-05-21T17:44:57Z",
     "trending": true,
     "source": "arXiv - Ali Hatamizadeh, Yejin Choi, Jan Kautz"
-  },
-  {
-    "id": "arxiv_1779429928570_2",
-    "name": "Evaluating Commercial AI Chatbots as News Intermediaries",
-    "category": "nlp",
-    "description": "AI chatbots are rapidly shaping how people encounter the news, yet no prior study has systematically measured how accurately these systems, with their proprietary search integrations and retrieval-syn...",
-    "link": "http://arxiv.org/abs/2605.22785v1",
-    "tags": [
-      "AI",
-      "GPT"
-    ],
-    "date": "2026-05-21T17:42:07Z",
-    "trending": true,
-    "source": "arXiv - Mirac Suzgun, Emily Shen, Federico Bianchi et al."
-  },
-  {
-    "id": "arxiv_1779429928570_3",
-    "name": "Reducing Political Manipulation with Consistency Training",
-    "category": "nlp",
-    "description": "Large language models (LLMs) exhibit systematic political bias across a variety of sensitive contexts. We find that LLMs handle counterpart topics from opposing political sides asymmetrically. We refe...",
-    "link": "http://arxiv.org/abs/2605.22771v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-21T17:32:40Z",
-    "trending": false,
-    "source": "arXiv - Long Phan, Devin Kim, Alexander Pan et al."
-  },
-  {
-    "id": "arxiv_1779429928570_4",
-    "name": "Understanding Data Temporality Impact on Large Language Models Pre-training",
-    "category": "nlp",
-    "description": "Large language models (LLMs) are typically trained on shuffled corpora, yielding models whose knowledge is frozen at train time and whose temporal grounding remains poorly understood. In this work, we...",
-    "link": "http://arxiv.org/abs/2605.22769v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-21T17:31:17Z",
-    "trending": false,
-    "source": "arXiv - Pilchen Hippolyte, Fabre Romain, Signe Talla Franck et al."
   }
 ]
