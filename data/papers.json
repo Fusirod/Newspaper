@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1779719256568_0",
+    "id": "arxiv_1779728193931_0",
     "name": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
     "category": "ai",
     "description": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reli...",
@@ -12,55 +12,11 @@
       "GPT"
     ],
     "date": "2026-05-22T17:59:50Z",
-    "trending": true,
-    "source": "arXiv - Yifan Yang, Ziyang Gong, Weiquan Huang et al."
-  },
-  {
-    "id": "arxiv_1779719256767_0",
-    "name": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
-    "category": "nlp",
-    "description": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reli...",
-    "link": "http://arxiv.org/abs/2605.23904v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "GPT"
-    ],
-    "date": "2026-05-22T17:59:50Z",
     "trending": false,
     "source": "arXiv - Yifan Yang, Ziyang Gong, Weiquan Huang et al."
   },
   {
-    "id": "arxiv_1779719256587_0",
-    "name": "Geo-Align: Video Generation Alignment via Metric Geometry Reward",
-    "category": "computer-vision",
-    "description": "Camera-controlled video generation has achieved remarkable progress in recent years. However, existing video-to-video re-rendering methods primarily rely on Supervised Fine-Tuning using synthetic data...",
-    "link": "http://arxiv.org/abs/2605.23903v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-05-22T17:59:43Z",
-    "trending": false,
-    "source": "arXiv - Zizun Li, Haoyu Guo, Runzhe Teng et al."
-  },
-  {
-    "id": "arxiv_1779719256587_1",
-    "name": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
-    "category": "computer-vision",
-    "description": "Most practical high-resolution text-to-image systems, including latent diffusion and autoregressive models, perform generation in a compact latent space, and a decoder maps the generated latents back ...",
-    "link": "http://arxiv.org/abs/2605.23902v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-05-22T17:59:42Z",
-    "trending": false,
-    "source": "arXiv - Yifan Lu, Qi Wu, Jay Zhangjie Wu et al."
-  },
-  {
-    "id": "arxiv_1779719256569_1",
+    "id": "arxiv_1779728193932_1",
     "name": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
     "category": "ai",
     "description": "Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena such as catastrophic overtraining and quantization-induced ...",
@@ -74,7 +30,7 @@
     "source": "arXiv - Xu Ouyang, Deyi Liu, Yuhang Cai et al."
   },
   {
-    "id": "arxiv_1779719256749_0",
+    "id": "arxiv_1779728209223_0",
     "name": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
     "category": "machine-learning",
     "description": "Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena such as catastrophic overtraining and quantization-induced ...",
@@ -88,7 +44,7 @@
     "source": "arXiv - Xu Ouyang, Deyi Liu, Yuhang Cai et al."
   },
   {
-    "id": "arxiv_1779719256569_2",
+    "id": "arxiv_1779728193932_2",
     "name": "From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills",
     "category": "ai",
     "description": "Language agents increasingly improve by reusing \\emph{skills} -- structured procedural artifacts distilled from past experience. In particular, \\emph{domain-level} and \\emph{model-generated} skills ar...",
@@ -101,7 +57,7 @@
     "source": "arXiv - Zisu Huang, Jingwen Xu, Yifan Yang et al."
   },
   {
-    "id": "arxiv_1779719256569_3",
+    "id": "arxiv_1779728193932_3",
     "name": "SPACENUM: Revisiting Spatial Numerical Understanding in VLMs",
     "category": "ai",
     "description": "Vision-Language Models (VLMs) are increasingly deployed in embodied environments, where they need produce numerical outputs such as action magnitudes and spatial coordinates. Although these numbers ap...",
@@ -111,11 +67,11 @@
       "Vision"
     ],
     "date": "2026-05-22T17:58:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jianshu Zhang, Yijiang Li, Huifeixin Chen et al."
   },
   {
-    "id": "arxiv_1779719256569_4",
+    "id": "arxiv_1779728193932_4",
     "name": "ETCHR: Editing To Clarify and Harness Reasoning",
     "category": "ai",
     "description": "Multimodal Large Language Models have advanced visual reasoning, yet a purely textual chain of thought remains a bottleneck for questions that require fine-grained focus or view transformations. The '...",
@@ -129,49 +85,7 @@
     "source": "arXiv - Beichen Zhang, Yuhong Liu, Jinsong Li et al."
   },
   {
-    "id": "arxiv_1779719256587_2",
-    "name": "ETCHR: Editing To Clarify and Harness Reasoning",
-    "category": "computer-vision",
-    "description": "Multimodal Large Language Models have advanced visual reasoning, yet a purely textual chain of thought remains a bottleneck for questions that require fine-grained focus or view transformations. The '...",
-    "link": "http://arxiv.org/abs/2605.23897v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-22T17:58:28Z",
-    "trending": false,
-    "source": "arXiv - Beichen Zhang, Yuhong Liu, Jinsong Li et al."
-  },
-  {
-    "id": "arxiv_1779719256767_1",
-    "name": "ETCHR: Editing To Clarify and Harness Reasoning",
-    "category": "nlp",
-    "description": "Multimodal Large Language Models have advanced visual reasoning, yet a purely textual chain of thought remains a bottleneck for questions that require fine-grained focus or view transformations. The '...",
-    "link": "http://arxiv.org/abs/2605.23897v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-22T17:58:28Z",
-    "trending": false,
-    "source": "arXiv - Beichen Zhang, Yuhong Liu, Jinsong Li et al."
-  },
-  {
-    "id": "arxiv_1779719256587_3",
-    "name": "From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain",
-    "category": "computer-vision",
-    "description": "Identifying which brain regions represent a visual concept in the human brain is a central challenge in neuroscience. Existing approaches have localized coarse functional regions (e.g., faces, places)...",
-    "link": "http://arxiv.org/abs/2605.23895v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-05-22T17:56:37Z",
-    "trending": false,
-    "source": "arXiv - Yuval Golbari, Navve Wasserman, Matias Cosarinsky et al."
-  },
-  {
-    "id": "arxiv_1779719256749_1",
+    "id": "arxiv_1779728209224_1",
     "name": "Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models",
     "category": "machine-learning",
     "description": "We propose Complete-muE, a framework which targets hyperparameter transfer across dense FFN and any Mixture-of-Experts (MoE) setups in transformer blocks. Existing tools such as $μ$P (requires fixed a...",
@@ -186,9 +100,9 @@
     "source": "arXiv - Hongwu Peng, Ohiremen Dibua, Yuanjun Xiong et al."
   },
   {
-    "id": "arxiv_1779719256587_4",
+    "id": "arxiv_1779728209224_2",
     "name": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers",
-    "category": "computer-vision",
+    "category": "machine-learning",
     "description": "Visual geometry transformers have become powerful architectures for multi-view 3D reconstruction, enabling joint prediction of multiple 3D attributes in a feed-forward manner. However, their computati...",
     "link": "http://arxiv.org/abs/2605.23892v1",
     "tags": [
@@ -200,21 +114,7 @@
     "source": "arXiv - Shuhong Zheng, Michael Oechsle, Erik Sandström et al."
   },
   {
-    "id": "arxiv_1779719256749_2",
-    "name": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers",
-    "category": "machine-learning",
-    "description": "Visual geometry transformers have become powerful architectures for multi-view 3D reconstruction, enabling joint prediction of multiple 3D attributes in a feed-forward manner. However, their computati...",
-    "link": "http://arxiv.org/abs/2605.23892v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-05-22T17:55:13Z",
-    "trending": true,
-    "source": "arXiv - Shuhong Zheng, Michael Oechsle, Erik Sandström et al."
-  },
-  {
-    "id": "arxiv_1779719256749_3",
+    "id": "arxiv_1779728209224_3",
     "name": "CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces",
     "category": "machine-learning",
     "description": "Temporal knowledge-graph data marketplaces face three coupled failures in static designs: stale hybrid index shortcuts reduce recall as edges evolve, stationary Shapley pricing misattributes value aft...",
@@ -228,20 +128,7 @@
     "source": "arXiv - Joydeep Chandra"
   },
   {
-    "id": "arxiv_1779719256767_2",
-    "name": "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions",
-    "category": "nlp",
-    "description": "Cross-lingual knowledge transfer is critical for building high-performing multilingual language models for languages with insufficient training data. When target language data is scarce, the knowledge...",
-    "link": "http://arxiv.org/abs/2605.23885v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-22T17:45:49Z",
-    "trending": false,
-    "source": "arXiv - Anastasiia Sedova, Natalie Schluter, Skyler Seto et al."
-  },
-  {
-    "id": "arxiv_1779719256749_4",
+    "id": "arxiv_1779728209224_4",
     "name": "On the Stability of Spherical Hellinger-Kantorovich Flows and Their Implications for Differential Privacy",
     "category": "machine-learning",
     "description": "Gradient-flow sampling interprets a Gibbs distribution as the minimizer of an energy functional over probability measures and generates dynamics converging to this target. Under spherical Hellinger-Ka...",
@@ -250,33 +137,5 @@
     "date": "2026-05-22T17:38:20Z",
     "trending": false,
     "source": "arXiv - Aratrika Mustafi, Soumya Mukherjee"
-  },
-  {
-    "id": "arxiv_1779719256767_3",
-    "name": "Strong Teacher Not Needed? On Distillation in LLM Pretraining",
-    "category": "nlp",
-    "description": "Knowledge distillation generally assumes a strong-to-weak relationship where stronger teachers yield better students. In this work, we examine this assumption about distillation in large language mode...",
-    "link": "http://arxiv.org/abs/2605.23857v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-22T17:16:35Z",
-    "trending": false,
-    "source": "arXiv - Taiming Lu, Zhuang Liu"
-  },
-  {
-    "id": "arxiv_1779719256767_4",
-    "name": "Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval",
-    "category": "nlp",
-    "description": "Keyframe selection is a direct way to provide verifiable visual evidence for long-video question answering (QA). Queries differ in what they require, and finding the right frames depends on knowing wh...",
-    "link": "http://arxiv.org/abs/2605.23826v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-22T16:29:51Z",
-    "trending": false,
-    "source": "arXiv - Michal Shlapentokh-Rothman, Prachi Garg, Yu-Xiong Wang et al."
   }
 ]
