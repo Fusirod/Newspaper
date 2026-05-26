@@ -1,19 +1,6 @@
 [
   {
-    "id": "arxiv_1779771314735_0",
-    "name": "TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction",
-    "category": "computer-vision",
-    "description": "Sparse-view 3D reconstruction is increasingly addressed with feed-forward splatting networks that predict explicit primitives directly from images. Yet most existing methods remain centered on Gaussia...",
-    "link": "http://arxiv.org/abs/2605.26115v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-25T17:59:53Z",
-    "trending": true,
-    "source": "arXiv - Weijie Wang, Zimu Li, Jinchuan Shi et al."
-  },
-  {
-    "id": "arxiv_1779771314728_0",
+    "id": "arxiv_1779783896097_0",
     "name": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
     "category": "ai",
     "description": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two cap...",
@@ -26,35 +13,7 @@
     "source": "arXiv - Dingbang Wu, Rui Hao, Haiyang Wang et al."
   },
   {
-    "id": "arxiv_1779771314745_0",
-    "name": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
-    "category": "nlp",
-    "description": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two cap...",
-    "link": "http://arxiv.org/abs/2605.26114v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-25T17:59:49Z",
-    "trending": false,
-    "source": "arXiv - Dingbang Wu, Rui Hao, Haiyang Wang et al."
-  },
-  {
-    "id": "arxiv_1779771314735_1",
-    "name": "AnyScene: Towards Highly Controllable Driving Scene Generation at Anywhere and Beyond",
-    "category": "computer-vision",
-    "description": "Generating high-fidelity and controllable synthetic data is critical for advancing end-to-end autonomous driving, particularly for addressing the long tail of rare safety-critical scenarios. Existing ...",
-    "link": "http://arxiv.org/abs/2605.26113v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-05-25T17:59:48Z",
-    "trending": true,
-    "source": "arXiv - Haiming Zhang, Junfei Zhou, Feng Jiang et al."
-  },
-  {
-    "id": "arxiv_1779771314728_1",
+    "id": "arxiv_1779783896097_1",
     "name": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
     "category": "ai",
     "description": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation model...",
@@ -64,11 +23,11 @@
       "Optimization"
     ],
     "date": "2026-05-25T17:59:36Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Shangding Gu"
   },
   {
-    "id": "arxiv_1779771314740_0",
+    "id": "arxiv_1779783927250_0",
     "name": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
     "category": "machine-learning",
     "description": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation model...",
@@ -82,7 +41,7 @@
     "source": "arXiv - Shangding Gu"
   },
   {
-    "id": "arxiv_1779771314728_2",
+    "id": "arxiv_1779783896097_2",
     "name": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
     "category": "ai",
     "description": "Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference ...",
@@ -97,22 +56,7 @@
     "source": "arXiv - Shuhong Zheng, Aashish Kumar Misraa, Yu-Teng Li et al."
   },
   {
-    "id": "arxiv_1779771314735_2",
-    "name": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
-    "category": "computer-vision",
-    "description": "Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference ...",
-    "link": "http://arxiv.org/abs/2605.26111v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Diffusion"
-    ],
-    "date": "2026-05-25T17:59:35Z",
-    "trending": true,
-    "source": "arXiv - Shuhong Zheng, Aashish Kumar Misraa, Yu-Teng Li et al."
-  },
-  {
-    "id": "arxiv_1779771314740_1",
+    "id": "arxiv_1779783927250_1",
     "name": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
     "category": "machine-learning",
     "description": "Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference ...",
@@ -127,21 +71,7 @@
     "source": "arXiv - Shuhong Zheng, Aashish Kumar Misraa, Yu-Teng Li et al."
   },
   {
-    "id": "arxiv_1779771314735_3",
-    "name": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
-    "category": "computer-vision",
-    "description": "Multimodal Large Language Models (MLLMs) achieve versatility by reformulating diverse tasks into a unified instruction-following framework via instruction tuning. However, real-world deployment requir...",
-    "link": "http://arxiv.org/abs/2605.26110v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-25T17:59:28Z",
-    "trending": false,
-    "source": "arXiv - Jun-Tao Tang, Yu-Cheng Shi, Zhen-Hao Xie et al."
-  },
-  {
-    "id": "arxiv_1779771314740_2",
+    "id": "arxiv_1779783927250_2",
     "name": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
     "category": "machine-learning",
     "description": "Multimodal Large Language Models (MLLMs) achieve versatility by reformulating diverse tasks into a unified instruction-following framework via instruction tuning. However, real-world deployment requir...",
@@ -151,38 +81,11 @@
       "LLM"
     ],
     "date": "2026-05-25T17:59:28Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jun-Tao Tang, Yu-Cheng Shi, Zhen-Hao Xie et al."
   },
   {
-    "id": "arxiv_1779771314745_1",
-    "name": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
-    "category": "nlp",
-    "description": "Multimodal Large Language Models (MLLMs) achieve versatility by reformulating diverse tasks into a unified instruction-following framework via instruction tuning. However, real-world deployment requir...",
-    "link": "http://arxiv.org/abs/2605.26110v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-25T17:59:28Z",
-    "trending": false,
-    "source": "arXiv - Jun-Tao Tang, Yu-Cheng Shi, Zhen-Hao Xie et al."
-  },
-  {
-    "id": "arxiv_1779771314735_4",
-    "name": "Helix4D: Complex 4D Mesh Generation",
-    "category": "computer-vision",
-    "description": "Current video-to-4D methods struggle with complex topology changes, transparent materials, thin structures, and inner surfaces. We present Helix4D, a dynamic mesh generation framework by inheriting th...",
-    "link": "http://arxiv.org/abs/2605.26109v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-25T17:59:22Z",
-    "trending": false,
-    "source": "arXiv - Jiraphon Yenphraphai, Jianqi Chen, Jian Wang et al."
-  },
-  {
-    "id": "arxiv_1779771314740_3",
+    "id": "arxiv_1779783927251_3",
     "name": "Looped Diffusion Language Models",
     "category": "machine-learning",
     "description": "Masked diffusion models (MDMs) have emerged as a promising alternative to autoregressive models for language modeling, yet the effective design of transformer architectures for MDMs remains underexplo...",
@@ -197,7 +100,7 @@
     "source": "arXiv - Sanghyun Lee, Chunsan Hong, Seungryong Kim et al."
   },
   {
-    "id": "arxiv_1779771314728_3",
+    "id": "arxiv_1779783896097_3",
     "name": "Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models",
     "category": "ai",
     "description": "Code review is a critical practice in software engineering, yet the growing scale and frequency of code patches in modern projects, together with the widespread adoption of AI code assistants, make ma...",
@@ -207,11 +110,11 @@
       "LLM"
     ],
     "date": "2026-05-25T17:56:46Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Bar Weiss, Antonio Abu-Nassar, Adi Sosnovich et al."
   },
   {
-    "id": "arxiv_1779771314728_4",
+    "id": "arxiv_1779783896097_4",
     "name": "Language Models Need Sleep",
     "category": "ai",
     "description": "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consol...",
@@ -225,21 +128,7 @@
     "source": "arXiv - Sangyun Lee, Sean McLeish, Tom Goldstein et al."
   },
   {
-    "id": "arxiv_1779771314745_2",
-    "name": "Language Models Need Sleep",
-    "category": "nlp",
-    "description": "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consol...",
-    "link": "http://arxiv.org/abs/2605.26099v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-05-25T17:55:39Z",
-    "trending": false,
-    "source": "arXiv - Sangyun Lee, Sean McLeish, Tom Goldstein et al."
-  },
-  {
-    "id": "arxiv_1779771314740_4",
+    "id": "arxiv_1779783927251_4",
     "name": "Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay",
     "category": "machine-learning",
     "description": "Models trained on a new task typically degrade on prior tasks, a phenomenon known as forgetting. Traditionally, mitigating forgetting has required replaying stored exemplars from prior tasks, which is...",
@@ -249,37 +138,7 @@
       "Optimization"
     ],
     "date": "2026-05-25T17:54:34Z",
-    "trending": false,
-    "source": "arXiv - Martin Marek, Dongkyu Cho, Shikai Qiu et al."
-  },
-  {
-    "id": "arxiv_1779771314745_3",
-    "name": "Automated Benchmark Auditing for AI Agents and Large Language Models",
-    "category": "nlp",
-    "description": "Modern AI benchmarks operate at a complexity that outpaces traditional verification methods. Tasks authored by domain experts often contain implicit assumptions, incomplete environment specifications,...",
-    "link": "http://arxiv.org/abs/2605.26079v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-25T17:44:21Z",
-    "trending": false,
-    "source": "arXiv - Junlin Wang, Federico Bianchi, Shang Zhu et al."
-  },
-  {
-    "id": "arxiv_1779771314746_4",
-    "name": "StakeBench: Evaluating Language Understanding Grounded in Market Commitment",
-    "category": "nlp",
-    "description": "Existing financial NLP benchmarks often rely on labels supplied by outside observers, measuring how language is perceived rather than what speakers have committed to in the market. We introduce StakeB...",
-    "link": "http://arxiv.org/abs/2605.26074v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "NLP",
-      "LLM"
-    ],
-    "date": "2026-05-25T17:38:30Z",
     "trending": true,
-    "source": "arXiv - Yunhua Pei, Jingyu Hu, Yiwei Shi et al."
+    "source": "arXiv - Martin Marek, Dongkyu Cho, Shikai Qiu et al."
   }
 ]
