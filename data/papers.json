@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1779858377978_0",
+    "id": "arxiv_1779872170099_0",
     "name": "Algorithmic Monocultures in Hiring",
     "category": "ai",
     "description": "Many employers screen job applicants with algorithms built by the same few algorithm vendors. We hypothesize that algorithmic monoculture leads to the same individuals and members of the same racial g...",
@@ -9,11 +9,11 @@
       "AI"
     ],
     "date": "2026-05-26T17:59:55Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Rishi Bommasani, Sarah H. Bana, Kathleen A. Creel et al."
   },
   {
-    "id": "arxiv_1779858378048_0",
+    "id": "arxiv_1779872170155_0",
     "name": "G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing",
     "category": "computer-vision",
     "description": "Modern feed-forward 3D reconstruction methods like VGGT predict pixel-aligned pointmaps in camera-centric coordinate frames. However, this choice of coordinate frame is not always optimal. We propose ...",
@@ -26,7 +26,7 @@
     "source": "arXiv - Bharath Raj Nagoor Kani, Noah Snavely"
   },
   {
-    "id": "arxiv_1779858378049_1",
+    "id": "arxiv_1779872170156_1",
     "name": "SpatialBench: Is Your Spatial Foundation Model an All-Round Player?",
     "category": "computer-vision",
     "description": "While spatial foundation models have demonstrated impressive performance on standard datasets, a critical question remains: are they truly all-round players capable of generalizing robustly across div...",
@@ -39,7 +39,7 @@
     "source": "arXiv - Haosong Peng, Hao Li, Jiaqi Chen et al."
   },
   {
-    "id": "arxiv_1779858377979_1",
+    "id": "arxiv_1779872170100_1",
     "name": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
     "category": "ai",
     "description": "Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability,...",
@@ -50,11 +50,11 @@
       "LLM"
     ],
     "date": "2026-05-26T17:59:19Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Huawei Lin, Peng Li, Jie Song et al."
   },
   {
-    "id": "arxiv_1779858378117_0",
+    "id": "arxiv_1779872170213_0",
     "name": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
     "category": "machine-learning",
     "description": "Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability,...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Huawei Lin, Peng Li, Jie Song et al."
   },
   {
-    "id": "arxiv_1779858378186_0",
+    "id": "arxiv_1779872170266_0",
     "name": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
     "category": "nlp",
     "description": "Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability,...",
@@ -84,7 +84,7 @@
     "source": "arXiv - Huawei Lin, Peng Li, Jie Song et al."
   },
   {
-    "id": "arxiv_1779858377979_2",
+    "id": "arxiv_1779872170100_2",
     "name": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
     "category": "ai",
     "description": "Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded l...",
@@ -98,7 +98,7 @@
     "source": "arXiv - Shihao Wang, Shilong Liu, Yuanguo Kuang et al."
   },
   {
-    "id": "arxiv_1779858378049_2",
+    "id": "arxiv_1779872170156_2",
     "name": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
     "category": "computer-vision",
     "description": "Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded l...",
@@ -112,7 +112,7 @@
     "source": "arXiv - Shihao Wang, Shilong Liu, Yuanguo Kuang et al."
   },
   {
-    "id": "arxiv_1779858378117_1",
+    "id": "arxiv_1779872170213_1",
     "name": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
     "category": "machine-learning",
     "description": "Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded l...",
@@ -122,11 +122,11 @@
       "Vision"
     ],
     "date": "2026-05-26T17:59:12Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shihao Wang, Shilong Liu, Yuanguo Kuang et al."
   },
   {
-    "id": "arxiv_1779858377979_3",
+    "id": "arxiv_1779872170100_3",
     "name": "Natural Language Query to Configuration for Retrieval Agents",
     "category": "ai",
     "description": "Modern retrieval agents expose many configuration choices -- LLM, retriever, number of documents, number of hops, and synthesis strategy -- each shaping both answer quality and serving cost. Today, th...",
@@ -141,7 +141,7 @@
     "source": "arXiv - Melissa Z. Pan, Negar Arabzadeh, Mathew Jacob et al."
   },
   {
-    "id": "arxiv_1779858377979_4",
+    "id": "arxiv_1779872170100_4",
     "name": "GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing",
     "category": "ai",
     "description": "Cellular research and development (R&D) is throttled by six structural processes that each consume months of manual engineering work per iteration: (i) synthesizing new features from standards or rese...",
@@ -156,7 +156,7 @@
     "source": "arXiv - Tamerlan Aghayev, Maxime Elkael, Michele Polese et al."
   },
   {
-    "id": "arxiv_1779858378118_2",
+    "id": "arxiv_1779872170213_2",
     "name": "MobileMoE: Scaling On-Device Mixture of Experts",
     "category": "machine-learning",
     "description": "Mixture-of-Experts (MoE) has become the de facto architecture for hundred-billion-parameter language models, yet its advantages at sub-billion scales for on-device deployment remain largely unexplored...",
@@ -166,11 +166,11 @@
       "LLM"
     ],
     "date": "2026-05-26T17:58:24Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yanbei Chen, Hanxian Huang, Ernie Chang et al."
   },
   {
-    "id": "arxiv_1779858378186_1",
+    "id": "arxiv_1779872170266_1",
     "name": "MobileMoE: Scaling On-Device Mixture of Experts",
     "category": "nlp",
     "description": "Mixture-of-Experts (MoE) has become the de facto architecture for hundred-billion-parameter language models, yet its advantages at sub-billion scales for on-device deployment remain largely unexplored...",
@@ -180,11 +180,11 @@
       "LLM"
     ],
     "date": "2026-05-26T17:58:24Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yanbei Chen, Hanxian Huang, Ernie Chang et al."
   },
   {
-    "id": "arxiv_1779858378118_3",
+    "id": "arxiv_1779872170213_3",
     "name": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
     "category": "machine-learning",
     "description": "Reinforcement Learning from Human Feedback (RLHF) is the standard method to align Large Language Models (LLMs) with human preferences. In this work, we introduce alignment tampering, a potential vulne...",
@@ -200,7 +200,7 @@
     "source": "arXiv - Dongyoon Hahm, Dylan Hadfield-Menell, Kimin Lee"
   },
   {
-    "id": "arxiv_1779858378186_2",
+    "id": "arxiv_1779872170266_2",
     "name": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
     "category": "nlp",
     "description": "Reinforcement Learning from Human Feedback (RLHF) is the standard method to align Large Language Models (LLMs) with human preferences. In this work, we introduce alignment tampering, a potential vulne...",
@@ -212,11 +212,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-05-26T17:57:04Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Dongyoon Hahm, Dylan Hadfield-Menell, Kimin Lee"
   },
   {
-    "id": "arxiv_1779858378118_4",
+    "id": "arxiv_1779872170213_4",
     "name": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
     "category": "machine-learning",
     "description": "Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich ...",
@@ -231,7 +231,7 @@
     "source": "arXiv - Yi Jing, Zao Dai, Jinwu Hu et al."
   },
   {
-    "id": "arxiv_1779858378186_3",
+    "id": "arxiv_1779872170266_3",
     "name": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
     "category": "nlp",
     "description": "Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich ...",
@@ -242,11 +242,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-05-26T17:55:59Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yi Jing, Zao Dai, Jinwu Hu et al."
   },
   {
-    "id": "arxiv_1779858378049_3",
+    "id": "arxiv_1779872170156_3",
     "name": "Feedforward 3D Editing Learns from Semantic-Part Transformation",
     "category": "computer-vision",
     "description": "3D editing is a fundamental capability for scalable 3D content creation. While image editing has rapidly evolved toward large-scale feedforward generative paradigms, 3D AI generation remains dominated...",
@@ -256,11 +256,11 @@
       "Vision"
     ],
     "date": "2026-05-26T17:51:59Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jiawei Weng, Saining Zhang, Zhenxin Diao et al."
   },
   {
-    "id": "arxiv_1779858378049_4",
+    "id": "arxiv_1779872170156_4",
     "name": "When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection",
     "category": "computer-vision",
     "description": "Recent generative models have largely closed the gap on low-level artifacts - pixel fingerprints, frequency anomalies, upsampling traces - particularly in person-centric and partial-edit settings wher...",
@@ -272,11 +272,11 @@
       "Optimization"
     ],
     "date": "2026-05-26T17:50:17Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Kim Jihyeon, Sohee Kim, Soosan Lee et al."
   },
   {
-    "id": "arxiv_1779858378186_4",
+    "id": "arxiv_1779872170266_4",
     "name": "MATCHA: Matching Text via Contrastive Semantic Alignment",
     "category": "nlp",
     "description": "Reliable evaluation is essential for understanding large language model (LLM) performance, yet today's go-to metrics, namely token-overlap scores (e.g., ROUGE) and embedding-based measures (e.g., BERT...",
