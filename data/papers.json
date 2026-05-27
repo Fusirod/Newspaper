@@ -1,285 +1,293 @@
 [
   {
-    "id": "arxiv_1779840076704_0",
-    "name": "TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction",
-    "category": "computer-vision",
-    "description": "Sparse-view 3D reconstruction is increasingly addressed with feed-forward splatting networks that predict explicit primitives directly from images. Yet most existing methods remain centered on Gaussia...",
-    "link": "http://arxiv.org/abs/2605.26115v1",
+    "id": "arxiv_1779858377978_0",
+    "name": "Algorithmic Monocultures in Hiring",
+    "category": "ai",
+    "description": "Many employers screen job applicants with algorithms built by the same few algorithm vendors. We hypothesize that algorithmic monoculture leads to the same individuals and members of the same racial g...",
+    "link": "http://arxiv.org/abs/2605.27371v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-05-25T17:59:53Z",
-    "trending": true,
-    "source": "arXiv - Weijie Wang, Zimu Li, Jinchuan Shi et al."
-  },
-  {
-    "id": "arxiv_1779840076679_0",
-    "name": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
-    "category": "ai",
-    "description": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two cap...",
-    "link": "http://arxiv.org/abs/2605.26114v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-25T17:59:49Z",
+    "date": "2026-05-26T17:59:55Z",
     "trending": false,
-    "source": "arXiv - Dingbang Wu, Rui Hao, Haiyang Wang et al."
+    "source": "arXiv - Rishi Bommasani, Sarah H. Bana, Kathleen A. Creel et al."
   },
   {
-    "id": "arxiv_1779840076753_0",
-    "name": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
-    "category": "nlp",
-    "description": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two cap...",
-    "link": "http://arxiv.org/abs/2605.26114v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-25T17:59:49Z",
-    "trending": true,
-    "source": "arXiv - Dingbang Wu, Rui Hao, Haiyang Wang et al."
-  },
-  {
-    "id": "arxiv_1779840076704_1",
-    "name": "AnyScene: Towards Highly Controllable Driving Scene Generation at Anywhere and Beyond",
+    "id": "arxiv_1779858378048_0",
+    "name": "G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing",
     "category": "computer-vision",
-    "description": "Generating high-fidelity and controllable synthetic data is critical for advancing end-to-end autonomous driving, particularly for addressing the long tail of rare safety-critical scenarios. Existing ...",
-    "link": "http://arxiv.org/abs/2605.26113v1",
+    "description": "Modern feed-forward 3D reconstruction methods like VGGT predict pixel-aligned pointmaps in camera-centric coordinate frames. However, this choice of coordinate frame is not always optimal. We propose ...",
+    "link": "http://arxiv.org/abs/2605.27372v1",
     "tags": [
-      "AI",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-05-25T17:59:48Z",
-    "trending": false,
-    "source": "arXiv - Haiming Zhang, Junfei Zhou, Feng Jiang et al."
-  },
-  {
-    "id": "arxiv_1779840076679_1",
-    "name": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
-    "category": "ai",
-    "description": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation model...",
-    "link": "http://arxiv.org/abs/2605.26112v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-05-25T17:59:36Z",
-    "trending": true,
-    "source": "arXiv - Shangding Gu"
-  },
-  {
-    "id": "arxiv_1779840076729_0",
-    "name": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
-    "category": "machine-learning",
-    "description": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation model...",
-    "link": "http://arxiv.org/abs/2605.26112v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-05-25T17:59:36Z",
-    "trending": true,
-    "source": "arXiv - Shangding Gu"
-  },
-  {
-    "id": "arxiv_1779840076679_2",
-    "name": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
-    "category": "ai",
-    "description": "Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference ...",
-    "link": "http://arxiv.org/abs/2605.26111v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Diffusion"
-    ],
-    "date": "2026-05-25T17:59:35Z",
-    "trending": true,
-    "source": "arXiv - Shuhong Zheng, Aashish Kumar Misraa, Yu-Teng Li et al."
-  },
-  {
-    "id": "arxiv_1779840076704_2",
-    "name": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
-    "category": "computer-vision",
-    "description": "Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference ...",
-    "link": "http://arxiv.org/abs/2605.26111v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Diffusion"
-    ],
-    "date": "2026-05-25T17:59:35Z",
-    "trending": false,
-    "source": "arXiv - Shuhong Zheng, Aashish Kumar Misraa, Yu-Teng Li et al."
-  },
-  {
-    "id": "arxiv_1779840076729_1",
-    "name": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
-    "category": "machine-learning",
-    "description": "Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference ...",
-    "link": "http://arxiv.org/abs/2605.26111v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Diffusion"
-    ],
-    "date": "2026-05-25T17:59:35Z",
-    "trending": false,
-    "source": "arXiv - Shuhong Zheng, Aashish Kumar Misraa, Yu-Teng Li et al."
-  },
-  {
-    "id": "arxiv_1779840076704_3",
-    "name": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
-    "category": "computer-vision",
-    "description": "Multimodal Large Language Models (MLLMs) achieve versatility by reformulating diverse tasks into a unified instruction-following framework via instruction tuning. However, real-world deployment requir...",
-    "link": "http://arxiv.org/abs/2605.26110v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-25T17:59:28Z",
-    "trending": false,
-    "source": "arXiv - Jun-Tao Tang, Yu-Cheng Shi, Zhen-Hao Xie et al."
-  },
-  {
-    "id": "arxiv_1779840076729_2",
-    "name": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
-    "category": "machine-learning",
-    "description": "Multimodal Large Language Models (MLLMs) achieve versatility by reformulating diverse tasks into a unified instruction-following framework via instruction tuning. However, real-world deployment requir...",
-    "link": "http://arxiv.org/abs/2605.26110v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-25T17:59:28Z",
-    "trending": false,
-    "source": "arXiv - Jun-Tao Tang, Yu-Cheng Shi, Zhen-Hao Xie et al."
-  },
-  {
-    "id": "arxiv_1779840076753_1",
-    "name": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
-    "category": "nlp",
-    "description": "Multimodal Large Language Models (MLLMs) achieve versatility by reformulating diverse tasks into a unified instruction-following framework via instruction tuning. However, real-world deployment requir...",
-    "link": "http://arxiv.org/abs/2605.26110v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-25T17:59:28Z",
-    "trending": false,
-    "source": "arXiv - Jun-Tao Tang, Yu-Cheng Shi, Zhen-Hao Xie et al."
-  },
-  {
-    "id": "arxiv_1779840076704_4",
-    "name": "Helix4D: Complex 4D Mesh Generation",
-    "category": "computer-vision",
-    "description": "Current video-to-4D methods struggle with complex topology changes, transparent materials, thin structures, and inner surfaces. We present Helix4D, a dynamic mesh generation framework by inheriting th...",
-    "link": "http://arxiv.org/abs/2605.26109v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-25T17:59:22Z",
-    "trending": false,
-    "source": "arXiv - Jiraphon Yenphraphai, Jianqi Chen, Jian Wang et al."
-  },
-  {
-    "id": "arxiv_1779840076729_3",
-    "name": "Looped Diffusion Language Models",
-    "category": "machine-learning",
-    "description": "Masked diffusion models (MDMs) have emerged as a promising alternative to autoregressive models for language modeling, yet the effective design of transformer architectures for MDMs remains underexplo...",
-    "link": "http://arxiv.org/abs/2605.26106v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-05-25T17:58:24Z",
-    "trending": true,
-    "source": "arXiv - Sanghyun Lee, Chunsan Hong, Seungryong Kim et al."
-  },
-  {
-    "id": "arxiv_1779840076679_3",
-    "name": "Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models",
-    "category": "ai",
-    "description": "Code review is a critical practice in software engineering, yet the growing scale and frequency of code patches in modern projects, together with the widespread adoption of AI code assistants, make ma...",
-    "link": "http://arxiv.org/abs/2605.26100v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-25T17:56:46Z",
-    "trending": true,
-    "source": "arXiv - Bar Weiss, Antonio Abu-Nassar, Adi Sosnovich et al."
-  },
-  {
-    "id": "arxiv_1779840076679_4",
-    "name": "Language Models Need Sleep",
-    "category": "ai",
-    "description": "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consol...",
-    "link": "http://arxiv.org/abs/2605.26099v1",
-    "tags": [
-      "AI",
       "Transformer"
     ],
-    "date": "2026-05-25T17:55:39Z",
+    "date": "2026-05-26T17:59:55Z",
     "trending": false,
-    "source": "arXiv - Sangyun Lee, Sean McLeish, Tom Goldstein et al."
+    "source": "arXiv - Bharath Raj Nagoor Kani, Noah Snavely"
   },
   {
-    "id": "arxiv_1779840076753_2",
-    "name": "Language Models Need Sleep",
-    "category": "nlp",
-    "description": "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consol...",
-    "link": "http://arxiv.org/abs/2605.26099v1",
+    "id": "arxiv_1779858378049_1",
+    "name": "SpatialBench: Is Your Spatial Foundation Model an All-Round Player?",
+    "category": "computer-vision",
+    "description": "While spatial foundation models have demonstrated impressive performance on standard datasets, a critical question remains: are they truly all-round players capable of generalizing robustly across div...",
+    "link": "http://arxiv.org/abs/2605.27367v1",
     "tags": [
-      "AI",
-      "Transformer"
+      "AI"
     ],
-    "date": "2026-05-25T17:55:39Z",
+    "date": "2026-05-26T17:59:20Z",
     "trending": false,
-    "source": "arXiv - Sangyun Lee, Sean McLeish, Tom Goldstein et al."
+    "source": "arXiv - Haosong Peng, Hao Li, Jiaqi Chen et al."
   },
   {
-    "id": "arxiv_1779840076729_4",
-    "name": "Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay",
-    "category": "machine-learning",
-    "description": "Models trained on a new task typically degrade on prior tasks, a phenomenon known as forgetting. Traditionally, mitigating forgetting has required replaying stored exemplars from prior tasks, which is...",
-    "link": "http://arxiv.org/abs/2605.26097v1",
+    "id": "arxiv_1779858377979_1",
+    "name": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
+    "category": "ai",
+    "description": "Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability,...",
+    "link": "http://arxiv.org/abs/2605.27366v1",
     "tags": [
       "AI",
+      "GAN",
+      "LLM"
+    ],
+    "date": "2026-05-26T17:59:19Z",
+    "trending": true,
+    "source": "arXiv - Huawei Lin, Peng Li, Jie Song et al."
+  },
+  {
+    "id": "arxiv_1779858378117_0",
+    "name": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
+    "category": "machine-learning",
+    "description": "Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability,...",
+    "link": "http://arxiv.org/abs/2605.27366v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "LLM"
+    ],
+    "date": "2026-05-26T17:59:19Z",
+    "trending": false,
+    "source": "arXiv - Huawei Lin, Peng Li, Jie Song et al."
+  },
+  {
+    "id": "arxiv_1779858378186_0",
+    "name": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
+    "category": "nlp",
+    "description": "Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability,...",
+    "link": "http://arxiv.org/abs/2605.27366v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "LLM"
+    ],
+    "date": "2026-05-26T17:59:19Z",
+    "trending": false,
+    "source": "arXiv - Huawei Lin, Peng Li, Jie Song et al."
+  },
+  {
+    "id": "arxiv_1779858377979_2",
+    "name": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
+    "category": "ai",
+    "description": "Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded l...",
+    "link": "http://arxiv.org/abs/2605.27365v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-26T17:59:12Z",
+    "trending": false,
+    "source": "arXiv - Shihao Wang, Shilong Liu, Yuanguo Kuang et al."
+  },
+  {
+    "id": "arxiv_1779858378049_2",
+    "name": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
+    "category": "computer-vision",
+    "description": "Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded l...",
+    "link": "http://arxiv.org/abs/2605.27365v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-26T17:59:12Z",
+    "trending": false,
+    "source": "arXiv - Shihao Wang, Shilong Liu, Yuanguo Kuang et al."
+  },
+  {
+    "id": "arxiv_1779858378117_1",
+    "name": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
+    "category": "machine-learning",
+    "description": "Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded l...",
+    "link": "http://arxiv.org/abs/2605.27365v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-26T17:59:12Z",
+    "trending": false,
+    "source": "arXiv - Shihao Wang, Shilong Liu, Yuanguo Kuang et al."
+  },
+  {
+    "id": "arxiv_1779858377979_3",
+    "name": "Natural Language Query to Configuration for Retrieval Agents",
+    "category": "ai",
+    "description": "Modern retrieval agents expose many configuration choices -- LLM, retriever, number of documents, number of hops, and synthesis strategy -- each shaping both answer quality and serving cost. Today, th...",
+    "link": "http://arxiv.org/abs/2605.27361v1",
+    "tags": [
+      "AI",
+      "LLM",
       "Optimization"
     ],
-    "date": "2026-05-25T17:54:34Z",
+    "date": "2026-05-26T17:58:47Z",
     "trending": false,
-    "source": "arXiv - Martin Marek, Dongkyu Cho, Shikai Qiu et al."
+    "source": "arXiv - Melissa Z. Pan, Negar Arabzadeh, Mathew Jacob et al."
   },
   {
-    "id": "arxiv_1779840076753_3",
-    "name": "Automated Benchmark Auditing for AI Agents and Large Language Models",
-    "category": "nlp",
-    "description": "Modern AI benchmarks operate at a complexity that outpaces traditional verification methods. Tasks authored by domain experts often contain implicit assumptions, incomplete environment specifications,...",
-    "link": "http://arxiv.org/abs/2605.26079v1",
+    "id": "arxiv_1779858377979_4",
+    "name": "GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing",
+    "category": "ai",
+    "description": "Cellular research and development (R&D) is throttled by six structural processes that each consume months of manual engineering work per iteration: (i) synthesizing new features from standards or rese...",
+    "link": "http://arxiv.org/abs/2605.27360v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-05-26T17:58:43Z",
+    "trending": true,
+    "source": "arXiv - Tamerlan Aghayev, Maxime Elkael, Michele Polese et al."
+  },
+  {
+    "id": "arxiv_1779858378118_2",
+    "name": "MobileMoE: Scaling On-Device Mixture of Experts",
+    "category": "machine-learning",
+    "description": "Mixture-of-Experts (MoE) has become the de facto architecture for hundred-billion-parameter language models, yet its advantages at sub-billion scales for on-device deployment remain largely unexplored...",
+    "link": "http://arxiv.org/abs/2605.27358v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-05-25T17:44:21Z",
-    "trending": true,
-    "source": "arXiv - Junlin Wang, Federico Bianchi, Shang Zhu et al."
+    "date": "2026-05-26T17:58:24Z",
+    "trending": false,
+    "source": "arXiv - Yanbei Chen, Hanxian Huang, Ernie Chang et al."
   },
   {
-    "id": "arxiv_1779840076753_4",
-    "name": "StakeBench: Evaluating Language Understanding Grounded in Market Commitment",
+    "id": "arxiv_1779858378186_1",
+    "name": "MobileMoE: Scaling On-Device Mixture of Experts",
     "category": "nlp",
-    "description": "Existing financial NLP benchmarks often rely on labels supplied by outside observers, measuring how language is perceived rather than what speakers have committed to in the market. We introduce StakeB...",
-    "link": "http://arxiv.org/abs/2605.26074v1",
+    "description": "Mixture-of-Experts (MoE) has become the de facto architecture for hundred-billion-parameter language models, yet its advantages at sub-billion scales for on-device deployment remain largely unexplored...",
+    "link": "http://arxiv.org/abs/2605.27358v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-26T17:58:24Z",
+    "trending": false,
+    "source": "arXiv - Yanbei Chen, Hanxian Huang, Ernie Chang et al."
+  },
+  {
+    "id": "arxiv_1779858378118_3",
+    "name": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
+    "category": "machine-learning",
+    "description": "Reinforcement Learning from Human Feedback (RLHF) is the standard method to align Large Language Models (LLMs) with human preferences. In this work, we introduce alignment tampering, a potential vulne...",
+    "link": "http://arxiv.org/abs/2605.27355v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-05-26T17:57:04Z",
+    "trending": false,
+    "source": "arXiv - Dongyoon Hahm, Dylan Hadfield-Menell, Kimin Lee"
+  },
+  {
+    "id": "arxiv_1779858378186_2",
+    "name": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
+    "category": "nlp",
+    "description": "Reinforcement Learning from Human Feedback (RLHF) is the standard method to align Large Language Models (LLMs) with human preferences. In this work, we introduce alignment tampering, a potential vulne...",
+    "link": "http://arxiv.org/abs/2605.27355v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-05-26T17:57:04Z",
+    "trending": true,
+    "source": "arXiv - Dongyoon Hahm, Dylan Hadfield-Menell, Kimin Lee"
+  },
+  {
+    "id": "arxiv_1779858378118_4",
+    "name": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
+    "category": "machine-learning",
+    "description": "Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich ...",
+    "link": "http://arxiv.org/abs/2605.27354v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-05-26T17:55:59Z",
+    "trending": false,
+    "source": "arXiv - Yi Jing, Zao Dai, Jinwu Hu et al."
+  },
+  {
+    "id": "arxiv_1779858378186_3",
+    "name": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
+    "category": "nlp",
+    "description": "Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich ...",
+    "link": "http://arxiv.org/abs/2605.27354v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-05-26T17:55:59Z",
+    "trending": true,
+    "source": "arXiv - Yi Jing, Zao Dai, Jinwu Hu et al."
+  },
+  {
+    "id": "arxiv_1779858378049_3",
+    "name": "Feedforward 3D Editing Learns from Semantic-Part Transformation",
+    "category": "computer-vision",
+    "description": "3D editing is a fundamental capability for scalable 3D content creation. While image editing has rapidly evolved toward large-scale feedforward generative paradigms, 3D AI generation remains dominated...",
+    "link": "http://arxiv.org/abs/2605.27351v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-26T17:51:59Z",
+    "trending": true,
+    "source": "arXiv - Jiawei Weng, Saining Zhang, Zhenxin Diao et al."
+  },
+  {
+    "id": "arxiv_1779858378049_4",
+    "name": "When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection",
+    "category": "computer-vision",
+    "description": "Recent generative models have largely closed the gap on low-level artifacts - pixel fingerprints, frequency anomalies, upsampling traces - particularly in person-centric and partial-edit settings wher...",
+    "link": "http://arxiv.org/abs/2605.27348v1",
     "tags": [
       "AI",
       "Vision",
-      "NLP",
-      "LLM"
+      "Diffusion",
+      "Optimization"
     ],
-    "date": "2026-05-25T17:38:30Z",
+    "date": "2026-05-26T17:50:17Z",
+    "trending": true,
+    "source": "arXiv - Kim Jihyeon, Sohee Kim, Soosan Lee et al."
+  },
+  {
+    "id": "arxiv_1779858378186_4",
+    "name": "MATCHA: Matching Text via Contrastive Semantic Alignment",
+    "category": "nlp",
+    "description": "Reliable evaluation is essential for understanding large language model (LLM) performance, yet today's go-to metrics, namely token-overlap scores (e.g., ROUGE) and embedding-based measures (e.g., BERT...",
+    "link": "http://arxiv.org/abs/2605.27345v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "BERT"
+    ],
+    "date": "2026-05-26T17:47:14Z",
     "trending": false,
-    "source": "arXiv - Yunhua Pei, Jingyu Hu, Yiwei Shi et al."
+    "source": "arXiv - Siran Li, Ece Sena Etoglu, Carsten Eickhoff et al."
   }
 ]
