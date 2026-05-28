@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1779962013874_0",
+    "id": "arxiv_1779973130974_0",
     "name": "From Pixels to Words -- Towards Native One-Vision Models at Scale",
     "category": "computer-vision",
     "description": "Current vision-language models (VLMs) typically stitch together separate image encoders and language decoders via multi-stage alignment, a modular framework that inevitably fragments pixel-level signa...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Haiwen Diao, Jiahao Wang, Penghao Wu et al."
   },
   {
-    "id": "arxiv_1779962014076_0",
+    "id": "arxiv_1779973131034_0",
     "name": "PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective",
     "category": "machine-learning",
     "description": "Parameter-efficient finetuning (PEFT) has become the standard approach for adapting large language models, yet evaluations largely emphasize downstream accuracy while overlooking the retention of pret...",
@@ -27,7 +27,7 @@
     "source": "arXiv - Yangyi Huang, Ruotian Peng, Zeju Qiu et al."
   },
   {
-    "id": "arxiv_1779962014284_0",
+    "id": "arxiv_1779973131092_0",
     "name": "PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective",
     "category": "nlp",
     "description": "Parameter-efficient finetuning (PEFT) has become the standard approach for adapting large language models, yet evaluations largely emphasize downstream accuracy while overlooking the retention of pret...",
@@ -40,7 +40,7 @@
     "source": "arXiv - Yangyi Huang, Ruotian Peng, Zeju Qiu et al."
   },
   {
-    "id": "arxiv_1779962014284_1",
+    "id": "arxiv_1779973131092_1",
     "name": "VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading",
     "category": "nlp",
     "description": "Large language models (LLMs) have become increasingly useful computational models of human language processing, but it remains unclear whether vision-language learning makes text representations more ...",
@@ -55,7 +55,7 @@
     "source": "arXiv - Jinzhou Wu, Zhengwu Ma, Jixing Li et al."
   },
   {
-    "id": "arxiv_1779962013874_1",
+    "id": "arxiv_1779973130975_1",
     "name": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
     "category": "computer-vision",
     "description": "World models for interactive video generation have largely focused on single-agent settings, where future observations are generated from a single control signal. However, many generated environments ...",
@@ -65,11 +65,11 @@
       "Diffusion"
     ],
     "date": "2026-05-27T17:59:31Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Fangfu Liu, Kai He, Tianchang Shen et al."
   },
   {
-    "id": "arxiv_1779962014285_2",
+    "id": "arxiv_1779973131092_2",
     "name": "Self-Improving Language Models with Bidirectional Evolutionary Search",
     "category": "nlp",
     "description": "Search has been proposed as an effective method for self-improving language models and agentic systems, both for post-training sample generation and for inference. However, widely used methods such as...",
@@ -82,7 +82,7 @@
     "source": "arXiv - Guowei Xu, Zhenting Qi, Huangyuan Su et al."
   },
   {
-    "id": "arxiv_1779962013640_0",
+    "id": "arxiv_1779973129863_0",
     "name": "Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation",
     "category": "ai",
     "description": "A primary bottleneck in contact-rich manipulation is the difficulty of collecting real-world data. Sim-to-real reinforcement learning offers a scalable alternative, but the simulation-reality gap prev...",
@@ -96,7 +96,7 @@
     "source": "arXiv - Jiahe Pan, Stelian Coros, Jitendra Malik et al."
   },
   {
-    "id": "arxiv_1779962013874_2",
+    "id": "arxiv_1779973130975_2",
     "name": "HarmoVid: Relightful Video Portrait Harmonization",
     "category": "computer-vision",
     "description": "We present a method for harmonizing the lighting of a foreground video to match a target background scene, adjusting shadows, color tone, and illumination intensity (relightful harmonization). Unlike ...",
@@ -110,7 +110,7 @@
     "source": "arXiv - Jun Myeong Choi, Jae Shin Yoon, Luchao Qi et al."
   },
   {
-    "id": "arxiv_1779962014076_1",
+    "id": "arxiv_1779973131034_1",
     "name": "Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation",
     "category": "machine-learning",
     "description": "A primary bottleneck in contact-rich manipulation is the difficulty of collecting real-world data. Sim-to-real reinforcement learning offers a scalable alternative, but the simulation-reality gap prev...",
@@ -120,11 +120,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-05-27T17:59:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jiahe Pan, Stelian Coros, Jitendra Malik et al."
   },
   {
-    "id": "arxiv_1779962014077_2",
+    "id": "arxiv_1779973131034_2",
     "name": "Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization",
     "category": "machine-learning",
     "description": "Functional music applications, from consumer focus and sleep aids to clinical interventions, share a distinctive recommendation problem: success is defined by the listener's affective state, but onlin...",
@@ -135,11 +135,11 @@
       "Optimization"
     ],
     "date": "2026-05-27T17:58:46Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Audrey Chan, Aaron Labbé, Jacob Lavoie et al."
   },
   {
-    "id": "arxiv_1779962013874_3",
+    "id": "arxiv_1779973130975_3",
     "name": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning",
     "category": "computer-vision",
     "description": "Class-Incremental Learning (CIL) is important in building real-world learning systems. In CLIP-based CIL, the model performs classification by comparing similarity between visual and textual embedding...",
@@ -152,7 +152,7 @@
     "source": "arXiv - Zhen-Hao Xie, Yu-Cheng Shi, Da-Wei Zhou"
   },
   {
-    "id": "arxiv_1779962014077_3",
+    "id": "arxiv_1779973131034_3",
     "name": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning",
     "category": "machine-learning",
     "description": "Class-Incremental Learning (CIL) is important in building real-world learning systems. In CLIP-based CIL, the model performs classification by comparing similarity between visual and textual embedding...",
@@ -161,11 +161,11 @@
       "AI"
     ],
     "date": "2026-05-27T17:58:16Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zhen-Hao Xie, Yu-Cheng Shi, Da-Wei Zhou"
   },
   {
-    "id": "arxiv_1779962013641_1",
+    "id": "arxiv_1779973129864_1",
     "name": "Calibrating Conservatism for Scalable Oversight",
     "category": "ai",
     "description": "Agentic AI systems capable of autonomous planning and extended environmental interaction pose a fundamental control problem: how can humans maintain meaningful oversight of systems that may exceed the...",
@@ -174,11 +174,11 @@
       "AI"
     ],
     "date": "2026-05-27T17:56:47Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - William Overman, Mohsen Bayati"
   },
   {
-    "id": "arxiv_1779962013874_4",
+    "id": "arxiv_1779973130975_4",
     "name": "Personal Visual Memory from Explicit and Implicit Evidence",
     "category": "computer-vision",
     "description": "Long-term memory is increasingly important for personalized AI agents, yet existing benchmarks and methods remain largely text-centric. Even when images are included, the user-specific information nee...",
@@ -187,11 +187,11 @@
       "AI"
     ],
     "date": "2026-05-27T17:56:11Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Viet Nguyen, Thao Nguyen, Vishal M. Patel et al."
   },
   {
-    "id": "arxiv_1779962014285_3",
+    "id": "arxiv_1779973131092_3",
     "name": "Personal Visual Memory from Explicit and Implicit Evidence",
     "category": "nlp",
     "description": "Long-term memory is increasingly important for personalized AI agents, yet existing benchmarks and methods remain largely text-centric. Even when images are included, the user-specific information nee...",
@@ -204,7 +204,7 @@
     "source": "arXiv - Viet Nguyen, Thao Nguyen, Vishal M. Patel et al."
   },
   {
-    "id": "arxiv_1779962013641_2",
+    "id": "arxiv_1779973129864_2",
     "name": "OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration",
     "category": "ai",
     "description": "Visual outcomes are increasingly central to multimodal large language models, making reliable and fine-grained verification essential for scaling generalist foundation models. In this work, we investi...",
@@ -215,11 +215,11 @@
       "Optimization"
     ],
     "date": "2026-05-27T17:56:04Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xinchen Zhang, Bowei Liu, Jiale Liu et al."
   },
   {
-    "id": "arxiv_1779962014077_4",
+    "id": "arxiv_1779973131034_4",
     "name": "OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration",
     "category": "machine-learning",
     "description": "Visual outcomes are increasingly central to multimodal large language models, making reliable and fine-grained verification essential for scaling generalist foundation models. In this work, we investi...",
@@ -230,11 +230,11 @@
       "Optimization"
     ],
     "date": "2026-05-27T17:56:04Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Xinchen Zhang, Bowei Liu, Jiale Liu et al."
   },
   {
-    "id": "arxiv_1779962014285_4",
+    "id": "arxiv_1779973131092_4",
     "name": "OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration",
     "category": "nlp",
     "description": "Visual outcomes are increasingly central to multimodal large language models, making reliable and fine-grained verification essential for scaling generalist foundation models. In this work, we investi...",
@@ -249,7 +249,7 @@
     "source": "arXiv - Xinchen Zhang, Bowei Liu, Jiale Liu et al."
   },
   {
-    "id": "arxiv_1779962013641_3",
+    "id": "arxiv_1779973129864_3",
     "name": "CaMBRAIN: Real-time, Continuous EEG Inference with Causal State Space Models",
     "category": "ai",
     "description": "Electroencephalography (EEG) is a critical, non-invasive method to monitor electrical brain activity. EEGs can span anywhere from a couple seconds to multiple hours, posing a major hurdle for existing...",
@@ -263,7 +263,7 @@
     "source": "arXiv - Abhilash Durgam, Nyle Siddiqui, Jeffrey A. Chan-Santiago et al."
   },
   {
-    "id": "arxiv_1779962013641_4",
+    "id": "arxiv_1779973129864_4",
     "name": "Skill-Conditioned Gated Self-Distillation for LLM Reasoning",
     "category": "ai",
     "description": "On-policy self-distillation (SD) improves LLM reasoning by using teacher-side privileged information (PI) to turn sparse verifier outcomes into dense token-level supervision. Existing methods usually ...",
@@ -274,7 +274,7 @@
       "LLM"
     ],
     "date": "2026-05-27T17:49:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jiazhen Huang, Xiao Chen, Xiao Luo et al."
   }
 ]
