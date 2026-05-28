@@ -1,6 +1,70 @@
 [
   {
-    "id": "rss_Ars_Technica_1779996685853_0",
+    "id": "rss_Ars_Technica_1780004866382_0",
+    "title": "LLMs believe false statements even after explicit warnings that they're false",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"\n                    ",
+    "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "Thu, 28 May 2026 21:29:43 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1780004862722_0",
+    "title": "The internet is being rebuilt for machines",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+    "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 28 May 2026 21:24:01 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780004866382_1",
+    "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Undisclosed addition in jqwik instructed AI coding agents to delete app output.\n                    ",
+    "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 28 May 2026 20:29:53 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780004866383_2",
+    "title": "US healthcare still stupidly expensive, with pathetic outcomes, study finds",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        There are strategies to improve healthcare, but US isn't trying them. \n                    ",
+    "link": "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
+    "tags": [],
+    "date": "Thu, 28 May 2026 20:18:54 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1780004862722_1",
+    "title": "Asana acquires no-code agent-builder StackAI",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+    "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 28 May 2026 20:06:07 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780004866383_3",
     "title": "Researchers develop a new process to get lithium out of rocks",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -8,10 +72,10 @@
     "link": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
     "tags": [],
     "date": "Thu, 28 May 2026 19:30:04 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1779996685853_1",
+    "id": "rss_Ars_Technica_1780004866383_4",
     "title": "FBI says Google engineer used internal search data to win $1.2M on Polymarket",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -24,8 +88,8 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1779996682203_0",
-    "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+    "id": "rss_TechCrunch_1780004862722_2",
+    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
     "category": "ai-news",
     "source": "TechCrunch",
     "description": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
@@ -38,18 +102,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1779996685853_2",
-    "title": "A respectable port of Age of Empires II: Definitive Edition invades macOS",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The port seems solid, and all DLC is supported—but there's no crossplay, sadly.\n                    ",
-    "link": "https://arstechnica.com/gaming/2026/05/a-respectable-port-of-age-of-empires-ii-definitive-edition-invades-macos/",
-    "tags": [],
-    "date": "Thu, 28 May 2026 18:42:28 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1779996682203_1",
+    "id": "rss_TechCrunch_1780004862722_3",
     "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -62,31 +115,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1779996685853_3",
-    "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-    "tags": [],
-    "date": "Thu, 28 May 2026 18:30:48 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1779996685853_4",
-    "title": "Amazon turns to Jeff Bezos' other company to do some heavy lifting",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Amazon is turning a corner with its launch providers, but ULA's Vulcan remains grounded.\n                    ",
-    "link": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 28 May 2026 18:17:41 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1779996684471_0",
+    "id": "rss_MIT_Tech_Review_1780004864962_0",
     "title": "How a new extraction process could unlock the world’s lithium",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -100,42 +129,18 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1779996682203_2",
-    "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
+    "id": "rss_TechCrunch_1780004862722_4",
+    "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
     "category": "ai-news",
     "source": "TechCrunch",
     "description": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
     "link": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
     "tags": [],
     "date": "Thu, 28 May 2026 17:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1779996682203_3",
-    "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
-    "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-    "tags": [],
-    "date": "Thu, 28 May 2026 17:00:09 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1779996682203_4",
-    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
-    "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 28 May 2026 15:36:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1779996687057_0",
+    "id": "rss_Wired_1780004867444_0",
     "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
     "category": "ai-news",
     "source": "Wired",
@@ -149,7 +154,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1779996684471_1",
+    "id": "rss_MIT_Tech_Review_1780004864962_1",
     "title": "The Download: climate tech goes public and the AI Hype Index returns",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -162,7 +167,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1779996687057_1",
+    "id": "rss_Wired_1780004867444_1",
     "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
     "category": "ai-news",
     "source": "Wired",
@@ -175,7 +180,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1779996687057_2",
+    "id": "rss_Wired_1780004867444_2",
     "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
     "category": "ai-news",
     "source": "Wired",
@@ -186,7 +191,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1779996684471_2",
+    "id": "rss_MIT_Tech_Review_1780004864962_2",
     "title": "Climate tech companies are going public. What’s next?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -197,7 +202,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1779996684471_3",
+    "id": "rss_MIT_Tech_Review_1780004864962_3",
     "title": "The AI Hype Index: AI gets booed in graduation season",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -211,7 +216,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1779996687057_3",
+    "id": "rss_Wired_1780004867444_3",
     "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
     "category": "ai-news",
     "source": "Wired",
@@ -226,7 +231,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1779996687057_4",
+    "id": "rss_Wired_1780004867444_4",
     "title": "Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
     "category": "ai-news",
     "source": "Wired",
@@ -234,10 +239,10 @@
     "link": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
     "tags": [],
     "date": "Wed, 27 May 2026 18:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1779996684471_4",
+    "id": "rss_MIT_Tech_Review_1780004864962_4",
     "title": "The Download: keeping up with AI, and the future of IVF",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -250,7 +255,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1779996695938_0",
+    "id": "rss_Distill_1780004875635_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -260,10 +265,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1779996695938_1",
+    "id": "rss_Distill_1780004875635_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -276,7 +281,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1779996695938_2",
+    "id": "rss_Distill_1780004875635_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -284,10 +289,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1779996695938_3",
+    "id": "rss_Distill_1780004875635_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -300,7 +305,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1779996695938_4",
+    "id": "rss_Distill_1780004875635_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
