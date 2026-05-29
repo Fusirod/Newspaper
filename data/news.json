@@ -1,6 +1,43 @@
 [
   {
-    "id": "rss_Wired_1780085041505_0",
+    "id": "rss_TechCrunch_1780093389319_0",
+    "title": "Coders are refusing to work without AI — and that could come back to bite them ",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them. ",
+    "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 29 May 2026 22:14:22 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780093392861_0",
+    "title": "Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The US has previously built specialized facilities just for this purpose. \n                    ",
+    "link": "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
+    "tags": [],
+    "date": "Fri, 29 May 2026 21:17:09 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1780093393901_0",
+    "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without her consent.",
+    "link": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 29 May 2026 20:56:59 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1780093393901_1",
     "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
     "category": "ai-news",
     "source": "Wired",
@@ -14,7 +51,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780085036940_0",
+    "id": "rss_TechCrunch_1780093389319_1",
     "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -24,10 +61,10 @@
       "AI"
     ],
     "date": "Fri, 29 May 2026 18:49:19 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1780085040447_0",
+    "id": "rss_Ars_Technica_1780093392861_1",
     "title": "Botnet of more than 17 million devices dismantled",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -38,7 +75,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1780085040448_1",
+    "id": "rss_Ars_Technica_1780093392861_2",
     "title": "Analysis of Texas measles outbreak shows just how dangerous virus is",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -49,7 +86,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1780085040448_2",
+    "id": "rss_Ars_Technica_1780093392861_3",
     "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -62,7 +99,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1780085040448_3",
+    "id": "rss_Ars_Technica_1780093392861_4",
     "title": "Trump FCC warns all broadcasters to follow orders or be punished like ABC",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -73,7 +110,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780085036941_1",
+    "id": "rss_TechCrunch_1780093389320_2",
     "title": "What happens when companies become too AI-pilled?",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -83,28 +120,15 @@
       "AI"
     ],
     "date": "Fri, 29 May 2026 17:57:05 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1780085040448_4",
-    "title": "DOJ sues states that rejected ICE requests for undercover license plates",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        DOJ keeps accusing ICE monitoring sites of doxing, but evidence remains scarce.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 29 May 2026 17:41:56 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780085036941_2",
-    "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+    "id": "rss_TechCrunch_1780093389320_3",
+    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
     "category": "ai-news",
     "source": "TechCrunch",
     "description": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios. ",
-    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
     "tags": [
       "AI",
       "NVIDIA",
@@ -115,7 +139,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1780085041505_1",
+    "id": "rss_Wired_1780093393901_2",
     "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
     "category": "ai-news",
     "source": "Wired",
@@ -128,7 +152,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780085036941_3",
+    "id": "rss_TechCrunch_1780093389320_4",
     "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -141,7 +165,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1780085041505_2",
+    "id": "rss_Wired_1780093393901_3",
     "title": "The Vatican’s Man Inside Anthropic",
     "category": "ai-news",
     "source": "Wired",
@@ -154,18 +178,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780085036941_4",
-    "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
-    "link": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
-    "tags": [],
-    "date": "Fri, 29 May 2026 14:15:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1780085039051_0",
+    "id": "rss_MIT_Tech_Review_1780093391454_0",
     "title": "The Download: unlocking lithium and controlling Ebola",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -175,10 +188,10 @@
       "AI"
     ],
     "date": "Fri, 29 May 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1780085039051_1",
+    "id": "rss_MIT_Tech_Review_1780093391454_1",
     "title": "The deadly Ebola outbreak is proving difficult to control",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -188,10 +201,10 @@
       "AI"
     ],
     "date": "Fri, 29 May 2026 11:19:52 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1780085039051_2",
+    "id": "rss_MIT_Tech_Review_1780093391454_2",
     "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -204,7 +217,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780085039051_3",
+    "id": "rss_MIT_Tech_Review_1780093391454_3",
     "title": "How a new extraction process could unlock the world’s lithium",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -218,7 +231,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1780085041505_3",
+    "id": "rss_Wired_1780093393901_4",
     "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
     "category": "ai-news",
     "source": "Wired",
@@ -229,10 +242,10 @@
       "Robot"
     ],
     "date": "Thu, 28 May 2026 15:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1780085039052_4",
+    "id": "rss_MIT_Tech_Review_1780093391454_4",
     "title": "The Download: climate tech goes public and the AI Hype Index returns",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -245,20 +258,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1780085041505_4",
-    "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
-    "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 28 May 2026 11:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1780085049031_0",
+    "id": "rss_Distill_1780093402150_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -268,10 +268,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1780085049032_1",
+    "id": "rss_Distill_1780093402150_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -284,7 +284,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1780085049032_2",
+    "id": "rss_Distill_1780093402150_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -295,7 +295,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1780085049032_3",
+    "id": "rss_Distill_1780093402150_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -305,10 +305,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1780085049032_4",
+    "id": "rss_Distill_1780093402150_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -316,6 +316,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
