@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1780220382031_0",
+    "id": "arxiv_1780226633987_0",
     "name": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
     "category": "ai",
     "description": "Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 s...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Nhat-Minh Nguyen"
   },
   {
-    "id": "arxiv_1780220382055_0",
+    "id": "arxiv_1780226634184_0",
     "name": "GMOS: Grounding Moving Object Segmentation in 3D Space and Time",
     "category": "computer-vision",
     "description": "Moving Object Segmentation (MOS) aims to discover, segment, and track objects that move independently of the camera. Current MOS methods, however, exhibit two fundamental limitations: they rely on pre...",
@@ -27,7 +27,7 @@
     "source": "arXiv - Junyu Xie, Tengda Han, Weidi Xie et al."
   },
   {
-    "id": "arxiv_1780220382031_1",
+    "id": "arxiv_1780226633987_1",
     "name": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
     "category": "ai",
     "description": "Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their po...",
@@ -37,11 +37,11 @@
       "Diffusion"
     ],
     "date": "2026-05-28T17:59:57Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hidir Yesiltepe, Jiazhen Hu, Tuna Han Salih Meral et al."
   },
   {
-    "id": "arxiv_1780220382056_1",
+    "id": "arxiv_1780226634185_1",
     "name": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
     "category": "computer-vision",
     "description": "Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their po...",
@@ -55,7 +55,7 @@
     "source": "arXiv - Hidir Yesiltepe, Jiazhen Hu, Tuna Han Salih Meral et al."
   },
   {
-    "id": "arxiv_1780220382031_2",
+    "id": "arxiv_1780226633987_2",
     "name": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
     "category": "ai",
     "description": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Yaxin Luo, Jiacheng Cui, Xiaohan Zhao et al."
   },
   {
-    "id": "arxiv_1780220382056_2",
+    "id": "arxiv_1780226634185_2",
     "name": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
     "category": "computer-vision",
     "description": "Autoregressive video diffusion models generate streaming video by producing frames sequentially, conditioning each chunk on previously generated content. These models are structurally anchored to the ...",
@@ -82,7 +82,7 @@
     "source": "arXiv - Yusuf Dalva, Pinar Yanardag"
   },
   {
-    "id": "arxiv_1780220382056_3",
+    "id": "arxiv_1780226634185_3",
     "name": "NeuROK: Generative 4D Neural Object Kinematics",
     "category": "computer-vision",
     "description": "Data-driven approaches have revolutionized 3D vision, enabling transformers to effectively reconstruct and generate static 3D objects. However, generating simulative 4D dynamics -- realistic temporal ...",
@@ -94,11 +94,11 @@
       "Transformer"
     ],
     "date": "2026-05-28T17:59:53Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Chen Geng, Guangzhao He, Yue Gao et al."
   },
   {
-    "id": "arxiv_1780220382079_0",
+    "id": "arxiv_1780226634252_0",
     "name": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
     "category": "machine-learning",
     "description": "Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recog...",
@@ -113,23 +113,9 @@
     "source": "arXiv - Jusuk Lee, Seungjae Lee, Jonghun Shin et al."
   },
   {
-    "id": "arxiv_1780220382079_1",
+    "id": "arxiv_1780226634252_1",
     "name": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
     "category": "machine-learning",
-    "description": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making...",
-    "link": "http://arxiv.org/abs/2605.30348v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-28T17:59:53Z",
-    "trending": false,
-    "source": "arXiv - Yaxin Luo, Jiacheng Cui, Xiaohan Zhao et al."
-  },
-  {
-    "id": "arxiv_1780220382103_0",
-    "name": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
-    "category": "nlp",
     "description": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making...",
     "link": "http://arxiv.org/abs/2605.30348v1",
     "tags": [
@@ -141,7 +127,21 @@
     "source": "arXiv - Yaxin Luo, Jiacheng Cui, Xiaohan Zhao et al."
   },
   {
-    "id": "arxiv_1780220382056_4",
+    "id": "arxiv_1780226634461_0",
+    "name": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+    "category": "nlp",
+    "description": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making...",
+    "link": "http://arxiv.org/abs/2605.30348v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-28T17:59:53Z",
+    "trending": false,
+    "source": "arXiv - Yaxin Luo, Jiacheng Cui, Xiaohan Zhao et al."
+  },
+  {
+    "id": "arxiv_1780226634185_4",
     "name": "YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
     "category": "computer-vision",
     "description": "As video diffusion models (VDMs) advance toward world models, a key question arises: do they truly understand causality, or merely overfit to statistical temporal patterns? Existing benchmarks mostly ...",
@@ -154,7 +154,7 @@
     "source": "arXiv - You-Zhe Xie, Yu-Hsuan Li, Jie-Ying Lee et al."
   },
   {
-    "id": "arxiv_1780220382031_3",
+    "id": "arxiv_1780226633987_3",
     "name": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
     "category": "ai",
     "description": "Printed circuit board (PCB) schematic design defines nearly all electronic hardware, but it remains manual and expertise-intensive. While generative AI has advanced digital and analog IC design, PCB s...",
@@ -168,7 +168,7 @@
     "source": "arXiv - Qinpei Luo, Ruichun Ma, Xinyu Zhang et al."
   },
   {
-    "id": "arxiv_1780220382031_4",
+    "id": "arxiv_1780226633987_4",
     "name": "Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection",
     "category": "ai",
     "description": "Recent advances in Vision-Language Models (VLMs) have achieved impressive performance across many tasks, yet prior studies report unsatisfactory performance when applying large language or multimodal ...",
@@ -182,7 +182,7 @@
     "source": "arXiv - Xiaona Zhou, Muntasir Wahed, Tianjiao Yu et al."
   },
   {
-    "id": "arxiv_1780220382079_2",
+    "id": "arxiv_1780226634252_2",
     "name": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
     "category": "machine-learning",
     "description": "Printed circuit board (PCB) schematic design defines nearly all electronic hardware, but it remains manual and expertise-intensive. While generative AI has advanced digital and analog IC design, PCB s...",
@@ -196,7 +196,7 @@
     "source": "arXiv - Qinpei Luo, Ruichun Ma, Xinyu Zhang et al."
   },
   {
-    "id": "arxiv_1780220382104_1",
+    "id": "arxiv_1780226634461_1",
     "name": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
     "category": "nlp",
     "description": "Printed circuit board (PCB) schematic design defines nearly all electronic hardware, but it remains manual and expertise-intensive. While generative AI has advanced digital and analog IC design, PCB s...",
@@ -210,7 +210,7 @@
     "source": "arXiv - Qinpei Luo, Ruichun Ma, Xinyu Zhang et al."
   },
   {
-    "id": "arxiv_1780220382104_2",
+    "id": "arxiv_1780226634461_2",
     "name": "Unlocking the Working Memory of Large Language Models for Latent Reasoning",
     "category": "nlp",
     "description": "To improve the reasoning capabilities of large language models, test-time compute is typically scaled by generating intermediate tokens before the final answer. However, this couples reasoning to auto...",
@@ -224,7 +224,7 @@
     "source": "arXiv - Lukas Aichberger, Sepp Hochreiter"
   },
   {
-    "id": "arxiv_1780220382079_3",
+    "id": "arxiv_1780226634252_3",
     "name": "Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching",
     "category": "machine-learning",
     "description": "Test-time finetuning (TTFT) is a rapidly evolving paradigm that adapts a language model to each prompt by retrieving related sequences, updating the model on them, and then evaluating the prompt. Howe...",
@@ -235,11 +235,11 @@
       "Optimization"
     ],
     "date": "2026-05-28T17:59:01Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Alaa Khamis, Alaa Maalouf"
   },
   {
-    "id": "arxiv_1780220382079_4",
+    "id": "arxiv_1780226634252_4",
     "name": "Fairness-Aware Federated Learning with Trajectory Shapley Value",
     "category": "machine-learning",
     "description": "Federated learning is an emerging distributed paradigm that addresses the challenges posed by heterogeneous, privacy-sensitive data. It enables multiple clients to train a model collaboratively by agg...",
@@ -249,11 +249,11 @@
       "Optimization"
     ],
     "date": "2026-05-28T17:58:57Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Daniel Kuznetsov, Ziqi Wang"
   },
   {
-    "id": "arxiv_1780220382104_3",
+    "id": "arxiv_1780226634461_3",
     "name": "Locally Coherent, Globally Incoherent: Bounding Compositional Incoherence in Multi-Component LLM Agents",
     "category": "nlp",
     "description": "Multi-component LLM agents assemble probabilistic claims from components that each see only part of a joint problem; the composition can violate basic probability axioms even when every component is l...",
@@ -263,11 +263,11 @@
       "LLM"
     ],
     "date": "2026-05-28T17:58:55Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Anany Kotawala"
   },
   {
-    "id": "arxiv_1780220382104_4",
+    "id": "arxiv_1780226634461_4",
     "name": "Demystifying Data Organization for Enhanced LLM Training",
     "category": "nlp",
     "description": "Large Language Models (LLMs) have revolutionized various fields, yet their training efficiency is heavily reliant on effective data curation. While data selection has been widely studied, the strategi...",
