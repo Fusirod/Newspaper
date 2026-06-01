@@ -1,6 +1,223 @@
 [
   {
-    "id": "arxiv_1780271593912_0",
+    "id": "arxiv_1780279936586_0",
+    "name": "Representation Forcing for Bottleneck-Free Unified Multimodal Models",
+    "category": "computer-vision",
+    "description": "Unified multimodal models (UMMs) aim to handle perception and generation in a single model. Yet existing UMMs still rely on a frozen, separately pretrained VAE for image generation, imposing a structu...",
+    "link": "http://arxiv.org/abs/2605.31604v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-05-29T17:59:55Z",
+    "trending": true,
+    "source": "arXiv - Yuqing Wang, Zhijie Lin, Ceyuan Yang et al."
+  },
+  {
+    "id": "arxiv_1780279936586_1",
+    "name": "Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models",
+    "category": "computer-vision",
+    "description": "Connector-based video unified models have demonstrated strong capability in instruction-grounded video synthesis, but integrating a large high-fidelity generator into the unified training loop is comp...",
+    "link": "http://arxiv.org/abs/2605.31603v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-29T17:59:50Z",
+    "trending": true,
+    "source": "arXiv - Jiazheng Xing, Hangjie Yuan, Lingling Cai et al."
+  },
+  {
+    "id": "arxiv_1780279936586_2",
+    "name": "Linear Scaling Video VLMs for Long Video Understanding",
+    "category": "computer-vision",
+    "description": "Video vision-language models (VLMs) are increasingly used in long-horizon and streaming settings, yet most video encoders still rely on spatiotemporal self-attention, causing compute and latency to gr...",
+    "link": "http://arxiv.org/abs/2605.31598v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-29T17:59:02Z",
+    "trending": true,
+    "source": "arXiv - Cristobal Eyzaguirre, Jiajun Wu, Juan Carlos Niebles"
+  },
+  {
+    "id": "arxiv_1780279936586_3",
+    "name": "SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models",
+    "category": "computer-vision",
+    "description": "Measuring structured object understanding in vision foundation models remains challenging due to inconsistent evaluation protocols and limited part-level supervision. Semantic correspondence (SC) eval...",
+    "link": "http://arxiv.org/abs/2605.31597v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-05-29T17:58:48Z",
+    "trending": true,
+    "source": "arXiv - Olaf Dünkel, Basavaraj Sunagad, Haoran Wang et al."
+  },
+  {
+    "id": "arxiv_1780279936586_4",
+    "name": "KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems",
+    "category": "computer-vision",
+    "description": "Diffusion models have shown promising performance as data-driven priors for computational imaging, as well as some capacity to detect out-of-distribution (OOD) images. However, existing approaches to ...",
+    "link": "http://arxiv.org/abs/2605.31596v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-05-29T17:58:01Z",
+    "trending": true,
+    "source": "arXiv - Alireza Kheirandish, Jihoon Hong, Sara Fridovich-Keil"
+  },
+  {
+    "id": "arxiv_1780279936788_0",
+    "name": "KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems",
+    "category": "machine-learning",
+    "description": "Diffusion models have shown promising performance as data-driven priors for computational imaging, as well as some capacity to detect out-of-distribution (OOD) images. However, existing approaches to ...",
+    "link": "http://arxiv.org/abs/2605.31596v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-05-29T17:58:01Z",
+    "trending": false,
+    "source": "arXiv - Alireza Kheirandish, Jihoon Hong, Sara Fridovich-Keil"
+  },
+  {
+    "id": "arxiv_1780279936788_1",
+    "name": "A Tight Theory of Error Feedback Algorithms in Distributed Optimization",
+    "category": "machine-learning",
+    "description": "Communication costs are a major bottleneck in distributed learning and first-order optimization. A common approach to alleviate this issue is to compress the gradient information exchanged between age...",
+    "link": "http://arxiv.org/abs/2605.31594v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-05-29T17:57:03Z",
+    "trending": false,
+    "source": "arXiv - Daniel Berg Thomsen, Adrien Taylor, Aymeric Dieuleveut"
+  },
+  {
+    "id": "arxiv_1780279936844_0",
+    "name": "Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions",
+    "category": "nlp",
+    "description": "Grasping the semantics of rare constructions (form-meaning pairings) has been shown to be a challenging problem that has currently only been solved by the largest LLMs. It remains an open question if ...",
+    "link": "http://arxiv.org/abs/2605.31586v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-29T17:54:00Z",
+    "trending": false,
+    "source": "arXiv - Wesley Scivetti, Ethan Wilcox, Nathan Schneider et al."
+  },
+  {
+    "id": "arxiv_1780279936788_2",
+    "name": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards",
+    "category": "machine-learning",
+    "description": "Long-context reasoning remains a central challenge for large language models, which often fail to locate and integrate key information in extensive distracting content. Reinforcement learning with ver...",
+    "link": "http://arxiv.org/abs/2605.31584v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-05-29T17:51:40Z",
+    "trending": true,
+    "source": "arXiv - Nianyi Lin, Jiajie Zhang, Lei Hou et al."
+  },
+  {
+    "id": "arxiv_1780279936844_1",
+    "name": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards",
+    "category": "nlp",
+    "description": "Long-context reasoning remains a central challenge for large language models, which often fail to locate and integrate key information in extensive distracting content. Reinforcement learning with ver...",
+    "link": "http://arxiv.org/abs/2605.31584v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-05-29T17:51:40Z",
+    "trending": false,
+    "source": "arXiv - Nianyi Lin, Jiajie Zhang, Lei Hou et al."
+  },
+  {
+    "id": "arxiv_1780279936788_3",
+    "name": "Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings",
+    "category": "machine-learning",
+    "description": "Transformer-based architectures have advanced sequence modeling in language and vision, yet general-purpose representation learning for heterogeneous multivariate time series remains underexplored. We...",
+    "link": "http://arxiv.org/abs/2605.31580v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-05-29T17:48:30Z",
+    "trending": false,
+    "source": "arXiv - Utsav Dutta, Gerardo Pastrana, Sina Khoshfetrat Pakazad et al."
+  },
+  {
+    "id": "arxiv_1780279936844_2",
+    "name": "What Gets Unmasked First? Trajectory Analysis of Diffusion Models for Graph-to-Text Generation",
+    "category": "nlp",
+    "description": "We present the first systematic study of masked diffusion language models (MDLMs) for graph-to-text generation. We analyze MDLM generation trajectories -- the order in which tokens are unmasked during...",
+    "link": "http://arxiv.org/abs/2605.31564v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "LLM",
+      "Diffusion"
+    ],
+    "date": "2026-05-29T17:29:35Z",
+    "trending": false,
+    "source": "arXiv - Qing Wang, Jacob Devasier, Chengkai Li"
+  },
+  {
+    "id": "arxiv_1780279936844_3",
+    "name": "Disagreeing Rationales: Rethinking Classification and Explainability Evaluation in Hate Speech Detection",
+    "category": "nlp",
+    "description": "Human disagreement is ubiquitous and well-known in labeling. However, variation in explanations, captured through token-level human rationales, remains far less explored. At the same time, it is uncle...",
+    "link": "http://arxiv.org/abs/2605.31563v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "NLP",
+      "GAN"
+    ],
+    "date": "2026-05-29T17:29:28Z",
+    "trending": false,
+    "source": "arXiv - Benedetta Muscato, Beiduo Chen, Gizem Gezici et al."
+  },
+  {
+    "id": "arxiv_1780279936788_4",
+    "name": "Effective Biological Representation Learning by Masking Gene Expression",
+    "category": "machine-learning",
+    "description": "RNA sequencing produces rich and diverse datasets of gene expression, offering compelling insights into cellular state and function that have many applications in drug discovery. Modeling such data is...",
+    "link": "http://arxiv.org/abs/2605.31562v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-05-29T17:28:58Z",
+    "trending": false,
+    "source": "arXiv - Kian Kenyon-Dean, Alina Selega, Ihab Bendidi et al."
+  },
+  {
+    "id": "arxiv_1780279936844_4",
+    "name": "What Am I Missing? Question-Answering as Hidden State Probing",
+    "category": "nlp",
+    "description": "Test-time reasoning has become a significant field of study since the introduction of chain-of-thought reasoning in large language models (LLMs). However, the mechanisms of this reasoning process are ...",
+    "link": "http://arxiv.org/abs/2605.31561v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-05-29T17:27:07Z",
+    "trending": false,
+    "source": "arXiv - Chu Fei Luo, Samuel Dahan, Xiaodan Zhu"
+  },
+  {
+    "id": "arxiv_1780279936531_0",
     "name": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
     "category": "ai",
     "description": "Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 s...",
@@ -14,20 +231,7 @@
     "source": "arXiv - Nhat-Minh Nguyen"
   },
   {
-    "id": "arxiv_1780271594115_0",
-    "name": "GMOS: Grounding Moving Object Segmentation in 3D Space and Time",
-    "category": "computer-vision",
-    "description": "Moving Object Segmentation (MOS) aims to discover, segment, and track objects that move independently of the camera. Current MOS methods, however, exhibit two fundamental limitations: they rely on pre...",
-    "link": "http://arxiv.org/abs/2605.30352v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-05-28T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Junyu Xie, Tengda Han, Weidi Xie et al."
-  },
-  {
-    "id": "arxiv_1780271593912_1",
+    "id": "arxiv_1780279936531_1",
     "name": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
     "category": "ai",
     "description": "Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their po...",
@@ -37,25 +241,11 @@
       "Diffusion"
     ],
     "date": "2026-05-28T17:59:57Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hidir Yesiltepe, Jiazhen Hu, Tuna Han Salih Meral et al."
   },
   {
-    "id": "arxiv_1780271594115_1",
-    "name": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
-    "category": "computer-vision",
-    "description": "Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their po...",
-    "link": "http://arxiv.org/abs/2605.30351v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-05-28T17:59:57Z",
-    "trending": true,
-    "source": "arXiv - Hidir Yesiltepe, Jiazhen Hu, Tuna Han Salih Meral et al."
-  },
-  {
-    "id": "arxiv_1780271593912_2",
+    "id": "arxiv_1780279936531_2",
     "name": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
     "category": "ai",
     "description": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making...",
@@ -69,92 +259,7 @@
     "source": "arXiv - Yaxin Luo, Jiacheng Cui, Xiaohan Zhao et al."
   },
   {
-    "id": "arxiv_1780271594115_2",
-    "name": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
-    "category": "computer-vision",
-    "description": "Autoregressive video diffusion models generate streaming video by producing frames sequentially, conditioning each chunk on previously generated content. These models are structurally anchored to the ...",
-    "link": "http://arxiv.org/abs/2605.30349v1",
-    "tags": [
-      "Diffusion"
-    ],
-    "date": "2026-05-28T17:59:53Z",
-    "trending": false,
-    "source": "arXiv - Yusuf Dalva, Pinar Yanardag"
-  },
-  {
-    "id": "arxiv_1780271594115_3",
-    "name": "NeuROK: Generative 4D Neural Object Kinematics",
-    "category": "computer-vision",
-    "description": "Data-driven approaches have revolutionized 3D vision, enabling transformers to effectively reconstruct and generate static 3D objects. However, generating simulative 4D dynamics -- realistic temporal ...",
-    "link": "http://arxiv.org/abs/2605.30347v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Vision",
-      "Transformer"
-    ],
-    "date": "2026-05-28T17:59:53Z",
-    "trending": false,
-    "source": "arXiv - Chen Geng, Guangzhao He, Yue Gao et al."
-  },
-  {
-    "id": "arxiv_1780271594319_0",
-    "name": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
-    "category": "machine-learning",
-    "description": "Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recog...",
-    "link": "http://arxiv.org/abs/2605.30350v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Robotics"
-    ],
-    "date": "2026-05-28T17:59:53Z",
-    "trending": false,
-    "source": "arXiv - Jusuk Lee, Seungjae Lee, Jonghun Shin et al."
-  },
-  {
-    "id": "arxiv_1780271594319_1",
-    "name": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
-    "category": "machine-learning",
-    "description": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making...",
-    "link": "http://arxiv.org/abs/2605.30348v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-28T17:59:53Z",
-    "trending": false,
-    "source": "arXiv - Yaxin Luo, Jiacheng Cui, Xiaohan Zhao et al."
-  },
-  {
-    "id": "arxiv_1780271594494_0",
-    "name": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
-    "category": "nlp",
-    "description": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making...",
-    "link": "http://arxiv.org/abs/2605.30348v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-28T17:59:53Z",
-    "trending": false,
-    "source": "arXiv - Yaxin Luo, Jiacheng Cui, Xiaohan Zhao et al."
-  },
-  {
-    "id": "arxiv_1780271594115_4",
-    "name": "YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
-    "category": "computer-vision",
-    "description": "As video diffusion models (VDMs) advance toward world models, a key question arises: do they truly understand causality, or merely overfit to statistical temporal patterns? Existing benchmarks mostly ...",
-    "link": "http://arxiv.org/abs/2605.30346v1",
-    "tags": [
-      "Diffusion"
-    ],
-    "date": "2026-05-28T17:59:51Z",
-    "trending": true,
-    "source": "arXiv - You-Zhe Xie, Yu-Hsuan Li, Jie-Ying Lee et al."
-  },
-  {
-    "id": "arxiv_1780271593912_3",
+    "id": "arxiv_1780279936532_3",
     "name": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
     "category": "ai",
     "description": "Printed circuit board (PCB) schematic design defines nearly all electronic hardware, but it remains manual and expertise-intensive. While generative AI has advanced digital and analog IC design, PCB s...",
@@ -168,7 +273,7 @@
     "source": "arXiv - Qinpei Luo, Ruichun Ma, Xinyu Zhang et al."
   },
   {
-    "id": "arxiv_1780271593912_4",
+    "id": "arxiv_1780279936532_4",
     "name": "Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection",
     "category": "ai",
     "description": "Recent advances in Vision-Language Models (VLMs) have achieved impressive performance across many tasks, yet prior studies report unsatisfactory performance when applying large language or multimodal ...",
@@ -180,105 +285,5 @@
     "date": "2026-05-28T17:59:50Z",
     "trending": false,
     "source": "arXiv - Xiaona Zhou, Muntasir Wahed, Tianjiao Yu et al."
-  },
-  {
-    "id": "arxiv_1780271594319_2",
-    "name": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
-    "category": "machine-learning",
-    "description": "Printed circuit board (PCB) schematic design defines nearly all electronic hardware, but it remains manual and expertise-intensive. While generative AI has advanced digital and analog IC design, PCB s...",
-    "link": "http://arxiv.org/abs/2605.30345v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-28T17:59:50Z",
-    "trending": true,
-    "source": "arXiv - Qinpei Luo, Ruichun Ma, Xinyu Zhang et al."
-  },
-  {
-    "id": "arxiv_1780271594494_1",
-    "name": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
-    "category": "nlp",
-    "description": "Printed circuit board (PCB) schematic design defines nearly all electronic hardware, but it remains manual and expertise-intensive. While generative AI has advanced digital and analog IC design, PCB s...",
-    "link": "http://arxiv.org/abs/2605.30345v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-28T17:59:50Z",
-    "trending": false,
-    "source": "arXiv - Qinpei Luo, Ruichun Ma, Xinyu Zhang et al."
-  },
-  {
-    "id": "arxiv_1780271594494_2",
-    "name": "Unlocking the Working Memory of Large Language Models for Latent Reasoning",
-    "category": "nlp",
-    "description": "To improve the reasoning capabilities of large language models, test-time compute is typically scaled by generating intermediate tokens before the final answer. However, this couples reasoning to auto...",
-    "link": "http://arxiv.org/abs/2605.30343v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-05-28T17:59:49Z",
-    "trending": false,
-    "source": "arXiv - Lukas Aichberger, Sepp Hochreiter"
-  },
-  {
-    "id": "arxiv_1780271594319_3",
-    "name": "Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching",
-    "category": "machine-learning",
-    "description": "Test-time finetuning (TTFT) is a rapidly evolving paradigm that adapts a language model to each prompt by retrieving related sequences, updating the model on them, and then evaluating the prompt. Howe...",
-    "link": "http://arxiv.org/abs/2605.30337v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-05-28T17:59:01Z",
-    "trending": false,
-    "source": "arXiv - Alaa Khamis, Alaa Maalouf"
-  },
-  {
-    "id": "arxiv_1780271594319_4",
-    "name": "Fairness-Aware Federated Learning with Trajectory Shapley Value",
-    "category": "machine-learning",
-    "description": "Federated learning is an emerging distributed paradigm that addresses the challenges posed by heterogeneous, privacy-sensitive data. It enables multiple clients to train a model collaboratively by agg...",
-    "link": "http://arxiv.org/abs/2605.30336v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-05-28T17:58:57Z",
-    "trending": false,
-    "source": "arXiv - Daniel Kuznetsov, Ziqi Wang"
-  },
-  {
-    "id": "arxiv_1780271594494_3",
-    "name": "Locally Coherent, Globally Incoherent: Bounding Compositional Incoherence in Multi-Component LLM Agents",
-    "category": "nlp",
-    "description": "Multi-component LLM agents assemble probabilistic claims from components that each see only part of a joint problem; the composition can violate basic probability axioms even when every component is l...",
-    "link": "http://arxiv.org/abs/2605.30335v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-05-28T17:58:55Z",
-    "trending": true,
-    "source": "arXiv - Anany Kotawala"
-  },
-  {
-    "id": "arxiv_1780271594494_4",
-    "name": "Demystifying Data Organization for Enhanced LLM Training",
-    "category": "nlp",
-    "description": "Large Language Models (LLMs) have revolutionized various fields, yet their training efficiency is heavily reliant on effective data curation. While data selection has been widely studied, the strategi...",
-    "link": "http://arxiv.org/abs/2605.30334v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "LLM"
-    ],
-    "date": "2026-05-28T17:58:53Z",
-    "trending": false,
-    "source": "arXiv - Yalun Dai, Yangyu Huang, Tongshen Yang et al."
   }
 ]
