@@ -1,20 +1,136 @@
 [
   {
-    "id": "rss_Ars_Technica_1780325079602_0",
-    "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
+    "id": "rss_Ars_Technica_1780343346290_0",
+    "title": "New Trump vaccine order based on \"no credible scientific evidence,\" doctors say",
     "category": "ai-news",
     "source": "Ars Technica",
-    "description": "\n                        Crescent Island is an air-cooled chip that uses LPDDR5 memory.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
+    "description": "\n                        Even Danish researchers think it's bizarre.\n                    ",
+    "link": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
+    "tags": [],
+    "date": "Mon, 01 Jun 2026 19:07:58 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780343346290_1",
+    "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Altman has an \"utter disregard\" for human lives, Florida AG says.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
     "tags": [
       "AI",
-      "NVIDIA"
+      "OpenAI",
+      "ChatGPT",
+      "GPT"
     ],
-    "date": "Mon, 01 Jun 2026 13:32:16 +0000",
+    "date": "Mon, 01 Jun 2026 18:52:19 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1780343342444_0",
+    "title": "Water access is now a risk factor in SpaceX’s IPO",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+    "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+    "tags": [],
+    "date": "Mon, 01 Jun 2026 18:19:53 +0000",
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1780325078147_0",
+    "id": "rss_Ars_Technica_1780343346290_2",
+    "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.\n                    ",
+    "link": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 01 Jun 2026 17:41:47 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1780343347445_0",
+    "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+    "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 01 Jun 2026 17:17:58 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780343346290_3",
+    "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
+    "tags": [
+      "AI",
+      "Robot",
+      "Startup"
+    ],
+    "date": "Mon, 01 Jun 2026 17:17:55 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780343346290_4",
+    "title": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The 5800X3D returns at $349, while the 7700X3D debuts at $329. \n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/",
+    "tags": [],
+    "date": "Mon, 01 Jun 2026 17:02:22 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1780343342444_1",
+    "title": "Anthropic files to go public",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The company said Monday it has filed confidentially for an IPO.",
+    "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 01 Jun 2026 16:36:55 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1780343342445_2",
+    "title": "This AI weather startup is out-forecasting government agencies",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collec",
+    "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Mon, 01 Jun 2026 16:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1780343342445_3",
+    "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users. ",
+    "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 01 Jun 2026 14:49:10 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1780343344765_0",
     "title": "The Download: China’s brain implant ambitions",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -24,24 +140,10 @@
       "AI"
     ],
     "date": "Mon, 01 Jun 2026 12:10:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1780325079602_1",
-    "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        I tried to explain OpenAI’s solution more clearly than OpenAI did.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Mon, 01 Jun 2026 11:00:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_Wired_1780325080677_0",
+    "id": "rss_Wired_1780343347445_1",
     "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
     "category": "ai-news",
     "source": "Wired",
@@ -51,10 +153,10 @@
       "AI"
     ],
     "date": "Mon, 01 Jun 2026 11:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1780325078147_1",
+    "id": "rss_MIT_Tech_Review_1780343344765_1",
     "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -64,10 +166,10 @@
       "AI"
     ],
     "date": "Mon, 01 Jun 2026 09:09:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780325075863_0",
+    "id": "rss_TechCrunch_1780343342445_4",
     "title": "Erin Brockovich takes aim at data center secrecy",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -77,47 +179,10 @@
       "AI"
     ],
     "date": "Sun, 31 May 2026 21:05:14 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1780325075863_1",
-    "title": "Making sense of the debate over AI psychosis",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-    "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Sun, 31 May 2026 15:30:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1780325079602_2",
-    "title": "On its 40th anniversary, we reassess 1986's SpaceCamp",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Is it a hidden gem, a cult classic, or hopelessly dumb? We vote \"all of the above.\"\n                    ",
-    "link": "https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/",
-    "tags": [],
-    "date": "Sun, 31 May 2026 11:15:12 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1780325079602_3",
-    "title": "They call it stupid hot for a reason: Heat muddles animal brains",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        As temperatures rise, some creatures pick fights while others struggle to learn.\n                    ",
-    "link": "https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Sun, 31 May 2026 10:00:07 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1780325080677_1",
+    "id": "rss_Wired_1780343347445_2",
     "title": "How Turkey Hacked the Hair Transplant Industry",
     "category": "ai-news",
     "source": "Wired",
@@ -128,61 +193,10 @@
       "Machine Learning"
     ],
     "date": "Sun, 31 May 2026 09:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1780325075863_2",
-    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-    "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Sat, 30 May 2026 21:45:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1780325075863_3",
-    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-    "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "tags": [
-      "Microsoft"
-    ],
-    "date": "Sat, 30 May 2026 16:30:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780325075863_4",
-    "title": "Meta is reportedly developing an AI pendant",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Meta seems to be making big bets on AI-powered hardware.",
-    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Sat, 30 May 2026 15:59:58 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1780325079602_4",
-    "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        A new book looks into the long history of people who have opposed vaccines.\n                    ",
-    "link": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
-    "tags": [],
-    "date": "Sat, 30 May 2026 11:00:05 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1780325080677_2",
+    "id": "rss_Wired_1780343347445_3",
     "title": "Do You Actually Need to Pay for Transcription Software?",
     "category": "ai-news",
     "source": "Wired",
@@ -192,10 +206,10 @@
       "AI"
     ],
     "date": "Sat, 30 May 2026 09:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1780325080678_3",
+    "id": "rss_Wired_1780343347446_4",
     "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
     "category": "ai-news",
     "source": "Wired",
@@ -205,24 +219,10 @@
       "AI"
     ],
     "date": "Fri, 29 May 2026 20:56:59 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1780325080678_4",
-    "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
-    "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Fri, 29 May 2026 19:07:46 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1780325078148_2",
+    "id": "rss_MIT_Tech_Review_1780343344766_2",
     "title": "The Download: unlocking lithium and controlling Ebola",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -232,10 +232,10 @@
       "AI"
     ],
     "date": "Fri, 29 May 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1780325078148_3",
+    "id": "rss_MIT_Tech_Review_1780343344766_3",
     "title": "The deadly Ebola outbreak is proving difficult to control",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -248,7 +248,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780325078148_4",
+    "id": "rss_MIT_Tech_Review_1780343344766_4",
     "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -258,10 +258,10 @@
       "AI"
     ],
     "date": "Fri, 29 May 2026 10:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1780325089439_0",
+    "id": "rss_Distill_1780343356759_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -274,7 +274,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1780325089439_1",
+    "id": "rss_Distill_1780343356759_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -284,10 +284,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1780325089439_2",
+    "id": "rss_Distill_1780343356759_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -295,10 +295,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1780325089439_3",
+    "id": "rss_Distill_1780343356759_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -311,7 +311,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1780325089439_4",
+    "id": "rss_Distill_1780343356759_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
