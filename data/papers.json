@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1780394214026_0",
+    "id": "arxiv_1780408413278_0",
     "name": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
     "category": "computer-vision",
     "description": "Inverse graphics is a longstanding and highly underconstrained problem that seeks to reconstruct images as editable 3D scenes which can be rendered, relit, and manipulated. In this work, we investigat...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Guangzhao He, Rundong Luo, Wei-Chiu Ma et al."
   },
   {
-    "id": "arxiv_1780394213968_0",
+    "id": "arxiv_1780408412999_0",
     "name": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
     "category": "ai",
     "description": "Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts...",
@@ -29,7 +29,7 @@
     "source": "arXiv - Seojeong Park, Jiho Choi, Junyong Kang et al."
   },
   {
-    "id": "arxiv_1780394214027_1",
+    "id": "arxiv_1780408413278_1",
     "name": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
     "category": "computer-vision",
     "description": "Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts...",
@@ -44,7 +44,7 @@
     "source": "arXiv - Seojeong Park, Jiho Choi, Junyong Kang et al."
   },
   {
-    "id": "arxiv_1780394214027_2",
+    "id": "arxiv_1780408413279_2",
     "name": "RoboDream: Compositional World Models for Scalable Robot Data Synthesis",
     "category": "computer-vision",
     "description": "Scaling robot learning requires large-scale, diverse demonstrations, yet real-world data collection via teleoperation remains prohibitively expensive and time-consuming. While video diffusion models o...",
@@ -58,7 +58,7 @@
     "source": "arXiv - Junjie Ye, Rong Xue, Basile Van Hoorick et al."
   },
   {
-    "id": "arxiv_1780394214027_3",
+    "id": "arxiv_1780408413279_3",
     "name": "ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning",
     "category": "computer-vision",
     "description": "Multimodal Large Language Models (MLLMs) achieve strong performance through instruction tuning, but real-world deployment requires them to continually acquire new vision-language capabilities, making ...",
@@ -72,7 +72,7 @@
     "source": "arXiv - Yu-Cheng Shi, Zhen-Hao Xie, Jun-Tao Tang et al."
   },
   {
-    "id": "arxiv_1780394214085_0",
+    "id": "arxiv_1780408413351_0",
     "name": "ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning",
     "category": "machine-learning",
     "description": "Multimodal Large Language Models (MLLMs) achieve strong performance through instruction tuning, but real-world deployment requires them to continually acquire new vision-language capabilities, making ...",
@@ -82,11 +82,11 @@
       "LLM"
     ],
     "date": "2026-06-01T17:59:13Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yu-Cheng Shi, Zhen-Hao Xie, Jun-Tao Tang et al."
   },
   {
-    "id": "arxiv_1780394214027_4",
+    "id": "arxiv_1780408413279_4",
     "name": "From Zero to Hero: Training-Free Custom Concept Spawning in World Models",
     "category": "computer-vision",
     "description": "Autoregressive world models have emerged as a powerful paradigm for interactive video generation, allowing users to navigate dynamically generated environments through actions. These models are typica...",
@@ -95,11 +95,11 @@
       "AI"
     ],
     "date": "2026-06-01T17:59:05Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Kiymet Akdemir, Pinar Yanardag"
   },
   {
-    "id": "arxiv_1780394213968_1",
+    "id": "arxiv_1780408412999_1",
     "name": "AdaCodec: A Predictive Visual Code for Video MLLMs",
     "category": "ai",
     "description": "Video is temporally redundant: adjacent frames usually share most objects, background, and layout. Yet existing video multimodal large language models (video MLLMs) usually encode each sampled frame a...",
@@ -113,7 +113,7 @@
     "source": "arXiv - Haowen Hou, Zhen Huang, Zheming Liang et al."
   },
   {
-    "id": "arxiv_1780394214142_0",
+    "id": "arxiv_1780408413421_0",
     "name": "AdaCodec: A Predictive Visual Code for Video MLLMs",
     "category": "nlp",
     "description": "Video is temporally redundant: adjacent frames usually share most objects, background, and layout. Yet existing video multimodal large language models (video MLLMs) usually encode each sampled frame a...",
@@ -127,7 +127,7 @@
     "source": "arXiv - Haowen Hou, Zhen Huang, Zheming Liang et al."
   },
   {
-    "id": "arxiv_1780394213968_2",
+    "id": "arxiv_1780408412999_2",
     "name": "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents",
     "category": "ai",
     "description": "Clinical practice is not the selection of an answer from enumerated options: a physician gathers heterogeneous information incrementally and commits to sequential, irreversible decisions under uncerta...",
@@ -141,7 +141,7 @@
     "source": "arXiv - Yuxing Lu, Yushuhong Lin, Wenqi Shi et al."
   },
   {
-    "id": "arxiv_1780394214142_1",
+    "id": "arxiv_1780408413421_1",
     "name": "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents",
     "category": "nlp",
     "description": "Clinical practice is not the selection of an answer from enumerated options: a physician gathers heterogeneous information incrementally and commits to sequential, irreversible decisions under uncerta...",
@@ -155,7 +155,7 @@
     "source": "arXiv - Yuxing Lu, Yushuhong Lin, Wenqi Shi et al."
   },
   {
-    "id": "arxiv_1780394214085_1",
+    "id": "arxiv_1780408413351_1",
     "name": "IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning",
     "category": "machine-learning",
     "description": "Heterogeneous Differential Privacy (HDP) in Federated Learning (FL) allows clients to select individual privacy budgets ($\\varepsilon_i$) according to institutional policies and data sensitivity. In p...",
@@ -168,7 +168,7 @@
     "source": "arXiv - Farhin Farhad Riya, Olivera Kotevska, Jinyuan Stella Sun"
   },
   {
-    "id": "arxiv_1780394213969_3",
+    "id": "arxiv_1780408412999_3",
     "name": "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics",
     "category": "ai",
     "description": "Autonomous robots that interact with people must make safe and efficient decisions under human-induced uncertainty, such as their preferences, goals, competency, and willingness to cooperate. Safety f...",
@@ -179,11 +179,11 @@
       "Robotics"
     ],
     "date": "2026-06-01T17:54:00Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Haimin Hu"
   },
   {
-    "id": "arxiv_1780394214085_2",
+    "id": "arxiv_1780408413351_2",
     "name": "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics",
     "category": "machine-learning",
     "description": "Autonomous robots that interact with people must make safe and efficient decisions under human-induced uncertainty, such as their preferences, goals, competency, and willingness to cooperate. Safety f...",
@@ -198,7 +198,7 @@
     "source": "arXiv - Haimin Hu"
   },
   {
-    "id": "arxiv_1780394213969_4",
+    "id": "arxiv_1780408412999_4",
     "name": "From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression",
     "category": "ai",
     "description": "Post-training compression of Large Language Models (LLMs) removes entire architectural components, either deleting them or replacing them with fitted modules. Existing replacement-based methods share ...",
@@ -213,7 +213,7 @@
     "source": "arXiv - Elia Cunegatti, Marcus Vukojevic, Erik Nielsen et al."
   },
   {
-    "id": "arxiv_1780394214142_2",
+    "id": "arxiv_1780408413421_2",
     "name": "From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression",
     "category": "nlp",
     "description": "Post-training compression of Large Language Models (LLMs) removes entire architectural components, either deleting them or replacing them with fitted modules. Existing replacement-based methods share ...",
@@ -224,11 +224,11 @@
       "LLM"
     ],
     "date": "2026-06-01T17:52:53Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Elia Cunegatti, Marcus Vukojevic, Erik Nielsen et al."
   },
   {
-    "id": "arxiv_1780394214142_3",
+    "id": "arxiv_1780408413421_3",
     "name": "HERO'S JOURNEY: Testing Complex Rule Induction with Text Games",
     "category": "nlp",
     "description": "We introduce HERO'S JOURNEY, a benchmark for rule induction in goal-directed episodic tasks, where agents must infer hidden rules from demonstrations and act on them through multi-step execution. HERO...",
@@ -238,11 +238,11 @@
       "LLM"
     ],
     "date": "2026-06-01T17:51:40Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Anshun Asher Zheng, Kanishka Misra, David I. Beaver et al."
   },
   {
-    "id": "arxiv_1780394214142_4",
+    "id": "arxiv_1780408413421_4",
     "name": "SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation",
     "category": "nlp",
     "description": "Word Error Rate (WER) is the dominant metric for automatic speech recognition (ASR), but it can overestimate errors when references and hypotheses encode the same words in different scripts. This issu...",
@@ -252,11 +252,11 @@
       "LLM"
     ],
     "date": "2026-06-01T17:49:10Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Priyaranjan Pattnayak"
   },
   {
-    "id": "arxiv_1780394214085_3",
+    "id": "arxiv_1780408413352_3",
     "name": "Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation",
     "category": "machine-learning",
     "description": "Large language models now power robo-advisors and trading agents, yet whether they carry built-in biases toward specific assets is largely untested. We ask three questions: do LLMs systematically pref...",
@@ -270,7 +270,7 @@
     "source": "arXiv - Wenbin Wu"
   },
   {
-    "id": "arxiv_1780394214085_4",
+    "id": "arxiv_1780408413352_4",
     "name": "Drifting Preference Optimization for One-Step Generative Models",
     "category": "machine-learning",
     "description": "One-step text-to-image generators are attractive for deployment because they generate an image with a single forward pass, but preference finetuning them remains difficult: standard alignment methods ...",
@@ -280,7 +280,7 @@
       "Optimization"
     ],
     "date": "2026-06-01T17:31:49Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhou Jiang, Yandong Wen, Zhen Liu"
   }
 ]
