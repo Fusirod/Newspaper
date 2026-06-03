@@ -1,20 +1,153 @@
 [
   {
-    "id": "rss_Ars_Technica_1780500218829_0",
-    "title": "Robotaxis don't cut traffic any more than ride-hailing, study finds",
+    "id": "rss_TechCrunch_1780515577906_0",
+    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "If Alphabet's record-breaking, $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow. ",
+    "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Wed, 03 Jun 2026 19:38:32 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1780515581551_0",
+    "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.\n                    ",
+    "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+    "tags": [
+      "Google"
+    ],
+    "date": "Wed, 03 Jun 2026 19:10:03 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1780515577906_1",
+    "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+    "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Wed, 03 Jun 2026 19:07:42 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1780515582717_0",
+    "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
+    "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 03 Jun 2026 18:49:32 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780515581551_1",
+    "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Critics say Trump plan to test AI models is short-sighted, performative.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 03 Jun 2026 18:11:15 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1780515582717_1",
+    "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
+    "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
+    "tags": [
+      "AI",
+      "NVIDIA",
+      "Robot"
+    ],
+    "date": "Wed, 03 Jun 2026 18:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780515581551_2",
+    "title": "New social features further Plex’s evolution from media server business",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Plex is increaingly focusing on content discovery and streaming rentals. \n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 03 Jun 2026 17:35:06 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1780515580199_0",
+    "title": "How virtual power plants could provide energy for data centers",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,&#8230;",
+    "link": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+    "tags": [
+      "Google"
+    ],
+    "date": "Wed, 03 Jun 2026 16:51:38 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1780515577906_2",
+    "title": "Amazon will show AI product images when you search for some reason",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+    "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 03 Jun 2026 15:50:26 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1780515582717_2",
+    "title": "This Is How Trump Finally Signed the AI Executive Order",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
+    "link": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 03 Jun 2026 15:46:52 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780515581551_3",
+    "title": "Autonomous vehicles were supposed to cut traffic—what if they don't?",
     "category": "ai-news",
     "source": "Ars Technica",
     "description": "\n                        Data shows Waymo's robotaxis are empty for almost half of the miles they drive.\n                    ",
     "link": "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/",
     "tags": [
-      "AI",
       "Robot"
     ],
     "date": "Wed, 03 Jun 2026 15:13:03 +0000",
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1780500215272_0",
+    "id": "rss_TechCrunch_1780515577906_3",
     "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -29,11 +162,11 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780500215272_1",
+    "id": "rss_TechCrunch_1780515577906_4",
     "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the UK then rolled out globally. ",
+    "description": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally. ",
     "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
     "tags": [
       "AI",
@@ -43,21 +176,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780500215272_2",
-    "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "WhatsApp will charge businesses for using its AI agent based on token usage",
-    "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Wed, 03 Jun 2026 13:40:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1780500218829_1",
+    "id": "rss_Ars_Technica_1780515581551_4",
     "title": "Inside Meta's attempts to play catch-up with AI",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -71,20 +190,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780500215272_3",
-    "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
-    "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 03 Jun 2026 13:02:51 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1780500217628_0",
+    "id": "rss_MIT_Tech_Review_1780515580199_1",
     "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -97,20 +203,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1780500218829_2",
-    "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        When they're being eaten, bean plants release chemicals that draw in parasitic wasps.\n                    ",
-    "link": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 03 Jun 2026 11:15:07 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1780500220012_0",
+    "id": "rss_Wired_1780515582717_3",
     "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
     "category": "ai-news",
     "source": "Wired",
@@ -124,18 +217,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1780500218829_3",
-    "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        \"Everyone is in a place where it’s no fun to be there.\"\n                    ",
-    "link": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
-    "tags": [],
-    "date": "Wed, 03 Jun 2026 10:00:07 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1780500220012_1",
+    "id": "rss_Wired_1780515582717_4",
     "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
     "category": "ai-news",
     "source": "Wired",
@@ -149,70 +231,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1780500220012_2",
-    "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.",
-    "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 03 Jun 2026 09:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1780500218829_4",
-    "title": "Male bowerbirds prefer to dazzle females with bright human-made items",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        \"It’s a reminder of how human activity is changing the natural world in unanticipated ways.”\n                    ",
-    "link": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
-    "tags": [],
-    "date": "Tue, 02 Jun 2026 23:05:31 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1780500215272_4",
-    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
-    "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-    "tags": [],
-    "date": "Tue, 02 Jun 2026 22:50:56 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1780500220012_3",
-    "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
-    "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
-    "tags": [
-      "AI",
-      "Microsoft"
-    ],
-    "date": "Tue, 02 Jun 2026 18:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1780500220012_4",
-    "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.",
-    "link": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Tue, 02 Jun 2026 15:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1780500217630_1",
+    "id": "rss_MIT_Tech_Review_1780515580200_2",
     "title": "The Download: AI can run your admin department now",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -225,7 +244,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780500217630_2",
+    "id": "rss_MIT_Tech_Review_1780515580200_3",
     "title": "Rehumanizing global health care with agentic AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -236,10 +255,10 @@
       "Vision"
     ],
     "date": "Tue, 02 Jun 2026 11:23:34 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780500217631_3",
+    "id": "rss_MIT_Tech_Review_1780515580200_4",
     "title": "How small businesses can leverage AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -250,23 +269,10 @@
       "LLM"
     ],
     "date": "Tue, 02 Jun 2026 09:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780500217631_4",
-    "title": "The Download: China’s brain implant ambitions",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s Henan province l",
-    "link": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 01 Jun 2026 12:10:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Distill_1780500228627_0",
+    "id": "rss_Distill_1780515591875_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -276,10 +282,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1780500228627_1",
+    "id": "rss_Distill_1780515591875_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -292,7 +298,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1780500228627_2",
+    "id": "rss_Distill_1780515591875_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -303,7 +309,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1780500228628_3",
+    "id": "rss_Distill_1780515591875_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -316,7 +322,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1780500228628_4",
+    "id": "rss_Distill_1780515591875_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
