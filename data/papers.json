@@ -1,286 +1,293 @@
 [
   {
-    "id": "arxiv_1780446113728_0",
-    "name": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
+    "id": "arxiv_1780465986545_0",
+    "name": "Exploring Easy Boosts for Lidar Semantic Scene Completion",
     "category": "computer-vision",
-    "description": "Inverse graphics is a longstanding and highly underconstrained problem that seeks to reconstruct images as editable 3D scenes which can be rendered, relit, and manipulated. In this work, we investigat...",
-    "link": "http://arxiv.org/abs/2606.02580v1",
+    "description": "This paper investigates \"free lunch\" strategies to boost the performance of lidar semantic scene completion (SSC) without requiring complex architectural redesigns. We first demonstrate that endowing ...",
+    "link": "http://arxiv.org/abs/2606.03992v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-06-01T17:59:53Z",
-    "trending": true,
-    "source": "arXiv - Guangzhao He, Rundong Luo, Wei-Chiu Ma et al."
-  },
-  {
-    "id": "arxiv_1780446113646_0",
-    "name": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
-    "category": "ai",
-    "description": "Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts...",
-    "link": "http://arxiv.org/abs/2606.02578v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-06-01T17:59:46Z",
+    "date": "2026-06-02T17:59:59Z",
     "trending": false,
-    "source": "arXiv - Seojeong Park, Jiho Choi, Junyong Kang et al."
+    "source": "arXiv - Tetiana Martyniuk, Jonathan Seele, Alexandre Boulch et al."
   },
   {
-    "id": "arxiv_1780446113729_1",
-    "name": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
+    "id": "arxiv_1780465986545_1",
+    "name": "SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image",
     "category": "computer-vision",
-    "description": "Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts...",
-    "link": "http://arxiv.org/abs/2606.02578v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-06-01T17:59:46Z",
-    "trending": false,
-    "source": "arXiv - Seojeong Park, Jiho Choi, Junyong Kang et al."
-  },
-  {
-    "id": "arxiv_1780446113729_2",
-    "name": "RoboDream: Compositional World Models for Scalable Robot Data Synthesis",
-    "category": "computer-vision",
-    "description": "Scaling robot learning requires large-scale, diverse demonstrations, yet real-world data collection via teleoperation remains prohibitively expensive and time-consuming. While video diffusion models o...",
-    "link": "http://arxiv.org/abs/2606.02577v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-06-01T17:59:38Z",
-    "trending": false,
-    "source": "arXiv - Junjie Ye, Rong Xue, Basile Van Hoorick et al."
-  },
-  {
-    "id": "arxiv_1780446113729_3",
-    "name": "ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning",
-    "category": "computer-vision",
-    "description": "Multimodal Large Language Models (MLLMs) achieve strong performance through instruction tuning, but real-world deployment requires them to continually acquire new vision-language capabilities, making ...",
-    "link": "http://arxiv.org/abs/2606.02576v1",
-    "tags": [
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-06-01T17:59:13Z",
-    "trending": false,
-    "source": "arXiv - Yu-Cheng Shi, Zhen-Hao Xie, Jun-Tao Tang et al."
-  },
-  {
-    "id": "arxiv_1780446144736_0",
-    "name": "ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning",
-    "category": "machine-learning",
-    "description": "Multimodal Large Language Models (MLLMs) achieve strong performance through instruction tuning, but real-world deployment requires them to continually acquire new vision-language capabilities, making ...",
-    "link": "http://arxiv.org/abs/2606.02576v1",
-    "tags": [
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-06-01T17:59:13Z",
-    "trending": false,
-    "source": "arXiv - Yu-Cheng Shi, Zhen-Hao Xie, Jun-Tao Tang et al."
-  },
-  {
-    "id": "arxiv_1780446113729_4",
-    "name": "From Zero to Hero: Training-Free Custom Concept Spawning in World Models",
-    "category": "computer-vision",
-    "description": "Autoregressive world models have emerged as a powerful paradigm for interactive video generation, allowing users to navigate dynamically generated environments through actions. These models are typica...",
-    "link": "http://arxiv.org/abs/2606.02575v1",
+    "description": "Reconstructing interactive, simulation-ready 3D scenes from a single image is a critical bottleneck for robotic manipulation. While recent single-image lifters recover plausible per-object shapes, com...",
+    "link": "http://arxiv.org/abs/2606.03994v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-06-01T17:59:05Z",
+    "date": "2026-06-02T17:59:59Z",
     "trending": false,
-    "source": "arXiv - Kiymet Akdemir, Pinar Yanardag"
+    "source": "arXiv - Inhee Lee, Sangwon Baik, Sungjoo Kim et al."
   },
   {
-    "id": "arxiv_1780446113646_1",
-    "name": "AdaCodec: A Predictive Visual Code for Video MLLMs",
-    "category": "ai",
-    "description": "Video is temporally redundant: adjacent frames usually share most objects, background, and layout. Yet existing video multimodal large language models (video MLLMs) usually encode each sampled frame a...",
-    "link": "http://arxiv.org/abs/2606.02569v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-01T17:56:35Z",
-    "trending": false,
-    "source": "arXiv - Haowen Hou, Zhen Huang, Zheming Liang et al."
-  },
-  {
-    "id": "arxiv_1780446144820_0",
-    "name": "AdaCodec: A Predictive Visual Code for Video MLLMs",
-    "category": "nlp",
-    "description": "Video is temporally redundant: adjacent frames usually share most objects, background, and layout. Yet existing video multimodal large language models (video MLLMs) usually encode each sampled frame a...",
-    "link": "http://arxiv.org/abs/2606.02569v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-01T17:56:35Z",
-    "trending": false,
-    "source": "arXiv - Haowen Hou, Zhen Huang, Zheming Liang et al."
-  },
-  {
-    "id": "arxiv_1780446113646_2",
-    "name": "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents",
-    "category": "ai",
-    "description": "Clinical practice is not the selection of an answer from enumerated options: a physician gathers heterogeneous information incrementally and commits to sequential, irreversible decisions under uncerta...",
-    "link": "http://arxiv.org/abs/2606.02568v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-01T17:56:26Z",
-    "trending": false,
-    "source": "arXiv - Yuxing Lu, Yushuhong Lin, Wenqi Shi et al."
-  },
-  {
-    "id": "arxiv_1780446144820_1",
-    "name": "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents",
-    "category": "nlp",
-    "description": "Clinical practice is not the selection of an answer from enumerated options: a physician gathers heterogeneous information incrementally and commits to sequential, irreversible decisions under uncerta...",
-    "link": "http://arxiv.org/abs/2606.02568v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-01T17:56:26Z",
-    "trending": false,
-    "source": "arXiv - Yuxing Lu, Yushuhong Lin, Wenqi Shi et al."
-  },
-  {
-    "id": "arxiv_1780446144736_1",
-    "name": "IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning",
-    "category": "machine-learning",
-    "description": "Heterogeneous Differential Privacy (HDP) in Federated Learning (FL) allows clients to select individual privacy budgets ($\\varepsilon_i$) according to institutional policies and data sensitivity. In p...",
-    "link": "http://arxiv.org/abs/2606.02563v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-01T17:54:10Z",
-    "trending": false,
-    "source": "arXiv - Farhin Farhad Riya, Olivera Kotevska, Jinyuan Stella Sun"
-  },
-  {
-    "id": "arxiv_1780446113647_3",
-    "name": "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics",
-    "category": "ai",
-    "description": "Autonomous robots that interact with people must make safe and efficient decisions under human-induced uncertainty, such as their preferences, goals, competency, and willingness to cooperate. Safety f...",
-    "link": "http://arxiv.org/abs/2606.02562v1",
+    "id": "arxiv_1780465986545_2",
+    "name": "Neuron Populations Exhibit Divergent Selectivity with Scale",
+    "category": "computer-vision",
+    "description": "We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Ros...",
+    "link": "http://arxiv.org/abs/2606.03990v1",
     "tags": [
       "AI",
       "Neural",
-      "Robotics"
+      "Vision"
     ],
-    "date": "2026-06-01T17:54:00Z",
+    "date": "2026-06-02T17:59:52Z",
     "trending": false,
-    "source": "arXiv - Haimin Hu"
+    "source": "arXiv - Amil Dravid, Yasaman Bahri, Alexei A. Efros et al."
   },
   {
-    "id": "arxiv_1780446144736_2",
-    "name": "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics",
+    "id": "arxiv_1780465986616_0",
+    "name": "Neuron Populations Exhibit Divergent Selectivity with Scale",
     "category": "machine-learning",
-    "description": "Autonomous robots that interact with people must make safe and efficient decisions under human-induced uncertainty, such as their preferences, goals, competency, and willingness to cooperate. Safety f...",
-    "link": "http://arxiv.org/abs/2606.02562v1",
+    "description": "We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Ros...",
+    "link": "http://arxiv.org/abs/2606.03990v1",
     "tags": [
       "AI",
       "Neural",
-      "Robotics"
+      "Vision"
     ],
-    "date": "2026-06-01T17:54:00Z",
-    "trending": false,
-    "source": "arXiv - Haimin Hu"
-  },
-  {
-    "id": "arxiv_1780446113647_4",
-    "name": "From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression",
-    "category": "ai",
-    "description": "Post-training compression of Large Language Models (LLMs) removes entire architectural components, either deleting them or replacing them with fitted modules. Existing replacement-based methods share ...",
-    "link": "http://arxiv.org/abs/2606.02559v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "LLM"
-    ],
-    "date": "2026-06-01T17:52:53Z",
+    "date": "2026-06-02T17:59:52Z",
     "trending": true,
-    "source": "arXiv - Elia Cunegatti, Marcus Vukojevic, Erik Nielsen et al."
+    "source": "arXiv - Amil Dravid, Yasaman Bahri, Alexei A. Efros et al."
   },
   {
-    "id": "arxiv_1780446144820_2",
-    "name": "From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression",
+    "id": "arxiv_1780465986693_0",
+    "name": "Neuron Populations Exhibit Divergent Selectivity with Scale",
     "category": "nlp",
-    "description": "Post-training compression of Large Language Models (LLMs) removes entire architectural components, either deleting them or replacing them with fitted modules. Existing replacement-based methods share ...",
-    "link": "http://arxiv.org/abs/2606.02559v1",
+    "description": "We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Ros...",
+    "link": "http://arxiv.org/abs/2606.03990v1",
     "tags": [
       "AI",
-      "Transformer",
-      "LLM"
+      "Neural",
+      "Vision"
     ],
-    "date": "2026-06-01T17:52:53Z",
+    "date": "2026-06-02T17:59:52Z",
     "trending": false,
-    "source": "arXiv - Elia Cunegatti, Marcus Vukojevic, Erik Nielsen et al."
+    "source": "arXiv - Amil Dravid, Yasaman Bahri, Alexei A. Efros et al."
   },
   {
-    "id": "arxiv_1780446144820_3",
-    "name": "HERO'S JOURNEY: Testing Complex Rule Induction with Text Games",
-    "category": "nlp",
-    "description": "We introduce HERO'S JOURNEY, a benchmark for rule induction in goal-directed episodic tasks, where agents must infer hidden rules from demonstrations and act on them through multi-step execution. HERO...",
-    "link": "http://arxiv.org/abs/2606.02556v1",
+    "id": "arxiv_1780465986545_3",
+    "name": "PixVOD: Pixel-Distributed Direct Visual Odometry and Depth Estimation",
+    "category": "computer-vision",
+    "description": "Images composed of 2D pixel arrays are the standard input to computer vision algorithms, yet many underlying computations can be distributed across pixels. Transmitting raw, redundant, and noisy pixel...",
+    "link": "http://arxiv.org/abs/2606.03989v1",
     "tags": [
       "AI",
-      "LLM"
-    ],
-    "date": "2026-06-01T17:51:40Z",
-    "trending": false,
-    "source": "arXiv - Anshun Asher Zheng, Kanishka Misra, David I. Beaver et al."
-  },
-  {
-    "id": "arxiv_1780446144820_4",
-    "name": "SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation",
-    "category": "nlp",
-    "description": "Word Error Rate (WER) is the dominant metric for automatic speech recognition (ASR), but it can overestimate errors when references and hypotheses encode the same words in different scripts. This issu...",
-    "link": "http://arxiv.org/abs/2606.02548v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-01T17:49:10Z",
-    "trending": true,
-    "source": "arXiv - Priyaranjan Pattnayak"
-  },
-  {
-    "id": "arxiv_1780446144736_3",
-    "name": "Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation",
-    "category": "machine-learning",
-    "description": "Large language models now power robo-advisors and trading agents, yet whether they carry built-in biases toward specific assets is largely untested. We ask three questions: do LLMs systematically pref...",
-    "link": "http://arxiv.org/abs/2606.02528v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-01T17:36:06Z",
-    "trending": false,
-    "source": "arXiv - Wenbin Wu"
-  },
-  {
-    "id": "arxiv_1780446144736_4",
-    "name": "Drifting Preference Optimization for One-Step Generative Models",
-    "category": "machine-learning",
-    "description": "One-step text-to-image generators are attractive for deployment because they generate an image with a single forward pass, but preference finetuning them remains difficult: standard alignment methods ...",
-    "link": "http://arxiv.org/abs/2606.02521v1",
-    "tags": [
-      "AI",
+      "Vision",
       "Optimization"
     ],
-    "date": "2026-06-01T17:31:49Z",
+    "date": "2026-06-02T17:59:22Z",
     "trending": false,
-    "source": "arXiv - Zhou Jiang, Yandong Wen, Zhen Liu"
+    "source": "arXiv - Shinjeong Kim, Ignacio Alzugaray, Callum Rhodes et al."
+  },
+  {
+    "id": "arxiv_1780465986264_0",
+    "name": "Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models",
+    "category": "ai",
+    "description": "Vision language models (VLMs) excel at many tasks but still struggle with spatial reasoning when critical information is not directly observable. Many such problems require imaginative perception: inf...",
+    "link": "http://arxiv.org/abs/2606.03988v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-02T17:59:17Z",
+    "trending": false,
+    "source": "arXiv - Mahtab Bigverdi, Lindsey Li, Weikai Huang et al."
+  },
+  {
+    "id": "arxiv_1780465986545_4",
+    "name": "NewtPhys: Do Foundation Models Understand Newtonian Physics?",
+    "category": "computer-vision",
+    "description": "Previous work has evaluated physics reasoning in foundation models using synthetic or semi-synthetic scenes and visual question-answering tasks. However, these benchmarks emphasize high-level events a...",
+    "link": "http://arxiv.org/abs/2606.03986v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-02T17:59:12Z",
+    "trending": false,
+    "source": "arXiv - Sebastian Cavada, Soumava Paul, Tuan-Hung Vu et al."
+  },
+  {
+    "id": "arxiv_1780465986264_1",
+    "name": "Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
+    "category": "ai",
+    "description": "We introduce Humanoid-GPT, a GPT-style Transformer with causal attention trained on a billion-scale motion corpus for whole-body control. Unlike prior shallow MLP trackers constrained by scarce data a...",
+    "link": "http://arxiv.org/abs/2606.03985v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "GPT"
+    ],
+    "date": "2026-06-02T17:59:05Z",
+    "trending": true,
+    "source": "arXiv - Zekun Qi, Xuchuan Chen, Dairu Liu et al."
+  },
+  {
+    "id": "arxiv_1780465986693_1",
+    "name": "Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics",
+    "category": "nlp",
+    "description": "Quantities with measurement units, such as 110 cm and 1.2 m, require language models (LMs) to combine a numeral with a symbolic unit scale. Here, we study how LMs compare such quantities in controlled...",
+    "link": "http://arxiv.org/abs/2606.03982v1",
+    "tags": [],
+    "date": "2026-06-02T17:58:02Z",
+    "trending": false,
+    "source": "arXiv - Mutsumi Sasaki, Go kamoda, Ryosuke Takahashi et al."
+  },
+  {
+    "id": "arxiv_1780465986616_1",
+    "name": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill",
+    "category": "machine-learning",
+    "description": "Reward models (RMs) provide critical feedback signals for LLM post-training, notably in reinforced fine-tuning (RFT) and reinforcement learning (RL) pipelines. However, current reward evaluation relie...",
+    "link": "http://arxiv.org/abs/2606.03980v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-02T17:56:57Z",
+    "trending": false,
+    "source": "arXiv - Tao Chen, Gangwei Jiang, Pengyu Cheng et al."
+  },
+  {
+    "id": "arxiv_1780465986693_2",
+    "name": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill",
+    "category": "nlp",
+    "description": "Reward models (RMs) provide critical feedback signals for LLM post-training, notably in reinforced fine-tuning (RFT) and reinforcement learning (RL) pipelines. However, current reward evaluation relie...",
+    "link": "http://arxiv.org/abs/2606.03980v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-02T17:56:57Z",
+    "trending": true,
+    "source": "arXiv - Tao Chen, Gangwei Jiang, Pengyu Cheng et al."
+  },
+  {
+    "id": "arxiv_1780465986264_2",
+    "name": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
+    "category": "ai",
+    "description": "The past few decades have witnessed significant advances in the design of machine learning algorithms, from early studies on task-specific shallow models to more general deep Large Language Models (LL...",
+    "link": "http://arxiv.org/abs/2606.03979v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-06-02T17:56:55Z",
+    "trending": true,
+    "source": "arXiv - Ali Behrouz, Farnoosh Hashemi, Vahab Mirrokni"
+  },
+  {
+    "id": "arxiv_1780465986616_2",
+    "name": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
+    "category": "machine-learning",
+    "description": "The past few decades have witnessed significant advances in the design of machine learning algorithms, from early studies on task-specific shallow models to more general deep Large Language Models (LL...",
+    "link": "http://arxiv.org/abs/2606.03979v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-06-02T17:56:55Z",
+    "trending": true,
+    "source": "arXiv - Ali Behrouz, Farnoosh Hashemi, Vahab Mirrokni"
+  },
+  {
+    "id": "arxiv_1780465986265_3",
+    "name": "Formalizing the Binding Problem",
+    "category": "ai",
+    "description": "Representations of the world, arguably, contain information about features (e.g. something is blue, something is a circle) but also information about which features are part of the same object (e.g. t...",
+    "link": "http://arxiv.org/abs/2606.03976v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-06-02T17:56:24Z",
+    "trending": false,
+    "source": "arXiv - Lianghuan Huang, Yihao Li, Saeed Salehi et al."
+  },
+  {
+    "id": "arxiv_1780465986616_3",
+    "name": "Formalizing the Binding Problem",
+    "category": "machine-learning",
+    "description": "Representations of the world, arguably, contain information about features (e.g. something is blue, something is a circle) but also information about which features are part of the same object (e.g. t...",
+    "link": "http://arxiv.org/abs/2606.03976v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-06-02T17:56:24Z",
+    "trending": false,
+    "source": "arXiv - Lianghuan Huang, Yihao Li, Saeed Salehi et al."
+  },
+  {
+    "id": "arxiv_1780465986265_4",
+    "name": "Quantifying Faithful Confidence Expression in Large Reasoning Models",
+    "category": "ai",
+    "description": "Reliable uncertainty communication is critical to the trustworthiness of LLMs, yet faithful calibration (FC)--the alignment between models' intrinsic and (linguistically) expressed confidence--is a pe...",
+    "link": "http://arxiv.org/abs/2606.03969v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-02T17:53:45Z",
+    "trending": false,
+    "source": "arXiv - Areeb Gani, Asal Meskin, Gabrielle Kaili-May Liu et al."
+  },
+  {
+    "id": "arxiv_1780465986693_3",
+    "name": "Quantifying Faithful Confidence Expression in Large Reasoning Models",
+    "category": "nlp",
+    "description": "Reliable uncertainty communication is critical to the trustworthiness of LLMs, yet faithful calibration (FC)--the alignment between models' intrinsic and (linguistically) expressed confidence--is a pe...",
+    "link": "http://arxiv.org/abs/2606.03969v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-02T17:53:45Z",
+    "trending": true,
+    "source": "arXiv - Areeb Gani, Asal Meskin, Gabrielle Kaili-May Liu et al."
+  },
+  {
+    "id": "arxiv_1780465986693_4",
+    "name": "QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards",
+    "category": "nlp",
+    "description": "Rubric-based RL is a promising route for extending reinforcement learning beyond verifiable rewards, yet existing methods optimize rubrics while treating the query distribution as fixed. We identify a...",
+    "link": "http://arxiv.org/abs/2606.03968v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-02T17:53:04Z",
+    "trending": false,
+    "source": "arXiv - Rongzhi Zhang, Rui Feng, Zhihan Zhang et al."
+  },
+  {
+    "id": "arxiv_1780465986616_4",
+    "name": "Using Reward Uncertainty to Induce Diverse Behaviour in Reinforcement Learning",
+    "category": "machine-learning",
+    "description": "Classical reinforcement learning (RL) typically seeks a deterministic policy that maximizes the expected sum of a scalar reward. Yet, modern applications such as language model fine-tuning or scientif...",
+    "link": "http://arxiv.org/abs/2606.03962v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-02T17:50:14Z",
+    "trending": false,
+    "source": "arXiv - Anthony GX-Chen, Ankit Anand, Gheorghe Comanici et al."
   }
 ]
