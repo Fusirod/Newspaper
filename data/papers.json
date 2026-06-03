@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "id": "arxiv_1780500215085_0",
+    "name": "Neuron Populations Exhibit Divergent Selectivity with Scale",
+    "category": "nlp",
+    "description": "We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Ros...",
+    "link": "http://arxiv.org/abs/2606.03990v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Vision"
+    ],
+    "date": "2026-06-02T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Amil Dravid, Yasaman Bahri, Alexei A. Efros et al."
+  },
+  {
+    "id": "arxiv_1780500215085_1",
+    "name": "Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics",
+    "category": "nlp",
+    "description": "Quantities with measurement units, such as 110 cm and 1.2 m, require language models (LMs) to combine a numeral with a symbolic unit scale. Here, we study how LMs compare such quantities in controlled...",
+    "link": "http://arxiv.org/abs/2606.03982v1",
+    "tags": [],
+    "date": "2026-06-02T17:58:02Z",
+    "trending": false,
+    "source": "arXiv - Mutsumi Sasaki, Go kamoda, Ryosuke Takahashi et al."
+  },
+  {
+    "id": "arxiv_1780500215085_2",
+    "name": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill",
+    "category": "nlp",
+    "description": "Reward models (RMs) provide critical feedback signals for LLM post-training, notably in reinforced fine-tuning (RFT) and reinforcement learning (RL) pipelines. However, current reward evaluation relie...",
+    "link": "http://arxiv.org/abs/2606.03980v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-02T17:56:57Z",
+    "trending": false,
+    "source": "arXiv - Tao Chen, Gangwei Jiang, Pengyu Cheng et al."
+  },
+  {
+    "id": "arxiv_1780500215085_3",
+    "name": "Quantifying Faithful Confidence Expression in Large Reasoning Models",
+    "category": "nlp",
+    "description": "Reliable uncertainty communication is critical to the trustworthiness of LLMs, yet faithful calibration (FC)--the alignment between models' intrinsic and (linguistically) expressed confidence--is a pe...",
+    "link": "http://arxiv.org/abs/2606.03969v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-02T17:53:45Z",
+    "trending": false,
+    "source": "arXiv - Areeb Gani, Asal Meskin, Gabrielle Kaili-May Liu et al."
+  },
+  {
+    "id": "arxiv_1780500215086_4",
+    "name": "QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards",
+    "category": "nlp",
+    "description": "Rubric-based RL is a promising route for extending reinforcement learning beyond verifiable rewards, yet existing methods optimize rubrics while treating the query distribution as fixed. We identify a...",
+    "link": "http://arxiv.org/abs/2606.03968v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-02T17:53:04Z",
+    "trending": true,
+    "source": "arXiv - Rongzhi Zhang, Rui Feng, Zhihan Zhang et al."
+  }
+]
