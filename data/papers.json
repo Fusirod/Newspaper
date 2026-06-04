@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1780525260681_0",
+    "id": "arxiv_1780532615142_0",
     "name": "Exploring Easy Boosts for Lidar Semantic Scene Completion",
     "category": "computer-vision",
     "description": "This paper investigates \"free lunch\" strategies to boost the performance of lidar semantic scene completion (SSC) without requiring complex architectural redesigns. We first demonstrate that endowing ...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Tetiana Martyniuk, Jonathan Seele, Alexandre Boulch et al."
   },
   {
-    "id": "arxiv_1780525260681_1",
+    "id": "arxiv_1780532615143_1",
     "name": "SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image",
     "category": "computer-vision",
     "description": "Reconstructing interactive, simulation-ready 3D scenes from a single image is a critical bottleneck for robotic manipulation. While recent single-image lifters recover plausible per-object shapes, com...",
@@ -27,24 +27,9 @@
     "source": "arXiv - Inhee Lee, Sangwon Baik, Sungjoo Kim et al."
   },
   {
-    "id": "arxiv_1780525260681_2",
+    "id": "arxiv_1780532615143_2",
     "name": "Neuron Populations Exhibit Divergent Selectivity with Scale",
     "category": "computer-vision",
-    "description": "We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Ros...",
-    "link": "http://arxiv.org/abs/2606.03990v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Vision"
-    ],
-    "date": "2026-06-02T17:59:52Z",
-    "trending": false,
-    "source": "arXiv - Amil Dravid, Yasaman Bahri, Alexei A. Efros et al."
-  },
-  {
-    "id": "arxiv_1780525260705_0",
-    "name": "Neuron Populations Exhibit Divergent Selectivity with Scale",
-    "category": "machine-learning",
     "description": "We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Ros...",
     "link": "http://arxiv.org/abs/2606.03990v1",
     "tags": [
@@ -57,7 +42,22 @@
     "source": "arXiv - Amil Dravid, Yasaman Bahri, Alexei A. Efros et al."
   },
   {
-    "id": "arxiv_1780525260885_0",
+    "id": "arxiv_1780532617008_0",
+    "name": "Neuron Populations Exhibit Divergent Selectivity with Scale",
+    "category": "machine-learning",
+    "description": "We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Ros...",
+    "link": "http://arxiv.org/abs/2606.03990v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Vision"
+    ],
+    "date": "2026-06-02T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Amil Dravid, Yasaman Bahri, Alexei A. Efros et al."
+  },
+  {
+    "id": "arxiv_1780532617022_0",
     "name": "Neuron Populations Exhibit Divergent Selectivity with Scale",
     "category": "nlp",
     "description": "We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Ros...",
@@ -72,7 +72,7 @@
     "source": "arXiv - Amil Dravid, Yasaman Bahri, Alexei A. Efros et al."
   },
   {
-    "id": "arxiv_1780525260681_3",
+    "id": "arxiv_1780532615143_3",
     "name": "PixVOD: Pixel-Distributed Direct Visual Odometry and Depth Estimation",
     "category": "computer-vision",
     "description": "Images composed of 2D pixel arrays are the standard input to computer vision algorithms, yet many underlying computations can be distributed across pixels. Transmitting raw, redundant, and noisy pixel...",
@@ -83,11 +83,11 @@
       "Optimization"
     ],
     "date": "2026-06-02T17:59:22Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Shinjeong Kim, Ignacio Alzugaray, Callum Rhodes et al."
   },
   {
-    "id": "arxiv_1780525260510_0",
+    "id": "arxiv_1780532615121_0",
     "name": "Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models",
     "category": "ai",
     "description": "Vision language models (VLMs) excel at many tasks but still struggle with spatial reasoning when critical information is not directly observable. Many such problems require imaginative perception: inf...",
@@ -101,7 +101,7 @@
     "source": "arXiv - Mahtab Bigverdi, Lindsey Li, Weikai Huang et al."
   },
   {
-    "id": "arxiv_1780525260681_4",
+    "id": "arxiv_1780532615143_4",
     "name": "NewtPhys: Do Foundation Models Understand Newtonian Physics?",
     "category": "computer-vision",
     "description": "Previous work has evaluated physics reasoning in foundation models using synthetic or semi-synthetic scenes and visual question-answering tasks. However, these benchmarks emphasize high-level events a...",
@@ -115,7 +115,7 @@
     "source": "arXiv - Sebastian Cavada, Soumava Paul, Tuan-Hung Vu et al."
   },
   {
-    "id": "arxiv_1780525260510_1",
+    "id": "arxiv_1780532615121_1",
     "name": "Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
     "category": "ai",
     "description": "We introduce Humanoid-GPT, a GPT-style Transformer with causal attention trained on a billion-scale motion corpus for whole-body control. Unlike prior shallow MLP trackers constrained by scarce data a...",
@@ -130,7 +130,7 @@
     "source": "arXiv - Zekun Qi, Xuchuan Chen, Dairu Liu et al."
   },
   {
-    "id": "arxiv_1780525260885_1",
+    "id": "arxiv_1780532617022_1",
     "name": "Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics",
     "category": "nlp",
     "description": "Quantities with measurement units, such as 110 cm and 1.2 m, require language models (LMs) to combine a numeral with a symbolic unit scale. Here, we study how LMs compare such quantities in controlled...",
@@ -141,7 +141,7 @@
     "source": "arXiv - Mutsumi Sasaki, Go kamoda, Ryosuke Takahashi et al."
   },
   {
-    "id": "arxiv_1780525260705_1",
+    "id": "arxiv_1780532617008_1",
     "name": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill",
     "category": "machine-learning",
     "description": "Reward models (RMs) provide critical feedback signals for LLM post-training, notably in reinforced fine-tuning (RFT) and reinforcement learning (RL) pipelines. However, current reward evaluation relie...",
@@ -156,7 +156,7 @@
     "source": "arXiv - Tao Chen, Gangwei Jiang, Pengyu Cheng et al."
   },
   {
-    "id": "arxiv_1780525260885_2",
+    "id": "arxiv_1780532617022_2",
     "name": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill",
     "category": "nlp",
     "description": "Reward models (RMs) provide critical feedback signals for LLM post-training, notably in reinforced fine-tuning (RFT) and reinforcement learning (RL) pipelines. However, current reward evaluation relie...",
@@ -167,11 +167,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-02T17:56:57Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Tao Chen, Gangwei Jiang, Pengyu Cheng et al."
   },
   {
-    "id": "arxiv_1780525260511_2",
+    "id": "arxiv_1780532615122_2",
     "name": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
     "category": "ai",
     "description": "The past few decades have witnessed significant advances in the design of machine learning algorithms, from early studies on task-specific shallow models to more general deep Large Language Models (LL...",
@@ -183,11 +183,11 @@
       "LLM"
     ],
     "date": "2026-06-02T17:56:55Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ali Behrouz, Farnoosh Hashemi, Vahab Mirrokni"
   },
   {
-    "id": "arxiv_1780525260705_2",
+    "id": "arxiv_1780532617008_2",
     "name": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
     "category": "machine-learning",
     "description": "The past few decades have witnessed significant advances in the design of machine learning algorithms, from early studies on task-specific shallow models to more general deep Large Language Models (LL...",
@@ -203,7 +203,7 @@
     "source": "arXiv - Ali Behrouz, Farnoosh Hashemi, Vahab Mirrokni"
   },
   {
-    "id": "arxiv_1780525260511_3",
+    "id": "arxiv_1780532615122_3",
     "name": "Formalizing the Binding Problem",
     "category": "ai",
     "description": "Representations of the world, arguably, contain information about features (e.g. something is blue, something is a circle) but also information about which features are part of the same object (e.g. t...",
@@ -219,7 +219,7 @@
     "source": "arXiv - Lianghuan Huang, Yihao Li, Saeed Salehi et al."
   },
   {
-    "id": "arxiv_1780525260705_3",
+    "id": "arxiv_1780532617008_3",
     "name": "Formalizing the Binding Problem",
     "category": "machine-learning",
     "description": "Representations of the world, arguably, contain information about features (e.g. something is blue, something is a circle) but also information about which features are part of the same object (e.g. t...",
@@ -235,7 +235,7 @@
     "source": "arXiv - Lianghuan Huang, Yihao Li, Saeed Salehi et al."
   },
   {
-    "id": "arxiv_1780525260511_4",
+    "id": "arxiv_1780532615122_4",
     "name": "Quantifying Faithful Confidence Expression in Large Reasoning Models",
     "category": "ai",
     "description": "Reliable uncertainty communication is critical to the trustworthiness of LLMs, yet faithful calibration (FC)--the alignment between models' intrinsic and (linguistically) expressed confidence--is a pe...",
@@ -245,11 +245,11 @@
       "LLM"
     ],
     "date": "2026-06-02T17:53:45Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Areeb Gani, Asal Meskin, Gabrielle Kaili-May Liu et al."
   },
   {
-    "id": "arxiv_1780525260886_3",
+    "id": "arxiv_1780532617022_3",
     "name": "Quantifying Faithful Confidence Expression in Large Reasoning Models",
     "category": "nlp",
     "description": "Reliable uncertainty communication is critical to the trustworthiness of LLMs, yet faithful calibration (FC)--the alignment between models' intrinsic and (linguistically) expressed confidence--is a pe...",
@@ -263,7 +263,7 @@
     "source": "arXiv - Areeb Gani, Asal Meskin, Gabrielle Kaili-May Liu et al."
   },
   {
-    "id": "arxiv_1780525260886_4",
+    "id": "arxiv_1780532617022_4",
     "name": "QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards",
     "category": "nlp",
     "description": "Rubric-based RL is a promising route for extending reinforcement learning beyond verifiable rewards, yet existing methods optimize rubrics while treating the query distribution as fixed. We identify a...",
@@ -273,11 +273,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-02T17:53:04Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Rongzhi Zhang, Rui Feng, Zhihan Zhang et al."
   },
   {
-    "id": "arxiv_1780525260706_4",
+    "id": "arxiv_1780532617008_4",
     "name": "Using Reward Uncertainty to Induce Diverse Behaviour in Reinforcement Learning",
     "category": "machine-learning",
     "description": "Classical reinforcement learning (RL) typically seeks a deterministic policy that maximizes the expected sum of a scalar reward. Yet, modern applications such as language model fine-tuning or scientif...",
@@ -287,7 +287,7 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-02T17:50:14Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Anthony GX-Chen, Ankit Anand, Gheorghe Comanici et al."
   }
 ]
