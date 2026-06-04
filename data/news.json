@@ -1,6 +1,70 @@
 [
   {
-    "id": "rss_Ars_Technica_1780608067034_0",
+    "id": "rss_TechCrunch_1780614011298_0",
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The AI giant's co-founder explained why the company may tap the public market for capital and why tokenmaxxing pushback isn't a concern.",
+    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 04 Jun 2026 22:43:26 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1780614011299_1",
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+    "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "Thu, 04 Jun 2026 22:29:50 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780614014755_0",
+    "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Robot demonstrations can distort public perceptions of robotic capabilities.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+    "tags": [
+      "Robot"
+    ],
+    "date": "Thu, 04 Jun 2026 22:23:36 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1780614011299_2",
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure ",
+    "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 04 Jun 2026 21:30:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780614014755_1",
+    "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        FCC did not violate carriers' right to jury trial, court says in 8-1 ruling.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
+    "tags": [],
+    "date": "Thu, 04 Jun 2026 21:25:19 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1780614014755_2",
     "title": "These LLMs are the best at resisting Russian propaganda",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -10,10 +74,10 @@
       "LLM"
     ],
     "date": "Thu, 04 Jun 2026 20:44:31 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1780608067034_1",
+    "id": "rss_Ars_Technica_1780614014755_3",
     "title": "Dashlane explains how attackers managed to download encrypted password vaults",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -26,7 +90,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1780608067034_2",
+    "id": "rss_Ars_Technica_1780614014755_4",
     "title": "Elon Musk tries again to escape FTC audits of X data handling",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -36,10 +100,10 @@
       "AI"
     ],
     "date": "Thu, 04 Jun 2026 19:49:12 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780608063268_0",
+    "id": "rss_TechCrunch_1780614011299_3",
     "title": "Meta steals a tactic from Tesla and builds data centers in tents",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -49,10 +113,10 @@
       "Meta"
     ],
     "date": "Thu, 04 Jun 2026 19:33:09 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780608063268_1",
+    "id": "rss_TechCrunch_1780614011299_4",
     "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -66,7 +130,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1780608068159_0",
+    "id": "rss_Wired_1780614015859_0",
     "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
     "category": "ai-news",
     "source": "Wired",
@@ -76,73 +140,10 @@
       "AI"
     ],
     "date": "Thu, 04 Jun 2026 18:44:49 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1780608067034_3",
-    "title": "Cable lobby warns of chaos if FCC doesn't relax ban on foreign routers",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        NCTA seeks waiver from foreign-router ban, citing memory and substrate shortages.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/06/cable-lobby-warns-of-chaos-if-fcc-doesnt-relax-ban-on-foreign-routers/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 04 Jun 2026 18:34:33 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1780608067034_4",
-    "title": "Bumblebees can spontaneously solve problems, study finds",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Scientists in Finland found bees could solve an insect version of the classic \"box-and-banana\" problem.\n                    ",
-    "link": "https://arstechnica.com/science/2026/06/bumblebees-can-spontaneously-solve-problems-study-finds/",
-    "tags": [],
-    "date": "Thu, 04 Jun 2026 18:00:35 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1780608063268_2",
-    "title": "Meta rolls out a new AI creator assistant on Facebook",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\" ",
-    "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Thu, 04 Jun 2026 16:32:48 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1780608063268_3",
-    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Apple's WWDC nears: Here's what you can look forward to.",
-    "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-    "tags": [],
-    "date": "Thu, 04 Jun 2026 16:31:12 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1780608063268_4",
-    "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The California startup released the fourth-generation of its home assistance robot, Stretch. ",
-    "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-    "tags": [
-      "Robot",
-      "Startup"
-    ],
-    "date": "Thu, 04 Jun 2026 15:05:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1780608065568_0",
+    "id": "rss_MIT_Tech_Review_1780614013492_0",
     "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -155,7 +156,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780608065569_1",
+    "id": "rss_MIT_Tech_Review_1780614013492_1",
     "title": "How courts are coping with a flood of AI-generated lawsuits",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -165,10 +166,10 @@
       "AI"
     ],
     "date": "Thu, 04 Jun 2026 10:50:18 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1780608068159_1",
+    "id": "rss_Wired_1780614015859_1",
     "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
     "category": "ai-news",
     "source": "Wired",
@@ -182,7 +183,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1780608068159_2",
+    "id": "rss_Wired_1780614015859_2",
     "title": "Alpha School’s Ritzy New York City Campus Costs $65,000 a Year—but Isn’t Actually a School",
     "category": "ai-news",
     "source": "Wired",
@@ -193,7 +194,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1780608068160_3",
+    "id": "rss_Wired_1780614015859_3",
     "title": "Quantum Computing Is Having Its Public Market Moment",
     "category": "ai-news",
     "source": "Wired",
@@ -203,10 +204,10 @@
       "Startup"
     ],
     "date": "Thu, 04 Jun 2026 09:34:23 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1780608068160_4",
+    "id": "rss_Wired_1780614015859_4",
     "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
     "category": "ai-news",
     "source": "Wired",
@@ -220,7 +221,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780608065569_2",
+    "id": "rss_MIT_Tech_Review_1780614013492_2",
     "title": "How virtual power plants could provide energy for data centers",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -233,7 +234,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780608065569_3",
+    "id": "rss_MIT_Tech_Review_1780614013492_3",
     "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -246,7 +247,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780608065569_4",
+    "id": "rss_MIT_Tech_Review_1780614013492_4",
     "title": "The Download: AI can run your admin department now",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -256,10 +257,10 @@
       "AI"
     ],
     "date": "Tue, 02 Jun 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1780608077426_0",
+    "id": "rss_Distill_1780614024217_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -269,10 +270,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1780608077426_1",
+    "id": "rss_Distill_1780614024217_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -282,10 +283,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1780608077426_2",
+    "id": "rss_Distill_1780614024217_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -293,10 +294,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1780608077426_3",
+    "id": "rss_Distill_1780614024217_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -309,7 +310,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1780608077426_4",
+    "id": "rss_Distill_1780614024217_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
