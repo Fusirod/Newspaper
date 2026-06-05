@@ -1,6 +1,110 @@
 [
   {
-    "id": "rss_Ars_Technica_1780662538955_0",
+    "id": "rss_Ars_Technica_1780674462357_0",
+    "title": "The Fitbit Air is great, but Google's AI is too nice to be your \"coach\"",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The Air succeeds as a minimalist, reliable fitness tracker, but Google's AI Health Coach feels unnecessary.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Fri, 05 Jun 2026 15:40:48 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1780674463415_0",
+    "title": "Has Microsoft Lost Its Mojo (Again)?",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Microsoft’s AI products aren’t selling and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
+    "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+    "tags": [
+      "AI",
+      "Microsoft"
+    ],
+    "date": "Fri, 05 Jun 2026 15:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1780674459036_0",
+    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+    "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 05 Jun 2026 14:49:12 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780674462357_1",
+    "title": "Not the next R8? Audi reveals mid-engined plug-in hybrid V8 Nuvolari.",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The Huracan gave us the R8s, now the Temerario lends itself to a new Audi.\n                    ",
+    "link": "https://arstechnica.com/cars/2026/06/not-the-next-r8-audi-reveals-mid-engined-plug-in-hybrid-v8-nuvolari/",
+    "tags": [],
+    "date": "Fri, 05 Jun 2026 14:44:04 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780674462357_2",
+    "title": "Rocket Report: Blue Origin explosion still making headlines; Impulse raises money",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        NASA expects to begin stacking the SLS rocket this summer for next year's Artemis III launch.\n                    ",
+    "link": "https://arstechnica.com/space/2026/06/rocket-report-blue-origin-explosion-still-making-headlines-impulse-raises-money/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 05 Jun 2026 14:20:54 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1780674462357_3",
+    "title": "Safety officials finally have a good idea of what a big rocket explosion can do",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Overpressure from the Blue Origin blast shattered windows at a hangar about a mile away from the pad.\n                    ",
+    "link": "https://arstechnica.com/space/2026/06/safety-officials-finally-have-a-good-idea-of-what-a-big-rocket-explosion-can-do/",
+    "tags": [],
+    "date": "Fri, 05 Jun 2026 13:55:05 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1780674459036_1",
+    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The Australian data center operator plans to set up 5GW of capacity in India.",
+    "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 05 Jun 2026 13:03:10 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1780674461261_0",
+    "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to ste",
+    "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+    "tags": [
+      "AI",
+      "Meta",
+      "Chatbot"
+    ],
+    "date": "Fri, 05 Jun 2026 12:10:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1780674462357_4",
     "title": "Steve Jobs in Exile is a fine profile of Jobs' years at NeXT",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,18 +115,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1780662538956_1",
-    "title": "Review: AMD's Radeon RX 9070 GRE is a disappointing way to spend $549",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The superior RX 9070 also launched for $549 just over a year ago.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/06/amd-radeon-rx-9070-gre-review-shrinkflation-isnt-just-for-groceries-anymore/",
-    "tags": [],
-    "date": "Fri, 05 Jun 2026 11:00:55 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1780662540088_0",
+    "id": "rss_Wired_1780674463415_1",
     "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
     "category": "ai-news",
     "source": "Wired",
@@ -36,7 +129,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1780662540088_1",
+    "id": "rss_Wired_1780674463415_2",
     "title": "Why Apple Might Put Cameras Into Its Next AirPods",
     "category": "ai-news",
     "source": "Wired",
@@ -49,7 +142,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780662537734_0",
+    "id": "rss_MIT_Tech_Review_1780674461261_1",
     "title": "Are AI chatbots making us lose control of our brains?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -63,7 +156,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780662537734_1",
+    "id": "rss_MIT_Tech_Review_1780674461261_2",
     "title": "The Meta hack shows there’s more to AI security than Mythos",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -77,7 +170,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1780662540088_2",
+    "id": "rss_Wired_1780674463415_3",
     "title": "AI Has Come for Serif Fonts",
     "category": "ai-news",
     "source": "Wired",
@@ -90,7 +183,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780662535616_0",
+    "id": "rss_TechCrunch_1780674459036_2",
     "title": "Mira Murati steps back into the spotlight, carefully",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -100,10 +193,10 @@
       "AI"
     ],
     "date": "Fri, 05 Jun 2026 05:06:37 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780662535617_1",
+    "id": "rss_TechCrunch_1780674459036_3",
     "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -113,10 +206,10 @@
       "AI"
     ],
     "date": "Thu, 04 Jun 2026 22:43:26 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780662535617_2",
+    "id": "rss_TechCrunch_1780674459036_4",
     "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -130,70 +223,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1780662538956_2",
-    "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Robot demonstrations can distort public perceptions of robotic capabilities.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
-    "tags": [
-      "Robot"
-    ],
-    "date": "Thu, 04 Jun 2026 22:23:36 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1780662535617_3",
-    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure ",
-    "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 04 Jun 2026 21:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1780662538956_3",
-    "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        FCC did not violate carriers' right to jury trial, court says in 8-1 ruling.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
-    "tags": [],
-    "date": "Thu, 04 Jun 2026 21:25:19 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1780662538956_4",
-    "title": "These LLMs are the best at resisting Russian propaganda",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\"\n                    ",
-    "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
-    "tags": [
-      "LLM"
-    ],
-    "date": "Thu, 04 Jun 2026 20:44:31 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1780662535617_4",
-    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Meta may have found one way to slash its massive data center bill: tents.",
-    "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-    "tags": [
-      "Meta"
-    ],
-    "date": "Thu, 04 Jun 2026 19:33:09 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1780662540088_3",
+    "id": "rss_Wired_1780674463416_4",
     "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
     "category": "ai-news",
     "source": "Wired",
@@ -206,7 +236,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780662537734_2",
+    "id": "rss_MIT_Tech_Review_1780674461261_3",
     "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -216,10 +246,10 @@
       "AI"
     ],
     "date": "Thu, 04 Jun 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780662537734_3",
+    "id": "rss_MIT_Tech_Review_1780674461262_4",
     "title": "How courts are coping with a flood of AI-generated lawsuits",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -229,37 +259,10 @@
       "AI"
     ],
     "date": "Thu, 04 Jun 2026 10:50:18 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1780662540089_4",
-    "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
-    "link": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
-    "tags": [
-      "AI",
-      "Funding"
-    ],
-    "date": "Thu, 04 Jun 2026 10:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1780662537734_4",
-    "title": "How virtual power plants could provide energy for data centers",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,&#8230;",
-    "link": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
-    "tags": [
-      "Google"
-    ],
-    "date": "Wed, 03 Jun 2026 16:51:38 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1780662547839_0",
+    "id": "rss_Distill_1780674472217_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -269,10 +272,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1780662547839_1",
+    "id": "rss_Distill_1780674472217_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -282,10 +285,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1780662547839_2",
+    "id": "rss_Distill_1780674472217_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -293,10 +296,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1780662547839_3",
+    "id": "rss_Distill_1780674472217_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -309,7 +312,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1780662547839_4",
+    "id": "rss_Distill_1780674472217_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -317,6 +320,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
