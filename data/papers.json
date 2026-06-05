@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "id": "arxiv_1780636013768_0",
+    "name": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
+    "category": "ai",
+    "description": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typica...",
+    "link": "http://arxiv.org/abs/2606.06493v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-04T17:59:50Z",
+    "trending": false,
+    "source": "arXiv - Lizhi Yang, Junheng Li, Nehar Poddar et al."
+  },
+  {
+    "id": "arxiv_1780636013768_1",
+    "name": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+    "category": "ai",
+    "description": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysi...",
+    "link": "http://arxiv.org/abs/2606.06492v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-04T17:59:46Z",
+    "trending": false,
+    "source": "arXiv - Liliana Hotsko, Yinxi Li, Yuntian Deng et al."
+  },
+  {
+    "id": "arxiv_1780636013769_2",
+    "name": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
+    "category": "ai",
+    "description": "Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise motion. Yet existing Vision-Language-Action models (VL...",
+    "link": "http://arxiv.org/abs/2606.06491v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-04T17:59:40Z",
+    "trending": false,
+    "source": "arXiv - Dong Jing, Jingchen Nie, Tianqi Zhang et al."
+  },
+  {
+    "id": "arxiv_1780636013769_3",
+    "name": "Regret Minimization with Adaptive Opponents in Repeated Games",
+    "category": "ai",
+    "description": "In this paper, we study regret minimization in repeated games with \\emph{adaptive} opponents who can respond based on histories of play. The standard metric of \\emph{external regret} in online learnin...",
+    "link": "http://arxiv.org/abs/2606.06486v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-06-04T17:59:08Z",
+    "trending": false,
+    "source": "arXiv - Mingyang Liu, Asuman Ozdaglar, Tiancheng Yu et al."
+  },
+  {
+    "id": "arxiv_1780636013769_4",
+    "name": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
+    "category": "ai",
+    "description": "As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from prog...",
+    "link": "http://arxiv.org/abs/2606.06481v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-04T17:58:05Z",
+    "trending": false,
+    "source": "arXiv - Sondos Mahmoud Bsharat, Jiacheng Liu, Xiaohan Zhao et al."
+  }
+]
