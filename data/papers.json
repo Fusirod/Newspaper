@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1780790041547_0",
+    "id": "arxiv_1780798114819_0",
     "name": "TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning",
     "category": "machine-learning",
     "description": "Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the...",
@@ -9,11 +9,11 @@
       "AI"
     ],
     "date": "2026-06-04T17:59:55Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Marius Dragoi, Ioana Pintilie, Alexandra Dragomir et al."
   },
   {
-    "id": "arxiv_1780790041335_0",
+    "id": "arxiv_1780798114608_0",
     "name": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
     "category": "ai",
     "description": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typica...",
@@ -26,7 +26,7 @@
     "source": "arXiv - Lizhi Yang, Junheng Li, Nehar Poddar et al."
   },
   {
-    "id": "arxiv_1780790041547_1",
+    "id": "arxiv_1780798114819_1",
     "name": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
     "category": "machine-learning",
     "description": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typica...",
@@ -39,7 +39,7 @@
     "source": "arXiv - Lizhi Yang, Junheng Li, Nehar Poddar et al."
   },
   {
-    "id": "arxiv_1780790041335_1",
+    "id": "arxiv_1780798114609_1",
     "name": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
     "category": "ai",
     "description": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysi...",
@@ -48,11 +48,11 @@
       "AI"
     ],
     "date": "2026-06-04T17:59:46Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Liliana Hotsko, Yinxi Li, Yuntian Deng et al."
   },
   {
-    "id": "arxiv_1780790041569_0",
+    "id": "arxiv_1780798117288_0",
     "name": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
     "category": "nlp",
     "description": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysi...",
@@ -65,7 +65,7 @@
     "source": "arXiv - Liliana Hotsko, Yinxi Li, Yuntian Deng et al."
   },
   {
-    "id": "arxiv_1780790041335_2",
+    "id": "arxiv_1780798114609_2",
     "name": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
     "category": "ai",
     "description": "Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise motion. Yet existing Vision-Language-Action models (VL...",
@@ -80,7 +80,7 @@
     "source": "arXiv - Dong Jing, Jingchen Nie, Tianqi Zhang et al."
   },
   {
-    "id": "arxiv_1780790041336_3",
+    "id": "arxiv_1780798114609_3",
     "name": "Regret Minimization with Adaptive Opponents in Repeated Games",
     "category": "ai",
     "description": "In this paper, we study regret minimization in repeated games with \\emph{adaptive} opponents who can respond based on histories of play. The standard metric of \\emph{external regret} in online learnin...",
@@ -94,7 +94,7 @@
     "source": "arXiv - Mingyang Liu, Asuman Ozdaglar, Tiancheng Yu et al."
   },
   {
-    "id": "arxiv_1780790041548_2",
+    "id": "arxiv_1780798114819_2",
     "name": "Regret Minimization with Adaptive Opponents in Repeated Games",
     "category": "machine-learning",
     "description": "In this paper, we study regret minimization in repeated games with \\emph{adaptive} opponents who can respond based on histories of play. The standard metric of \\emph{external regret} in online learnin...",
@@ -104,11 +104,11 @@
       "Optimization"
     ],
     "date": "2026-06-04T17:59:08Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Mingyang Liu, Asuman Ozdaglar, Tiancheng Yu et al."
   },
   {
-    "id": "arxiv_1780790041531_0",
+    "id": "arxiv_1780798114630_0",
     "name": "PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding",
     "category": "computer-vision",
     "description": "Recent advances in 3D multimodal large language models (3D-MLLMs) have enabled unified solutions for 3D scene understanding tasks, including visual question answering, captioning, and referring segmen...",
@@ -119,11 +119,11 @@
       "LLM"
     ],
     "date": "2026-06-04T17:59:04Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shaohui Dai, Yansong Qu, You Shen et al."
   },
   {
-    "id": "arxiv_1780790041336_4",
+    "id": "arxiv_1780798114609_4",
     "name": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
     "category": "ai",
     "description": "As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from prog...",
@@ -137,7 +137,7 @@
     "source": "arXiv - Sondos Mahmoud Bsharat, Jiacheng Liu, Xiaohan Zhao et al."
   },
   {
-    "id": "arxiv_1780790041548_3",
+    "id": "arxiv_1780798114819_3",
     "name": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
     "category": "machine-learning",
     "description": "As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from prog...",
@@ -147,11 +147,11 @@
       "Vision"
     ],
     "date": "2026-06-04T17:58:05Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Sondos Mahmoud Bsharat, Jiacheng Liu, Xiaohan Zhao et al."
   },
   {
-    "id": "arxiv_1780790041569_1",
+    "id": "arxiv_1780798117289_1",
     "name": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
     "category": "nlp",
     "description": "As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from prog...",
@@ -165,7 +165,7 @@
     "source": "arXiv - Sondos Mahmoud Bsharat, Jiacheng Liu, Xiaohan Zhao et al."
   },
   {
-    "id": "arxiv_1780790041548_4",
+    "id": "arxiv_1780798114820_4",
     "name": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
     "category": "machine-learning",
     "description": "Many real-world competitive systems require multiple decision-makers to act simultaneously under shared constraints, limited information, and repeated interaction, as in auctions, resource allocation,...",
@@ -175,11 +175,11 @@
       "Vision"
     ],
     "date": "2026-06-04T17:58:01Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Qintong Xie, Edward Koh, Xavier Cadet et al."
   },
   {
-    "id": "arxiv_1780790041531_1",
+    "id": "arxiv_1780798114631_1",
     "name": "Complexity-Balanced Diffusion Splitting",
     "category": "computer-vision",
     "description": "Standard continuous-time generative models rely on monolithic architectures that must navigate vastly different signal regimes, from isotropic noise to intricate data distributions. While scaling mode...",
@@ -193,7 +193,7 @@
     "source": "arXiv - Noam Issachar, Dani Lischinski, Raanan Fattal"
   },
   {
-    "id": "arxiv_1780790041531_2",
+    "id": "arxiv_1780798114631_2",
     "name": "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators",
     "category": "computer-vision",
     "description": "While Vision-Language Models (VLMs) have shown strong visual reasoning capabilities, their spatial reasoning abilities remain largely constrained to the observed images and text-oriented chain-of-thou...",
@@ -207,7 +207,7 @@
     "source": "arXiv - Chenming Zhu, Jingli Lin, Yilin Long et al."
   },
   {
-    "id": "arxiv_1780790041569_2",
+    "id": "arxiv_1780798117289_2",
     "name": "Self-Augmenting Retrieval for Diffusion Language Models",
     "category": "nlp",
     "description": "Discrete diffusion language models generate text by iteratively denoising an entire response in parallel. At each step, they predict tentative tokens for every masked position, committing the confiden...",
@@ -217,11 +217,11 @@
       "Diffusion"
     ],
     "date": "2026-06-04T17:56:27Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Paul Jünger, Justin Lovelace, Linxi Zhao et al."
   },
   {
-    "id": "arxiv_1780790041569_3",
+    "id": "arxiv_1780798117289_3",
     "name": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
     "category": "nlp",
     "description": "Large language model (LLM) agents are increasingly applied to long-horizon tasks such as scientific discovery and machine learning engineering (MLE), where sustained self-evolution becomes a key capab...",
@@ -233,11 +233,11 @@
       "Optimization"
     ],
     "date": "2026-06-04T17:55:59Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shangheng Du, Xiangchao Yan, Jinxin Shi et al."
   },
   {
-    "id": "arxiv_1780790041569_4",
+    "id": "arxiv_1780798117289_4",
     "name": "You Only Index Once: Cross-Layer Sparse Attention with Shared Routing",
     "category": "nlp",
     "description": "Long-context inference in modern LLMs is increasingly constrained by decoding efficiency, especially in reasoning-heavy settings where models generate long intermediate chains of thought. Existing spa...",
@@ -251,7 +251,7 @@
     "source": "arXiv - Yutao Sun, Yanqi Zhang, Li Dong et al."
   },
   {
-    "id": "arxiv_1780790041531_3",
+    "id": "arxiv_1780798114631_3",
     "name": "In-Context Multiple Instance Learning",
     "category": "computer-vision",
     "description": "Multiple Instance Learning (MIL) addresses problems where supervision is available at the level of bags of instances and has been successfully applied in fields ranging from computational pathology to...",
@@ -265,7 +265,7 @@
     "source": "arXiv - Alexander Möllers, Marvin Sextro, Julius Hense et al."
   },
   {
-    "id": "arxiv_1780790041532_4",
+    "id": "arxiv_1780798114631_4",
     "name": "A Vision-language Framework for Comparative Reasoning in Radiology",
     "category": "computer-vision",
     "description": "Medical imaging artificial intelligence has achieved strong performance in isolated image interpretation, but remains poorly aligned with radiological practice, where diagnosis and follow-up rely on c...",
@@ -275,7 +275,7 @@
       "Vision"
     ],
     "date": "2026-06-04T17:12:47Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Tengfei Zhang, Ziheng Zhao, Lisong Dai et al."
   }
 ]
