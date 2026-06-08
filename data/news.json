@@ -1,22 +1,76 @@
 [
   {
-    "id": "rss_TechCrunch_1780954237885_0",
-    "title": "Following Anthropic, OpenAI files confidentially for IPO",
+    "id": "rss_TechCrunch_1780959913683_0",
+    "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "ChatGPT-maker OpenAI has filed confidentially for an initial public offering, the company said Monday in a blog post. The filing comes a little more than week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms. OpenAI, which was last valued at $852",
-    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "description": "Tools for Humanity, Sam Altman's identify verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+    "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Mon, 08 Jun 2026 22:41:45 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1780959913683_1",
+    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+    "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 08 Jun 2026 22:39:57 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1780959917029_0",
+    "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Mystery of GPS interference across Europe raises questions about Russian motives.\n                    ",
+    "link": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 08 Jun 2026 21:56:28 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1780959918169_0",
+    "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+    "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
     "tags": [
       "AI",
       "OpenAI",
       "ChatGPT",
       "GPT"
     ],
+    "date": "Mon, 08 Jun 2026 21:31:58 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1780959913683_2",
+    "title": "OpenAI files confidentially for IPO, following Anthropic",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
     "date": "Mon, 08 Jun 2026 21:29:57 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780954237885_1",
+    "id": "rss_TechCrunch_1780959913683_3",
     "title": "Apple plays catch-up at WWDC",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -26,10 +80,10 @@
       "AI"
     ],
     "date": "Mon, 08 Jun 2026 21:15:42 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1780954241431_0",
+    "id": "rss_Ars_Technica_1780959917029_1",
     "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -37,10 +91,10 @@
     "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
     "tags": [],
     "date": "Mon, 08 Jun 2026 21:03:56 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1780954241431_1",
+    "id": "rss_Ars_Technica_1780959917029_2",
     "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -51,7 +105,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1780954237885_2",
+    "id": "rss_TechCrunch_1780959913683_4",
     "title": "Apple bets cheaper AI will woo small developers",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -64,7 +118,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1780954241431_2",
+    "id": "rss_Ars_Technica_1780959917029_3",
     "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -77,20 +131,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1780954237886_3",
-    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI. ",
-    "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 08 Jun 2026 19:41:32 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1780954241431_3",
+    "id": "rss_Ars_Technica_1780959917029_4",
     "title": "The fastest humans in the galaxy just got a spiffy patch to prove it",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -98,37 +139,10 @@
     "link": "https://arstechnica.com/space/2026/06/artemis-ii-crew-flew-fast-earned-new-patch-astronauts-mach-39-emblem/",
     "tags": [],
     "date": "Mon, 08 Jun 2026 19:40:05 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1780954241431_4",
-    "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        New features coming this fall alongside two-tiered, Google-powered AI model overhaul.\n                    ",
-    "link": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Mon, 08 Jun 2026 19:30:05 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1780954237886_4",
-    "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
-    "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 08 Jun 2026 18:48:45 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1780954242488_0",
+    "id": "rss_Wired_1780959918169_1",
     "title": "Apple’s New Siri AI Is Ready to Get Personal",
     "category": "ai-news",
     "source": "Wired",
@@ -139,10 +153,10 @@
       "Google"
     ],
     "date": "Mon, 08 Jun 2026 18:17:44 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1780954242488_1",
+    "id": "rss_Wired_1780959918169_2",
     "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
     "category": "ai-news",
     "source": "Wired",
@@ -156,7 +170,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1780954242488_2",
+    "id": "rss_Wired_1780959918169_3",
     "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
     "category": "ai-news",
     "source": "Wired",
@@ -170,7 +184,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780954240007_0",
+    "id": "rss_MIT_Tech_Review_1780959915775_0",
     "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -181,10 +195,10 @@
       "OpenAI"
     ],
     "date": "Mon, 08 Jun 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1780954242488_3",
+    "id": "rss_Wired_1780959918169_4",
     "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
     "category": "ai-news",
     "source": "Wired",
@@ -196,10 +210,10 @@
       "GPT"
     ],
     "date": "Mon, 08 Jun 2026 10:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1780954240007_1",
+    "id": "rss_MIT_Tech_Review_1780959915776_1",
     "title": "Why this year’s World Cup ball may not fly as far",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -210,21 +224,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1780954242488_4",
-    "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
-    "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Sat, 06 Jun 2026 10:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1780954240007_2",
+    "id": "rss_MIT_Tech_Review_1780959915776_2",
     "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -239,7 +239,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780954240007_3",
+    "id": "rss_MIT_Tech_Review_1780959915776_3",
     "title": "Are AI chatbots making us lose control of our brains?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -253,7 +253,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1780954240007_4",
+    "id": "rss_MIT_Tech_Review_1780959915776_4",
     "title": "The Meta hack shows there’s more to AI security than Mythos",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -267,7 +267,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1780954251367_0",
+    "id": "rss_Distill_1780959926116_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -280,7 +280,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1780954251367_1",
+    "id": "rss_Distill_1780959926116_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -293,7 +293,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1780954251367_2",
+    "id": "rss_Distill_1780959926116_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -301,10 +301,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1780954251367_3",
+    "id": "rss_Distill_1780959926116_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -317,7 +317,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1780954251367_4",
+    "id": "rss_Distill_1780959926116_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
