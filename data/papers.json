@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1780936885481_0",
+    "id": "arxiv_1780945944253_0",
     "name": "How reliable are LLMs when it comes to playing dice?",
     "category": "ai",
     "description": "We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a s...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Luca Avena, Gianmarco Bet, Bernardo Busoni"
   },
   {
-    "id": "arxiv_1780936885854_0",
+    "id": "arxiv_1780945944463_0",
     "name": "How reliable are LLMs when it comes to playing dice?",
     "category": "nlp",
     "description": "We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a s...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Luca Avena, Gianmarco Bet, Bernardo Busoni"
   },
   {
-    "id": "arxiv_1780936885695_0",
+    "id": "arxiv_1780945944321_0",
     "name": "UniSHARP: Universal Sharp Monocular View Synthesis",
     "category": "computer-vision",
     "description": "In this work, we focus on extending SHARP, the popular photorealistic view synthesis method, for universal monocular rendering across a continuum of camera systems, from conventional perspective camer...",
@@ -41,7 +41,7 @@
     "source": "arXiv - Meixi Song, Dizhe Zhang, Hao Ren et al."
   },
   {
-    "id": "arxiv_1780936885854_1",
+    "id": "arxiv_1780945944463_1",
     "name": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
     "category": "nlp",
     "description": "Humans learn from social life. Simulating this process with LLM-powered agents represents a promising research direction, raising a natural question: whether LLMs can learn from such simulated social ...",
@@ -51,11 +51,11 @@
       "LLM"
     ],
     "date": "2026-06-05T17:59:31Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xintao Wang, Sirui Zheng, Hongqiu Wu et al."
   },
   {
-    "id": "arxiv_1780936885481_1",
+    "id": "arxiv_1780945944253_1",
     "name": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
     "category": "ai",
     "description": "Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduc...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Cong Chen, Guo Gan, Kaixiang Ji et al."
   },
   {
-    "id": "arxiv_1780936885696_1",
+    "id": "arxiv_1780945944322_1",
     "name": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
     "category": "computer-vision",
     "description": "Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduc...",
@@ -83,7 +83,7 @@
     "source": "arXiv - Cong Chen, Guo Gan, Kaixiang Ji et al."
   },
   {
-    "id": "arxiv_1780936885854_2",
+    "id": "arxiv_1780945944463_2",
     "name": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
     "category": "nlp",
     "description": "Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduc...",
@@ -97,7 +97,7 @@
     "source": "arXiv - Cong Chen, Guo Gan, Kaixiang Ji et al."
   },
   {
-    "id": "arxiv_1780936885696_2",
+    "id": "arxiv_1780945944323_2",
     "name": "Streaming Video Generation with Streaming Force Control",
     "category": "computer-vision",
     "description": "We introduce StreamForce, a streaming video generation framework that enables physically grounded control through continuous force inputs. Unlike prior video models that train separate models for diff...",
@@ -110,7 +110,7 @@
     "source": "arXiv - Hanhui Wang, Yiming Xie, Haiwen Feng et al."
   },
   {
-    "id": "arxiv_1780936885696_3",
+    "id": "arxiv_1780945944323_3",
     "name": "Differences in Detection: Explainability Where it Matters",
     "category": "computer-vision",
     "description": "We propose Differences in Detection (DnD), an intuitive method to compare two object detection models. Based on the same matching algorithm, it complements the standard metrics of mean Average Precisi...",
@@ -119,11 +119,11 @@
       "AI"
     ],
     "date": "2026-06-05T17:54:58Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Johannes Theodoridis, Johannes Maucher, Andreas Schilling"
   },
   {
-    "id": "arxiv_1780936885854_3",
+    "id": "arxiv_1780945944463_3",
     "name": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
     "category": "nlp",
     "description": "Large language models exhibit impressive zero-shot capabilities across a wide range of downstream tasks. However, they struggle to function as off-the-shelf embedding models, leading to suboptimal per...",
@@ -137,23 +137,9 @@
     "source": "arXiv - Songhao Wu, Zhongxin Chen, Yuxuan Liu et al."
   },
   {
-    "id": "arxiv_1780936885481_2",
+    "id": "arxiv_1780945944253_2",
     "name": "Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning",
     "category": "ai",
-    "description": "Continual learning in Large Language Models (LLMs) is hindered by the plasticity-stability dilemma, where acquiring new capabilities often leads to catastrophic forgetting of previous knowledge. Exist...",
-    "link": "http://arxiv.org/abs/2606.07500v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-05T17:53:52Z",
-    "trending": true,
-    "source": "arXiv - Fatema Siddika, Md Anwar Hossen, Tanwi Mallick et al."
-  },
-  {
-    "id": "arxiv_1780936885775_0",
-    "name": "Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning",
-    "category": "machine-learning",
     "description": "Continual learning in Large Language Models (LLMs) is hindered by the plasticity-stability dilemma, where acquiring new capabilities often leads to catastrophic forgetting of previous knowledge. Exist...",
     "link": "http://arxiv.org/abs/2606.07500v1",
     "tags": [
@@ -165,7 +151,21 @@
     "source": "arXiv - Fatema Siddika, Md Anwar Hossen, Tanwi Mallick et al."
   },
   {
-    "id": "arxiv_1780936885696_4",
+    "id": "arxiv_1780945944390_0",
+    "name": "Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning",
+    "category": "machine-learning",
+    "description": "Continual learning in Large Language Models (LLMs) is hindered by the plasticity-stability dilemma, where acquiring new capabilities often leads to catastrophic forgetting of previous knowledge. Exist...",
+    "link": "http://arxiv.org/abs/2606.07500v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-05T17:53:52Z",
+    "trending": true,
+    "source": "arXiv - Fatema Siddika, Md Anwar Hossen, Tanwi Mallick et al."
+  },
+  {
+    "id": "arxiv_1780945944323_4",
     "name": "Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation",
     "category": "computer-vision",
     "description": "Scientific observations generate large quantities of unlabeled data which is laborious to hand-label, making unsupervised learning techniques valuable for processing datasets. Among these approaches, ...",
@@ -178,7 +178,7 @@
     "source": "arXiv - Patrick Kage, Trevor Hedges, N. Siddharth et al."
   },
   {
-    "id": "arxiv_1780936885775_1",
+    "id": "arxiv_1780945944390_1",
     "name": "Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization",
     "category": "machine-learning",
     "description": "Decentralized stochastic optimization is a fundamental paradigm for large-scale learning over networks, where agents communicate only with their neighbors and no central coordinator is required. For s...",
@@ -188,11 +188,11 @@
       "Optimization"
     ],
     "date": "2026-06-05T17:51:11Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ming Sun, Kun Yuan"
   },
   {
-    "id": "arxiv_1780936885775_2",
+    "id": "arxiv_1780945944390_2",
     "name": "Second-Order Path Kernel Interpolation Formulas in Machine Learning",
     "category": "machine-learning",
     "description": "Understanding how training data shape neural network predictions is a central problem in modern learning theory. In 2020, Pedro Domingos proposed an interpolation formula valid for every model learned...",
@@ -204,11 +204,11 @@
       "Optimization"
     ],
     "date": "2026-06-05T17:49:19Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jin Guo, Roy Y. He, Jean-Michel Morel"
   },
   {
-    "id": "arxiv_1780936885775_3",
+    "id": "arxiv_1780945944390_3",
     "name": "Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies",
     "category": "machine-learning",
     "description": "The ranking of recommendation algorithms is a challenging problem since model performance is sensitive to dataset characteristics such as sparsity, sequential structure, and scale. This drives a deman...",
@@ -221,7 +221,7 @@
     "source": "arXiv - Ekaterina Grishina, Stepan Kuznetsov, Askar Tsyganov et al."
   },
   {
-    "id": "arxiv_1780936885481_3",
+    "id": "arxiv_1780945944253_3",
     "name": "Twelve quick tips for designing AI-driven HPC workflows",
     "category": "ai",
     "description": "High-performance computing (HPC) clusters remain the backbone of large-scale scientific computation, traditionally executing deterministic, linear pipelines optimised for predictable performance. Howe...",
@@ -234,7 +234,7 @@
     "source": "arXiv - Jamie J. Alnasir"
   },
   {
-    "id": "arxiv_1780936885775_4",
+    "id": "arxiv_1780945944390_4",
     "name": "Twelve quick tips for designing AI-driven HPC workflows",
     "category": "machine-learning",
     "description": "High-performance computing (HPC) clusters remain the backbone of large-scale scientific computation, traditionally executing deterministic, linear pipelines optimised for predictable performance. Howe...",
@@ -247,7 +247,7 @@
     "source": "arXiv - Jamie J. Alnasir"
   },
   {
-    "id": "arxiv_1780936885482_4",
+    "id": "arxiv_1780945944253_4",
     "name": "How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope",
     "category": "ai",
     "description": "Frontier AI systems are bridging the gap between intelligence and utility by shifting from conversational assistants to autonomous agents that execute tasks end to end. Using production data from Perp...",
@@ -260,7 +260,7 @@
     "source": "arXiv - Jeremy Yang, Kate Zyskowski, Noah Yonack et al."
   },
   {
-    "id": "arxiv_1780936885855_4",
+    "id": "arxiv_1780945944464_4",
     "name": "Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification",
     "category": "nlp",
     "description": "Turkish idiomatic light verb constructions (LVCs) are challenging for multiword expression processing because they often share the same surface form as fully literal verb-object combinations while fun...",
