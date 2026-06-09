@@ -1,278 +1,291 @@
 [
   {
-    "id": "arxiv_1780959913316_0",
-    "name": "How reliable are LLMs when it comes to playing dice?",
-    "category": "ai",
-    "description": "We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a s...",
-    "link": "http://arxiv.org/abs/2606.07515v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-05T17:59:42Z",
-    "trending": false,
-    "source": "arXiv - Luca Avena, Gianmarco Bet, Bernardo Busoni"
-  },
-  {
-    "id": "arxiv_1780959913536_0",
-    "name": "How reliable are LLMs when it comes to playing dice?",
+    "id": "arxiv_1780969855873_0",
+    "name": "Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs",
     "category": "nlp",
-    "description": "We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a s...",
-    "link": "http://arxiv.org/abs/2606.07515v1",
+    "description": "We present a multilingual fact-checking system deployed at Factiverse, designed for high-throughput and low-latency operation across diverse languages. The system follows a modular pipeline with three...",
+    "link": "http://arxiv.org/abs/2606.08605v1",
     "tags": [
       "AI",
-      "LLM"
+      "LLM",
+      "GPT",
+      "BERT"
     ],
-    "date": "2026-06-05T17:59:42Z",
-    "trending": false,
-    "source": "arXiv - Luca Avena, Gianmarco Bet, Bernardo Busoni"
+    "date": "2026-06-07T12:33:43Z",
+    "trending": true,
+    "source": "arXiv - Pratuat Amatya, Vinay Setty"
   },
   {
-    "id": "arxiv_1780959913507_0",
-    "name": "UniSHARP: Universal Sharp Monocular View Synthesis",
-    "category": "computer-vision",
-    "description": "In this work, we focus on extending SHARP, the popular photorealistic view synthesis method, for universal monocular rendering across a continuum of camera systems, from conventional perspective camer...",
-    "link": "http://arxiv.org/abs/2606.07514v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-05T17:59:41Z",
-    "trending": false,
-    "source": "arXiv - Meixi Song, Dizhe Zhang, Hao Ren et al."
-  },
-  {
-    "id": "arxiv_1780959913536_1",
-    "name": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
-    "category": "nlp",
-    "description": "Humans learn from social life. Simulating this process with LLM-powered agents represents a promising research direction, raising a natural question: whether LLMs can learn from such simulated social ...",
-    "link": "http://arxiv.org/abs/2606.07513v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-05T17:59:31Z",
-    "trending": false,
-    "source": "arXiv - Xintao Wang, Sirui Zheng, Hongqiu Wu et al."
-  },
-  {
-    "id": "arxiv_1780959913316_1",
-    "name": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
+    "id": "arxiv_1780969855807_0",
+    "name": "Reinforcement Learning for Flow-Matching Policies with Density Transport",
     "category": "ai",
-    "description": "Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduc...",
-    "link": "http://arxiv.org/abs/2606.07512v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-05T17:59:21Z",
-    "trending": false,
-    "source": "arXiv - Cong Chen, Guo Gan, Kaixiang Ji et al."
-  },
-  {
-    "id": "arxiv_1780959913508_1",
-    "name": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
-    "category": "computer-vision",
-    "description": "Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduc...",
-    "link": "http://arxiv.org/abs/2606.07512v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-05T17:59:21Z",
-    "trending": false,
-    "source": "arXiv - Cong Chen, Guo Gan, Kaixiang Ji et al."
-  },
-  {
-    "id": "arxiv_1780959913536_2",
-    "name": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
-    "category": "nlp",
-    "description": "Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduc...",
-    "link": "http://arxiv.org/abs/2606.07512v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-05T17:59:21Z",
-    "trending": false,
-    "source": "arXiv - Cong Chen, Guo Gan, Kaixiang Ji et al."
-  },
-  {
-    "id": "arxiv_1780959913508_2",
-    "name": "Streaming Video Generation with Streaming Force Control",
-    "category": "computer-vision",
-    "description": "We introduce StreamForce, a streaming video generation framework that enables physically grounded control through continuous force inputs. Unlike prior video models that train separate models for diff...",
-    "link": "http://arxiv.org/abs/2606.07508v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-05T17:57:32Z",
-    "trending": false,
-    "source": "arXiv - Hanhui Wang, Yiming Xie, Haiwen Feng et al."
-  },
-  {
-    "id": "arxiv_1780959913508_3",
-    "name": "Differences in Detection: Explainability Where it Matters",
-    "category": "computer-vision",
-    "description": "We propose Differences in Detection (DnD), an intuitive method to compare two object detection models. Based on the same matching algorithm, it complements the standard metrics of mean Average Precisi...",
-    "link": "http://arxiv.org/abs/2606.07503v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-05T17:54:58Z",
-    "trending": true,
-    "source": "arXiv - Johannes Theodoridis, Johannes Maucher, Andreas Schilling"
-  },
-  {
-    "id": "arxiv_1780959913536_3",
-    "name": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
-    "category": "nlp",
-    "description": "Large language models exhibit impressive zero-shot capabilities across a wide range of downstream tasks. However, they struggle to function as off-the-shelf embedding models, leading to suboptimal per...",
-    "link": "http://arxiv.org/abs/2606.07502v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-05T17:54:32Z",
-    "trending": false,
-    "source": "arXiv - Songhao Wu, Zhongxin Chen, Yuxuan Liu et al."
-  },
-  {
-    "id": "arxiv_1780959913317_2",
-    "name": "Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning",
-    "category": "ai",
-    "description": "Continual learning in Large Language Models (LLMs) is hindered by the plasticity-stability dilemma, where acquiring new capabilities often leads to catastrophic forgetting of previous knowledge. Exist...",
-    "link": "http://arxiv.org/abs/2606.07500v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-05T17:53:52Z",
-    "trending": false,
-    "source": "arXiv - Fatema Siddika, Md Anwar Hossen, Tanwi Mallick et al."
-  },
-  {
-    "id": "arxiv_1780959913522_0",
-    "name": "Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning",
-    "category": "machine-learning",
-    "description": "Continual learning in Large Language Models (LLMs) is hindered by the plasticity-stability dilemma, where acquiring new capabilities often leads to catastrophic forgetting of previous knowledge. Exist...",
-    "link": "http://arxiv.org/abs/2606.07500v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-05T17:53:52Z",
-    "trending": false,
-    "source": "arXiv - Fatema Siddika, Md Anwar Hossen, Tanwi Mallick et al."
-  },
-  {
-    "id": "arxiv_1780959913509_4",
-    "name": "Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation",
-    "category": "computer-vision",
-    "description": "Scientific observations generate large quantities of unlabeled data which is laborious to hand-label, making unsupervised learning techniques valuable for processing datasets. Among these approaches, ...",
-    "link": "http://arxiv.org/abs/2606.07498v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-05T17:52:09Z",
-    "trending": false,
-    "source": "arXiv - Patrick Kage, Trevor Hedges, N. Siddharth et al."
-  },
-  {
-    "id": "arxiv_1780959913522_1",
-    "name": "Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization",
-    "category": "machine-learning",
-    "description": "Decentralized stochastic optimization is a fundamental paradigm for large-scale learning over networks, where agents communicate only with their neighbors and no central coordinator is required. For s...",
-    "link": "http://arxiv.org/abs/2606.07496v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-06-05T17:51:11Z",
-    "trending": true,
-    "source": "arXiv - Ming Sun, Kun Yuan"
-  },
-  {
-    "id": "arxiv_1780959913522_2",
-    "name": "Second-Order Path Kernel Interpolation Formulas in Machine Learning",
-    "category": "machine-learning",
-    "description": "Understanding how training data shape neural network predictions is a central problem in modern learning theory. In 2020, Pedro Domingos proposed an interpolation formula valid for every model learned...",
-    "link": "http://arxiv.org/abs/2606.07495v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Machine Learning",
-      "Optimization"
-    ],
-    "date": "2026-06-05T17:49:19Z",
-    "trending": true,
-    "source": "arXiv - Jin Guo, Roy Y. He, Jean-Michel Morel"
-  },
-  {
-    "id": "arxiv_1780959913522_3",
-    "name": "Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies",
-    "category": "machine-learning",
-    "description": "The ranking of recommendation algorithms is a challenging problem since model performance is sensitive to dataset characteristics such as sparsity, sequential structure, and scale. This drives a deman...",
-    "link": "http://arxiv.org/abs/2606.07492v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-05T17:46:36Z",
-    "trending": true,
-    "source": "arXiv - Ekaterina Grishina, Stepan Kuznetsov, Askar Tsyganov et al."
-  },
-  {
-    "id": "arxiv_1780959913317_3",
-    "name": "Twelve quick tips for designing AI-driven HPC workflows",
-    "category": "ai",
-    "description": "High-performance computing (HPC) clusters remain the backbone of large-scale scientific computation, traditionally executing deterministic, linear pipelines optimised for predictable performance. Howe...",
-    "link": "http://arxiv.org/abs/2606.07491v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-05T17:46:32Z",
-    "trending": true,
-    "source": "arXiv - Jamie J. Alnasir"
-  },
-  {
-    "id": "arxiv_1780959913522_4",
-    "name": "Twelve quick tips for designing AI-driven HPC workflows",
-    "category": "machine-learning",
-    "description": "High-performance computing (HPC) clusters remain the backbone of large-scale scientific computation, traditionally executing deterministic, linear pipelines optimised for predictable performance. Howe...",
-    "link": "http://arxiv.org/abs/2606.07491v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-05T17:46:32Z",
-    "trending": false,
-    "source": "arXiv - Jamie J. Alnasir"
-  },
-  {
-    "id": "arxiv_1780959913317_4",
-    "name": "How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope",
-    "category": "ai",
-    "description": "Frontier AI systems are bridging the gap between intelligence and utility by shifting from conversational assistants to autonomous agents that execute tasks end to end. Using production data from Perp...",
-    "link": "http://arxiv.org/abs/2606.07489v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-05T17:45:39Z",
-    "trending": false,
-    "source": "arXiv - Jeremy Yang, Kate Zyskowski, Noah Yonack et al."
-  },
-  {
-    "id": "arxiv_1780959913536_4",
-    "name": "Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification",
-    "category": "nlp",
-    "description": "Turkish idiomatic light verb constructions (LVCs) are challenging for multiword expression processing because they often share the same surface form as fully literal verb-object combinations while fun...",
-    "link": "http://arxiv.org/abs/2606.07479v1",
+    "description": "We present an online reinforcement learning (RL) algorithm for fine-tuning flow-matching policies in continuous-control problems. Our key insight is to view RL-based policy improvement as a transport ...",
+    "link": "http://arxiv.org/abs/2606.08602v1",
     "tags": [
       "AI",
       "Vision",
-      "LLM",
-      "GPT"
+      "Reinforcement Learning",
+      "Optimization"
     ],
-    "date": "2026-06-05T17:34:07Z",
+    "date": "2026-06-07T12:28:51Z",
     "trending": false,
-    "source": "arXiv - Sercan Karakaş, Yusuf Şimşek"
+    "source": "arXiv - Boshu Lei, Kostas Daniilidis, Antonio Loquercio"
+  },
+  {
+    "id": "arxiv_1780969855847_0",
+    "name": "Reinforcement Learning for Flow-Matching Policies with Density Transport",
+    "category": "machine-learning",
+    "description": "We present an online reinforcement learning (RL) algorithm for fine-tuning flow-matching policies in continuous-control problems. Our key insight is to view RL-based policy improvement as a transport ...",
+    "link": "http://arxiv.org/abs/2606.08602v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-06-07T12:28:51Z",
+    "trending": false,
+    "source": "arXiv - Boshu Lei, Kostas Daniilidis, Antonio Loquercio"
+  },
+  {
+    "id": "arxiv_1780969855808_1",
+    "name": "InA-Probe: Instruction-Aware Active Probing for Time Series Forecasting with LLMs",
+    "category": "ai",
+    "description": "Large Language Models (LLMs) have recently demonstrated impressive potential for time series forecasting. However, existing methods predominantly rely on passive modality alignment or static task repr...",
+    "link": "http://arxiv.org/abs/2606.08601v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "LLM"
+    ],
+    "date": "2026-06-07T12:27:13Z",
+    "trending": false,
+    "source": "arXiv - Peiliang Gong, Emadeldeen Eldele, Chenyu Liu et al."
+  },
+  {
+    "id": "arxiv_1780969855808_2",
+    "name": "Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration",
+    "category": "ai",
+    "description": "Constructing efficient and reliable policies to assist humans is indispensable for human-AI collaboration. Existing methods mainly follow two lines of work. Most prior work relies on multi-agent reinf...",
+    "link": "http://arxiv.org/abs/2606.08596v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-07T12:20:32Z",
+    "trending": false,
+    "source": "arXiv - Beiwen Zhang, Yongheng Liang, Guowei Zou et al."
+  },
+  {
+    "id": "arxiv_1780969855848_1",
+    "name": "How Much Capacity Does EEG Denoising Need? Ultra-Compact Networks reveal Benchmark Saturation and Metric-Utility Gap",
+    "category": "machine-learning",
+    "description": "Deep learning EEG denoising architectures have scaled from tens of thousands to tens of millions of parameters, yet no prior study has isolated model capacity as the experimental variable or tested wh...",
+    "link": "http://arxiv.org/abs/2606.08594v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Deep Learning",
+      "Transformer"
+    ],
+    "date": "2026-06-07T12:17:25Z",
+    "trending": false,
+    "source": "arXiv - Jasmeet Singh Bindra, Siddharth Panwar, Shubhajit Roy Chowdhury"
+  },
+  {
+    "id": "arxiv_1780969855848_2",
+    "name": "Quantum Global Variational Learning for Quantum Error Correction",
+    "category": "machine-learning",
+    "description": "Efficient quantum error correction is essential for the advancement of quantum computing. We propose a quantum neural network with a global structure that reduces the number of unitary matrices requir...",
+    "link": "http://arxiv.org/abs/2606.08592v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-06-07T12:11:04Z",
+    "trending": false,
+    "source": "arXiv - Shun Ryuzaki, Hideo Mukai"
+  },
+  {
+    "id": "arxiv_1780969855808_3",
+    "name": "Auditable Graph-Guided Root Cause Analysis for Kubernetes Incidents",
+    "category": "ai",
+    "description": "Kubernetes incidents are diagnosed reliably only when a root-cause system's reported gains come from incident evidence rather than scenario-specific shortcuts. We present Graph Traversal Agent, a grap...",
+    "link": "http://arxiv.org/abs/2606.08590v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-07T12:05:09Z",
+    "trending": false,
+    "source": "arXiv - Anastasiia Kuvshinova, Seungmin Jin"
+  },
+  {
+    "id": "arxiv_1780969855873_1",
+    "name": "Detection and Interpretability Analysis of Quotation Errors by Large Language Models",
+    "category": "nlp",
+    "description": "Purpose - Quotation error refers to the inconsistency between cited information and its original source. This phenomenon leads to a series of negative impacts, such as misinterpretation of the origina...",
+    "link": "http://arxiv.org/abs/2606.08589v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-07T12:01:48Z",
+    "trending": false,
+    "source": "arXiv - Bei Huang, Yingyi Zhang, Shenghao Huang et al."
+  },
+  {
+    "id": "arxiv_1780969855848_3",
+    "name": "Improving the sharpness in neural network-based parametric post-processing of ensemble forecasts",
+    "category": "machine-learning",
+    "description": "Statistical post-processing has proven to be an effective tool in improving ensemble forecast of different weather variables. Case studies show that post-processing can remedy the typically underdispe...",
+    "link": "http://arxiv.org/abs/2606.08587v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-06-07T11:57:09Z",
+    "trending": false,
+    "source": "arXiv - Ágnes Baran, Máté Mihalina"
+  },
+  {
+    "id": "arxiv_1780969855848_4",
+    "name": "Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi 2",
+    "category": "machine-learning",
+    "description": "Sparse coding provides a principled framework for signal representation by expressing an input as a linear combination of only a small number of basis functions. The Locally Competitive Algorithm (LCA...",
+    "link": "http://arxiv.org/abs/2606.08584v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-07T11:44:40Z",
+    "trending": true,
+    "source": "arXiv - Geoffrey Kasenbacher, Daniel Ruepp, Gerrit A. Ecke"
+  },
+  {
+    "id": "arxiv_1780969855833_0",
+    "name": "OrderDP: A Theoretically Guaranteed Lossless Dynamic Data Pruning Framework",
+    "category": "computer-vision",
+    "description": "Data pruning (DP), as an oft-stated strategy to alleviate heavy training burdens, reduces the volume of training samples according to a well-defined pruning method while striving for near-lossless per...",
+    "link": "http://arxiv.org/abs/2606.08574v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-07T11:11:51Z",
+    "trending": false,
+    "source": "arXiv - Chenhan Jin, Shengze Xu, Qingsong Wang et al."
+  },
+  {
+    "id": "arxiv_1780969855873_2",
+    "name": "Titans-as-a-Layer: Test-Time Memory for Conversational Speech Emotion Recognition",
+    "category": "nlp",
+    "description": "Speech emotion recognition (SER) is commonly formulated as utterance-level classification, although conversational emotion depends on a speaker's usual vocal range and the emotional context establishe...",
+    "link": "http://arxiv.org/abs/2606.08573v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "LLM"
+    ],
+    "date": "2026-06-07T11:07:30Z",
+    "trending": false,
+    "source": "arXiv - Daniel Chen, Qicong Hu, Yang Xiao et al."
+  },
+  {
+    "id": "arxiv_1780969855834_1",
+    "name": "OmniCap-IF: Benchmarking and Improving Instruction Following Abilities for Omni-Video Captioning",
+    "category": "computer-vision",
+    "description": "While Omni-modal Large Language Models (OLLMs) have demonstrated impressive capabilities in jointly processing audio and visual streams, their ability to strictly adhere to complex, multi-faceted user...",
+    "link": "http://arxiv.org/abs/2606.08572v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-07T11:03:33Z",
+    "trending": false,
+    "source": "arXiv - Jiahao Wang, An Ping, Yanghai Wang et al."
+  },
+  {
+    "id": "arxiv_1780969855808_4",
+    "name": "Calibration of Structured Ignorance Certificates for Diagnosing Unknown Unknowns in Reasoning Models",
+    "category": "ai",
+    "description": "Large language models frequently fail in a characteristic way: rather than acknowledging ignorance, they produce fluent but incorrect answers to questions that lie beyond their knowledge boundaries. W...",
+    "link": "http://arxiv.org/abs/2606.08571v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-06-07T11:01:13Z",
+    "trending": false,
+    "source": "arXiv - Subramanyam Sahoo"
+  },
+  {
+    "id": "arxiv_1780969855873_3",
+    "name": "Calibration of Structured Ignorance Certificates for Diagnosing Unknown Unknowns in Reasoning Models",
+    "category": "nlp",
+    "description": "Large language models frequently fail in a characteristic way: rather than acknowledging ignorance, they produce fluent but incorrect answers to questions that lie beyond their knowledge boundaries. W...",
+    "link": "http://arxiv.org/abs/2606.08571v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-06-07T11:01:13Z",
+    "trending": true,
+    "source": "arXiv - Subramanyam Sahoo"
+  },
+  {
+    "id": "arxiv_1780969855834_2",
+    "name": "Towards Accurate Emotion-Attributed Video Captioning via Fine-grained Emotion-Cause Pair Extraction",
+    "category": "computer-vision",
+    "description": "Emotional Video Captioning (EVC) is a challenging task that aims to generate factually accurate and emotionally rich descriptions for videos. Existing EVC methods leverage holistic visual features to ...",
+    "link": "http://arxiv.org/abs/2606.08566v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-07T10:43:41Z",
+    "trending": true,
+    "source": "arXiv - Weidong Chen, Cheng Ye, Zhendong Mao et al."
+  },
+  {
+    "id": "arxiv_1780969855873_4",
+    "name": "Inside the LLM Word Factory",
+    "category": "nlp",
+    "description": "Transformer language models process input provided as subword fragments, but natural language semantics usually rely on word-level concepts. Detokenization is the process where models reconcile these ...",
+    "link": "http://arxiv.org/abs/2606.08562v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "LLM"
+    ],
+    "date": "2026-06-07T10:36:20Z",
+    "trending": false,
+    "source": "arXiv - Benzi Busigin, Yuval Pinter"
+  },
+  {
+    "id": "arxiv_1780969855834_3",
+    "name": "When Video Misreads: Closed-Loop Distillation of Reading Heuristics for Exploratory Manipulation Trace QA",
+    "category": "computer-vision",
+    "description": "Exploratory manipulation often turns an apparent failed attempt into the key evidence for what to do next. For example, a robot pulls a locked cabinet drawer, fails, and only succeeds after opening th...",
+    "link": "http://arxiv.org/abs/2606.08542v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-07T09:49:40Z",
+    "trending": false,
+    "source": "arXiv - Haizhou Ge, Yufei Jia, Yue Li et al."
+  },
+  {
+    "id": "arxiv_1780969855834_4",
+    "name": "NGram-MoSE: Efficient Remote Sensing Super-Resolution via N-Gram Context and Mixture-of-Experts",
+    "category": "computer-vision",
+    "description": "Remote sensing applications for environmental monitoring and disaster management are frequently constrained by a spatial--temporal trade-off: imagery with fine spatial detail is often acquired less fr...",
+    "link": "http://arxiv.org/abs/2606.08535v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-06-07T09:30:49Z",
+    "trending": false,
+    "source": "arXiv - Yun-Hsuan Huang, Trong-An Bui, Chih-Hung Chuang"
   }
 ]
