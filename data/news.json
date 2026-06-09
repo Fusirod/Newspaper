@@ -1,7 +1,69 @@
 [
   {
-    "id": "rss_Ars_Technica_1781020113229_0",
-    "title": "US military claims first drone boat rescue of downed helicopter crew",
+    "id": "rss_Ars_Technica_1781027383304_0",
+    "title": "Screwworms in US: Human risk is low—but they can burrow through your skull",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The chances are low, but not zero.\n                    ",
+    "link": "https://arstechnica.com/health/2026/06/screwworms-in-us-human-risk-is-low-but-they-can-burrow-through-your-skull/",
+    "tags": [],
+    "date": "Tue, 09 Jun 2026 17:09:10 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1781027384388_0",
+    "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
+    "link": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+    "tags": [],
+    "date": "Tue, 09 Jun 2026 17:00:46 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1781027379979_0",
+    "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+    "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 09 Jun 2026 17:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1781027383304_1",
+    "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Meta won't say why or whether it's coming back.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
+    "tags": [
+      "Meta"
+    ],
+    "date": "Tue, 09 Jun 2026 16:31:10 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1781027379979_1",
+    "title": "It’s not FAANG anymore. It’s MANGOS.",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+    "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Tue, 09 Jun 2026 16:09:14 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1781027383304_2",
+    "title": "Drone boat picked up downed US Army helicopter pilots—a first for sea rescues",
     "category": "ai-news",
     "source": "Ars Technica",
     "description": "\n                        US Navy’s Task Force 59 achieved the drone rescue at sea near Strait of Hormuz.\n                    ",
@@ -10,10 +72,10 @@
       "AI"
     ],
     "date": "Tue, 09 Jun 2026 15:44:36 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1781020113229_1",
+    "id": "rss_Ars_Technica_1781027383304_3",
     "title": "High-severity vulnerability in Linux caused by a single errant character",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -21,10 +83,10 @@
     "link": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
     "tags": [],
     "date": "Tue, 09 Jun 2026 15:12:43 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1781020113229_2",
+    "id": "rss_Ars_Technica_1781027383304_4",
     "title": "Gold isn’t inert, it just has bodyguards protecting it",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -32,25 +94,14 @@
     "link": "https://arstechnica.com/science/2026/06/gold-isnt-inert-it-just-has-bodyguards-protecting-it/",
     "tags": [],
     "date": "Tue, 09 Jun 2026 14:23:59 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1781020113229_3",
-    "title": "Here's Audi's next Q7 SUV and US-only SQ7, now with an RS V8",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        At night, the car projects its turn signals onto the road to alert other road users.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/06/heres-audis-next-q7-suv-and-us-only-sq7-now-with-an-rs-v8/",
-    "tags": [],
-    "date": "Tue, 09 Jun 2026 14:00:20 +0000",
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1781020109309_0",
+    "id": "rss_TechCrunch_1781027379979_2",
     "title": "Sandstone raises $30M to bring AI to in-house legal teams",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+    "description": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
     "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
     "tags": [
       "AI"
@@ -59,21 +110,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1781020113229_4",
-    "title": "Apple says its AI is still private, even when it's running on Google's servers",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Some models run in Google's cloud, but without giving Google any kind of access.\n                    ",
-    "link": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Tue, 09 Jun 2026 13:05:49 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1781020109309_1",
+    "id": "rss_TechCrunch_1781027379979_3",
     "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -84,7 +121,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781020111753_0",
+    "id": "rss_MIT_Tech_Review_1781027382083_0",
     "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -94,10 +131,10 @@
       "AI"
     ],
     "date": "Tue, 09 Jun 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1781020109309_2",
+    "id": "rss_TechCrunch_1781027379979_4",
     "title": "How an e-scooter founder raised $5 million to build space data centers",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -107,10 +144,10 @@
       "AI"
     ],
     "date": "Tue, 09 Jun 2026 12:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1781020114302_0",
+    "id": "rss_Wired_1781027384388_1",
     "title": "Alex Vindman Survived Trump’s Retaliation Machine. Now He’s Running for Senate",
     "category": "ai-news",
     "source": "Wired",
@@ -121,7 +158,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781020111754_1",
+    "id": "rss_MIT_Tech_Review_1781027382083_1",
     "title": "Learning to lead in a hybrid human-AI enterprise",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -132,10 +169,10 @@
       "Automation"
     ],
     "date": "Tue, 09 Jun 2026 10:20:06 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781020111754_2",
+    "id": "rss_MIT_Tech_Review_1781027382083_2",
     "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -145,10 +182,10 @@
       "AI"
     ],
     "date": "Tue, 09 Jun 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1781020111754_3",
+    "id": "rss_MIT_Tech_Review_1781027382083_3",
     "title": "Five things you need to know about AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -158,34 +195,10 @@
       "AI"
     ],
     "date": "Tue, 09 Jun 2026 09:16:45 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1781020109309_3",
-    "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race? ",
-    "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 09 Jun 2026 01:56:48 +0000",
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1781020109309_4",
-    "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Sequoia is just one of the top firms that sells same equity at two different prices.",
-    "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
-    "tags": [],
-    "date": "Tue, 09 Jun 2026 00:45:56 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1781020114302_1",
+    "id": "rss_Wired_1781027384389_2",
     "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
     "category": "ai-news",
     "source": "Wired",
@@ -201,7 +214,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1781020114302_2",
+    "id": "rss_Wired_1781027384389_3",
     "title": "Apple’s New Siri AI Is Ready to Get Personal",
     "category": "ai-news",
     "source": "Wired",
@@ -215,7 +228,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1781020114302_3",
+    "id": "rss_Wired_1781027384389_4",
     "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
     "category": "ai-news",
     "source": "Wired",
@@ -229,21 +242,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1781020114302_4",
-    "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The code WIRED identified is gone from the latest version of Meta AI, the companion app for the company’s smart glasses. Meta won’t say why or whether it’s coming back.",
-    "link": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Mon, 08 Jun 2026 17:31:11 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1781020111754_4",
+    "id": "rss_MIT_Tech_Review_1781027382083_4",
     "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -257,7 +256,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1781020123609_0",
+    "id": "rss_Distill_1781027392803_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -270,7 +269,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1781020123609_1",
+    "id": "rss_Distill_1781027392803_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -283,7 +282,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1781020123609_2",
+    "id": "rss_Distill_1781027392803_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -291,10 +290,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1781020123609_3",
+    "id": "rss_Distill_1781027392803_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -307,7 +306,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1781020123609_4",
+    "id": "rss_Distill_1781027392803_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
