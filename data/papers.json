@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1781027379776_0",
+    "id": "arxiv_1781034739333_0",
     "name": "Latent Spatial Memory for Video World Models",
     "category": "computer-vision",
     "description": "Video world models that maintain 3D spatial consistency across generated frames typically rely on explicit point cloud memory constructed in RGB space. This design is both computationally expensive, r...",
@@ -10,11 +10,11 @@
       "Diffusion"
     ],
     "date": "2026-06-08T17:59:54Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Weijie Wang, Haoyu Zhao, Yifan Yang et al."
   },
   {
-    "id": "arxiv_1781027379776_1",
+    "id": "arxiv_1781034739333_1",
     "name": "MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models",
     "category": "computer-vision",
     "description": "Temporal modeling is essential for robotic manipulation, as effective control requires both memory of past interactions and imagination of future states. However, most VLA models rely primarily on the...",
@@ -25,11 +25,11 @@
       "Diffusion"
     ],
     "date": "2026-06-08T17:59:53Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hao Shi, Weiye Li, Bin Xie et al."
   },
   {
-    "id": "arxiv_1781027379762_0",
+    "id": "arxiv_1781034739307_0",
     "name": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
     "category": "ai",
     "description": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, ...",
@@ -44,7 +44,7 @@
     "source": "arXiv - Mingxian Lin, Shengju Qian, Yuqi Liu et al."
   },
   {
-    "id": "arxiv_1781027379776_2",
+    "id": "arxiv_1781034739333_2",
     "name": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
     "category": "computer-vision",
     "description": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, ...",
@@ -55,11 +55,11 @@
       "LLM"
     ],
     "date": "2026-06-08T17:59:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Mingxian Lin, Shengju Qian, Yuqi Liu et al."
   },
   {
-    "id": "arxiv_1781027379762_1",
+    "id": "arxiv_1781034739307_1",
     "name": "An Agency-Transferring Model-Free Policy Enhancement Technique",
     "category": "ai",
     "description": "Training reinforcement learning (RL) policies from scratch is\n  costly: it requires careful reward and environment design,\n  extensive tuning, and substantial computation.\n  Yet many control problems ...",
@@ -70,11 +70,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-08T17:59:39Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim et al."
   },
   {
-    "id": "arxiv_1781027379790_0",
+    "id": "arxiv_1781034739356_0",
     "name": "An Agency-Transferring Model-Free Policy Enhancement Technique",
     "category": "machine-learning",
     "description": "Training reinforcement learning (RL) policies from scratch is\n  costly: it requires careful reward and environment design,\n  extensive tuning, and substantial computation.\n  Yet many control problems ...",
@@ -89,7 +89,7 @@
     "source": "arXiv - Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim et al."
   },
   {
-    "id": "arxiv_1781027379808_0",
+    "id": "arxiv_1781034739379_0",
     "name": "Causally Evaluating the Learnability of Formal Language Tasks",
     "category": "nlp",
     "description": "Language models, as multi-task learners, acquire a wide range of abilities during training. A fundamental question is how much task-specific data is needed to learn a given task. Answering this for na...",
@@ -98,11 +98,11 @@
       "AI"
     ],
     "date": "2026-06-08T17:58:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Vésteinn Snæbjarnarson, Anej Svete, Josef Valvoda et al."
   },
   {
-    "id": "arxiv_1781027379790_1",
+    "id": "arxiv_1781034739356_1",
     "name": "Rethinking the Divergence Regularization in LLM RL",
     "category": "machine-learning",
     "description": "Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy stalenes...",
@@ -118,7 +118,7 @@
     "source": "arXiv - Jiarui Yao, Xiangxin Zhou, Penghui Qi et al."
   },
   {
-    "id": "arxiv_1781027379790_2",
+    "id": "arxiv_1781034739356_2",
     "name": "Weighted universal approximation of differentiable maps on infinite-dimensional manifolds",
     "category": "machine-learning",
     "description": "We generalize the universal approximation theorem for functional input neural networks (FNN) to differentiable maps by including the approximation of the derivatives. A FNN maps the input from a possi...",
@@ -127,11 +127,11 @@
       "Neural"
     ],
     "date": "2026-06-08T17:57:40Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Philipp Schmocker, Josef Teichmann"
   },
   {
-    "id": "arxiv_1781027379762_2",
+    "id": "arxiv_1781034739308_2",
     "name": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
     "category": "ai",
     "description": "Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choice is analytically convenient and empirically power...",
@@ -145,7 +145,7 @@
     "source": "arXiv - Danqi Zhuang, Jisui Huang, Xiaoyue Xi et al."
   },
   {
-    "id": "arxiv_1781027379776_3",
+    "id": "arxiv_1781034739333_3",
     "name": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
     "category": "computer-vision",
     "description": "Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choice is analytically convenient and empirically power...",
@@ -155,11 +155,11 @@
       "Diffusion"
     ],
     "date": "2026-06-08T17:56:16Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Danqi Zhuang, Jisui Huang, Xiaoyue Xi et al."
   },
   {
-    "id": "arxiv_1781027379776_4",
+    "id": "arxiv_1781034739333_4",
     "name": "iMaC: Translating Actions into Motion and Contact Images for Embodied World Models",
     "category": "computer-vision",
     "description": "Embodied world models have emerged as a pivotal paradigm for visual robotic decision-making and interactive environment simulation. However, conventional embodied frameworks rely on low-dimensional st...",
@@ -172,7 +172,7 @@
     "source": "arXiv - Zhenyu Wu, Xiuwei Xu, Yukun Zhou et al."
   },
   {
-    "id": "arxiv_1781027379762_3",
+    "id": "arxiv_1781034739308_3",
     "name": "AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing",
     "category": "ai",
     "description": "World-action models have emerged as a promising paradigm for robot manipulation, jointly modeling visual scene dynamics and actions to inject physical priors into policy learning. However, existing wo...",
@@ -184,11 +184,11 @@
       "Diffusion"
     ],
     "date": "2026-06-08T17:55:18Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jisong Cai, Long Ling, Shiwei Chu et al."
   },
   {
-    "id": "arxiv_1781027379763_4",
+    "id": "arxiv_1781034739308_4",
     "name": "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
     "category": "ai",
     "description": "AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare...",
@@ -197,11 +197,11 @@
       "AI"
     ],
     "date": "2026-06-08T17:55:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Avijit Ghosh, Anka Reuel, Jenny Chim et al."
   },
   {
-    "id": "arxiv_1781027379790_3",
+    "id": "arxiv_1781034739356_3",
     "name": "Topological Neural Operators",
     "category": "machine-learning",
     "description": "We introduce Topological Neural Operators (TNOs), a principled framework for operator learning on cell complexes that lifts neural operators (NOs) from functions on points and/or edges to topological ...",
@@ -211,11 +211,11 @@
       "Neural"
     ],
     "date": "2026-06-08T17:54:33Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Lennart Bastian, Samuel Leventhal, Mustafa Hajij et al."
   },
   {
-    "id": "arxiv_1781027379790_4",
+    "id": "arxiv_1781034739356_4",
     "name": "Echo-Memory: A Controlled Study of Memory in Action World Models",
     "category": "machine-learning",
     "description": "We present \\textbf{Echo-Memory}, a controlled study of memory mechanisms in action-conditioned world models. These models generate multi-segment videos from a first frame, text prompt, and camera-acti...",
@@ -229,7 +229,7 @@
     "source": "arXiv - Wayne King, Zeyue Xue, Yuxuan Bian et al."
   },
   {
-    "id": "arxiv_1781027379809_1",
+    "id": "arxiv_1781034739380_1",
     "name": "SIGA: Self-Evolving Coding-Agent Adapters for Scientific Simulation",
     "category": "nlp",
     "description": "Advanced scientific simulators expose specialized input languages that turn simulation goals into executable configurations, but learning them can cost domain scientists hours to days. We study simula...",
@@ -238,11 +238,11 @@
       "AI"
     ],
     "date": "2026-06-08T17:35:17Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Matthew Ho, Brian Liu, Jixuan Chen et al."
   },
   {
-    "id": "arxiv_1781027379809_2",
+    "id": "arxiv_1781034739380_2",
     "name": "Data Synthesis and Parameter-Efficient Fine-Tuning for Low-Resource NMT: A Case Study on Q'eqchi' Mayan",
     "category": "nlp",
     "description": "Neural machine translation for digitally low-resource Indigenous languages is often hindered by extreme data scarcity, prompting reliance on extractive web-scraping. To ensure data sovereignty, this s...",
@@ -258,7 +258,7 @@
     "source": "arXiv - Alexander Chulzhanov, Soeren Eberhardt, Arjun Mukherjee"
   },
   {
-    "id": "arxiv_1781027379809_3",
+    "id": "arxiv_1781034739380_3",
     "name": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents",
     "category": "nlp",
     "description": "A useful phone agent needs to be personally intelligent. It should reason over a user's identity, history, and preferences as they exist on the device, not just follow isolated instructions in an impe...",
@@ -272,7 +272,7 @@
     "source": "arXiv - Lawrence Keunho Jang, Mareks Woodside, Geronimo Carom et al."
   },
   {
-    "id": "arxiv_1781027379809_4",
+    "id": "arxiv_1781034739380_4",
     "name": "Collaborative Human-Agent Protocol (CHAP)",
     "category": "nlp",
     "description": "Foundation models are moving from response generation into operational roles. They plan across steps, call tools, request human input, coordinate with other agents, and increasingly carry responsibili...",
@@ -281,7 +281,7 @@
       "AI"
     ],
     "date": "2026-06-08T17:11:42Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Arsalan Shahid, Gordon Suttie, Philip Black"
   }
 ]
