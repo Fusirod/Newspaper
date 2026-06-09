@@ -1,291 +1,287 @@
 [
   {
-    "id": "arxiv_1780969855873_0",
-    "name": "Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs",
-    "category": "nlp",
-    "description": "We present a multilingual fact-checking system deployed at Factiverse, designed for high-throughput and low-latency operation across diverse languages. The system follows a modular pipeline with three...",
-    "link": "http://arxiv.org/abs/2606.08605v1",
+    "id": "arxiv_1780984657060_0",
+    "name": "Latent Spatial Memory for Video World Models",
+    "category": "computer-vision",
+    "description": "Video world models that maintain 3D spatial consistency across generated frames typically rely on explicit point cloud memory constructed in RGB space. This design is both computationally expensive, r...",
+    "link": "http://arxiv.org/abs/2606.09828v1",
     "tags": [
       "AI",
-      "LLM",
-      "GPT",
-      "BERT"
+      "Diffusion"
     ],
-    "date": "2026-06-07T12:33:43Z",
+    "date": "2026-06-08T17:59:54Z",
     "trending": true,
-    "source": "arXiv - Pratuat Amatya, Vinay Setty"
+    "source": "arXiv - Weijie Wang, Haoyu Zhao, Yifan Yang et al."
   },
   {
-    "id": "arxiv_1780969855807_0",
-    "name": "Reinforcement Learning for Flow-Matching Policies with Density Transport",
-    "category": "ai",
-    "description": "We present an online reinforcement learning (RL) algorithm for fine-tuning flow-matching policies in continuous-control problems. Our key insight is to view RL-based policy improvement as a transport ...",
-    "link": "http://arxiv.org/abs/2606.08602v1",
+    "id": "arxiv_1780984657060_1",
+    "name": "MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models",
+    "category": "computer-vision",
+    "description": "Temporal modeling is essential for robotic manipulation, as effective control requires both memory of past interactions and imagination of future states. However, most VLA models rely primarily on the...",
+    "link": "http://arxiv.org/abs/2606.09827v1",
     "tags": [
       "AI",
       "Vision",
-      "Reinforcement Learning",
-      "Optimization"
+      "Diffusion"
     ],
-    "date": "2026-06-07T12:28:51Z",
+    "date": "2026-06-08T17:59:53Z",
     "trending": false,
-    "source": "arXiv - Boshu Lei, Kostas Daniilidis, Antonio Loquercio"
+    "source": "arXiv - Hao Shi, Weiye Li, Bin Xie et al."
   },
   {
-    "id": "arxiv_1780969855847_0",
-    "name": "Reinforcement Learning for Flow-Matching Policies with Density Transport",
-    "category": "machine-learning",
-    "description": "We present an online reinforcement learning (RL) algorithm for fine-tuning flow-matching policies in continuous-control problems. Our key insight is to view RL-based policy improvement as a transport ...",
-    "link": "http://arxiv.org/abs/2606.08602v1",
+    "id": "arxiv_1780984657042_0",
+    "name": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+    "category": "ai",
+    "description": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, ...",
+    "link": "http://arxiv.org/abs/2606.09826v1",
     "tags": [
       "AI",
       "Vision",
-      "Reinforcement Learning",
-      "Optimization"
-    ],
-    "date": "2026-06-07T12:28:51Z",
-    "trending": false,
-    "source": "arXiv - Boshu Lei, Kostas Daniilidis, Antonio Loquercio"
-  },
-  {
-    "id": "arxiv_1780969855808_1",
-    "name": "InA-Probe: Instruction-Aware Active Probing for Time Series Forecasting with LLMs",
-    "category": "ai",
-    "description": "Large Language Models (LLMs) have recently demonstrated impressive potential for time series forecasting. However, existing methods predominantly rely on passive modality alignment or static task repr...",
-    "link": "http://arxiv.org/abs/2606.08601v1",
-    "tags": [
-      "AI",
-      "Deep Learning",
       "LLM"
     ],
-    "date": "2026-06-07T12:27:13Z",
-    "trending": false,
-    "source": "arXiv - Peiliang Gong, Emadeldeen Eldele, Chenyu Liu et al."
+    "date": "2026-06-08T17:59:43Z",
+    "trending": true,
+    "source": "arXiv - Mingxian Lin, Shengju Qian, Yuqi Liu et al."
   },
   {
-    "id": "arxiv_1780969855808_2",
-    "name": "Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration",
-    "category": "ai",
-    "description": "Constructing efficient and reliable policies to assist humans is indispensable for human-AI collaboration. Existing methods mainly follow two lines of work. Most prior work relies on multi-agent reinf...",
-    "link": "http://arxiv.org/abs/2606.08596v1",
+    "id": "arxiv_1780984657060_2",
+    "name": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+    "category": "computer-vision",
+    "description": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, ...",
+    "link": "http://arxiv.org/abs/2606.09826v1",
     "tags": [
       "AI",
-      "LLM",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-06-08T17:59:43Z",
+    "trending": false,
+    "source": "arXiv - Mingxian Lin, Shengju Qian, Yuqi Liu et al."
+  },
+  {
+    "id": "arxiv_1780984657042_1",
+    "name": "An Agency-Transferring Model-Free Policy Enhancement Technique",
+    "category": "ai",
+    "description": "Training reinforcement learning (RL) policies from scratch is\n  costly: it requires careful reward and environment design,\n  extensive tuning, and substantial computation.\n  Yet many control problems ...",
+    "link": "http://arxiv.org/abs/2606.09825v1",
+    "tags": [
+      "AI",
+      "Neural",
       "Reinforcement Learning"
     ],
-    "date": "2026-06-07T12:20:32Z",
+    "date": "2026-06-08T17:59:39Z",
     "trending": false,
-    "source": "arXiv - Beiwen Zhang, Yongheng Liang, Guowei Zou et al."
+    "source": "arXiv - Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim et al."
   },
   {
-    "id": "arxiv_1780969855848_1",
-    "name": "How Much Capacity Does EEG Denoising Need? Ultra-Compact Networks reveal Benchmark Saturation and Metric-Utility Gap",
+    "id": "arxiv_1780984658514_0",
+    "name": "An Agency-Transferring Model-Free Policy Enhancement Technique",
     "category": "machine-learning",
-    "description": "Deep learning EEG denoising architectures have scaled from tens of thousands to tens of millions of parameters, yet no prior study has isolated model capacity as the experimental variable or tested wh...",
-    "link": "http://arxiv.org/abs/2606.08594v1",
+    "description": "Training reinforcement learning (RL) policies from scratch is\n  costly: it requires careful reward and environment design,\n  extensive tuning, and substantial computation.\n  Yet many control problems ...",
+    "link": "http://arxiv.org/abs/2606.09825v1",
     "tags": [
       "AI",
       "Neural",
-      "Deep Learning",
-      "Transformer"
+      "Reinforcement Learning"
     ],
-    "date": "2026-06-07T12:17:25Z",
+    "date": "2026-06-08T17:59:39Z",
     "trending": false,
-    "source": "arXiv - Jasmeet Singh Bindra, Siddharth Panwar, Shubhajit Roy Chowdhury"
+    "source": "arXiv - Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim et al."
   },
   {
-    "id": "arxiv_1780969855848_2",
-    "name": "Quantum Global Variational Learning for Quantum Error Correction",
-    "category": "machine-learning",
-    "description": "Efficient quantum error correction is essential for the advancement of quantum computing. We propose a quantum neural network with a global structure that reduces the number of unitary matrices requir...",
-    "link": "http://arxiv.org/abs/2606.08592v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-06-07T12:11:04Z",
-    "trending": false,
-    "source": "arXiv - Shun Ryuzaki, Hideo Mukai"
-  },
-  {
-    "id": "arxiv_1780969855808_3",
-    "name": "Auditable Graph-Guided Root Cause Analysis for Kubernetes Incidents",
-    "category": "ai",
-    "description": "Kubernetes incidents are diagnosed reliably only when a root-cause system's reported gains come from incident evidence rather than scenario-specific shortcuts. We present Graph Traversal Agent, a grap...",
-    "link": "http://arxiv.org/abs/2606.08590v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-07T12:05:09Z",
-    "trending": false,
-    "source": "arXiv - Anastasiia Kuvshinova, Seungmin Jin"
-  },
-  {
-    "id": "arxiv_1780969855873_1",
-    "name": "Detection and Interpretability Analysis of Quotation Errors by Large Language Models",
+    "id": "arxiv_1780984658530_0",
+    "name": "Causally Evaluating the Learnability of Formal Language Tasks",
     "category": "nlp",
-    "description": "Purpose - Quotation error refers to the inconsistency between cited information and its original source. This phenomenon leads to a series of negative impacts, such as misinterpretation of the origina...",
-    "link": "http://arxiv.org/abs/2606.08589v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-07T12:01:48Z",
-    "trending": false,
-    "source": "arXiv - Bei Huang, Yingyi Zhang, Shenghao Huang et al."
-  },
-  {
-    "id": "arxiv_1780969855848_3",
-    "name": "Improving the sharpness in neural network-based parametric post-processing of ensemble forecasts",
-    "category": "machine-learning",
-    "description": "Statistical post-processing has proven to be an effective tool in improving ensemble forecast of different weather variables. Case studies show that post-processing can remedy the typically underdispe...",
-    "link": "http://arxiv.org/abs/2606.08587v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-06-07T11:57:09Z",
-    "trending": false,
-    "source": "arXiv - Ágnes Baran, Máté Mihalina"
-  },
-  {
-    "id": "arxiv_1780969855848_4",
-    "name": "Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi 2",
-    "category": "machine-learning",
-    "description": "Sparse coding provides a principled framework for signal representation by expressing an input as a linear combination of only a small number of basis functions. The Locally Competitive Algorithm (LCA...",
-    "link": "http://arxiv.org/abs/2606.08584v1",
+    "description": "Language models, as multi-task learners, acquire a wide range of abilities during training. A fundamental question is how much task-specific data is needed to learn a given task. Answering this for na...",
+    "link": "http://arxiv.org/abs/2606.09822v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-06-07T11:44:40Z",
+    "date": "2026-06-08T17:58:36Z",
     "trending": true,
-    "source": "arXiv - Geoffrey Kasenbacher, Daniel Ruepp, Gerrit A. Ecke"
+    "source": "arXiv - Vésteinn Snæbjarnarson, Anej Svete, Josef Valvoda et al."
   },
   {
-    "id": "arxiv_1780969855833_0",
-    "name": "OrderDP: A Theoretically Guaranteed Lossless Dynamic Data Pruning Framework",
-    "category": "computer-vision",
-    "description": "Data pruning (DP), as an oft-stated strategy to alleviate heavy training burdens, reduces the volume of training samples according to a well-defined pruning method while striving for near-lossless per...",
-    "link": "http://arxiv.org/abs/2606.08574v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-07T11:11:51Z",
-    "trending": false,
-    "source": "arXiv - Chenhan Jin, Shengze Xu, Qingsong Wang et al."
-  },
-  {
-    "id": "arxiv_1780969855873_2",
-    "name": "Titans-as-a-Layer: Test-Time Memory for Conversational Speech Emotion Recognition",
-    "category": "nlp",
-    "description": "Speech emotion recognition (SER) is commonly formulated as utterance-level classification, although conversational emotion depends on a speaker's usual vocal range and the emotional context establishe...",
-    "link": "http://arxiv.org/abs/2606.08573v1",
+    "id": "arxiv_1780984658514_1",
+    "name": "Rethinking the Divergence Regularization in LLM RL",
+    "category": "machine-learning",
+    "description": "Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy stalenes...",
+    "link": "http://arxiv.org/abs/2606.09821v1",
     "tags": [
       "AI",
-      "Neural",
-      "LLM"
-    ],
-    "date": "2026-06-07T11:07:30Z",
-    "trending": false,
-    "source": "arXiv - Daniel Chen, Qicong Hu, Yang Xiao et al."
-  },
-  {
-    "id": "arxiv_1780969855834_1",
-    "name": "OmniCap-IF: Benchmarking and Improving Instruction Following Abilities for Omni-Video Captioning",
-    "category": "computer-vision",
-    "description": "While Omni-modal Large Language Models (OLLMs) have demonstrated impressive capabilities in jointly processing audio and visual streams, their ability to strictly adhere to complex, multi-faceted user...",
-    "link": "http://arxiv.org/abs/2606.08572v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-07T11:03:33Z",
-    "trending": false,
-    "source": "arXiv - Jiahao Wang, An Ping, Yanghai Wang et al."
-  },
-  {
-    "id": "arxiv_1780969855808_4",
-    "name": "Calibration of Structured Ignorance Certificates for Diagnosing Unknown Unknowns in Reasoning Models",
-    "category": "ai",
-    "description": "Large language models frequently fail in a characteristic way: rather than acknowledging ignorance, they produce fluent but incorrect answers to questions that lie beyond their knowledge boundaries. W...",
-    "link": "http://arxiv.org/abs/2606.08571v1",
-    "tags": [
-      "AI",
+      "LLM",
+      "Reinforcement Learning",
       "Optimization"
     ],
-    "date": "2026-06-07T11:01:13Z",
+    "date": "2026-06-08T17:58:23Z",
     "trending": false,
-    "source": "arXiv - Subramanyam Sahoo"
+    "source": "arXiv - Jiarui Yao, Xiangxin Zhou, Penghui Qi et al."
   },
   {
-    "id": "arxiv_1780969855873_3",
-    "name": "Calibration of Structured Ignorance Certificates for Diagnosing Unknown Unknowns in Reasoning Models",
-    "category": "nlp",
-    "description": "Large language models frequently fail in a characteristic way: rather than acknowledging ignorance, they produce fluent but incorrect answers to questions that lie beyond their knowledge boundaries. W...",
-    "link": "http://arxiv.org/abs/2606.08571v1",
+    "id": "arxiv_1780984658514_2",
+    "name": "Weighted universal approximation of differentiable maps on infinite-dimensional manifolds",
+    "category": "machine-learning",
+    "description": "We generalize the universal approximation theorem for functional input neural networks (FNN) to differentiable maps by including the approximation of the derivatives. A FNN maps the input from a possi...",
+    "link": "http://arxiv.org/abs/2606.09820v1",
+    "tags": [
+      "Neural"
+    ],
+    "date": "2026-06-08T17:57:40Z",
+    "trending": true,
+    "source": "arXiv - Philipp Schmocker, Josef Teichmann"
+  },
+  {
+    "id": "arxiv_1780984657043_2",
+    "name": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
+    "category": "ai",
+    "description": "Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choice is analytically convenient and empirically power...",
+    "link": "http://arxiv.org/abs/2606.09816v1",
     "tags": [
       "AI",
-      "Optimization"
+      "Diffusion"
     ],
-    "date": "2026-06-07T11:01:13Z",
-    "trending": true,
-    "source": "arXiv - Subramanyam Sahoo"
+    "date": "2026-06-08T17:56:16Z",
+    "trending": false,
+    "source": "arXiv - Danqi Zhuang, Jisui Huang, Xiaoyue Xi et al."
   },
   {
-    "id": "arxiv_1780969855834_2",
-    "name": "Towards Accurate Emotion-Attributed Video Captioning via Fine-grained Emotion-Cause Pair Extraction",
+    "id": "arxiv_1780984657060_3",
+    "name": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
     "category": "computer-vision",
-    "description": "Emotional Video Captioning (EVC) is a challenging task that aims to generate factually accurate and emotionally rich descriptions for videos. Existing EVC methods leverage holistic visual features to ...",
-    "link": "http://arxiv.org/abs/2606.08566v1",
+    "description": "Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choice is analytically convenient and empirically power...",
+    "link": "http://arxiv.org/abs/2606.09816v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-06-08T17:56:16Z",
+    "trending": true,
+    "source": "arXiv - Danqi Zhuang, Jisui Huang, Xiaoyue Xi et al."
+  },
+  {
+    "id": "arxiv_1780984657060_4",
+    "name": "iMaC: Translating Actions into Motion and Contact Images for Embodied World Models",
+    "category": "computer-vision",
+    "description": "Embodied world models have emerged as a pivotal paradigm for visual robotic decision-making and interactive environment simulation. However, conventional embodied frameworks rely on low-dimensional st...",
+    "link": "http://arxiv.org/abs/2606.09813v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-06-07T10:43:41Z",
-    "trending": true,
-    "source": "arXiv - Weidong Chen, Cheng Ye, Zhendong Mao et al."
+    "date": "2026-06-08T17:55:41Z",
+    "trending": false,
+    "source": "arXiv - Zhenyu Wu, Xiuwei Xu, Yukun Zhou et al."
   },
   {
-    "id": "arxiv_1780969855873_4",
-    "name": "Inside the LLM Word Factory",
-    "category": "nlp",
-    "description": "Transformer language models process input provided as subword fragments, but natural language semantics usually rely on word-level concepts. Detokenization is the process where models reconcile these ...",
-    "link": "http://arxiv.org/abs/2606.08562v1",
+    "id": "arxiv_1780984657043_3",
+    "name": "AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing",
+    "category": "ai",
+    "description": "World-action models have emerged as a promising paradigm for robot manipulation, jointly modeling visual scene dynamics and actions to inject physical priors into policy learning. However, existing wo...",
+    "link": "http://arxiv.org/abs/2606.09811v1",
     "tags": [
       "AI",
       "Transformer",
-      "LLM"
+      "GAN",
+      "Diffusion"
     ],
-    "date": "2026-06-07T10:36:20Z",
+    "date": "2026-06-08T17:55:18Z",
     "trending": false,
-    "source": "arXiv - Benzi Busigin, Yuval Pinter"
+    "source": "arXiv - Jisong Cai, Long Ling, Shiwei Chu et al."
   },
   {
-    "id": "arxiv_1780969855834_3",
-    "name": "When Video Misreads: Closed-Loop Distillation of Reading Heuristics for Exploratory Manipulation Trace QA",
-    "category": "computer-vision",
-    "description": "Exploratory manipulation often turns an apparent failed attempt into the key evidence for what to do next. For example, a robot pulls a locked cabinet drawer, fails, and only succeeds after opening th...",
-    "link": "http://arxiv.org/abs/2606.08542v1",
+    "id": "arxiv_1780984657043_4",
+    "name": "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
+    "category": "ai",
+    "description": "AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare...",
+    "link": "http://arxiv.org/abs/2606.09809v1",
     "tags": [
-      "AI",
-      "LLM"
+      "AI"
     ],
-    "date": "2026-06-07T09:49:40Z",
-    "trending": false,
-    "source": "arXiv - Haizhou Ge, Yufei Jia, Yue Li et al."
+    "date": "2026-06-08T17:55:02Z",
+    "trending": true,
+    "source": "arXiv - Avijit Ghosh, Anka Reuel, Jenny Chim et al."
   },
   {
-    "id": "arxiv_1780969855834_4",
-    "name": "NGram-MoSE: Efficient Remote Sensing Super-Resolution via N-Gram Context and Mixture-of-Experts",
-    "category": "computer-vision",
-    "description": "Remote sensing applications for environmental monitoring and disaster management are frequently constrained by a spatial--temporal trade-off: imagery with fine spatial detail is often acquired less fr...",
-    "link": "http://arxiv.org/abs/2606.08535v1",
+    "id": "arxiv_1780984658514_3",
+    "name": "Topological Neural Operators",
+    "category": "machine-learning",
+    "description": "We introduce Topological Neural Operators (TNOs), a principled framework for operator learning on cell complexes that lifts neural operators (NOs) from functions on points and/or edges to topological ...",
+    "link": "http://arxiv.org/abs/2606.09806v1",
     "tags": [
       "AI",
-      "Transformer"
+      "Neural"
     ],
-    "date": "2026-06-07T09:30:49Z",
+    "date": "2026-06-08T17:54:33Z",
     "trending": false,
-    "source": "arXiv - Yun-Hsuan Huang, Trong-An Bui, Chih-Hung Chuang"
+    "source": "arXiv - Lennart Bastian, Samuel Leventhal, Mustafa Hajij et al."
+  },
+  {
+    "id": "arxiv_1780984658514_4",
+    "name": "Echo-Memory: A Controlled Study of Memory in Action World Models",
+    "category": "machine-learning",
+    "description": "We present \\textbf{Echo-Memory}, a controlled study of memory mechanisms in action-conditioned world models. These models generate multi-segment videos from a first frame, text prompt, and camera-acti...",
+    "link": "http://arxiv.org/abs/2606.09803v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-06-08T17:54:10Z",
+    "trending": false,
+    "source": "arXiv - Wayne King, Zeyue Xue, Yuxuan Bian et al."
+  },
+  {
+    "id": "arxiv_1780984658530_1",
+    "name": "SIGA: Self-Evolving Coding-Agent Adapters for Scientific Simulation",
+    "category": "nlp",
+    "description": "Advanced scientific simulators expose specialized input languages that turn simulation goals into executable configurations, but learning them can cost domain scientists hours to days. We study simula...",
+    "link": "http://arxiv.org/abs/2606.09774v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-08T17:35:17Z",
+    "trending": true,
+    "source": "arXiv - Matthew Ho, Brian Liu, Jixuan Chen et al."
+  },
+  {
+    "id": "arxiv_1780984658531_2",
+    "name": "Data Synthesis and Parameter-Efficient Fine-Tuning for Low-Resource NMT: A Case Study on Q'eqchi' Mayan",
+    "category": "nlp",
+    "description": "Neural machine translation for digitally low-resource Indigenous languages is often hindered by extreme data scarcity, prompting reliance on extractive web-scraping. To ensure data sovereignty, this s...",
+    "link": "http://arxiv.org/abs/2606.09767v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "GAN",
+      "Optimization"
+    ],
+    "date": "2026-06-08T17:29:08Z",
+    "trending": true,
+    "source": "arXiv - Alexander Chulzhanov, Soeren Eberhardt, Arjun Mukherjee"
+  },
+  {
+    "id": "arxiv_1780984658531_3",
+    "name": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents",
+    "category": "nlp",
+    "description": "A useful phone agent needs to be personally intelligent. It should reason over a user's identity, history, and preferences as they exist on the device, not just follow isolated instructions in an impe...",
+    "link": "http://arxiv.org/abs/2606.09764v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-08T17:27:13Z",
+    "trending": true,
+    "source": "arXiv - Lawrence Keunho Jang, Mareks Woodside, Geronimo Carom et al."
+  },
+  {
+    "id": "arxiv_1780984658531_4",
+    "name": "Collaborative Human-Agent Protocol (CHAP)",
+    "category": "nlp",
+    "description": "Foundation models are moving from response generation into operational roles. They plan across steps, call tools, request human input, coordinate with other agents, and increasingly carry responsibili...",
+    "link": "http://arxiv.org/abs/2606.09751v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-08T17:11:42Z",
+    "trending": true,
+    "source": "arXiv - Arsalan Shahid, Gordon Suttie, Philip Black"
   }
 ]
