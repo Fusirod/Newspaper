@@ -1,282 +1,280 @@
 [
   {
-    "id": "arxiv_1781056916429_0",
-    "name": "Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models",
-    "category": "ai",
-    "description": "Persistent memory systems promise to make LLMs more helpful by storing user beliefs over time. We show they also make models less correct by systematically amplifying sycophancy, wherein models priori...",
-    "link": "http://arxiv.org/abs/2606.10949v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-09T14:53:32Z",
-    "trending": false,
-    "source": "arXiv - Shelly Bensal, Axel Magnuson, Aparna Balagopalan et al."
-  },
-  {
-    "id": "arxiv_1781056916568_0",
-    "name": "Express Language Modeling",
+    "id": "arxiv_1781074509332_0",
+    "name": "When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
     "category": "machine-learning",
-    "description": "We introduce a new tool, Express, for converting a non-causal attention approximation into a causal approximation with matching approximation guarantees. When combined with the state-of-the-art Thinfo...",
-    "link": "http://arxiv.org/abs/2606.10944v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-09T14:48:56Z",
-    "trending": true,
-    "source": "arXiv - Albert Gong, Annabelle Michael Carrell, Raaz Dwivedi et al."
-  },
-  {
-    "id": "arxiv_1781056916429_1",
-    "name": "Generative Explainability for Next-Generation Networks: LLM-Augmented XAI with Mutual Feature Interactions",
-    "category": "ai",
-    "description": "As artificial intelligence and machine learning (AI/ML) models become integral to network operations, their lack of transparency poses a significant barrier to operator trust. Existing explainable art...",
-    "link": "http://arxiv.org/abs/2606.10942v1",
+    "description": "Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each ...",
+    "link": "http://arxiv.org/abs/2606.11190v1",
     "tags": [
       "AI",
-      "Machine Learning",
-      "LLM"
-    ],
-    "date": "2026-06-09T14:48:26Z",
-    "trending": false,
-    "source": "arXiv - Kiarash Rezaei, Omran Ayoub, Sebastian Troia et al."
-  },
-  {
-    "id": "arxiv_1781056916568_1",
-    "name": "Generative Explainability for Next-Generation Networks: LLM-Augmented XAI with Mutual Feature Interactions",
-    "category": "machine-learning",
-    "description": "As artificial intelligence and machine learning (AI/ML) models become integral to network operations, their lack of transparency poses a significant barrier to operator trust. Existing explainable art...",
-    "link": "http://arxiv.org/abs/2606.10942v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "LLM"
-    ],
-    "date": "2026-06-09T14:48:26Z",
-    "trending": false,
-    "source": "arXiv - Kiarash Rezaei, Omran Ayoub, Sebastian Troia et al."
-  },
-  {
-    "id": "arxiv_1781056916429_2",
-    "name": "Democratising Camera Trap AI: An Open-Source Model for Detecting UK Mammals",
-    "category": "ai",
-    "description": "Camera traps have become a cornerstone of biodiversity monitoring, but the artificial intelligence that turns vast quantities of images into usable ecological data is often locked behind commercial pl...",
-    "link": "http://arxiv.org/abs/2606.10940v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-09T14:47:24Z",
-    "trending": true,
-    "source": "arXiv - Paul Fergus, Philip Stephens, Russell A. Hill et al."
-  },
-  {
-    "id": "arxiv_1781056916500_0",
-    "name": "Democratising Camera Trap AI: An Open-Source Model for Detecting UK Mammals",
-    "category": "computer-vision",
-    "description": "Camera traps have become a cornerstone of biodiversity monitoring, but the artificial intelligence that turns vast quantities of images into usable ecological data is often locked behind commercial pl...",
-    "link": "http://arxiv.org/abs/2606.10940v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-09T14:47:24Z",
-    "trending": true,
-    "source": "arXiv - Paul Fergus, Philip Stephens, Russell A. Hill et al."
-  },
-  {
-    "id": "arxiv_1781056916568_2",
-    "name": "Democratising Camera Trap AI: An Open-Source Model for Detecting UK Mammals",
-    "category": "machine-learning",
-    "description": "Camera traps have become a cornerstone of biodiversity monitoring, but the artificial intelligence that turns vast quantities of images into usable ecological data is often locked behind commercial pl...",
-    "link": "http://arxiv.org/abs/2606.10940v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-09T14:47:24Z",
-    "trending": false,
-    "source": "arXiv - Paul Fergus, Philip Stephens, Russell A. Hill et al."
-  },
-  {
-    "id": "arxiv_1781056916500_1",
-    "name": "PENet+: A Lightweight Residual Transformer Framework for Efficient Image Steganalysis",
-    "category": "computer-vision",
-    "description": "Image steganalysis, the detection of hidden information embedded in digital images, is a core component of modern cybersecurity and digital forensics. Recent residual Transformer architectures, such a...",
-    "link": "http://arxiv.org/abs/2606.10939v1",
-    "tags": [
-      "AI",
-      "Transformer",
+      "Vision",
       "GAN"
     ],
-    "date": "2026-06-09T14:47:16Z",
-    "trending": true,
-    "source": "arXiv - Jincheol AN, Dongsu Kim, Haneol Jang et al."
-  },
-  {
-    "id": "arxiv_1781056916568_3",
-    "name": "A Systematic Approach for Selecting Trajectories for Data Augmentation",
-    "category": "machine-learning",
-    "description": "Trajectory data augmentation is a promising approach to mitigate data scarcity in machine learning applications, but its utility has been limited by the complexity of preserving spatio-temporal cohere...",
-    "link": "http://arxiv.org/abs/2606.10938v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "Optimization"
-    ],
-    "date": "2026-06-09T14:46:47Z",
-    "trending": true,
-    "source": "arXiv - Adam Nordling"
-  },
-  {
-    "id": "arxiv_1781056916429_3",
-    "name": "Provenance Tracking in AI Compilers through the Lens of Coalgebra",
-    "category": "ai",
-    "description": "AI compilers aggressively rewrite computation graphs through normalization, lowering, and optimization, making it difficult to track the provenance of tensors and operators across compilation. Reliabl...",
-    "link": "http://arxiv.org/abs/2606.10937v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-06-09T14:46:09Z",
+    "date": "2026-06-09T17:59:58Z",
     "trending": false,
-    "source": "arXiv - Zilu Tian, Liying Liu"
+    "source": "arXiv - Ilay Kamai, Hugues Van Assel, Aviv Regev et al."
   },
   {
-    "id": "arxiv_1781056916429_4",
-    "name": "CLP: Collocation-Length Prediction for Zero-Loss Adaptive Multi-Token Inference",
+    "id": "arxiv_1781074509270_0",
+    "name": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
     "category": "ai",
-    "description": "Large language model inference is bottlenecked by autoregressive decoding, where each token requires a full forward pass. Multi-token prediction (MTP) offers a promising acceleration path, but existin...",
-    "link": "http://arxiv.org/abs/2606.10935v1",
+    "description": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. St...",
+    "link": "http://arxiv.org/abs/2606.11189v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-09T17:59:54Z",
+    "trending": false,
+    "source": "arXiv - Tong Xie, Yuanhao Ban, Yunqi Hong et al."
+  },
+  {
+    "id": "arxiv_1781074509333_1",
+    "name": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
+    "category": "machine-learning",
+    "description": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. St...",
+    "link": "http://arxiv.org/abs/2606.11189v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-09T17:59:54Z",
+    "trending": false,
+    "source": "arXiv - Tong Xie, Yuanhao Ban, Yunqi Hong et al."
+  },
+  {
+    "id": "arxiv_1781074509363_0",
+    "name": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
+    "category": "nlp",
+    "description": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. St...",
+    "link": "http://arxiv.org/abs/2606.11189v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-09T17:59:54Z",
+    "trending": false,
+    "source": "arXiv - Tong Xie, Yuanhao Ban, Yunqi Hong et al."
+  },
+  {
+    "id": "arxiv_1781074509301_0",
+    "name": "ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations",
+    "category": "computer-vision",
+    "description": "This paper introduces ARM, a discrete representation-based AutoRegressive Model that unifies image understanding, generation, and editing within a next-token prediction framework. ARM is built on thre...",
+    "link": "http://arxiv.org/abs/2606.11188v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-06-09T17:59:28Z",
+    "trending": false,
+    "source": "arXiv - Junke Wang, Xiao Wang, Jiacheng Pan et al."
+  },
+  {
+    "id": "arxiv_1781074509302_1",
+    "name": "Next Forcing: Causal World Modeling with Multi-Chunk Prediction",
+    "category": "computer-vision",
+    "description": "Autoregressive video generation has emerged as a powerful paradigm for World Action Models (WAMs). However, existing approaches suffer from slow training convergence and limited converged accuracy, pa...",
+    "link": "http://arxiv.org/abs/2606.11187v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-09T17:59:22Z",
+    "trending": false,
+    "source": "arXiv - Gangwei Xu, Qihang Zhang, Jiaming Zhou et al."
+  },
+  {
+    "id": "arxiv_1781074509302_2",
+    "name": "AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference",
+    "category": "computer-vision",
+    "description": "Low-light video enhancement (LLVE) remains a challenging task due to severe information degradation under low-illumination conditions. Recent multimodal approaches have significantly improved enhancem...",
+    "link": "http://arxiv.org/abs/2606.11186v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-06-09T14:45:12Z",
-    "trending": false,
-    "source": "arXiv - Xuezhen Xie, Zhiqiang Zhou"
-  },
-  {
-    "id": "arxiv_1781056916569_4",
-    "name": "CLP: Collocation-Length Prediction for Zero-Loss Adaptive Multi-Token Inference",
-    "category": "machine-learning",
-    "description": "Large language model inference is bottlenecked by autoregressive decoding, where each token requires a full forward pass. Multi-token prediction (MTP) offers a promising acceleration path, but existin...",
-    "link": "http://arxiv.org/abs/2606.10935v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-09T14:45:12Z",
+    "date": "2026-06-09T17:59:05Z",
     "trending": true,
-    "source": "arXiv - Xuezhen Xie, Zhiqiang Zhou"
+    "source": "arXiv - Hangfeng Liang, Yutao Hu, Yanhan Hu et al."
   },
   {
-    "id": "arxiv_1781056916636_0",
-    "name": "It Takes One to Bias Them All: Breaking Bad with One-Shot GRPO",
-    "category": "nlp",
-    "description": "Warning: This paper contains several toxic and offensive statements.\n  Modern large language models (LLMs) are typically aligned through large-scale post-training to ensure fair and reliable behavior....",
-    "link": "http://arxiv.org/abs/2606.10931v1",
+    "id": "arxiv_1781074509270_1",
+    "name": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+    "category": "ai",
+    "description": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are larg...",
+    "link": "http://arxiv.org/abs/2606.11182v1",
     "tags": [
       "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-06-09T14:44:01Z",
-    "trending": false,
-    "source": "arXiv - Naihao Deng, Yilun Zhu, Naichen Shi et al."
-  },
-  {
-    "id": "arxiv_1781056916636_1",
-    "name": "Trace Only What You Need: Structure-Aware On-Demand Hypergraph Memory for Long-Document Question Answering",
-    "category": "nlp",
-    "description": "Long-document question answering (QA) requires large language models (LLMs) to reason over evidence scattered across lengthy documents, where answers often depend on event order, section-level context...",
-    "link": "http://arxiv.org/abs/2606.10921v1",
-    "tags": [
-      "GAN",
       "LLM"
     ],
-    "date": "2026-06-09T14:29:06Z",
-    "trending": false,
-    "source": "arXiv - Xiangjun Zai, Xingyu Tan, Chen Chen et al."
+    "date": "2026-06-09T17:57:16Z",
+    "trending": true,
+    "source": "arXiv - Weixian Xu, Shilong Liu, Mengdi Wang"
   },
   {
-    "id": "arxiv_1781056916500_2",
-    "name": "Beyond Model Size: Probing the Gaps in Visual in-Context Learning by Training a Tiny Model",
-    "category": "computer-vision",
-    "description": "Visual in-Context Learning (VICL) aims at making progress towards adaptive vision models, that can -- based on a few examples -- adapt to a new task at test-time. With the history of in-context learni...",
-    "link": "http://arxiv.org/abs/2606.10905v1",
+    "id": "arxiv_1781074509333_2",
+    "name": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+    "category": "machine-learning",
+    "description": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are larg...",
+    "link": "http://arxiv.org/abs/2606.11182v1",
     "tags": [
       "AI",
-      "Vision"
+      "LLM"
     ],
-    "date": "2026-06-09T14:13:58Z",
+    "date": "2026-06-09T17:57:16Z",
     "trending": false,
-    "source": "arXiv - Sunil Khatri, Steven Landgraf, Markus Ulrich et al."
+    "source": "arXiv - Weixian Xu, Shilong Liu, Mengdi Wang"
   },
   {
-    "id": "arxiv_1781056916500_3",
-    "name": "Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization",
+    "id": "arxiv_1781074509302_3",
+    "name": "Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization",
     "category": "computer-vision",
-    "description": "Subject Customization is a foundational task in modern image generation. By providing a few reference images and a text prompt, users can generate images of a specific object in any desired scene. How...",
-    "link": "http://arxiv.org/abs/2606.10902v1",
+    "description": "Diffusion-based lip synchronization models achieve strong visual quality and audio-visual alignment, but full-sequence bidirectional attention and many denoising steps make them impractical for real-t...",
+    "link": "http://arxiv.org/abs/2606.11180v1",
+    "tags": [
+      "Diffusion"
+    ],
+    "date": "2026-06-09T17:56:36Z",
+    "trending": false,
+    "source": "arXiv - Paul Hyunbin Cho, Jinhyuk Jang, SeokYoung Lee et al."
+  },
+  {
+    "id": "arxiv_1781074509302_4",
+    "name": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+    "category": "computer-vision",
+    "description": "Data tells stories that shape society; the data journalist's job is to turn raw information into stories non-experts can trust. A high-quality news feature takes a newsroom team weeks: hunting for con...",
+    "link": "http://arxiv.org/abs/2606.11176v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-06-09T14:13:40Z",
+    "date": "2026-06-09T17:51:55Z",
     "trending": false,
-    "source": "arXiv - Xuan Han, Yihao Zhao, Mingyu You"
+    "source": "arXiv - Kevin Qinghong Lin, Batu EI, Yuhong Shi et al."
   },
   {
-    "id": "arxiv_1781056916500_4",
-    "name": "The 1st PortraitCraft Challenge: A CVPR 2026 Workshop Competition on Portrait Composition Understanding and Generation",
-    "category": "computer-vision",
-    "description": "This paper presents an overview of the inaugural PortraitCraft Challenge, held as one of the official competitions at CVPR 2026. The challenge focuses on portrait composition understanding and generat...",
-    "link": "http://arxiv.org/abs/2606.10894v1",
+    "id": "arxiv_1781074509363_1",
+    "name": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+    "category": "nlp",
+    "description": "Data tells stories that shape society; the data journalist's job is to turn raw information into stories non-experts can trust. A high-quality news feature takes a newsroom team weeks: hunting for con...",
+    "link": "http://arxiv.org/abs/2606.11176v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-09T17:51:55Z",
+    "trending": false,
+    "source": "arXiv - Kevin Qinghong Lin, Batu EI, Yuhong Shi et al."
+  },
+  {
+    "id": "arxiv_1781074509270_2",
+    "name": "The Role of Feedback Alignment in Self-Distillation",
+    "category": "ai",
+    "description": "Conditioning a language model on additional context, such as feedback on a previous attempt, typically improves its response. Self-distillation trains the model to retain this improvement when the con...",
+    "link": "http://arxiv.org/abs/2606.11173v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-09T17:50:09Z",
+    "trending": false,
+    "source": "arXiv - Semih Kara, Oğuzhan Ersoy"
+  },
+  {
+    "id": "arxiv_1781074509333_3",
+    "name": "The Role of Feedback Alignment in Self-Distillation",
+    "category": "machine-learning",
+    "description": "Conditioning a language model on additional context, such as feedback on a previous attempt, typically improves its response. Self-distillation trains the model to retain this improvement when the con...",
+    "link": "http://arxiv.org/abs/2606.11173v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-09T17:50:09Z",
+    "trending": false,
+    "source": "arXiv - Semih Kara, Oğuzhan Ersoy"
+  },
+  {
+    "id": "arxiv_1781074509333_4",
+    "name": "Predicting Future Behaviors in Reasoning Models Enables Better Steering",
+    "category": "machine-learning",
+    "description": "Deployed large reasoning models (LRMs) often behave unexpectedly. Test-time steering controls LRM outputs by intervening on their hidden representations, but it can degrade output quality. We argue th...",
+    "link": "http://arxiv.org/abs/2606.11172v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-09T17:49:24Z",
+    "trending": false,
+    "source": "arXiv - Evgenii Kortukov, Piotr Komorowski, Florian Klein et al."
+  },
+  {
+    "id": "arxiv_1781074509270_3",
+    "name": "Piper: A Programmable Distributed Training System",
+    "category": "ai",
+    "description": "Large-scale model training increasingly relies on composing multiple parallelism strategies, such as data, pipeline, and expert parallelism, together with memory-saving optimizations like ZeRO. Deploy...",
+    "link": "http://arxiv.org/abs/2606.11169v1",
     "tags": [
       "AI",
-      "Vision"
+      "Optimization"
     ],
-    "date": "2026-06-09T14:05:48Z",
+    "date": "2026-06-09T17:48:41Z",
     "trending": false,
-    "source": "arXiv - Zijie Lou, Youyun Tang, Xiaochao Qu et al."
+    "source": "arXiv - Megan Frisella, Shubham Tiwari, Andy Ruan et al."
   },
   {
-    "id": "arxiv_1781056916636_2",
-    "name": "Pushing the Limits of LLM Tool Calling via Experiential Knowledge Integration and Activation",
+    "id": "arxiv_1781074509363_2",
+    "name": "Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models",
     "category": "nlp",
-    "description": "Large language models (LLMs) rely on tool use to act as autonomous agents, yet often fail in multi-step execution due to insufficient tool-related knowledge and ineffective knowledge activation. There...",
-    "link": "http://arxiv.org/abs/2606.10875v1",
+    "description": "Full-duplex spoken dialogue models can listen and speak simultaneously, making them a promising architecture for natural conversation. However, current models are trained solely with supervised learni...",
+    "link": "http://arxiv.org/abs/2606.11167v1",
     "tags": [
       "AI",
       "LLM",
       "Reinforcement Learning"
     ],
-    "date": "2026-06-09T13:51:32Z",
-    "trending": true,
-    "source": "arXiv - Yupu Hao, Zhuoran Jin, Huanxuan Liao et al."
-  },
-  {
-    "id": "arxiv_1781056916636_3",
-    "name": "Training LLMs to Enforce Multi-Level Instruction Hierarchies via Gravity-Weighted Direct Preference Optimization",
-    "category": "nlp",
-    "description": "Production LLMs receive instructions from sources with very different levels of trust, yet attend to every token with uniform architectural privilege. This is the structural vulnerability that enables...",
-    "link": "http://arxiv.org/abs/2606.10860v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-06-09T13:39:17Z",
+    "date": "2026-06-09T17:46:55Z",
     "trending": false,
-    "source": "arXiv - Lena S. Bolliger, Lena A. Jäger"
+    "source": "arXiv - Atsumoto Ohashi, Neil Zeghidour, Alexandre Défossez et al."
   },
   {
-    "id": "arxiv_1781056916636_4",
-    "name": "Janus: A Benchmark for Goal-Conditioned Information Distortion in LLMs",
-    "category": "nlp",
-    "description": "LLM deception is often evaluated through direct markers such as fabricated claims, explicit lies, or strategic concealment. However, many real-world misleading communications do not depend on false st...",
-    "link": "http://arxiv.org/abs/2606.10852v1",
+    "id": "arxiv_1781074509270_4",
+    "name": "Flaws in the LLM Automation Narrative",
+    "category": "ai",
+    "description": "Large Language Models (LLMs) are increasingly described as performing at the level of human experts on knowledge economy tasks. These claims are primarily based on how LLMs perform on benchmarking tas...",
+    "link": "http://arxiv.org/abs/2606.11166v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-06-09T13:31:13Z",
+    "date": "2026-06-09T17:46:10Z",
     "trending": false,
-    "source": "arXiv - Polydoros Giannouris, Mohsinul Kabir, Sophia Ananiadou"
+    "source": "arXiv - George Perrett, Javae Elliott, Jennifer Hill et al."
+  },
+  {
+    "id": "arxiv_1781074509363_3",
+    "name": "Provenance-Grounded Gating and Adaptive Recovery in Synthetic Post-Training Data Curation",
+    "category": "nlp",
+    "description": "Synthetic post-training pipelines commonly filter generated samples with reward models or holistic LLM judges, yet two practices remain rarely examined together: whether the filtering signal is ground...",
+    "link": "http://arxiv.org/abs/2606.11127v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-09T17:24:27Z",
+    "trending": false,
+    "source": "arXiv - Soham Bhattacharjee, Karun Sharma, Vinay Kumar Sankarapu et al."
+  },
+  {
+    "id": "arxiv_1781074509363_4",
+    "name": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
+    "category": "nlp",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) is a promising approach for enhancing reasoning and agentic behavior in large language models. However, rollout-intensive policy optimization is o...",
+    "link": "http://arxiv.org/abs/2606.11119v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-06-09T17:16:03Z",
+    "trending": true,
+    "source": "arXiv - Heming Zou, Qi Wang, Yun Qu et al."
   }
 ]
