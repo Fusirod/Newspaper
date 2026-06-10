@@ -1,287 +1,282 @@
 [
   {
-    "id": "arxiv_1781046438208_0",
-    "name": "Latent Spatial Memory for Video World Models",
-    "category": "computer-vision",
-    "description": "Video world models that maintain 3D spatial consistency across generated frames typically rely on explicit point cloud memory constructed in RGB space. This design is both computationally expensive, r...",
-    "link": "http://arxiv.org/abs/2606.09828v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-06-08T17:59:54Z",
-    "trending": false,
-    "source": "arXiv - Weijie Wang, Haoyu Zhao, Yifan Yang et al."
-  },
-  {
-    "id": "arxiv_1781046438208_1",
-    "name": "MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models",
-    "category": "computer-vision",
-    "description": "Temporal modeling is essential for robotic manipulation, as effective control requires both memory of past interactions and imagination of future states. However, most VLA models rely primarily on the...",
-    "link": "http://arxiv.org/abs/2606.09827v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Diffusion"
-    ],
-    "date": "2026-06-08T17:59:53Z",
-    "trending": false,
-    "source": "arXiv - Hao Shi, Weiye Li, Bin Xie et al."
-  },
-  {
-    "id": "arxiv_1781046438013_0",
-    "name": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+    "id": "arxiv_1781056916429_0",
+    "name": "Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models",
     "category": "ai",
-    "description": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, ...",
-    "link": "http://arxiv.org/abs/2606.09826v1",
+    "description": "Persistent memory systems promise to make LLMs more helpful by storing user beliefs over time. We show they also make models less correct by systematically amplifying sycophancy, wherein models priori...",
+    "link": "http://arxiv.org/abs/2606.10949v1",
     "tags": [
       "AI",
-      "Vision",
       "LLM"
     ],
-    "date": "2026-06-08T17:59:43Z",
-    "trending": true,
-    "source": "arXiv - Mingxian Lin, Shengju Qian, Yuqi Liu et al."
-  },
-  {
-    "id": "arxiv_1781046438209_2",
-    "name": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
-    "category": "computer-vision",
-    "description": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, ...",
-    "link": "http://arxiv.org/abs/2606.09826v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-06-08T17:59:43Z",
+    "date": "2026-06-09T14:53:32Z",
     "trending": false,
-    "source": "arXiv - Mingxian Lin, Shengju Qian, Yuqi Liu et al."
+    "source": "arXiv - Shelly Bensal, Axel Magnuson, Aparna Balagopalan et al."
   },
   {
-    "id": "arxiv_1781046438013_1",
-    "name": "An Agency-Transferring Model-Free Policy Enhancement Technique",
-    "category": "ai",
-    "description": "Training reinforcement learning (RL) policies from scratch is\n  costly: it requires careful reward and environment design,\n  extensive tuning, and substantial computation.\n  Yet many control problems ...",
-    "link": "http://arxiv.org/abs/2606.09825v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-06-08T17:59:39Z",
-    "trending": false,
-    "source": "arXiv - Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim et al."
-  },
-  {
-    "id": "arxiv_1781046438232_0",
-    "name": "An Agency-Transferring Model-Free Policy Enhancement Technique",
+    "id": "arxiv_1781056916568_0",
+    "name": "Express Language Modeling",
     "category": "machine-learning",
-    "description": "Training reinforcement learning (RL) policies from scratch is\n  costly: it requires careful reward and environment design,\n  extensive tuning, and substantial computation.\n  Yet many control problems ...",
-    "link": "http://arxiv.org/abs/2606.09825v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-06-08T17:59:39Z",
-    "trending": false,
-    "source": "arXiv - Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim et al."
-  },
-  {
-    "id": "arxiv_1781046438419_0",
-    "name": "Causally Evaluating the Learnability of Formal Language Tasks",
-    "category": "nlp",
-    "description": "Language models, as multi-task learners, acquire a wide range of abilities during training. A fundamental question is how much task-specific data is needed to learn a given task. Answering this for na...",
-    "link": "http://arxiv.org/abs/2606.09822v1",
+    "description": "We introduce a new tool, Express, for converting a non-causal attention approximation into a causal approximation with matching approximation guarantees. When combined with the state-of-the-art Thinfo...",
+    "link": "http://arxiv.org/abs/2606.10944v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-06-08T17:58:36Z",
+    "date": "2026-06-09T14:48:56Z",
     "trending": true,
-    "source": "arXiv - Vésteinn Snæbjarnarson, Anej Svete, Josef Valvoda et al."
+    "source": "arXiv - Albert Gong, Annabelle Michael Carrell, Raaz Dwivedi et al."
   },
   {
-    "id": "arxiv_1781046438232_1",
-    "name": "Rethinking the Divergence Regularization in LLM RL",
-    "category": "machine-learning",
-    "description": "Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy stalenes...",
-    "link": "http://arxiv.org/abs/2606.09821v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Reinforcement Learning",
-      "Optimization"
-    ],
-    "date": "2026-06-08T17:58:23Z",
-    "trending": false,
-    "source": "arXiv - Jiarui Yao, Xiangxin Zhou, Penghui Qi et al."
-  },
-  {
-    "id": "arxiv_1781046438232_2",
-    "name": "Weighted universal approximation of differentiable maps on infinite-dimensional manifolds",
-    "category": "machine-learning",
-    "description": "We generalize the universal approximation theorem for functional input neural networks (FNN) to differentiable maps by including the approximation of the derivatives. A FNN maps the input from a possi...",
-    "link": "http://arxiv.org/abs/2606.09820v1",
-    "tags": [
-      "Neural"
-    ],
-    "date": "2026-06-08T17:57:40Z",
-    "trending": false,
-    "source": "arXiv - Philipp Schmocker, Josef Teichmann"
-  },
-  {
-    "id": "arxiv_1781046438013_2",
-    "name": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
+    "id": "arxiv_1781056916429_1",
+    "name": "Generative Explainability for Next-Generation Networks: LLM-Augmented XAI with Mutual Feature Interactions",
     "category": "ai",
-    "description": "Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choice is analytically convenient and empirically power...",
-    "link": "http://arxiv.org/abs/2606.09816v1",
+    "description": "As artificial intelligence and machine learning (AI/ML) models become integral to network operations, their lack of transparency poses a significant barrier to operator trust. Existing explainable art...",
+    "link": "http://arxiv.org/abs/2606.10942v1",
     "tags": [
       "AI",
-      "Diffusion"
+      "Machine Learning",
+      "LLM"
     ],
-    "date": "2026-06-08T17:56:16Z",
+    "date": "2026-06-09T14:48:26Z",
     "trending": false,
-    "source": "arXiv - Danqi Zhuang, Jisui Huang, Xiaoyue Xi et al."
+    "source": "arXiv - Kiarash Rezaei, Omran Ayoub, Sebastian Troia et al."
   },
   {
-    "id": "arxiv_1781046438209_3",
-    "name": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
-    "category": "computer-vision",
-    "description": "Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choice is analytically convenient and empirically power...",
-    "link": "http://arxiv.org/abs/2606.09816v1",
+    "id": "arxiv_1781056916568_1",
+    "name": "Generative Explainability for Next-Generation Networks: LLM-Augmented XAI with Mutual Feature Interactions",
+    "category": "machine-learning",
+    "description": "As artificial intelligence and machine learning (AI/ML) models become integral to network operations, their lack of transparency poses a significant barrier to operator trust. Existing explainable art...",
+    "link": "http://arxiv.org/abs/2606.10942v1",
     "tags": [
       "AI",
-      "Diffusion"
+      "Machine Learning",
+      "LLM"
     ],
-    "date": "2026-06-08T17:56:16Z",
-    "trending": true,
-    "source": "arXiv - Danqi Zhuang, Jisui Huang, Xiaoyue Xi et al."
+    "date": "2026-06-09T14:48:26Z",
+    "trending": false,
+    "source": "arXiv - Kiarash Rezaei, Omran Ayoub, Sebastian Troia et al."
   },
   {
-    "id": "arxiv_1781046438209_4",
-    "name": "iMaC: Translating Actions into Motion and Contact Images for Embodied World Models",
-    "category": "computer-vision",
-    "description": "Embodied world models have emerged as a pivotal paradigm for visual robotic decision-making and interactive environment simulation. However, conventional embodied frameworks rely on low-dimensional st...",
-    "link": "http://arxiv.org/abs/2606.09813v1",
+    "id": "arxiv_1781056916429_2",
+    "name": "Democratising Camera Trap AI: An Open-Source Model for Detecting UK Mammals",
+    "category": "ai",
+    "description": "Camera traps have become a cornerstone of biodiversity monitoring, but the artificial intelligence that turns vast quantities of images into usable ecological data is often locked behind commercial pl...",
+    "link": "http://arxiv.org/abs/2606.10940v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-06-08T17:55:41Z",
-    "trending": false,
-    "source": "arXiv - Zhenyu Wu, Xiuwei Xu, Yukun Zhou et al."
+    "date": "2026-06-09T14:47:24Z",
+    "trending": true,
+    "source": "arXiv - Paul Fergus, Philip Stephens, Russell A. Hill et al."
   },
   {
-    "id": "arxiv_1781046438013_3",
-    "name": "AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing",
-    "category": "ai",
-    "description": "World-action models have emerged as a promising paradigm for robot manipulation, jointly modeling visual scene dynamics and actions to inject physical priors into policy learning. However, existing wo...",
-    "link": "http://arxiv.org/abs/2606.09811v1",
+    "id": "arxiv_1781056916500_0",
+    "name": "Democratising Camera Trap AI: An Open-Source Model for Detecting UK Mammals",
+    "category": "computer-vision",
+    "description": "Camera traps have become a cornerstone of biodiversity monitoring, but the artificial intelligence that turns vast quantities of images into usable ecological data is often locked behind commercial pl...",
+    "link": "http://arxiv.org/abs/2606.10940v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-09T14:47:24Z",
+    "trending": true,
+    "source": "arXiv - Paul Fergus, Philip Stephens, Russell A. Hill et al."
+  },
+  {
+    "id": "arxiv_1781056916568_2",
+    "name": "Democratising Camera Trap AI: An Open-Source Model for Detecting UK Mammals",
+    "category": "machine-learning",
+    "description": "Camera traps have become a cornerstone of biodiversity monitoring, but the artificial intelligence that turns vast quantities of images into usable ecological data is often locked behind commercial pl...",
+    "link": "http://arxiv.org/abs/2606.10940v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-09T14:47:24Z",
+    "trending": false,
+    "source": "arXiv - Paul Fergus, Philip Stephens, Russell A. Hill et al."
+  },
+  {
+    "id": "arxiv_1781056916500_1",
+    "name": "PENet+: A Lightweight Residual Transformer Framework for Efficient Image Steganalysis",
+    "category": "computer-vision",
+    "description": "Image steganalysis, the detection of hidden information embedded in digital images, is a core component of modern cybersecurity and digital forensics. Recent residual Transformer architectures, such a...",
+    "link": "http://arxiv.org/abs/2606.10939v1",
     "tags": [
       "AI",
       "Transformer",
-      "GAN",
-      "Diffusion"
+      "GAN"
     ],
-    "date": "2026-06-08T17:55:18Z",
-    "trending": false,
-    "source": "arXiv - Jisong Cai, Long Ling, Shiwei Chu et al."
-  },
-  {
-    "id": "arxiv_1781046438013_4",
-    "name": "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
-    "category": "ai",
-    "description": "AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare...",
-    "link": "http://arxiv.org/abs/2606.09809v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-08T17:55:02Z",
-    "trending": false,
-    "source": "arXiv - Avijit Ghosh, Anka Reuel, Jenny Chim et al."
-  },
-  {
-    "id": "arxiv_1781046438232_3",
-    "name": "Topological Neural Operators",
-    "category": "machine-learning",
-    "description": "We introduce Topological Neural Operators (TNOs), a principled framework for operator learning on cell complexes that lifts neural operators (NOs) from functions on points and/or edges to topological ...",
-    "link": "http://arxiv.org/abs/2606.09806v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-06-08T17:54:33Z",
+    "date": "2026-06-09T14:47:16Z",
     "trending": true,
-    "source": "arXiv - Lennart Bastian, Samuel Leventhal, Mustafa Hajij et al."
+    "source": "arXiv - Jincheol AN, Dongsu Kim, Haneol Jang et al."
   },
   {
-    "id": "arxiv_1781046438232_4",
-    "name": "Echo-Memory: A Controlled Study of Memory in Action World Models",
+    "id": "arxiv_1781056916568_3",
+    "name": "A Systematic Approach for Selecting Trajectories for Data Augmentation",
     "category": "machine-learning",
-    "description": "We present \\textbf{Echo-Memory}, a controlled study of memory mechanisms in action-conditioned world models. These models generate multi-segment videos from a first frame, text prompt, and camera-acti...",
-    "link": "http://arxiv.org/abs/2606.09803v1",
+    "description": "Trajectory data augmentation is a promising approach to mitigate data scarcity in machine learning applications, but its utility has been limited by the complexity of preserving spatio-temporal cohere...",
+    "link": "http://arxiv.org/abs/2606.10938v1",
     "tags": [
       "AI",
-      "Diffusion"
-    ],
-    "date": "2026-06-08T17:54:10Z",
-    "trending": false,
-    "source": "arXiv - Wayne King, Zeyue Xue, Yuxuan Bian et al."
-  },
-  {
-    "id": "arxiv_1781046438419_1",
-    "name": "SIGA: Self-Evolving Coding-Agent Adapters for Scientific Simulation",
-    "category": "nlp",
-    "description": "Advanced scientific simulators expose specialized input languages that turn simulation goals into executable configurations, but learning them can cost domain scientists hours to days. We study simula...",
-    "link": "http://arxiv.org/abs/2606.09774v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-08T17:35:17Z",
-    "trending": false,
-    "source": "arXiv - Matthew Ho, Brian Liu, Jixuan Chen et al."
-  },
-  {
-    "id": "arxiv_1781046438419_2",
-    "name": "Data Synthesis and Parameter-Efficient Fine-Tuning for Low-Resource NMT: A Case Study on Q'eqchi' Mayan",
-    "category": "nlp",
-    "description": "Neural machine translation for digitally low-resource Indigenous languages is often hindered by extreme data scarcity, prompting reliance on extractive web-scraping. To ensure data sovereignty, this s...",
-    "link": "http://arxiv.org/abs/2606.09767v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "GAN",
+      "Machine Learning",
       "Optimization"
     ],
-    "date": "2026-06-08T17:29:08Z",
-    "trending": false,
-    "source": "arXiv - Alexander Chulzhanov, Soeren Eberhardt, Arjun Mukherjee"
+    "date": "2026-06-09T14:46:47Z",
+    "trending": true,
+    "source": "arXiv - Adam Nordling"
   },
   {
-    "id": "arxiv_1781046438420_3",
-    "name": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents",
+    "id": "arxiv_1781056916429_3",
+    "name": "Provenance Tracking in AI Compilers through the Lens of Coalgebra",
+    "category": "ai",
+    "description": "AI compilers aggressively rewrite computation graphs through normalization, lowering, and optimization, making it difficult to track the provenance of tensors and operators across compilation. Reliabl...",
+    "link": "http://arxiv.org/abs/2606.10937v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-06-09T14:46:09Z",
+    "trending": false,
+    "source": "arXiv - Zilu Tian, Liying Liu"
+  },
+  {
+    "id": "arxiv_1781056916429_4",
+    "name": "CLP: Collocation-Length Prediction for Zero-Loss Adaptive Multi-Token Inference",
+    "category": "ai",
+    "description": "Large language model inference is bottlenecked by autoregressive decoding, where each token requires a full forward pass. Multi-token prediction (MTP) offers a promising acceleration path, but existin...",
+    "link": "http://arxiv.org/abs/2606.10935v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-09T14:45:12Z",
+    "trending": false,
+    "source": "arXiv - Xuezhen Xie, Zhiqiang Zhou"
+  },
+  {
+    "id": "arxiv_1781056916569_4",
+    "name": "CLP: Collocation-Length Prediction for Zero-Loss Adaptive Multi-Token Inference",
+    "category": "machine-learning",
+    "description": "Large language model inference is bottlenecked by autoregressive decoding, where each token requires a full forward pass. Multi-token prediction (MTP) offers a promising acceleration path, but existin...",
+    "link": "http://arxiv.org/abs/2606.10935v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-09T14:45:12Z",
+    "trending": true,
+    "source": "arXiv - Xuezhen Xie, Zhiqiang Zhou"
+  },
+  {
+    "id": "arxiv_1781056916636_0",
+    "name": "It Takes One to Bias Them All: Breaking Bad with One-Shot GRPO",
     "category": "nlp",
-    "description": "A useful phone agent needs to be personally intelligent. It should reason over a user's identity, history, and preferences as they exist on the device, not just follow isolated instructions in an impe...",
-    "link": "http://arxiv.org/abs/2606.09764v1",
+    "description": "Warning: This paper contains several toxic and offensive statements.\n  Modern large language models (LLMs) are typically aligned through large-scale post-training to ensure fair and reliable behavior....",
+    "link": "http://arxiv.org/abs/2606.10931v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-06-09T14:44:01Z",
+    "trending": false,
+    "source": "arXiv - Naihao Deng, Yilun Zhu, Naichen Shi et al."
+  },
+  {
+    "id": "arxiv_1781056916636_1",
+    "name": "Trace Only What You Need: Structure-Aware On-Demand Hypergraph Memory for Long-Document Question Answering",
+    "category": "nlp",
+    "description": "Long-document question answering (QA) requires large language models (LLMs) to reason over evidence scattered across lengthy documents, where answers often depend on event order, section-level context...",
+    "link": "http://arxiv.org/abs/2606.10921v1",
+    "tags": [
+      "GAN",
+      "LLM"
+    ],
+    "date": "2026-06-09T14:29:06Z",
+    "trending": false,
+    "source": "arXiv - Xiangjun Zai, Xingyu Tan, Chen Chen et al."
+  },
+  {
+    "id": "arxiv_1781056916500_2",
+    "name": "Beyond Model Size: Probing the Gaps in Visual in-Context Learning by Training a Tiny Model",
+    "category": "computer-vision",
+    "description": "Visual in-Context Learning (VICL) aims at making progress towards adaptive vision models, that can -- based on a few examples -- adapt to a new task at test-time. With the history of in-context learni...",
+    "link": "http://arxiv.org/abs/2606.10905v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-06-08T17:27:13Z",
+    "date": "2026-06-09T14:13:58Z",
     "trending": false,
-    "source": "arXiv - Lawrence Keunho Jang, Mareks Woodside, Geronimo Carom et al."
+    "source": "arXiv - Sunil Khatri, Steven Landgraf, Markus Ulrich et al."
   },
   {
-    "id": "arxiv_1781046438420_4",
-    "name": "Collaborative Human-Agent Protocol (CHAP)",
-    "category": "nlp",
-    "description": "Foundation models are moving from response generation into operational roles. They plan across steps, call tools, request human input, coordinate with other agents, and increasingly carry responsibili...",
-    "link": "http://arxiv.org/abs/2606.09751v1",
+    "id": "arxiv_1781056916500_3",
+    "name": "Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization",
+    "category": "computer-vision",
+    "description": "Subject Customization is a foundational task in modern image generation. By providing a few reference images and a text prompt, users can generate images of a specific object in any desired scene. How...",
+    "link": "http://arxiv.org/abs/2606.10902v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-06-08T17:11:42Z",
+    "date": "2026-06-09T14:13:40Z",
+    "trending": false,
+    "source": "arXiv - Xuan Han, Yihao Zhao, Mingyu You"
+  },
+  {
+    "id": "arxiv_1781056916500_4",
+    "name": "The 1st PortraitCraft Challenge: A CVPR 2026 Workshop Competition on Portrait Composition Understanding and Generation",
+    "category": "computer-vision",
+    "description": "This paper presents an overview of the inaugural PortraitCraft Challenge, held as one of the official competitions at CVPR 2026. The challenge focuses on portrait composition understanding and generat...",
+    "link": "http://arxiv.org/abs/2606.10894v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-09T14:05:48Z",
+    "trending": false,
+    "source": "arXiv - Zijie Lou, Youyun Tang, Xiaochao Qu et al."
+  },
+  {
+    "id": "arxiv_1781056916636_2",
+    "name": "Pushing the Limits of LLM Tool Calling via Experiential Knowledge Integration and Activation",
+    "category": "nlp",
+    "description": "Large language models (LLMs) rely on tool use to act as autonomous agents, yet often fail in multi-step execution due to insufficient tool-related knowledge and ineffective knowledge activation. There...",
+    "link": "http://arxiv.org/abs/2606.10875v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-09T13:51:32Z",
     "trending": true,
-    "source": "arXiv - Arsalan Shahid, Gordon Suttie, Philip Black"
+    "source": "arXiv - Yupu Hao, Zhuoran Jin, Huanxuan Liao et al."
+  },
+  {
+    "id": "arxiv_1781056916636_3",
+    "name": "Training LLMs to Enforce Multi-Level Instruction Hierarchies via Gravity-Weighted Direct Preference Optimization",
+    "category": "nlp",
+    "description": "Production LLMs receive instructions from sources with very different levels of trust, yet attend to every token with uniform architectural privilege. This is the structural vulnerability that enables...",
+    "link": "http://arxiv.org/abs/2606.10860v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-06-09T13:39:17Z",
+    "trending": false,
+    "source": "arXiv - Lena S. Bolliger, Lena A. Jäger"
+  },
+  {
+    "id": "arxiv_1781056916636_4",
+    "name": "Janus: A Benchmark for Goal-Conditioned Information Distortion in LLMs",
+    "category": "nlp",
+    "description": "LLM deception is often evaluated through direct markers such as fabricated claims, explicit lies, or strategic concealment. However, many real-world misleading communications do not depend on false st...",
+    "link": "http://arxiv.org/abs/2606.10852v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-09T13:31:13Z",
+    "trending": false,
+    "source": "arXiv - Polydoros Giannouris, Mohsinul Kabir, Sophia Ananiadou"
   }
 ]
