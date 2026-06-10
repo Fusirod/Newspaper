@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1781074509332_0",
+    "id": "arxiv_1781088368988_0",
     "name": "When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
     "category": "machine-learning",
     "description": "Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each ...",
@@ -11,11 +11,11 @@
       "GAN"
     ],
     "date": "2026-06-09T17:59:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ilay Kamai, Hugues Van Assel, Aviv Regev et al."
   },
   {
-    "id": "arxiv_1781074509270_0",
+    "id": "arxiv_1781088368961_0",
     "name": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
     "category": "ai",
     "description": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. St...",
@@ -25,11 +25,11 @@
       "Vision"
     ],
     "date": "2026-06-09T17:59:54Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Tong Xie, Yuanhao Ban, Yunqi Hong et al."
   },
   {
-    "id": "arxiv_1781074509333_1",
+    "id": "arxiv_1781088368988_1",
     "name": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
     "category": "machine-learning",
     "description": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. St...",
@@ -39,11 +39,11 @@
       "Vision"
     ],
     "date": "2026-06-09T17:59:54Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Tong Xie, Yuanhao Ban, Yunqi Hong et al."
   },
   {
-    "id": "arxiv_1781074509363_0",
+    "id": "arxiv_1781088369002_0",
     "name": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
     "category": "nlp",
     "description": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. St...",
@@ -57,7 +57,7 @@
     "source": "arXiv - Tong Xie, Yuanhao Ban, Yunqi Hong et al."
   },
   {
-    "id": "arxiv_1781074509301_0",
+    "id": "arxiv_1781088368975_0",
     "name": "ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations",
     "category": "computer-vision",
     "description": "This paper introduces ARM, a discrete representation-based AutoRegressive Model that unifies image understanding, generation, and editing within a next-token prediction framework. ARM is built on thre...",
@@ -69,11 +69,11 @@
       "Optimization"
     ],
     "date": "2026-06-09T17:59:28Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Junke Wang, Xiao Wang, Jiacheng Pan et al."
   },
   {
-    "id": "arxiv_1781074509302_1",
+    "id": "arxiv_1781088368975_1",
     "name": "Next Forcing: Causal World Modeling with Multi-Chunk Prediction",
     "category": "computer-vision",
     "description": "Autoregressive video generation has emerged as a powerful paradigm for World Action Models (WAMs). However, existing approaches suffer from slow training convergence and limited converged accuracy, pa...",
@@ -83,11 +83,11 @@
       "Vision"
     ],
     "date": "2026-06-09T17:59:22Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Gangwei Xu, Qihang Zhang, Jiaming Zhou et al."
   },
   {
-    "id": "arxiv_1781074509302_2",
+    "id": "arxiv_1781088368976_2",
     "name": "AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference",
     "category": "computer-vision",
     "description": "Low-light video enhancement (LLVE) remains a challenging task due to severe information degradation under low-illumination conditions. Recent multimodal approaches have significantly improved enhancem...",
@@ -96,11 +96,11 @@
       "AI"
     ],
     "date": "2026-06-09T17:59:05Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hangfeng Liang, Yutao Hu, Yanhan Hu et al."
   },
   {
-    "id": "arxiv_1781074509270_1",
+    "id": "arxiv_1781088368962_1",
     "name": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
     "category": "ai",
     "description": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are larg...",
@@ -110,11 +110,11 @@
       "LLM"
     ],
     "date": "2026-06-09T17:57:16Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Weixian Xu, Shilong Liu, Mengdi Wang"
   },
   {
-    "id": "arxiv_1781074509333_2",
+    "id": "arxiv_1781088368989_2",
     "name": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
     "category": "machine-learning",
     "description": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are larg...",
@@ -128,7 +128,7 @@
     "source": "arXiv - Weixian Xu, Shilong Liu, Mengdi Wang"
   },
   {
-    "id": "arxiv_1781074509302_3",
+    "id": "arxiv_1781088368976_3",
     "name": "Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization",
     "category": "computer-vision",
     "description": "Diffusion-based lip synchronization models achieve strong visual quality and audio-visual alignment, but full-sequence bidirectional attention and many denoising steps make them impractical for real-t...",
@@ -141,7 +141,7 @@
     "source": "arXiv - Paul Hyunbin Cho, Jinhyuk Jang, SeokYoung Lee et al."
   },
   {
-    "id": "arxiv_1781074509302_4",
+    "id": "arxiv_1781088368976_4",
     "name": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
     "category": "computer-vision",
     "description": "Data tells stories that shape society; the data journalist's job is to turn raw information into stories non-experts can trust. A high-quality news feature takes a newsroom team weeks: hunting for con...",
@@ -154,7 +154,7 @@
     "source": "arXiv - Kevin Qinghong Lin, Batu EI, Yuhong Shi et al."
   },
   {
-    "id": "arxiv_1781074509363_1",
+    "id": "arxiv_1781088369002_1",
     "name": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
     "category": "nlp",
     "description": "Data tells stories that shape society; the data journalist's job is to turn raw information into stories non-experts can trust. A high-quality news feature takes a newsroom team weeks: hunting for con...",
@@ -167,7 +167,7 @@
     "source": "arXiv - Kevin Qinghong Lin, Batu EI, Yuhong Shi et al."
   },
   {
-    "id": "arxiv_1781074509270_2",
+    "id": "arxiv_1781088368962_2",
     "name": "The Role of Feedback Alignment in Self-Distillation",
     "category": "ai",
     "description": "Conditioning a language model on additional context, such as feedback on a previous attempt, typically improves its response. Self-distillation trains the model to retain this improvement when the con...",
@@ -180,7 +180,7 @@
     "source": "arXiv - Semih Kara, Oğuzhan Ersoy"
   },
   {
-    "id": "arxiv_1781074509333_3",
+    "id": "arxiv_1781088368989_3",
     "name": "The Role of Feedback Alignment in Self-Distillation",
     "category": "machine-learning",
     "description": "Conditioning a language model on additional context, such as feedback on a previous attempt, typically improves its response. Self-distillation trains the model to retain this improvement when the con...",
@@ -193,7 +193,7 @@
     "source": "arXiv - Semih Kara, Oğuzhan Ersoy"
   },
   {
-    "id": "arxiv_1781074509333_4",
+    "id": "arxiv_1781088368989_4",
     "name": "Predicting Future Behaviors in Reasoning Models Enables Better Steering",
     "category": "machine-learning",
     "description": "Deployed large reasoning models (LRMs) often behave unexpectedly. Test-time steering controls LRM outputs by intervening on their hidden representations, but it can degrade output quality. We argue th...",
@@ -202,11 +202,11 @@
       "AI"
     ],
     "date": "2026-06-09T17:49:24Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Evgenii Kortukov, Piotr Komorowski, Florian Klein et al."
   },
   {
-    "id": "arxiv_1781074509270_3",
+    "id": "arxiv_1781088368962_3",
     "name": "Piper: A Programmable Distributed Training System",
     "category": "ai",
     "description": "Large-scale model training increasingly relies on composing multiple parallelism strategies, such as data, pipeline, and expert parallelism, together with memory-saving optimizations like ZeRO. Deploy...",
@@ -220,7 +220,7 @@
     "source": "arXiv - Megan Frisella, Shubham Tiwari, Andy Ruan et al."
   },
   {
-    "id": "arxiv_1781074509363_2",
+    "id": "arxiv_1781088369002_2",
     "name": "Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models",
     "category": "nlp",
     "description": "Full-duplex spoken dialogue models can listen and speak simultaneously, making them a promising architecture for natural conversation. However, current models are trained solely with supervised learni...",
@@ -235,7 +235,7 @@
     "source": "arXiv - Atsumoto Ohashi, Neil Zeghidour, Alexandre Défossez et al."
   },
   {
-    "id": "arxiv_1781074509270_4",
+    "id": "arxiv_1781088368962_4",
     "name": "Flaws in the LLM Automation Narrative",
     "category": "ai",
     "description": "Large Language Models (LLMs) are increasingly described as performing at the level of human experts on knowledge economy tasks. These claims are primarily based on how LLMs perform on benchmarking tas...",
@@ -249,7 +249,7 @@
     "source": "arXiv - George Perrett, Javae Elliott, Jennifer Hill et al."
   },
   {
-    "id": "arxiv_1781074509363_3",
+    "id": "arxiv_1781088369002_3",
     "name": "Provenance-Grounded Gating and Adaptive Recovery in Synthetic Post-Training Data Curation",
     "category": "nlp",
     "description": "Synthetic post-training pipelines commonly filter generated samples with reward models or holistic LLM judges, yet two practices remain rarely examined together: whether the filtering signal is ground...",
@@ -263,7 +263,7 @@
     "source": "arXiv - Soham Bhattacharjee, Karun Sharma, Vinay Kumar Sankarapu et al."
   },
   {
-    "id": "arxiv_1781074509363_4",
+    "id": "arxiv_1781088369002_4",
     "name": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
     "category": "nlp",
     "description": "Reinforcement learning with verifiable rewards (RLVR) is a promising approach for enhancing reasoning and agentic behavior in large language models. However, rollout-intensive policy optimization is o...",
