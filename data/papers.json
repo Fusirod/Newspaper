@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1781186226694_0",
+    "id": "arxiv_1781199174360_0",
     "name": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
     "category": "ai",
     "description": "Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token re...",
@@ -15,7 +15,7 @@
     "source": "arXiv - Cheng-Yu Yang, Shao-Yuan Lo, Yu-Lun Liu"
   },
   {
-    "id": "arxiv_1781186226972_0",
+    "id": "arxiv_1781199174567_0",
     "name": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
     "category": "computer-vision",
     "description": "Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token re...",
@@ -30,7 +30,7 @@
     "source": "arXiv - Cheng-Yu Yang, Shao-Yuan Lo, Yu-Lun Liu"
   },
   {
-    "id": "arxiv_1781186226984_0",
+    "id": "arxiv_1781199174590_0",
     "name": "Context-Driven Incremental Compression for Multi-Turn Dialogue Generation",
     "category": "machine-learning",
     "description": "Modern conversational agents condition on an ever-growing dialogue history at each turn, incurring redundant attention and encoding costs that grow with conversation length. Naive truncation or summar...",
@@ -40,11 +40,11 @@
       "Vision"
     ],
     "date": "2026-06-10T17:59:54Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yeongseo Jung, Jaehyeok Kim, Eunseo Jung et al."
   },
   {
-    "id": "arxiv_1781186226996_0",
+    "id": "arxiv_1781199174634_0",
     "name": "Context-Driven Incremental Compression for Multi-Turn Dialogue Generation",
     "category": "nlp",
     "description": "Modern conversational agents condition on an ever-growing dialogue history at each turn, incurring redundant attention and encoding costs that grow with conversation length. Naive truncation or summar...",
@@ -58,7 +58,7 @@
     "source": "arXiv - Yeongseo Jung, Jaehyeok Kim, Eunseo Jung et al."
   },
   {
-    "id": "arxiv_1781186226972_1",
+    "id": "arxiv_1781199174567_1",
     "name": "How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology",
     "category": "computer-vision",
     "description": "General-purpose large language models (LLMs) are routinely used as baselines when evaluating specialized pathology models on whole-slide images (WSIs). Because WSIs exceed contemporary model context l...",
@@ -74,7 +74,7 @@
     "source": "arXiv - Kian R. Weihrauch, Thomas A. Buckley, William Lotter et al."
   },
   {
-    "id": "arxiv_1781186226695_1",
+    "id": "arxiv_1781199174360_1",
     "name": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
     "category": "ai",
     "description": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method...",
@@ -88,7 +88,7 @@
     "source": "arXiv - Steven Oh, Jason Jingzhou Liu, Tony Tao et al."
   },
   {
-    "id": "arxiv_1781186226984_1",
+    "id": "arxiv_1781199174590_1",
     "name": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
     "category": "machine-learning",
     "description": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method...",
@@ -98,11 +98,11 @@
       "Neural"
     ],
     "date": "2026-06-10T17:59:35Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Steven Oh, Jason Jingzhou Liu, Tony Tao et al."
   },
   {
-    "id": "arxiv_1781186226695_2",
+    "id": "arxiv_1781199174360_2",
     "name": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
     "category": "ai",
     "description": "Vision-Language Models (VLMs) are increasingly deployed as high-level planners for embodied agents, with an emerging strategy of scaling test-time compute to improve capability. However, we observe th...",
@@ -116,7 +116,7 @@
     "source": "arXiv - Jadelynn Dao, Milan Ganai, Yasmina Abukhadra et al."
   },
   {
-    "id": "arxiv_1781186226972_2",
+    "id": "arxiv_1781199174567_2",
     "name": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
     "category": "computer-vision",
     "description": "Vision-Language Models (VLMs) are increasingly deployed as high-level planners for embodied agents, with an emerging strategy of scaling test-time compute to improve capability. However, we observe th...",
@@ -126,11 +126,11 @@
       "Vision"
     ],
     "date": "2026-06-10T17:58:49Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jadelynn Dao, Milan Ganai, Yasmina Abukhadra et al."
   },
   {
-    "id": "arxiv_1781186226996_1",
+    "id": "arxiv_1781199174634_1",
     "name": "Doc-to-Atom: Learning to Compile and Compose Memory Atoms",
     "category": "nlp",
     "description": "Long input sequences are central to document understanding and multi-step reasoning in Large Language Models, yet the quadratic cost of attention makes inference both memory-intensive and slow. Contex...",
@@ -143,7 +143,7 @@
     "source": "arXiv - Xingjian Diao, Wenbo Li, Yashas Malur Saidutta et al."
   },
   {
-    "id": "arxiv_1781186226695_3",
+    "id": "arxiv_1781199174360_3",
     "name": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
     "category": "ai",
     "description": "Router is the cornerstone component to the Mixture-of-Experts models. Serving as expert proxies, the rows of the router matrix compute their similarity to the MoE inputs to determine which subset of e...",
@@ -156,7 +156,7 @@
     "source": "arXiv - Songhao Wu, Ang Lv, Ruobing Xie et al."
   },
   {
-    "id": "arxiv_1781186226984_2",
+    "id": "arxiv_1781199174590_2",
     "name": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
     "category": "machine-learning",
     "description": "Router is the cornerstone component to the Mixture-of-Experts models. Serving as expert proxies, the rows of the router matrix compute their similarity to the MoE inputs to determine which subset of e...",
@@ -165,11 +165,11 @@
       "AI"
     ],
     "date": "2026-06-10T17:57:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Songhao Wu, Ang Lv, Ruobing Xie et al."
   },
   {
-    "id": "arxiv_1781186226996_2",
+    "id": "arxiv_1781199174634_2",
     "name": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
     "category": "nlp",
     "description": "Router is the cornerstone component to the Mixture-of-Experts models. Serving as expert proxies, the rows of the router matrix compute their similarity to the MoE inputs to determine which subset of e...",
@@ -182,7 +182,7 @@
     "source": "arXiv - Songhao Wu, Ang Lv, Ruobing Xie et al."
   },
   {
-    "id": "arxiv_1781186226972_3",
+    "id": "arxiv_1781199174567_3",
     "name": "VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving",
     "category": "computer-vision",
     "description": "Vision-language-action (VLA) models can describe scenes and reason about them in language, yet still struggle to ground their actions in the dense 3D world around them. Existing approaches either inje...",
@@ -196,7 +196,7 @@
     "source": "arXiv - Jin Yao, Dhruva Dixith Kurra, Tom Lampo et al."
   },
   {
-    "id": "arxiv_1781186226695_4",
+    "id": "arxiv_1781199174360_4",
     "name": "System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5",
     "category": "ai",
     "description": "Recently, large language models (LLMs) have achieved promising progress in the fields of classical Chinese translation and the generation of classical poetry. However, domain-specific research on prec...",
@@ -211,7 +211,7 @@
     "source": "arXiv - Haotao Xie"
   },
   {
-    "id": "arxiv_1781186226996_3",
+    "id": "arxiv_1781199174634_3",
     "name": "System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5",
     "category": "nlp",
     "description": "Recently, large language models (LLMs) have achieved promising progress in the fields of classical Chinese translation and the generation of classical poetry. However, domain-specific research on prec...",
@@ -226,7 +226,7 @@
     "source": "arXiv - Haotao Xie"
   },
   {
-    "id": "arxiv_1781186226984_3",
+    "id": "arxiv_1781199174590_3",
     "name": "ATLAS: Active Theory Learning for Automated Science",
     "category": "machine-learning",
     "description": "Advancing scientific understanding through mechanistic modeling requires posing the right experimental questions to yield maximally informative data. To automate this pursuit within cognitive science,...",
@@ -242,7 +242,7 @@
     "source": "arXiv - Noémi Éltető, Nathaniel D. Daw, Kimberly L. Stachenfeld et al."
   },
   {
-    "id": "arxiv_1781186226996_4",
+    "id": "arxiv_1781199174634_4",
     "name": "Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs",
     "category": "nlp",
     "description": "Modern LLM training pipelines increasingly rely on other models to generate data, filter corpora, judge outputs, and guide development decisions. These dependencies are recursive: a model may depend o...",
@@ -252,11 +252,11 @@
       "LLM"
     ],
     "date": "2026-06-10T17:47:59Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sanjay Adhikesaven, Haoxiang Sun, Sewon Min"
   },
   {
-    "id": "arxiv_1781186226984_4",
+    "id": "arxiv_1781199174590_4",
     "name": "APPO: Agentic Procedural Policy Optimization",
     "category": "machine-learning",
     "description": "Recent advances in agentic Reinforcement Learning (RL) have substantially improved the multi-turn tool-use capabilities of large language model agents. However, most existing methods assign credit ove...",
@@ -271,7 +271,7 @@
     "source": "arXiv - Xucong Wang, Ziyu Ma, Yong Wang et al."
   },
   {
-    "id": "arxiv_1781186226973_4",
+    "id": "arxiv_1781199174567_4",
     "name": "Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots",
     "category": "computer-vision",
     "description": "Physiological awareness is important for service, social, and assistive robots that interact with humans in everyday environments. Remote photoplethysmography (rPPG) enables non-contact heart-rate (HR...",
