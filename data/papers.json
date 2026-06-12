@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1781280556100_0",
+    "id": "arxiv_1781290550208_0",
     "name": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
     "category": "nlp",
     "description": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dyna...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Jundong Xu, Qingchuan Li, Jiaying Wu et al."
   },
   {
-    "id": "arxiv_1781280556055_0",
+    "id": "arxiv_1781290550155_0",
     "name": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
     "category": "ai",
     "description": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s...",
@@ -27,7 +27,7 @@
     "source": "arXiv - Zilin Xiao, Qi Ma, Chun-cheng Jason Chen et al."
   },
   {
-    "id": "arxiv_1781280556100_1",
+    "id": "arxiv_1781290550208_1",
     "name": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
     "category": "nlp",
     "description": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s...",
@@ -40,7 +40,7 @@
     "source": "arXiv - Zilin Xiao, Qi Ma, Chun-cheng Jason Chen et al."
   },
   {
-    "id": "arxiv_1781280556070_0",
+    "id": "arxiv_1781290550172_0",
     "name": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
     "category": "computer-vision",
     "description": "Recent image generators have demonstrated impressive photorealism and instruction-following capabilities in single-image generation and editing. However, constrained by their architectures, they canno...",
@@ -55,7 +55,7 @@
     "source": "arXiv - Dian Zheng, Harry Lee, Manyuan Zhang et al."
   },
   {
-    "id": "arxiv_1781280556055_1",
+    "id": "arxiv_1781290550155_1",
     "name": "Mana: Dexterous Manipulation of Articulated Tools",
     "category": "ai",
     "description": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu...",
@@ -66,11 +66,11 @@
       "Robotics"
     ],
     "date": "2026-06-11T17:59:49Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zhao-Heng Yin, Guanya Shi, Pieter Abbeel et al."
   },
   {
-    "id": "arxiv_1781280556070_1",
+    "id": "arxiv_1781290550172_1",
     "name": "Mana: Dexterous Manipulation of Articulated Tools",
     "category": "computer-vision",
     "description": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu...",
@@ -85,7 +85,7 @@
     "source": "arXiv - Zhao-Heng Yin, Guanya Shi, Pieter Abbeel et al."
   },
   {
-    "id": "arxiv_1781280556084_0",
+    "id": "arxiv_1781290550191_0",
     "name": "Mana: Dexterous Manipulation of Articulated Tools",
     "category": "machine-learning",
     "description": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu...",
@@ -100,7 +100,7 @@
     "source": "arXiv - Zhao-Heng Yin, Guanya Shi, Pieter Abbeel et al."
   },
   {
-    "id": "arxiv_1781280556071_2",
+    "id": "arxiv_1781290550173_2",
     "name": "Modality Forcing for Scalable Spatial Generation",
     "category": "computer-vision",
     "description": "Text-to-image (T2I) models contain rich spatial priors. Synthesizing photorealistic, cluttered scenes requires an understanding of geometry, including perspective and relative scale. Prior works adapt...",
@@ -113,7 +113,7 @@
     "source": "arXiv - Bardienus Pieter Duisterhof, Deva Ramanan, Jeffrey Ichnowski et al."
   },
   {
-    "id": "arxiv_1781280556071_3",
+    "id": "arxiv_1781290550173_3",
     "name": "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers",
     "category": "computer-vision",
     "description": "This work presents RepWAM, a representation-centric world action model (WAM) built on representation visual-action tokenizers. Existing WAMs typically inherit reconstruction-oriented video tokenizers ...",
@@ -126,7 +126,7 @@
     "source": "arXiv - Junke Wang, Qihang Zhang, Shuai Yang et al."
   },
   {
-    "id": "arxiv_1781280556056_2",
+    "id": "arxiv_1781290550155_2",
     "name": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
     "category": "ai",
     "description": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp...",
@@ -136,11 +136,11 @@
       "Vision"
     ],
     "date": "2026-06-11T17:59:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Seokju Cho, Ryo Hachiuma, Abhishek Badki et al."
   },
   {
-    "id": "arxiv_1781280556071_4",
+    "id": "arxiv_1781290550173_4",
     "name": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
     "category": "computer-vision",
     "description": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp...",
@@ -154,7 +154,7 @@
     "source": "arXiv - Seokju Cho, Ryo Hachiuma, Abhishek Badki et al."
   },
   {
-    "id": "arxiv_1781280556084_1",
+    "id": "arxiv_1781290550191_1",
     "name": "Understanding Truncated Positional Encodings for Graph Neural Networks",
     "category": "machine-learning",
     "description": "Positional encodings (PEs) enhance the power of graph neural networks (GNNs), both theoretically and empirically. Two of the most popular families of PEs - spectral (e.g., Laplacian eigenspaces, effec...",
@@ -167,7 +167,7 @@
     "source": "arXiv - James Flora, Mitchell Black, Weng-Keen Wong et al."
   },
   {
-    "id": "arxiv_1781280556056_3",
+    "id": "arxiv_1781290550155_3",
     "name": "Automated reproducibility assessments in the social and behavioral sciences using large language models",
     "category": "ai",
     "description": "Reproducibility in the social and behavioral sciences is typically evaluated by independent researchers who reanalyze the original data to assess whether the published findings can be recovered. Howev...",
@@ -181,7 +181,7 @@
     "source": "arXiv - Tobias Holtdirk, Pietro Marcolongo, Anna Steinberg Schulten et al."
   },
   {
-    "id": "arxiv_1781280556056_4",
+    "id": "arxiv_1781290550155_4",
     "name": "Agents-K1: Towards Agent-native Knowledge Orchestration",
     "category": "ai",
     "description": "Current LLM-based research agents have advanced through agent orchestration, yet largely overlook scientific knowledge orchestration. Existing works often reduce papers to abstracts, surface mentions,...",
@@ -195,7 +195,7 @@
     "source": "arXiv - Zongsheng Cao, Bihao Zhan, Jinxin Shi et al."
   },
   {
-    "id": "arxiv_1781280556100_2",
+    "id": "arxiv_1781290550209_2",
     "name": "Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution",
     "category": "nlp",
     "description": "With the growth of LLMs' (Large Language Models) capabilities, there has been an increasing push to curate high quality datasets by filtering samples in the training data. In general, Data Attribution...",
@@ -205,11 +205,11 @@
       "LLM"
     ],
     "date": "2026-06-11T17:58:33Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Dimitri Kachler, Damien Sileo, Pascal Denis"
   },
   {
-    "id": "arxiv_1781280556100_3",
+    "id": "arxiv_1781290550209_3",
     "name": "HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents",
     "category": "nlp",
     "description": "Tool-augmented LLM agents commonly rely on step-wise atomic tool calls, where each invocation, observation, and value transfer is exposed in the main reasoning trace. This creates an \\emph{execution-g...",
@@ -220,11 +220,11 @@
       "GPT"
     ],
     "date": "2026-06-11T17:56:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yaxin Du, Yifan Zhou, Yujie Ge et al."
   },
   {
-    "id": "arxiv_1781280556100_4",
+    "id": "arxiv_1781290550209_4",
     "name": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
     "category": "nlp",
     "description": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific soluti...",
@@ -240,7 +240,7 @@
     "source": "arXiv - Amy Xin, Jiening Siow, Junjie Wang et al."
   },
   {
-    "id": "arxiv_1781280556085_2",
+    "id": "arxiv_1781290550192_2",
     "name": "Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation",
     "category": "machine-learning",
     "description": "On-policy distillation (\\textsc{OPD}) has recently become a prominent post-training recipe as it combines two desirable ingredients: on-policy student trajectories and dense teacher supervision, yet h...",
@@ -254,7 +254,7 @@
     "source": "arXiv - Guo Yu, Wenlin Liu, Yulan Hu et al."
   },
   {
-    "id": "arxiv_1781280556085_3",
+    "id": "arxiv_1781290550192_3",
     "name": "Operadic consistency: a label-free signal for compositional reasoning failures in LLMs",
     "category": "machine-learning",
     "description": "Detecting LLM reasoning failures at inference time without ground-truth labels has motivated a wide range of confidence baselines, including self-consistency, semantic entropy, and P(True), built on w...",
@@ -264,11 +264,11 @@
       "LLM"
     ],
     "date": "2026-06-11T17:50:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Nathaniel Bottman, Yinhong Liu, Kyle Richardson"
   },
   {
-    "id": "arxiv_1781280556085_4",
+    "id": "arxiv_1781290550192_4",
     "name": "SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation",
     "category": "machine-learning",
     "description": "We introduce SkMTEB, the first comprehensive MTEB-style text embedding benchmark for Slovak, a low-resource West Slavic language, comprising 31 datasets across 7 task types -- nearly 4$\\times$ the dep...",
