@@ -1,288 +1,283 @@
 [
   {
-    "id": "arxiv_1781223122101_0",
-    "name": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
-    "category": "ai",
-    "description": "Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token re...",
-    "link": "http://arxiv.org/abs/2606.12412v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-06-10T17:59:57Z",
-    "trending": true,
-    "source": "arXiv - Cheng-Yu Yang, Shao-Yuan Lo, Yu-Lun Liu"
-  },
-  {
-    "id": "arxiv_1781223122165_0",
-    "name": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
-    "category": "computer-vision",
-    "description": "Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token re...",
-    "link": "http://arxiv.org/abs/2606.12412v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-06-10T17:59:57Z",
-    "trending": true,
-    "source": "arXiv - Cheng-Yu Yang, Shao-Yuan Lo, Yu-Lun Liu"
-  },
-  {
-    "id": "arxiv_1781223122227_0",
-    "name": "Context-Driven Incremental Compression for Multi-Turn Dialogue Generation",
-    "category": "machine-learning",
-    "description": "Modern conversational agents condition on an ever-growing dialogue history at each turn, incurring redundant attention and encoding costs that grow with conversation length. Naive truncation or summar...",
-    "link": "http://arxiv.org/abs/2606.12411v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-10T17:59:54Z",
-    "trending": false,
-    "source": "arXiv - Yeongseo Jung, Jaehyeok Kim, Eunseo Jung et al."
-  },
-  {
-    "id": "arxiv_1781223122288_0",
-    "name": "Context-Driven Incremental Compression for Multi-Turn Dialogue Generation",
+    "id": "arxiv_1781241793498_0",
+    "name": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
     "category": "nlp",
-    "description": "Modern conversational agents condition on an ever-growing dialogue history at each turn, incurring redundant attention and encoding costs that grow with conversation length. Naive truncation or summar...",
-    "link": "http://arxiv.org/abs/2606.12411v1",
+    "description": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dyna...",
+    "link": "http://arxiv.org/abs/2606.13681v1",
     "tags": [
       "AI",
-      "Vision"
+      "LLM"
     ],
-    "date": "2026-06-10T17:59:54Z",
+    "date": "2026-06-11T17:59:59Z",
     "trending": false,
-    "source": "arXiv - Yeongseo Jung, Jaehyeok Kim, Eunseo Jung et al."
+    "source": "arXiv - Jundong Xu, Qingchuan Li, Jiaying Wu et al."
   },
   {
-    "id": "arxiv_1781223122166_1",
-    "name": "How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology",
+    "id": "arxiv_1781241793312_0",
+    "name": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+    "category": "ai",
+    "description": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s...",
+    "link": "http://arxiv.org/abs/2606.13680v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-11T17:59:52Z",
+    "trending": true,
+    "source": "arXiv - Zilin Xiao, Qi Ma, Chun-cheng Jason Chen et al."
+  },
+  {
+    "id": "arxiv_1781241793499_1",
+    "name": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+    "category": "nlp",
+    "description": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s...",
+    "link": "http://arxiv.org/abs/2606.13680v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-11T17:59:52Z",
+    "trending": true,
+    "source": "arXiv - Zilin Xiao, Qi Ma, Chun-cheng Jason Chen et al."
+  },
+  {
+    "id": "arxiv_1781241793376_0",
+    "name": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
     "category": "computer-vision",
-    "description": "General-purpose large language models (LLMs) are routinely used as baselines when evaluating specialized pathology models on whole-slide images (WSIs). Because WSIs exceed contemporary model context l...",
-    "link": "http://arxiv.org/abs/2606.12407v1",
+    "description": "Recent image generators have demonstrated impressive photorealism and instruction-following capabilities in single-image generation and editing. However, constrained by their architectures, they canno...",
+    "link": "http://arxiv.org/abs/2606.13679v1",
     "tags": [
       "AI",
       "GAN",
-      "LLM",
       "GPT"
     ],
-    "date": "2026-06-10T17:59:39Z",
+    "date": "2026-06-11T17:59:50Z",
     "trending": false,
-    "source": "arXiv - Kian R. Weihrauch, Thomas A. Buckley, William Lotter et al."
+    "source": "arXiv - Dian Zheng, Harry Lee, Manyuan Zhang et al."
   },
   {
-    "id": "arxiv_1781223122101_1",
-    "name": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
+    "id": "arxiv_1781241793312_1",
+    "name": "Mana: Dexterous Manipulation of Articulated Tools",
     "category": "ai",
-    "description": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method...",
-    "link": "http://arxiv.org/abs/2606.12406v1",
+    "description": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu...",
+    "link": "http://arxiv.org/abs/2606.13677v1",
     "tags": [
       "AI",
+      "Reinforcement Learning",
+      "Robotics"
+    ],
+    "date": "2026-06-11T17:59:49Z",
+    "trending": false,
+    "source": "arXiv - Zhao-Heng Yin, Guanya Shi, Pieter Abbeel et al."
+  },
+  {
+    "id": "arxiv_1781241793376_1",
+    "name": "Mana: Dexterous Manipulation of Articulated Tools",
+    "category": "computer-vision",
+    "description": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu...",
+    "link": "http://arxiv.org/abs/2606.13677v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Robotics"
+    ],
+    "date": "2026-06-11T17:59:49Z",
+    "trending": true,
+    "source": "arXiv - Zhao-Heng Yin, Guanya Shi, Pieter Abbeel et al."
+  },
+  {
+    "id": "arxiv_1781241793436_0",
+    "name": "Mana: Dexterous Manipulation of Articulated Tools",
+    "category": "machine-learning",
+    "description": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu...",
+    "link": "http://arxiv.org/abs/2606.13677v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Robotics"
+    ],
+    "date": "2026-06-11T17:59:49Z",
+    "trending": false,
+    "source": "arXiv - Zhao-Heng Yin, Guanya Shi, Pieter Abbeel et al."
+  },
+  {
+    "id": "arxiv_1781241793376_2",
+    "name": "Modality Forcing for Scalable Spatial Generation",
+    "category": "computer-vision",
+    "description": "Text-to-image (T2I) models contain rich spatial priors. Synthesizing photorealistic, cluttered scenes requires an understanding of geometry, including perspective and relative scale. Prior works adapt...",
+    "link": "http://arxiv.org/abs/2606.13676v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-11T17:59:45Z",
+    "trending": true,
+    "source": "arXiv - Bardienus Pieter Duisterhof, Deva Ramanan, Jeffrey Ichnowski et al."
+  },
+  {
+    "id": "arxiv_1781241793376_3",
+    "name": "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers",
+    "category": "computer-vision",
+    "description": "This work presents RepWAM, a representation-centric world action model (WAM) built on representation visual-action tokenizers. Existing WAMs typically inherit reconstruction-oriented video tokenizers ...",
+    "link": "http://arxiv.org/abs/2606.13674v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-11T17:59:43Z",
+    "trending": false,
+    "source": "arXiv - Junke Wang, Qihang Zhang, Shuai Yang et al."
+  },
+  {
+    "id": "arxiv_1781241793313_2",
+    "name": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+    "category": "ai",
+    "description": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp...",
+    "link": "http://arxiv.org/abs/2606.13673v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-11T17:59:36Z",
+    "trending": true,
+    "source": "arXiv - Seokju Cho, Ryo Hachiuma, Abhishek Badki et al."
+  },
+  {
+    "id": "arxiv_1781241793376_4",
+    "name": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+    "category": "computer-vision",
+    "description": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp...",
+    "link": "http://arxiv.org/abs/2606.13673v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-11T17:59:36Z",
+    "trending": true,
+    "source": "arXiv - Seokju Cho, Ryo Hachiuma, Abhishek Badki et al."
+  },
+  {
+    "id": "arxiv_1781241793436_1",
+    "name": "Understanding Truncated Positional Encodings for Graph Neural Networks",
+    "category": "machine-learning",
+    "description": "Positional encodings (PEs) enhance the power of graph neural networks (GNNs), both theoretically and empirically. Two of the most popular families of PEs - spectral (e.g., Laplacian eigenspaces, effec...",
+    "link": "http://arxiv.org/abs/2606.13671v1",
+    "tags": [
       "Neural"
     ],
-    "date": "2026-06-10T17:59:35Z",
+    "date": "2026-06-11T17:58:56Z",
     "trending": false,
-    "source": "arXiv - Steven Oh, Jason Jingzhou Liu, Tony Tao et al."
+    "source": "arXiv - James Flora, Mitchell Black, Weng-Keen Wong et al."
   },
   {
-    "id": "arxiv_1781223122227_1",
-    "name": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
-    "category": "machine-learning",
-    "description": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method...",
-    "link": "http://arxiv.org/abs/2606.12406v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-06-10T17:59:35Z",
-    "trending": true,
-    "source": "arXiv - Steven Oh, Jason Jingzhou Liu, Tony Tao et al."
-  },
-  {
-    "id": "arxiv_1781223122101_2",
-    "name": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
+    "id": "arxiv_1781241793313_3",
+    "name": "Automated reproducibility assessments in the social and behavioral sciences using large language models",
     "category": "ai",
-    "description": "Vision-Language Models (VLMs) are increasingly deployed as high-level planners for embodied agents, with an emerging strategy of scaling test-time compute to improve capability. However, we observe th...",
-    "link": "http://arxiv.org/abs/2606.12402v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-10T17:58:49Z",
-    "trending": false,
-    "source": "arXiv - Jadelynn Dao, Milan Ganai, Yasmina Abukhadra et al."
-  },
-  {
-    "id": "arxiv_1781223122166_2",
-    "name": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
-    "category": "computer-vision",
-    "description": "Vision-Language Models (VLMs) are increasingly deployed as high-level planners for embodied agents, with an emerging strategy of scaling test-time compute to improve capability. However, we observe th...",
-    "link": "http://arxiv.org/abs/2606.12402v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-10T17:58:49Z",
-    "trending": true,
-    "source": "arXiv - Jadelynn Dao, Milan Ganai, Yasmina Abukhadra et al."
-  },
-  {
-    "id": "arxiv_1781223122289_1",
-    "name": "Doc-to-Atom: Learning to Compile and Compose Memory Atoms",
-    "category": "nlp",
-    "description": "Long input sequences are central to document understanding and multi-step reasoning in Large Language Models, yet the quadratic cost of attention makes inference both memory-intensive and slow. Contex...",
-    "link": "http://arxiv.org/abs/2606.12400v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-10T17:58:20Z",
-    "trending": false,
-    "source": "arXiv - Xingjian Diao, Wenbo Li, Yashas Malur Saidutta et al."
-  },
-  {
-    "id": "arxiv_1781223122102_3",
-    "name": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
-    "category": "ai",
-    "description": "Router is the cornerstone component to the Mixture-of-Experts models. Serving as expert proxies, the rows of the router matrix compute their similarity to the MoE inputs to determine which subset of e...",
-    "link": "http://arxiv.org/abs/2606.12397v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-10T17:57:36Z",
-    "trending": false,
-    "source": "arXiv - Songhao Wu, Ang Lv, Ruobing Xie et al."
-  },
-  {
-    "id": "arxiv_1781223122227_2",
-    "name": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
-    "category": "machine-learning",
-    "description": "Router is the cornerstone component to the Mixture-of-Experts models. Serving as expert proxies, the rows of the router matrix compute their similarity to the MoE inputs to determine which subset of e...",
-    "link": "http://arxiv.org/abs/2606.12397v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-10T17:57:36Z",
-    "trending": true,
-    "source": "arXiv - Songhao Wu, Ang Lv, Ruobing Xie et al."
-  },
-  {
-    "id": "arxiv_1781223122289_2",
-    "name": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
-    "category": "nlp",
-    "description": "Router is the cornerstone component to the Mixture-of-Experts models. Serving as expert proxies, the rows of the router matrix compute their similarity to the MoE inputs to determine which subset of e...",
-    "link": "http://arxiv.org/abs/2606.12397v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-10T17:57:36Z",
-    "trending": false,
-    "source": "arXiv - Songhao Wu, Ang Lv, Ruobing Xie et al."
-  },
-  {
-    "id": "arxiv_1781223122166_3",
-    "name": "VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving",
-    "category": "computer-vision",
-    "description": "Vision-language-action (VLA) models can describe scenes and reason about them in language, yet still struggle to ground their actions in the dense 3D world around them. Existing approaches either inje...",
-    "link": "http://arxiv.org/abs/2606.12396v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-10T17:57:06Z",
-    "trending": false,
-    "source": "arXiv - Jin Yao, Dhruva Dixith Kurra, Tom Lampo et al."
-  },
-  {
-    "id": "arxiv_1781223122102_4",
-    "name": "System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5",
-    "category": "ai",
-    "description": "Recently, large language models (LLMs) have achieved promising progress in the fields of classical Chinese translation and the generation of classical poetry. However, domain-specific research on prec...",
-    "link": "http://arxiv.org/abs/2606.12392v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-06-10T17:54:32Z",
-    "trending": false,
-    "source": "arXiv - Haotao Xie"
-  },
-  {
-    "id": "arxiv_1781223122289_3",
-    "name": "System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5",
-    "category": "nlp",
-    "description": "Recently, large language models (LLMs) have achieved promising progress in the fields of classical Chinese translation and the generation of classical poetry. However, domain-specific research on prec...",
-    "link": "http://arxiv.org/abs/2606.12392v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-06-10T17:54:32Z",
-    "trending": false,
-    "source": "arXiv - Haotao Xie"
-  },
-  {
-    "id": "arxiv_1781223122227_3",
-    "name": "ATLAS: Active Theory Learning for Automated Science",
-    "category": "machine-learning",
-    "description": "Advancing scientific understanding through mechanistic modeling requires posing the right experimental questions to yield maximally informative data. To automate this pursuit within cognitive science,...",
-    "link": "http://arxiv.org/abs/2606.12386v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "RNN",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-06-10T17:52:03Z",
-    "trending": false,
-    "source": "arXiv - Noémi Éltető, Nathaniel D. Daw, Kimberly L. Stachenfeld et al."
-  },
-  {
-    "id": "arxiv_1781223122289_4",
-    "name": "Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs",
-    "category": "nlp",
-    "description": "Modern LLM training pipelines increasingly rely on other models to generate data, filter corpora, judge outputs, and guide development decisions. These dependencies are recursive: a model may depend o...",
-    "link": "http://arxiv.org/abs/2606.12385v1",
+    "description": "Reproducibility in the social and behavioral sciences is typically evaluated by independent researchers who reanalyze the original data to assess whether the published findings can be recovered. Howev...",
+    "link": "http://arxiv.org/abs/2606.13670v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-06-10T17:47:59Z",
-    "trending": false,
-    "source": "arXiv - Sanjay Adhikesaven, Haoxiang Sun, Sewon Min"
+    "date": "2026-06-11T17:58:36Z",
+    "trending": true,
+    "source": "arXiv - Tobias Holtdirk, Pietro Marcolongo, Anna Steinberg Schulten et al."
   },
   {
-    "id": "arxiv_1781223122227_4",
-    "name": "APPO: Agentic Procedural Policy Optimization",
-    "category": "machine-learning",
-    "description": "Recent advances in agentic Reinforcement Learning (RL) have substantially improved the multi-turn tool-use capabilities of large language model agents. However, most existing methods assign credit ove...",
-    "link": "http://arxiv.org/abs/2606.12384v1",
+    "id": "arxiv_1781241793313_4",
+    "name": "Agents-K1: Towards Agent-native Knowledge Orchestration",
+    "category": "ai",
+    "description": "Current LLM-based research agents have advanced through agent orchestration, yet largely overlook scientific knowledge orchestration. Existing works often reduce papers to abstracts, surface mentions,...",
+    "link": "http://arxiv.org/abs/2606.13669v1",
     "tags": [
       "AI",
-      "Reinforcement Learning",
-      "Optimization"
+      "LLM"
     ],
-    "date": "2026-06-10T17:47:07Z",
+    "date": "2026-06-11T17:58:35Z",
     "trending": false,
-    "source": "arXiv - Xucong Wang, Ziyu Ma, Yong Wang et al."
+    "source": "arXiv - Zongsheng Cao, Bihao Zhan, Jinxin Shi et al."
   },
   {
-    "id": "arxiv_1781223122166_4",
-    "name": "Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots",
-    "category": "computer-vision",
-    "description": "Physiological awareness is important for service, social, and assistive robots that interact with humans in everyday environments. Remote photoplethysmography (rPPG) enables non-contact heart-rate (HR...",
-    "link": "http://arxiv.org/abs/2606.12378v1",
+    "id": "arxiv_1781241793499_2",
+    "name": "Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution",
+    "category": "nlp",
+    "description": "With the growth of LLMs' (Large Language Models) capabilities, there has been an increasing push to curate high quality datasets by filtering samples in the training data. In general, Data Attribution...",
+    "link": "http://arxiv.org/abs/2606.13668v1",
     "tags": [
       "AI",
+      "LLM"
+    ],
+    "date": "2026-06-11T17:58:33Z",
+    "trending": false,
+    "source": "arXiv - Dimitri Kachler, Damien Sileo, Pascal Denis"
+  },
+  {
+    "id": "arxiv_1781241793499_3",
+    "name": "HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents",
+    "category": "nlp",
+    "description": "Tool-augmented LLM agents commonly rely on step-wise atomic tool calls, where each invocation, observation, and value transfer is exposed in the main reasoning trace. This creates an \\emph{execution-g...",
+    "link": "http://arxiv.org/abs/2606.13663v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "GPT"
+    ],
+    "date": "2026-06-11T17:56:36Z",
+    "trending": false,
+    "source": "arXiv - Yaxin Du, Yifan Zhou, Yujie Ge et al."
+  },
+  {
+    "id": "arxiv_1781241793499_4",
+    "name": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+    "category": "nlp",
+    "description": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific soluti...",
+    "link": "http://arxiv.org/abs/2606.13662v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
       "Vision",
-      "Transformer"
+      "LLM"
     ],
-    "date": "2026-06-10T17:42:31Z",
+    "date": "2026-06-11T17:56:35Z",
     "trending": false,
-    "source": "arXiv - Zhi Wei Xu, Torbjörn E. M. Nordling"
+    "source": "arXiv - Amy Xin, Jiening Siow, Junjie Wang et al."
+  },
+  {
+    "id": "arxiv_1781241793436_2",
+    "name": "Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation",
+    "category": "machine-learning",
+    "description": "On-policy distillation (\\textsc{OPD}) has recently become a prominent post-training recipe as it combines two desirable ingredients: on-policy student trajectories and dense teacher supervision, yet h...",
+    "link": "http://arxiv.org/abs/2606.13657v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-11T17:54:09Z",
+    "trending": false,
+    "source": "arXiv - Guo Yu, Wenlin Liu, Yulan Hu et al."
+  },
+  {
+    "id": "arxiv_1781241793436_3",
+    "name": "Operadic consistency: a label-free signal for compositional reasoning failures in LLMs",
+    "category": "machine-learning",
+    "description": "Detecting LLM reasoning failures at inference time without ground-truth labels has motivated a wide range of confidence baselines, including self-consistency, semantic entropy, and P(True), built on w...",
+    "link": "http://arxiv.org/abs/2606.13649v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-11T17:50:40Z",
+    "trending": false,
+    "source": "arXiv - Nathaniel Bottman, Yinhong Liu, Kyle Richardson"
+  },
+  {
+    "id": "arxiv_1781241793437_4",
+    "name": "SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation",
+    "category": "machine-learning",
+    "description": "We introduce SkMTEB, the first comprehensive MTEB-style text embedding benchmark for Slovak, a low-resource West Slavic language, comprising 31 datasets across 7 task types -- nearly 4$\\times$ the dep...",
+    "link": "http://arxiv.org/abs/2606.13647v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-11T17:50:06Z",
+    "trending": false,
+    "source": "arXiv - Marek Šuppa, Andrej Ridzik, Daniel Hládek et al."
   }
 ]
