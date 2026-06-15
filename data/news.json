@@ -1,6 +1,44 @@
 [
   {
-    "id": "rss_Ars_Technica_1781552146084_0",
+    "id": "rss_Wired_1781561282015_0",
+    "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
+    "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Mon, 15 Jun 2026 21:33:46 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1781561280918_0",
+    "title": "Heart protection from COVID shots remains amid updates, study finds",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Despite continued benefits, anti-vaccine rhetoric has driven down vaccination. \n                    ",
+    "link": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 15 Jun 2026 21:04:26 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1781561280918_1",
+    "title": "UK to ban social media for kids under 16, may impose overnight curfews",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Critics say bans push kids to riskier alternatives and can be beaten with VPNs.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
+    "tags": [],
+    "date": "Mon, 15 Jun 2026 20:14:04 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1781561280918_2",
     "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -14,7 +52,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1781552146084_1",
+    "id": "rss_Ars_Technica_1781561280918_3",
     "title": "A Chinese rocket breaks apart dangerously close to the Starlink constellation",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -25,7 +63,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781552144680_0",
+    "id": "rss_MIT_Tech_Review_1781561279751_0",
     "title": "Why do South Koreans love AI so much?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -35,10 +73,10 @@
       "AI"
     ],
     "date": "Mon, 15 Jun 2026 18:46:08 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1781552142549_0",
+    "id": "rss_TechCrunch_1781561277630_0",
     "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -52,7 +90,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1781552142549_1",
+    "id": "rss_TechCrunch_1781561277630_1",
     "title": "SpaceX is public: Everything you need to know post-IPO",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -63,7 +101,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1781552146084_2",
+    "id": "rss_Ars_Technica_1781561280918_4",
     "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -76,42 +114,18 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1781552146084_3",
-    "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.\n                    ",
-    "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
-    "tags": [],
-    "date": "Mon, 15 Jun 2026 17:55:46 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1781552146084_4",
-    "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Remembering the ups and downs of the Intel Mac era as it finally winds down.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 15 Jun 2026 16:32:14 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1781552142550_2",
+    "id": "rss_TechCrunch_1781561277630_2",
     "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.  ",
+    "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
     "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
     "tags": [],
     "date": "Mon, 15 Jun 2026 15:29:51 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781552144680_1",
+    "id": "rss_MIT_Tech_Review_1781561279751_1",
     "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -124,8 +138,8 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1781552142550_3",
-    "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+    "id": "rss_TechCrunch_1781561277631_3",
+    "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
     "category": "ai-news",
     "source": "TechCrunch",
     "description": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
@@ -137,7 +151,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1781552142550_4",
+    "id": "rss_TechCrunch_1781561277631_4",
     "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -152,7 +166,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781552144680_2",
+    "id": "rss_MIT_Tech_Review_1781561279751_2",
     "title": "The Download: cutting AC emissions, and nature’s drug designer",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -165,7 +179,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781552144680_3",
+    "id": "rss_MIT_Tech_Review_1781561279751_3",
     "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -175,10 +189,10 @@
       "AI"
     ],
     "date": "Mon, 15 Jun 2026 09:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1781552147152_0",
+    "id": "rss_Wired_1781561282015_1",
     "title": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
     "category": "ai-news",
     "source": "Wired",
@@ -188,10 +202,10 @@
       "Meta"
     ],
     "date": "Mon, 15 Jun 2026 09:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1781552147152_1",
+    "id": "rss_Wired_1781561282015_2",
     "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
     "category": "ai-news",
     "source": "Wired",
@@ -205,7 +219,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1781552147152_2",
+    "id": "rss_Wired_1781561282015_3",
     "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
     "category": "ai-news",
     "source": "Wired",
@@ -215,10 +229,10 @@
       "AI"
     ],
     "date": "Sat, 13 Jun 2026 02:26:10 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1781552147152_3",
+    "id": "rss_Wired_1781561282015_4",
     "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
     "category": "ai-news",
     "source": "Wired",
@@ -229,24 +243,10 @@
       "Meta"
     ],
     "date": "Fri, 12 Jun 2026 23:45:26 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1781552147152_4",
-    "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
-    "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Fri, 12 Jun 2026 21:16:25 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1781552144680_4",
+    "id": "rss_MIT_Tech_Review_1781561279752_4",
     "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -259,7 +259,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1781552155500_0",
+    "id": "rss_Distill_1781561290098_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -269,10 +269,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1781552155500_1",
+    "id": "rss_Distill_1781561290098_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -282,10 +282,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1781552155500_2",
+    "id": "rss_Distill_1781561290098_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -296,7 +296,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1781552155500_3",
+    "id": "rss_Distill_1781561290098_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -309,7 +309,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1781552155500_4",
+    "id": "rss_Distill_1781561290098_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -317,6 +317,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
