@@ -1,22 +1,8 @@
 [
   {
-    "id": "arxiv_1781516936631_0",
+    "id": "arxiv_1781537667575_0",
     "name": "Gaze Heads: How VLMs Look at What They Describe",
     "category": "computer-vision",
-    "description": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its ...",
-    "link": "http://arxiv.org/abs/2606.14703v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-12T17:59:57Z",
-    "trending": true,
-    "source": "arXiv - Rohit Gandikota, David Bau"
-  },
-  {
-    "id": "arxiv_1781516936643_0",
-    "name": "Gaze Heads: How VLMs Look at What They Describe",
-    "category": "machine-learning",
     "description": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its ...",
     "link": "http://arxiv.org/abs/2606.14703v1",
     "tags": [
@@ -28,7 +14,21 @@
     "source": "arXiv - Rohit Gandikota, David Bau"
   },
   {
-    "id": "arxiv_1781516936881_0",
+    "id": "arxiv_1781537667741_0",
+    "name": "Gaze Heads: How VLMs Look at What They Describe",
+    "category": "machine-learning",
+    "description": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its ...",
+    "link": "http://arxiv.org/abs/2606.14703v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-12T17:59:57Z",
+    "trending": true,
+    "source": "arXiv - Rohit Gandikota, David Bau"
+  },
+  {
+    "id": "arxiv_1781537667905_0",
     "name": "Gaze Heads: How VLMs Look at What They Describe",
     "category": "nlp",
     "description": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its ...",
@@ -42,7 +42,7 @@
     "source": "arXiv - Rohit Gandikota, David Bau"
   },
   {
-    "id": "arxiv_1781516936631_1",
+    "id": "arxiv_1781537667575_1",
     "name": "OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains",
     "category": "computer-vision",
     "description": "Current automated pipelines for audio-visual Question Answering (QA) generally adopt a ``video-caption-QA'' paradigm. However, these methods typically segment videos into short clips and generate sepa...",
@@ -51,11 +51,11 @@
       "AI"
     ],
     "date": "2026-06-12T17:59:55Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Xinyue Cai, Chaoyou Fu, Yi-Fan Zhang et al."
   },
   {
-    "id": "arxiv_1781516936631_2",
+    "id": "arxiv_1781537667575_2",
     "name": "RATS! Patches Talk Through Registers: Emergent Parts in Register Attention Transformers",
     "category": "computer-vision",
     "description": "When humans see a bird, they recognize far more than just \"bird\" -- they see a head, wings, and talons, a structured assembly of reusable parts that can be identified across every bird they have ever ...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Timing Yang, Predrag Neskovic, Jansen Seheult et al."
   },
   {
-    "id": "arxiv_1781516936631_3",
+    "id": "arxiv_1781537667575_3",
     "name": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
     "category": "computer-vision",
     "description": "Large language models (LLMs) are widely used in text-to-image (T2I) systems, but they are typically limited to text encoding, while denoising is handled by newly trained generative backbones. The emer...",
@@ -85,7 +85,7 @@
     "source": "arXiv - Xichen Pan, Aashu Singh, Satya Narayan Shukla et al."
   },
   {
-    "id": "arxiv_1781516936631_4",
+    "id": "arxiv_1781537667575_4",
     "name": "Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control",
     "category": "computer-vision",
     "description": "Reconstructing articulated 3D objects is important for animation, gaming, and robotic simulations. Recent neural networks can estimate the articulated structure of 3D objects, but their generalization...",
@@ -96,11 +96,11 @@
       "Vision"
     ],
     "date": "2026-06-12T17:59:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ruining Li, Yuxin Yao, Matt Zhou et al."
   },
   {
-    "id": "arxiv_1781516936618_0",
+    "id": "arxiv_1781537667419_0",
     "name": "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
     "category": "ai",
     "description": "Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but...",
@@ -114,7 +114,7 @@
     "source": "arXiv - Sicheng Yang, Hangjie Yuan, Wenjun Zhang et al."
   },
   {
-    "id": "arxiv_1781516936881_1",
+    "id": "arxiv_1781537667905_1",
     "name": "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
     "category": "nlp",
     "description": "Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but...",
@@ -128,7 +128,7 @@
     "source": "arXiv - Sicheng Yang, Hangjie Yuan, Wenjun Zhang et al."
   },
   {
-    "id": "arxiv_1781516936643_1",
+    "id": "arxiv_1781537667741_1",
     "name": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
     "category": "machine-learning",
     "description": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a character or user persona. However, applyin...",
@@ -142,7 +142,7 @@
     "source": "arXiv - Jinsu Kim, Jihoon Tack, Noah Lee et al."
   },
   {
-    "id": "arxiv_1781516936881_2",
+    "id": "arxiv_1781537667905_2",
     "name": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
     "category": "nlp",
     "description": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a character or user persona. However, applyin...",
@@ -156,7 +156,7 @@
     "source": "arXiv - Jinsu Kim, Jihoon Tack, Noah Lee et al."
   },
   {
-    "id": "arxiv_1781516936882_3",
+    "id": "arxiv_1781537667905_3",
     "name": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
     "category": "nlp",
     "description": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inhere...",
@@ -168,11 +168,11 @@
       "Optimization"
     ],
     "date": "2026-06-12T17:56:25Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Junlong Tong, Wenqi Xu, Yingqi Fan et al."
   },
   {
-    "id": "arxiv_1781516936618_1",
+    "id": "arxiv_1781537667419_1",
     "name": "Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning",
     "category": "ai",
     "description": "Cooperative multi-objective multi-agent reinforcement learning (MOMARL) models team decision making under multiple, potentially conflicting objectives. In this setting, conflicts arise not only across...",
@@ -187,7 +187,7 @@
     "source": "arXiv - Pengxin Wang, Lihao Guo, Yi Xie et al."
   },
   {
-    "id": "arxiv_1781516936882_4",
+    "id": "arxiv_1781537667905_4",
     "name": "CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment",
     "category": "nlp",
     "description": "Reinforcement learning with verifiable rewards (RLVR) has successfully elicited the reasoning capabilities of large language models, motivating its extension to multimodal scenarios. Existing methods ...",
@@ -199,11 +199,11 @@
       "Optimization"
     ],
     "date": "2026-06-12T17:54:59Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jiayue Cao, Zhicong Lu, Xuehan Sun et al."
   },
   {
-    "id": "arxiv_1781516936643_2",
+    "id": "arxiv_1781537667741_2",
     "name": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
     "category": "machine-learning",
     "description": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samples across $d$ groups to minimize the wo...",
@@ -216,7 +216,7 @@
     "source": "arXiv - Abdellah Aznag, Rachel Cummings, Adam N. Elmachtoub"
   },
   {
-    "id": "arxiv_1781516936618_2",
+    "id": "arxiv_1781537667419_2",
     "name": "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
     "category": "ai",
     "description": "AI systems coupled to proof assistants now generate formal mathematics at scale, and the gap between what a checker can verify and what a mathematician would value has become the binding constraint. W...",
@@ -229,7 +229,7 @@
     "source": "arXiv - Xiaoyu Li, Andi Han, Dai Shi et al."
   },
   {
-    "id": "arxiv_1781516936644_3",
+    "id": "arxiv_1781537667741_3",
     "name": "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
     "category": "machine-learning",
     "description": "AI systems coupled to proof assistants now generate formal mathematics at scale, and the gap between what a checker can verify and what a mathematician would value has become the binding constraint. W...",
@@ -242,7 +242,7 @@
     "source": "arXiv - Xiaoyu Li, Andi Han, Dai Shi et al."
   },
   {
-    "id": "arxiv_1781516936618_3",
+    "id": "arxiv_1781537667419_3",
     "name": "CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification",
     "category": "ai",
     "description": "Globally, cotton is a highly economically beneficial crop, as the textile industry heavily depends on it. So, the precise identification and detection of cotton leaf disease is crucial for economic st...",
@@ -258,7 +258,7 @@
     "source": "arXiv - Rafi Ahamed, Md. Abir Rahman, Tasnia Tarannum Roza et al."
   },
   {
-    "id": "arxiv_1781516936644_4",
+    "id": "arxiv_1781537667741_4",
     "name": "HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification",
     "category": "machine-learning",
     "description": "Real-time fire classification systems require models that are simultaneously accurate, computationally efficient, and deployable on resource-constrained hardware. This work proposes \\textbf{HumP-KD}, ...",
@@ -270,11 +270,11 @@
       "CNN"
     ],
     "date": "2026-06-12T17:48:27Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Mohammed Arif Mainuddin, Najifa Tabassum, Omar Ibne Shahid et al."
   },
   {
-    "id": "arxiv_1781516936619_4",
+    "id": "arxiv_1781537667420_4",
     "name": "Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows",
     "category": "ai",
     "description": "Large language models increasingly serve as execution engines for agentic systems, yet they still consume context through a sequential text interface. This creates a mismatch with modern structured ag...",
@@ -284,7 +284,7 @@
       "LLM"
     ],
     "date": "2026-06-12T17:39:29Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Shikun Liu, Mufei Li, Dongqi Fu et al."
   }
 ]
