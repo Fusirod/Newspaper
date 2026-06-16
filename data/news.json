@@ -1,6 +1,74 @@
 [
   {
-    "id": "rss_Ars_Technica_1781639999327_0",
+    "id": "rss_Ars_Technica_1781647903540_0",
+    "title": "HPE tempts VMware users, partners with year of free virtualization software",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Partner tells Ars that HPE should be giving out more free VM Essentials licenses. \n                    ",
+    "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+    "tags": [],
+    "date": "Tue, 16 Jun 2026 22:11:15 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1781647903540_1",
+    "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Transferring genes across species doesn't just happen in microbes.\n                    ",
+    "link": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
+    "tags": [],
+    "date": "Tue, 16 Jun 2026 21:54:41 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1781647903540_2",
+    "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"As for Arianespace, they have definitely stepped up.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
+    "tags": [],
+    "date": "Tue, 16 Jun 2026 21:14:08 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1781647903540_3",
+    "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Move originally planned for Monday would have heavily increased power users' costs.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "tags": [],
+    "date": "Tue, 16 Jun 2026 21:00:35 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1781647902339_0",
+    "title": "Exclusive eBook: How AI is becoming the next military advisor",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by Jame",
+    "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 16 Jun 2026 20:35:02 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1781647900110_0",
+    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+    "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "tags": [],
+    "date": "Tue, 16 Jun 2026 20:11:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1781647903540_4",
     "title": "US approval of Paramount/Warner Bros. deal surprised DOJ lawyers, report says",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,31 +79,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1781639999327_1",
-    "title": "Pentagon boasts of using AI to write reports mandated by Congress",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Pentagon also claims 1.5 million personnel are using generative AI tools.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 16 Jun 2026 18:11:05 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1781639999327_2",
-    "title": "Android 17 starts hitting Pixel phones and watches today",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Pixels will get their OTA in the coming weeks, but don't expect monumental changes.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
-    "tags": [],
-    "date": "Tue, 16 Jun 2026 18:00:08 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1781639995601_0",
+    "id": "rss_TechCrunch_1781647900110_1",
     "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -49,7 +93,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1781640000417_0",
+    "id": "rss_Wired_1781647904604_0",
     "title": "‘Dangerous’ AI Models Are Coming No Matter What",
     "category": "ai-news",
     "source": "Wired",
@@ -62,7 +106,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1781639995601_1",
+    "id": "rss_TechCrunch_1781647900110_2",
     "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -72,36 +116,10 @@
       "AI"
     ],
     "date": "Tue, 16 Jun 2026 16:49:44 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1781639999327_3",
-    "title": "Trump admin abandons fight against wind energy as clean energy output surges",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Legal victories have dampened the Trump admin’s efforts to halt wind and solar power.\n                    ",
-    "link": "https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 16 Jun 2026 16:49:09 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1781639999327_4",
-    "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Separately, neither could compete. Now they hope they can.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 16 Jun 2026 16:37:45 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1781639995602_2",
+    "id": "rss_TechCrunch_1781647900110_3",
     "title": "SpaceX is public: Everything you need to know post-IPO",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -109,10 +127,10 @@
     "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
     "tags": [],
     "date": "Tue, 16 Jun 2026 15:53:12 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1781639995602_3",
+    "id": "rss_TechCrunch_1781647900110_4",
     "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -122,23 +140,10 @@
       "AI"
     ],
     "date": "Tue, 16 Jun 2026 15:05:03 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1781639995602_4",
-    "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
-    "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 16 Jun 2026 15:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1781640000417_1",
+    "id": "rss_Wired_1781647904604_1",
     "title": "My Father Wants to Age in Place. AI Will Be Watching",
     "category": "ai-news",
     "source": "Wired",
@@ -151,7 +156,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1781640000417_2",
+    "id": "rss_Wired_1781647904604_2",
     "title": "What Do We Need From Our Homes Right Now?",
     "category": "ai-news",
     "source": "Wired",
@@ -159,10 +164,10 @@
     "link": "https://www.wired.com/story/wired-architectural-digest-future-of-home-editors-letter/",
     "tags": [],
     "date": "Tue, 16 Jun 2026 14:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781639997892_0",
+    "id": "rss_MIT_Tech_Review_1781647902340_1",
     "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -175,7 +180,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1781640000417_3",
+    "id": "rss_Wired_1781647904604_3",
     "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
     "category": "ai-news",
     "source": "Wired",
@@ -185,10 +190,10 @@
       "AI"
     ],
     "date": "Tue, 16 Jun 2026 09:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1781639997893_1",
+    "id": "rss_MIT_Tech_Review_1781647902340_2",
     "title": "Want to get a data center online quickly? Give it some flex.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -199,7 +204,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1781640000417_4",
+    "id": "rss_Wired_1781647904604_4",
     "title": "DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit",
     "category": "ai-news",
     "source": "Wired",
@@ -209,10 +214,10 @@
       "AI"
     ],
     "date": "Tue, 16 Jun 2026 03:06:37 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781639997893_2",
+    "id": "rss_MIT_Tech_Review_1781647902340_3",
     "title": "Why do South Koreans love AI so much?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -225,7 +230,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781639997893_3",
+    "id": "rss_MIT_Tech_Review_1781647902340_4",
     "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -238,20 +243,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1781639997893_4",
-    "title": "The Download: cutting AC emissions, and nature’s drug designer",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, ",
-    "link": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 15 Jun 2026 12:10:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1781640009143_0",
+    "id": "rss_Distill_1781647912376_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -264,7 +256,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1781640009143_1",
+    "id": "rss_Distill_1781647912376_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -277,7 +269,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1781640009143_2",
+    "id": "rss_Distill_1781647912376_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -288,7 +280,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1781640009143_3",
+    "id": "rss_Distill_1781647912376_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -301,7 +293,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1781640009143_4",
+    "id": "rss_Distill_1781647912376_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
