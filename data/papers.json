@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1781726078664_0",
+    "id": "arxiv_1781733017372_0",
     "name": "Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion",
     "category": "computer-vision",
     "description": "Forecasting the evolution of dynamic environments is crucial for autonomous agents. While generative world models have recently achieved high photorealism in 2D video synthesis by mixing ego-motion an...",
@@ -11,7 +11,7 @@
     "source": "arXiv - Nils Morbitzer, Jonathan Evers, Artem Savkin et al."
   },
   {
-    "id": "arxiv_1781726078664_1",
+    "id": "arxiv_1781733017372_1",
     "name": "Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification",
     "category": "computer-vision",
     "description": "Unified Multimodal Modeling aims to integrate visual understanding and generation within a single system. However, existing approaches typically rely on two disparate visual tokenizers, which splits t...",
@@ -27,7 +27,7 @@
     "source": "arXiv - Wujian Peng, Lingchen Meng, Yuxuan Cai et al."
   },
   {
-    "id": "arxiv_1781726078486_0",
+    "id": "arxiv_1781733017080_0",
     "name": "Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement",
     "category": "ai",
     "description": "Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a gen...",
@@ -37,11 +37,11 @@
       "Vision"
     ],
     "date": "2026-06-16T17:59:04Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Mingtong Zhang, Dhruv Shah"
   },
   {
-    "id": "arxiv_1781726078691_0",
+    "id": "arxiv_1781733017513_0",
     "name": "Variable-Width Transformers",
     "category": "nlp",
     "description": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocat...",
@@ -51,11 +51,11 @@
       "Transformer"
     ],
     "date": "2026-06-16T17:59:03Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhaofeng Wu, Oliver Sieberling, Shawn Tan et al."
   },
   {
-    "id": "arxiv_1781726078664_2",
+    "id": "arxiv_1781733017372_2",
     "name": "MOCHI: Motion Enhancement of Collaborative Human-object Interactions",
     "category": "computer-vision",
     "description": "Collaborative human-object interaction shows dynamic and complex movements that require mutual anticipation and continuous adjustment between participants and the shared object. Modeling such collabor...",
@@ -66,11 +66,11 @@
       "Optimization"
     ],
     "date": "2026-06-16T17:58:44Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jiye Lee, Yonghun Choi, Jungdam Won"
   },
   {
-    "id": "arxiv_1781726078664_3",
+    "id": "arxiv_1781733017372_3",
     "name": "EventDrive: Event Cameras for Vision-Language Driving Intelligence",
     "category": "computer-vision",
     "description": "Event cameras sense the world through asynchronous brightness changes with microsecond latency and high dynamic range, offering motion fidelity far beyond frame-based sensors and capturing temporal st...",
@@ -80,11 +80,11 @@
       "Vision"
     ],
     "date": "2026-06-16T17:58:40Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Dongyue Lu, Rong Li, Ao Liang et al."
   },
   {
-    "id": "arxiv_1781726078486_1",
+    "id": "arxiv_1781733017080_1",
     "name": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
     "category": "ai",
     "description": "Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, ...",
@@ -100,7 +100,7 @@
     "source": "arXiv - Shanda Li, Qiuhong Anna Wei, Jingwu Tang et al."
   },
   {
-    "id": "arxiv_1781726078677_0",
+    "id": "arxiv_1781733017445_0",
     "name": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
     "category": "machine-learning",
     "description": "Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, ...",
@@ -116,7 +116,7 @@
     "source": "arXiv - Shanda Li, Qiuhong Anna Wei, Jingwu Tang et al."
   },
   {
-    "id": "arxiv_1781726078692_1",
+    "id": "arxiv_1781733017513_1",
     "name": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
     "category": "nlp",
     "description": "Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, ...",
@@ -132,7 +132,7 @@
     "source": "arXiv - Shanda Li, Qiuhong Anna Wei, Jingwu Tang et al."
   },
   {
-    "id": "arxiv_1781726078677_1",
+    "id": "arxiv_1781733017445_1",
     "name": "Sign-Rank, Index, and List Replicability: Connections and Separations",
     "category": "machine-learning",
     "description": "In learning theory, the sign rank of a binary concept class captures the smallest dimension in which it can be represented by points and halfspaces. Despite tremendous interest, lower bounds on sign r...",
@@ -145,7 +145,7 @@
     "source": "arXiv - Ari Blondal, Hamed Hatami, Pooya Hatami et al."
   },
   {
-    "id": "arxiv_1781726078486_2",
+    "id": "arxiv_1781733017080_2",
     "name": "EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation",
     "category": "ai",
     "description": "Zero-Shot Object-Goal Navigation (ZS-OGN) requires embodied agents to explore and locate target objects without any prior training. To this end, recent methods leverage foundation models. But they typ...",
@@ -154,11 +154,11 @@
       "AI"
     ],
     "date": "2026-06-16T17:56:57Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Qi Chai, Wenhao Shen, Nanjie Yao et al."
   },
   {
-    "id": "arxiv_1781726078664_4",
+    "id": "arxiv_1781733017372_4",
     "name": "Adaptive Volumetric Mechanical Property Fields Invariant to Resolution",
     "category": "computer-vision",
     "description": "Accurate mechanical properties (or materials) Young's modulus ($E$), Poisson's ratio ($ν$) and density ($ρ$) are essential for reliable physics simulation of digital worlds, but most 3D assets lack th...",
@@ -167,11 +167,11 @@
       "Transformer"
     ],
     "date": "2026-06-16T17:56:03Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Rishit Dagli, Donglai Xiang, Vismay Modi et al."
   },
   {
-    "id": "arxiv_1781726078677_2",
+    "id": "arxiv_1781733017445_2",
     "name": "Adaptive Volumetric Mechanical Property Fields Invariant to Resolution",
     "category": "machine-learning",
     "description": "Accurate mechanical properties (or materials) Young's modulus ($E$), Poisson's ratio ($ν$) and density ($ρ$) are essential for reliable physics simulation of digital worlds, but most 3D assets lack th...",
@@ -184,7 +184,7 @@
     "source": "arXiv - Rishit Dagli, Donglai Xiang, Vismay Modi et al."
   },
   {
-    "id": "arxiv_1781726078487_3",
+    "id": "arxiv_1781733017081_3",
     "name": "Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents",
     "category": "ai",
     "description": "With sophisticated cyber-attacks becoming increasingly prevalent, modern networks require intelligent autonomous cyber-defense agents trained via Reinforcement Learning (RL). These agents employ neuro...",
@@ -194,11 +194,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-16T17:50:41Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ankita Samaddar, Sandeep Neema, Daniel Balasubramanian et al."
   },
   {
-    "id": "arxiv_1781726078677_3",
+    "id": "arxiv_1781733017445_3",
     "name": "Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents",
     "category": "machine-learning",
     "description": "With sophisticated cyber-attacks becoming increasingly prevalent, modern networks require intelligent autonomous cyber-defense agents trained via Reinforcement Learning (RL). These agents employ neuro...",
@@ -208,11 +208,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-16T17:50:41Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ankita Samaddar, Sandeep Neema, Daniel Balasubramanian et al."
   },
   {
-    "id": "arxiv_1781726078692_2",
+    "id": "arxiv_1781733017514_2",
     "name": "Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses",
     "category": "nlp",
     "description": "We introduce Darshana Graph, a corpus of over 125,000 text records spanning classical Hindu, Buddhist, and Jain philosophical traditions, drawn from public-domain and openly licensed translations of s...",
@@ -222,11 +222,11 @@
       "Machine Learning"
     ],
     "date": "2026-06-16T17:49:15Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Joy Bose"
   },
   {
-    "id": "arxiv_1781726078677_4",
+    "id": "arxiv_1781733017445_4",
     "name": "Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds",
     "category": "machine-learning",
     "description": "We study finite-horizon queue peaks in generalized switches, a standard stochastic-network model in which many queues share constrained service resources. Arrivals may be dependent, time-varying, and ...",
@@ -239,7 +239,7 @@
     "source": "arXiv - Hao Liang, Cheng Tang, Yunzong Xu"
   },
   {
-    "id": "arxiv_1781726078692_3",
+    "id": "arxiv_1781733017514_3",
     "name": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
     "category": "nlp",
     "description": "Knowledge distillation transfers a teacher's competence to a small student but is brittle in the small-student regime: forcing the student to imitate logits from a much larger teacher concentrates it ...",
@@ -251,11 +251,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-16T17:46:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Byung-Kwan Lee, Ximing Lu, Shizhe Diao et al."
   },
   {
-    "id": "arxiv_1781726078487_4",
+    "id": "arxiv_1781733017081_4",
     "name": "Looped World Models",
     "category": "ai",
     "description": "Current world models face a fundamental tension: faithful long-horizon simulation demands deep computation, but deeper models are expensive to deploy and prone to compounding errors. We resolve this b...",
@@ -265,11 +265,11 @@
       "Transformer"
     ],
     "date": "2026-06-16T17:37:27Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hongyuan Adam Lu, Z. L. Victor Wei, Qun Zhang et al."
   },
   {
-    "id": "arxiv_1781726078692_4",
+    "id": "arxiv_1781733017514_4",
     "name": "Looped World Models",
     "category": "nlp",
     "description": "Current world models face a fundamental tension: faithful long-horizon simulation demands deep computation, but deeper models are expensive to deploy and prone to compounding errors. We resolve this b...",
