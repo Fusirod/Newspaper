@@ -1,6 +1,108 @@
 [
   {
-    "id": "rss_TechCrunch_1781706079343_0",
+    "id": "rss_TechCrunch_1781718083692_0",
+    "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows. ",
+    "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 17 Jun 2026 17:00:01 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1781718088517_0",
+    "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
+    "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 17 Jun 2026 17:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1781718083693_1",
+    "title": "Google bets on Gemini to reinvent the smart home speaker",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+    "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Wed, 17 Jun 2026 16:30:09 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1781718087328_0",
+    "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Google's new smart speaker is more about Gemini than audio quality. \n                    ",
+    "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Wed, 17 Jun 2026 15:57:14 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1781718087328_1",
+    "title": "Towers once planned for California shuttle launches leveled for SpaceX rockets",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"Space Launch Complex-6 represents six decades of American innovation.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/",
+    "tags": [],
+    "date": "Wed, 17 Jun 2026 15:47:09 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1781718083693_2",
+    "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+    "link": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+    "tags": [],
+    "date": "Wed, 17 Jun 2026 15:24:41 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1781718087328_2",
+    "title": "\"Truly evil\" FDA rejection of gene therapy overturned after Trump official ousted",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Gene therapy company UniQure had another FDA meeting after Vinay Prasad's exit.\n                    ",
+    "link": "https://arstechnica.com/health/2026/06/truly-evil-fda-rejection-of-gene-therapy-overturned-after-trump-official-ousted/",
+    "tags": [],
+    "date": "Wed, 17 Jun 2026 15:12:31 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1781718083693_3",
+    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+    "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+    "tags": [
+      "AI",
+      "LLM",
+      "Robot"
+    ],
+    "date": "Wed, 17 Jun 2026 15:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1781718083693_4",
     "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -13,7 +115,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1781706083791_0",
+    "id": "rss_Wired_1781718088517_1",
     "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
     "category": "ai-news",
     "source": "Wired",
@@ -27,31 +129,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1781706079344_1",
-    "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
-    "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 17 Jun 2026 12:38:09 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1781706079344_2",
-    "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
-    "link": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
-    "tags": [],
-    "date": "Wed, 17 Jun 2026 12:14:44 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1781706081571_0",
+    "id": "rss_MIT_Tech_Review_1781718085942_0",
     "title": "The Download: a reality check for geoengineering and the science of interoception",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -64,7 +142,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1781706082738_0",
+    "id": "rss_Ars_Technica_1781718087328_3",
     "title": "Native NACS ports, infotainment upgrade for MY27 Porsche Taycan",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -77,7 +155,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1781706082739_1",
+    "id": "rss_Ars_Technica_1781718087328_4",
     "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -85,23 +163,10 @@
     "link": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
     "tags": [],
     "date": "Wed, 17 Jun 2026 11:15:17 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1781706079344_3",
-    "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface. ",
-    "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 17 Jun 2026 11:00:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781706081571_1",
+    "id": "rss_MIT_Tech_Review_1781718085942_1",
     "title": "Entrepreneurs in Nairobi make the case for going solar",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -114,7 +179,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781706081571_2",
+    "id": "rss_MIT_Tech_Review_1781718085942_2",
     "title": "Hacking the atmosphere: Geoengineering gets a reality check",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -127,57 +192,11 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1781706079344_4",
-    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-    "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-    "tags": [],
-    "date": "Tue, 16 Jun 2026 22:34:17 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1781706082739_2",
-    "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 16 Jun 2026 22:22:44 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1781706082739_3",
-    "title": "Year of free HPE software a “step in the correct direction” in VMware rivalry",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Partner tells Ars that HPE should be giving out more free VM Essentials licenses. \n                    ",
-    "link": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
-    "tags": [],
-    "date": "Tue, 16 Jun 2026 22:11:15 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1781706082739_4",
-    "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Transferring genes across species doesn't just happen in microbes.\n                    ",
-    "link": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
-    "tags": [],
-    "date": "Tue, 16 Jun 2026 21:54:41 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1781706081571_3",
+    "id": "rss_MIT_Tech_Review_1781718085942_3",
     "title": "Exclusive eBook: How AI is becoming the next military advisor",
     "category": "ai-news",
     "source": "MIT Tech Review",
-    "description": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by Jame",
+    "description": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. Stories",
     "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
     "tags": [
       "AI"
@@ -186,7 +205,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1781706083791_1",
+    "id": "rss_Wired_1781718088517_2",
     "title": "‘Dangerous’ AI Models Are Coming No Matter What",
     "category": "ai-news",
     "source": "Wired",
@@ -196,10 +215,10 @@
       "AI"
     ],
     "date": "Tue, 16 Jun 2026 17:50:52 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1781706083791_2",
+    "id": "rss_Wired_1781718088517_3",
     "title": "My Father Wants to Age in Place. AI Will Be Watching",
     "category": "ai-news",
     "source": "Wired",
@@ -212,7 +231,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1781706083791_3",
+    "id": "rss_Wired_1781718088517_4",
     "title": "What Do We Need From Our Homes Right Now?",
     "category": "ai-news",
     "source": "Wired",
@@ -223,7 +242,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781706081571_4",
+    "id": "rss_MIT_Tech_Review_1781718085943_4",
     "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -233,23 +252,10 @@
       "AI"
     ],
     "date": "Tue, 16 Jun 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1781706083791_4",
-    "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "A Silicon Valley software maker and an ecommerce company reveal to WIRED how they are navigating the emerging challenge of “tokenomics.”",
-    "link": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 16 Jun 2026 09:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1781706091593_0",
+    "id": "rss_Distill_1781718097771_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -262,7 +268,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1781706091593_1",
+    "id": "rss_Distill_1781718097771_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -272,10 +278,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1781706091593_2",
+    "id": "rss_Distill_1781718097771_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -283,10 +289,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1781706091593_3",
+    "id": "rss_Distill_1781718097771_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -299,7 +305,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1781706091593_4",
+    "id": "rss_Distill_1781718097772_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -307,6 +313,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
