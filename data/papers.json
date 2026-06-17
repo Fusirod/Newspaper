@@ -1,289 +1,285 @@
 [
   {
-    "id": "arxiv_1781654798958_0",
-    "name": "The Value Axis: Language Models Encode Whether They're on the Right Track",
-    "category": "nlp",
-    "description": "We investigate whether language models internally track the value of their current trajectory, defined as the likelihood that their ongoing strategy will achieve their goals. Using synthetic, in-conte...",
-    "link": "http://arxiv.org/abs/2606.17056v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning",
-      "Optimization"
-    ],
-    "date": "2026-06-15T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Nick Jiang, Isaac Kauvar, Jack Lindsey"
-  },
-  {
-    "id": "arxiv_1781654798905_0",
-    "name": "Context-Aware RL for Agentic and Multimodal LLMs",
+    "id": "arxiv_1781675767252_0",
+    "name": "Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion",
     "category": "computer-vision",
-    "description": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d...",
-    "link": "http://arxiv.org/abs/2606.17053v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-06-15T17:59:28Z",
-    "trending": true,
-    "source": "arXiv - Peiyang Xu, Bangzheng Li, Sijia Liu et al."
-  },
-  {
-    "id": "arxiv_1781654798958_1",
-    "name": "Context-Aware RL for Agentic and Multimodal LLMs",
-    "category": "nlp",
-    "description": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d...",
-    "link": "http://arxiv.org/abs/2606.17053v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-06-15T17:59:28Z",
+    "description": "Forecasting the evolution of dynamic environments is crucial for autonomous agents. While generative world models have recently achieved high photorealism in 2D video synthesis by mixing ego-motion an...",
+    "link": "http://arxiv.org/abs/2606.18250v1",
+    "tags": [],
+    "date": "2026-06-16T17:59:46Z",
     "trending": false,
-    "source": "arXiv - Peiyang Xu, Bangzheng Li, Sijia Liu et al."
+    "source": "arXiv - Nils Morbitzer, Jonathan Evers, Artem Savkin et al."
   },
   {
-    "id": "arxiv_1781654798906_1",
-    "name": "BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering",
+    "id": "arxiv_1781675767252_1",
+    "name": "Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification",
     "category": "computer-vision",
-    "description": "Inverse rendering of urban scenes from captured videos enables numerous applications, including content creation and autonomous driving simulation. Physically-based rendering methods follow and contro...",
-    "link": "http://arxiv.org/abs/2606.17049v1",
-    "tags": [
-      "Optimization"
-    ],
-    "date": "2026-06-15T17:58:31Z",
-    "trending": false,
-    "source": "arXiv - Yi-Ruei Liu, Jie-Ying Lee, Zheng-Hui Huang et al."
-  },
-  {
-    "id": "arxiv_1781654798906_2",
-    "name": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
-    "category": "computer-vision",
-    "description": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the post...",
-    "link": "http://arxiv.org/abs/2606.17048v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-06-15T17:58:22Z",
-    "trending": false,
-    "source": "arXiv - Abbas Mammadov, Ozgur Kara, Kaan Oktay et al."
-  },
-  {
-    "id": "arxiv_1781654798930_0",
-    "name": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
-    "category": "machine-learning",
-    "description": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the post...",
-    "link": "http://arxiv.org/abs/2606.17048v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-06-15T17:58:22Z",
-    "trending": true,
-    "source": "arXiv - Abbas Mammadov, Ozgur Kara, Kaan Oktay et al."
-  },
-  {
-    "id": "arxiv_1781654798906_3",
-    "name": "Geometric Action Model for Robot Policy Learning",
-    "category": "computer-vision",
-    "description": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and...",
-    "link": "http://arxiv.org/abs/2606.17046v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-15T17:58:03Z",
-    "trending": false,
-    "source": "arXiv - Jisang Han, Seonghu Jeon, Jaewoo Jung et al."
-  },
-  {
-    "id": "arxiv_1781654798930_1",
-    "name": "Geometric Action Model for Robot Policy Learning",
-    "category": "machine-learning",
-    "description": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and...",
-    "link": "http://arxiv.org/abs/2606.17046v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-15T17:58:03Z",
-    "trending": false,
-    "source": "arXiv - Jisang Han, Seonghu Jeon, Jaewoo Jung et al."
-  },
-  {
-    "id": "arxiv_1781654798930_2",
-    "name": "Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes",
-    "category": "machine-learning",
-    "description": "When pretrained VLA policies are fine-tuned through online RL, each rollout episode produces only a single binary outcome (success or failure), yet the actor update requires per-transition supervision...",
-    "link": "http://arxiv.org/abs/2606.17043v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-15T17:57:14Z",
-    "trending": false,
-    "source": "arXiv - Tongyan Fang, Siyuan Huang, Naiyu Fang et al."
-  },
-  {
-    "id": "arxiv_1781654798958_2",
-    "name": "Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
-    "category": "nlp",
-    "description": "Meta-analysis is a demanding form of evidence synthesis that combines literature retrieval, PI/ECO-guided study selection, and statistical aggregation. Its structured, verifiable workflow makes it an ...",
-    "link": "http://arxiv.org/abs/2606.17041v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-15T17:56:41Z",
-    "trending": false,
-    "source": "arXiv - Anzhe Xie, Weihang Su, Yujia Zhou et al."
-  },
-  {
-    "id": "arxiv_1781654798906_4",
-    "name": "R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies",
-    "category": "computer-vision",
-    "description": "Spatial generalization is critical for imitation-learned manipulation policies, but achieving it typically requires scaling demonstrations across diverse object poses, robot configurations, and camera...",
-    "link": "http://arxiv.org/abs/2606.17040v1",
+    "description": "Unified Multimodal Modeling aims to integrate visual understanding and generation within a single system. However, existing approaches typically rely on two disparate visual tokenizers, which splits t...",
+    "link": "http://arxiv.org/abs/2606.18249v1",
     "tags": [
       "AI",
       "Vision",
-      "Diffusion"
-    ],
-    "date": "2026-06-15T17:56:19Z",
-    "trending": true,
-    "source": "arXiv - Xiuwei Xu, Haowen Sun, Angyuan Ma et al."
-  },
-  {
-    "id": "arxiv_1781654798880_0",
-    "name": "The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers",
-    "category": "ai",
-    "description": "Oppenheim and Lim (1981) showed that natural images stay recognizable when reconstructed from their Fourier phase alone, while the magnitude carries little of their identity. We ask whether trained im...",
-    "link": "http://arxiv.org/abs/2606.17037v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "CNN"
-    ],
-    "date": "2026-06-15T17:54:52Z",
-    "trending": true,
-    "source": "arXiv - Alper Yıldırım"
-  },
-  {
-    "id": "arxiv_1781654798931_3",
-    "name": "The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers",
-    "category": "machine-learning",
-    "description": "Oppenheim and Lim (1981) showed that natural images stay recognizable when reconstructed from their Fourier phase alone, while the magnitude carries little of their identity. We ask whether trained im...",
-    "link": "http://arxiv.org/abs/2606.17037v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "CNN"
-    ],
-    "date": "2026-06-15T17:54:52Z",
-    "trending": false,
-    "source": "arXiv - Alper Yıldırım"
-  },
-  {
-    "id": "arxiv_1781654798931_4",
-    "name": "Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning",
-    "category": "machine-learning",
-    "description": "Prior research suggests that differential privacy (DP) inherently enhances the robustness of federated learning (FL) against backdoor attacks. In this paper, we challenge this assumption. Through an e...",
-    "link": "http://arxiv.org/abs/2606.17035v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-15T17:53:12Z",
-    "trending": true,
-    "source": "arXiv - Xiaolin Li, Ning Wang, Ninghui Li et al."
-  },
-  {
-    "id": "arxiv_1781654798958_3",
-    "name": "KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing",
-    "category": "nlp",
-    "description": "Post-hoc context erasing over the KV cache is challenging because a local edit has a global consequence: once a span has been processed, its influence propagates into the cached states of all subseque...",
-    "link": "http://arxiv.org/abs/2606.17034v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-15T17:53:09Z",
-    "trending": false,
-    "source": "arXiv - Mufei Li, Shikun Liu, Dongqi Fu et al."
-  },
-  {
-    "id": "arxiv_1781654798958_4",
-    "name": "DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents",
-    "category": "nlp",
-    "description": "Deep research agents synthesize long-form reports by searching and reasoning over retrieved evidence. Reinforcement learning with rubric-based rewards improves these agents by optimizing them against ...",
-    "link": "http://arxiv.org/abs/2606.17029v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
+      "Diffusion",
       "Reinforcement Learning"
     ],
-    "date": "2026-06-15T17:52:27Z",
-    "trending": true,
-    "source": "arXiv - Minghang Zhu, Chuyang Wei, Junhao Xu et al."
+    "date": "2026-06-16T17:59:22Z",
+    "trending": false,
+    "source": "arXiv - Wujian Peng, Lingchen Meng, Yuxuan Cai et al."
   },
   {
-    "id": "arxiv_1781654798881_1",
-    "name": "HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting",
+    "id": "arxiv_1781675767238_0",
+    "name": "Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement",
     "category": "ai",
-    "description": "Simple linear and frequency-domain models remain surprisingly competitive in long-horizon time-series forecasting, and recent mechanistic evidence suggests that standard forecasting benchmarks may not...",
-    "link": "http://arxiv.org/abs/2606.17028v1",
+    "description": "Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a gen...",
+    "link": "http://arxiv.org/abs/2606.18247v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-16T17:59:04Z",
+    "trending": false,
+    "source": "arXiv - Mingtong Zhang, Dhruv Shah"
+  },
+  {
+    "id": "arxiv_1781675767414_0",
+    "name": "Variable-Width Transformers",
+    "category": "nlp",
+    "description": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocat...",
+    "link": "http://arxiv.org/abs/2606.18246v1",
     "tags": [
       "AI",
       "Transformer"
     ],
-    "date": "2026-06-15T17:51:50Z",
-    "trending": false,
-    "source": "arXiv - Alper Yıldırım"
+    "date": "2026-06-16T17:59:03Z",
+    "trending": true,
+    "source": "arXiv - Zhaofeng Wu, Oliver Sieberling, Shawn Tan et al."
   },
   {
-    "id": "arxiv_1781654798881_2",
-    "name": "FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models",
-    "category": "ai",
-    "description": "Remote sensing vision-language models have advanced Earth observation understanding, but most existing work remains centered on RGB imagery, leaving the complementary information in infrared data unde...",
-    "link": "http://arxiv.org/abs/2606.17020v1",
+    "id": "arxiv_1781675767252_2",
+    "name": "MOCHI: Motion Enhancement of Collaborative Human-object Interactions",
+    "category": "computer-vision",
+    "description": "Collaborative human-object interaction shows dynamic and complex movements that require mutual anticipation and continuous adjustment between participants and the shared object. Modeling such collabor...",
+    "link": "http://arxiv.org/abs/2606.18243v1",
+    "tags": [
+      "AI",
+      "Diffusion",
+      "Optimization"
+    ],
+    "date": "2026-06-16T17:58:44Z",
+    "trending": true,
+    "source": "arXiv - Jiye Lee, Yonghun Choi, Jungdam Won"
+  },
+  {
+    "id": "arxiv_1781675767253_3",
+    "name": "EventDrive: Event Cameras for Vision-Language Driving Intelligence",
+    "category": "computer-vision",
+    "description": "Event cameras sense the world through asynchronous brightness changes with microsecond latency and high dynamic range, offering motion fidelity far beyond frame-based sensors and capturing temporal st...",
+    "link": "http://arxiv.org/abs/2606.18242v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-06-15T17:49:34Z",
+    "date": "2026-06-16T17:58:40Z",
     "trending": false,
-    "source": "arXiv - Jiaju Han, Ben Zhang, Xuemeng Sun et al."
+    "source": "arXiv - Dongyue Lu, Rong Li, Ao Liang et al."
   },
   {
-    "id": "arxiv_1781654798881_3",
-    "name": "TokenPilot: Cache-Efficient Context Management for LLM Agents",
+    "id": "arxiv_1781675767239_1",
+    "name": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
     "category": "ai",
-    "description": "As LLM agents are deployed in long-horizon sessions, context accumulation drives up inference costs. Existing approaches utilize text pruning or dynamic memory eviction to minimize token footprints; h...",
-    "link": "http://arxiv.org/abs/2606.17016v1",
+    "description": "Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, ...",
+    "link": "http://arxiv.org/abs/2606.18237v1",
     "tags": [
       "AI",
-      "NLP",
+      "Machine Learning",
+      "Vision",
       "LLM"
     ],
-    "date": "2026-06-15T17:46:50Z",
+    "date": "2026-06-16T17:58:05Z",
     "trending": false,
-    "source": "arXiv - Buqiang Xu, Zirui Xue, Dianmou Chen et al."
+    "source": "arXiv - Shanda Li, Qiuhong Anna Wei, Jingwu Tang et al."
   },
   {
-    "id": "arxiv_1781654798881_4",
-    "name": "TuneJury: An Open Metric for Improving Music Generation Preference Alignment",
-    "category": "ai",
-    "description": "We introduce TuneJury, an open, instance-level pairwise reward model for text-to-music that predicts a music preference score from a text prompt and an audio clip. The released checkpoint is trained o...",
-    "link": "http://arxiv.org/abs/2606.17006v1",
+    "id": "arxiv_1781675767265_0",
+    "name": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
+    "category": "machine-learning",
+    "description": "Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, ...",
+    "link": "http://arxiv.org/abs/2606.18237v1",
     "tags": [
       "AI",
-      "Optimization"
+      "Machine Learning",
+      "Vision",
+      "LLM"
     ],
-    "date": "2026-06-15T17:39:30Z",
+    "date": "2026-06-16T17:58:05Z",
     "trending": false,
-    "source": "arXiv - Yonghyun Kim, Junwon Lee, Haiwen Xia et al."
+    "source": "arXiv - Shanda Li, Qiuhong Anna Wei, Jingwu Tang et al."
+  },
+  {
+    "id": "arxiv_1781675767414_1",
+    "name": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
+    "category": "nlp",
+    "description": "Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, ...",
+    "link": "http://arxiv.org/abs/2606.18237v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-06-16T17:58:05Z",
+    "trending": true,
+    "source": "arXiv - Shanda Li, Qiuhong Anna Wei, Jingwu Tang et al."
+  },
+  {
+    "id": "arxiv_1781675767265_1",
+    "name": "Sign-Rank, Index, and List Replicability: Connections and Separations",
+    "category": "machine-learning",
+    "description": "In learning theory, the sign rank of a binary concept class captures the smallest dimension in which it can be represented by points and halfspaces. Despite tremendous interest, lower bounds on sign r...",
+    "link": "http://arxiv.org/abs/2606.18236v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-16T17:57:16Z",
+    "trending": true,
+    "source": "arXiv - Ari Blondal, Hamed Hatami, Pooya Hatami et al."
+  },
+  {
+    "id": "arxiv_1781675767239_2",
+    "name": "EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation",
+    "category": "ai",
+    "description": "Zero-Shot Object-Goal Navigation (ZS-OGN) requires embodied agents to explore and locate target objects without any prior training. To this end, recent methods leverage foundation models. But they typ...",
+    "link": "http://arxiv.org/abs/2606.18235v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-16T17:56:57Z",
+    "trending": false,
+    "source": "arXiv - Qi Chai, Wenhao Shen, Nanjie Yao et al."
+  },
+  {
+    "id": "arxiv_1781675767253_4",
+    "name": "Adaptive Volumetric Mechanical Property Fields Invariant to Resolution",
+    "category": "computer-vision",
+    "description": "Accurate mechanical properties (or materials) Young's modulus ($E$), Poisson's ratio ($ν$) and density ($ρ$) are essential for reliable physics simulation of digital worlds, but most 3D assets lack th...",
+    "link": "http://arxiv.org/abs/2606.18231v1",
+    "tags": [
+      "Transformer"
+    ],
+    "date": "2026-06-16T17:56:03Z",
+    "trending": false,
+    "source": "arXiv - Rishit Dagli, Donglai Xiang, Vismay Modi et al."
+  },
+  {
+    "id": "arxiv_1781675767265_2",
+    "name": "Adaptive Volumetric Mechanical Property Fields Invariant to Resolution",
+    "category": "machine-learning",
+    "description": "Accurate mechanical properties (or materials) Young's modulus ($E$), Poisson's ratio ($ν$) and density ($ρ$) are essential for reliable physics simulation of digital worlds, but most 3D assets lack th...",
+    "link": "http://arxiv.org/abs/2606.18231v1",
+    "tags": [
+      "Transformer"
+    ],
+    "date": "2026-06-16T17:56:03Z",
+    "trending": false,
+    "source": "arXiv - Rishit Dagli, Donglai Xiang, Vismay Modi et al."
+  },
+  {
+    "id": "arxiv_1781675767239_3",
+    "name": "Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents",
+    "category": "ai",
+    "description": "With sophisticated cyber-attacks becoming increasingly prevalent, modern networks require intelligent autonomous cyber-defense agents trained via Reinforcement Learning (RL). These agents employ neuro...",
+    "link": "http://arxiv.org/abs/2606.18223v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-16T17:50:41Z",
+    "trending": false,
+    "source": "arXiv - Ankita Samaddar, Sandeep Neema, Daniel Balasubramanian et al."
+  },
+  {
+    "id": "arxiv_1781675767265_3",
+    "name": "Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents",
+    "category": "machine-learning",
+    "description": "With sophisticated cyber-attacks becoming increasingly prevalent, modern networks require intelligent autonomous cyber-defense agents trained via Reinforcement Learning (RL). These agents employ neuro...",
+    "link": "http://arxiv.org/abs/2606.18223v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-16T17:50:41Z",
+    "trending": false,
+    "source": "arXiv - Ankita Samaddar, Sandeep Neema, Daniel Balasubramanian et al."
+  },
+  {
+    "id": "arxiv_1781675767414_2",
+    "name": "Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses",
+    "category": "nlp",
+    "description": "We introduce Darshana Graph, a corpus of over 125,000 text records spanning classical Hindu, Buddhist, and Jain philosophical traditions, drawn from public-domain and openly licensed translations of s...",
+    "link": "http://arxiv.org/abs/2606.18222v1",
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ],
+    "date": "2026-06-16T17:49:15Z",
+    "trending": true,
+    "source": "arXiv - Joy Bose"
+  },
+  {
+    "id": "arxiv_1781675767265_4",
+    "name": "Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds",
+    "category": "machine-learning",
+    "description": "We study finite-horizon queue peaks in generalized switches, a standard stochastic-network model in which many queues share constrained service resources. Arrivals may be dependent, time-varying, and ...",
+    "link": "http://arxiv.org/abs/2606.18218v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-16T17:47:47Z",
+    "trending": false,
+    "source": "arXiv - Hao Liang, Cheng Tang, Yunzong Xu"
+  },
+  {
+    "id": "arxiv_1781675767414_3",
+    "name": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
+    "category": "nlp",
+    "description": "Knowledge distillation transfers a teacher's competence to a small student but is brittle in the small-student regime: forcing the student to imitate logits from a much larger teacher concentrates it ...",
+    "link": "http://arxiv.org/abs/2606.18216v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-16T17:46:02Z",
+    "trending": false,
+    "source": "arXiv - Byung-Kwan Lee, Ximing Lu, Shizhe Diao et al."
+  },
+  {
+    "id": "arxiv_1781675767239_4",
+    "name": "Looped World Models",
+    "category": "ai",
+    "description": "Current world models face a fundamental tension: faithful long-horizon simulation demands deep computation, but deeper models are expensive to deploy and prone to compounding errors. We resolve this b...",
+    "link": "http://arxiv.org/abs/2606.18208v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-06-16T17:37:27Z",
+    "trending": false,
+    "source": "arXiv - Hongyuan Adam Lu, Z. L. Victor Wei, Qun Zhang et al."
+  },
+  {
+    "id": "arxiv_1781675767414_4",
+    "name": "Looped World Models",
+    "category": "nlp",
+    "description": "Current world models face a fundamental tension: faithful long-horizon simulation demands deep computation, but deeper models are expensive to deploy and prone to compounding errors. We resolve this b...",
+    "link": "http://arxiv.org/abs/2606.18208v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-06-16T17:37:27Z",
+    "trending": true,
+    "source": "arXiv - Hongyuan Adam Lu, Z. L. Victor Wei, Qun Zhang et al."
   }
 ]
