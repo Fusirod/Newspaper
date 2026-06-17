@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1781647899959_0",
+    "id": "arxiv_1781654798958_0",
     "name": "The Value Axis: Language Models Encode Whether They're on the Right Track",
     "category": "nlp",
     "description": "We investigate whether language models internally track the value of their current trajectory, defined as the likelihood that their ongoing strategy will achieve their goals. Using synthetic, in-conte...",
@@ -15,7 +15,7 @@
     "source": "arXiv - Nick Jiang, Isaac Kauvar, Jack Lindsey"
   },
   {
-    "id": "arxiv_1781647899924_0",
+    "id": "arxiv_1781654798905_0",
     "name": "Context-Aware RL for Agentic and Multimodal LLMs",
     "category": "computer-vision",
     "description": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d...",
@@ -26,11 +26,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-15T17:59:28Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Peiyang Xu, Bangzheng Li, Sijia Liu et al."
   },
   {
-    "id": "arxiv_1781647899959_1",
+    "id": "arxiv_1781654798958_1",
     "name": "Context-Aware RL for Agentic and Multimodal LLMs",
     "category": "nlp",
     "description": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d...",
@@ -41,11 +41,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-15T17:59:28Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Peiyang Xu, Bangzheng Li, Sijia Liu et al."
   },
   {
-    "id": "arxiv_1781647899924_1",
+    "id": "arxiv_1781654798906_1",
     "name": "BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering",
     "category": "computer-vision",
     "description": "Inverse rendering of urban scenes from captured videos enables numerous applications, including content creation and autonomous driving simulation. Physically-based rendering methods follow and contro...",
@@ -54,11 +54,11 @@
       "Optimization"
     ],
     "date": "2026-06-15T17:58:31Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yi-Ruei Liu, Jie-Ying Lee, Zheng-Hui Huang et al."
   },
   {
-    "id": "arxiv_1781647899925_2",
+    "id": "arxiv_1781654798906_2",
     "name": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
     "category": "computer-vision",
     "description": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the post...",
@@ -72,7 +72,7 @@
     "source": "arXiv - Abbas Mammadov, Ozgur Kara, Kaan Oktay et al."
   },
   {
-    "id": "arxiv_1781647899943_0",
+    "id": "arxiv_1781654798930_0",
     "name": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
     "category": "machine-learning",
     "description": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the post...",
@@ -82,11 +82,11 @@
       "Diffusion"
     ],
     "date": "2026-06-15T17:58:22Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Abbas Mammadov, Ozgur Kara, Kaan Oktay et al."
   },
   {
-    "id": "arxiv_1781647899925_3",
+    "id": "arxiv_1781654798906_3",
     "name": "Geometric Action Model for Robot Policy Learning",
     "category": "computer-vision",
     "description": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and...",
@@ -100,7 +100,7 @@
     "source": "arXiv - Jisang Han, Seonghu Jeon, Jaewoo Jung et al."
   },
   {
-    "id": "arxiv_1781647899943_1",
+    "id": "arxiv_1781654798930_1",
     "name": "Geometric Action Model for Robot Policy Learning",
     "category": "machine-learning",
     "description": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and...",
@@ -114,7 +114,7 @@
     "source": "arXiv - Jisang Han, Seonghu Jeon, Jaewoo Jung et al."
   },
   {
-    "id": "arxiv_1781647899943_2",
+    "id": "arxiv_1781654798930_2",
     "name": "Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes",
     "category": "machine-learning",
     "description": "When pretrained VLA policies are fine-tuned through online RL, each rollout episode produces only a single binary outcome (success or failure), yet the actor update requires per-transition supervision...",
@@ -128,7 +128,7 @@
     "source": "arXiv - Tongyan Fang, Siyuan Huang, Naiyu Fang et al."
   },
   {
-    "id": "arxiv_1781647899960_2",
+    "id": "arxiv_1781654798958_2",
     "name": "Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
     "category": "nlp",
     "description": "Meta-analysis is a demanding form of evidence synthesis that combines literature retrieval, PI/ECO-guided study selection, and statistical aggregation. Its structured, verifiable workflow makes it an ...",
@@ -142,7 +142,7 @@
     "source": "arXiv - Anzhe Xie, Weihang Su, Yujia Zhou et al."
   },
   {
-    "id": "arxiv_1781647899925_4",
+    "id": "arxiv_1781654798906_4",
     "name": "R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies",
     "category": "computer-vision",
     "description": "Spatial generalization is critical for imitation-learned manipulation policies, but achieving it typically requires scaling demonstrations across diverse object poses, robot configurations, and camera...",
@@ -157,7 +157,7 @@
     "source": "arXiv - Xiuwei Xu, Haowen Sun, Angyuan Ma et al."
   },
   {
-    "id": "arxiv_1781647899904_0",
+    "id": "arxiv_1781654798880_0",
     "name": "The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers",
     "category": "ai",
     "description": "Oppenheim and Lim (1981) showed that natural images stay recognizable when reconstructed from their Fourier phase alone, while the magnitude carries little of their identity. We ask whether trained im...",
@@ -168,11 +168,11 @@
       "CNN"
     ],
     "date": "2026-06-15T17:54:52Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Alper Yıldırım"
   },
   {
-    "id": "arxiv_1781647899943_3",
+    "id": "arxiv_1781654798931_3",
     "name": "The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers",
     "category": "machine-learning",
     "description": "Oppenheim and Lim (1981) showed that natural images stay recognizable when reconstructed from their Fourier phase alone, while the magnitude carries little of their identity. We ask whether trained im...",
@@ -187,7 +187,7 @@
     "source": "arXiv - Alper Yıldırım"
   },
   {
-    "id": "arxiv_1781647899943_4",
+    "id": "arxiv_1781654798931_4",
     "name": "Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning",
     "category": "machine-learning",
     "description": "Prior research suggests that differential privacy (DP) inherently enhances the robustness of federated learning (FL) against backdoor attacks. In this paper, we challenge this assumption. Through an e...",
@@ -196,11 +196,11 @@
       "AI"
     ],
     "date": "2026-06-15T17:53:12Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xiaolin Li, Ning Wang, Ninghui Li et al."
   },
   {
-    "id": "arxiv_1781647899960_3",
+    "id": "arxiv_1781654798958_3",
     "name": "KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing",
     "category": "nlp",
     "description": "Post-hoc context erasing over the KV cache is challenging because a local edit has a global consequence: once a span has been processed, its influence propagates into the cached states of all subseque...",
@@ -214,7 +214,7 @@
     "source": "arXiv - Mufei Li, Shikun Liu, Dongqi Fu et al."
   },
   {
-    "id": "arxiv_1781647899960_4",
+    "id": "arxiv_1781654798958_4",
     "name": "DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents",
     "category": "nlp",
     "description": "Deep research agents synthesize long-form reports by searching and reasoning over retrieved evidence. Reinforcement learning with rubric-based rewards improves these agents by optimizing them against ...",
@@ -230,7 +230,7 @@
     "source": "arXiv - Minghang Zhu, Chuyang Wei, Junhao Xu et al."
   },
   {
-    "id": "arxiv_1781647899904_1",
+    "id": "arxiv_1781654798881_1",
     "name": "HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting",
     "category": "ai",
     "description": "Simple linear and frequency-domain models remain surprisingly competitive in long-horizon time-series forecasting, and recent mechanistic evidence suggests that standard forecasting benchmarks may not...",
@@ -244,7 +244,7 @@
     "source": "arXiv - Alper Yıldırım"
   },
   {
-    "id": "arxiv_1781647899904_2",
+    "id": "arxiv_1781654798881_2",
     "name": "FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models",
     "category": "ai",
     "description": "Remote sensing vision-language models have advanced Earth observation understanding, but most existing work remains centered on RGB imagery, leaving the complementary information in infrared data unde...",
@@ -258,7 +258,7 @@
     "source": "arXiv - Jiaju Han, Ben Zhang, Xuemeng Sun et al."
   },
   {
-    "id": "arxiv_1781647899905_3",
+    "id": "arxiv_1781654798881_3",
     "name": "TokenPilot: Cache-Efficient Context Management for LLM Agents",
     "category": "ai",
     "description": "As LLM agents are deployed in long-horizon sessions, context accumulation drives up inference costs. Existing approaches utilize text pruning or dynamic memory eviction to minimize token footprints; h...",
@@ -273,7 +273,7 @@
     "source": "arXiv - Buqiang Xu, Zirui Xue, Dianmou Chen et al."
   },
   {
-    "id": "arxiv_1781647899905_4",
+    "id": "arxiv_1781654798881_4",
     "name": "TuneJury: An Open Metric for Improving Music Generation Preference Alignment",
     "category": "ai",
     "description": "We introduce TuneJury, an open, instance-level pairwise reward model for text-to-music that predicts a music preference score from a text prompt and an audio clip. The released checkpoint is trained o...",
