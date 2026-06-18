@@ -1,286 +1,288 @@
 [
   {
-    "id": "arxiv_1781748824998_0",
-    "name": "IndicContextEval: A Benchmark for Evaluating Context Utilisation in Audio Large Language Models Across 8 Indic Languages",
-    "category": "nlp",
-    "description": "AudioLLMs enable speech recognition conditioned on textual prompts such as domain descriptions or entity lists. However, it remains unclear whether these models genuinely utilise such context or rely ...",
-    "link": "http://arxiv.org/abs/2606.19157v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-17T14:59:37Z",
-    "trending": false,
-    "source": "arXiv - Sakshi Joshi, Dhruv Subhash Rathi, Sanskar Singh et al."
-  },
-  {
-    "id": "arxiv_1781748824863_0",
-    "name": "Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos",
+    "id": "arxiv_1781767376271_0",
+    "name": "Native Active Perception as Reasoning for Omni-Modal Understanding",
     "category": "computer-vision",
-    "description": "Dynamic 3D hand reconstruction from egocentric videos is essential for next-generation computing platforms such as AR/VR and AI glasses. Despite its importance, most prior works focus either on multi-...",
-    "link": "http://arxiv.org/abs/2606.19156v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-17T14:58:37Z",
-    "trending": false,
-    "source": "arXiv - Jeongmin Bae, Seoha Kim, Marc Pollefeys et al."
-  },
-  {
-    "id": "arxiv_1781748824793_0",
-    "name": "AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces",
-    "category": "ai",
-    "description": "Identifying the lowest-energy surface-adsorbate configuration is critical for modeling heterogeneous catalysis, yet exhaustive exploration with ab initio calculations is computationally prohibitive. M...",
-    "link": "http://arxiv.org/abs/2606.19152v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-17T14:57:16Z",
-    "trending": false,
-    "source": "arXiv - Zongmin Zhang, Yuyang Lou, Bowen Zhang et al."
-  },
-  {
-    "id": "arxiv_1781748824863_1",
-    "name": "The Market in the Model: Latent Diffusion as Neural Economy",
-    "category": "computer-vision",
-    "description": "Valuable critique of generative image models within visual culture and the humanities has emphasized the role of datasets in shaping the images they produce. Yet, close studies of the ideological posi...",
-    "link": "http://arxiv.org/abs/2606.19151v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Vision",
-      "Diffusion"
-    ],
-    "date": "2026-06-17T14:56:42Z",
-    "trending": false,
-    "source": "arXiv - Eryk Salvaggio"
-  },
-  {
-    "id": "arxiv_1781748824931_0",
-    "name": "Complementary Attention Head Pruning for Efficient Transformers",
-    "category": "machine-learning",
-    "description": "The remarkable success of Transformer-based models in natural language processing stems from architectural scaling, which leads to a large number of parameters and hinders deployment in resource-const...",
-    "link": "http://arxiv.org/abs/2606.19150v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-06-17T14:56:27Z",
-    "trending": false,
-    "source": "arXiv - Yaniv Livertovsky, Shahar Somin, Gonen Singer"
-  },
-  {
-    "id": "arxiv_1781748824931_1",
-    "name": "OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing",
-    "category": "machine-learning",
-    "description": "Automated vulnerability discovery in large codebases remains challenging: traditional static analysis produces high false-positive rates, while dynamic approaches such as fuzzing require substantial i...",
-    "link": "http://arxiv.org/abs/2606.19149v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-17T14:56:04Z",
-    "trending": false,
-    "source": "arXiv - Nahum Korda, Gadi Evron"
-  },
-  {
-    "id": "arxiv_1781748824931_2",
-    "name": "On Local Population-Risk Certificates",
-    "category": "machine-learning",
-    "description": "This paper develops local certificates for population-risk increments around a current model. For a local candidate set \\(\\mathcal D\\), the certificate is a two-sided confidence band for \\(P({\\ell_{θ+...",
-    "link": "http://arxiv.org/abs/2606.19147v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-17T14:50:17Z",
-    "trending": false,
-    "source": "arXiv - Mingzhi Song"
-  },
-  {
-    "id": "arxiv_1781748824793_1",
-    "name": "OrthoReg: Orthogonal Regularization for Hybrid Symbolic-Neural Dynamical Systems",
-    "category": "ai",
-    "description": "Dynamical systems are fundamental to modeling the natural world, yet modeling them involves a persistent trade-off: manually prescribed mechanistic models are interpretable by design but often overly ...",
-    "link": "http://arxiv.org/abs/2606.19145v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-06-17T14:48:10Z",
-    "trending": false,
-    "source": "arXiv - Till Richter, Niki Kilbertus"
-  },
-  {
-    "id": "arxiv_1781748824931_3",
-    "name": "OrthoReg: Orthogonal Regularization for Hybrid Symbolic-Neural Dynamical Systems",
-    "category": "machine-learning",
-    "description": "Dynamical systems are fundamental to modeling the natural world, yet modeling them involves a persistent trade-off: manually prescribed mechanistic models are interpretable by design but often overly ...",
-    "link": "http://arxiv.org/abs/2606.19145v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-06-17T14:48:10Z",
-    "trending": false,
-    "source": "arXiv - Till Richter, Niki Kilbertus"
-  },
-  {
-    "id": "arxiv_1781748824793_2",
-    "name": "Human-AI Coevolution Dynamics: A Formal Theory of Social Intelligence Emergence Through Long-Term Interaction",
-    "category": "ai",
-    "description": "Current conversational AI systems have made significant progress in language generation, personalization, and long-context interaction. However, most existing methods model social behavior through iso...",
-    "link": "http://arxiv.org/abs/2606.19144v1",
-    "tags": [
-      "AI",
-      "GAN"
-    ],
-    "date": "2026-06-17T14:47:59Z",
-    "trending": true,
-    "source": "arXiv - Jingyi Zhou, Senlin Luo, Haofan Chen"
-  },
-  {
-    "id": "arxiv_1781748824998_1",
-    "name": "Human-AI Coevolution Dynamics: A Formal Theory of Social Intelligence Emergence Through Long-Term Interaction",
-    "category": "nlp",
-    "description": "Current conversational AI systems have made significant progress in language generation, personalization, and long-context interaction. However, most existing methods model social behavior through iso...",
-    "link": "http://arxiv.org/abs/2606.19144v1",
-    "tags": [
-      "AI",
-      "GAN"
-    ],
-    "date": "2026-06-17T14:47:59Z",
-    "trending": true,
-    "source": "arXiv - Jingyi Zhou, Senlin Luo, Haofan Chen"
-  },
-  {
-    "id": "arxiv_1781748824932_4",
-    "name": "ChronoSurv: A Clinical Pathway-Guided Graph Framework for Multimodal Survival Analysis",
-    "category": "machine-learning",
-    "description": "Accurate survival prediction is essential for personalized treatment planning in head and neck cancer, yet remains challenging due to the heterogeneous and high-dimensional nature of multimodal clinic...",
-    "link": "http://arxiv.org/abs/2606.19140v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-17T14:46:47Z",
-    "trending": false,
-    "source": "arXiv - Hugo Miccinilli, Theo Di Piazza"
-  },
-  {
-    "id": "arxiv_1781748824864_2",
-    "name": "Urdu Katib Handwritten Dataset: A Historical Document Dataset for Offline Urdu Handwritten Text Recognition with CRNN-Based Baseline Evaluation",
-    "category": "computer-vision",
-    "description": "Automatic Handwritten Text Recognition (HTR) is inherently a challenging task, and its complexity is further increased when dealing with cursive scripts. Although significant efforts have been made on...",
-    "link": "http://arxiv.org/abs/2606.19139v1",
-    "tags": [
-      "AI",
-      "CNN",
-      "RNN"
-    ],
-    "date": "2026-06-17T14:46:29Z",
-    "trending": true,
-    "source": "arXiv - Ramza Basharat, Muhammad Usman Ali"
-  },
-  {
-    "id": "arxiv_1781748824999_2",
-    "name": "Urdu Katib Handwritten Dataset: A Historical Document Dataset for Offline Urdu Handwritten Text Recognition with CRNN-Based Baseline Evaluation",
-    "category": "nlp",
-    "description": "Automatic Handwritten Text Recognition (HTR) is inherently a challenging task, and its complexity is further increased when dealing with cursive scripts. Although significant efforts have been made on...",
-    "link": "http://arxiv.org/abs/2606.19139v1",
-    "tags": [
-      "AI",
-      "CNN",
-      "RNN"
-    ],
-    "date": "2026-06-17T14:46:29Z",
-    "trending": false,
-    "source": "arXiv - Ramza Basharat, Muhammad Usman Ali"
-  },
-  {
-    "id": "arxiv_1781748824793_3",
-    "name": "A Technical Taxonomy of LLM Agent Communication Protocols",
-    "category": "ai",
-    "description": "As large language models (LLMs) advance and multi-agent systems aim to overcome the limits of standalone agents, robust communication protocols are becoming essential infrastructure for distributed ag...",
-    "link": "http://arxiv.org/abs/2606.19135v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-17T14:45:20Z",
-    "trending": true,
-    "source": "arXiv - Linus Sander, Habtom Kahsay Gidey, Alexander Lenz et al."
-  },
-  {
-    "id": "arxiv_1781748824794_4",
-    "name": "Pareto Q-Learning with Reward Machines",
-    "category": "ai",
-    "description": "We present Pareto Q-Learning with Reward Machines (PQLRM), a multi-objective reinforcement learning algorithm for tasks whose reward structure is specified by a set of reward machines (RMs). PQLRM com...",
-    "link": "http://arxiv.org/abs/2606.19134v1",
+    "description": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video durat...",
+    "link": "http://arxiv.org/abs/2606.19341v1",
     "tags": [
       "AI",
       "Reinforcement Learning"
     ],
-    "date": "2026-06-17T14:44:31Z",
+    "date": "2026-06-17T17:59:56Z",
     "trending": false,
-    "source": "arXiv - Arnaud Lequen, Clément Legrand-Lixon, Léo Saulières"
+    "source": "arXiv - Zhenghao Xing, Ruiyang Xu, Yuxuan Wang et al."
   },
   {
-    "id": "arxiv_1781748824999_3",
-    "name": "Written by AI, Managed by AI: Semantic Space Control and Index Sickness Elimination Across 391 Consecutive Sessions",
+    "id": "arxiv_1781767376673_0",
+    "name": "Native Active Perception as Reasoning for Omni-Modal Understanding",
     "category": "nlp",
-    "description": "The prevailing engineering intuition for addressing conceptual drift in long-horizon LLM collaboration is to trade more formal constraints for more reliable outputs -- designing symbolic identifier sy...",
-    "link": "http://arxiv.org/abs/2606.19121v1",
+    "description": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video durat...",
+    "link": "http://arxiv.org/abs/2606.19341v1",
     "tags": [
       "AI",
-      "LLM"
+      "Reinforcement Learning"
     ],
-    "date": "2026-06-17T14:35:24Z",
-    "trending": true,
-    "source": "arXiv - Hui Zhang, Shuren Song"
-  },
-  {
-    "id": "arxiv_1781748824864_3",
-    "name": "Seeing Before Reasoning: Decoupling Perception and Reasoning for Shortcut-Resilient Multimodal On-Policy Self-Distillation",
-    "category": "computer-vision",
-    "description": "On-policy self-distillation (OPSD) trains a model on its own rollouts and uses a frozen copy to provide dense token-level targets conditioned on a reference target. This works well for LLM reasoning, ...",
-    "link": "http://arxiv.org/abs/2606.19120v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-06-17T14:33:38Z",
+    "date": "2026-06-17T17:59:56Z",
     "trending": false,
-    "source": "arXiv - Sihan Wang, Xiyao Liu, Lianqing Liu et al."
+    "source": "arXiv - Zhenghao Xing, Ruiyang Xu, Yuxuan Wang et al."
   },
   {
-    "id": "arxiv_1781748824999_4",
-    "name": "Leadership as Coordination Control: Behavioral Signatures and the Recovery-Advantage Boundary in Multi-Agent LLM Teams",
+    "id": "arxiv_1781767376271_1",
+    "name": "Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games",
+    "category": "computer-vision",
+    "description": "Deploying multimodal foundation models as closed-loop policies increasingly requires conditioning actions on observations that are no longer visible. However, existing benchmarks either expose the ful...",
+    "link": "http://arxiv.org/abs/2606.19338v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-17T17:59:34Z",
+    "trending": false,
+    "source": "arXiv - Shengyuan Ding, Xilin Wei, Xinyu Fang et al."
+  },
+  {
+    "id": "arxiv_1781767376673_1",
+    "name": "Learning User Simulators with Turing Rewards",
     "category": "nlp",
-    "description": "Team science holds that leadership is contingent: it helps only under specific conditions, and capable, autonomous teams may need none at all. We ask the analogous question for multi-agent LLM teams: ...",
-    "link": "http://arxiv.org/abs/2606.19111v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-17T14:27:18Z",
-    "trending": false,
-    "source": "arXiv - Haewoon Kwak"
-  },
-  {
-    "id": "arxiv_1781748824864_4",
-    "name": "ProductConsistency: Improving Product Identity Preservation in Instruction-Based Image Editing via SFT and RL",
-    "category": "computer-vision",
-    "description": "Recent advances in instruction-based image editing have enabled models to perform complex visual edits from natural language instructions. However, in product-centric scenarios where preserving produc...",
-    "link": "http://arxiv.org/abs/2606.19103v1",
+    "description": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing appr...",
+    "link": "http://arxiv.org/abs/2606.19336v1",
     "tags": [
       "AI",
       "LLM",
       "Reinforcement Learning"
     ],
-    "date": "2026-06-17T14:16:47Z",
+    "date": "2026-06-17T17:58:48Z",
     "trending": false,
-    "source": "arXiv - Mukund Khanna, Raj Singh Yadav, Kunal Singh"
+    "source": "arXiv - Yingshan Susan Wang, Cedegao E. Zhang, Linlu Qiu et al."
+  },
+  {
+    "id": "arxiv_1781767376475_0",
+    "name": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+    "category": "machine-learning",
+    "description": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable...",
+    "link": "http://arxiv.org/abs/2606.19334v1",
+    "tags": [
+      "AI",
+      "BERT"
+    ],
+    "date": "2026-06-17T17:58:22Z",
+    "trending": true,
+    "source": "arXiv - Denis Peskoff, Joe Barrow, Christopher Vu et al."
+  },
+  {
+    "id": "arxiv_1781767376673_2",
+    "name": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+    "category": "nlp",
+    "description": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable...",
+    "link": "http://arxiv.org/abs/2606.19334v1",
+    "tags": [
+      "AI",
+      "BERT"
+    ],
+    "date": "2026-06-17T17:58:22Z",
+    "trending": false,
+    "source": "arXiv - Denis Peskoff, Joe Barrow, Christopher Vu et al."
+  },
+  {
+    "id": "arxiv_1781767376271_2",
+    "name": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos",
+    "category": "computer-vision",
+    "description": "How can we scalably generate data for robotic manipulation, especially on human-like platforms such as dexterous multi-fingered hands? Learning from human videos has recently emerged as a likely answe...",
+    "link": "http://arxiv.org/abs/2606.19333v1",
+    "tags": [],
+    "date": "2026-06-17T17:57:34Z",
+    "trending": false,
+    "source": "arXiv - Bhawna Paliwal, Haritheja Etukuru, William Liang et al."
+  },
+  {
+    "id": "arxiv_1781767376475_1",
+    "name": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
+    "category": "machine-learning",
+    "description": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such ...",
+    "link": "http://arxiv.org/abs/2606.19329v1",
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ],
+    "date": "2026-06-17T17:54:52Z",
+    "trending": true,
+    "source": "arXiv - V. Samuel Pérez-Díaz, Vinay L. Kashyap, Joshua D. Ingram et al."
+  },
+  {
+    "id": "arxiv_1781767376200_0",
+    "name": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
+    "category": "ai",
+    "description": "Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on pa...",
+    "link": "http://arxiv.org/abs/2606.19328v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-17T17:54:32Z",
+    "trending": true,
+    "source": "arXiv - Mohamed Nabail, Leo Cheng, Jingmin Wang et al."
+  },
+  {
+    "id": "arxiv_1781767376475_2",
+    "name": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
+    "category": "machine-learning",
+    "description": "Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on pa...",
+    "link": "http://arxiv.org/abs/2606.19328v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-17T17:54:32Z",
+    "trending": true,
+    "source": "arXiv - Mohamed Nabail, Leo Cheng, Jingmin Wang et al."
+  },
+  {
+    "id": "arxiv_1781767376200_1",
+    "name": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
+    "category": "ai",
+    "description": "Post-training of reasoning language models is commonly driven by supervised distillation and reinforcement learning with verifiable rewards. Distillation often relies on chain-of-thought annotations t...",
+    "link": "http://arxiv.org/abs/2606.19327v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-06-17T17:54:04Z",
+    "trending": false,
+    "source": "arXiv - Siyi Gu, Jialin Chen, Sophia Zhou et al."
+  },
+  {
+    "id": "arxiv_1781767376673_3",
+    "name": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
+    "category": "nlp",
+    "description": "Post-training of reasoning language models is commonly driven by supervised distillation and reinforcement learning with verifiable rewards. Distillation often relies on chain-of-thought annotations t...",
+    "link": "http://arxiv.org/abs/2606.19327v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-06-17T17:54:04Z",
+    "trending": false,
+    "source": "arXiv - Siyi Gu, Jialin Chen, Sophia Zhou et al."
+  },
+  {
+    "id": "arxiv_1781767376201_2",
+    "name": "Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors",
+    "category": "ai",
+    "description": "Existing multi-speaker dialogue systems bind speakers to utterances through structured supervision: per-turn tags, multi-stream transcriptions, or learnable speaker embeddings. These systems operate w...",
+    "link": "http://arxiv.org/abs/2606.19325v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-17T17:51:50Z",
+    "trending": true,
+    "source": "arXiv - Michael Finkelson, Daniel Segal, Eitan Richardson et al."
+  },
+  {
+    "id": "arxiv_1781767376271_3",
+    "name": "Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors",
+    "category": "computer-vision",
+    "description": "Existing multi-speaker dialogue systems bind speakers to utterances through structured supervision: per-turn tags, multi-stream transcriptions, or learnable speaker embeddings. These systems operate w...",
+    "link": "http://arxiv.org/abs/2606.19325v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-17T17:51:50Z",
+    "trending": false,
+    "source": "arXiv - Michael Finkelson, Daniel Segal, Eitan Richardson et al."
+  },
+  {
+    "id": "arxiv_1781767376201_3",
+    "name": "Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents",
+    "category": "ai",
+    "description": "Production data integration is bottlenecked by repeated, lossy handoffs between data owners, engineers, and analysts who must collaboratively discover, structure, and query enterprise data. We present...",
+    "link": "http://arxiv.org/abs/2606.19319v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-17T17:45:32Z",
+    "trending": false,
+    "source": "arXiv - Anoushka Vyas, Aarushi Dhanuka, Sina Khoshfetrat Pakazad et al."
+  },
+  {
+    "id": "arxiv_1781767376201_4",
+    "name": "Explaining Attention with Program Synthesis",
+    "category": "ai",
+    "description": "A longstanding goal of research on interpretable deep learning is to replace opaque neural computations with human-meaningful symbolic descriptions. In this paper, we propose an approach for approxima...",
+    "link": "http://arxiv.org/abs/2606.19317v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Deep Learning",
+      "Transformer"
+    ],
+    "date": "2026-06-17T17:40:55Z",
+    "trending": false,
+    "source": "arXiv - Amiri Hayes, Belinda Li, Jacob Andreas"
+  },
+  {
+    "id": "arxiv_1781767376475_3",
+    "name": "Explaining Attention with Program Synthesis",
+    "category": "machine-learning",
+    "description": "A longstanding goal of research on interpretable deep learning is to replace opaque neural computations with human-meaningful symbolic descriptions. In this paper, we propose an approach for approxima...",
+    "link": "http://arxiv.org/abs/2606.19317v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Deep Learning",
+      "Transformer"
+    ],
+    "date": "2026-06-17T17:40:55Z",
+    "trending": false,
+    "source": "arXiv - Amiri Hayes, Belinda Li, Jacob Andreas"
+  },
+  {
+    "id": "arxiv_1781767376271_4",
+    "name": "NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field",
+    "category": "computer-vision",
+    "description": "Recently neural implicit rendering techniques have evolved rapidly and demonstrated significant advantages in novel view synthesis and 3D scene reconstruction. However, existing neural rendering metho...",
+    "link": "http://arxiv.org/abs/2606.19316v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Optimization"
+    ],
+    "date": "2026-06-17T17:39:21Z",
+    "trending": false,
+    "source": "arXiv - Chong Bao, Yuan Li, Bangbang Yang et al."
+  },
+  {
+    "id": "arxiv_1781767376475_4",
+    "name": "Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation",
+    "category": "machine-learning",
+    "description": "Enhancing the formal math reasoning capabilities of Large Language Models (LLMs) has become a key focus in both mathematical and computer science communities in recent years. While significant progres...",
+    "link": "http://arxiv.org/abs/2606.19315v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Diffusion"
+    ],
+    "date": "2026-06-17T17:38:32Z",
+    "trending": false,
+    "source": "arXiv - Ruida Wang, Rui Pan, Pengcheng Wang et al."
+  },
+  {
+    "id": "arxiv_1781767376673_4",
+    "name": "Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play",
+    "category": "nlp",
+    "description": "Large language model (LLM)-based multi-agent systems (MAS) have demonstrated great potential in solving tasks with execution complexity, by distributing subtasks across cooperative agents. However, th...",
+    "link": "http://arxiv.org/abs/2606.19308v1",
+    "tags": [
+      "LLM"
+    ],
+    "date": "2026-06-17T17:31:06Z",
+    "trending": false,
+    "source": "arXiv - Leyang Shen, Yang Zhang, Xiaoyan Zhao et al."
   }
 ]
