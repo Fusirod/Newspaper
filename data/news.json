@@ -1,6 +1,92 @@
 [
   {
-    "id": "rss_TechCrunch_1781813072802_0",
+    "id": "rss_Wired_1781822947000_0",
+    "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Leaked files show the invite-only network grades members by their money and fame, shaping who’s in, who’s out, and who pays.",
+    "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
+    "tags": [],
+    "date": "Thu, 18 Jun 2026 22:12:45 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1781822945971_0",
+    "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        In February, a Trump official refused to review the vaccine.\n                    ",
+    "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+    "tags": [],
+    "date": "Thu, 18 Jun 2026 22:08:59 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1781822945971_1",
+    "title": "As China looms, Taiwan makes more drones for defense and the US military",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Taiwan's drone spending plans for defense could also boost business overseas.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 18 Jun 2026 21:21:26 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1781822942256_0",
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+    "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Thu, 18 Jun 2026 21:20:13 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1781822947000_1",
+    "title": "The White House Is Making Up Its Rules for AI in Real Time",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
+    "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 18 Jun 2026 21:03:43 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1781822945971_2",
+    "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"We are reassigning most affected employees across existing opportunities and programs.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
+    "tags": [],
+    "date": "Thu, 18 Jun 2026 20:49:55 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1781822942256_1",
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.  ",
+    "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 18 Jun 2026 20:30:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1781822942256_2",
     "title": "OpenAI is bringing on some big guns in the lead-up to its IPO ",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -15,8 +101,8 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1781813076115_0",
-    "title": "Google shares updated timeline for rolling out Android developer verification",
+    "id": "rss_Ars_Technica_1781822945971_3",
+    "title": "Android verification is coming: Google confirms timeline and supported app stores",
     "category": "ai-news",
     "source": "Ars Technica",
     "description": "\n                        A new system service will roll out this month ahead of big changes starting in September.\n                    ",
@@ -28,7 +114,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1781813076115_1",
+    "id": "rss_Ars_Technica_1781822945972_4",
     "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -36,10 +122,10 @@
     "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
     "tags": [],
     "date": "Thu, 18 Jun 2026 19:41:35 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1781813077269_0",
+    "id": "rss_Wired_1781822947000_2",
     "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
     "category": "ai-news",
     "source": "Wired",
@@ -50,10 +136,10 @@
       "Meta"
     ],
     "date": "Thu, 18 Jun 2026 19:29:51 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1781813072802_1",
+    "id": "rss_TechCrunch_1781822942256_3",
     "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -63,10 +149,10 @@
       "AI"
     ],
     "date": "Thu, 18 Jun 2026 18:51:46 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1781813072802_2",
+    "id": "rss_TechCrunch_1781822942256_4",
     "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -77,69 +163,10 @@
       "NVIDIA"
     ],
     "date": "Thu, 18 Jun 2026 18:22:13 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1781813076115_2",
-    "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        It's unclear whether the system is currently intact.\n                    ",
-    "link": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
-    "tags": [],
-    "date": "Thu, 18 Jun 2026 18:19:44 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1781813072802_3",
-    "title": "AI data centers just got a government-mandated fast lane to the grid",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
-    "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 18 Jun 2026 17:49:23 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1781813076115_3",
-    "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        One previously unreported SpaceX investor has ties to Chinese military contractors.\n                    ",
-    "link": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
-    "tags": [],
-    "date": "Thu, 18 Jun 2026 17:42:18 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1781813072803_4",
-    "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
-    "link": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
-    "tags": [],
-    "date": "Thu, 18 Jun 2026 17:16:30 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1781813076115_4",
-    "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 18 Jun 2026 17:02:49 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1781813077269_1",
+    "id": "rss_Wired_1781822947000_3",
     "title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
     "category": "ai-news",
     "source": "Wired",
@@ -152,7 +179,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781813074998_0",
+    "id": "rss_MIT_Tech_Review_1781822944442_0",
     "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -165,7 +192,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781813074999_1",
+    "id": "rss_MIT_Tech_Review_1781822944442_1",
     "title": "Geoengineering still faces major practical challenges",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -173,10 +200,10 @@
     "link": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
     "tags": [],
     "date": "Thu, 18 Jun 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1781813074999_2",
+    "id": "rss_MIT_Tech_Review_1781822944442_2",
     "title": "The search for dark matter has been blown wide open",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -186,10 +213,10 @@
       "AI"
     ],
     "date": "Thu, 18 Jun 2026 09:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1781813077269_2",
+    "id": "rss_Wired_1781822947000_4",
     "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
     "category": "ai-news",
     "source": "Wired",
@@ -197,37 +224,10 @@
     "link": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
     "tags": [],
     "date": "Thu, 18 Jun 2026 06:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1781813077269_3",
-    "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
-    "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 17 Jun 2026 22:52:00 +0000",
     "trending": true
   },
   {
-    "id": "rss_Wired_1781813077269_4",
-    "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
-    "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
-    "tags": [
-      "AI",
-      "Robot"
-    ],
-    "date": "Wed, 17 Jun 2026 18:25:35 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1781813074999_3",
+    "id": "rss_MIT_Tech_Review_1781822944442_3",
     "title": "The Download: a reality check for geoengineering and the science of interoception",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -237,10 +237,10 @@
       "AI"
     ],
     "date": "Wed, 17 Jun 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1781813074999_4",
+    "id": "rss_MIT_Tech_Review_1781822944442_4",
     "title": "Entrepreneurs in Nairobi make the case for going solar",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -253,7 +253,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1781813086302_0",
+    "id": "rss_Distill_1781822955418_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -263,10 +263,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1781813086302_1",
+    "id": "rss_Distill_1781822955418_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -276,10 +276,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1781813086302_2",
+    "id": "rss_Distill_1781822955418_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -287,10 +287,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1781813086302_3",
+    "id": "rss_Distill_1781822955418_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -303,7 +303,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1781813086302_4",
+    "id": "rss_Distill_1781822955418_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -311,6 +311,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
