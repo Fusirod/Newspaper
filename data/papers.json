@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1781805086442_0",
+    "id": "arxiv_1781813072486_0",
     "name": "Native Active Perception as Reasoning for Omni-Modal Understanding",
     "category": "computer-vision",
     "description": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video durat...",
@@ -10,11 +10,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-17T17:59:56Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhenghao Xing, Ruiyang Xu, Yuxuan Wang et al."
   },
   {
-    "id": "arxiv_1781805086515_0",
+    "id": "arxiv_1781813072688_0",
     "name": "Native Active Perception as Reasoning for Omni-Modal Understanding",
     "category": "nlp",
     "description": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video durat...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Zhenghao Xing, Ruiyang Xu, Yuxuan Wang et al."
   },
   {
-    "id": "arxiv_1781805086442_1",
+    "id": "arxiv_1781813072486_1",
     "name": "Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games",
     "category": "computer-vision",
     "description": "Deploying multimodal foundation models as closed-loop policies increasingly requires conditioning actions on observations that are no longer visible. However, existing benchmarks either expose the ful...",
@@ -42,7 +42,7 @@
     "source": "arXiv - Shengyuan Ding, Xilin Wei, Xinyu Fang et al."
   },
   {
-    "id": "arxiv_1781805086515_1",
+    "id": "arxiv_1781813072688_1",
     "name": "Learning User Simulators with Turing Rewards",
     "category": "nlp",
     "description": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing appr...",
@@ -53,11 +53,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-17T17:58:48Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yingshan Susan Wang, Cedegao E. Zhang, Linlu Qiu et al."
   },
   {
-    "id": "arxiv_1781805086478_0",
+    "id": "arxiv_1781813072508_0",
     "name": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
     "category": "machine-learning",
     "description": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable...",
@@ -67,11 +67,11 @@
       "BERT"
     ],
     "date": "2026-06-17T17:58:22Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Denis Peskoff, Joe Barrow, Christopher Vu et al."
   },
   {
-    "id": "arxiv_1781805086515_2",
+    "id": "arxiv_1781813072688_2",
     "name": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
     "category": "nlp",
     "description": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable...",
@@ -85,18 +85,18 @@
     "source": "arXiv - Denis Peskoff, Joe Barrow, Christopher Vu et al."
   },
   {
-    "id": "arxiv_1781805086442_2",
+    "id": "arxiv_1781813072486_2",
     "name": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos",
     "category": "computer-vision",
     "description": "How can we scalably generate data for robotic manipulation, especially on human-like platforms such as dexterous multi-fingered hands? Learning from human videos has recently emerged as a likely answe...",
     "link": "http://arxiv.org/abs/2606.19333v1",
     "tags": [],
     "date": "2026-06-17T17:57:34Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Bhawna Paliwal, Haritheja Etukuru, William Liang et al."
   },
   {
-    "id": "arxiv_1781805086478_1",
+    "id": "arxiv_1781813072508_1",
     "name": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
     "category": "machine-learning",
     "description": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such ...",
@@ -110,7 +110,7 @@
     "source": "arXiv - V. Samuel Pérez-Díaz, Vinay L. Kashyap, Joshua D. Ingram et al."
   },
   {
-    "id": "arxiv_1781805086403_0",
+    "id": "arxiv_1781813072307_0",
     "name": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
     "category": "ai",
     "description": "Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on pa...",
@@ -124,7 +124,7 @@
     "source": "arXiv - Mohamed Nabail, Leo Cheng, Jingmin Wang et al."
   },
   {
-    "id": "arxiv_1781805086478_2",
+    "id": "arxiv_1781813072508_2",
     "name": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
     "category": "machine-learning",
     "description": "Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on pa...",
@@ -134,11 +134,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-17T17:54:32Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Mohamed Nabail, Leo Cheng, Jingmin Wang et al."
   },
   {
-    "id": "arxiv_1781805086404_1",
+    "id": "arxiv_1781813072307_1",
     "name": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
     "category": "ai",
     "description": "Post-training of reasoning language models is commonly driven by supervised distillation and reinforcement learning with verifiable rewards. Distillation often relies on chain-of-thought annotations t...",
@@ -150,11 +150,11 @@
       "Optimization"
     ],
     "date": "2026-06-17T17:54:04Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Siyi Gu, Jialin Chen, Sophia Zhou et al."
   },
   {
-    "id": "arxiv_1781805086515_3",
+    "id": "arxiv_1781813072688_3",
     "name": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
     "category": "nlp",
     "description": "Post-training of reasoning language models is commonly driven by supervised distillation and reinforcement learning with verifiable rewards. Distillation often relies on chain-of-thought annotations t...",
@@ -170,7 +170,7 @@
     "source": "arXiv - Siyi Gu, Jialin Chen, Sophia Zhou et al."
   },
   {
-    "id": "arxiv_1781805086404_2",
+    "id": "arxiv_1781813072308_2",
     "name": "Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors",
     "category": "ai",
     "description": "Existing multi-speaker dialogue systems bind speakers to utterances through structured supervision: per-turn tags, multi-stream transcriptions, or learnable speaker embeddings. These systems operate w...",
@@ -180,11 +180,11 @@
       "Vision"
     ],
     "date": "2026-06-17T17:51:50Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Michael Finkelson, Daniel Segal, Eitan Richardson et al."
   },
   {
-    "id": "arxiv_1781805086443_3",
+    "id": "arxiv_1781813072486_3",
     "name": "Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors",
     "category": "computer-vision",
     "description": "Existing multi-speaker dialogue systems bind speakers to utterances through structured supervision: per-turn tags, multi-stream transcriptions, or learnable speaker embeddings. These systems operate w...",
@@ -198,7 +198,7 @@
     "source": "arXiv - Michael Finkelson, Daniel Segal, Eitan Richardson et al."
   },
   {
-    "id": "arxiv_1781805086404_3",
+    "id": "arxiv_1781813072308_3",
     "name": "Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents",
     "category": "ai",
     "description": "Production data integration is bottlenecked by repeated, lossy handoffs between data owners, engineers, and analysts who must collaboratively discover, structure, and query enterprise data. We present...",
@@ -211,7 +211,7 @@
     "source": "arXiv - Anoushka Vyas, Aarushi Dhanuka, Sina Khoshfetrat Pakazad et al."
   },
   {
-    "id": "arxiv_1781805086404_4",
+    "id": "arxiv_1781813072308_4",
     "name": "Explaining Attention with Program Synthesis",
     "category": "ai",
     "description": "A longstanding goal of research on interpretable deep learning is to replace opaque neural computations with human-meaningful symbolic descriptions. In this paper, we propose an approach for approxima...",
@@ -227,7 +227,7 @@
     "source": "arXiv - Amiri Hayes, Belinda Li, Jacob Andreas"
   },
   {
-    "id": "arxiv_1781805086478_3",
+    "id": "arxiv_1781813072508_3",
     "name": "Explaining Attention with Program Synthesis",
     "category": "machine-learning",
     "description": "A longstanding goal of research on interpretable deep learning is to replace opaque neural computations with human-meaningful symbolic descriptions. In this paper, we propose an approach for approxima...",
@@ -243,7 +243,7 @@
     "source": "arXiv - Amiri Hayes, Belinda Li, Jacob Andreas"
   },
   {
-    "id": "arxiv_1781805086443_4",
+    "id": "arxiv_1781813072486_4",
     "name": "NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field",
     "category": "computer-vision",
     "description": "Recently neural implicit rendering techniques have evolved rapidly and demonstrated significant advantages in novel view synthesis and 3D scene reconstruction. However, existing neural rendering metho...",
@@ -254,11 +254,11 @@
       "Optimization"
     ],
     "date": "2026-06-17T17:39:21Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Chong Bao, Yuan Li, Bangbang Yang et al."
   },
   {
-    "id": "arxiv_1781805086478_4",
+    "id": "arxiv_1781813072508_4",
     "name": "Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation",
     "category": "machine-learning",
     "description": "Enhancing the formal math reasoning capabilities of Large Language Models (LLMs) has become a key focus in both mathematical and computer science communities in recent years. While significant progres...",
@@ -273,7 +273,7 @@
     "source": "arXiv - Ruida Wang, Rui Pan, Pengcheng Wang et al."
   },
   {
-    "id": "arxiv_1781805086516_4",
+    "id": "arxiv_1781813072688_4",
     "name": "Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play",
     "category": "nlp",
     "description": "Large language model (LLM)-based multi-agent systems (MAS) have demonstrated great potential in solving tasks with execution complexity, by distributing subtasks across cooperative agents. However, th...",
