@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1781896870131_0",
+    "id": "arxiv_1781902714978_0",
     "name": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
     "category": "computer-vision",
     "description": "Creating 3D visual illusions, a single 3D mesh that reveals entirely different semantics from various viewing angles, is a fascinating but tough challenge. Existing optimization-based methods are slow...",
@@ -11,11 +11,11 @@
       "Optimization"
     ],
     "date": "2026-06-18T17:59:55Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Siang-Ling Zhang, Huai-Hsun Cheng, Tsung-Ju Yang et al."
   },
   {
-    "id": "arxiv_1781896870131_1",
+    "id": "arxiv_1781902714978_1",
     "name": "TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living",
     "category": "computer-vision",
     "description": "Long Video Question Answering (LVQA) requires identifying sparse, query-relevant evidence within hours-long untrimmed videos. Existing approaches either process videos densely with large vision-langua...",
@@ -30,7 +30,7 @@
     "source": "arXiv - Arkaprava Sinha, Dominick Reilly, Siddharth Krishnan et al."
   },
   {
-    "id": "arxiv_1781896870067_0",
+    "id": "arxiv_1781902714906_0",
     "name": "How Transparent is DiffusionGemma?",
     "category": "ai",
     "description": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ...",
@@ -41,11 +41,11 @@
       "Diffusion"
     ],
     "date": "2026-06-18T17:59:46Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Joshua Engels, Callum McDougall, Bilal Chughtai et al."
   },
   {
-    "id": "arxiv_1781896870190_0",
+    "id": "arxiv_1781902715053_0",
     "name": "How Transparent is DiffusionGemma?",
     "category": "machine-learning",
     "description": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ...",
@@ -56,11 +56,11 @@
       "Diffusion"
     ],
     "date": "2026-06-18T17:59:46Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Joshua Engels, Callum McDougall, Bilal Chughtai et al."
   },
   {
-    "id": "arxiv_1781896870131_2",
+    "id": "arxiv_1781902714979_2",
     "name": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
     "category": "computer-vision",
     "description": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human acti...",
@@ -70,11 +70,11 @@
       "Vision"
     ],
     "date": "2026-06-18T17:59:45Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Wenhao Chi, Arkaprava Sinha, Dominick Reilly et al."
   },
   {
-    "id": "arxiv_1781896870190_1",
+    "id": "arxiv_1781902715053_1",
     "name": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
     "category": "machine-learning",
     "description": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human acti...",
@@ -88,7 +88,7 @@
     "source": "arXiv - Wenhao Chi, Arkaprava Sinha, Dominick Reilly et al."
   },
   {
-    "id": "arxiv_1781896870191_2",
+    "id": "arxiv_1781902715053_2",
     "name": "Optimal Deterministic Multicalibration and Omniprediction",
     "category": "machine-learning",
     "description": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each...",
@@ -98,11 +98,11 @@
       "Machine Learning"
     ],
     "date": "2026-06-18T17:59:31Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Georgy Noarov, Aaron Roth"
   },
   {
-    "id": "arxiv_1781896870131_3",
+    "id": "arxiv_1781902714979_3",
     "name": "Thinking in Boxes: 3D Editing in Real Images Made Easy",
     "category": "computer-vision",
     "description": "Text and 2D-conditioning interfaces provide weak, ambiguous control over spatial transformations in image editing -- particularly under large object motions and camera changes. Prior work has used 3D ...",
@@ -111,11 +111,11 @@
       "AI"
     ],
     "date": "2026-06-18T17:59:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Pradhaan S Bhat, Naveen Chandra R, Rishubh Parihar et al."
   },
   {
-    "id": "arxiv_1781896870067_1",
+    "id": "arxiv_1781902714906_1",
     "name": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
     "category": "ai",
     "description": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core o...",
@@ -131,7 +131,7 @@
     "source": "arXiv - Ruizhong Qiu, Yinglong Xia, Dongqi Fu et al."
   },
   {
-    "id": "arxiv_1781896870131_4",
+    "id": "arxiv_1781902714979_4",
     "name": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
     "category": "computer-vision",
     "description": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $ρ(g)$ carrying it. To our kno...",
@@ -144,7 +144,7 @@
     "source": "arXiv - Przemyslaw Musialski"
   },
   {
-    "id": "arxiv_1781896870191_3",
+    "id": "arxiv_1781902715053_3",
     "name": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
     "category": "machine-learning",
     "description": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $ρ(g)$ carrying it. To our kno...",
@@ -157,7 +157,7 @@
     "source": "arXiv - Przemyslaw Musialski"
   },
   {
-    "id": "arxiv_1781896870191_4",
+    "id": "arxiv_1781902715053_4",
     "name": "Predictability as a Fine-Grained Measure for Privacy",
     "category": "machine-learning",
     "description": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W...",
@@ -170,7 +170,7 @@
     "source": "arXiv - Linda Lu, Karthik Sridharan"
   },
   {
-    "id": "arxiv_1781896870068_2",
+    "id": "arxiv_1781902714906_2",
     "name": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
     "category": "ai",
     "description": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforc...",
@@ -183,7 +183,7 @@
     "source": "arXiv - Gina Wong, Drew Prinster, Suchi Saria et al."
   },
   {
-    "id": "arxiv_1781896870068_3",
+    "id": "arxiv_1781902714906_3",
     "name": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
     "category": "ai",
     "description": "Style-captioned text-to-speech systems use natural language to control voice characteristics, but how individual words influence acoustic output remains unclear. Understanding this is critical for dia...",
@@ -197,7 +197,7 @@
     "source": "arXiv - Nityanand Mathur, Hamees Sayed, Wasim Madha et al."
   },
   {
-    "id": "arxiv_1781896870068_4",
+    "id": "arxiv_1781902714906_4",
     "name": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
     "category": "ai",
     "description": "Policy-adherent tool-calling agents in customer-service domains must maintain task states across turns while calling tools and obeying domain policies. Task states consist of relevant facts, identifie...",
@@ -206,11 +206,11 @@
       "AI"
     ],
     "date": "2026-06-18T17:41:56Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Md Nayem Uddin, Amir Saeidi, Eduardo Blanco et al."
   },
   {
-    "id": "arxiv_1781896870248_0",
+    "id": "arxiv_1781902715127_0",
     "name": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
     "category": "nlp",
     "description": "Policy-adherent tool-calling agents in customer-service domains must maintain task states across turns while calling tools and obeying domain policies. Task states consist of relevant facts, identifie...",
@@ -223,7 +223,7 @@
     "source": "arXiv - Md Nayem Uddin, Amir Saeidi, Eduardo Blanco et al."
   },
   {
-    "id": "arxiv_1781896870248_1",
+    "id": "arxiv_1781902715127_1",
     "name": "StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs",
     "category": "nlp",
     "description": "Multimodal large language models (MLLMs) are increasingly deployed in personally and societally consequential settings, yet the visual cues that shape how these models judge people remain poorly under...",
@@ -237,7 +237,7 @@
     "source": "arXiv - Shaghayegh Kolli, Timo Cavelius, Nafiseh Nikeghbal et al."
   },
   {
-    "id": "arxiv_1781896870248_2",
+    "id": "arxiv_1781902715127_2",
     "name": "Beyond Global Replanning: Hierarchical Recovery for Cross-Device Agent Systems",
     "category": "nlp",
     "description": "Real-world computer-use tasks often span multiple applications and devices, requiring agents to coordinate heterogeneous environments under dynamic runtime failures. Existing multi-device agent system...",
@@ -246,11 +246,11 @@
       "AI"
     ],
     "date": "2026-06-18T17:04:17Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shu Yao, Yuhua Luo, Qian Long et al."
   },
   {
-    "id": "arxiv_1781896870248_3",
+    "id": "arxiv_1781902715127_3",
     "name": "Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users",
     "category": "nlp",
     "description": "To align a Large Language Model (LLM), most existing methods collect explicit human feedback and train a reward model to predict the human preference based on the response text. These existing methods...",
@@ -264,7 +264,7 @@
     "source": "arXiv - Haw-Shiuan Chang, Jeffrey Gomez, Mehul Patwari et al."
   },
   {
-    "id": "arxiv_1781896870248_4",
+    "id": "arxiv_1781902715127_4",
     "name": "Scalable Training of Spatially Grounded 2D Vision-Language Models for Radiology",
     "category": "nlp",
     "description": "We study how to train visually grounded vision-language models (VLMs) for radiology without manual spatial annotations. We introduce RefRad2D, a large-scale bilingual (German/English) dataset of 1.2M ...",
