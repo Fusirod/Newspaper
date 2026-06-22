@@ -1,6 +1,101 @@
 [
   {
-    "id": "rss_MIT_Tech_Review_1782131983101_0",
+    "id": "rss_Ars_Technica_1782148964097_0",
+    "title": "Woman killed when Tesla driver using Autopilot crashed into her home",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Tesla touts Autopilot as lifesaving a day after grandmother died in crash.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
+    "tags": [],
+    "date": "Mon, 22 Jun 2026 17:10:52 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1782148965175_0",
+    "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
+    "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "GPT"
+    ],
+    "date": "Mon, 22 Jun 2026 17:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1782148960236_0",
+    "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+    "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+    "tags": [
+      "AI",
+      "NVIDIA"
+    ],
+    "date": "Mon, 22 Jun 2026 16:51:29 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1782148964097_1",
+    "title": "Lucid lays off 1,500 workers in second big cut of the year",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The cuts and redundancies are part of a plan to \"simplify the company,\" the CEO says.\n                    ",
+    "link": "https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/",
+    "tags": [],
+    "date": "Mon, 22 Jun 2026 15:22:46 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1782148964097_2",
+    "title": "A US military exercise in space got underway with barely anyone noticing",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The Space Force wants to cut the time to field new satellites from years to weeks, days, or hours.\n                    ",
+    "link": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
+    "tags": [],
+    "date": "Mon, 22 Jun 2026 15:18:23 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1782148964097_3",
+    "title": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The high-altitude race is a unique test of car and driver. \n                    ",
+    "link": "https://arstechnica.com/cars/2026/06/pikes-peak-2026-was-a-battle-of-propulsion-with-an-ev-and-a-hybrid-winning-out/",
+    "tags": [],
+    "date": "Mon, 22 Jun 2026 15:07:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1782148964097_4",
+    "title": "This former hacker saw the light—and now wants to collect all of it",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"I don’t know of a bigger question we can answer as humans.\"\n                    ",
+    "link": "https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/",
+    "tags": [],
+    "date": "Mon, 22 Jun 2026 14:11:03 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1782148960236_1",
+    "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
+    "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+    "tags": [],
+    "date": "Mon, 22 Jun 2026 14:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1782148962650_0",
     "title": "The Download: record-breaking subsea tunnels and flexible data centers",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -10,10 +105,10 @@
       "AI"
     ],
     "date": "Mon, 22 Jun 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1782131985505_0",
+    "id": "rss_Wired_1782148965175_1",
     "title": "Some Electricians Think Building Data Centers Is for Sellouts",
     "category": "ai-news",
     "source": "Wired",
@@ -24,7 +119,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1782131985505_1",
+    "id": "rss_Wired_1782148965176_2",
     "title": "World Cup Scams Are Getting Harder to Spot",
     "category": "ai-news",
     "source": "Wired",
@@ -34,10 +129,10 @@
       "AI"
     ],
     "date": "Mon, 22 Jun 2026 09:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1782131983101_1",
+    "id": "rss_MIT_Tech_Review_1782148962650_1",
     "title": "Inside the world’s deepest and longest subsea road tunnel",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -48,18 +143,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1782131984365_0",
-    "title": "Trump admin’s coal investments assist plants with repeated violations",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        At least three coal plants have been repeatedly cited for violating environmental regulations.\n                    ",
-    "link": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
-    "tags": [],
-    "date": "Sun, 21 Jun 2026 17:49:35 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1782131980816_0",
+    "id": "rss_TechCrunch_1782148960236_2",
     "title": "When the Trump administration cracks down on Anthropic, who benefits?",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -72,7 +156,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1782131980817_1",
+    "id": "rss_TechCrunch_1782148960236_3",
     "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -82,10 +166,10 @@
       "AI"
     ],
     "date": "Sun, 21 Jun 2026 14:40:28 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1782131985505_2",
+    "id": "rss_Wired_1782148965176_3",
     "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
     "category": "ai-news",
     "source": "Wired",
@@ -101,18 +185,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1782131984365_1",
-    "title": "Review: Widow's Bay is a boldly original take on comedic horror",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways.\n                    ",
-    "link": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
-    "tags": [],
-    "date": "Sun, 21 Jun 2026 10:00:11 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1782131980817_2",
+    "id": "rss_TechCrunch_1782148960236_4",
     "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -126,44 +199,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1782131980817_3",
-    "title": "In the Weights is your new AI-centric vanity search",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "So ... what's your In the Weights score?",
-    "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Sat, 20 Jun 2026 19:41:11 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1782131980817_4",
-    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Jumper isn't the only big name leaving Google DeepMind.",
-    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-    "tags": [
-      "Google"
-    ],
-    "date": "Sat, 20 Jun 2026 16:39:57 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1782131984365_2",
-    "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Tests of age-verification technology show the risks of life-altering errors.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
-    "tags": [],
-    "date": "Sat, 20 Jun 2026 11:15:09 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1782131985505_3",
+    "id": "rss_Wired_1782148965176_4",
     "title": "Siri AI Hands On: A Smart, Helpful Assistant",
     "category": "ai-news",
     "source": "Wired",
@@ -173,23 +209,10 @@
       "AI"
     ],
     "date": "Sat, 20 Jun 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1782131984365_3",
-    "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.\n                    ",
-    "link": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
-    "tags": [
-      "Startup"
-    ],
-    "date": "Fri, 19 Jun 2026 13:36:53 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1782131983102_2",
+    "id": "rss_MIT_Tech_Review_1782148962650_2",
     "title": "The Download: AI bottleneck debates, and BCI trials take off",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -204,22 +227,11 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1782131984365_4",
-    "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Researchers say these coral strongholds may help repopulate more degraded reefs.\n                    ",
-    "link": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
-    "tags": [],
-    "date": "Fri, 19 Jun 2026 11:15:11 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1782131983102_3",
+    "id": "rss_MIT_Tech_Review_1782148962651_3",
     "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
     "category": "ai-news",
     "source": "MIT Tech Review",
-    "description": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta",
+    "description": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has",
     "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
     "tags": [
       "AI",
@@ -230,7 +242,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1782131983102_4",
+    "id": "rss_MIT_Tech_Review_1782148962651_4",
     "title": "The inevitable weakness of metrics",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -240,21 +252,10 @@
       "AI"
     ],
     "date": "Fri, 19 Jun 2026 09:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1782131985505_4",
-    "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Leaked files show the invite-only network grades members by their money and fame, shaping who’s in, who’s out, and who pays.",
-    "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
-    "tags": [],
-    "date": "Thu, 18 Jun 2026 22:12:45 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1782131994452_0",
+    "id": "rss_Distill_1782148973851_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -267,7 +268,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1782131994452_1",
+    "id": "rss_Distill_1782148973851_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -277,10 +278,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1782131994452_2",
+    "id": "rss_Distill_1782148973851_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -291,7 +292,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1782131994452_3",
+    "id": "rss_Distill_1782148973851_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -304,7 +305,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1782131994452_4",
+    "id": "rss_Distill_1782148973851_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
