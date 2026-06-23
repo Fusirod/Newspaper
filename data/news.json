@@ -1,6 +1,33 @@
 [
   {
-    "id": "rss_Ars_Technica_1782172666032_0",
+    "id": "rss_TechCrunch_1782182573057_0",
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 23 Jun 2026 01:27:55 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1782182573058_1",
+    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "OpenAI is attempting to tackle the security issues of the open source software community. ",
+    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Tue, 23 Jun 2026 00:11:31 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1782182576509_0",
     "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -14,7 +41,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1782172666032_1",
+    "id": "rss_Ars_Technica_1782182576509_1",
     "title": "Report: Kennedy Space Center not ready for era of super heavy rockets",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -22,10 +49,10 @@
     "link": "https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/",
     "tags": [],
     "date": "Mon, 22 Jun 2026 21:28:19 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1782172667245_0",
+    "id": "rss_Wired_1782182577622_0",
     "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
     "category": "ai-news",
     "source": "Wired",
@@ -38,7 +65,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1782172666033_2",
+    "id": "rss_Ars_Technica_1782182576509_2",
     "title": "Man used massage gun on his tired eyeballs. It went as well as you'd expect.",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -49,7 +76,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1782172662362_0",
+    "id": "rss_TechCrunch_1782182573058_2",
     "title": "The AI world is getting ‘loopy’",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -62,7 +89,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1782172667245_1",
+    "id": "rss_Wired_1782182577622_1",
     "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
     "category": "ai-news",
     "source": "Wired",
@@ -76,7 +103,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1782172662362_1",
+    "id": "rss_TechCrunch_1782182573058_3",
     "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -87,10 +114,10 @@
       "NVIDIA"
     ],
     "date": "Mon, 22 Jun 2026 20:13:58 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1782172666033_3",
+    "id": "rss_Ars_Technica_1782182576509_3",
     "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -98,10 +125,10 @@
     "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
     "tags": [],
     "date": "Mon, 22 Jun 2026 20:10:34 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1782172662362_2",
+    "id": "rss_TechCrunch_1782182573058_4",
     "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -115,7 +142,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1782172666033_4",
+    "id": "rss_Ars_Technica_1782182576509_4",
     "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -126,21 +153,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1782172662362_3",
-    "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Google DeepMind and A24 are teaming up to build AI filmmaking tools. ",
-    "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Mon, 22 Jun 2026 18:49:44 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1782172664732_0",
+    "id": "rss_MIT_Tech_Review_1782182575308_0",
     "title": "Three things to watch amid Anthropic’s latest feud with the government",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -153,20 +166,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1782172662362_4",
-    "title": "Amazon is testing Alexa+ in India with Hindi support",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
-    "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 22 Jun 2026 17:31:29 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1782172667245_2",
+    "id": "rss_Wired_1782182577622_2",
     "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
     "category": "ai-news",
     "source": "Wired",
@@ -178,10 +178,10 @@
       "GPT"
     ],
     "date": "Mon, 22 Jun 2026 17:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1782172664733_1",
+    "id": "rss_MIT_Tech_Review_1782182575308_1",
     "title": "The Download: record-breaking subsea tunnels and flexible data centers",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -191,10 +191,10 @@
       "AI"
     ],
     "date": "Mon, 22 Jun 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1782172667245_3",
+    "id": "rss_Wired_1782182577622_3",
     "title": "Some Electricians Think Building Data Centers Is for Sellouts",
     "category": "ai-news",
     "source": "Wired",
@@ -202,10 +202,10 @@
     "link": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
     "tags": [],
     "date": "Mon, 22 Jun 2026 09:30:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1782172667245_4",
+    "id": "rss_Wired_1782182577622_4",
     "title": "World Cup Scams Are Getting Harder to Spot",
     "category": "ai-news",
     "source": "Wired",
@@ -215,10 +215,10 @@
       "AI"
     ],
     "date": "Mon, 22 Jun 2026 09:30:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1782172664733_2",
+    "id": "rss_MIT_Tech_Review_1782182575309_2",
     "title": "Inside the world’s deepest and longest subsea road tunnel",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -226,10 +226,10 @@
     "link": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
     "tags": [],
     "date": "Mon, 22 Jun 2026 08:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1782172664733_3",
+    "id": "rss_MIT_Tech_Review_1782182575309_3",
     "title": "The Download: AI bottleneck debates, and BCI trials take off",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -241,10 +241,10 @@
       "Startup"
     ],
     "date": "Fri, 19 Jun 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1782172664733_4",
+    "id": "rss_MIT_Tech_Review_1782182575309_4",
     "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -259,7 +259,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1782172676481_0",
+    "id": "rss_Distill_1782182585687_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -269,10 +269,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1782172676481_1",
+    "id": "rss_Distill_1782182585687_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -282,10 +282,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1782172676481_2",
+    "id": "rss_Distill_1782182585687_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -296,7 +296,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1782172676481_3",
+    "id": "rss_Distill_1782182585687_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -309,7 +309,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1782172676481_4",
+    "id": "rss_Distill_1782182585687_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
