@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1782210347152_0",
+    "id": "arxiv_1782221584473_0",
     "name": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
     "category": "machine-learning",
     "description": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Mingi Choi, Gunhee Kim, Jisoo Kim et al."
   },
   {
-    "id": "arxiv_1782210346952_0",
+    "id": "arxiv_1782221584164_0",
     "name": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
     "category": "computer-vision",
     "description": "Reconstructing dynamic non-rigid objects from monocular video requires integrating visual cues from direct observations with data-driven priors over geometry and appearance. Prior approaches either le...",
@@ -29,7 +29,7 @@
     "source": "arXiv - Yehonathan Litman, Xiaoxuan Ma, Manan Shah et al."
   },
   {
-    "id": "arxiv_1782210347366_0",
+    "id": "arxiv_1782221584530_0",
     "name": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
     "category": "nlp",
     "description": "Large language models (LLMs) are typically pretrained on short sequences and then extended to work on longer sequences with additional training. However, such LLMs still struggle to further generalize...",
@@ -43,7 +43,7 @@
     "source": "arXiv - Manas Mehta, Fangcong Yin, Greg Durrett"
   },
   {
-    "id": "arxiv_1782210346952_1",
+    "id": "arxiv_1782221584164_1",
     "name": "Keep The Essentials: Efficient Reference Conditioned Generation via Token Dropping",
     "category": "computer-vision",
     "description": "Reference-based diffusion models enable highly controllable image generation by leveraging elements from input images to guide prompt-driven synthesis. However, these models are computationally expens...",
@@ -57,7 +57,7 @@
     "source": "arXiv - Rishubh Parihar, Ayush Raina, R. Venkatesh Babu et al."
   },
   {
-    "id": "arxiv_1782210346938_0",
+    "id": "arxiv_1782221583953_0",
     "name": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
     "category": "ai",
     "description": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freed...",
@@ -71,7 +71,7 @@
     "source": "arXiv - Sikai Li, Shuning Li, Zhenyu Wei et al."
   },
   {
-    "id": "arxiv_1782210347152_1",
+    "id": "arxiv_1782221584473_1",
     "name": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
     "category": "machine-learning",
     "description": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freed...",
@@ -85,7 +85,7 @@
     "source": "arXiv - Sikai Li, Shuning Li, Zhenyu Wei et al."
   },
   {
-    "id": "arxiv_1782210346938_1",
+    "id": "arxiv_1782221583953_1",
     "name": "Semantic Browsing: Controllable Diversity for Image Generation",
     "category": "ai",
     "description": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interp...",
@@ -99,7 +99,7 @@
     "source": "arXiv - Sara Dorfman, Maya Vishnevsky, Omer Dahary et al."
   },
   {
-    "id": "arxiv_1782210346952_2",
+    "id": "arxiv_1782221584165_2",
     "name": "Semantic Browsing: Controllable Diversity for Image Generation",
     "category": "computer-vision",
     "description": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interp...",
@@ -109,11 +109,11 @@
       "Vision"
     ],
     "date": "2026-06-22T17:59:17Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Sara Dorfman, Maya Vishnevsky, Omer Dahary et al."
   },
   {
-    "id": "arxiv_1782210347152_2",
+    "id": "arxiv_1782221584473_2",
     "name": "Semantic Browsing: Controllable Diversity for Image Generation",
     "category": "machine-learning",
     "description": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interp...",
@@ -123,11 +123,11 @@
       "Vision"
     ],
     "date": "2026-06-22T17:59:17Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Sara Dorfman, Maya Vishnevsky, Omer Dahary et al."
   },
   {
-    "id": "arxiv_1782210346938_2",
+    "id": "arxiv_1782221583953_2",
     "name": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
     "category": "ai",
     "description": "Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a pivotal research frontier. The existing literature...",
@@ -143,7 +143,7 @@
     "source": "arXiv - Cong Han, Xiaohan Lan, Haibo Qiu et al."
   },
   {
-    "id": "arxiv_1782210346952_3",
+    "id": "arxiv_1782221584165_3",
     "name": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
     "category": "computer-vision",
     "description": "Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a pivotal research frontier. The existing literature...",
@@ -155,11 +155,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-22T17:58:54Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Cong Han, Xiaohan Lan, Haibo Qiu et al."
   },
   {
-    "id": "arxiv_1782210346939_3",
+    "id": "arxiv_1782221583953_3",
     "name": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
     "category": "ai",
     "description": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evide...",
@@ -169,11 +169,11 @@
       "LLM"
     ],
     "date": "2026-06-22T17:58:52Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Dingzhi Yu, Hongyi Tao, Yuanyu Wan et al."
   },
   {
-    "id": "arxiv_1782210347152_3",
+    "id": "arxiv_1782221584473_3",
     "name": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
     "category": "machine-learning",
     "description": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evide...",
@@ -187,7 +187,7 @@
     "source": "arXiv - Dingzhi Yu, Hongyi Tao, Yuanyu Wan et al."
   },
   {
-    "id": "arxiv_1782210346953_4",
+    "id": "arxiv_1782221584165_4",
     "name": "IMAGIN-4D: Image-Guided Controllable Interaction Generation",
     "category": "computer-vision",
     "description": "Generating human-object interactions (HOI) is central to character animation, robotics, AR/VR, and embodied AI. Recent HOI generation methods synthesize motion from text, object geometry, and sparse w...",
@@ -202,7 +202,7 @@
     "source": "arXiv - Sai Kumar Dwivedi, Federica Bogo, Buğra Tekin et al."
   },
   {
-    "id": "arxiv_1782210346939_4",
+    "id": "arxiv_1782221583953_4",
     "name": "PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support",
     "category": "ai",
     "description": "Mental health assessment commonly relies on isolated screening instruments or data-driven models that often lack interpretability and multi-dimensional integration. Existing approaches frequently focu...",
@@ -215,7 +215,7 @@
     "source": "arXiv - Sunil Wanjari, Manish Thakre, Aayushi Asole et al."
   },
   {
-    "id": "arxiv_1782210347152_4",
+    "id": "arxiv_1782221584473_4",
     "name": "PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support",
     "category": "machine-learning",
     "description": "Mental health assessment commonly relies on isolated screening instruments or data-driven models that often lack interpretability and multi-dimensional integration. Existing approaches frequently focu...",
@@ -224,11 +224,11 @@
       "AI"
     ],
     "date": "2026-06-22T17:57:15Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Sunil Wanjari, Manish Thakre, Aayushi Asole et al."
   },
   {
-    "id": "arxiv_1782210347366_1",
+    "id": "arxiv_1782221584530_1",
     "name": "Can LLMs Reliably Self-Report Adversarial Prefills, and How?",
     "category": "nlp",
     "description": "Prior work shows that large language models (LLMs) exhibit introspective capability on benign tasks. We extend the question to safety contexts and examine how reliably a model can recognize that its o...",
@@ -238,11 +238,11 @@
       "LLM"
     ],
     "date": "2026-06-22T17:56:30Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Quang Minh Nguyen, Uzair Ahmed, Taegyoon Kim"
   },
   {
-    "id": "arxiv_1782210347366_2",
+    "id": "arxiv_1782221584530_2",
     "name": "Tapered Language Models",
     "category": "nlp",
     "description": "Modern language models, including transformer, recurrent, and memory-based variants, share a common chassis: a stack of identical layers in which parameters are allocated uniformly across depth. This ...",
@@ -252,11 +252,11 @@
       "Transformer"
     ],
     "date": "2026-06-22T17:56:25Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Reza Bayat, Ali Behrouz, Aaron Courville"
   },
   {
-    "id": "arxiv_1782210347367_3",
+    "id": "arxiv_1782221584530_3",
     "name": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
     "category": "nlp",
     "description": "Enterprise agents increasingly operate inside workspaces: they read heterogeneous files, invoke tools, and deliver business artifacts. We introduce EnterpriseClawBench, an enterprise agent benchmark c...",
@@ -270,7 +270,7 @@
     "source": "arXiv - Jincheng Zhong, Weizhi Wang, Che Jiang et al."
   },
   {
-    "id": "arxiv_1782210347367_4",
+    "id": "arxiv_1782221584531_4",
     "name": "Evaluation Awareness Is Not One Capability: Evidence from Open Language Models",
     "category": "nlp",
     "description": "Safety benchmarks assume that test-condition behavior predicts deployment behavior, an assumption that fails if models detect evaluation cues and adapt. This opens a gap between benchmark performance ...",
@@ -279,7 +279,7 @@
       "AI"
     ],
     "date": "2026-06-22T16:48:43Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Nilesh Nayan, Aishwarya Sampath Kumar, Rishiraj Girmal et al."
   }
 ]
