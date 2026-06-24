@@ -1,285 +1,278 @@
 [
   {
-    "id": "arxiv_1782258310732_0",
-    "name": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
-    "category": "machine-learning",
-    "description": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but...",
-    "link": "http://arxiv.org/abs/2606.23689v1",
+    "id": "arxiv_1782266179666_0",
+    "name": "CineCap: Structured Reasoning with Spatio-Temporal Anchors for Cinematographic Video Captioning",
+    "category": "ai",
+    "description": "Cinematographic captioning aims to describe how a video is filmed using professional film-language concepts such as camera movement, shot size, depth of field, composition, and shooting angle. This ca...",
+    "link": "http://arxiv.org/abs/2606.24636v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-23T14:29:40Z",
+    "trending": false,
+    "source": "arXiv - Xinyu Mao, Yuhui Zeng, Xiaokun Liu et al."
+  },
+  {
+    "id": "arxiv_1782266179666_1",
+    "name": "Visualizing \"We the People\": Bridging the Perception Gap through Pluralistic Data Storytelling",
+    "category": "ai",
+    "description": "Traditional visual data storytelling relies on binary graphics that depict two simplified groups in conflict. This can increase political polarization by oversimplifying intra-group disagreements and ...",
+    "link": "http://arxiv.org/abs/2606.24635v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-06-22T17:59:55Z",
+    "date": "2026-06-23T14:28:11Z",
     "trending": false,
-    "source": "arXiv - Mingi Choi, Gunhee Kim, Jisoo Kim et al."
+    "source": "arXiv - Lisa Schirch, Beth Goldberg"
   },
   {
-    "id": "arxiv_1782258310477_0",
-    "name": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+    "id": "arxiv_1782266179965_0",
+    "name": "ArtiTwinSplat: Interactable Digital Twin Reconstruction via Gaussian Splatting from RGB-D videos",
     "category": "computer-vision",
-    "description": "Reconstructing dynamic non-rigid objects from monocular video requires integrating visual cues from direct observations with data-driven priors over geometry and appearance. Prior approaches either le...",
-    "link": "http://arxiv.org/abs/2606.23688v1",
+    "description": "Deploying robots in unstructured real-world environments needs accurate, interactive models of the objects. Constructing these models at scale remains a critical bottleneck for robotic system integrat...",
+    "link": "http://arxiv.org/abs/2606.24628v1",
     "tags": [
       "AI",
-      "Vision",
-      "Diffusion",
       "Optimization"
     ],
-    "date": "2026-06-22T17:59:54Z",
+    "date": "2026-06-23T14:24:07Z",
     "trending": true,
-    "source": "arXiv - Yehonathan Litman, Xiaoxuan Ma, Manan Shah et al."
+    "source": "arXiv - Pranjal Mishra, René Zurbrügg, Max Wilder-Smith et al."
   },
   {
-    "id": "arxiv_1782258310810_0",
-    "name": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+    "id": "arxiv_1782266180529_0",
+    "name": "The Warrant Gap: Claim-Conditioned Re-scoring for Fact-Checking",
     "category": "nlp",
-    "description": "Large language models (LLMs) are typically pretrained on short sequences and then extended to work on longer sequences with additional training. However, such LLMs still struggle to further generalize...",
-    "link": "http://arxiv.org/abs/2606.23687v1",
+    "description": "Fact-checking systems built on LLMs achieve high verdict accuracy on standard benchmarks, yet routinely output Supports labels whose cited evidence does not license the claim. Structured decomposition...",
+    "link": "http://arxiv.org/abs/2606.24627v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-06-22T17:59:53Z",
+    "date": "2026-06-23T14:23:56Z",
     "trending": true,
-    "source": "arXiv - Manas Mehta, Fangcong Yin, Greg Durrett"
+    "source": "arXiv - Arka Ujjal Dey, John Collomosse"
   },
   {
-    "id": "arxiv_1782258310477_1",
-    "name": "Keep The Essentials: Efficient Reference Conditioned Generation via Token Dropping",
-    "category": "computer-vision",
-    "description": "Reference-based diffusion models enable highly controllable image generation by leveraging elements from input images to guide prompt-driven synthesis. However, these models are computationally expens...",
-    "link": "http://arxiv.org/abs/2606.23682v1",
+    "id": "arxiv_1782266179666_2",
+    "name": "SAFARI: Scaling Long Horizon Agentic Fault Attribution via Active Investigation",
+    "category": "ai",
+    "description": "As autonomous agents tackle increasingly complex multi-step, multi-agent tasks, their execution trajectories have scaled beyond the constraints of even the largest context windows. Current methods for...",
+    "link": "http://arxiv.org/abs/2606.24626v1",
     "tags": [
       "AI",
-      "Diffusion"
+      "LLM"
     ],
-    "date": "2026-06-22T17:59:28Z",
+    "date": "2026-06-23T14:23:40Z",
     "trending": false,
-    "source": "arXiv - Rishubh Parihar, Ayush Raina, R. Venkatesh Babu et al."
+    "source": "arXiv - Chenyang Zhu, Jiayu Yao, Kushal Chawla et al."
   },
   {
-    "id": "arxiv_1782258310396_0",
-    "name": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
+    "id": "arxiv_1782266180241_0",
+    "name": "QC-SMOTE: Quality-Controlled SMOTE for Imbalanced Classification",
+    "category": "machine-learning",
+    "description": "Class imbalance poses a significant challenge in classification, where existing methods such as SMOTE often generate low-quality synthetic samples in regions with noise or class overlap. We propose QC...",
+    "link": "http://arxiv.org/abs/2606.24625v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-23T14:23:18Z",
+    "trending": false,
+    "source": "arXiv - Parth Upman, Shreyank N Gowda"
+  },
+  {
+    "id": "arxiv_1782266179666_3",
+    "name": "Privacy-Preserving RAG via Multi-Agent Semantic Rewriting: Achieving Confidentiality Without Compromising Contextual Fidelity",
     "category": "ai",
-    "description": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freed...",
-    "link": "http://arxiv.org/abs/2606.23680v1",
+    "description": "Retrieval-Augmented Generation enhances large language models by incorporating external knowledge, but deploying it in sensitive scenarios risks privacy leakage via malicious prompts. To address this,...",
+    "link": "http://arxiv.org/abs/2606.24623v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-23T14:21:41Z",
+    "trending": false,
+    "source": "arXiv - Yuanhe Zhao, Tianyu Zhang, Huafei Xing et al."
+  },
+  {
+    "id": "arxiv_1782266180530_1",
+    "name": "Privacy-Preserving RAG via Multi-Agent Semantic Rewriting: Achieving Confidentiality Without Compromising Contextual Fidelity",
+    "category": "nlp",
+    "description": "Retrieval-Augmented Generation enhances large language models by incorporating external knowledge, but deploying it in sensitive scenarios risks privacy leakage via malicious prompts. To address this,...",
+    "link": "http://arxiv.org/abs/2606.24623v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-23T14:21:41Z",
+    "trending": false,
+    "source": "arXiv - Yuanhe Zhao, Tianyu Zhang, Huafei Xing et al."
+  },
+  {
+    "id": "arxiv_1782266179666_4",
+    "name": "Themis: An explainable AI-enabled framework for Reinforcement Learning with Human Feedback",
+    "category": "ai",
+    "description": "Training safe Reinforcement Learning (RL) systems is inherently challenging, with no guarantee of avoiding unwanted behaviors. The most effective defenses against this are (i) transparency through exp...",
+    "link": "http://arxiv.org/abs/2606.24622v1",
     "tags": [
       "AI",
       "Reinforcement Learning"
     ],
-    "date": "2026-06-22T17:59:20Z",
+    "date": "2026-06-23T14:20:42Z",
     "trending": false,
-    "source": "arXiv - Sikai Li, Shuning Li, Zhenyu Wei et al."
+    "source": "arXiv - Andreas Chouliaras, Luke Connolly, Dimitris Chatzpoulos"
   },
   {
-    "id": "arxiv_1782258310732_1",
-    "name": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
-    "category": "machine-learning",
-    "description": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freed...",
-    "link": "http://arxiv.org/abs/2606.23680v1",
+    "id": "arxiv_1782266180530_2",
+    "name": "Same Lesson, Different Story: Cross-Lingual Reconstruction of Cultural Narratives in Large Language Models",
+    "category": "nlp",
+    "description": "The evaluation of cultural grounding context becomes complex when multiple cultures convey the same moral lesson. This challenge is particularly relevant to large language models (LLMs), which produce...",
+    "link": "http://arxiv.org/abs/2606.24610v1",
     "tags": [
       "AI",
-      "Reinforcement Learning"
+      "LLM"
     ],
-    "date": "2026-06-22T17:59:20Z",
-    "trending": false,
-    "source": "arXiv - Sikai Li, Shuning Li, Zhenyu Wei et al."
-  },
-  {
-    "id": "arxiv_1782258310396_1",
-    "name": "Semantic Browsing: Controllable Diversity for Image Generation",
-    "category": "ai",
-    "description": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interp...",
-    "link": "http://arxiv.org/abs/2606.23679v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-22T17:59:17Z",
+    "date": "2026-06-23T14:10:34Z",
     "trending": true,
-    "source": "arXiv - Sara Dorfman, Maya Vishnevsky, Omer Dahary et al."
+    "source": "arXiv - Jory Alshaalan, Haya Albaker, Abeer Aldayel et al."
   },
   {
-    "id": "arxiv_1782258310477_2",
-    "name": "Semantic Browsing: Controllable Diversity for Image Generation",
+    "id": "arxiv_1782266179965_1",
+    "name": "ViTexQA: A Multi-Frame Temporal Perception Dataset for Video Text Question Answering",
     "category": "computer-vision",
-    "description": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interp...",
-    "link": "http://arxiv.org/abs/2606.23679v1",
+    "description": "Despite remarkable progress in multimodal understanding, current MLLMs still exhibit limitations in video text understanding, particularly when semantics emerge through the integration of temporally d...",
+    "link": "http://arxiv.org/abs/2606.24602v1",
     "tags": [
       "AI",
-      "Vision"
-    ],
-    "date": "2026-06-22T17:59:17Z",
-    "trending": false,
-    "source": "arXiv - Sara Dorfman, Maya Vishnevsky, Omer Dahary et al."
-  },
-  {
-    "id": "arxiv_1782258310732_2",
-    "name": "Semantic Browsing: Controllable Diversity for Image Generation",
-    "category": "machine-learning",
-    "description": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interp...",
-    "link": "http://arxiv.org/abs/2606.23679v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-22T17:59:17Z",
-    "trending": false,
-    "source": "arXiv - Sara Dorfman, Maya Vishnevsky, Omer Dahary et al."
-  },
-  {
-    "id": "arxiv_1782258310397_2",
-    "name": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
-    "category": "ai",
-    "description": "Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a pivotal research frontier. The existing literature...",
-    "link": "http://arxiv.org/abs/2606.23678v1",
-    "tags": [
-      "AI",
-      "Vision",
       "LLM",
       "Reinforcement Learning"
     ],
-    "date": "2026-06-22T17:58:54Z",
+    "date": "2026-06-23T14:03:56Z",
     "trending": true,
-    "source": "arXiv - Cong Han, Xiaohan Lan, Haibo Qiu et al."
+    "source": "arXiv - Zhentao Guo, Chen Duan, Tongkun Guan et al."
   },
   {
-    "id": "arxiv_1782258310477_3",
-    "name": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
+    "id": "arxiv_1782266180241_1",
+    "name": "ASALT: Adaptive State Alignment for Lateral Transfer in Multi-agent Reinforcement Learning",
+    "category": "machine-learning",
+    "description": "Multi-agent reinforcement learning (MARL) addresses the problem of training multiple agents that pursue collaborative, competitive, or mixed objectives. Prior work has investigated transfer learning b...",
+    "link": "http://arxiv.org/abs/2606.24601v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-23T14:03:36Z",
+    "trending": true,
+    "source": "arXiv - Anurag Akula, Satheesh K. Perepu, Abhishek Sarkar et al."
+  },
+  {
+    "id": "arxiv_1782266180530_3",
+    "name": "Qwen-AgentWorld: Language World Models for General Agents",
+    "category": "nlp",
+    "description": "A world model predicts environment dynamics based on current observations and actions, serving as a core cognitive mechanism for reasoning and planning. In this work, we investigate how world modeling...",
+    "link": "http://arxiv.org/abs/2606.24597v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-23T13:53:55Z",
+    "trending": false,
+    "source": "arXiv - Yuxin Zuo, Zikai Xiao, Li Sheng et al."
+  },
+  {
+    "id": "arxiv_1782266180530_4",
+    "name": "To Compare, or Not to Compare: On Methodological Practices in Evaluating Social Bias",
+    "category": "nlp",
+    "description": "As Large Language Models are increasingly deployed in critical applications, robustly evaluating their social biases is paramount. However, the current literature suffers from widespread methodologica...",
+    "link": "http://arxiv.org/abs/2606.24596v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-23T13:53:50Z",
+    "trending": false,
+    "source": "arXiv - Federico Marcuzzi, Xuefei Ning, Roy Schwartz et al."
+  },
+  {
+    "id": "arxiv_1782266179966_2",
+    "name": "EERLoss: A Novel Loss Function for Training Deep Biometric Models. A Case Study in Keystroke Dynamics",
     "category": "computer-vision",
-    "description": "Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a pivotal research frontier. The existing literature...",
-    "link": "http://arxiv.org/abs/2606.23678v1",
+    "description": "Deep learning approaches to biometric verification are commonly trained by optimizing indirect objectives, creating a misalignment between the optimization process and the primary evaluation metric, t...",
+    "link": "http://arxiv.org/abs/2606.24586v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Optimization"
+    ],
+    "date": "2026-06-23T13:47:42Z",
+    "trending": true,
+    "source": "arXiv - Nahuel Gonzalez, Marta Robledo-Moreno, Ivan DeAndres-Tame et al."
+  },
+  {
+    "id": "arxiv_1782266180241_2",
+    "name": "EERLoss: A Novel Loss Function for Training Deep Biometric Models. A Case Study in Keystroke Dynamics",
+    "category": "machine-learning",
+    "description": "Deep learning approaches to biometric verification are commonly trained by optimizing indirect objectives, creating a misalignment between the optimization process and the primary evaluation metric, t...",
+    "link": "http://arxiv.org/abs/2606.24586v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Optimization"
+    ],
+    "date": "2026-06-23T13:47:42Z",
+    "trending": false,
+    "source": "arXiv - Nahuel Gonzalez, Marta Robledo-Moreno, Ivan DeAndres-Tame et al."
+  },
+  {
+    "id": "arxiv_1782266179966_3",
+    "name": "Jolia: Concept-Level Vision-Language Alignment for 3D CT Contrastive Learning",
+    "category": "computer-vision",
+    "description": "Vision-language contrastive pretraining has become the dominant recipe for 3D medical foundation models, leveraging the large volumes of paired scans and reports produced in clinical practice. However...",
+    "link": "http://arxiv.org/abs/2606.24570v1",
     "tags": [
       "AI",
       "Vision",
-      "LLM",
-      "Reinforcement Learning"
+      "GAN"
     ],
-    "date": "2026-06-22T17:58:54Z",
+    "date": "2026-06-23T13:35:47Z",
     "trending": false,
-    "source": "arXiv - Cong Han, Xiaohan Lan, Haibo Qiu et al."
+    "source": "arXiv - Julien Khlaut, Charles Corbière, Baptiste Callard et al."
   },
   {
-    "id": "arxiv_1782258310397_3",
-    "name": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
-    "category": "ai",
-    "description": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evide...",
-    "link": "http://arxiv.org/abs/2606.23676v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-22T17:58:52Z",
-    "trending": false,
-    "source": "arXiv - Dingzhi Yu, Hongyi Tao, Yuanyu Wan et al."
-  },
-  {
-    "id": "arxiv_1782258310732_3",
-    "name": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
-    "category": "machine-learning",
-    "description": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evide...",
-    "link": "http://arxiv.org/abs/2606.23676v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-22T17:58:52Z",
-    "trending": false,
-    "source": "arXiv - Dingzhi Yu, Hongyi Tao, Yuanyu Wan et al."
-  },
-  {
-    "id": "arxiv_1782258310477_4",
-    "name": "IMAGIN-4D: Image-Guided Controllable Interaction Generation",
+    "id": "arxiv_1782266179966_4",
+    "name": "Multilevel Stochastic Plug-and-Play for Sparse-View CT Reconstruction",
     "category": "computer-vision",
-    "description": "Generating human-object interactions (HOI) is central to character animation, robotics, AR/VR, and embodied AI. Recent HOI generation methods synthesize motion from text, object geometry, and sparse w...",
-    "link": "http://arxiv.org/abs/2606.23675v1",
-    "tags": [
-      "AI",
-      "Diffusion",
-      "Robotics"
-    ],
-    "date": "2026-06-22T17:58:03Z",
+    "description": "Sparse-view computed tomography (SVCT) reduces radiation exposure and acquisition time, but the limited number of projection views makes the reconstruction problem severely ill-posed and leads to stre...",
+    "link": "http://arxiv.org/abs/2606.24567v1",
+    "tags": [],
+    "date": "2026-06-23T13:34:30Z",
     "trending": false,
-    "source": "arXiv - Sai Kumar Dwivedi, Federica Bogo, Buğra Tekin et al."
+    "source": "arXiv - Antoine De Paepe, Alexandre Bousse, Dimitris Visvikis"
   },
   {
-    "id": "arxiv_1782258310397_4",
-    "name": "PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support",
-    "category": "ai",
-    "description": "Mental health assessment commonly relies on isolated screening instruments or data-driven models that often lack interpretability and multi-dimensional integration. Existing approaches frequently focu...",
-    "link": "http://arxiv.org/abs/2606.23673v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-22T17:57:15Z",
-    "trending": false,
-    "source": "arXiv - Sunil Wanjari, Manish Thakre, Aayushi Asole et al."
-  },
-  {
-    "id": "arxiv_1782258310732_4",
-    "name": "PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support",
+    "id": "arxiv_1782266180242_3",
+    "name": "Reasoning as Attractor Dynamics: Latent Memory Retrieval via Gibbs-Weighted Energy Minimization",
     "category": "machine-learning",
-    "description": "Mental health assessment commonly relies on isolated screening instruments or data-driven models that often lack interpretability and multi-dimensional integration. Existing approaches frequently focu...",
-    "link": "http://arxiv.org/abs/2606.23673v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-22T17:57:15Z",
-    "trending": true,
-    "source": "arXiv - Sunil Wanjari, Manish Thakre, Aayushi Asole et al."
-  },
-  {
-    "id": "arxiv_1782258310810_1",
-    "name": "Can LLMs Reliably Self-Report Adversarial Prefills, and How?",
-    "category": "nlp",
-    "description": "Prior work shows that large language models (LLMs) exhibit introspective capability on benign tasks. We extend the question to safety contexts and examine how reliably a model can recognize that its o...",
-    "link": "http://arxiv.org/abs/2606.23671v1",
+    "description": "Large Language Models (LLMs) are traditionally viewed as autoregressive generators. However, from the perspective of collective computation, they function as high-dimensional Dense Associative Memorie...",
+    "link": "http://arxiv.org/abs/2606.24543v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-06-22T17:56:30Z",
+    "date": "2026-06-23T13:07:39Z",
+    "trending": false,
+    "source": "arXiv - Kanishk Awadhiya"
+  },
+  {
+    "id": "arxiv_1782266180242_4",
+    "name": "A Fair Evaluation of Graph Foundation Models for Node Property Prediction",
+    "category": "machine-learning",
+    "description": "Due to the wide use of graph-structured data in different fields of industry and science, the development of Graph Foundation Models (GFMs) has recently attracted a lot of attention. While many differ...",
+    "link": "http://arxiv.org/abs/2606.24509v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-06-23T12:41:43Z",
     "trending": true,
-    "source": "arXiv - Quang Minh Nguyen, Uzair Ahmed, Taegyoon Kim"
-  },
-  {
-    "id": "arxiv_1782258310810_2",
-    "name": "Tapered Language Models",
-    "category": "nlp",
-    "description": "Modern language models, including transformer, recurrent, and memory-based variants, share a common chassis: a stack of identical layers in which parameters are allocated uniformly across depth. This ...",
-    "link": "http://arxiv.org/abs/2606.23670v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-06-22T17:56:25Z",
-    "trending": false,
-    "source": "arXiv - Reza Bayat, Ali Behrouz, Aaron Courville"
-  },
-  {
-    "id": "arxiv_1782258310810_3",
-    "name": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
-    "category": "nlp",
-    "description": "Enterprise agents increasingly operate inside workspaces: they read heterogeneous files, invoke tools, and deliver business artifacts. We introduce EnterpriseClawBench, an enterprise agent benchmark c...",
-    "link": "http://arxiv.org/abs/2606.23654v1",
-    "tags": [
-      "AI",
-      "GPT"
-    ],
-    "date": "2026-06-22T17:39:43Z",
-    "trending": false,
-    "source": "arXiv - Jincheng Zhong, Weizhi Wang, Che Jiang et al."
-  },
-  {
-    "id": "arxiv_1782258310811_4",
-    "name": "Evaluation Awareness Is Not One Capability: Evidence from Open Language Models",
-    "category": "nlp",
-    "description": "Safety benchmarks assume that test-condition behavior predicts deployment behavior, an assumption that fails if models detect evaluation cues and adapt. This opens a gap between benchmark performance ...",
-    "link": "http://arxiv.org/abs/2606.23583v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-22T16:48:43Z",
-    "trending": false,
-    "source": "arXiv - Nilesh Nayan, Aishwarya Sampath Kumar, Rishiraj Girmal et al."
+    "source": "arXiv - Oleg Platonov, Gleb Bazhenov, Dmitry Eremeev et al."
   }
 ]
