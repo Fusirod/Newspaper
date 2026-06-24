@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1782280735288_0",
+    "id": "arxiv_1782293058583_0",
     "name": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
     "category": "computer-vision",
     "description": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is ...",
@@ -11,11 +11,11 @@
       "Diffusion"
     ],
     "date": "2026-06-23T17:59:55Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Xingjian Leng, Jaskirat Singh, Zhanhao Liang et al."
   },
   {
-    "id": "arxiv_1782280735204_0",
+    "id": "arxiv_1782293058006_0",
     "name": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
     "category": "ai",
     "description": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unloc...",
@@ -29,7 +29,7 @@
     "source": "arXiv - Maggie Wang, Lars Osterberg, Stephen Tian et al."
   },
   {
-    "id": "arxiv_1782280735370_0",
+    "id": "arxiv_1782293058784_0",
     "name": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
     "category": "machine-learning",
     "description": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unloc...",
@@ -39,11 +39,11 @@
       "Vision"
     ],
     "date": "2026-06-23T17:59:01Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Maggie Wang, Lars Osterberg, Stephen Tian et al."
   },
   {
-    "id": "arxiv_1782280735288_1",
+    "id": "arxiv_1782293058583_1",
     "name": "BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases",
     "category": "computer-vision",
     "description": "Artificial intelligence (AI) has achieved remarkable success in medical imaging, but it is widely recognized that these models often perform inconsistently across real-world clinical settings. Such in...",
@@ -59,7 +59,7 @@
     "source": "arXiv - Qi Chen, Wenxuan Li, Pedro R. A. S. Bassi et al."
   },
   {
-    "id": "arxiv_1782280735370_1",
+    "id": "arxiv_1782293058784_1",
     "name": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
     "category": "machine-learning",
     "description": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We p...",
@@ -72,7 +72,7 @@
     "source": "arXiv - Guglielmo Beretta, Tommaso Cesari, Roberto Colomboni et al."
   },
   {
-    "id": "arxiv_1782280735289_2",
+    "id": "arxiv_1782293058583_2",
     "name": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
     "category": "computer-vision",
     "description": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-qual...",
@@ -82,11 +82,11 @@
       "Diffusion"
     ],
     "date": "2026-06-23T17:53:41Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Orest Kupyn, Goutam Bhat, Philipp Henzler et al."
   },
   {
-    "id": "arxiv_1782280735204_1",
+    "id": "arxiv_1782293058007_1",
     "name": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
     "category": "ai",
     "description": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input i...",
@@ -97,11 +97,11 @@
       "Diffusion"
     ],
     "date": "2026-06-23T17:52:21Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Haorui Ji, Weizhe Liu, Hongdong Li et al."
   },
   {
-    "id": "arxiv_1782280735289_3",
+    "id": "arxiv_1782293058584_3",
     "name": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
     "category": "computer-vision",
     "description": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input i...",
@@ -112,11 +112,11 @@
       "Diffusion"
     ],
     "date": "2026-06-23T17:52:21Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Haorui Ji, Weizhe Liu, Hongdong Li et al."
   },
   {
-    "id": "arxiv_1782280735205_2",
+    "id": "arxiv_1782293058007_2",
     "name": "OpenThoughts-Agent: Data Recipes for Agentic Models",
     "category": "ai",
     "description": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, S...",
@@ -125,11 +125,11 @@
       "AI"
     ],
     "date": "2026-06-23T17:34:29Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Negin Raoof, Richard Zhuang, Marianna Nezhurina et al."
   },
   {
-    "id": "arxiv_1782280735205_3",
+    "id": "arxiv_1782293058007_3",
     "name": "It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces",
     "category": "ai",
     "description": "Artificial intelligence (AI) can enhance what people who use augmentative and alternative communication (AAC) are able to do with their systems. However, evaluating AI-powered AAC interfaces can be di...",
@@ -142,7 +142,7 @@
     "source": "arXiv - Blade Frisch, Will Wade, Dylan Gaines et al."
   },
   {
-    "id": "arxiv_1782280735370_2",
+    "id": "arxiv_1782293058784_2",
     "name": "Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment",
     "category": "machine-learning",
     "description": "Fourier Neural Operators (FNO) learn solution operators of partial differential equations by parameterizing global convolutions in the complex Fourier domain. For real-valued PDE solutions, the comple...",
@@ -152,11 +152,11 @@
       "Neural"
     ],
     "date": "2026-06-23T17:29:15Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jason Sulskis, Sathya Ravi"
   },
   {
-    "id": "arxiv_1782280735205_4",
+    "id": "arxiv_1782293058007_4",
     "name": "IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation",
     "category": "ai",
     "description": "Unified multi-modal large language models (MLLMs) have achieved strong text-to-image generation quality, but still struggle with structure-aware prompt following, where object counts, spatial relation...",
@@ -167,11 +167,11 @@
       "LLM"
     ],
     "date": "2026-06-23T17:28:00Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zixuan Li, Haokun Lin, Yicheng Xiao et al."
   },
   {
-    "id": "arxiv_1782280735289_4",
+    "id": "arxiv_1782293058584_4",
     "name": "IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation",
     "category": "computer-vision",
     "description": "Unified multi-modal large language models (MLLMs) have achieved strong text-to-image generation quality, but still struggle with structure-aware prompt following, where object counts, spatial relation...",
@@ -182,11 +182,11 @@
       "LLM"
     ],
     "date": "2026-06-23T17:28:00Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zixuan Li, Haokun Lin, Yicheng Xiao et al."
   },
   {
-    "id": "arxiv_1782280735587_0",
+    "id": "arxiv_1782293059013_0",
     "name": "Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models",
     "category": "nlp",
     "description": "Prompt-based learning has emerged as a dominant paradigm in natural language processing. This study explores the impact of diverse pre-training objectives on the performance of encoder-decoder pre-tra...",
@@ -200,7 +200,7 @@
     "source": "arXiv - Ahmad Pouramini, Hesham Faili"
   },
   {
-    "id": "arxiv_1782280735587_1",
+    "id": "arxiv_1782293059013_1",
     "name": "Less is More: Quality-Aware Training Data Selection for Scientific Summarization",
     "category": "nlp",
     "description": "Scientific long-document summarization datasets commonly treat author-written abstracts as gold reference summaries, although their quality and alignment with the source article vary. At the same time...",
@@ -209,11 +209,11 @@
       "AI"
     ],
     "date": "2026-06-23T17:12:06Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Maria Nefeli Paraskevopoulou, Tatiana Passali, Grigorios Tsoumakas"
   },
   {
-    "id": "arxiv_1782280735370_3",
+    "id": "arxiv_1782293058784_3",
     "name": "L3Cube-MahaPOS: A Marathi Part-of-Speech Tagging Dataset and BERT Models",
     "category": "machine-learning",
     "description": "Part-of-Speech (POS) tagging is a foundational NLP task underpinning machine translation, information extraction, and syntactic parsing. Despite Marathi being spoken by over 83 million people and rank...",
@@ -229,7 +229,7 @@
     "source": "arXiv - Hariom Ingle, Ronit Ghode, Ishwari Gondkar et al."
   },
   {
-    "id": "arxiv_1782280735587_2",
+    "id": "arxiv_1782293059013_2",
     "name": "L3Cube-MahaPOS: A Marathi Part-of-Speech Tagging Dataset and BERT Models",
     "category": "nlp",
     "description": "Part-of-Speech (POS) tagging is a foundational NLP task underpinning machine translation, information extraction, and syntactic parsing. Despite Marathi being spoken by over 83 million people and rank...",
@@ -241,11 +241,11 @@
       "CNN"
     ],
     "date": "2026-06-23T17:10:46Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hariom Ingle, Ronit Ghode, Ishwari Gondkar et al."
   },
   {
-    "id": "arxiv_1782280735587_3",
+    "id": "arxiv_1782293059014_3",
     "name": "SHERLOC: Structured Diagnostic Localization for Code Repair Agents",
     "category": "nlp",
     "description": "LLM agents solve repository-level coding tasks through multi-turn tool use, but utilize half their budget on locating faults before editing. Dedicated localization frameworks have emerged, yet are sti...",
@@ -255,11 +255,11 @@
       "LLM"
     ],
     "date": "2026-06-23T17:05:50Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hovhannes Tamoyan, Sean Narenthiran, Erik Arakelyan et al."
   },
   {
-    "id": "arxiv_1782280735370_4",
+    "id": "arxiv_1782293058784_4",
     "name": "Grad Detect: Gradient-Based Hallucination Detection in LLMs",
     "category": "machine-learning",
     "description": "Large Language Models (LLMs) have demonstrated remarkable capabilities across diverse tasks, yet they remain prone to generating hallucinations. Detecting these hallucinations is critical for deployin...",
@@ -273,7 +273,7 @@
     "source": "arXiv - Anand Kamat, Daniel Blake, Brent M. Werness"
   },
   {
-    "id": "arxiv_1782280735588_4",
+    "id": "arxiv_1782293059014_4",
     "name": "Paying to Know: Micro-Transaction Markets for Verified Product Information in Agentic E-Commerce",
     "category": "nlp",
     "description": "Commercial NLP treats the shopping chatbot as a recommender or a conversion tool: its job is to match a user to a catalogue entry and close a sale. We argue that the arrival of agent-native micro-paym...",
@@ -284,7 +284,7 @@
       "NLP"
     ],
     "date": "2026-06-23T16:42:21Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Filippos Ventirozos, Matthew Shardlow"
   }
 ]
