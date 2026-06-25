@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1782363319198_0",
+    "id": "arxiv_1782375356889_0",
     "name": "Learning Action Priors for Cross-embodiment Robot Manipulation",
     "category": "ai",
     "description": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and li...",
@@ -11,11 +11,11 @@
       "Optimization"
     ],
     "date": "2026-06-24T17:59:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Dong Jing, Tianqi Zhang, Jiaqi Liu et al."
   },
   {
-    "id": "arxiv_1782363319220_0",
+    "id": "arxiv_1782375356926_0",
     "name": "Learning Action Priors for Cross-embodiment Robot Manipulation",
     "category": "computer-vision",
     "description": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and li...",
@@ -26,11 +26,11 @@
       "Optimization"
     ],
     "date": "2026-06-24T17:59:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Dong Jing, Tianqi Zhang, Jiaqi Liu et al."
   },
   {
-    "id": "arxiv_1782363319238_0",
+    "id": "arxiv_1782375356958_0",
     "name": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
     "category": "machine-learning",
     "description": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by t...",
@@ -44,7 +44,7 @@
     "source": "arXiv - Babak Rahmani, Sebastian Dziadzio, Joschka Strüber et al."
   },
   {
-    "id": "arxiv_1782363319220_1",
+    "id": "arxiv_1782375356926_1",
     "name": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
     "category": "computer-vision",
     "description": "While Video Virtual Try-on (VVT) has achieved remarkable progress in synthesizing realistic garment overlays on dynamic subjects, existing paradigms remains fundamentally constrained by a passive depe...",
@@ -57,7 +57,7 @@
     "source": "arXiv - Hao Sun, Hao Yan, Mengting Chen et al."
   },
   {
-    "id": "arxiv_1782363319198_1",
+    "id": "arxiv_1782375356889_1",
     "name": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
     "category": "ai",
     "description": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level fe...",
@@ -71,7 +71,7 @@
     "source": "arXiv - Andrei Liviu Nicolicioiu, Mohammad Pezeshki, Aaron Courville"
   },
   {
-    "id": "arxiv_1782363319238_1",
+    "id": "arxiv_1782375356958_1",
     "name": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
     "category": "machine-learning",
     "description": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level fe...",
@@ -85,7 +85,7 @@
     "source": "arXiv - Andrei Liviu Nicolicioiu, Mohammad Pezeshki, Aaron Courville"
   },
   {
-    "id": "arxiv_1782363319220_2",
+    "id": "arxiv_1782375356926_2",
     "name": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
     "category": "computer-vision",
     "description": "Synthesizing a novel-view video from a monocular reference video along a target camera trajectory requires both geometric consistency and motion fidelity with respect to the reference video. Existing ...",
@@ -100,7 +100,7 @@
     "source": "arXiv - JoungBin Lee, Jaewoo Jung, Jongmin Lee et al."
   },
   {
-    "id": "arxiv_1782363319256_0",
+    "id": "arxiv_1782375356991_0",
     "name": "Real-Time Voice AI Hears but Does Not Listen",
     "category": "nlp",
     "description": "Speech conveys information through both words and vocal delivery. We evaluate four leading production realtime voice systems-OpenAI's GPT Realtime 2, Google's Gemini 3.1 Flash Live, and Alibaba's Qwen...",
@@ -114,7 +114,7 @@
     "source": "arXiv - Martijn Bartelds, Federico Bianchi, James Zou"
   },
   {
-    "id": "arxiv_1782363319198_2",
+    "id": "arxiv_1782375356890_2",
     "name": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
     "category": "ai",
     "description": "Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and s...",
@@ -125,11 +125,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-24T17:54:08Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Changdae Oh, Wendi Li, Seongheon Park et al."
   },
   {
-    "id": "arxiv_1782363319239_2",
+    "id": "arxiv_1782375356958_2",
     "name": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
     "category": "machine-learning",
     "description": "Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and s...",
@@ -140,13 +140,27 @@
       "Reinforcement Learning"
     ],
     "date": "2026-06-24T17:54:08Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Changdae Oh, Wendi Li, Seongheon Park et al."
   },
   {
-    "id": "arxiv_1782363319220_3",
+    "id": "arxiv_1782375356926_3",
     "name": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
     "category": "computer-vision",
+    "description": "Standard benchmarks for multimodal large language models (MLLMs) score each item on one canonical ordering and miss whether order-irrelevant shuffling changes the answer, a baseline reliability proper...",
+    "link": "http://arxiv.org/abs/2606.26079v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-24T17:53:26Z",
+    "trending": false,
+    "source": "arXiv - Akshay Paruchuri, Sanmi Koyejo, Ehsan Adeli"
+  },
+  {
+    "id": "arxiv_1782375356958_3",
+    "name": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
+    "category": "machine-learning",
     "description": "Standard benchmarks for multimodal large language models (MLLMs) score each item on one canonical ordering and miss whether order-irrelevant shuffling changes the answer, a baseline reliability proper...",
     "link": "http://arxiv.org/abs/2606.26079v1",
     "tags": [
@@ -158,21 +172,7 @@
     "source": "arXiv - Akshay Paruchuri, Sanmi Koyejo, Ehsan Adeli"
   },
   {
-    "id": "arxiv_1782363319239_3",
-    "name": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
-    "category": "machine-learning",
-    "description": "Standard benchmarks for multimodal large language models (MLLMs) score each item on one canonical ordering and miss whether order-irrelevant shuffling changes the answer, a baseline reliability proper...",
-    "link": "http://arxiv.org/abs/2606.26079v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-24T17:53:26Z",
-    "trending": false,
-    "source": "arXiv - Akshay Paruchuri, Sanmi Koyejo, Ehsan Adeli"
-  },
-  {
-    "id": "arxiv_1782363319256_1",
+    "id": "arxiv_1782375356991_1",
     "name": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
     "category": "nlp",
     "description": "Standard benchmarks for multimodal large language models (MLLMs) score each item on one canonical ordering and miss whether order-irrelevant shuffling changes the answer, a baseline reliability proper...",
@@ -186,7 +186,7 @@
     "source": "arXiv - Akshay Paruchuri, Sanmi Koyejo, Ehsan Adeli"
   },
   {
-    "id": "arxiv_1782363319199_3",
+    "id": "arxiv_1782375356890_3",
     "name": "A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding",
     "category": "ai",
     "description": "Supervised deep learning has been widely used for weld penetration state classification; however, its performance often degrades significantly under domain shift, such as when transferring models betw...",
@@ -200,7 +200,7 @@
     "source": "arXiv - Sen Li, Haichao Cui, Chendong Shao et al."
   },
   {
-    "id": "arxiv_1782363319220_4",
+    "id": "arxiv_1782375356926_4",
     "name": "A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding",
     "category": "computer-vision",
     "description": "Supervised deep learning has been widely used for weld penetration state classification; however, its performance often degrades significantly under domain shift, such as when transferring models betw...",
@@ -214,7 +214,7 @@
     "source": "arXiv - Sen Li, Haichao Cui, Chendong Shao et al."
   },
   {
-    "id": "arxiv_1782363319199_4",
+    "id": "arxiv_1782375356890_4",
     "name": "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment",
     "category": "ai",
     "description": "A central goal of safety research is determining whether a model is misaligned. Prior work has largely focused on detecting concerning behavior. But behavior alone does not establish misalignment: a c...",
@@ -227,7 +227,7 @@
     "source": "arXiv - Aditya Singh, Gerson Kroiz, Senthooran Rajamanoharan et al."
   },
   {
-    "id": "arxiv_1782363319239_4",
+    "id": "arxiv_1782375356958_4",
     "name": "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment",
     "category": "machine-learning",
     "description": "A central goal of safety research is determining whether a model is misaligned. Prior work has largely focused on detecting concerning behavior. But behavior alone does not establish misalignment: a c...",
@@ -236,11 +236,11 @@
       "AI"
     ],
     "date": "2026-06-24T17:45:47Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Aditya Singh, Gerson Kroiz, Senthooran Rajamanoharan et al."
   },
   {
-    "id": "arxiv_1782363319256_2",
+    "id": "arxiv_1782375356992_2",
     "name": "When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance",
     "category": "nlp",
     "description": "Can a statistically significant, large-effect-size finding in computational social science be entirely an artifact of the measurement instrument? We present a case where the answer appears to be yes. ...",
@@ -250,11 +250,11 @@
       "LLM"
     ],
     "date": "2026-06-24T17:36:39Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Bo Chen"
   },
   {
-    "id": "arxiv_1782363319256_3",
+    "id": "arxiv_1782375356992_3",
     "name": "Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining",
     "category": "nlp",
     "description": "Midway through an ordinary pretraining run, a small language model learns the pronoun-gender rule: cued with a girl's name (\"Sue cried because\"), it resolves the next pronoun to she, generalizing to h...",
@@ -267,7 +267,7 @@
     "source": "arXiv - Juliana Li, Diya Sreedhar"
   },
   {
-    "id": "arxiv_1782363319256_4",
+    "id": "arxiv_1782375356992_4",
     "name": "How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations",
     "category": "nlp",
     "description": "Vision-language models (VLMs) have achieved strong performance on OCR-based benchmarks and increasingly focused on text-rich understanding, but their robustness under controlled visual degradation rem...",
