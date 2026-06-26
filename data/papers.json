@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1782463518701_0",
+    "id": "arxiv_1782473761839_0",
     "name": "DanceOPD: On-Policy Generative Field Distillation",
     "category": "computer-vision",
     "description": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali...",
@@ -9,11 +9,11 @@
       "AI"
     ],
     "date": "2026-06-25T17:59:58Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Wei Zhou, Xiongwei Zhu, Zelin Xu et al."
   },
   {
-    "id": "arxiv_1782463518903_0",
+    "id": "arxiv_1782473761855_0",
     "name": "DanceOPD: On-Policy Generative Field Distillation",
     "category": "machine-learning",
     "description": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali...",
@@ -22,11 +22,11 @@
       "AI"
     ],
     "date": "2026-06-25T17:59:58Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Wei Zhou, Xiongwei Zhu, Zelin Xu et al."
   },
   {
-    "id": "arxiv_1782463519083_0",
+    "id": "arxiv_1782473762031_0",
     "name": "DanceOPD: On-Policy Generative Field Distillation",
     "category": "nlp",
     "description": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali...",
@@ -39,7 +39,7 @@
     "source": "arXiv - Wei Zhou, Xiongwei Zhu, Zelin Xu et al."
   },
   {
-    "id": "arxiv_1782463518701_1",
+    "id": "arxiv_1782473761839_1",
     "name": "Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards",
     "category": "computer-vision",
     "description": "Most unified large multimodal models (LMMs) that support both visual understanding and image generation still rely on curated post-training supervision, such as human annotations, preference labels, o...",
@@ -51,11 +51,11 @@
       "Diffusion"
     ],
     "date": "2026-06-25T17:59:57Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ritesh Thawkar, Shravan Venkatraman, Omkar Thawakar et al."
   },
   {
-    "id": "arxiv_1782463518701_2",
+    "id": "arxiv_1782473761839_2",
     "name": "World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays",
     "category": "computer-vision",
     "description": "Going beyond predicting robot actions, World Action Models (WAMs) can also generate future visual observations. We build on this generative capability to propose Recurrent Generative Replay (REGEN), a...",
@@ -66,7 +66,7 @@
     "source": "arXiv - Manish Kumar Govind, Dominick Reilly, Smit Patel et al."
   },
   {
-    "id": "arxiv_1782463518702_3",
+    "id": "arxiv_1782473761839_3",
     "name": "Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models",
     "category": "computer-vision",
     "description": "Recently, self-evolving large multimodal models (LMMs) have received attention for improving visual reasoning in a purely unsupervised setting. However, multi-role self-play and self-consistency rewar...",
@@ -76,11 +76,11 @@
       "Vision"
     ],
     "date": "2026-06-25T17:59:55Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shravan Venkatraman, Ritesh Thawkar, Omkar Thawakar et al."
   },
   {
-    "id": "arxiv_1782463518702_4",
+    "id": "arxiv_1782473761839_4",
     "name": "DnA: Denoising Attention for Visual Tasks",
     "category": "computer-vision",
     "description": "The softmax activation in multihead attention (MHA) is the de facto standard for attention-based models in visual perception tasks. However, standard softmax can produce noisy attention patterns that ...",
@@ -91,11 +91,11 @@
       "LLM"
     ],
     "date": "2026-06-25T17:59:48Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ron Campos, Subhajit Maity, Xin Li et al."
   },
   {
-    "id": "arxiv_1782463518903_1",
+    "id": "arxiv_1782473761855_1",
     "name": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
     "category": "machine-learning",
     "description": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution ...",
@@ -111,7 +111,7 @@
     "source": "arXiv - Yingyu Lin, Qiyue Gao, Nikki Lijing Kuang et al."
   },
   {
-    "id": "arxiv_1782463518674_0",
+    "id": "arxiv_1782473761819_0",
     "name": "Autoregressive Boltzmann Generators",
     "category": "ai",
     "description": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allo...",
@@ -125,7 +125,7 @@
     "source": "arXiv - Danyal Rehman, Charlie B. Tan, Yoshua Bengio et al."
   },
   {
-    "id": "arxiv_1782463518903_2",
+    "id": "arxiv_1782473761855_2",
     "name": "Autoregressive Boltzmann Generators",
     "category": "machine-learning",
     "description": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allo...",
@@ -139,7 +139,7 @@
     "source": "arXiv - Danyal Rehman, Charlie B. Tan, Yoshua Bengio et al."
   },
   {
-    "id": "arxiv_1782463518903_3",
+    "id": "arxiv_1782473761855_3",
     "name": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
     "category": "machine-learning",
     "description": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the...",
@@ -149,11 +149,11 @@
       "LLM"
     ],
     "date": "2026-06-25T17:58:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Johannes Zenn, Jonas Geiping"
   },
   {
-    "id": "arxiv_1782463518675_1",
+    "id": "arxiv_1782473761819_1",
     "name": "Error-Conditioned Neural Solvers",
     "category": "ai",
     "description": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their ow...",
@@ -168,7 +168,7 @@
     "source": "arXiv - Haina Jiang, Liam Wang, Peng-Chen Chen et al."
   },
   {
-    "id": "arxiv_1782463518903_4",
+    "id": "arxiv_1782473761855_4",
     "name": "Error-Conditioned Neural Solvers",
     "category": "machine-learning",
     "description": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their ow...",
@@ -183,7 +183,7 @@
     "source": "arXiv - Haina Jiang, Liam Wang, Peng-Chen Chen et al."
   },
   {
-    "id": "arxiv_1782463519083_1",
+    "id": "arxiv_1782473762032_1",
     "name": "Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
     "category": "nlp",
     "description": "Whether political elites organise into rent-seeking coalitions that capture public resources or civic networks that sustain governance is a central question in comparative politics. Yet observing thes...",
@@ -198,7 +198,7 @@
     "source": "arXiv - Kirill Solovev, Jana Lasser"
   },
   {
-    "id": "arxiv_1782463518675_2",
+    "id": "arxiv_1782473761819_2",
     "name": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
     "category": "ai",
     "description": "Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they refer to the same real-world entity. Recent work ...",
@@ -212,7 +212,7 @@
     "source": "arXiv - Nicholas Pulsone, Gregory Goren, Roee Shraga"
   },
   {
-    "id": "arxiv_1782463518675_3",
+    "id": "arxiv_1782473761819_3",
     "name": "Language-Based Digital Twins for Elderly Cognitive Assistance",
     "category": "ai",
     "description": "Digital twins have emerged as a promising paradigm for personalized healthcare, enabling modeling of individual behavior and health trajectories. In cognitive health, early detection of Mild Cognitive...",
@@ -223,11 +223,11 @@
       "GPT"
     ],
     "date": "2026-06-25T17:45:53Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Mohammad Mehdi Hosseini, Mohammad H. Mahoor, Hiroko H. Dodge"
   },
   {
-    "id": "arxiv_1782463518675_4",
+    "id": "arxiv_1782473761820_4",
     "name": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
     "category": "ai",
     "description": "Multimodal web agents can assist humans in operating repetitive GUI tasks, where effective task planning is essential for decomposing complex tasks into executable actions. While small open source MLL...",
@@ -241,7 +241,7 @@
     "source": "arXiv - Tianyi Men, Zhuoran Jin, Pengfei Cao et al."
   },
   {
-    "id": "arxiv_1782463519083_2",
+    "id": "arxiv_1782473762032_2",
     "name": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
     "category": "nlp",
     "description": "Multimodal web agents can assist humans in operating repetitive GUI tasks, where effective task planning is essential for decomposing complex tasks into executable actions. While small open source MLL...",
@@ -251,11 +251,11 @@
       "LLM"
     ],
     "date": "2026-06-25T17:44:48Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Tianyi Men, Zhuoran Jin, Pengfei Cao et al."
   },
   {
-    "id": "arxiv_1782463519084_3",
+    "id": "arxiv_1782473762032_3",
     "name": "LLM-Based Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank",
     "category": "nlp",
     "description": "Verifying the eligibility of securities as collateral is a key responsibility of the German Central Bank. However, manually verifying these assets against legal and financial criteria within lengthy, ...",
@@ -269,7 +269,7 @@
     "source": "arXiv - Serhii Hamotskyi, Akash Kumar Gautam, Christian Hänig"
   },
   {
-    "id": "arxiv_1782463519084_4",
+    "id": "arxiv_1782473762033_4",
     "name": "Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection",
     "category": "nlp",
     "description": "To avoid moderation and surveillance on social media, some users routinely invent indirect linguistic expressions (ILE) that camouflage sensitive meanings. Such expressions surface as algospeak, euphe...",
@@ -279,7 +279,7 @@
       "LLM"
     ],
     "date": "2026-06-25T17:29:45Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hamid Reza Firoozfar, Mohammadsadegh Abolhasani, Reza Mousavi et al."
   }
 ]
