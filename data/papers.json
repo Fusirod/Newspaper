@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1782765920792_0",
+    "id": "arxiv_1782770494450_0",
     "name": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
     "category": "ai",
     "description": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation s...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Dihong Huang, Zhenyu Wei, Zhuxiu Xu et al."
   },
   {
-    "id": "arxiv_1782765920877_0",
+    "id": "arxiv_1782770498777_0",
     "name": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
     "category": "computer-vision",
     "description": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation s...",
@@ -26,7 +26,7 @@
     "source": "arXiv - Dihong Huang, Zhenyu Wei, Zhuxiu Xu et al."
   },
   {
-    "id": "arxiv_1782765920961_0",
+    "id": "arxiv_1782770498847_0",
     "name": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
     "category": "machine-learning",
     "description": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation s...",
@@ -35,11 +35,11 @@
       "AI"
     ],
     "date": "2026-06-26T17:59:57Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Dihong Huang, Zhenyu Wei, Zhuxiu Xu et al."
   },
   {
-    "id": "arxiv_1782765920878_1",
+    "id": "arxiv_1782770498777_1",
     "name": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
     "category": "computer-vision",
     "description": "We introduce PerceptionRubrics, a rubric-based evaluation framework that addresses the gap between saturated benchmark scores and real-world brittleness. Shifting evaluation from holistic semantic mat...",
@@ -48,11 +48,11 @@
       "AI"
     ],
     "date": "2026-06-26T17:59:15Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yana Wei, Hongbo Peng, Yanlin Lai et al."
   },
   {
-    "id": "arxiv_1782765920878_2",
+    "id": "arxiv_1782770498778_2",
     "name": "StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views",
     "category": "computer-vision",
     "description": "We present StructSplat, a feed-forward and generalizable 3D Gaussian reconstruction framework that operates directly on uncalibrated images without requiring camera parameters. Existing methods either...",
@@ -62,11 +62,11 @@
       "Optimization"
     ],
     "date": "2026-06-26T17:59:06Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jia-Chen Zhao, Beiqi Chen, Xinyang Chen et al."
   },
   {
-    "id": "arxiv_1782765920961_1",
+    "id": "arxiv_1782770498847_1",
     "name": "Surprises in Proper Positive-Only Learning",
     "category": "machine-learning",
     "description": "Binary classification from positive-only samples is a variant of PAC learning in which the learner receives i.i.d. samples from the positive region of an unknown target concept, but is evaluated under...",
@@ -75,11 +75,11 @@
       "AI"
     ],
     "date": "2026-06-26T17:54:13Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Shai Ben-David, Farnam Mansouri, Anay Mehrotra et al."
   },
   {
-    "id": "arxiv_1782765920793_1",
+    "id": "arxiv_1782770494451_1",
     "name": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
     "category": "ai",
     "description": "Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V* yet prescribe different behaviour. Standard solv...",
@@ -88,11 +88,11 @@
       "AI"
     ],
     "date": "2026-06-26T17:53:30Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Luis Leal"
   },
   {
-    "id": "arxiv_1782765920961_2",
+    "id": "arxiv_1782770498847_2",
     "name": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
     "category": "machine-learning",
     "description": "Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V* yet prescribe different behaviour. Standard solv...",
@@ -105,7 +105,7 @@
     "source": "arXiv - Luis Leal"
   },
   {
-    "id": "arxiv_1782765920961_3",
+    "id": "arxiv_1782770498848_3",
     "name": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization",
     "category": "machine-learning",
     "description": "We analyze Bregman ADMM for nonconvex linearly constrained problems under two-sided relative smoothness, a condition that replaces the standard Lipschitz gradient assumption with a Hessian comparison ...",
@@ -119,7 +119,7 @@
     "source": "arXiv - Shuang Li, Zhihui Zhu, Qiuwei Li"
   },
   {
-    "id": "arxiv_1782765920961_4",
+    "id": "arxiv_1782770498848_4",
     "name": "VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing",
     "category": "machine-learning",
     "description": "Inference-time scaling is a promising paradigm to improve generative models, especially when outputs must satisfy structural constraints or optimize downstream rewards. We consider Masked Diffusion Mo...",
@@ -129,11 +129,11 @@
       "Diffusion"
     ],
     "date": "2026-06-26T17:47:09Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Kijung Jeon, Thuy-Duong Vuong, Molei Tao"
   },
   {
-    "id": "arxiv_1782765920793_2",
+    "id": "arxiv_1782770494451_2",
     "name": "Agentic Hardware Design as Repository-Level Code Evolution",
     "category": "ai",
     "description": "We present HORIZON, a self-evolving agent framework that treats hardware design as repository-level code evolution. A Markdown harness is compiled into a project pack containing domain knowledge, an e...",
@@ -147,7 +147,7 @@
     "source": "arXiv - Cunxi Yu, Chenhui Deng, Nathaniel Pinckney et al."
   },
   {
-    "id": "arxiv_1782765920793_3",
+    "id": "arxiv_1782770494451_3",
     "name": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
     "category": "ai",
     "description": "Artificial intelligence is driving a revolution in scientific discovery, accelerating everything from hypothesis generation to mathematical theorem proving. However, this rapid acceleration is creatin...",
@@ -160,7 +160,7 @@
     "source": "arXiv - Rajesh Jayaram, Drew Tyler, David Woodruff et al."
   },
   {
-    "id": "arxiv_1782765921040_0",
+    "id": "arxiv_1782770498917_0",
     "name": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
     "category": "nlp",
     "description": "Artificial intelligence is driving a revolution in scientific discovery, accelerating everything from hypothesis generation to mathematical theorem proving. However, this rapid acceleration is creatin...",
@@ -169,11 +169,11 @@
       "AI"
     ],
     "date": "2026-06-26T17:19:17Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Rajesh Jayaram, Drew Tyler, David Woodruff et al."
   },
   {
-    "id": "arxiv_1782765920793_4",
+    "id": "arxiv_1782770494451_4",
     "name": "Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration",
     "category": "ai",
     "description": "Accurate network traffic prediction is a critical element for efficient resource allocation in dynamic urban cellular networks. However, prediction remains challenging because network demand is influe...",
@@ -187,7 +187,7 @@
     "source": "arXiv - Abdolazim Rezaei, Mehdi Sookhak, Mahboobeh Haghparast"
   },
   {
-    "id": "arxiv_1782765921041_1",
+    "id": "arxiv_1782770498917_1",
     "name": "Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models",
     "category": "nlp",
     "description": "Vision-language models must reconcile visual evidence with memorized world knowledge when the two conflict. How they resolve this conflict shapes the reliability of multimodal systems, yet prior work ...",
@@ -200,7 +200,7 @@
     "source": "arXiv - Niclas Lietzow, Danielle Bitterman, Carsten Eickhoff et al."
   },
   {
-    "id": "arxiv_1782765920878_3",
+    "id": "arxiv_1782770498778_3",
     "name": "Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation",
     "category": "computer-vision",
     "description": "Test-time adaptation (TTA) has emerged as a promising paradigm for mitigating distribution shifts in deep models. However, existing TTA approaches for anomaly segmentation remain limited by their reli...",
@@ -213,7 +213,7 @@
     "source": "arXiv - Ali Zia, Usman Ali, Abdul Rehman et al."
   },
   {
-    "id": "arxiv_1782765920878_4",
+    "id": "arxiv_1782770498778_4",
     "name": "RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning",
     "category": "computer-vision",
     "description": "Remote Sensing Image Change Captioning (RSICC) aims to describe changes between bi-temporal remote sensing images and holds significant research and application value. However, most existing methods r...",
@@ -225,11 +225,11 @@
       "LLM"
     ],
     "date": "2026-06-26T16:57:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yelin Wang, Zijia Song, Shuo Ye et al."
   },
   {
-    "id": "arxiv_1782765921041_2",
+    "id": "arxiv_1782770498918_2",
     "name": "HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech",
     "category": "nlp",
     "description": "Recently, Large Language Model (LLM)-based Text-to-Speech (TTS) models have achieved remarkable naturalness. However, the standard Supervised Fine-Tuning paradigm often converges to statistically aver...",
@@ -244,7 +244,7 @@
     "source": "arXiv - Sihang Nie, Xiaofen Xing, Rui Xing et al."
   },
   {
-    "id": "arxiv_1782765921041_3",
+    "id": "arxiv_1782770498918_3",
     "name": "Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction",
     "category": "nlp",
     "description": "Predicting human item difficulty is central to educational assessment, where reliable estimates support fairness and effective test construction. Existing methods often depend on costly human calibrat...",
@@ -258,7 +258,7 @@
     "source": "arXiv - Chenguang Wang, Ming Li, Xinyue Zeng et al."
   },
   {
-    "id": "arxiv_1782765921041_4",
+    "id": "arxiv_1782770498918_4",
     "name": "From Tokens to States: LLMs as a Special Case of World Models and the Continuous Path Beyond",
     "category": "nlp",
     "description": "The AI community has framed the relationship between large language models (LLMs) and world models as a dichotomy: LLMs predict tokens; world models simulate reality. Yann LeCun argues in 2022 that re...",
@@ -269,7 +269,7 @@
       "LLM"
     ],
     "date": "2026-06-26T14:27:50Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Paul Dubois"
   }
 ]
