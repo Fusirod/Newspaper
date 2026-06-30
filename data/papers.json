@@ -1,275 +1,290 @@
 [
   {
-    "id": "arxiv_1782777006182_0",
-    "name": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
+    "id": "arxiv_1782784803746_0",
+    "name": "Adaptive Financial Transformer with Regime-Gated Attention for Stock Return Prediction",
     "category": "ai",
-    "description": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation s...",
-    "link": "http://arxiv.org/abs/2606.28323v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-26T17:59:57Z",
-    "trending": false,
-    "source": "arXiv - Dihong Huang, Zhenyu Wei, Zhuxiu Xu et al."
-  },
-  {
-    "id": "arxiv_1782777006210_0",
-    "name": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
-    "category": "computer-vision",
-    "description": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation s...",
-    "link": "http://arxiv.org/abs/2606.28323v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-26T17:59:57Z",
-    "trending": false,
-    "source": "arXiv - Dihong Huang, Zhenyu Wei, Zhuxiu Xu et al."
-  },
-  {
-    "id": "arxiv_1782777006234_0",
-    "name": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
-    "category": "machine-learning",
-    "description": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation s...",
-    "link": "http://arxiv.org/abs/2606.28323v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-26T17:59:57Z",
-    "trending": false,
-    "source": "arXiv - Dihong Huang, Zhenyu Wei, Zhuxiu Xu et al."
-  },
-  {
-    "id": "arxiv_1782777006211_1",
-    "name": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
-    "category": "computer-vision",
-    "description": "We introduce PerceptionRubrics, a rubric-based evaluation framework that addresses the gap between saturated benchmark scores and real-world brittleness. Shifting evaluation from holistic semantic mat...",
-    "link": "http://arxiv.org/abs/2606.28322v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-26T17:59:15Z",
-    "trending": true,
-    "source": "arXiv - Yana Wei, Hongbo Peng, Yanlin Lai et al."
-  },
-  {
-    "id": "arxiv_1782777006211_2",
-    "name": "StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views",
-    "category": "computer-vision",
-    "description": "We present StructSplat, a feed-forward and generalizable 3D Gaussian reconstruction framework that operates directly on uncalibrated images without requiring camera parameters. Existing methods either...",
-    "link": "http://arxiv.org/abs/2606.28321v1",
-    "tags": [
-      "GAN",
-      "Optimization"
-    ],
-    "date": "2026-06-26T17:59:06Z",
-    "trending": false,
-    "source": "arXiv - Jia-Chen Zhao, Beiqi Chen, Xinyang Chen et al."
-  },
-  {
-    "id": "arxiv_1782777006234_1",
-    "name": "Surprises in Proper Positive-Only Learning",
-    "category": "machine-learning",
-    "description": "Binary classification from positive-only samples is a variant of PAC learning in which the learner receives i.i.d. samples from the positive region of an unknown target concept, but is evaluated under...",
-    "link": "http://arxiv.org/abs/2606.28309v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-26T17:54:13Z",
-    "trending": false,
-    "source": "arXiv - Shai Ben-David, Farnam Mansouri, Anay Mehrotra et al."
-  },
-  {
-    "id": "arxiv_1782777006182_1",
-    "name": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
-    "category": "ai",
-    "description": "Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V* yet prescribe different behaviour. Standard solv...",
-    "link": "http://arxiv.org/abs/2606.28308v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-26T17:53:30Z",
-    "trending": true,
-    "source": "arXiv - Luis Leal"
-  },
-  {
-    "id": "arxiv_1782777006234_2",
-    "name": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
-    "category": "machine-learning",
-    "description": "Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V* yet prescribe different behaviour. Standard solv...",
-    "link": "http://arxiv.org/abs/2606.28308v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-26T17:53:30Z",
-    "trending": false,
-    "source": "arXiv - Luis Leal"
-  },
-  {
-    "id": "arxiv_1782777006235_3",
-    "name": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization",
-    "category": "machine-learning",
-    "description": "We analyze Bregman ADMM for nonconvex linearly constrained problems under two-sided relative smoothness, a condition that replaces the standard Lipschitz gradient assumption with a Hessian comparison ...",
-    "link": "http://arxiv.org/abs/2606.28307v1",
+    "description": "Adaptive Financial Transformer (AFT) is proposed for stock return prediction under non-stationary financial markets. The model incorporates a Market Regime Encoder, an Adaptive Gate Network, and an Ad...",
+    "link": "http://arxiv.org/abs/2606.29347v1",
     "tags": [
       "AI",
-      "Optimization"
+      "Neural",
+      "Machine Learning",
+      "Transformer"
     ],
-    "date": "2026-06-26T17:52:39Z",
+    "date": "2026-06-28T11:33:19Z",
     "trending": false,
-    "source": "arXiv - Shuang Li, Zhihui Zhu, Qiuwei Li"
+    "source": "arXiv - Dishan Sarkar"
   },
   {
-    "id": "arxiv_1782777006235_4",
-    "name": "VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing",
+    "id": "arxiv_1782784803860_0",
+    "name": "Adaptive Financial Transformer with Regime-Gated Attention for Stock Return Prediction",
     "category": "machine-learning",
-    "description": "Inference-time scaling is a promising paradigm to improve generative models, especially when outputs must satisfy structural constraints or optimize downstream rewards. We consider Masked Diffusion Mo...",
-    "link": "http://arxiv.org/abs/2606.28301v1",
+    "description": "Adaptive Financial Transformer (AFT) is proposed for stock return prediction under non-stationary financial markets. The model incorporates a Market Regime Encoder, an Adaptive Gate Network, and an Ad...",
+    "link": "http://arxiv.org/abs/2606.29347v1",
     "tags": [
       "AI",
-      "Diffusion"
+      "Neural",
+      "Machine Learning",
+      "Transformer"
     ],
-    "date": "2026-06-26T17:47:09Z",
+    "date": "2026-06-28T11:33:19Z",
     "trending": false,
-    "source": "arXiv - Kijung Jeon, Thuy-Duong Vuong, Molei Tao"
+    "source": "arXiv - Dishan Sarkar"
   },
   {
-    "id": "arxiv_1782777006183_2",
-    "name": "Agentic Hardware Design as Repository-Level Code Evolution",
-    "category": "ai",
-    "description": "We present HORIZON, a self-evolving agent framework that treats hardware design as repository-level code evolution. A Markdown harness is compiled into a project pack containing domain knowledge, an e...",
-    "link": "http://arxiv.org/abs/2606.28279v1",
+    "id": "arxiv_1782784803860_1",
+    "name": "Reliability, Faithfulness, and the Limits of Post-hoc Explanations of Opaque Scientific Models",
+    "category": "machine-learning",
+    "description": "Post-hoc explanation methods are routinely used to interpret scientific machine learning models, with the deliverable understood to be insight into the phenomenon the model has been trained on. The tr...",
+    "link": "http://arxiv.org/abs/2606.29346v1",
     "tags": [
       "AI",
-      "LLM"
+      "Machine Learning"
     ],
-    "date": "2026-06-26T17:21:06Z",
+    "date": "2026-06-28T11:29:15Z",
     "trending": false,
-    "source": "arXiv - Cunxi Yu, Chenhui Deng, Nathaniel Pinckney et al."
+    "source": "arXiv - Nick Oh, Helen Jin"
   },
   {
-    "id": "arxiv_1782777006183_3",
-    "name": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
+    "id": "arxiv_1782784803746_1",
+    "name": "PHF: Privileged Hidden Flow for On-Policy Self-Distillation",
     "category": "ai",
-    "description": "Artificial intelligence is driving a revolution in scientific discovery, accelerating everything from hypothesis generation to mathematical theorem proving. However, this rapid acceleration is creatin...",
-    "link": "http://arxiv.org/abs/2606.28277v1",
+    "description": "On-policy self-distillation (OPSD) trains a reasoning model on rollouts sampled from its own policy by matching a privileged teacher that also sees verified reference solutions. Existing OPSD objectiv...",
+    "link": "http://arxiv.org/abs/2606.29340v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-06-26T17:19:17Z",
+    "date": "2026-06-28T11:15:26Z",
     "trending": false,
-    "source": "arXiv - Rajesh Jayaram, Drew Tyler, David Woodruff et al."
+    "source": "arXiv - Yuhan Li, Mingxu Zhang, Dazhong Shen et al."
   },
   {
-    "id": "arxiv_1782777006260_0",
-    "name": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
-    "category": "nlp",
-    "description": "Artificial intelligence is driving a revolution in scientific discovery, accelerating everything from hypothesis generation to mathematical theorem proving. However, this rapid acceleration is creatin...",
-    "link": "http://arxiv.org/abs/2606.28277v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-06-26T17:19:17Z",
-    "trending": false,
-    "source": "arXiv - Rajesh Jayaram, Drew Tyler, David Woodruff et al."
-  },
-  {
-    "id": "arxiv_1782777006183_4",
-    "name": "Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration",
-    "category": "ai",
-    "description": "Accurate network traffic prediction is a critical element for efficient resource allocation in dynamic urban cellular networks. However, prediction remains challenging because network demand is influe...",
-    "link": "http://arxiv.org/abs/2606.28274v1",
+    "id": "arxiv_1782784803860_2",
+    "name": "Two kinds of robustness are not the same: disentangling fault tolerance and low-SNR robustness in multi-domain event detection on real data",
+    "category": "machine-learning",
+    "description": "Reliable event detection underpins induced-seismicity monitoring for Carbon dioxide Capture and Storage (CCS) and geothermal operations, distributed acoustic sensing (DAS), and industrial condition mo...",
+    "link": "http://arxiv.org/abs/2606.29339v1",
     "tags": [
       "AI",
       "Transformer"
     ],
-    "date": "2026-06-26T17:17:17Z",
+    "date": "2026-06-28T11:14:20Z",
     "trending": false,
-    "source": "arXiv - Abdolazim Rezaei, Mehdi Sookhak, Mahboobeh Haghparast"
+    "source": "arXiv - Isao Kurosawa"
   },
   {
-    "id": "arxiv_1782777006260_1",
-    "name": "Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models",
-    "category": "nlp",
-    "description": "Vision-language models must reconcile visual evidence with memorized world knowledge when the two conflict. How they resolve this conflict shapes the reliability of multimodal systems, yet prior work ...",
-    "link": "http://arxiv.org/abs/2606.28273v1",
-    "tags": [
-      "Vision"
-    ],
-    "date": "2026-06-26T17:16:04Z",
-    "trending": false,
-    "source": "arXiv - Niclas Lietzow, Danielle Bitterman, Carsten Eickhoff et al."
-  },
-  {
-    "id": "arxiv_1782777006211_3",
-    "name": "Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation",
+    "id": "arxiv_1782784803786_0",
+    "name": "W4A4 Quantization for Inference on Wan2.2-I2V-A14B",
     "category": "computer-vision",
-    "description": "Test-time adaptation (TTA) has emerged as a promising paradigm for mitigating distribution shifts in deep models. However, existing TTA approaches for anomaly segmentation remain limited by their reli...",
-    "link": "http://arxiv.org/abs/2606.28268v1",
+    "description": "We summarize our submission to Sub-Challenge 1: W4A4 Quantization for Inference (HiF4 / MXFP4) of the ICME 2026 Low-Bit-width Large-Model Quantization Challenge. The sub-challenge targets 4-bit weight...",
+    "link": "http://arxiv.org/abs/2606.29337v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-28T11:12:52Z",
+    "trending": true,
+    "source": "arXiv - Yidong Chen, Chengyu Shi, Jiahao Liu"
+  },
+  {
+    "id": "arxiv_1782784803746_2",
+    "name": "AMR: Adaptive Modality Routing for Multimodal Polyglot Speaker Identification",
+    "category": "ai",
+    "description": "Multimodal speaker identification systems face two key challenges in real-world deployment: missing modalities and language mismatch between training and testing conditions. In practical scenarios, ba...",
+    "link": "http://arxiv.org/abs/2606.29335v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "BERT"
+    ],
+    "date": "2026-06-28T11:03:52Z",
+    "trending": false,
+    "source": "arXiv - Chuxiao Zuo, Yao Zhu, Minqiang Xu et al."
+  },
+  {
+    "id": "arxiv_1782784803860_3",
+    "name": "AMR: Adaptive Modality Routing for Multimodal Polyglot Speaker Identification",
+    "category": "machine-learning",
+    "description": "Multimodal speaker identification systems face two key challenges in real-world deployment: missing modalities and language mismatch between training and testing conditions. In practical scenarios, ba...",
+    "link": "http://arxiv.org/abs/2606.29335v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "BERT"
+    ],
+    "date": "2026-06-28T11:03:52Z",
+    "trending": false,
+    "source": "arXiv - Chuxiao Zuo, Yao Zhu, Minqiang Xu et al."
+  },
+  {
+    "id": "arxiv_1782784803787_1",
+    "name": "Multi-scale Object-Aware Gaze Estimation via Geometric Reasoning",
+    "category": "computer-vision",
+    "description": "Gaze target estimation aims to predict the semantic object an observer fixates upon within an image, a task deeply rooted in the object-oriented nature of human gaze. Observers tend to select a specif...",
+    "link": "http://arxiv.org/abs/2606.29334v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-06-26T17:04:42Z",
-    "trending": false,
-    "source": "arXiv - Ali Zia, Usman Ali, Abdul Rehman et al."
+    "date": "2026-06-28T11:02:21Z",
+    "trending": true,
+    "source": "arXiv - Jiajie Mi, Xinyu Liu, Mengke Song et al."
   },
   {
-    "id": "arxiv_1782777006211_4",
-    "name": "RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning",
+    "id": "arxiv_1782784803787_2",
+    "name": "HiReFF: High-Resolution Feedforward Human Reconstruction from Uncalibrated Sparse-View Video",
     "category": "computer-vision",
-    "description": "Remote Sensing Image Change Captioning (RSICC) aims to describe changes between bi-temporal remote sensing images and holds significant research and application value. However, most existing methods r...",
-    "link": "http://arxiv.org/abs/2606.28266v1",
+    "description": "Uncalibrated volumetric video streaming for human reconstruction is essential for holographic communication and AR/VR, yet remains challenging due to the need for temporal consistency and computationa...",
+    "link": "http://arxiv.org/abs/2606.29333v1",
     "tags": [
       "AI",
-      "Deep Learning",
+      "Vision",
+      "Optimization"
+    ],
+    "date": "2026-06-28T11:01:36Z",
+    "trending": false,
+    "source": "arXiv - Yiming Jiang, Hanzhang Tu, Wenfeng Song et al."
+  },
+  {
+    "id": "arxiv_1782784803860_4",
+    "name": "Sample Complexity of Scientific Discovery: PAC Learnability of Compositional Function Trees",
+    "category": "machine-learning",
+    "description": "Scientific discovery via symbolic regression is often viewed as statistically and computationally intractable because the hypothesis space of expressions grows combinatorially with depth. This paper r...",
+    "link": "http://arxiv.org/abs/2606.29331v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-28T10:59:01Z",
+    "trending": false,
+    "source": "arXiv - Şuayp Talha Kocabay, Talha Rüzgar Akkuş, Kerem Yalçın"
+  },
+  {
+    "id": "arxiv_1782784803787_3",
+    "name": "RAGA: Real Time Ray Traced Gaussian Shadow Casting for 3DGS Avatar-Scene Interaction",
+    "category": "computer-vision",
+    "description": "We study the problem of physically plausible shadow casting when animating 3D Gaussian Splatting (3DGS) avatars, either individually or in multi-avatar and object-interaction scenarios, within existin...",
+    "link": "http://arxiv.org/abs/2606.29329v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-06-28T10:55:32Z",
+    "trending": false,
+    "source": "arXiv - Aymen Mir, Riza Alp Guler, Jian Wang et al."
+  },
+  {
+    "id": "arxiv_1782784803746_3",
+    "name": "Covering the Unseen: Information Demand Coverage Optimization for Retrieval-Augmented Generation",
+    "category": "ai",
+    "description": "Retrieval-augmented generation (RAG) typically treats context selection as ranking chunks against a single query embedding. This assumption breaks down for complex queries, such as multi-hop or ambigu...",
+    "link": "http://arxiv.org/abs/2606.29328v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-06-28T10:49:04Z",
+    "trending": true,
+    "source": "arXiv - Bingxue Zhang, Jianying Jia, Feida Zhu"
+  },
+  {
+    "id": "arxiv_1782784803787_4",
+    "name": "FDM-MFVT: Few-step Sampling Diffusion Model for Mask-Free Virtual Try-On",
+    "category": "computer-vision",
+    "description": "Image-based Virtual Try-On (IVTON) has greatly advanced through diffusion models, yet existing methods require many sampling steps and depend on masks with costly auxiliary networks. In addition, the ...",
+    "link": "http://arxiv.org/abs/2606.29319v1",
+    "tags": [
+      "AI",
+      "Diffusion",
+      "Optimization"
+    ],
+    "date": "2026-06-28T10:24:45Z",
+    "trending": true,
+    "source": "arXiv - Jiaxin Liu, Xiaoye Liang, Lai Jiang et al."
+  },
+  {
+    "id": "arxiv_1782784803746_4",
+    "name": "Hierarchical Experimentalist Agents",
+    "category": "ai",
+    "description": "Large language models (LLMs) are increasingly used to take actions in the real world and support human decision-making, yet most agents rely on parametric knowledge, fixed post-training data, retrieva...",
+    "link": "http://arxiv.org/abs/2606.29315v1",
+    "tags": [
+      "AI",
       "Vision",
       "LLM"
     ],
-    "date": "2026-06-26T16:57:40Z",
-    "trending": false,
-    "source": "arXiv - Yelin Wang, Zijia Song, Shuo Ye et al."
+    "date": "2026-06-28T10:21:55Z",
+    "trending": true,
+    "source": "arXiv - Abhranil Chandra, Sankaran Vaidyanathan, Utsav Dhanuka et al."
   },
   {
-    "id": "arxiv_1782777006260_2",
-    "name": "HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech",
+    "id": "arxiv_1782784803900_0",
+    "name": "Deterministic Decisions for High-Stakes AI. A Zero-Egress Pipeline with the Deployability of RAG and the Accuracy of Machine Learning",
     "category": "nlp",
-    "description": "Recently, Large Language Model (LLM)-based Text-to-Speech (TTS) models have achieved remarkable naturalness. However, the standard Supervised Fine-Tuning paradigm often converges to statistically aver...",
-    "link": "http://arxiv.org/abs/2606.28249v1",
+    "description": "We identify intervention bias as a previously unquantified failure mode of zero-shot large-language-model (LLM) educational advisory agents: without task-specific training, they recommend action when ...",
+    "link": "http://arxiv.org/abs/2606.29280v1",
     "tags": [
       "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-06-26T16:35:48Z",
-    "trending": false,
-    "source": "arXiv - Sihang Nie, Xiaofen Xing, Rui Xing et al."
-  },
-  {
-    "id": "arxiv_1782777006260_3",
-    "name": "Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction",
-    "category": "nlp",
-    "description": "Predicting human item difficulty is central to educational assessment, where reliable estimates support fairness and effective test construction. Existing methods often depend on costly human calibrat...",
-    "link": "http://arxiv.org/abs/2606.28186v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-06-26T15:32:17Z",
-    "trending": false,
-    "source": "arXiv - Chenguang Wang, Ming Li, Xinyue Zeng et al."
-  },
-  {
-    "id": "arxiv_1782777006260_4",
-    "name": "From Tokens to States: LLMs as a Special Case of World Models and the Continuous Path Beyond",
-    "category": "nlp",
-    "description": "The AI community has framed the relationship between large language models (LLMs) and world models as a dichotomy: LLMs predict tokens; world models simulate reality. Yann LeCun argues in 2022 that re...",
-    "link": "http://arxiv.org/abs/2606.28127v1",
-    "tags": [
-      "AI",
+      "Machine Learning",
       "Transformer",
       "LLM"
     ],
-    "date": "2026-06-26T14:27:50Z",
+    "date": "2026-06-28T08:58:17Z",
+    "trending": true,
+    "source": "arXiv - Craig Atkinson"
+  },
+  {
+    "id": "arxiv_1782784803900_1",
+    "name": "Manufactured Confidence: How Memory Consolidation Turns Hearsay into Confident Facts",
+    "category": "nlp",
+    "description": "LLM agents carry conclusions across steps and sessions in compressed memory, and memory products (e.g., mem0, LangMem) rewrite conversation into stored \"facts\" that later steps trust. We show this rew...",
+    "link": "http://arxiv.org/abs/2606.29279v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-28T08:56:48Z",
     "trending": false,
-    "source": "arXiv - Paul Dubois"
+    "source": "arXiv - Alex Kwon"
+  },
+  {
+    "id": "arxiv_1782784803900_2",
+    "name": "The Complexity Ceiling Benchmark: A Multi-Domain Evaluation of Sequential Reasoning Under Depth Scaling",
+    "category": "nlp",
+    "description": "We introduce the Complexity Ceiling Benchmark (CCB), a controlled evaluation of how language-model reasoning decays as the number of required sequential steps grows. CCB fixes the semantic content of ...",
+    "link": "http://arxiv.org/abs/2606.29278v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-28T08:56:34Z",
+    "trending": false,
+    "source": "arXiv - Shubh Chapra, Dhruv Kumar, Murari Mandal et al."
+  },
+  {
+    "id": "arxiv_1782784803900_3",
+    "name": "A Hybrid Framework for Song Lyric Annotation Based on Human-LLM Alignment",
+    "category": "nlp",
+    "description": "Emotion recognition of song lyrics is a challenging task since lyrics may not necessarily align with the overall emotion of a song. As a result, lyrics annotation remains largely underexplored. Drawin...",
+    "link": "http://arxiv.org/abs/2606.29273v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-06-28T08:41:19Z",
+    "trending": false,
+    "source": "arXiv - Rashini Liyanarachchi, Frank Tran, Md Mahmudul Hasan et al."
+  },
+  {
+    "id": "arxiv_1782784803900_4",
+    "name": "MIThinker: A Plug-and-Play Policy-Optimized Thinker For Motivational Interviewing Counseling",
+    "category": "nlp",
+    "description": "Reasoning large language models (LLMs) have recently made much progress in complex problem-solving, leveraging internal reasoning (or thought) to guide their solution generation. However, existing LLM...",
+    "link": "http://arxiv.org/abs/2606.29265v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-06-28T08:27:28Z",
+    "trending": false,
+    "source": "arXiv - Yizhe Yang, Palakorn Achananuparp, Heyan Huang et al."
   }
 ]
