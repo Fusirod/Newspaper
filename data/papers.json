@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1782931973390_0",
+    "id": "arxiv_1782938619281_0",
     "name": "FaceMoE: Mixture of Experts for Low-Resolution Face Recognition",
     "category": "computer-vision",
     "description": "Low-resolution face recognition (LR-FR) remains a challenging task due to poor feature extraction and aggregation, as probe images often contain limited identity information resulting from extreme deg...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Kartik Narayan, Vishal M. Patel"
   },
   {
-    "id": "arxiv_1782931973390_1",
+    "id": "arxiv_1782938619281_1",
     "name": "GEAR: Guided End-to-End AutoRegression for Image Synthesis",
     "category": "computer-vision",
     "description": "Visual generative models are typically trained in two stages. A tokenizer is first trained for reconstruction and then frozen, after which a generator is trained on its discrete indices or continuous ...",
@@ -23,27 +23,13 @@
       "Diffusion"
     ],
     "date": "2026-06-30T17:59:57Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Bin Lin, Zheyuan Liu, Chenguo Lin et al."
   },
   {
-    "id": "arxiv_1782931973172_0",
+    "id": "arxiv_1782938619260_0",
     "name": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
     "category": "ai",
-    "description": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features o...",
-    "link": "http://arxiv.org/abs/2606.32038v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-06-30T17:59:32Z",
-    "trending": false,
-    "source": "arXiv - Zifan Carl Guo, Laura Ruis, Jacob Andreas et al."
-  },
-  {
-    "id": "arxiv_1782931973459_0",
-    "name": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
-    "category": "machine-learning",
     "description": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features o...",
     "link": "http://arxiv.org/abs/2606.32038v1",
     "tags": [
@@ -55,7 +41,21 @@
     "source": "arXiv - Zifan Carl Guo, Laura Ruis, Jacob Andreas et al."
   },
   {
-    "id": "arxiv_1782931973527_0",
+    "id": "arxiv_1782938619295_0",
+    "name": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
+    "category": "machine-learning",
+    "description": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features o...",
+    "link": "http://arxiv.org/abs/2606.32038v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-06-30T17:59:32Z",
+    "trending": false,
+    "source": "arXiv - Zifan Carl Guo, Laura Ruis, Jacob Andreas et al."
+  },
+  {
+    "id": "arxiv_1782938619311_0",
     "name": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
     "category": "nlp",
     "description": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features o...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Zifan Carl Guo, Laura Ruis, Jacob Andreas et al."
   },
   {
-    "id": "arxiv_1782931973391_2",
+    "id": "arxiv_1782938619281_2",
     "name": "PointSplat: Compact Gaussian Splatting via Human-Centric Prediction",
     "category": "computer-vision",
     "description": "Producing 3D human representations from input views on the fly is essential for immersive live streaming systems, where representation compactness is as critical as high fidelity given limited computa...",
@@ -78,11 +78,11 @@
       "Transformer"
     ],
     "date": "2026-06-30T17:59:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yujie Guo, Yudong Jin, Lingteng Qiu et al."
   },
   {
-    "id": "arxiv_1782931973172_1",
+    "id": "arxiv_1782938619261_1",
     "name": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
     "category": "ai",
     "description": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to ...",
@@ -97,7 +97,7 @@
     "source": "arXiv - Sergio Hernández-Gutiérrez, Matteo Merler, Ilze Amanda Auzina et al."
   },
   {
-    "id": "arxiv_1782931973459_1",
+    "id": "arxiv_1782938619295_1",
     "name": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
     "category": "machine-learning",
     "description": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to ...",
@@ -112,7 +112,7 @@
     "source": "arXiv - Sergio Hernández-Gutiérrez, Matteo Merler, Ilze Amanda Auzina et al."
   },
   {
-    "id": "arxiv_1782931973527_1",
+    "id": "arxiv_1782938619311_1",
     "name": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
     "category": "nlp",
     "description": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to ...",
@@ -127,7 +127,7 @@
     "source": "arXiv - Sergio Hernández-Gutiérrez, Matteo Merler, Ilze Amanda Auzina et al."
   },
   {
-    "id": "arxiv_1782931973391_3",
+    "id": "arxiv_1782938619281_3",
     "name": "SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE",
     "category": "computer-vision",
     "description": "We present a zero-shot, training-free and optimization-free framework for generating 360 panoramic images and videos by directly injecting spherical priors into pre-trained diffusion transformers. Exi...",
@@ -143,7 +143,7 @@
     "source": "arXiv - Or Hirschorn, Aaron Olender, Eli Alshan et al."
   },
   {
-    "id": "arxiv_1782931973172_2",
+    "id": "arxiv_1782938619261_2",
     "name": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
     "category": "ai",
     "description": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive facu...",
@@ -159,7 +159,7 @@
     "source": "arXiv - Gabrielle Kaili-May Liu, Avi Caciularu, Gal Yona et al."
   },
   {
-    "id": "arxiv_1782931973527_2",
+    "id": "arxiv_1782938619311_2",
     "name": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
     "category": "nlp",
     "description": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive facu...",
@@ -175,7 +175,7 @@
     "source": "arXiv - Gabrielle Kaili-May Liu, Avi Caciularu, Gal Yona et al."
   },
   {
-    "id": "arxiv_1782931973172_3",
+    "id": "arxiv_1782938619261_3",
     "name": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
     "category": "ai",
     "description": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table struc...",
@@ -189,7 +189,7 @@
     "source": "arXiv - Yuqing Yang, Qi Zhu, Zhen Han et al."
   },
   {
-    "id": "arxiv_1782931973527_3",
+    "id": "arxiv_1782938619311_3",
     "name": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
     "category": "nlp",
     "description": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table struc...",
@@ -203,7 +203,7 @@
     "source": "arXiv - Yuqing Yang, Qi Zhu, Zhen Han et al."
   },
   {
-    "id": "arxiv_1782931973172_4",
+    "id": "arxiv_1782938619261_4",
     "name": "Freeform Preference Learning for Robotic Manipulation",
     "category": "ai",
     "description": "Reward design remains a central bottleneck for autonomous robot policy improvement, especially in long-horizon manipulation tasks where sparse success labels provide too little signal and binary prefe...",
@@ -212,11 +212,11 @@
       "AI"
     ],
     "date": "2026-06-30T17:54:02Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Marcel Torne, Anubha Mahajan, Abhijnya Bhat et al."
   },
   {
-    "id": "arxiv_1782931973459_2",
+    "id": "arxiv_1782938619295_2",
     "name": "Freeform Preference Learning for Robotic Manipulation",
     "category": "machine-learning",
     "description": "Reward design remains a central bottleneck for autonomous robot policy improvement, especially in long-horizon manipulation tasks where sparse success labels provide too little signal and binary prefe...",
@@ -229,7 +229,7 @@
     "source": "arXiv - Marcel Torne, Anubha Mahajan, Abhijnya Bhat et al."
   },
   {
-    "id": "arxiv_1782931973459_3",
+    "id": "arxiv_1782938619295_3",
     "name": "AdaJEPA: An Adaptive Latent World Model",
     "category": "machine-learning",
     "description": "Latent world models enable planning from high-dimensional observations by predicting future states in a compact latent space. However, these models are typically kept frozen at test time: when their p...",
@@ -242,7 +242,7 @@
     "source": "arXiv - Ying Wang, Oumayma Bounou, Yann LeCun et al."
   },
   {
-    "id": "arxiv_1782931973527_4",
+    "id": "arxiv_1782938619311_4",
     "name": "Generative Skill Composition for LLM Agents",
     "category": "nlp",
     "description": "Recent LLM agents benefit from skills for solving complex tasks. Skills encapsulate modular packages of procedural knowledge and instructions for performing specialized tasks, such as setting up a san...",
@@ -257,7 +257,7 @@
     "source": "arXiv - Xinyu Zhao, Zhen Tan, Vaishnav Tadiparthi et al."
   },
   {
-    "id": "arxiv_1782931973391_4",
+    "id": "arxiv_1782938619281_4",
     "name": "FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data",
     "category": "computer-vision",
     "description": "Forest attributes are essential for national-scale resource monitoring. Airborne LiDAR metrics are among the auxiliary variables most strongly correlated with forest attributes used in National Forest...",
@@ -271,7 +271,7 @@
     "source": "arXiv - Emilie Vautier, Clément Mallet, Cédric Vega"
   },
   {
-    "id": "arxiv_1782931973459_4",
+    "id": "arxiv_1782938619295_4",
     "name": "SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models",
     "category": "machine-learning",
     "description": "Residual-stream analysis asks how language-model computation evolves across depth, but intermediate decoding requires comparable readout coordinates across layers. If embedding anchors and unembedding...",
@@ -280,7 +280,7 @@
       "AI"
     ],
     "date": "2026-06-30T17:52:22Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jian Gu, Aldeida Aleti, Chunyang Chen et al."
   }
 ]
