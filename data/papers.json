@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1783004540072_0",
+    "id": "arxiv_1783012964647_0",
     "name": "Measuring the Gap Between Human and LLM Research Ideas",
     "category": "ai",
     "description": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g...",
@@ -10,11 +10,11 @@
       "LLM"
     ],
     "date": "2026-07-01T17:59:56Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ziyu Chen, Yilun Zhao, Arman Cohan"
   },
   {
-    "id": "arxiv_1783004540360_0",
+    "id": "arxiv_1783012965081_0",
     "name": "Measuring the Gap Between Human and LLM Research Ideas",
     "category": "nlp",
     "description": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g...",
@@ -24,11 +24,11 @@
       "LLM"
     ],
     "date": "2026-07-01T17:59:56Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ziyu Chen, Yilun Zhao, Arman Cohan"
   },
   {
-    "id": "arxiv_1783004540345_0",
+    "id": "arxiv_1783012964864_0",
     "name": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
     "category": "machine-learning",
     "description": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Exi...",
@@ -44,7 +44,7 @@
     "source": "arXiv - Zijian Zhang, Rizhen Hu, Athanasios Glentis et al."
   },
   {
-    "id": "arxiv_1783004540360_1",
+    "id": "arxiv_1783012965081_1",
     "name": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
     "category": "nlp",
     "description": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Exi...",
@@ -60,7 +60,7 @@
     "source": "arXiv - Zijian Zhang, Rizhen Hu, Athanasios Glentis et al."
   },
   {
-    "id": "arxiv_1783004540072_1",
+    "id": "arxiv_1783012964647_1",
     "name": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
     "category": "ai",
     "description": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scal...",
@@ -76,7 +76,7 @@
     "source": "arXiv - Chih-Han Yang, Dai-Jie Wu, Yun-Ping Huang et al."
   },
   {
-    "id": "arxiv_1783004540345_1",
+    "id": "arxiv_1783012964864_1",
     "name": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
     "category": "machine-learning",
     "description": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scal...",
@@ -88,11 +88,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-07-01T17:57:22Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Chih-Han Yang, Dai-Jie Wu, Yun-Ping Huang et al."
   },
   {
-    "id": "arxiv_1783004540072_2",
+    "id": "arxiv_1783012964647_2",
     "name": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
     "category": "ai",
     "description": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by ...",
@@ -108,7 +108,7 @@
     "source": "arXiv - Shengguang Wu, Hao Zhu, Yuhui Zhang et al."
   },
   {
-    "id": "arxiv_1783004540360_2",
+    "id": "arxiv_1783012965081_2",
     "name": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
     "category": "nlp",
     "description": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by ...",
@@ -124,7 +124,7 @@
     "source": "arXiv - Shengguang Wu, Hao Zhu, Yuhui Zhang et al."
   },
   {
-    "id": "arxiv_1783004540073_3",
+    "id": "arxiv_1783012964647_3",
     "name": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
     "category": "ai",
     "description": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that...",
@@ -134,11 +134,11 @@
       "LLM"
     ],
     "date": "2026-07-01T17:56:42Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ben Slivinski, Michael Saldivar"
   },
   {
-    "id": "arxiv_1783004540345_2",
+    "id": "arxiv_1783012964864_2",
     "name": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
     "category": "machine-learning",
     "description": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that...",
@@ -152,7 +152,7 @@
     "source": "arXiv - Ben Slivinski, Michael Saldivar"
   },
   {
-    "id": "arxiv_1783004540360_3",
+    "id": "arxiv_1783012965081_3",
     "name": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
     "category": "nlp",
     "description": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that...",
@@ -166,7 +166,7 @@
     "source": "arXiv - Ben Slivinski, Michael Saldivar"
   },
   {
-    "id": "arxiv_1783004540331_0",
+    "id": "arxiv_1783012964846_0",
     "name": "Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models",
     "category": "computer-vision",
     "description": "Recent 3D generative models can synthesize high-quality geometry but often struggle to reproduce intricate textures from reference images, largely due to the scarcity of large-scale 3D training data w...",
@@ -180,7 +180,7 @@
     "source": "arXiv - Yue Han, Chong Li, Zhening Liu et al."
   },
   {
-    "id": "arxiv_1783004540073_4",
+    "id": "arxiv_1783012964648_4",
     "name": "The State-Prediction Separation Hypothesis",
     "category": "ai",
     "description": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}:...",
@@ -194,7 +194,7 @@
     "source": "arXiv - Giovanni Monea, Nathan Godey, Kianté Brantley et al."
   },
   {
-    "id": "arxiv_1783004540345_3",
+    "id": "arxiv_1783012964864_3",
     "name": "The State-Prediction Separation Hypothesis",
     "category": "machine-learning",
     "description": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}:...",
@@ -208,7 +208,7 @@
     "source": "arXiv - Giovanni Monea, Nathan Godey, Kianté Brantley et al."
   },
   {
-    "id": "arxiv_1783004540360_4",
+    "id": "arxiv_1783012965081_4",
     "name": "The State-Prediction Separation Hypothesis",
     "category": "nlp",
     "description": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}:...",
@@ -218,11 +218,11 @@
       "Transformer"
     ],
     "date": "2026-07-01T17:55:09Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Giovanni Monea, Nathan Godey, Kianté Brantley et al."
   },
   {
-    "id": "arxiv_1783004540345_4",
+    "id": "arxiv_1783012964865_4",
     "name": "Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
     "category": "machine-learning",
     "description": "Language models deployed in high-stakes roles can potentially favor certain entities, brands, or viewpoints, steering user decisions at scale. Such preferential biases can be introduced by any actor i...",
@@ -236,7 +236,7 @@
     "source": "arXiv - Shayan Talaei, Abhinav Chinta, Devvrit Khatri et al."
   },
   {
-    "id": "arxiv_1783004540332_1",
+    "id": "arxiv_1783012964846_1",
     "name": "Linkify: Learning from Interface-Augmented Assembly Graphs",
     "category": "computer-vision",
     "description": "We present Linkify, a framework for learning from interface-augmented assembly graphs to enable context-aware part retrieval in mechanical assemblies. While recent generative AI methods for CAD have f...",
@@ -245,11 +245,11 @@
       "AI"
     ],
     "date": "2026-07-01T17:45:51Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Anushrut Jignasu, Daniele Grandi"
   },
   {
-    "id": "arxiv_1783004540332_2",
+    "id": "arxiv_1783012964847_2",
     "name": "World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video",
     "category": "computer-vision",
     "description": "We present World from Motion, a method for generating freely renderable dynamic 3D Gaussian representations from monocular videos. Our approach conditions a video model on dense, pixel-aligned renderi...",
@@ -258,11 +258,11 @@
       "AI"
     ],
     "date": "2026-07-01T17:41:00Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Liyuan Zhu, Shengyu Huang, Amrita Mazumdar et al."
   },
   {
-    "id": "arxiv_1783004540332_3",
+    "id": "arxiv_1783012964847_3",
     "name": "Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning",
     "category": "computer-vision",
     "description": "Fine-grained visual reasoning remains challenging for vision-language models, especially when small but critical visual cues are buried in high-resolution images. Existing approaches rely on repeated ...",
@@ -277,7 +277,7 @@
     "source": "arXiv - Hongxing Li, Xiufeng Huang, Dingming Li et al."
   },
   {
-    "id": "arxiv_1783004540332_4",
+    "id": "arxiv_1783012964847_4",
     "name": "High-dimensional Embedding Prior for Noisy K-space Domain MRIReconstruction",
     "category": "computer-vision",
     "description": "Magnetic resonance imaging (MRI) reconstruction under realistic acquisition conditions can be fundamentally viewed as estimating the underlying k-space distribution from incomplete and noise-corrupted...",
@@ -288,7 +288,7 @@
       "Optimization"
     ],
     "date": "2026-07-01T17:08:17Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yu Guan, Tianjia Huang, Qinrong Cai et al."
   }
 ]
