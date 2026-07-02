@@ -1,6 +1,61 @@
 [
   {
-    "id": "rss_Ars_Technica_1783012968772_0",
+    "id": "rss_TechCrunch_1783019083186_0",
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+    "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Thu, 02 Jul 2026 18:44:02 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1783019083186_1",
+    "title": "Anthropic is discussing a new custom chip with Samsung",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. ",
+    "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Thu, 02 Jul 2026 18:31:09 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1783019087837_0",
+    "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+    "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Thu, 02 Jul 2026 18:01:20 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783019086749_0",
+    "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        New US rules would legalize quiet supersonic flights without the sonic boom.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 02 Jul 2026 17:29:37 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783019086749_1",
     "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -8,10 +63,10 @@
     "link": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/",
     "tags": [],
     "date": "Thu, 02 Jul 2026 16:46:47 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1783012968773_1",
+    "id": "rss_Ars_Technica_1783019086749_2",
     "title": "Plex debuts 5-year membership pass for $250",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -22,7 +77,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783012968773_2",
+    "id": "rss_Ars_Technica_1783019086749_3",
     "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -30,10 +85,10 @@
     "link": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
     "tags": [],
     "date": "Thu, 02 Jul 2026 16:30:37 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783012968773_3",
+    "id": "rss_Ars_Technica_1783019086749_4",
     "title": "Artificial cell manages a few rounds of cell division",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -46,20 +101,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783012968773_4",
-    "title": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The EU went after Google for the practice of bundling its search engine and browser with Android.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
-    "tags": [
-      "Google"
-    ],
-    "date": "Thu, 02 Jul 2026 16:15:41 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1783012967520_0",
+    "id": "rss_MIT_Tech_Review_1783019085577_0",
     "title": "Achieving operational excellence with AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -69,10 +111,10 @@
       "AI"
     ],
     "date": "Thu, 02 Jul 2026 15:37:08 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783012965227_0",
+    "id": "rss_TechCrunch_1783019083186_2",
     "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -86,7 +128,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783012965228_1",
+    "id": "rss_TechCrunch_1783019083186_3",
     "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -101,7 +143,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783012967520_1",
+    "id": "rss_MIT_Tech_Review_1783019085577_1",
     "title": "Teaching AI to run with the turbines",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -112,10 +154,10 @@
       "Chatbot"
     ],
     "date": "Thu, 02 Jul 2026 12:51:44 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1783012967520_2",
+    "id": "rss_MIT_Tech_Review_1783019085577_2",
     "title": "The Download: a startup has a solution for AI’s groupthink problem",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -131,7 +173,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783012965228_2",
+    "id": "rss_TechCrunch_1783019083186_4",
     "title": "Yep, we’re using OpenClaw to date now",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -142,7 +184,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1783012969853_0",
+    "id": "rss_Wired_1783019087838_1",
     "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
     "category": "ai-news",
     "source": "Wired",
@@ -152,10 +194,10 @@
       "Meta"
     ],
     "date": "Thu, 02 Jul 2026 09:30:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783012967520_3",
+    "id": "rss_MIT_Tech_Review_1783019085578_3",
     "title": "Why California’s carbon manure math doesn’t add up",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -165,25 +207,10 @@
       "AI"
     ],
     "date": "Thu, 02 Jul 2026 09:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1783012965228_3",
-    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
-    "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-    "tags": [
-      "AI",
-      "Google",
-      "Microsoft"
-    ],
-    "date": "Thu, 02 Jul 2026 05:30:00 +0000",
     "trending": true
   },
   {
-    "id": "rss_Wired_1783012969853_1",
+    "id": "rss_Wired_1783019087838_2",
     "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
     "category": "ai-news",
     "source": "Wired",
@@ -194,20 +221,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783012965228_4",
-    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
-    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 01 Jul 2026 18:54:18 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1783012969853_2",
+    "id": "rss_Wired_1783019087838_3",
     "title": "You Can Now Sound the Alarm on AI Behaving Badly",
     "category": "ai-news",
     "source": "Wired",
@@ -221,7 +235,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783012969853_3",
+    "id": "rss_Wired_1783019087838_4",
     "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
     "category": "ai-news",
     "source": "Wired",
@@ -231,10 +245,10 @@
       "AI"
     ],
     "date": "Wed, 01 Jul 2026 16:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1783012967520_4",
+    "id": "rss_MIT_Tech_Review_1783019085578_4",
     "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -247,21 +261,10 @@
       "LLM"
     ],
     "date": "Wed, 01 Jul 2026 14:35:16 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1783012969853_4",
-    "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "A researcher found that using Anthropic���s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
-    "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
-    "tags": [],
-    "date": "Wed, 01 Jul 2026 10:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Distill_1783012977971_0",
+    "id": "rss_Distill_1783019096743_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -274,7 +277,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783012977971_1",
+    "id": "rss_Distill_1783019096743_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -287,7 +290,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783012977971_2",
+    "id": "rss_Distill_1783019096743_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -295,10 +298,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1783012977971_3",
+    "id": "rss_Distill_1783019096743_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -308,10 +311,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1783012977971_4",
+    "id": "rss_Distill_1783019096743_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
