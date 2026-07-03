@@ -1,186 +1,244 @@
 [
   {
-    "id": "arxiv_1783036443997_0",
-    "name": "Measuring the Gap Between Human and LLM Research Ideas",
-    "category": "ai",
-    "description": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g...",
-    "link": "http://arxiv.org/abs/2607.01233v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-01T17:59:56Z",
-    "trending": true,
-    "source": "arXiv - Ziyu Chen, Yilun Zhao, Arman Cohan"
-  },
-  {
-    "id": "arxiv_1783036444252_0",
-    "name": "Measuring the Gap Between Human and LLM Research Ideas",
-    "category": "nlp",
-    "description": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g...",
-    "link": "http://arxiv.org/abs/2607.01233v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-01T17:59:56Z",
-    "trending": true,
-    "source": "arXiv - Ziyu Chen, Yilun Zhao, Arman Cohan"
-  },
-  {
-    "id": "arxiv_1783036444164_0",
-    "name": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
-    "category": "machine-learning",
-    "description": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Exi...",
-    "link": "http://arxiv.org/abs/2607.01232v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-07-01T17:59:54Z",
-    "trending": false,
-    "source": "arXiv - Zijian Zhang, Rizhen Hu, Athanasios Glentis et al."
-  },
-  {
-    "id": "arxiv_1783036444252_1",
-    "name": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
-    "category": "nlp",
-    "description": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Exi...",
-    "link": "http://arxiv.org/abs/2607.01232v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-07-01T17:59:54Z",
-    "trending": true,
-    "source": "arXiv - Zijian Zhang, Rizhen Hu, Athanasios Glentis et al."
-  },
-  {
-    "id": "arxiv_1783036443997_1",
-    "name": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
-    "category": "ai",
-    "description": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scal...",
-    "link": "http://arxiv.org/abs/2607.01225v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Diffusion",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-07-01T17:57:22Z",
-    "trending": false,
-    "source": "arXiv - Chih-Han Yang, Dai-Jie Wu, Yun-Ping Huang et al."
-  },
-  {
-    "id": "arxiv_1783036444164_1",
-    "name": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
-    "category": "machine-learning",
-    "description": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scal...",
-    "link": "http://arxiv.org/abs/2607.01225v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Diffusion",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-07-01T17:57:22Z",
-    "trending": false,
-    "source": "arXiv - Chih-Han Yang, Dai-Jie Wu, Yun-Ping Huang et al."
-  },
-  {
-    "id": "arxiv_1783036443998_2",
-    "name": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
-    "category": "ai",
-    "description": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by ...",
-    "link": "http://arxiv.org/abs/2607.01224v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-07-01T17:57:03Z",
-    "trending": false,
-    "source": "arXiv - Shengguang Wu, Hao Zhu, Yuhui Zhang et al."
-  },
-  {
-    "id": "arxiv_1783036444253_2",
-    "name": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
-    "category": "nlp",
-    "description": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by ...",
-    "link": "http://arxiv.org/abs/2607.01224v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-07-01T17:57:03Z",
-    "trending": false,
-    "source": "arXiv - Shengguang Wu, Hao Zhu, Yuhui Zhang et al."
-  },
-  {
-    "id": "arxiv_1783036443998_3",
-    "name": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
-    "category": "ai",
-    "description": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that...",
-    "link": "http://arxiv.org/abs/2607.01223v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-01T17:56:42Z",
-    "trending": false,
-    "source": "arXiv - Ben Slivinski, Michael Saldivar"
-  },
-  {
-    "id": "arxiv_1783036444165_2",
-    "name": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
-    "category": "machine-learning",
-    "description": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that...",
-    "link": "http://arxiv.org/abs/2607.01223v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-01T17:56:42Z",
-    "trending": false,
-    "source": "arXiv - Ben Slivinski, Michael Saldivar"
-  },
-  {
-    "id": "arxiv_1783036444253_3",
-    "name": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
-    "category": "nlp",
-    "description": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that...",
-    "link": "http://arxiv.org/abs/2607.01223v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-01T17:56:42Z",
-    "trending": false,
-    "source": "arXiv - Ben Slivinski, Michael Saldivar"
-  },
-  {
-    "id": "arxiv_1783036444082_0",
-    "name": "Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models",
+    "id": "arxiv_1783042179642_0",
+    "name": "The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection",
     "category": "computer-vision",
-    "description": "Recent 3D generative models can synthesize high-quality geometry but often struggle to reproduce intricate textures from reference images, largely due to the scarcity of large-scale 3D training data w...",
-    "link": "http://arxiv.org/abs/2607.01222v1",
+    "description": "Vision-Language-Action (VLA) models have shown remarkable promise in generalized robotic manipulation. However, their spatial generalization remains fragile. We argue that simply increasing the number...",
+    "link": "http://arxiv.org/abs/2607.02322v1",
     "tags": [
       "AI",
-      "Neural"
+      "Vision",
+      "Diffusion"
     ],
-    "date": "2026-07-01T17:56:39Z",
+    "date": "2026-07-02T15:30:26Z",
     "trending": false,
-    "source": "arXiv - Yue Han, Chong Li, Zhening Liu et al."
+    "source": "arXiv - Jincheng Tang, Yilong Zhu, Zhengyuan Xie et al."
   },
   {
-    "id": "arxiv_1783036443998_4",
+    "id": "arxiv_1783042179643_1",
+    "name": "NEvo: Neural-Guided Evolutionary Video Synthesis for Dynamic Visual Selectivity",
+    "category": "computer-vision",
+    "description": "The human brain processes dynamic visual input through hierarchically organized, functionally specialized regions. While recent in silico brain encoding models can synthesize optimal stimuli to probe ...",
+    "link": "http://arxiv.org/abs/2607.02317v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "GAN"
+    ],
+    "date": "2026-07-02T15:27:39Z",
+    "trending": false,
+    "source": "arXiv - Yingtian Tang, Sogand Salehi, Ming Zhou et al."
+  },
+  {
+    "id": "arxiv_1783042179643_2",
+    "name": "InvSplat: Inverse Feed-Forward Scene Splatting",
+    "category": "computer-vision",
+    "description": "Inverse rendering aims to recover both 3D geometry and physically meaningful material properties from images, enabling applications such as relighting and novel view synthesis. Optimization-based meth...",
+    "link": "http://arxiv.org/abs/2607.02301v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-07-02T15:18:08Z",
+    "trending": true,
+    "source": "arXiv - Polina Karpikova, Wenjing Bian, Haofei Xu et al."
+  },
+  {
+    "id": "arxiv_1783042179643_3",
+    "name": "Search-based Testing of Vision Language Models for In-Car Scene Understanding",
+    "category": "computer-vision",
+    "description": "In the automotive domain, in-car scene understanding (ISU) enables the detection of safety-critical events, such as driver distraction, and supports drivers or passengers by analyzing the in-car scene...",
+    "link": "http://arxiv.org/abs/2607.02300v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Optimization"
+    ],
+    "date": "2026-07-02T15:17:44Z",
+    "trending": false,
+    "source": "arXiv - Lev Sorokin, Chen Yang, Ken E. Friedl et al."
+  },
+  {
+    "id": "arxiv_1783042179643_4",
+    "name": "Dual-Selective Network for Domain-Incremental Change Detection",
+    "category": "computer-vision",
+    "description": "Domain-incremental change detection (DICD) continuously adapts models to new geographic domains while preserving prior knowledge. However, a structural mismatch exists: the label space remains fixed w...",
+    "link": "http://arxiv.org/abs/2607.02299v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-02T15:17:36Z",
+    "trending": false,
+    "source": "arXiv - Yuzhi He, Junxi Huang, Haorui Wu et al."
+  },
+  {
+    "id": "arxiv_1783042179467_0",
+    "name": "Measuring the Gap Between Human and LLM Research Ideas",
+    "category": "ai",
+    "description": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g...",
+    "link": "http://arxiv.org/abs/2607.01233v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-07-01T17:59:56Z",
+    "trending": true,
+    "source": "arXiv - Ziyu Chen, Yilun Zhao, Arman Cohan"
+  },
+  {
+    "id": "arxiv_1783042179676_0",
+    "name": "Measuring the Gap Between Human and LLM Research Ideas",
+    "category": "nlp",
+    "description": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g...",
+    "link": "http://arxiv.org/abs/2607.01233v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-07-01T17:59:56Z",
+    "trending": false,
+    "source": "arXiv - Ziyu Chen, Yilun Zhao, Arman Cohan"
+  },
+  {
+    "id": "arxiv_1783042179661_0",
+    "name": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+    "category": "machine-learning",
+    "description": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Exi...",
+    "link": "http://arxiv.org/abs/2607.01232v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-07-01T17:59:54Z",
+    "trending": false,
+    "source": "arXiv - Zijian Zhang, Rizhen Hu, Athanasios Glentis et al."
+  },
+  {
+    "id": "arxiv_1783042179677_1",
+    "name": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+    "category": "nlp",
+    "description": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Exi...",
+    "link": "http://arxiv.org/abs/2607.01232v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-07-01T17:59:54Z",
+    "trending": true,
+    "source": "arXiv - Zijian Zhang, Rizhen Hu, Athanasios Glentis et al."
+  },
+  {
+    "id": "arxiv_1783042179467_1",
+    "name": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
+    "category": "ai",
+    "description": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scal...",
+    "link": "http://arxiv.org/abs/2607.01225v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-07-01T17:57:22Z",
+    "trending": true,
+    "source": "arXiv - Chih-Han Yang, Dai-Jie Wu, Yun-Ping Huang et al."
+  },
+  {
+    "id": "arxiv_1783042179661_1",
+    "name": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
+    "category": "machine-learning",
+    "description": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scal...",
+    "link": "http://arxiv.org/abs/2607.01225v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-07-01T17:57:22Z",
+    "trending": false,
+    "source": "arXiv - Chih-Han Yang, Dai-Jie Wu, Yun-Ping Huang et al."
+  },
+  {
+    "id": "arxiv_1783042179467_2",
+    "name": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+    "category": "ai",
+    "description": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by ...",
+    "link": "http://arxiv.org/abs/2607.01224v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-07-01T17:57:03Z",
+    "trending": true,
+    "source": "arXiv - Shengguang Wu, Hao Zhu, Yuhui Zhang et al."
+  },
+  {
+    "id": "arxiv_1783042179677_2",
+    "name": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+    "category": "nlp",
+    "description": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by ...",
+    "link": "http://arxiv.org/abs/2607.01224v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-07-01T17:57:03Z",
+    "trending": false,
+    "source": "arXiv - Shengguang Wu, Hao Zhu, Yuhui Zhang et al."
+  },
+  {
+    "id": "arxiv_1783042179468_3",
+    "name": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
+    "category": "ai",
+    "description": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that...",
+    "link": "http://arxiv.org/abs/2607.01223v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-07-01T17:56:42Z",
+    "trending": false,
+    "source": "arXiv - Ben Slivinski, Michael Saldivar"
+  },
+  {
+    "id": "arxiv_1783042179661_2",
+    "name": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
+    "category": "machine-learning",
+    "description": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that...",
+    "link": "http://arxiv.org/abs/2607.01223v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-07-01T17:56:42Z",
+    "trending": true,
+    "source": "arXiv - Ben Slivinski, Michael Saldivar"
+  },
+  {
+    "id": "arxiv_1783042179677_3",
+    "name": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
+    "category": "nlp",
+    "description": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that...",
+    "link": "http://arxiv.org/abs/2607.01223v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-07-01T17:56:42Z",
+    "trending": false,
+    "source": "arXiv - Ben Slivinski, Michael Saldivar"
+  },
+  {
+    "id": "arxiv_1783042179468_4",
     "name": "The State-Prediction Separation Hypothesis",
     "category": "ai",
     "description": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}:...",
@@ -194,7 +252,7 @@
     "source": "arXiv - Giovanni Monea, Nathan Godey, Kianté Brantley et al."
   },
   {
-    "id": "arxiv_1783036444165_3",
+    "id": "arxiv_1783042179661_3",
     "name": "The State-Prediction Separation Hypothesis",
     "category": "machine-learning",
     "description": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}:...",
@@ -208,7 +266,7 @@
     "source": "arXiv - Giovanni Monea, Nathan Godey, Kianté Brantley et al."
   },
   {
-    "id": "arxiv_1783036444253_4",
+    "id": "arxiv_1783042179677_4",
     "name": "The State-Prediction Separation Hypothesis",
     "category": "nlp",
     "description": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}:...",
@@ -218,11 +276,11 @@
       "Transformer"
     ],
     "date": "2026-07-01T17:55:09Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Giovanni Monea, Nathan Godey, Kianté Brantley et al."
   },
   {
-    "id": "arxiv_1783036444165_4",
+    "id": "arxiv_1783042179661_4",
     "name": "Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
     "category": "machine-learning",
     "description": "Language models deployed in high-stakes roles can potentially favor certain entities, brands, or viewpoints, steering user decisions at scale. Such preferential biases can be introduced by any actor i...",
@@ -232,63 +290,7 @@
       "LLM"
     ],
     "date": "2026-07-01T17:46:33Z",
-    "trending": false,
-    "source": "arXiv - Shayan Talaei, Abhinav Chinta, Devvrit Khatri et al."
-  },
-  {
-    "id": "arxiv_1783036444082_1",
-    "name": "Linkify: Learning from Interface-Augmented Assembly Graphs",
-    "category": "computer-vision",
-    "description": "We present Linkify, a framework for learning from interface-augmented assembly graphs to enable context-aware part retrieval in mechanical assemblies. While recent generative AI methods for CAD have f...",
-    "link": "http://arxiv.org/abs/2607.01205v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-01T17:45:51Z",
     "trending": true,
-    "source": "arXiv - Anushrut Jignasu, Daniele Grandi"
-  },
-  {
-    "id": "arxiv_1783036444082_2",
-    "name": "World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video",
-    "category": "computer-vision",
-    "description": "We present World from Motion, a method for generating freely renderable dynamic 3D Gaussian representations from monocular videos. Our approach conditions a video model on dense, pixel-aligned renderi...",
-    "link": "http://arxiv.org/abs/2607.01202v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-01T17:41:00Z",
-    "trending": false,
-    "source": "arXiv - Liyuan Zhu, Shengyu Huang, Amrita Mazumdar et al."
-  },
-  {
-    "id": "arxiv_1783036444083_3",
-    "name": "Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning",
-    "category": "computer-vision",
-    "description": "Fine-grained visual reasoning remains challenging for vision-language models, especially when small but critical visual cues are buried in high-resolution images. Existing approaches rely on repeated ...",
-    "link": "http://arxiv.org/abs/2607.01191v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-07-01T17:24:26Z",
-    "trending": false,
-    "source": "arXiv - Hongxing Li, Xiufeng Huang, Dingming Li et al."
-  },
-  {
-    "id": "arxiv_1783036444083_4",
-    "name": "High-dimensional Embedding Prior for Noisy K-space Domain MRIReconstruction",
-    "category": "computer-vision",
-    "description": "Magnetic resonance imaging (MRI) reconstruction under realistic acquisition conditions can be fundamentally viewed as estimating the underlying k-space distribution from incomplete and noise-corrupted...",
-    "link": "http://arxiv.org/abs/2607.01176v1",
-    "tags": [
-      "AI",
-      "Diffusion",
-      "Optimization"
-    ],
-    "date": "2026-07-01T17:08:17Z",
-    "trending": false,
-    "source": "arXiv - Yu Guan, Tianjia Huang, Qinrong Cai et al."
+    "source": "arXiv - Shayan Talaei, Abhinav Chinta, Devvrit Khatri et al."
   }
 ]
