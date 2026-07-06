@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1783366036582_0",
+    "id": "arxiv_1783372638287_0",
     "name": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
     "category": "computer-vision",
     "description": "We present WorldDirector, a highly controllable video world model framework designed for persistent dynamic object memory and unrestricted viewpoint exploration. Unlike existing world models that enta...",
@@ -10,11 +10,11 @@
       "LLM"
     ],
     "date": "2026-07-02T17:59:59Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hanlin Wang, Hao Ouyang, Qiuyu Wang et al."
   },
   {
-    "id": "arxiv_1783366036582_1",
+    "id": "arxiv_1783372638288_1",
     "name": "Alignment Is All You Need For X-to-4D Generation",
     "category": "computer-vision",
     "description": "Generative diffusion models excel at synthesizing high-quality images, videos, and 3D content under multimodal control. However, arbitrary user-defined modality-to-4D (X-to-4D) generation remains chal...",
@@ -29,7 +29,7 @@
     "source": "arXiv - Qiaowei Miao, Kehan Li, Yawei Luo et al."
   },
   {
-    "id": "arxiv_1783366036501_0",
+    "id": "arxiv_1783372638263_0",
     "name": "Distributed Attacks in Persistent-State AI Control",
     "category": "ai",
     "description": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt...",
@@ -43,7 +43,7 @@
     "source": "arXiv - Josh Hills, Ida Caspary, Asa Cooper Stickland"
   },
   {
-    "id": "arxiv_1783366036582_2",
+    "id": "arxiv_1783372638288_2",
     "name": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
     "category": "computer-vision",
     "description": "State-of-the-art single-image 3D reconstruction methods often rely on complex hybrid architectures and loss functions, or compress geometry into latent spaces in order to leverage pre-trained latent d...",
@@ -54,11 +54,11 @@
       "Diffusion"
     ],
     "date": "2026-07-02T17:59:56Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Haofei Xu, Rundi Wu, Philipp Henzler et al."
   },
   {
-    "id": "arxiv_1783366036501_1",
+    "id": "arxiv_1783372638263_1",
     "name": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
     "category": "ai",
     "description": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti...",
@@ -68,11 +68,11 @@
       "LLM"
     ],
     "date": "2026-07-02T17:59:52Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Matteo Boglioni, Thibault Rousset, Siva Reddy et al."
   },
   {
-    "id": "arxiv_1783366036658_0",
+    "id": "arxiv_1783372638311_0",
     "name": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
     "category": "machine-learning",
     "description": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti...",
@@ -86,7 +86,7 @@
     "source": "arXiv - Matteo Boglioni, Thibault Rousset, Siva Reddy et al."
   },
   {
-    "id": "arxiv_1783366036734_0",
+    "id": "arxiv_1783372638335_0",
     "name": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
     "category": "nlp",
     "description": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti...",
@@ -100,7 +100,7 @@
     "source": "arXiv - Matteo Boglioni, Thibault Rousset, Siva Reddy et al."
   },
   {
-    "id": "arxiv_1783366036502_2",
+    "id": "arxiv_1783372638263_2",
     "name": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
     "category": "ai",
     "description": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly out...",
@@ -114,7 +114,7 @@
     "source": "arXiv - Wentao Zhang, Liliana Hotsko, Woojeong Kim et al."
   },
   {
-    "id": "arxiv_1783366036658_1",
+    "id": "arxiv_1783372638311_1",
     "name": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
     "category": "machine-learning",
     "description": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly out...",
@@ -128,7 +128,7 @@
     "source": "arXiv - Wentao Zhang, Liliana Hotsko, Woojeong Kim et al."
   },
   {
-    "id": "arxiv_1783366036734_1",
+    "id": "arxiv_1783372638335_1",
     "name": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
     "category": "nlp",
     "description": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly out...",
@@ -142,7 +142,7 @@
     "source": "arXiv - Wentao Zhang, Liliana Hotsko, Woojeong Kim et al."
   },
   {
-    "id": "arxiv_1783366036502_3",
+    "id": "arxiv_1783372638264_3",
     "name": "Online Safety Monitoring for LLMs",
     "category": "ai",
     "description": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical...",
@@ -156,7 +156,7 @@
     "source": "arXiv - Mona Schirmer, Metod Jazbec, Alexander Timans et al."
   },
   {
-    "id": "arxiv_1783366036658_2",
+    "id": "arxiv_1783372638311_2",
     "name": "Online Safety Monitoring for LLMs",
     "category": "machine-learning",
     "description": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical...",
@@ -166,11 +166,11 @@
       "LLM"
     ],
     "date": "2026-07-02T17:59:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Mona Schirmer, Metod Jazbec, Alexander Timans et al."
   },
   {
-    "id": "arxiv_1783366036734_2",
+    "id": "arxiv_1783372638336_2",
     "name": "Online Safety Monitoring for LLMs",
     "category": "nlp",
     "description": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical...",
@@ -180,11 +180,11 @@
       "LLM"
     ],
     "date": "2026-07-02T17:59:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Mona Schirmer, Metod Jazbec, Alexander Timans et al."
   },
   {
-    "id": "arxiv_1783366036502_4",
+    "id": "arxiv_1783372638264_4",
     "name": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
     "category": "ai",
     "description": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context...",
@@ -195,11 +195,11 @@
       "LLM"
     ],
     "date": "2026-07-02T17:59:26Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yanjun Zhao, Ruizhong Qiu, Tianxin Wei et al."
   },
   {
-    "id": "arxiv_1783366036582_3",
+    "id": "arxiv_1783372638289_3",
     "name": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
     "category": "computer-vision",
     "description": "Representation alignment has become an effective way to accelerate diffusion transformer training and improve generation quality. Recent self-alignment methods, such as SRA and Self-Flow, further remo...",
@@ -215,7 +215,7 @@
     "source": "arXiv - Dengyang Jiang, Mengmeng Wang, Harry Yang et al."
   },
   {
-    "id": "arxiv_1783366036658_3",
+    "id": "arxiv_1783372638311_3",
     "name": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
     "category": "machine-learning",
     "description": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, w...",
@@ -225,11 +225,11 @@
       "LLM"
     ],
     "date": "2026-07-02T17:59:23Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Arman Ghaffarizadeh, Danyal Mohaddes, Aliakbar Izadkhah et al."
   },
   {
-    "id": "arxiv_1783366036734_3",
+    "id": "arxiv_1783372638336_3",
     "name": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
     "category": "nlp",
     "description": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, w...",
@@ -239,11 +239,11 @@
       "LLM"
     ],
     "date": "2026-07-02T17:59:23Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Arman Ghaffarizadeh, Danyal Mohaddes, Aliakbar Izadkhah et al."
   },
   {
-    "id": "arxiv_1783366036582_4",
+    "id": "arxiv_1783372638289_4",
     "name": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
     "category": "computer-vision",
     "description": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attri...",
@@ -253,11 +253,11 @@
       "LLM"
     ],
     "date": "2026-07-02T17:58:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuxuan Li, Lingxi Xie, Xinyue Huo et al."
   },
   {
-    "id": "arxiv_1783366036734_4",
+    "id": "arxiv_1783372638336_4",
     "name": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
     "category": "nlp",
     "description": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attri...",
@@ -267,11 +267,11 @@
       "LLM"
     ],
     "date": "2026-07-02T17:58:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuxuan Li, Lingxi Xie, Xinyue Huo et al."
   },
   {
-    "id": "arxiv_1783366036658_4",
+    "id": "arxiv_1783372638311_4",
     "name": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
     "category": "machine-learning",
     "description": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different l...",
