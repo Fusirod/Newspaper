@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1783403737867_0",
+    "id": "arxiv_1783416028428_0",
     "name": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
     "category": "ai",
     "description": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
   },
   {
-    "id": "arxiv_1783403738112_0",
+    "id": "arxiv_1783416028648_0",
     "name": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
     "category": "computer-vision",
     "description": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
   },
   {
-    "id": "arxiv_1783403738134_0",
+    "id": "arxiv_1783416028674_0",
     "name": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
     "category": "machine-learning",
     "description": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang...",
@@ -42,7 +42,7 @@
     "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
   },
   {
-    "id": "arxiv_1783403737867_1",
+    "id": "arxiv_1783416028428_1",
     "name": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
     "category": "ai",
     "description": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must...",
@@ -57,7 +57,7 @@
     "source": "arXiv - Shiyuan Feng, Huan-ang Gao, Haohan Chi et al."
   },
   {
-    "id": "arxiv_1783403737867_2",
+    "id": "arxiv_1783416028428_2",
     "name": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
     "category": "ai",
     "description": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noi...",
@@ -71,7 +71,7 @@
     "source": "arXiv - Raphaël Bonnet-Guerrini, Bruno Sanchez, Dominique Fouchez et al."
   },
   {
-    "id": "arxiv_1783403738134_1",
+    "id": "arxiv_1783416028674_1",
     "name": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
     "category": "machine-learning",
     "description": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must...",
@@ -86,7 +86,7 @@
     "source": "arXiv - Shiyuan Feng, Huan-ang Gao, Haohan Chi et al."
   },
   {
-    "id": "arxiv_1783403738134_2",
+    "id": "arxiv_1783416028674_2",
     "name": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
     "category": "machine-learning",
     "description": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noi...",
@@ -96,11 +96,11 @@
       "Deep Learning"
     ],
     "date": "2026-07-06T17:59:58Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Raphaël Bonnet-Guerrini, Bruno Sanchez, Dominique Fouchez et al."
   },
   {
-    "id": "arxiv_1783403738158_0",
+    "id": "arxiv_1783416028690_0",
     "name": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
     "category": "nlp",
     "description": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must...",
@@ -115,7 +115,7 @@
     "source": "arXiv - Shiyuan Feng, Huan-ang Gao, Haohan Chi et al."
   },
   {
-    "id": "arxiv_1783403737867_3",
+    "id": "arxiv_1783416028429_3",
     "name": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
     "category": "ai",
     "description": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th...",
@@ -126,11 +126,11 @@
       "Robotics"
     ],
     "date": "2026-07-06T17:59:35Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jacky Kwok, Shulu Li, Pranav Atreya et al."
   },
   {
-    "id": "arxiv_1783403738112_1",
+    "id": "arxiv_1783416028648_1",
     "name": "SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion",
     "category": "computer-vision",
     "description": "We present SynCity 3000, a framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produc...",
@@ -140,11 +140,11 @@
       "Diffusion"
     ],
     "date": "2026-07-06T17:59:35Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Paul Engstler, Iro Laina, Christian Rupprecht et al."
   },
   {
-    "id": "arxiv_1783403738134_3",
+    "id": "arxiv_1783416028674_3",
     "name": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
     "category": "machine-learning",
     "description": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th...",
@@ -159,7 +159,7 @@
     "source": "arXiv - Jacky Kwok, Shulu Li, Pranav Atreya et al."
   },
   {
-    "id": "arxiv_1783403738158_1",
+    "id": "arxiv_1783416028690_1",
     "name": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
     "category": "nlp",
     "description": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th...",
@@ -174,7 +174,7 @@
     "source": "arXiv - Jacky Kwok, Shulu Li, Pranav Atreya et al."
   },
   {
-    "id": "arxiv_1783403738113_2",
+    "id": "arxiv_1783416028648_2",
     "name": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
     "category": "computer-vision",
     "description": "Predicting object dynamics (i.e., world modeling) is a fundamental challenge for robotic manipulation, and modeling deformable objects presents a particularly difficult case due to their high-dimensio...",
@@ -187,7 +187,7 @@
     "source": "arXiv - Hongyu Li, Wanjia Fu, Xiaoyan Cong et al."
   },
   {
-    "id": "arxiv_1783403738113_3",
+    "id": "arxiv_1783416028649_3",
     "name": "InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics",
     "category": "computer-vision",
     "description": "Camera intrinsics are vital for recovering 3D structure from 2D video. However, most 3D algorithms assume fixed intrinsics throughout a video, an assumption that often fails for real-world in-the-wild...",
@@ -197,11 +197,11 @@
       "Vision"
     ],
     "date": "2026-07-06T17:58:33Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Erich Liang, Caleb Kha-Uong, Chinmaya Saran et al."
   },
   {
-    "id": "arxiv_1783403737867_4",
+    "id": "arxiv_1783416028429_4",
     "name": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
     "category": "ai",
     "description": "Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutof...",
@@ -210,11 +210,11 @@
       "AI"
     ],
     "date": "2026-07-06T17:56:12Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Haozhe Wang, Weijia Feng, Jinpeng Yu et al."
   },
   {
-    "id": "arxiv_1783403738113_4",
+    "id": "arxiv_1783416028649_4",
     "name": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
     "category": "computer-vision",
     "description": "Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutof...",
@@ -223,11 +223,11 @@
       "AI"
     ],
     "date": "2026-07-06T17:56:12Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Haozhe Wang, Weijia Feng, Jinpeng Yu et al."
   },
   {
-    "id": "arxiv_1783403738134_4",
+    "id": "arxiv_1783416028674_4",
     "name": "What Does a Discrete Diffusion Model Learn?",
     "category": "machine-learning",
     "description": "What does a discrete diffusion model learn: a denoiser, a score ratio, or a bridge plug-in predictor? At the level of jump rates, these are one object in different coordinates, and reading a neural ne...",
@@ -242,7 +242,7 @@
     "source": "arXiv - Rodrigo Casado Noguerales, Bernhard Schölkopf, Thomas Hofmann et al."
   },
   {
-    "id": "arxiv_1783403738158_2",
+    "id": "arxiv_1783416028690_2",
     "name": "What Does a Discrete Diffusion Model Learn?",
     "category": "nlp",
     "description": "What does a discrete diffusion model learn: a denoiser, a score ratio, or a bridge plug-in predictor? At the level of jump rates, these are one object in different coordinates, and reading a neural ne...",
@@ -253,11 +253,11 @@
       "Diffusion"
     ],
     "date": "2026-07-06T17:56:11Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Rodrigo Casado Noguerales, Bernhard Schölkopf, Thomas Hofmann et al."
   },
   {
-    "id": "arxiv_1783403738158_3",
+    "id": "arxiv_1783416028690_3",
     "name": "GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks",
     "category": "nlp",
     "description": "For robots to work reliably in commercial and industrial applications, can recent advances in agentic coding systems combine interpretable robot programming with the open-world adaptability of model-f...",
@@ -270,7 +270,7 @@
     "source": "arXiv - Kaiyuan Chen, Shuangyu Xie, Letian Fu et al."
   },
   {
-    "id": "arxiv_1783403738158_4",
+    "id": "arxiv_1783416028691_4",
     "name": "SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models",
     "category": "nlp",
     "description": "Streaming speech-to-speech language models aim to answer spoken queries directly with synthetic speech. However, standard speech and text benchmarks do not capture whether these systems behave natural...",
