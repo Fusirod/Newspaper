@@ -1,19 +1,70 @@
 [
   {
-    "id": "rss_Ars_Technica_1783458719339_0",
-    "title": "US manufacturers’ energy costs soar because of AI data center demand",
+    "id": "rss_Ars_Technica_1783464521390_0",
+    "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Cases have risen quickly as officials are working to identify a common source.\n                    ",
+    "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
+    "tags": [],
+    "date": "Tue, 07 Jul 2026 22:29:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1783464517522_0",
+    "title": "Meta rolls out Muse, a new AI image generator",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities. ",
+    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Tue, 07 Jul 2026 22:18:10 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1783464522465_0",
+    "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
+    "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Tue, 07 Jul 2026 21:59:29 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1783464522466_1",
+    "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
+    "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Tue, 07 Jul 2026 21:30:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783464521390_1",
+    "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
     "category": "ai-news",
     "source": "Ars Technica",
     "description": "\n                        Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
-    "tags": [
-      "AI"
-    ],
+    "tags": [],
     "date": "Tue, 07 Jul 2026 21:03:07 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783458719339_1",
+    "id": "rss_Ars_Technica_1783464521390_2",
     "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -21,10 +72,10 @@
     "link": "https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/",
     "tags": [],
     "date": "Tue, 07 Jul 2026 20:32:39 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1783458719339_2",
+    "id": "rss_Ars_Technica_1783464521390_3",
     "title": "SCOTUS lets Texas enforce app store law that Big Tech calls \"censorship regime\"",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -35,7 +86,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783458715770_0",
+    "id": "rss_TechCrunch_1783464517522_1",
     "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -48,7 +99,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783458715770_1",
+    "id": "rss_TechCrunch_1783464517522_2",
     "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -62,7 +113,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783458719339_3",
+    "id": "rss_Ars_Technica_1783464521390_4",
     "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -72,10 +123,10 @@
       "Microsoft"
     ],
     "date": "Tue, 07 Jul 2026 19:52:59 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783458715771_2",
+    "id": "rss_TechCrunch_1783464517522_3",
     "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -88,20 +139,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783458719339_4",
-    "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Google's new phones could feature glowing LEDs and higher price tags. \n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
-    "tags": [
-      "Google"
-    ],
-    "date": "Tue, 07 Jul 2026 19:08:34 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1783458715771_3",
+    "id": "rss_TechCrunch_1783464517522_4",
     "title": "Claude Cowork expands to mobile and web",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -109,10 +147,10 @@
     "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
     "tags": [],
     "date": "Tue, 07 Jul 2026 16:27:18 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1783458720484_0",
+    "id": "rss_Wired_1783464522466_2",
     "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
     "category": "ai-news",
     "source": "Wired",
@@ -120,10 +158,10 @@
     "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
     "tags": [],
     "date": "Tue, 07 Jul 2026 16:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1783458720484_1",
+    "id": "rss_Wired_1783464522466_3",
     "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
     "category": "ai-news",
     "source": "Wired",
@@ -134,7 +172,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783458718050_0",
+    "id": "rss_MIT_Tech_Review_1783464519860_0",
     "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -148,21 +186,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783458715771_4",
-    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday. ",
-    "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-    "tags": [
-      "AI",
-      "Funding"
-    ],
-    "date": "Tue, 07 Jul 2026 12:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1783458718050_1",
+    "id": "rss_MIT_Tech_Review_1783464519860_1",
     "title": "The foundational elements of AI architecture that IT leaders need to scale",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -175,7 +199,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783458718050_2",
+    "id": "rss_MIT_Tech_Review_1783464519860_2",
     "title": "Why worms (and microbes) are catching on as a manure pollution solution",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -188,7 +212,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783458720484_2",
+    "id": "rss_Wired_1783464522466_4",
     "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
     "category": "ai-news",
     "source": "Wired",
@@ -201,21 +225,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783458720484_3",
-    "title": "British Space Startup Launches Longevity Lab Into Orbit",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
-    "link": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Tue, 07 Jul 2026 09:57:12 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1783458718050_3",
+    "id": "rss_MIT_Tech_Review_1783464519861_3",
     "title": "Your family’s $300 stake in OpenAI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -226,10 +236,10 @@
       "OpenAI"
     ],
     "date": "Mon, 06 Jul 2026 18:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1783458718050_4",
+    "id": "rss_MIT_Tech_Review_1783464519861_4",
     "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -242,20 +252,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1783458720484_4",
-    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
-    "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-    "tags": [
-      "Google"
-    ],
-    "date": "Fri, 03 Jul 2026 16:30:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Distill_1783458729113_0",
+    "id": "rss_Distill_1783464531368_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -268,7 +265,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783458729113_1",
+    "id": "rss_Distill_1783464531368_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -281,7 +278,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783458729113_2",
+    "id": "rss_Distill_1783464531368_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -292,7 +289,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783458729113_3",
+    "id": "rss_Distill_1783464531368_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -302,10 +299,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1783458729113_4",
+    "id": "rss_Distill_1783464531368_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
