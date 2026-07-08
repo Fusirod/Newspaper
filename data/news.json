@@ -1,19 +1,98 @@
 [
   {
-    "id": "rss_Ars_Technica_1783537288035_0",
-    "title": "High-severity guest VM escape is 1 of 2 Linux vulnerabilities to surface this week",
+    "id": "rss_TechCrunch_1783543955653_0",
+    "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Earlier this week, a picture that seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+    "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Wed, 08 Jul 2026 20:37:03 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1783543960547_0",
+    "title": "I Built a Self-Improving AI, and So Can You",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
+    "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 08 Jul 2026 20:09:21 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783543959419_0",
+    "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        More young girls sue X over Grok CSAM; X accused of shielding child predators.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+    "tags": [],
+    "date": "Wed, 08 Jul 2026 19:56:37 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1783543955653_1",
+    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models. ",
+    "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 08 Jul 2026 19:30:16 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1783543955654_2",
+    "title": "This startup thinks robotics is about to have its ChatGPT moment",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+    "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "GPT",
+      "Robot"
+    ],
+    "date": "Wed, 08 Jul 2026 19:19:15 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783543959419_1",
+    "title": "Judge rejects Kalshi attempt to override New York state gambling laws",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Kalshi tried to ignore gambling laws on its prediction market, NY governor says.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/",
+    "tags": [],
+    "date": "Wed, 08 Jul 2026 19:14:02 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783543959419_2",
+    "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
     "category": "ai-news",
     "source": "Ars Technica",
     "description": "\n                        Both vulnerabilities allow untrusted users to gain root privileges.\n                    ",
     "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
     "tags": [
-      "AI"
+      "AI",
+      "Google"
     ],
     "date": "Wed, 08 Jul 2026 19:01:19 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783537284397_0",
+    "id": "rss_TechCrunch_1783543955654_3",
     "title": "Google Photos adds a new AI ‘Video Remix’ tool",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -27,7 +106,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783537288035_1",
+    "id": "rss_Ars_Technica_1783543959419_3",
     "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -38,7 +117,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783537288036_2",
+    "id": "rss_Ars_Technica_1783543959419_4",
     "title": "TikTok users don't have as much agency over their FYPs as they think",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -46,10 +125,10 @@
     "link": "https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/",
     "tags": [],
     "date": "Wed, 08 Jul 2026 18:00:49 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783537284397_1",
+    "id": "rss_TechCrunch_1783543955654_4",
     "title": "Why this CEO thinks video games make better training data than the internet",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -61,60 +140,10 @@
       "GPT"
     ],
     "date": "Wed, 08 Jul 2026 17:47:55 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1783537288036_3",
-    "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        US military drone losses in Iran war spur Pentagon call for cheap replacements. \n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
-    "tags": [],
-    "date": "Wed, 08 Jul 2026 17:44:54 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1783537288036_4",
-    "title": "Miami-based City Labs achieves a first for commercial nuclear power in space",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        \"The BOHR mission serves as a pathfinder for future nuclear-powered spacecraft.\"\n                    ",
-    "link": "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/",
-    "tags": [],
-    "date": "Wed, 08 Jul 2026 17:26:44 +0000",
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783537284397_2",
-    "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
-    "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Wed, 08 Jul 2026 17:11:18 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1783537284397_3",
-    "title": "OpenAI releases new voice models for more natural live conversations",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation. ",
-    "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Wed, 08 Jul 2026 17:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1783537286585_0",
+    "id": "rss_MIT_Tech_Review_1783543958080_0",
     "title": "EmTech AI 2026: The Rise of the AI Platform",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -127,20 +156,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783537284397_4",
-    "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs. ",
-    "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 08 Jul 2026 16:22:38 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1783537286585_1",
+    "id": "rss_MIT_Tech_Review_1783543958081_1",
     "title": "The Download: worms fight pollution, and geoengineering faces reality",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -153,7 +169,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1783537289125_0",
+    "id": "rss_Wired_1783543960547_1",
     "title": "Pickup Artist Mystery Has an AI Girlfriend",
     "category": "ai-news",
     "source": "Wired",
@@ -167,7 +183,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1783537289125_1",
+    "id": "rss_Wired_1783543960547_2",
     "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
     "category": "ai-news",
     "source": "Wired",
@@ -177,10 +193,10 @@
       "AI"
     ],
     "date": "Wed, 08 Jul 2026 09:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1783537289125_2",
+    "id": "rss_Wired_1783543960547_3",
     "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
     "category": "ai-news",
     "source": "Wired",
@@ -191,10 +207,10 @@
       "Meta"
     ],
     "date": "Tue, 07 Jul 2026 21:59:29 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1783537289125_3",
+    "id": "rss_Wired_1783543960547_4",
     "title": "OpenAI’s Chief Futurist Is Leaving the Company",
     "category": "ai-news",
     "source": "Wired",
@@ -205,21 +221,10 @@
       "OpenAI"
     ],
     "date": "Tue, 07 Jul 2026 21:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1783537289125_4",
-    "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
-    "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
-    "tags": [],
-    "date": "Tue, 07 Jul 2026 16:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1783537286585_2",
+    "id": "rss_MIT_Tech_Review_1783543958081_2",
     "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -230,10 +235,10 @@
       "OpenAI"
     ],
     "date": "Tue, 07 Jul 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783537286586_3",
+    "id": "rss_MIT_Tech_Review_1783543958081_3",
     "title": "The foundational elements of AI architecture that IT leaders need to scale",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -246,7 +251,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783537286586_4",
+    "id": "rss_MIT_Tech_Review_1783543958081_4",
     "title": "Why worms (and microbes) are catching on as a manure pollution solution",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -259,7 +264,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783537298204_0",
+    "id": "rss_Distill_1783543969960_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -272,7 +277,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783537298204_1",
+    "id": "rss_Distill_1783543969960_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -282,10 +287,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1783537298204_2",
+    "id": "rss_Distill_1783543969960_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -293,10 +298,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1783537298204_3",
+    "id": "rss_Distill_1783543969960_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -309,7 +314,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783537298204_4",
+    "id": "rss_Distill_1783543969960_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
