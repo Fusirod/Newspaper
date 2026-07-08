@@ -1,6 +1,92 @@
 [
   {
-    "id": "rss_TechCrunch_1783530913011_0",
+    "id": "rss_Ars_Technica_1783537288035_0",
+    "title": "High-severity guest VM escape is 1 of 2 Linux vulnerabilities to surface this week",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Both vulnerabilities allow untrusted users to gain root privileges.\n                    ",
+    "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 08 Jul 2026 19:01:19 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1783537284397_0",
+    "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+    "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Wed, 08 Jul 2026 18:30:08 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783537288035_1",
+    "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        But the devices could \"easily be reflashed.\" \n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+    "tags": [],
+    "date": "Wed, 08 Jul 2026 18:10:16 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783537288036_2",
+    "title": "TikTok users don't have as much agency over their FYPs as they think",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The \"not interested\" feature is your friend, but users must intentionally and constantly curate their FYPs\n                    ",
+    "link": "https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/",
+    "tags": [],
+    "date": "Wed, 08 Jul 2026 18:00:49 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1783537284397_1",
+    "title": "Why this CEO thinks video games make better training data than the internet",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&",
+    "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "GPT"
+    ],
+    "date": "Wed, 08 Jul 2026 17:47:55 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783537288036_3",
+    "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        US military drone losses in Iran war spur Pentagon call for cheap replacements. \n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+    "tags": [],
+    "date": "Wed, 08 Jul 2026 17:44:54 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783537288036_4",
+    "title": "Miami-based City Labs achieves a first for commercial nuclear power in space",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"The BOHR mission serves as a pathfinder for future nuclear-powered spacecraft.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/",
+    "tags": [],
+    "date": "Wed, 08 Jul 2026 17:26:44 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1783537284397_2",
     "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -14,21 +100,21 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783530916389_0",
-    "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+    "id": "rss_TechCrunch_1783537284397_3",
+    "title": "OpenAI releases new voice models for more natural live conversations",
     "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Android Bench is evolving, and developers can help guide that process. \n                    ",
-    "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+    "source": "TechCrunch",
+    "description": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation. ",
+    "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
     "tags": [
-      "Google",
-      "LLM"
+      "AI",
+      "OpenAI"
     ],
-    "date": "Wed, 08 Jul 2026 16:39:48 +0000",
+    "date": "Wed, 08 Jul 2026 17:00:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783530915233_0",
+    "id": "rss_MIT_Tech_Review_1783537286585_0",
     "title": "EmTech AI 2026: The Rise of the AI Platform",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -38,10 +124,10 @@
       "AI"
     ],
     "date": "Wed, 08 Jul 2026 16:26:10 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783530913011_1",
+    "id": "rss_TechCrunch_1783537284397_4",
     "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -54,72 +140,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783530913011_2",
-    "title": "These AI startups are growing  revenue at faster and faster rates",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
-    "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Wed, 08 Jul 2026 15:41:06 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1783530916389_1",
-    "title": "Two teens learn the hard way not to do toy gun drive-bys from a Waymo",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The robotaxi stopped, called 911, and waited for the San Mateo Police to show up.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/07/two-teens-learn-the-hard-way-not-to-do-toy-gun-drivebys-from-a-waymo/",
-    "tags": [
-      "AI",
-      "Robot"
-    ],
-    "date": "Wed, 08 Jul 2026 15:40:44 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1783530916389_2",
-    "title": "Ocean rift zone saw spreading happen in a sudden burst",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The crust expands at mid-ocean rifts. But how?\n                    ",
-    "link": "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/",
-    "tags": [],
-    "date": "Wed, 08 Jul 2026 15:09:38 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1783530916389_3",
-    "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Miners backed by Trump admin. sell to Japan, South Korea despite push to develop domestic supply chain.\n                    ",
-    "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 08 Jul 2026 13:26:10 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1783530916389_4",
-    "title": "Blue Origin, for the first time, is expected to raise private capital",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The company is raising $10 billion, leading to a valuation of $130 billion.\n                    ",
-    "link": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 08 Jul 2026 12:47:35 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1783530915233_1",
+    "id": "rss_MIT_Tech_Review_1783537286585_1",
     "title": "The Download: worms fight pollution, and geoengineering faces reality",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -129,24 +150,10 @@
       "AI"
     ],
     "date": "Wed, 08 Jul 2026 12:10:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1783530913011_3",
-    "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.  ",
-    "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Wed, 08 Jul 2026 12:00:00 +0000",
     "trending": true
   },
   {
-    "id": "rss_Wired_1783530917533_0",
+    "id": "rss_Wired_1783537289125_0",
     "title": "Pickup Artist Mystery Has an AI Girlfriend",
     "category": "ai-news",
     "source": "Wired",
@@ -157,10 +164,10 @@
       "Chatbot"
     ],
     "date": "Wed, 08 Jul 2026 11:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1783530917533_1",
+    "id": "rss_Wired_1783537289125_1",
     "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
     "category": "ai-news",
     "source": "Wired",
@@ -173,22 +180,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783530913011_4",
-    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-    "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-    "tags": [
-      "AI",
-      "LLM",
-      "Startup"
-    ],
-    "date": "Wed, 08 Jul 2026 08:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1783530917533_2",
+    "id": "rss_Wired_1783537289125_2",
     "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
     "category": "ai-news",
     "source": "Wired",
@@ -202,7 +194,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783530917533_3",
+    "id": "rss_Wired_1783537289125_3",
     "title": "OpenAI’s Chief Futurist Is Leaving the Company",
     "category": "ai-news",
     "source": "Wired",
@@ -216,7 +208,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783530917533_4",
+    "id": "rss_Wired_1783537289125_4",
     "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
     "category": "ai-news",
     "source": "Wired",
@@ -227,7 +219,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783530915233_2",
+    "id": "rss_MIT_Tech_Review_1783537286585_2",
     "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -241,7 +233,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1783530915234_3",
+    "id": "rss_MIT_Tech_Review_1783537286586_3",
     "title": "The foundational elements of AI architecture that IT leaders need to scale",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -254,7 +246,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783530915234_4",
+    "id": "rss_MIT_Tech_Review_1783537286586_4",
     "title": "Why worms (and microbes) are catching on as a manure pollution solution",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -267,7 +259,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783530925603_0",
+    "id": "rss_Distill_1783537298204_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -277,10 +269,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1783530925603_1",
+    "id": "rss_Distill_1783537298204_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -290,10 +282,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1783530925603_2",
+    "id": "rss_Distill_1783537298204_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -304,7 +296,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1783530925603_3",
+    "id": "rss_Distill_1783537298204_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -317,7 +309,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783530925603_4",
+    "id": "rss_Distill_1783537298204_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
