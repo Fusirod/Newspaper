@@ -1,285 +1,282 @@
 [
   {
-    "id": "arxiv_1783473612229_0",
-    "name": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+    "id": "arxiv_1783486492946_0",
+    "name": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
     "category": "ai",
-    "description": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang...",
-    "link": "http://arxiv.org/abs/2607.05396v1",
+    "description": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena...",
+    "link": "http://arxiv.org/abs/2607.06565v1",
     "tags": [
-      "AI",
-      "Vision"
+      "AI"
     ],
-    "date": "2026-07-06T17:59:59Z",
+    "date": "2026-07-07T17:59:50Z",
     "trending": false,
-    "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
+    "source": "arXiv - Tianjiao Yu, Xinzhuo Li, Yifan Shen et al."
   },
   {
-    "id": "arxiv_1783473612311_0",
-    "name": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+    "id": "arxiv_1783486493102_0",
+    "name": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
     "category": "computer-vision",
-    "description": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang...",
-    "link": "http://arxiv.org/abs/2607.05396v1",
+    "description": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena...",
+    "link": "http://arxiv.org/abs/2607.06565v1",
     "tags": [
-      "AI",
-      "Vision"
+      "AI"
     ],
-    "date": "2026-07-06T17:59:59Z",
+    "date": "2026-07-07T17:59:50Z",
     "trending": false,
-    "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
+    "source": "arXiv - Tianjiao Yu, Xinzhuo Li, Yifan Shen et al."
   },
   {
-    "id": "arxiv_1783473612391_0",
-    "name": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+    "id": "arxiv_1783486493265_0",
+    "name": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
     "category": "machine-learning",
-    "description": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang...",
-    "link": "http://arxiv.org/abs/2607.05396v1",
+    "description": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena...",
+    "link": "http://arxiv.org/abs/2607.06565v1",
     "tags": [
-      "AI",
-      "Vision"
+      "AI"
     ],
-    "date": "2026-07-06T17:59:59Z",
+    "date": "2026-07-07T17:59:50Z",
     "trending": false,
-    "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
+    "source": "arXiv - Tianjiao Yu, Xinzhuo Li, Yifan Shen et al."
   },
   {
-    "id": "arxiv_1783473612229_1",
-    "name": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
-    "category": "ai",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must...",
-    "link": "http://arxiv.org/abs/2607.05394v1",
+    "id": "arxiv_1783486493102_1",
+    "name": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
+    "category": "computer-vision",
+    "description": "Recently, Vision-Language-Action (VLA) models have demonstrated strong generalization across diverse tasks. However, effective robotic manipulation in physical environments fundamentally requires geom...",
+    "link": "http://arxiv.org/abs/2607.06564v1",
     "tags": [
       "AI",
       "Vision",
-      "Reinforcement Learning"
+      "LLM"
     ],
-    "date": "2026-07-06T17:59:58Z",
+    "date": "2026-07-07T17:59:47Z",
     "trending": false,
-    "source": "arXiv - Shiyuan Feng, Huan-ang Gao, Haohan Chi et al."
+    "source": "arXiv - Jiaming Liu, Qingpo Wuwu, Nuowei Han et al."
   },
   {
-    "id": "arxiv_1783473612229_2",
-    "name": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
+    "id": "arxiv_1783486493103_2",
+    "name": "Vision as Unified Multimodal Generation",
+    "category": "computer-vision",
+    "description": "We formulate computer vision as unified multimodal generation, where heterogeneous visual tasks are expressed in the native text and image generation spaces of a unified multimodal model, without task...",
+    "link": "http://arxiv.org/abs/2607.06560v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-07-07T17:58:33Z",
+    "trending": false,
+    "source": "arXiv - Xiaoyang Han, Jianhua Li, Kewang Deng et al."
+  },
+  {
+    "id": "arxiv_1783486493103_3",
+    "name": "ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation",
+    "category": "computer-vision",
+    "description": "Tracking the six-degree-of-freedom (6-DoF) pose of objects and surfaces from monocular video is a long-standing problem in computer vision. To tackle this problem, existing methods require inputs beyo...",
+    "link": "http://arxiv.org/abs/2607.06555v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion"
+    ],
+    "date": "2026-07-07T17:56:07Z",
+    "trending": false,
+    "source": "arXiv - Ruihang Zhang, Felix Taubner, Pooja Ravi et al."
+  },
+  {
+    "id": "arxiv_1783486493103_4",
+    "name": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
+    "category": "computer-vision",
+    "description": "Large-scale text-to-image models are attractive backbones for dense prediction because RGB generation pretraining learns rich semantic, structural, and geometric priors. Existing generative and editin...",
+    "link": "http://arxiv.org/abs/2607.06553v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-07-07T17:54:28Z",
+    "trending": false,
+    "source": "arXiv - Zanyi Wang, Xin Lin, Haodong Li et al."
+  },
+  {
+    "id": "arxiv_1783486492947_1",
+    "name": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
     "category": "ai",
-    "description": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noi...",
-    "link": "http://arxiv.org/abs/2607.05393v1",
+    "description": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoi...",
+    "link": "http://arxiv.org/abs/2607.06546v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "Diffusion"
+    ],
+    "date": "2026-07-07T17:52:17Z",
+    "trending": true,
+    "source": "arXiv - Shervin Khalafi, Igor Krawczuk, Sergio Rozada et al."
+  },
+  {
+    "id": "arxiv_1783486493266_1",
+    "name": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+    "category": "machine-learning",
+    "description": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoi...",
+    "link": "http://arxiv.org/abs/2607.06546v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "Diffusion"
+    ],
+    "date": "2026-07-07T17:52:17Z",
+    "trending": true,
+    "source": "arXiv - Shervin Khalafi, Igor Krawczuk, Sergio Rozada et al."
+  },
+  {
+    "id": "arxiv_1783486492947_2",
+    "name": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+    "category": "ai",
+    "description": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this ...",
+    "link": "http://arxiv.org/abs/2607.06544v1",
+    "tags": [
+      "AI",
+      "NLP"
+    ],
+    "date": "2026-07-07T17:51:10Z",
+    "trending": false,
+    "source": "arXiv - Aparna Madva, Sharath Srivatsa, Srinath Srinivasa et al."
+  },
+  {
+    "id": "arxiv_1783486493411_0",
+    "name": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+    "category": "nlp",
+    "description": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this ...",
+    "link": "http://arxiv.org/abs/2607.06544v1",
+    "tags": [
+      "AI",
+      "NLP"
+    ],
+    "date": "2026-07-07T17:51:10Z",
+    "trending": false,
+    "source": "arXiv - Aparna Madva, Sharath Srivatsa, Srinath Srinivasa et al."
+  },
+  {
+    "id": "arxiv_1783486493411_1",
+    "name": "On the feasibility of dependency parsing of non-human sequences without a gold standard. Is evaluation possible in other species?",
+    "category": "nlp",
+    "description": "Dependency parsing consists of finding a tree representation for a sequence. Unsupervised dependency parsing aims to develop parsing methods without a gold standard during model training. In human lan...",
+    "link": "http://arxiv.org/abs/2607.06542v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-07T17:47:26Z",
+    "trending": false,
+    "source": "arXiv - Ramon Ferrer-i-Cancho, Catherine Hobaiter, Thore Bergman et al."
+  },
+  {
+    "id": "arxiv_1783486493411_2",
+    "name": "Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs",
+    "category": "nlp",
+    "description": "Developing seamless, high-performance, native intelligent full-duplex Spoken Language Models (SLMs) remains a critical challenge and long-standing goal for the speech and NLP community. Despite notabl...",
+    "link": "http://arxiv.org/abs/2607.06540v1",
+    "tags": [
+      "AI",
+      "NLP",
+      "GAN",
+      "Optimization"
+    ],
+    "date": "2026-07-07T17:43:36Z",
+    "trending": true,
+    "source": "arXiv - Zhenyu Liu, Yunxin Li, Xuanyu Zhang et al."
+  },
+  {
+    "id": "arxiv_1783486493266_2",
+    "name": "GraphBU: MILP Instance Generation with Graph-Native Block Units",
+    "category": "machine-learning",
+    "description": "Mixed-integer linear programming (MILP) instances used for solver development are hard to obtain when models come from private or application-specific pipelines. A generator must keep the structure th...",
+    "link": "http://arxiv.org/abs/2607.06532v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-07T17:39:06Z",
+    "trending": false,
+    "source": "arXiv - Xiaolei Guo, Chenyu Zhou, Jianghao Lin et al."
+  },
+  {
+    "id": "arxiv_1783486492947_3",
+    "name": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
+    "category": "ai",
+    "description": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. T...",
+    "link": "http://arxiv.org/abs/2607.06531v1",
     "tags": [
       "AI",
       "Deep Learning"
     ],
-    "date": "2026-07-06T17:59:58Z",
+    "date": "2026-07-07T17:38:47Z",
     "trending": false,
-    "source": "arXiv - Raphaël Bonnet-Guerrini, Bruno Sanchez, Dominique Fouchez et al."
+    "source": "arXiv - Ghassen Marrakchi, Basarab Matei"
   },
   {
-    "id": "arxiv_1783473612392_1",
-    "name": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
+    "id": "arxiv_1783486493266_3",
+    "name": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
     "category": "machine-learning",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must...",
-    "link": "http://arxiv.org/abs/2607.05394v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-07-06T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Shiyuan Feng, Huan-ang Gao, Haohan Chi et al."
-  },
-  {
-    "id": "arxiv_1783473612392_2",
-    "name": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
-    "category": "machine-learning",
-    "description": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noi...",
-    "link": "http://arxiv.org/abs/2607.05393v1",
+    "description": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. T...",
+    "link": "http://arxiv.org/abs/2607.06531v1",
     "tags": [
       "AI",
       "Deep Learning"
     ],
-    "date": "2026-07-06T17:59:58Z",
+    "date": "2026-07-07T17:38:47Z",
     "trending": false,
-    "source": "arXiv - Raphaël Bonnet-Guerrini, Bruno Sanchez, Dominique Fouchez et al."
+    "source": "arXiv - Ghassen Marrakchi, Basarab Matei"
   },
   {
-    "id": "arxiv_1783473612474_0",
-    "name": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
+    "id": "arxiv_1783486493411_3",
+    "name": "Life Style Levels: Neighborhood Delineation using Geospatial Data",
     "category": "nlp",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must...",
-    "link": "http://arxiv.org/abs/2607.05394v1",
+    "description": "Fine-scale socioeconomic information is often unavailable across rapidly ur-banizing regions of the developing world, like India, limiting the ability to delineate intra-urban variations in affluence ...",
+    "link": "http://arxiv.org/abs/2607.06529v1",
     "tags": [
-      "AI",
-      "Vision",
-      "Reinforcement Learning"
+      "AI"
     ],
-    "date": "2026-07-06T17:59:58Z",
+    "date": "2026-07-07T17:37:03Z",
     "trending": false,
-    "source": "arXiv - Shiyuan Feng, Huan-ang Gao, Haohan Chi et al."
+    "source": "arXiv - Srivatsa Kulkarni, Debarag Banerjee"
   },
   {
-    "id": "arxiv_1783473612229_3",
-    "name": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+    "id": "arxiv_1783486492947_4",
+    "name": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation",
     "category": "ai",
-    "description": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th...",
-    "link": "http://arxiv.org/abs/2607.05391v1",
+    "description": "Multi-hop Question Answering over Knowledge Graphs faces a critical challenge: traditional retrieve-then-read pipelines break differentiability, preventing the retriever from learning to bridge the se...",
+    "link": "http://arxiv.org/abs/2607.06527v1",
     "tags": [
       "AI",
-      "LLM",
-      "Robotics"
+      "LLM"
     ],
-    "date": "2026-07-06T17:59:35Z",
+    "date": "2026-07-07T17:32:36Z",
     "trending": false,
-    "source": "arXiv - Jacky Kwok, Shulu Li, Pranav Atreya et al."
+    "source": "arXiv - Sambaran Bandyopadhyay, Ananth Muppidi"
   },
   {
-    "id": "arxiv_1783473612311_1",
-    "name": "SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion",
-    "category": "computer-vision",
-    "description": "We present SynCity 3000, a framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produc...",
-    "link": "http://arxiv.org/abs/2607.05392v1",
+    "id": "arxiv_1783486493412_4",
+    "name": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation",
+    "category": "nlp",
+    "description": "Multi-hop Question Answering over Knowledge Graphs faces a critical challenge: traditional retrieve-then-read pipelines break differentiability, preventing the retriever from learning to bridge the se...",
+    "link": "http://arxiv.org/abs/2607.06527v1",
     "tags": [
       "AI",
-      "Diffusion"
+      "LLM"
     ],
-    "date": "2026-07-06T17:59:35Z",
+    "date": "2026-07-07T17:32:36Z",
     "trending": true,
-    "source": "arXiv - Paul Engstler, Iro Laina, Christian Rupprecht et al."
+    "source": "arXiv - Sambaran Bandyopadhyay, Ananth Muppidi"
   },
   {
-    "id": "arxiv_1783473612392_3",
-    "name": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+    "id": "arxiv_1783486493266_4",
+    "name": "EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning",
     "category": "machine-learning",
-    "description": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th...",
-    "link": "http://arxiv.org/abs/2607.05391v1",
+    "description": "We introduce EntroPath, a manifold learning method that recovers geodesic geometry from data graphs through ensembles of diffusion paths. Many existing graph-based embeddings rely either on locally no...",
+    "link": "http://arxiv.org/abs/2607.06497v1",
     "tags": [
       "AI",
-      "LLM",
-      "Robotics"
-    ],
-    "date": "2026-07-06T17:59:35Z",
-    "trending": false,
-    "source": "arXiv - Jacky Kwok, Shulu Li, Pranav Atreya et al."
-  },
-  {
-    "id": "arxiv_1783473612474_1",
-    "name": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-    "category": "nlp",
-    "description": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th...",
-    "link": "http://arxiv.org/abs/2607.05391v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Robotics"
-    ],
-    "date": "2026-07-06T17:59:35Z",
-    "trending": false,
-    "source": "arXiv - Jacky Kwok, Shulu Li, Pranav Atreya et al."
-  },
-  {
-    "id": "arxiv_1783473612311_2",
-    "name": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
-    "category": "computer-vision",
-    "description": "Predicting object dynamics (i.e., world modeling) is a fundamental challenge for robotic manipulation, and modeling deformable objects presents a particularly difficult case due to their high-dimensio...",
-    "link": "http://arxiv.org/abs/2607.05390v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-06T17:59:18Z",
-    "trending": false,
-    "source": "arXiv - Hongyu Li, Wanjia Fu, Xiaoyan Cong et al."
-  },
-  {
-    "id": "arxiv_1783473612311_3",
-    "name": "InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics",
-    "category": "computer-vision",
-    "description": "Camera intrinsics are vital for recovering 3D structure from 2D video. However, most 3D algorithms assume fixed intrinsics throughout a video, an assumption that often fails for real-world in-the-wild...",
-    "link": "http://arxiv.org/abs/2607.05389v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-07-06T17:58:33Z",
-    "trending": false,
-    "source": "arXiv - Erich Liang, Caleb Kha-Uong, Chinmaya Saran et al."
-  },
-  {
-    "id": "arxiv_1783473612230_4",
-    "name": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
-    "category": "ai",
-    "description": "Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutof...",
-    "link": "http://arxiv.org/abs/2607.05382v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-06T17:56:12Z",
-    "trending": false,
-    "source": "arXiv - Haozhe Wang, Weijia Feng, Jinpeng Yu et al."
-  },
-  {
-    "id": "arxiv_1783473612311_4",
-    "name": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
-    "category": "computer-vision",
-    "description": "Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutof...",
-    "link": "http://arxiv.org/abs/2607.05382v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-06T17:56:12Z",
-    "trending": false,
-    "source": "arXiv - Haozhe Wang, Weijia Feng, Jinpeng Yu et al."
-  },
-  {
-    "id": "arxiv_1783473612392_4",
-    "name": "What Does a Discrete Diffusion Model Learn?",
-    "category": "machine-learning",
-    "description": "What does a discrete diffusion model learn: a denoiser, a score ratio, or a bridge plug-in predictor? At the level of jump rates, these are one object in different coordinates, and reading a neural ne...",
-    "link": "http://arxiv.org/abs/2607.05381v1",
-    "tags": [
-      "AI",
-      "Neural",
       "Diffusion"
     ],
-    "date": "2026-07-06T17:56:11Z",
+    "date": "2026-07-07T16:58:00Z",
     "trending": false,
-    "source": "arXiv - Rodrigo Casado Noguerales, Bernhard Schölkopf, Thomas Hofmann et al."
-  },
-  {
-    "id": "arxiv_1783473612474_2",
-    "name": "What Does a Discrete Diffusion Model Learn?",
-    "category": "nlp",
-    "description": "What does a discrete diffusion model learn: a denoiser, a score ratio, or a bridge plug-in predictor? At the level of jump rates, these are one object in different coordinates, and reading a neural ne...",
-    "link": "http://arxiv.org/abs/2607.05381v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Diffusion"
-    ],
-    "date": "2026-07-06T17:56:11Z",
-    "trending": true,
-    "source": "arXiv - Rodrigo Casado Noguerales, Bernhard Schölkopf, Thomas Hofmann et al."
-  },
-  {
-    "id": "arxiv_1783473612474_3",
-    "name": "GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks",
-    "category": "nlp",
-    "description": "For robots to work reliably in commercial and industrial applications, can recent advances in agentic coding systems combine interpretable robot programming with the open-world adaptability of model-f...",
-    "link": "http://arxiv.org/abs/2607.05369v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-06T17:47:31Z",
-    "trending": false,
-    "source": "arXiv - Kaiyuan Chen, Shuangyu Xie, Letian Fu et al."
-  },
-  {
-    "id": "arxiv_1783473612474_4",
-    "name": "SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models",
-    "category": "nlp",
-    "description": "Streaming speech-to-speech language models aim to answer spoken queries directly with synthetic speech. However, standard speech and text benchmarks do not capture whether these systems behave natural...",
-    "link": "http://arxiv.org/abs/2607.05365v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-06T17:42:59Z",
-    "trending": false,
-    "source": "arXiv - Thomas Thebaud, Yuzhe Wang, Hao Zhang et al."
+    "source": "arXiv - Przemysław Rola"
   }
 ]
