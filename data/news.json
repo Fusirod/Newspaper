@@ -1,6 +1,82 @@
 [
   {
-    "id": "rss_Ars_Technica_1783604422311_0",
+    "id": "rss_Wired_1783613967966_0",
+    "title": "The 1X Neo Robot Has Freaky Fast Fingers",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The soft, weirdly sexualized home-chore robot has been given some very tactile hands.",
+    "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
+    "tags": [
+      "Robot"
+    ],
+    "date": "Thu, 09 Jul 2026 16:01:22 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783613966789_0",
+    "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Oddly, it wasn't the first time this had happened to the man.\n                    ",
+    "link": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
+    "tags": [],
+    "date": "Thu, 09 Jul 2026 15:33:41 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1783613963080_0",
+    "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+    "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+    "tags": [
+      "AI",
+      "Chatbot"
+    ],
+    "date": "Thu, 09 Jul 2026 14:53:09 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1783613963080_1",
+    "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+    "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Thu, 09 Jul 2026 14:51:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783613966789_1",
+    "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"You promised me that you would never take power in your name.\"\n                    ",
+    "link": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 09 Jul 2026 14:45:44 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783613966789_2",
+    "title": "Ruf debuts new flat-eight engine at Goodwood",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The 4.8 L eight-cylinder generates more than 1,000 hp and 1,000 Nm, Ruf says.\n                    ",
+    "link": "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
+    "tags": [],
+    "date": "Thu, 09 Jul 2026 14:32:48 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783613966789_3",
     "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,10 +87,10 @@
       "Robot"
     ],
     "date": "Thu, 09 Jul 2026 13:31:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1783604422311_1",
+    "id": "rss_Ars_Technica_1783613966789_4",
     "title": "The newest entrant in the military’s launch competition isn't actually a launch company",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -27,20 +103,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783604418788_0",
-    "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
-    "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 09 Jul 2026 13:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1783604418788_1",
+    "id": "rss_TechCrunch_1783613963080_2",
     "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -53,7 +116,20 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783604420994_0",
+    "id": "rss_TechCrunch_1783613963080_3",
+    "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+    "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 09 Jul 2026 13:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1783613965425_0",
     "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -67,7 +143,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783604418789_2",
+    "id": "rss_TechCrunch_1783613963080_4",
     "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -78,21 +154,10 @@
       "Startup"
     ],
     "date": "Thu, 09 Jul 2026 12:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1783604422312_2",
-    "title": "Payloads used to dictate the terms of launch. That's finally changing.",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        \"The Starship Pez dispenser demonstrates very smart industrial design and scale.\"\n                    ",
-    "link": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
-    "tags": [],
-    "date": "Thu, 09 Jul 2026 11:00:26 +0000",
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1783604420994_1",
+    "id": "rss_MIT_Tech_Review_1783613965425_1",
     "title": "Four nuclear reactors hit a big milestone in the US",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -103,31 +168,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783604418789_3",
-    "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported. ",
-    "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-    "tags": [],
-    "date": "Wed, 08 Jul 2026 22:41:33 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1783604422312_3",
-    "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        AI cheating leads to \"a failed society,\" professor says.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 08 Jul 2026 21:42:44 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1783604423349_0",
+    "id": "rss_Wired_1783613967966_1",
     "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
     "category": "ai-news",
     "source": "Wired",
@@ -138,24 +179,10 @@
       "Startup"
     ],
     "date": "Wed, 08 Jul 2026 21:08:26 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1783604418789_4",
-    "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
-    "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Wed, 08 Jul 2026 20:37:03 +0000",
     "trending": false
   },
   {
-    "id": "rss_Wired_1783604423349_1",
+    "id": "rss_Wired_1783613967966_2",
     "title": "I Built a Self-Improving AI, and So Can You",
     "category": "ai-news",
     "source": "Wired",
@@ -168,18 +195,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783604422312_4",
-    "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        More young girls sue X over Grok CSAM; X accused of shielding child predators.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
-    "tags": [],
-    "date": "Wed, 08 Jul 2026 19:56:37 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1783604420994_2",
+    "id": "rss_MIT_Tech_Review_1783613965425_2",
     "title": "EmTech AI 2026: The Rise of the AI Platform",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -192,7 +208,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783604420994_3",
+    "id": "rss_MIT_Tech_Review_1783613965425_3",
     "title": "The Download: worms fight pollution, and geoengineering faces reality",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -205,7 +221,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783604423349_2",
+    "id": "rss_Wired_1783613967966_3",
     "title": "Pickup Artist Mystery Has an AI Girlfriend",
     "category": "ai-news",
     "source": "Wired",
@@ -219,7 +235,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783604423349_3",
+    "id": "rss_Wired_1783613967966_4",
     "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
     "category": "ai-news",
     "source": "Wired",
@@ -232,21 +248,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783604423349_4",
-    "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
-    "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Tue, 07 Jul 2026 21:59:29 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1783604420994_4",
+    "id": "rss_MIT_Tech_Review_1783613965425_4",
     "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -260,7 +262,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783604432038_0",
+    "id": "rss_Distill_1783613976886_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -273,7 +275,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1783604432038_1",
+    "id": "rss_Distill_1783613976886_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -286,7 +288,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783604432038_2",
+    "id": "rss_Distill_1783613976886_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -294,10 +296,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1783604432038_3",
+    "id": "rss_Distill_1783613976886_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -310,7 +312,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1783604432038_4",
+    "id": "rss_Distill_1783613976886_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -318,6 +320,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
