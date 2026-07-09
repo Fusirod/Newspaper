@@ -1,6 +1,98 @@
 [
   {
-    "id": "rss_Ars_Technica_1783629020738_0",
+    "id": "rss_TechCrunch_1783635044352_0",
+    "title": "An AI agent startup just let its agent run its $100 million fundraise",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+    "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Thu, 09 Jul 2026 22:08:58 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1783635044353_1",
+    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension. ",
+    "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Thu, 09 Jul 2026 22:03:54 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1783635044353_2",
+    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can. ",
+    "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 09 Jul 2026 21:57:42 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1783635048010_0",
+    "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        In neighboring Ohio, cases have reportedly reached over 500. \n                    ",
+    "link": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
+    "tags": [],
+    "date": "Thu, 09 Jul 2026 21:56:44 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1783635044353_3",
+    "title": "Can AI answer the $3 trillion question?",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+    "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 09 Jul 2026 21:47:50 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783635048010_1",
+    "title": "OpenAI wants its new tool to do your work for you and with you",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Rebranded Codex promises independent workflows that can run \"for hours if needed.\"\n                    ",
+    "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Thu, 09 Jul 2026 21:25:55 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1783635048010_2",
+    "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.\n                    ",
+    "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+    "tags": [
+      "Microsoft"
+    ],
+    "date": "Thu, 09 Jul 2026 20:52:55 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783635048010_3",
     "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -8,10 +100,23 @@
     "link": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
     "tags": [],
     "date": "Thu, 09 Jul 2026 20:28:55 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1783635046659_0",
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ",
+    "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 09 Jul 2026 20:22:28 +0000",
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1783629020738_1",
+    "id": "rss_Ars_Technica_1783635048010_4",
     "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -21,10 +126,10 @@
       "Robot"
     ],
     "date": "Thu, 09 Jul 2026 20:12:03 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783629016895_0",
+    "id": "rss_TechCrunch_1783635044353_4",
     "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -39,79 +144,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783629020738_2",
-    "title": "Judge doesn't like Elon Musk settlement with SEC, but says court can't block it",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Judge reluctantly approves $1.5M settlement with SEC over Twitter stock violation.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
-    "tags": [],
-    "date": "Thu, 09 Jul 2026 19:10:33 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1783629016895_1",
-    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-    "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "ChatGPT",
-      "GPT"
-    ],
-    "date": "Thu, 09 Jul 2026 19:05:58 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1783629020738_3",
-    "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "ChatGPT",
-      "GPT"
-    ],
-    "date": "Thu, 09 Jul 2026 18:57:53 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1783629016895_2",
-    "title": "Google will now disclose which ads are made with AI",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
-    "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Thu, 09 Jul 2026 18:40:51 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1783629016895_3",
-    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-    "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-    "tags": [
-      "AI",
-      "NVIDIA",
-      "Startup"
-    ],
-    "date": "Thu, 09 Jul 2026 18:34:35 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1783629021968_0",
+    "id": "rss_Wired_1783635049230_0",
     "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
     "category": "ai-news",
     "source": "Wired",
@@ -124,21 +157,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783629016895_4",
-    "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-    "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Thu, 09 Jul 2026 18:22:39 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1783629021968_1",
+    "id": "rss_Wired_1783635049230_1",
     "title": "The 1X Neo Robot Has Freaky Fast Fingers",
     "category": "ai-news",
     "source": "Wired",
@@ -151,18 +170,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1783629020738_4",
-    "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Oddly, it wasn't the first time this had happened to the man.\n                    ",
-    "link": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
-    "tags": [],
-    "date": "Thu, 09 Jul 2026 15:33:41 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1783629019198_0",
+    "id": "rss_MIT_Tech_Review_1783635046659_1",
     "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -173,10 +181,10 @@
       "NVIDIA"
     ],
     "date": "Thu, 09 Jul 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1783629021968_2",
+    "id": "rss_Wired_1783635049230_2",
     "title": "The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’",
     "category": "ai-news",
     "source": "Wired",
@@ -186,10 +194,10 @@
       "AI"
     ],
     "date": "Thu, 09 Jul 2026 10:01:30 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783629019199_1",
+    "id": "rss_MIT_Tech_Review_1783635046659_2",
     "title": "Four nuclear reactors hit a big milestone in the US",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -197,10 +205,10 @@
     "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
     "tags": [],
     "date": "Thu, 09 Jul 2026 08:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1783629021968_3",
+    "id": "rss_Wired_1783635049230_3",
     "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
     "category": "ai-news",
     "source": "Wired",
@@ -214,7 +222,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783629021968_4",
+    "id": "rss_Wired_1783635049230_4",
     "title": "I Built a Self-Improving AI, and So Can You",
     "category": "ai-news",
     "source": "Wired",
@@ -227,7 +235,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783629019199_2",
+    "id": "rss_MIT_Tech_Review_1783635046659_3",
     "title": "EmTech AI 2026: The Rise of the AI Platform",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -240,7 +248,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783629019199_3",
+    "id": "rss_MIT_Tech_Review_1783635046659_4",
     "title": "The Download: worms fight pollution, and geoengineering faces reality",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -253,21 +261,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783629019199_4",
-    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with report",
-    "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Tue, 07 Jul 2026 12:10:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1783629031059_0",
+    "id": "rss_Distill_1783635058178_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -280,7 +274,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783629031059_1",
+    "id": "rss_Distill_1783635058179_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -290,10 +284,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1783629031059_2",
+    "id": "rss_Distill_1783635058179_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -304,7 +298,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783629031060_3",
+    "id": "rss_Distill_1783635058179_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -317,7 +311,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783629031060_4",
+    "id": "rss_Distill_1783635058179_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
