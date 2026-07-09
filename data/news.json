@@ -1,10 +1,92 @@
 [
   {
-    "id": "rss_TechCrunch_1783622655160_0",
+    "id": "rss_Ars_Technica_1783629020738_0",
+    "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Broadcom accuses Allstate of dodging VMware audits. \n                    ",
+    "link": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
+    "tags": [],
+    "date": "Thu, 09 Jul 2026 20:28:55 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1783629020738_1",
+    "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Preclinical trial is testing the feasibility of humanoid robots in surgery.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+    "tags": [
+      "Robot"
+    ],
+    "date": "Thu, 09 Jul 2026 20:12:03 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1783629016895_0",
+    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+    "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "tags": [
+      "AI",
+      "Meta",
+      "Automation"
+    ],
+    "date": "Thu, 09 Jul 2026 19:40:45 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783629020738_2",
+    "title": "Judge doesn't like Elon Musk settlement with SEC, but says court can't block it",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Judge reluctantly approves $1.5M settlement with SEC over Twitter stock violation.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
+    "tags": [],
+    "date": "Thu, 09 Jul 2026 19:10:33 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1783629016895_1",
+    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+    "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "ChatGPT",
+      "GPT"
+    ],
+    "date": "Thu, 09 Jul 2026 19:05:58 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1783629020738_3",
+    "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "ChatGPT",
+      "GPT"
+    ],
+    "date": "Thu, 09 Jul 2026 18:57:53 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1783629016895_2",
     "title": "Google will now disclose which ads are made with AI",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "A new feature will indicate when advertisers have used generative AI tools to create or edit their ads, Google says.",
+    "description": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
     "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
     "tags": [
       "AI",
@@ -14,11 +96,11 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783622655160_1",
+    "id": "rss_TechCrunch_1783629016895_3",
     "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "The Paris-based ElevenLabs competitor, just announced a hefty seed extension round.",
+    "description": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
     "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
     "tags": [
       "AI",
@@ -26,10 +108,10 @@
       "Startup"
     ],
     "date": "Thu, 09 Jul 2026 18:34:35 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1783622659818_0",
+    "id": "rss_Wired_1783629021968_0",
     "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
     "category": "ai-news",
     "source": "Wired",
@@ -42,7 +124,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783622655160_2",
+    "id": "rss_TechCrunch_1783629016895_4",
     "title": "How did the government decide OpenAI’s frontier model was safe to release?",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -56,35 +138,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783622655160_3",
-    "title": "How to stop Meta’s AI image generator from using your Instagram photos",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Meta's new AI image generator is using your public Instagram photos unless you opt out. Here's how to do that. ",
-    "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Thu, 09 Jul 2026 17:56:47 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1783622655160_4",
-    "title": "Meta’s new AI chips will begin production in September",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-    "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Thu, 09 Jul 2026 17:17:37 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1783622659818_1",
+    "id": "rss_Wired_1783629021968_1",
     "title": "The 1X Neo Robot Has Freaky Fast Fingers",
     "category": "ai-news",
     "source": "Wired",
@@ -94,10 +148,10 @@
       "Robot"
     ],
     "date": "Thu, 09 Jul 2026 16:01:22 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1783622658761_0",
+    "id": "rss_Ars_Technica_1783629020738_4",
     "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -105,61 +159,10 @@
     "link": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
     "tags": [],
     "date": "Thu, 09 Jul 2026 15:33:41 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1783622658762_1",
-    "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        \"You promised me that you would never take power in your name.\"\n                    ",
-    "link": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 09 Jul 2026 14:45:44 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1783622658762_2",
-    "title": "Ruf debuts new flat-eight engine at Goodwood",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The 4.8 L eight-cylinder generates more than 1,000 hp and 1,000 Nm, Ruf says.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
-    "tags": [],
-    "date": "Thu, 09 Jul 2026 14:32:48 +0000",
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1783622658762_3",
-    "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        State agency's delay could mean free robotaxi rides in company’s new Ojai vehicle for a few months.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
-    "tags": [
-      "AI",
-      "Robot"
-    ],
-    "date": "Thu, 09 Jul 2026 13:31:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1783622658762_4",
-    "title": "The newest entrant in the military’s launch competition isn't actually a launch company",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        \"I think it's fair to say that Phase 3 did not contemplate this.\"\n                    ",
-    "link": "https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 09 Jul 2026 13:08:27 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1783622657299_0",
+    "id": "rss_MIT_Tech_Review_1783629019198_0",
     "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -170,10 +173,10 @@
       "NVIDIA"
     ],
     "date": "Thu, 09 Jul 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1783622659818_2",
+    "id": "rss_Wired_1783629021968_2",
     "title": "The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’",
     "category": "ai-news",
     "source": "Wired",
@@ -183,10 +186,10 @@
       "AI"
     ],
     "date": "Thu, 09 Jul 2026 10:01:30 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1783622657299_1",
+    "id": "rss_MIT_Tech_Review_1783629019199_1",
     "title": "Four nuclear reactors hit a big milestone in the US",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -194,10 +197,10 @@
     "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
     "tags": [],
     "date": "Thu, 09 Jul 2026 08:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1783622659818_3",
+    "id": "rss_Wired_1783629021968_3",
     "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
     "category": "ai-news",
     "source": "Wired",
@@ -211,7 +214,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783622659818_4",
+    "id": "rss_Wired_1783629021968_4",
     "title": "I Built a Self-Improving AI, and So Can You",
     "category": "ai-news",
     "source": "Wired",
@@ -224,7 +227,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783622657299_2",
+    "id": "rss_MIT_Tech_Review_1783629019199_2",
     "title": "EmTech AI 2026: The Rise of the AI Platform",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -234,10 +237,10 @@
       "AI"
     ],
     "date": "Wed, 08 Jul 2026 16:26:10 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783622657299_3",
+    "id": "rss_MIT_Tech_Review_1783629019199_3",
     "title": "The Download: worms fight pollution, and geoengineering faces reality",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -247,10 +250,10 @@
       "AI"
     ],
     "date": "Wed, 08 Jul 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783622657299_4",
+    "id": "rss_MIT_Tech_Review_1783629019199_4",
     "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -264,7 +267,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783622672692_0",
+    "id": "rss_Distill_1783629031059_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -274,10 +277,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1783622672692_1",
+    "id": "rss_Distill_1783629031059_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -290,7 +293,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1783622672692_2",
+    "id": "rss_Distill_1783629031059_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -298,10 +301,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1783622672692_3",
+    "id": "rss_Distill_1783629031060_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -311,10 +314,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1783622672692_4",
+    "id": "rss_Distill_1783629031060_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
