@@ -1,282 +1,292 @@
 [
   {
-    "id": "arxiv_1783555040246_0",
-    "name": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+    "id": "arxiv_1783563274250_0",
+    "name": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
     "category": "ai",
-    "description": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena...",
-    "link": "http://arxiv.org/abs/2607.06565v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-07T17:59:50Z",
-    "trending": true,
-    "source": "arXiv - Tianjiao Yu, Xinzhuo Li, Yifan Shen et al."
-  },
-  {
-    "id": "arxiv_1783555040522_0",
-    "name": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
-    "category": "computer-vision",
-    "description": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena...",
-    "link": "http://arxiv.org/abs/2607.06565v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-07T17:59:50Z",
-    "trending": false,
-    "source": "arXiv - Tianjiao Yu, Xinzhuo Li, Yifan Shen et al."
-  },
-  {
-    "id": "arxiv_1783555040853_0",
-    "name": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
-    "category": "machine-learning",
-    "description": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena...",
-    "link": "http://arxiv.org/abs/2607.06565v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-07T17:59:50Z",
-    "trending": false,
-    "source": "arXiv - Tianjiao Yu, Xinzhuo Li, Yifan Shen et al."
-  },
-  {
-    "id": "arxiv_1783555040522_1",
-    "name": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
-    "category": "computer-vision",
-    "description": "Recently, Vision-Language-Action (VLA) models have demonstrated strong generalization across diverse tasks. However, effective robotic manipulation in physical environments fundamentally requires geom...",
-    "link": "http://arxiv.org/abs/2607.06564v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-07-07T17:59:47Z",
-    "trending": false,
-    "source": "arXiv - Jiaming Liu, Qingpo Wuwu, Nuowei Han et al."
-  },
-  {
-    "id": "arxiv_1783555040523_2",
-    "name": "Vision as Unified Multimodal Generation",
-    "category": "computer-vision",
-    "description": "We formulate computer vision as unified multimodal generation, where heterogeneous visual tasks are expressed in the native text and image generation spaces of a unified multimodal model, without task...",
-    "link": "http://arxiv.org/abs/2607.06560v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-07-07T17:58:33Z",
-    "trending": false,
-    "source": "arXiv - Xiaoyang Han, Jianhua Li, Kewang Deng et al."
-  },
-  {
-    "id": "arxiv_1783555040523_3",
-    "name": "ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation",
-    "category": "computer-vision",
-    "description": "Tracking the six-degree-of-freedom (6-DoF) pose of objects and surfaces from monocular video is a long-standing problem in computer vision. To tackle this problem, existing methods require inputs beyo...",
-    "link": "http://arxiv.org/abs/2607.06555v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Diffusion"
-    ],
-    "date": "2026-07-07T17:56:07Z",
-    "trending": false,
-    "source": "arXiv - Ruihang Zhang, Felix Taubner, Pooja Ravi et al."
-  },
-  {
-    "id": "arxiv_1783555040523_4",
-    "name": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
-    "category": "computer-vision",
-    "description": "Large-scale text-to-image models are attractive backbones for dense prediction because RGB generation pretraining learns rich semantic, structural, and geometric priors. Existing generative and editin...",
-    "link": "http://arxiv.org/abs/2607.06553v1",
+    "description": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization....",
+    "link": "http://arxiv.org/abs/2607.07708v1",
     "tags": [
       "AI",
       "GAN"
     ],
-    "date": "2026-07-07T17:54:28Z",
-    "trending": true,
-    "source": "arXiv - Zanyi Wang, Xin Lin, Haodong Li et al."
+    "date": "2026-07-08T17:59:59Z",
+    "trending": false,
+    "source": "arXiv - Chen Tang, Yizhou Wang, Jianyu Wu et al."
   },
   {
-    "id": "arxiv_1783555040246_1",
-    "name": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
-    "category": "ai",
-    "description": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoi...",
-    "link": "http://arxiv.org/abs/2607.06546v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-07-07T17:52:17Z",
-    "trending": true,
-    "source": "arXiv - Shervin Khalafi, Igor Krawczuk, Sergio Rozada et al."
-  },
-  {
-    "id": "arxiv_1783555040853_1",
-    "name": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+    "id": "arxiv_1783563274300_0",
+    "name": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
     "category": "machine-learning",
-    "description": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoi...",
-    "link": "http://arxiv.org/abs/2607.06546v1",
+    "description": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization....",
+    "link": "http://arxiv.org/abs/2607.07708v1",
     "tags": [
       "AI",
-      "Transformer",
-      "Diffusion"
+      "GAN"
     ],
-    "date": "2026-07-07T17:52:17Z",
-    "trending": true,
-    "source": "arXiv - Shervin Khalafi, Igor Krawczuk, Sergio Rozada et al."
+    "date": "2026-07-08T17:59:59Z",
+    "trending": false,
+    "source": "arXiv - Chen Tang, Yizhou Wang, Jianyu Wu et al."
   },
   {
-    "id": "arxiv_1783555040246_2",
-    "name": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+    "id": "arxiv_1783563274324_0",
+    "name": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+    "category": "nlp",
+    "description": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization....",
+    "link": "http://arxiv.org/abs/2607.07708v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-07-08T17:59:59Z",
+    "trending": false,
+    "source": "arXiv - Chen Tang, Yizhou Wang, Jianyu Wu et al."
+  },
+  {
+    "id": "arxiv_1783563274250_1",
+    "name": "Co-LMLM: Continuous-Query Limited Memory Language Models",
     "category": "ai",
-    "description": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this ...",
-    "link": "http://arxiv.org/abs/2607.06544v1",
+    "description": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches ...",
+    "link": "http://arxiv.org/abs/2607.07707v1",
     "tags": [
       "AI",
-      "NLP"
+      "LLM",
+      "GPT"
     ],
-    "date": "2026-07-07T17:51:10Z",
+    "date": "2026-07-08T17:59:45Z",
+    "trending": false,
+    "source": "arXiv - Yair Feldman, Linxi Zhao, Nathan Godey et al."
+  },
+  {
+    "id": "arxiv_1783563274300_1",
+    "name": "Co-LMLM: Continuous-Query Limited Memory Language Models",
+    "category": "machine-learning",
+    "description": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches ...",
+    "link": "http://arxiv.org/abs/2607.07707v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "GPT"
+    ],
+    "date": "2026-07-08T17:59:45Z",
+    "trending": false,
+    "source": "arXiv - Yair Feldman, Linxi Zhao, Nathan Godey et al."
+  },
+  {
+    "id": "arxiv_1783563274324_1",
+    "name": "Co-LMLM: Continuous-Query Limited Memory Language Models",
+    "category": "nlp",
+    "description": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches ...",
+    "link": "http://arxiv.org/abs/2607.07707v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "GPT"
+    ],
+    "date": "2026-07-08T17:59:45Z",
+    "trending": false,
+    "source": "arXiv - Yair Feldman, Linxi Zhao, Nathan Godey et al."
+  },
+  {
+    "id": "arxiv_1783563274300_2",
+    "name": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
+    "category": "machine-learning",
+    "description": "The quadratic cost of causal self-attention severely bottlenecks long-context transformer inference. While numerous post hoc linearization pipelines exist, it is difficult to identify which components...",
+    "link": "http://arxiv.org/abs/2607.07706v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-07-08T17:59:09Z",
     "trending": true,
-    "source": "arXiv - Aparna Madva, Sharath Srivatsa, Srinath Srinivasa et al."
+    "source": "arXiv - Anna Kuzina, Paul N. Whatmough, Babak Ehteshami Bejnordi"
   },
   {
-    "id": "arxiv_1783555041210_0",
-    "name": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+    "id": "arxiv_1783563274324_2",
+    "name": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
     "category": "nlp",
-    "description": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this ...",
-    "link": "http://arxiv.org/abs/2607.06544v1",
+    "description": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policie...",
+    "link": "http://arxiv.org/abs/2607.07702v1",
     "tags": [
       "AI",
-      "NLP"
-    ],
-    "date": "2026-07-07T17:51:10Z",
-    "trending": false,
-    "source": "arXiv - Aparna Madva, Sharath Srivatsa, Srinath Srinivasa et al."
-  },
-  {
-    "id": "arxiv_1783555041210_1",
-    "name": "On the feasibility of dependency parsing of non-human sequences without a gold standard. Is evaluation possible in other species?",
-    "category": "nlp",
-    "description": "Dependency parsing consists of finding a tree representation for a sequence. Unsupervised dependency parsing aims to develop parsing methods without a gold standard during model training. In human lan...",
-    "link": "http://arxiv.org/abs/2607.06542v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-07T17:47:26Z",
-    "trending": false,
-    "source": "arXiv - Ramon Ferrer-i-Cancho, Catherine Hobaiter, Thore Bergman et al."
-  },
-  {
-    "id": "arxiv_1783555041210_2",
-    "name": "Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs",
-    "category": "nlp",
-    "description": "Developing seamless, high-performance, native intelligent full-duplex Spoken Language Models (SLMs) remains a critical challenge and long-standing goal for the speech and NLP community. Despite notabl...",
-    "link": "http://arxiv.org/abs/2607.06540v1",
-    "tags": [
-      "AI",
-      "NLP",
-      "GAN",
+      "LLM",
       "Optimization"
     ],
-    "date": "2026-07-07T17:43:36Z",
-    "trending": false,
-    "source": "arXiv - Zhenyu Liu, Yunxin Li, Xuanyu Zhang et al."
-  },
-  {
-    "id": "arxiv_1783555040853_2",
-    "name": "GraphBU: MILP Instance Generation with Graph-Native Block Units",
-    "category": "machine-learning",
-    "description": "Mixed-integer linear programming (MILP) instances used for solver development are hard to obtain when models come from private or application-specific pipelines. A generator must keep the structure th...",
-    "link": "http://arxiv.org/abs/2607.06532v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-07T17:39:06Z",
-    "trending": false,
-    "source": "arXiv - Xiaolei Guo, Chenyu Zhou, Jianghao Lin et al."
-  },
-  {
-    "id": "arxiv_1783555040246_3",
-    "name": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
-    "category": "ai",
-    "description": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. T...",
-    "link": "http://arxiv.org/abs/2607.06531v1",
-    "tags": [
-      "AI",
-      "Deep Learning"
-    ],
-    "date": "2026-07-07T17:38:47Z",
-    "trending": false,
-    "source": "arXiv - Ghassen Marrakchi, Basarab Matei"
-  },
-  {
-    "id": "arxiv_1783555040853_3",
-    "name": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
-    "category": "machine-learning",
-    "description": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. T...",
-    "link": "http://arxiv.org/abs/2607.06531v1",
-    "tags": [
-      "AI",
-      "Deep Learning"
-    ],
-    "date": "2026-07-07T17:38:47Z",
+    "date": "2026-07-08T17:57:27Z",
     "trending": true,
-    "source": "arXiv - Ghassen Marrakchi, Basarab Matei"
+    "source": "arXiv - Ying Chang, Jiahang Xu, Xuan Feng et al."
   },
   {
-    "id": "arxiv_1783555041210_3",
-    "name": "Life Style Levels: Neighborhood Delineation using Geospatial Data",
-    "category": "nlp",
-    "description": "Fine-scale socioeconomic information is often unavailable across rapidly ur-banizing regions of the developing world, like India, limiting the ability to delineate intra-urban variations in affluence ...",
-    "link": "http://arxiv.org/abs/2607.06529v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-07T17:37:03Z",
-    "trending": true,
-    "source": "arXiv - Srivatsa Kulkarni, Debarag Banerjee"
-  },
-  {
-    "id": "arxiv_1783555040246_4",
-    "name": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation",
+    "id": "arxiv_1783563274251_2",
+    "name": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass",
     "category": "ai",
-    "description": "Multi-hop Question Answering over Knowledge Graphs faces a critical challenge: traditional retrieve-then-read pipelines break differentiability, preventing the retriever from learning to bridge the se...",
-    "link": "http://arxiv.org/abs/2607.06527v1",
+    "description": "Analytical workloads operating on data stored in external database systems face a fundamental bottleneck: data access is guarded entirely by the database driver, like JDBC or ODBC, forcing all reads t...",
+    "link": "http://arxiv.org/abs/2607.07696v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-07-07T17:32:36Z",
-    "trending": false,
-    "source": "arXiv - Sambaran Bandyopadhyay, Ananth Muppidi"
-  },
-  {
-    "id": "arxiv_1783555041210_4",
-    "name": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation",
-    "category": "nlp",
-    "description": "Multi-hop Question Answering over Knowledge Graphs faces a critical challenge: traditional retrieve-then-read pipelines break differentiability, preventing the retriever from learning to bridge the se...",
-    "link": "http://arxiv.org/abs/2607.06527v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-07T17:32:36Z",
-    "trending": false,
-    "source": "arXiv - Sambaran Bandyopadhyay, Ananth Muppidi"
-  },
-  {
-    "id": "arxiv_1783555040853_4",
-    "name": "EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning",
-    "category": "machine-learning",
-    "description": "We introduce EntroPath, a manifold learning method that recovers geodesic geometry from data graphs through ensembles of diffusion paths. Many existing graph-based embeddings rely either on locally no...",
-    "link": "http://arxiv.org/abs/2607.06497v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-07-07T16:58:00Z",
+    "date": "2026-07-08T17:55:00Z",
     "trending": true,
-    "source": "arXiv - Przemysław Rola"
+    "source": "arXiv - Victor Giannakouris, Immanuel Trummer"
+  },
+  {
+    "id": "arxiv_1783563274251_3",
+    "name": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
+    "category": "ai",
+    "description": "We introduce institutional red-teaming, an evaluation methodology for testing deployment rules in multi-agent AI: hold the agents, objectives, and task state fixed, vary only one rule, and attribute t...",
+    "link": "http://arxiv.org/abs/2607.07695v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "GPT"
+    ],
+    "date": "2026-07-08T17:53:56Z",
+    "trending": false,
+    "source": "arXiv - Yujiao Chen"
+  },
+  {
+    "id": "arxiv_1783563274252_4",
+    "name": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
+    "category": "ai",
+    "description": "Reinforcement learning from human feedback (RLHF) has emerged as a powerful paradigm for aligning generative models with human preferences. However, applying RLHF to diffusion models remains highly fe...",
+    "link": "http://arxiv.org/abs/2607.07693v1",
+    "tags": [
+      "AI",
+      "Diffusion",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-07-08T17:49:49Z",
+    "trending": false,
+    "source": "arXiv - Eric Zhu, Abhinav Shrivastava, Soumik Mukhopadhyay"
+  },
+  {
+    "id": "arxiv_1783563274276_0",
+    "name": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
+    "category": "computer-vision",
+    "description": "Reinforcement learning from human feedback (RLHF) has emerged as a powerful paradigm for aligning generative models with human preferences. However, applying RLHF to diffusion models remains highly fe...",
+    "link": "http://arxiv.org/abs/2607.07693v1",
+    "tags": [
+      "AI",
+      "Diffusion",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-07-08T17:49:49Z",
+    "trending": true,
+    "source": "arXiv - Eric Zhu, Abhinav Shrivastava, Soumik Mukhopadhyay"
+  },
+  {
+    "id": "arxiv_1783563274300_3",
+    "name": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
+    "category": "machine-learning",
+    "description": "Reinforcement learning from human feedback (RLHF) has emerged as a powerful paradigm for aligning generative models with human preferences. However, applying RLHF to diffusion models remains highly fe...",
+    "link": "http://arxiv.org/abs/2607.07693v1",
+    "tags": [
+      "AI",
+      "Diffusion",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-07-08T17:49:49Z",
+    "trending": false,
+    "source": "arXiv - Eric Zhu, Abhinav Shrivastava, Soumik Mukhopadhyay"
+  },
+  {
+    "id": "arxiv_1783563274300_4",
+    "name": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+    "category": "machine-learning",
+    "description": "Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather ...",
+    "link": "http://arxiv.org/abs/2607.07690v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-07-08T17:49:14Z",
+    "trending": true,
+    "source": "arXiv - Vladislav Beliaev"
+  },
+  {
+    "id": "arxiv_1783563274324_3",
+    "name": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+    "category": "nlp",
+    "description": "Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather ...",
+    "link": "http://arxiv.org/abs/2607.07690v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-07-08T17:49:14Z",
+    "trending": false,
+    "source": "arXiv - Vladislav Beliaev"
+  },
+  {
+    "id": "arxiv_1783563274277_1",
+    "name": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+    "category": "computer-vision",
+    "description": "Despite the recent promise in robot control, video generative models suffer from a domain mismatch due to their primary focus on content creation. For example, their design inherently prioritizes visu...",
+    "link": "http://arxiv.org/abs/2607.07675v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-08T17:33:40Z",
+    "trending": false,
+    "source": "arXiv - Shuailei Ma, Jiaqi Liao, Xinyang Wang et al."
+  },
+  {
+    "id": "arxiv_1783563274324_4",
+    "name": "Max Out GRPO Signal: Adaptive Trace Prefix Control for Hard Reasoning Problems",
+    "category": "nlp",
+    "description": "Group Relative Policy Optimization (GRPO) stalls on a model's hardest problems: when no rollout in a group succeeds, the group-relative advantages vanish and the problem contributes no gradient, wasti...",
+    "link": "http://arxiv.org/abs/2607.07674v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-07-08T17:32:58Z",
+    "trending": false,
+    "source": "arXiv - Vladislav Beliaev"
+  },
+  {
+    "id": "arxiv_1783563274277_2",
+    "name": "MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models",
+    "category": "computer-vision",
+    "description": "Medicine is inherently multimodal, requiring clinicians to synthesize information across diverse data streams. Yet the development of multimodal foundation models is constrained by limited access to l...",
+    "link": "http://arxiv.org/abs/2607.07673v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-07-08T17:26:49Z",
+    "trending": true,
+    "source": "arXiv - Hyunjae Kim, Dain Kim, Pan Xiao et al."
+  },
+  {
+    "id": "arxiv_1783563274277_3",
+    "name": "Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation",
+    "category": "computer-vision",
+    "description": "Mainstream Vision-Language-Action (VLA) models predict actions primarily from the current observation under a Markovian assumption, thus struggling with long-horizon, temporally dependent tasks. Exist...",
+    "link": "http://arxiv.org/abs/2607.07608v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "GAN"
+    ],
+    "date": "2026-07-08T16:26:06Z",
+    "trending": true,
+    "source": "arXiv - Hongyu Qu, Jianzhe Gao, Xiaobin Hu et al."
+  },
+  {
+    "id": "arxiv_1783563274277_4",
+    "name": "Cardiac MRI Through-Plane Super-Resolution Guided by Reference and Memory",
+    "category": "computer-vision",
+    "description": "Clinical cardiac MRI is commonly acquired with high in-plane resolution but coarse through-plane resolution to reduce scan time and accommodate breath-hold and cardiac-motion constraints, which limits...",
+    "link": "http://arxiv.org/abs/2607.07581v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-08T16:04:06Z",
+    "trending": true,
+    "source": "arXiv - Shaoming Pan, Chenchuhui Hu, Leon Axel et al."
   }
 ]
