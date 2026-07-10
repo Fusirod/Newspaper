@@ -1,6 +1,41 @@
 [
   {
-    "id": "rss_MIT_Tech_Review_1783691403081_0",
+    "id": "rss_Ars_Technica_1783699862060_0",
+    "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Digital Services Act may force Meta to make big changes on its platforms.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+    "tags": [
+      "Meta"
+    ],
+    "date": "Fri, 10 Jul 2026 15:46:18 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783699862060_1",
+    "title": "NASA sure seems to be asking an awful lot of private space stations",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"Industry finally knows what NASA is asking of them.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/",
+    "tags": [],
+    "date": "Fri, 10 Jul 2026 15:15:58 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783699862060_2",
+    "title": "Volkswagen Group tells its board how to fix it, unions disagree",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        VW's plan calls for half as many models but didn't mention closures or job cuts.\n                    ",
+    "link": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
+    "tags": [],
+    "date": "Fri, 10 Jul 2026 13:51:10 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1783699860758_0",
     "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -14,7 +49,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783691404408_0",
+    "id": "rss_Ars_Technica_1783699862060_3",
     "title": "Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -24,10 +59,10 @@
       "AI"
     ],
     "date": "Fri, 10 Jul 2026 11:30:29 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1783691404408_1",
+    "id": "rss_Ars_Technica_1783699862060_4",
     "title": "Is an air-conditioning revolution coming to Europe?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -40,31 +75,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783691404408_2",
-    "title": "Rocket Report: \"Panic\" over Transporter availability; Isar to launch from Canada",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        \"We are delighted to actively help shape the ramp-up of the Ariane 6.\"\n                    ",
-    "link": "https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 10 Jul 2026 11:00:43 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1783691404408_3",
-    "title": "Like a cheat code for your car: We investigate ECU tuning",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Now it's an arms race between OEMs locking down chips and tuners trying to crack them.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/",
-    "tags": [],
-    "date": "Fri, 10 Jul 2026 11:00:32 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1783691405493_0",
+    "id": "rss_Wired_1783699863182_0",
     "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
     "category": "ai-news",
     "source": "Wired",
@@ -77,7 +88,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783691403081_1",
+    "id": "rss_MIT_Tech_Review_1783699860758_1",
     "title": "Sperm donors need limits, says a European fertility group",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -85,14 +96,14 @@
     "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
     "tags": [],
     "date": "Fri, 10 Jul 2026 09:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1783691405493_1",
+    "id": "rss_Wired_1783699863182_1",
     "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
     "category": "ai-news",
     "source": "Wired",
-    "description": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
+    "description": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
     "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
     "tags": [
       "AI",
@@ -102,7 +113,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783691400831_0",
+    "id": "rss_TechCrunch_1783699858427_0",
     "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -118,7 +129,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783691400832_1",
+    "id": "rss_TechCrunch_1783699858427_1",
     "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -132,7 +143,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783691405493_2",
+    "id": "rss_Wired_1783699863182_2",
     "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
     "category": "ai-news",
     "source": "Wired",
@@ -146,18 +157,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783691404408_4",
-    "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        If Homo floresiensis wasn't a fire-using hunter, its origins could be different than we thought.\n                    ",
-    "link": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
-    "tags": [],
-    "date": "Thu, 09 Jul 2026 22:29:10 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1783691400832_2",
+    "id": "rss_TechCrunch_1783699858427_2",
     "title": "OpenAI launches its new family of models with GPT-5.6",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -172,7 +172,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783691400832_3",
+    "id": "rss_TechCrunch_1783699858427_3",
     "title": "An AI agent startup just let its agent run its $100M fundraise",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -183,10 +183,10 @@
       "Startup"
     ],
     "date": "Thu, 09 Jul 2026 22:08:58 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783691400832_4",
+    "id": "rss_TechCrunch_1783699858427_4",
     "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -197,10 +197,10 @@
       "OpenAI"
     ],
     "date": "Thu, 09 Jul 2026 22:03:54 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1783691403081_2",
+    "id": "rss_MIT_Tech_Review_1783699860759_2",
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -213,7 +213,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783691405493_3",
+    "id": "rss_Wired_1783699863182_3",
     "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
     "category": "ai-news",
     "source": "Wired",
@@ -223,10 +223,10 @@
       "AI"
     ],
     "date": "Thu, 09 Jul 2026 18:30:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1783691405493_4",
+    "id": "rss_Wired_1783699863182_4",
     "title": "The 1X Neo Robot Has Freaky Fast Fingers",
     "category": "ai-news",
     "source": "Wired",
@@ -236,10 +236,10 @@
       "Robot"
     ],
     "date": "Thu, 09 Jul 2026 16:01:22 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1783691403081_3",
+    "id": "rss_MIT_Tech_Review_1783699860759_3",
     "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -253,7 +253,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783691403081_4",
+    "id": "rss_MIT_Tech_Review_1783699860759_4",
     "title": "Four nuclear reactors hit a big milestone in the US",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -264,7 +264,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783691414545_0",
+    "id": "rss_Distill_1783699872341_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -277,7 +277,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783691414545_1",
+    "id": "rss_Distill_1783699872342_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -287,10 +287,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1783691414545_2",
+    "id": "rss_Distill_1783699872342_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -301,7 +301,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783691414545_3",
+    "id": "rss_Distill_1783699872342_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -311,10 +311,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1783691414545_4",
+    "id": "rss_Distill_1783699872342_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -322,6 +322,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
