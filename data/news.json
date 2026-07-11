@@ -1,6 +1,22 @@
 [
   {
-    "id": "rss_Ars_Technica_1783791806338_0",
+    "id": "rss_TechCrunch_1783795237055_0",
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting. ",
+    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "ChatGPT",
+      "GPT"
+    ],
+    "date": "Sat, 11 Jul 2026 14:13:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1783795240994_0",
     "title": "A Jupiter-size planet that escaped its star's death",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,7 +27,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1783791806338_1",
+    "id": "rss_Ars_Technica_1783795240994_1",
     "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -22,7 +38,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783791807384_0",
+    "id": "rss_Wired_1783795242117_0",
     "title": "OpenAI’s Head of Safety Is Leaving the Company",
     "category": "ai-news",
     "source": "Wired",
@@ -36,7 +52,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783791802717_0",
+    "id": "rss_TechCrunch_1783795237055_1",
     "title": "Meta removes controversial AI feature on Instagram after backlash",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -47,10 +63,10 @@
       "Meta"
     ],
     "date": "Fri, 10 Jul 2026 23:55:07 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1783791806338_2",
+    "id": "rss_Ars_Technica_1783795240994_2",
     "title": "Quantum error correction can constantly recalibrate a processor",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -61,7 +77,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1783791806338_3",
+    "id": "rss_Ars_Technica_1783795240994_3",
     "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -69,10 +85,10 @@
     "link": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
     "tags": [],
     "date": "Fri, 10 Jul 2026 22:37:22 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1783791806338_4",
+    "id": "rss_Ars_Technica_1783795240994_4",
     "title": "China recovered its first reusable rocket and showed a new way to do it",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -83,7 +99,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783791802717_1",
+    "id": "rss_TechCrunch_1783795237055_2",
     "title": "Apple sues OpenAI over alleged trade secret theft",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -94,10 +110,10 @@
       "OpenAI"
     ],
     "date": "Fri, 10 Jul 2026 21:00:29 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1783791807384_1",
+    "id": "rss_Wired_1783795242117_1",
     "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
     "category": "ai-news",
     "source": "Wired",
@@ -111,7 +127,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783791802718_2",
+    "id": "rss_TechCrunch_1783795237055_3",
     "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -121,10 +137,10 @@
       "AI"
     ],
     "date": "Fri, 10 Jul 2026 19:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1783791802718_3",
+    "id": "rss_TechCrunch_1783795237055_4",
     "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -137,20 +153,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1783791802718_4",
-    "title": "Hugging Face’s CEO on why companies are done renting their AI",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st",
-    "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 10 Jul 2026 14:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1783791804862_0",
+    "id": "rss_MIT_Tech_Review_1783795239530_0",
     "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -164,7 +167,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783791807385_2",
+    "id": "rss_Wired_1783795242117_2",
     "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
     "category": "ai-news",
     "source": "Wired",
@@ -177,7 +180,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783791804862_1",
+    "id": "rss_MIT_Tech_Review_1783795239530_1",
     "title": "Sperm donors need limits, says a European fertility group",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -188,7 +191,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783791807385_3",
+    "id": "rss_Wired_1783795242117_3",
     "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
     "category": "ai-news",
     "source": "Wired",
@@ -202,7 +205,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1783791807385_4",
+    "id": "rss_Wired_1783795242117_4",
     "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
     "category": "ai-news",
     "source": "Wired",
@@ -216,7 +219,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783791804862_2",
+    "id": "rss_MIT_Tech_Review_1783795239530_2",
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -226,10 +229,10 @@
       "AI"
     ],
     "date": "Thu, 09 Jul 2026 20:22:28 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1783791804862_3",
+    "id": "rss_MIT_Tech_Review_1783795239530_3",
     "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -240,10 +243,10 @@
       "NVIDIA"
     ],
     "date": "Thu, 09 Jul 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1783791804862_4",
+    "id": "rss_MIT_Tech_Review_1783795239531_4",
     "title": "Four nuclear reactors hit a big milestone in the US",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -254,7 +257,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783791816041_0",
+    "id": "rss_Distill_1783795251567_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -267,7 +270,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783791816041_1",
+    "id": "rss_Distill_1783795251567_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -280,7 +283,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783791816041_2",
+    "id": "rss_Distill_1783795251567_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -291,7 +294,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1783791816041_3",
+    "id": "rss_Distill_1783795251567_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -301,10 +304,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1783791816041_4",
+    "id": "rss_Distill_1783795251567_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
