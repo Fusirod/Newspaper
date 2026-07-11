@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1783727064001_0",
+    "id": "arxiv_1783732769375_0",
     "name": "Wat3R: Underwater 3D Geometry Learning without Annotations",
     "category": "computer-vision",
     "description": "Estimating 3D geometry in underwater environments presents unique challenges due to light attenuation, scattering, and the absence of large-scale, high-quality 3D annotations. Pioneering methods rely ...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Jiangwei Ren, Xingyu Jiang, Zijie Song et al."
   },
   {
-    "id": "arxiv_1783727064001_1",
+    "id": "arxiv_1783732769375_1",
     "name": "ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
     "category": "computer-vision",
     "description": "Monocular depth estimation has seen remarkable progress through foundation models achieving robust zero-shot generalization, yet their computational demands place them far beyond the reach of embedded...",
@@ -26,7 +26,7 @@
     "source": "arXiv - Fabio Tosi, Luca Bartolomei, Matteo Poggi et al."
   },
   {
-    "id": "arxiv_1783727064001_2",
+    "id": "arxiv_1783732769375_2",
     "name": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
     "category": "computer-vision",
     "description": "Recovering high-quality video from sparse event streams is a challenging task. Regression methods often blur textures, while existing generative models struggle with long-term stability. We propose Lo...",
@@ -40,7 +40,7 @@
     "source": "arXiv - Cheng-De Fan, Chun-Wei Tuan Mu, Chen-Wei Chang et al."
   },
   {
-    "id": "arxiv_1783727064001_3",
+    "id": "arxiv_1783732769375_3",
     "name": "Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
     "category": "computer-vision",
     "description": "Scaling 3D Gaussian Splatting (3DGS) to large outdoor scenes is costly in both data acquisition and computation. Adopting panoramic images with equirectangular projection (ERP) can reduce capture effo...",
@@ -55,7 +55,7 @@
     "source": "arXiv - Weijian Chen, Weibo Yao, Yuhang Zhang et al."
   },
   {
-    "id": "arxiv_1783727064031_0",
+    "id": "arxiv_1783732769722_0",
     "name": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
     "category": "nlp",
     "description": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-wo...",
@@ -64,11 +64,11 @@
       "AI"
     ],
     "date": "2026-07-09T17:59:32Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zhekai Chen, Chengqi Duan, Kaiyue Sun et al."
   },
   {
-    "id": "arxiv_1783727064001_4",
+    "id": "arxiv_1783732769375_4",
     "name": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
     "category": "computer-vision",
     "description": "We propose OPSD-V, an on-policy self-distillation paradigm for post-training few-step autoregressive (AR) video diffusion models. Existing few-step AR video generators can produce long videos with low...",
@@ -79,11 +79,11 @@
       "Diffusion"
     ],
     "date": "2026-07-09T17:59:11Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hongyu Liu, Chun Wang, Feng Gao et al."
   },
   {
-    "id": "arxiv_1783727063951_0",
+    "id": "arxiv_1783732769130_0",
     "name": "OpenCoF: Learning to Reason Through Video Generation",
     "category": "ai",
     "description": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct f...",
@@ -98,7 +98,7 @@
     "source": "arXiv - Xinyan Chen, Ziyu Guo, Renrui Zhang et al."
   },
   {
-    "id": "arxiv_1783727063952_1",
+    "id": "arxiv_1783732769130_1",
     "name": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
     "category": "ai",
     "description": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say lit...",
@@ -113,7 +113,7 @@
     "source": "arXiv - Yifan Zhou, Qihao Yang, Yan Li et al."
   },
   {
-    "id": "arxiv_1783727064014_0",
+    "id": "arxiv_1783732769538_0",
     "name": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
     "category": "machine-learning",
     "description": "Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal erro...",
@@ -128,7 +128,7 @@
     "source": "arXiv - Yiwei Zhou"
   },
   {
-    "id": "arxiv_1783727064014_1",
+    "id": "arxiv_1783732769538_1",
     "name": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music",
     "category": "machine-learning",
     "description": "We present MulTTiPop, a dataset of pop music segments and their associated multitrack MIDI recordings for the evaluation of automatic music transcription models. MulTTiPop contains 572 segments of pop...",
@@ -137,11 +137,11 @@
       "AI"
     ],
     "date": "2026-07-09T17:55:33Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Nathan Pruyne, Benjamin Stoler, William Chen et al."
   },
   {
-    "id": "arxiv_1783727063952_2",
+    "id": "arxiv_1783732769130_2",
     "name": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
     "category": "ai",
     "description": "Low-rank factorization is widely used to compress neural networks, but modern models are often not naturally amenable to aggressive factorization without significant accuracy loss. Existing training-t...",
@@ -156,7 +156,7 @@
     "source": "arXiv - David González-Martínez, Shiwei Liu"
   },
   {
-    "id": "arxiv_1783727064014_2",
+    "id": "arxiv_1783732769538_2",
     "name": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
     "category": "machine-learning",
     "description": "Low-rank factorization is widely used to compress neural networks, but modern models are often not naturally amenable to aggressive factorization without significant accuracy loss. Existing training-t...",
@@ -167,11 +167,11 @@
       "LLM"
     ],
     "date": "2026-07-09T17:51:50Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - David González-Martínez, Shiwei Liu"
   },
   {
-    "id": "arxiv_1783727063952_3",
+    "id": "arxiv_1783732769130_3",
     "name": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis",
     "category": "ai",
     "description": "In this study, we present a large-scale descriptive analysis of the use of an AI-based learning assistant (Syntea) in higher education. Based on objective log data from 77,543 students enrolled in dis...",
@@ -184,7 +184,7 @@
     "source": "arXiv - Kristina Schaaff, Quintus Stierstorfer, Valerie Heckel"
   },
   {
-    "id": "arxiv_1783727063952_4",
+    "id": "arxiv_1783732769131_4",
     "name": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
     "category": "ai",
     "description": "While UMAP is widely used for exploring high-dimensional data, typical workflows focus on its lower-dimensional embedding, largely overlooking the rich k-nearest-neighbor (kNN) graph that UMAP constru...",
@@ -197,7 +197,7 @@
     "source": "arXiv - Duen Horng Chau, Donghao Ren, Fred Hohman et al."
   },
   {
-    "id": "arxiv_1783727064014_3",
+    "id": "arxiv_1783732769538_3",
     "name": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
     "category": "machine-learning",
     "description": "While UMAP is widely used for exploring high-dimensional data, typical workflows focus on its lower-dimensional embedding, largely overlooking the rich k-nearest-neighbor (kNN) graph that UMAP constru...",
@@ -210,7 +210,7 @@
     "source": "arXiv - Duen Horng Chau, Donghao Ren, Fred Hohman et al."
   },
   {
-    "id": "arxiv_1783727064014_4",
+    "id": "arxiv_1783732769538_4",
     "name": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
     "category": "machine-learning",
     "description": "Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer prec...",
@@ -226,7 +226,7 @@
     "source": "arXiv - Kaifeng Zhao, Mathis Petrovich, Haotian Zhang et al."
   },
   {
-    "id": "arxiv_1783727064031_1",
+    "id": "arxiv_1783732769722_1",
     "name": "Validity of LLMs as data annotators: AMALIA on authority",
     "category": "nlp",
     "description": "A national language model offers a linguistic community its own instrument for measuring what its citizens say and value. Portugal's AMALIA, a publicly funded 9B-parameter model for European Portugues...",
@@ -240,7 +240,7 @@
     "source": "arXiv - Manuel Pita"
   },
   {
-    "id": "arxiv_1783727064031_2",
+    "id": "arxiv_1783732769722_2",
     "name": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
     "category": "nlp",
     "description": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment f...",
@@ -253,7 +253,7 @@
     "source": "arXiv - Yifan Wu, Lizhu Zhang, Yuhang Zhou et al."
   },
   {
-    "id": "arxiv_1783727064032_3",
+    "id": "arxiv_1783732769723_3",
     "name": "Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution",
     "category": "nlp",
     "description": "Reinforcement learning increasingly relies on an LLM judge to score each rubric criterion, and that judge acts as the reward model during training. Before such a signal can be trusted, we need to know...",
@@ -269,7 +269,7 @@
     "source": "arXiv - Ethan Leung, Elias Lumer, Corey Feld et al."
   },
   {
-    "id": "arxiv_1783727064032_4",
+    "id": "arxiv_1783732769723_4",
     "name": "WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search",
     "category": "nlp",
     "description": "Large language model (LLM)-based web search agents are transforming information seeking from simple factoid question answering into complex, deep-and-wide search and research-oriented tasks. A single ...",
