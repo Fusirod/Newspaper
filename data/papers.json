@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1783959492518_0",
+    "id": "arxiv_1783967068724_0",
     "name": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
     "category": "ai",
     "description": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating charac...",
@@ -10,11 +10,11 @@
       "Neural"
     ],
     "date": "2026-07-10T17:59:45Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ren Takahashi, Emre Yusuf, Jayabrata Bhaduri"
   },
   {
-    "id": "arxiv_1783959492594_0",
+    "id": "arxiv_1783967068867_0",
     "name": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
     "category": "machine-learning",
     "description": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating charac...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Ren Takahashi, Emre Yusuf, Jayabrata Bhaduri"
   },
   {
-    "id": "arxiv_1783959492558_0",
+    "id": "arxiv_1783967068800_0",
     "name": "PanoWorld: Real-World Panoramic Generation",
     "category": "computer-vision",
     "description": "In this work, we aim to address the challenge of long-range memory in panoramic world models by exploiting the rotation-equivariant property of omnidirectional representations, where rotation can be t...",
@@ -41,7 +41,7 @@
     "source": "arXiv - Haoyuan Li, Dizhe Zhang, Yuemei Zhou et al."
   },
   {
-    "id": "arxiv_1783959492518_1",
+    "id": "arxiv_1783967068724_1",
     "name": "Scalable Visual Pretraining for Language Intelligence",
     "category": "ai",
     "description": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, wh...",
@@ -50,11 +50,11 @@
       "AI"
     ],
     "date": "2026-07-10T17:57:03Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yiming Zhang, Zhonghan Zhao, Wenwei Zhang et al."
   },
   {
-    "id": "arxiv_1783959492558_1",
+    "id": "arxiv_1783967068800_1",
     "name": "Scalable Visual Pretraining for Language Intelligence",
     "category": "computer-vision",
     "description": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, wh...",
@@ -67,7 +67,7 @@
     "source": "arXiv - Yiming Zhang, Zhonghan Zhao, Wenwei Zhang et al."
   },
   {
-    "id": "arxiv_1783959492558_2",
+    "id": "arxiv_1783967068800_2",
     "name": "OpenLongTail: Generative Scaling of Long-Tail Driving Data",
     "category": "computer-vision",
     "description": "Scaling robust driving policies is fundamentally bottlenecked by the scarcity of edge cases in curated datasets. While the real world continuously captures these critical events, such long-tail events...",
@@ -80,7 +80,7 @@
     "source": "arXiv - Lulin Liu, Nuo Chen, Yan Wang et al."
   },
   {
-    "id": "arxiv_1783959492518_2",
+    "id": "arxiv_1783967068724_2",
     "name": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
     "category": "ai",
     "description": "Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactio...",
@@ -95,7 +95,7 @@
     "source": "arXiv - Shravan Murlidaran, Miguel P. Eckstein"
   },
   {
-    "id": "arxiv_1783959492558_3",
+    "id": "arxiv_1783967068800_3",
     "name": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
     "category": "computer-vision",
     "description": "Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactio...",
@@ -110,7 +110,7 @@
     "source": "arXiv - Shravan Murlidaran, Miguel P. Eckstein"
   },
   {
-    "id": "arxiv_1783959492519_3",
+    "id": "arxiv_1783967068725_3",
     "name": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
     "category": "ai",
     "description": "Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testi...",
@@ -120,11 +120,11 @@
       "LLM"
     ],
     "date": "2026-07-10T17:52:29Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Katherine Swinea, Kshitiz Aryal, Lopamudra Praharaj et al."
   },
   {
-    "id": "arxiv_1783959492558_4",
+    "id": "arxiv_1783967068800_4",
     "name": "Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks",
     "category": "computer-vision",
     "description": "In many real-world systems, including articulated robots and biomechanical models, rotations are defined in joint space and naturally parameterized by Euler angles with bounded ranges. Yet regressing ...",
@@ -137,7 +137,7 @@
     "source": "arXiv - Yangting Sun, Zijun Cui, Yufei Zhang"
   },
   {
-    "id": "arxiv_1783959492519_4",
+    "id": "arxiv_1783967068725_4",
     "name": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
     "category": "ai",
     "description": "Concept-based explainable artificial intelligence (AI) can make model reasoning more human-understandable, but concept-level outputs are not automatically trustworthy. We introduce ConceptSMILE, a mod...",
@@ -146,11 +146,11 @@
       "AI"
     ],
     "date": "2026-07-10T17:47:38Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Mohadeseh Mollapour, Koorosh Aslansefat, Zeinab Dehghani et al."
   },
   {
-    "id": "arxiv_1783959492594_1",
+    "id": "arxiv_1783967068867_1",
     "name": "Deep Gaussian Processes on Directed Acyclic Graphs",
     "category": "machine-learning",
     "description": "Many real-world processes can be represented as compositions of functions along a directed acyclic graph (DAG). In causal modelling, these correspond to the underlying mechanisms; in engineering, to m...",
@@ -159,11 +159,11 @@
       "AI"
     ],
     "date": "2026-07-10T17:41:11Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Federico L. Perlino, Oliver Hamelijnck, Adam M. Johansen et al."
   },
   {
-    "id": "arxiv_1783959492594_2",
+    "id": "arxiv_1783967068867_2",
     "name": "Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection",
     "category": "machine-learning",
     "description": "Financial anomaly detection suffers from extreme class imbalance, causing traditional single-objective algorithms to exhibit ``fraud collapse'', defaulting to the majority class and failing to balance...",
@@ -177,7 +177,7 @@
     "source": "arXiv - Cláudio Lúcio do Val Lopes, Lucca Machado da Silva"
   },
   {
-    "id": "arxiv_1783959492633_0",
+    "id": "arxiv_1783967068934_0",
     "name": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026",
     "category": "nlp",
     "description": "We present our submission to the QANTA 2026 shared challenge at the ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA). Quanta evaluates multimodal quizbowl systems that answer pyr...",
@@ -187,11 +187,11 @@
       "GPT"
     ],
     "date": "2026-07-10T17:22:49Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Nirjhar Das, Md. Al-Mamun Provath"
   },
   {
-    "id": "arxiv_1783959492594_3",
+    "id": "arxiv_1783967068867_3",
     "name": "LLM for EDA in Front-End Design: Challenges and Opportunities",
     "category": "machine-learning",
     "description": "As chip complexity increases and time-to-market pressures grow, front-end design has become a critical bottleneck in chip development. Recently, Large Language Models (LLMs) have shown great potential...",
@@ -205,7 +205,7 @@
     "source": "arXiv - Kangwei Xu, Bing Li, Ulf Schlichtmann"
   },
   {
-    "id": "arxiv_1783959492633_1",
+    "id": "arxiv_1783967068934_1",
     "name": "Toward Real-Time Sentence-Level Sign Language Translation",
     "category": "nlp",
     "description": "Most sign language understanding systems operate at the level of isolated signs, limiting their usefulness in natural communication. We study sentence-level sign language translation (SLT) with the pr...",
@@ -219,7 +219,7 @@
     "source": "arXiv - Thanh-Hoang Nguyen Doan"
   },
   {
-    "id": "arxiv_1783959492633_2",
+    "id": "arxiv_1783967068934_2",
     "name": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation",
     "category": "nlp",
     "description": "Enhancing the reasoning capabilities of large language model (LLM) agents requires effective orchestration of diverse expert models and tools. However, existing frameworks typically call APIs based on...",
@@ -233,7 +233,7 @@
     "source": "arXiv - Kaiji Zhou, Ales Leonardis, Yue Feng"
   },
   {
-    "id": "arxiv_1783959492633_3",
+    "id": "arxiv_1783967068934_3",
     "name": "Tokenizer Transplantation: Mitigating Autoregressive Collapse in Edge-Efficient Bengali ASR",
     "category": "nlp",
     "description": "Lightweight speech recognition models are critical for edge deployment, yet highly optimized architectures like Moonshine often fail on morphologically rich, non-Latin languages such as Bengali. This ...",
@@ -247,7 +247,7 @@
     "source": "arXiv - Sanjid Hasan, Md. Abdur Rahman"
   },
   {
-    "id": "arxiv_1783959492594_4",
+    "id": "arxiv_1783967068867_4",
     "name": "Entropy-Constrained Machine Learning with Residual Data Augmentation for Modeling Chemical Kinetics",
     "category": "machine-learning",
     "description": "We present a physics-constrained machine learning framework for accelerating the direct numerical simulation (DNS) of turbulent reacting flows. The model replaces the direct evaluation of detailed che...",
@@ -261,7 +261,7 @@
     "source": "arXiv - Okezzi Ukorigho, Opeoluwa Owoyele"
   },
   {
-    "id": "arxiv_1783959492633_4",
+    "id": "arxiv_1783967068934_4",
     "name": "Conceptual Networks for Cross-Linguistic Idiomatic Expressions:A Feature-Based Graph Approach",
     "category": "nlp",
     "description": "We present an interpretable network-based framework for representing idiomatic and figurative meaning across eight typologically diverse languages, totaling 160 conventional expressions, the large maj...",
