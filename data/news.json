@@ -1,17 +1,71 @@
 [
   {
-    "id": "rss_Wired_1784045183438_0",
-    "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
+    "id": "rss_TechCrunch_1784051660496_0",
+    "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
     "category": "ai-news",
-    "source": "Wired",
-    "description": "A new study found social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
-    "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
-    "tags": [],
-    "date": "Tue, 14 Jul 2026 16:05:18 +0000",
+    "source": "TechCrunch",
+    "description": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+    "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 14 Jul 2026 17:45:55 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784045179026_0",
+    "id": "rss_Ars_Technica_1784051663933_0",
+    "title": "These painted e-tattoos could be the future of wearable biosensors",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Conductive ink is painted directly onto the skin in colorful custom designs, drying into working electrodes.\n                    ",
+    "link": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 14 Jul 2026 17:31:58 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1784051663933_1",
+    "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The new Google image search will use your \"unique interests\" to create an always-updated gallery.\n                    ",
+    "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Tue, 14 Jul 2026 16:28:14 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1784051660496_1",
+    "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools. ",
+    "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Tue, 14 Jul 2026 16:22:15 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1784051665105_0",
+    "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
+    "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+    "tags": [],
+    "date": "Tue, 14 Jul 2026 16:05:18 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1784051660496_2",
     "title": "Google Images gets a Pinterest-like redesign focused on discovery",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -22,10 +76,10 @@
       "Google"
     ],
     "date": "Tue, 14 Jul 2026 16:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784045179026_1",
+    "id": "rss_TechCrunch_1784051660496_3",
     "title": "New York State halts construction of all new data centers",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -35,10 +89,10 @@
       "AI"
     ],
     "date": "Tue, 14 Jul 2026 15:17:59 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784045182312_0",
+    "id": "rss_Ars_Technica_1784051663933_2",
     "title": "New York bans data center construction for a year, rattling AI industry",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -48,10 +102,10 @@
       "AI"
     ],
     "date": "Tue, 14 Jul 2026 15:06:28 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1784045182312_1",
+    "id": "rss_Ars_Technica_1784051663934_3",
     "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -62,7 +116,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784045179026_2",
+    "id": "rss_TechCrunch_1784051660497_4",
     "title": "Reflection inks $1B compute deal with Nebius",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -75,35 +129,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1784045179026_3",
-    "title": "The real AI race may no longer be at the frontier",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
-    "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 14 Jul 2026 14:24:53 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1784045179026_4",
-    "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
-    "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-    "tags": [
-      "AI",
-      "ChatGPT",
-      "GPT"
-    ],
-    "date": "Tue, 14 Jul 2026 14:06:47 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1784045182312_2",
+    "id": "rss_Ars_Technica_1784051663934_4",
     "title": "Boomers, not Gen Z, are the generation cutting back most on alcohol",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -114,7 +140,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784045181123_0",
+    "id": "rss_MIT_Tech_Review_1784051662709_0",
     "title": "The Download: Claude’s inner workings, and the future of world models",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -127,7 +153,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784045183438_1",
+    "id": "rss_Wired_1784051665105_1",
     "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
     "category": "ai-news",
     "source": "Wired",
@@ -138,7 +164,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784045183438_2",
+    "id": "rss_Wired_1784051665105_2",
     "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
     "category": "ai-news",
     "source": "Wired",
@@ -150,10 +176,10 @@
       "Chatbot"
     ],
     "date": "Tue, 14 Jul 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1784045183438_3",
+    "id": "rss_Wired_1784051665105_3",
     "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
     "category": "ai-news",
     "source": "Wired",
@@ -166,7 +192,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784045181123_1",
+    "id": "rss_MIT_Tech_Review_1784051662709_1",
     "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -176,34 +202,10 @@
       "AI"
     ],
     "date": "Tue, 14 Jul 2026 08:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1784045182312_3",
-    "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.\n                    ",
-    "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
-    "tags": [],
-    "date": "Tue, 14 Jul 2026 01:17:14 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784045182313_4",
-    "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The man is said to be doing well in a Frankfurt hospital. \n                    ",
-    "link": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 13 Jul 2026 22:07:34 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1784045183438_4",
+    "id": "rss_Wired_1784051665105_4",
     "title": "Siri AI Is Becoming Apple’s Everything Tool",
     "category": "ai-news",
     "source": "Wired",
@@ -216,7 +218,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784045181123_2",
+    "id": "rss_MIT_Tech_Review_1784051662709_2",
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -226,10 +228,10 @@
       "AI"
     ],
     "date": "Mon, 13 Jul 2026 18:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1784045181123_3",
+    "id": "rss_MIT_Tech_Review_1784051662709_3",
     "title": "The Download: a donor conception cap and world models for AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -242,7 +244,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784045181123_4",
+    "id": "rss_MIT_Tech_Review_1784051662709_4",
     "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -253,10 +255,10 @@
       "OpenAI"
     ],
     "date": "Fri, 10 Jul 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1784045191307_0",
+    "id": "rss_Distill_1784051674102_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -269,7 +271,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784045191307_1",
+    "id": "rss_Distill_1784051674102_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -282,7 +284,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784045191307_2",
+    "id": "rss_Distill_1784051674102_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -290,10 +292,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1784045191307_3",
+    "id": "rss_Distill_1784051674102_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -306,7 +308,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784045191307_4",
+    "id": "rss_Distill_1784051674102_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
