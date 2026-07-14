@@ -1,280 +1,287 @@
 [
   {
-    "id": "arxiv_1783991505449_0",
-    "name": "The Singularity Space: A Generative Diffusion Framework for Signal Representation",
-    "category": "ai",
-    "description": "Generative models often represent signals as dense grids of amplitudes, blurring sharp transients that are crucial for the correctness of physical signals. We introduce Singularity Space, a generative...",
-    "link": "http://arxiv.org/abs/2607.10930v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-07-12T21:34:13Z",
-    "trending": false,
-    "source": "arXiv - Eli Bar-Yosef, Amir Averbuch, Eli Turkel"
-  },
-  {
-    "id": "arxiv_1783991505449_1",
-    "name": "Learning Linear Temporal Specifications from Demonstrations with Uncertainty",
-    "category": "ai",
-    "description": "Learning temporal logic specifications from system demonstrations is essential for tasks such as formal verification and controller synthesis, especially in safety-critical domains. Existing approache...",
-    "link": "http://arxiv.org/abs/2607.10918v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-07-12T20:43:52Z",
-    "trending": true,
-    "source": "arXiv - Parastou Fahim, Constantino Lagoa, Rômulo Meira-G'oes"
-  },
-  {
-    "id": "arxiv_1783991505672_0",
-    "name": "DP-Splat: Bayesian Nonparametric Complexity Control for Gaussian Splatting",
+    "id": "arxiv_1784003824540_0",
+    "name": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
     "category": "computer-vision",
-    "description": "3D Gaussian Splatting represents scenes as finite mixtures of anisotropic Gaussians whose number of components $K$ is set by heuristic density control or user caps. Variational Bayes Gaussian Splattin...",
-    "link": "http://arxiv.org/abs/2607.10912v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-12T20:31:15Z",
-    "trending": true,
-    "source": "arXiv - Aqi Dong"
-  },
-  {
-    "id": "arxiv_1783991505449_2",
-    "name": "The Nuts and Bolts of Natural Language to SQL Translation: A Systematic Analysis of Model Pipeline Optimisation Approaches and their Interactions",
-    "category": "ai",
-    "description": "In the age of large language models, Natural Language to SQL (NL2SQL) translation remains an open problem with many useful applications. We explore interactions between several NL2SQL pipeline extensi...",
-    "link": "http://arxiv.org/abs/2607.10911v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-12T20:30:50Z",
-    "trending": true,
-    "source": "arXiv - Filip Klubicka, Vasudevan Nedumpozhimana, Sneha Rautmare et al."
-  },
-  {
-    "id": "arxiv_1783991505882_0",
-    "name": "The Nuts and Bolts of Natural Language to SQL Translation: A Systematic Analysis of Model Pipeline Optimisation Approaches and their Interactions",
-    "category": "nlp",
-    "description": "In the age of large language models, Natural Language to SQL (NL2SQL) translation remains an open problem with many useful applications. We explore interactions between several NL2SQL pipeline extensi...",
-    "link": "http://arxiv.org/abs/2607.10911v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-12T20:30:50Z",
-    "trending": false,
-    "source": "arXiv - Filip Klubicka, Vasudevan Nedumpozhimana, Sneha Rautmare et al."
-  },
-  {
-    "id": "arxiv_1783991505672_1",
-    "name": "Design Choices in Splitting-Based Self-Supervised Sparse-View CT Reconstruction",
-    "category": "computer-vision",
-    "description": "Self-supervised data splitting has emerged as a promising paradigm for sparse-view CT reconstruction, enabling training from incomplete measurements without fully sampled ground truth. However, the in...",
-    "link": "http://arxiv.org/abs/2607.10898v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-12T19:58:12Z",
-    "trending": false,
-    "source": "arXiv - Nadja Gruber, Lukas Neumann, Ander Biguri et al."
-  },
-  {
-    "id": "arxiv_1783991505450_3",
-    "name": "Incremental Transformer for Surrogate-Based Inverse Design of Geopolymer Mixtures",
-    "category": "ai",
-    "description": "Small-data inverse design is challenging in engineering informatics when observations are heterogeneous, mixed-type, and constrained by physical relations among design variables. This work proposes a ...",
-    "link": "http://arxiv.org/abs/2607.10896v1",
+    "description": "In this paper, we propose SpectraReward, a training-free reward function that turns pretrained MLLMs into off-the-shelf reward models for image-generation reinforcement learning. Instead of asking the...",
+    "link": "http://arxiv.org/abs/2607.11886v1",
     "tags": [
       "AI",
-      "Transformer",
-      "GAN"
-    ],
-    "date": "2026-07-12T19:52:22Z",
-    "trending": false,
-    "source": "arXiv - Giansalvo Cirrincione, Filippo Grassia"
-  },
-  {
-    "id": "arxiv_1783991505450_4",
-    "name": "SETA: Scaling Environments for Terminal Agents",
-    "category": "ai",
-    "description": "Large language models (LLMs) are rapidly shifting toward agents that solve tasks through diverse interfaces, including web and graphical user interfaces (GUIs). Among these, the terminal command line ...",
-    "link": "http://arxiv.org/abs/2607.10891v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-07-12T19:40:27Z",
-    "trending": false,
-    "source": "arXiv - Qijia Shen, Zhiqi Huang, Vamsidhar Kamanuru et al."
-  },
-  {
-    "id": "arxiv_1783991505672_2",
-    "name": "3D Scene Graph Prediction: Generating Hierarchical Models from Partially Observed Environments",
-    "category": "computer-vision",
-    "description": "Generating realistic 3D indoor scenes is an area of growing interest in computer vision and robotics. Existing methods, often motivated by applications such as interior design, generally focus on obje...",
-    "link": "http://arxiv.org/abs/2607.10879v1",
-    "tags": [
-      "AI",
-      "Vision",
       "LLM",
-      "Diffusion"
+      "Diffusion",
+      "Reinforcement Learning"
     ],
-    "date": "2026-07-12T18:52:05Z",
-    "trending": true,
-    "source": "arXiv - Siyi H, Jared Strade, Hyungtae Lim et al."
-  },
-  {
-    "id": "arxiv_1783991505882_1",
-    "name": "LOGOS: A Living Logic for AI Agent Teams That Evolve With Humans",
-    "category": "nlp",
-    "description": "AI agents are evolving from answer engines into persistent teams that use tools, delegate work, learn from experience, and modify the artifacts that shape their future behavior. The defining question ...",
-    "link": "http://arxiv.org/abs/2607.10878v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-12T18:46:42Z",
+    "date": "2026-07-13T17:59:58Z",
     "trending": false,
-    "source": "arXiv - Yuma Ichikawa, Yamato Arai, Kosaku Kimura et al."
+    "source": "arXiv - Runhui Huang, Qihui Zhang, Zhe Liu et al."
   },
   {
-    "id": "arxiv_1783991505672_3",
-    "name": "X-GuideAR: An Augmented Reality Framework to Mitigate Radiation Exposure during Fluoroscopic Guidance",
+    "id": "arxiv_1784003824541_1",
+    "name": "Latent-Identity Tuning in Text-to-Image Personalization Models",
     "category": "computer-vision",
-    "description": "Achieving optimal screw placement for orthopedic surgeries requires frequent alignment checks and multiple anatomical views under X-ray -- a process known as \"fluoro-hunting\" that increases radiation ...",
-    "link": "http://arxiv.org/abs/2607.10873v1",
+    "description": "Generating and editing a person's face demands high precision, as even minor modifications can significantly alter a subject's perceived identity. Current personalization and editing methods built on ...",
+    "link": "http://arxiv.org/abs/2607.11885v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-07-12T18:34:02Z",
-    "trending": true,
-    "source": "arXiv - Mingxu Liu, Zixuan Liu, Ruchen Cai et al."
-  },
-  {
-    "id": "arxiv_1783991505673_4",
-    "name": "AU-Guided Synthetic Video Generation for Micro-Expression Recognition",
-    "category": "computer-vision",
-    "description": "Micro-expression recognition is limited by the small scale, narrow demographic coverage, and restricted emotion labels of existing datasets. We introduce EquiME, a synthetic micro-expression dataset b...",
-    "link": "http://arxiv.org/abs/2607.10860v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-12T17:50:05Z",
+    "date": "2026-07-13T17:59:49Z",
     "trending": false,
-    "source": "arXiv - Pei-Sze Tan, Sailaja Rajanala, Yee-Fan Tan et al."
+    "source": "arXiv - Daniel Garibi, Ronen Kamenetsky, Hadar Averbuch-Elor et al."
   },
   {
-    "id": "arxiv_1783991505882_2",
-    "name": "Capabilities of Claude Fable 5 on Biomedical Challenge Problems",
-    "category": "nlp",
-    "description": "Frontier language models are increasingly evaluated on biomedical benchmarks, but two problems undermine most published evaluations: legacy benchmarks are near-saturated, and open-ended responses are ...",
-    "link": "http://arxiv.org/abs/2607.10849v1",
+    "id": "arxiv_1784003824726_0",
+    "name": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
+    "category": "machine-learning",
+    "description": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functio...",
+    "link": "http://arxiv.org/abs/2607.11883v1",
     "tags": [
       "AI",
-      "GPT"
-    ],
-    "date": "2026-07-12T17:21:32Z",
-    "trending": true,
-    "source": "arXiv - Dominic Okonkwo, Magnus Hodgson, Temitope I. David et al."
-  },
-  {
-    "id": "arxiv_1783991505883_3",
-    "name": "Quantifying the Sources of Instability in LLM-Based Stance Analysis of Public Discourse",
-    "category": "nlp",
-    "description": "Computational social science increasingly relies on automated preprocessing pipelines -- speaker diarization, ASR transcript cleaning, sentence segmentation -- to convert raw media into analyzable tex...",
-    "link": "http://arxiv.org/abs/2607.10846v1",
-    "tags": [
-      "AI",
+      "Neural",
       "LLM"
     ],
-    "date": "2026-07-12T17:15:36Z",
+    "date": "2026-07-13T17:58:50Z",
     "trending": false,
-    "source": "arXiv - Bo Chen"
+    "source": "arXiv - Shikai Qiu, Marc Finzi, Yujia Zheng et al."
   },
   {
-    "id": "arxiv_1783991505883_4",
-    "name": "Route, Communicate, and Reason: Gated Routing and Adaptive Depth for Efficient Multi-Agent Reasoning",
+    "id": "arxiv_1784003824521_0",
+    "name": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+    "category": "ai",
+    "description": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recogni...",
+    "link": "http://arxiv.org/abs/2607.11881v1",
+    "tags": [
+      "AI",
+      "NLP",
+      "GAN",
+      "LLM"
+    ],
+    "date": "2026-07-13T17:58:37Z",
+    "trending": true,
+    "source": "arXiv - Gabrielle Kaili-May Liu, Areeb Gani, Jacqueline Lu et al."
+  },
+  {
+    "id": "arxiv_1784003824743_0",
+    "name": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
     "category": "nlp",
-    "description": "Multi-agent ensembling multiplies active parameters and inference cost without answering three basic questions: which agents to consult, how deeply a query should traverse a hierarchy of agents, and w...",
-    "link": "http://arxiv.org/abs/2607.10836v1",
+    "description": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recogni...",
+    "link": "http://arxiv.org/abs/2607.11881v1",
     "tags": [
       "AI",
-      "Optimization"
+      "NLP",
+      "GAN",
+      "LLM"
     ],
-    "date": "2026-07-12T16:58:21Z",
-    "trending": false,
-    "source": "arXiv - Sudipto Ghosh, Tanmoy Chakraborty"
+    "date": "2026-07-13T17:58:37Z",
+    "trending": true,
+    "source": "arXiv - Gabrielle Kaili-May Liu, Areeb Gani, Jacqueline Lu et al."
   },
   {
-    "id": "arxiv_1783991505684_0",
-    "name": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
-    "category": "machine-learning",
-    "description": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating charac...",
-    "link": "http://arxiv.org/abs/2607.09662v1",
+    "id": "arxiv_1784003824522_1",
+    "name": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
+    "category": "ai",
+    "description": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been most...",
+    "link": "http://arxiv.org/abs/2607.11875v1",
     "tags": [
       "AI",
-      "Neural"
+      "Transformer"
     ],
-    "date": "2026-07-10T17:59:45Z",
+    "date": "2026-07-13T17:56:11Z",
     "trending": false,
-    "source": "arXiv - Ren Takahashi, Emre Yusuf, Jayabrata Bhaduri"
+    "source": "arXiv - Tiberiu Musat, Tiago Pimentel, Nicholas Zucchet et al."
   },
   {
-    "id": "arxiv_1783991505684_1",
-    "name": "Deep Gaussian Processes on Directed Acyclic Graphs",
+    "id": "arxiv_1784003824726_1",
+    "name": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
     "category": "machine-learning",
-    "description": "Many real-world processes can be represented as compositions of functions along a directed acyclic graph (DAG). In causal modelling, these correspond to the underlying mechanisms; in engineering, to m...",
-    "link": "http://arxiv.org/abs/2607.09645v1",
+    "description": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been most...",
+    "link": "http://arxiv.org/abs/2607.11875v1",
     "tags": [
-      "AI"
+      "AI",
+      "Transformer"
     ],
-    "date": "2026-07-10T17:41:11Z",
+    "date": "2026-07-13T17:56:11Z",
     "trending": false,
-    "source": "arXiv - Federico L. Perlino, Oliver Hamelijnck, Adam M. Johansen et al."
+    "source": "arXiv - Tiberiu Musat, Tiago Pimentel, Nicholas Zucchet et al."
   },
   {
-    "id": "arxiv_1783991505684_2",
-    "name": "Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection",
-    "category": "machine-learning",
-    "description": "Financial anomaly detection suffers from extreme class imbalance, causing traditional single-objective algorithms to exhibit ``fraud collapse'', defaulting to the majority class and failing to balance...",
-    "link": "http://arxiv.org/abs/2607.09641v1",
+    "id": "arxiv_1784003824522_2",
+    "name": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
+    "category": "ai",
+    "description": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track the...",
+    "link": "http://arxiv.org/abs/2607.11874v1",
     "tags": [
       "AI",
       "Reinforcement Learning"
     ],
-    "date": "2026-07-10T17:39:00Z",
+    "date": "2026-07-13T17:56:08Z",
     "trending": true,
-    "source": "arXiv - Cláudio Lúcio do Val Lopes, Lucca Machado da Silva"
+    "source": "arXiv - Yunhai Feng, Natalie Leung, Jiaxuan Wang et al."
   },
   {
-    "id": "arxiv_1783991505685_3",
-    "name": "LLM for EDA in Front-End Design: Challenges and Opportunities",
+    "id": "arxiv_1784003824726_2",
+    "name": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
     "category": "machine-learning",
-    "description": "As chip complexity increases and time-to-market pressures grow, front-end design has become a critical bottleneck in chip development. Recently, Large Language Models (LLMs) have shown great potential...",
-    "link": "http://arxiv.org/abs/2607.09616v1",
+    "description": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track the...",
+    "link": "http://arxiv.org/abs/2607.11874v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-07-13T17:56:08Z",
+    "trending": true,
+    "source": "arXiv - Yunhai Feng, Natalie Leung, Jiaxuan Wang et al."
+  },
+  {
+    "id": "arxiv_1784003824726_3",
+    "name": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
+    "category": "machine-learning",
+    "description": "Institutions collect far more open-ended teaching-evaluation feedback than they read. A prior study introduced a validated protocol for classifying such comments by thematic category and sentiment, bu...",
+    "link": "http://arxiv.org/abs/2607.11873v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-07-13T17:56:05Z",
+    "trending": false,
+    "source": "arXiv - Esteban U. Vega Barajas"
+  },
+  {
+    "id": "arxiv_1784003824743_1",
+    "name": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
+    "category": "nlp",
+    "description": "Institutions collect far more open-ended teaching-evaluation feedback than they read. A prior study introduced a validated protocol for classifying such comments by thematic category and sentiment, bu...",
+    "link": "http://arxiv.org/abs/2607.11873v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-07-13T17:56:05Z",
+    "trending": false,
+    "source": "arXiv - Esteban U. Vega Barajas"
+  },
+  {
+    "id": "arxiv_1784003824522_3",
+    "name": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
+    "category": "ai",
+    "description": "Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same bias...",
+    "link": "http://arxiv.org/abs/2607.11871v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-07-10T17:15:54Z",
+    "date": "2026-07-13T17:55:19Z",
     "trending": false,
-    "source": "arXiv - Kangwei Xu, Bing Li, Ulf Schlichtmann"
+    "source": "arXiv - Zixiang Xu, Sixian Li, Huaxing Liu et al."
   },
   {
-    "id": "arxiv_1783991505685_4",
-    "name": "Entropy-Constrained Machine Learning with Residual Data Augmentation for Modeling Chemical Kinetics",
+    "id": "arxiv_1784003824726_4",
+    "name": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
     "category": "machine-learning",
-    "description": "We present a physics-constrained machine learning framework for accelerating the direct numerical simulation (DNS) of turbulent reacting flows. The model replaces the direct evaluation of detailed che...",
-    "link": "http://arxiv.org/abs/2607.09582v1",
+    "description": "Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same bias...",
+    "link": "http://arxiv.org/abs/2607.11871v1",
     "tags": [
       "AI",
-      "Machine Learning"
+      "LLM"
     ],
-    "date": "2026-07-10T16:31:40Z",
+    "date": "2026-07-13T17:55:19Z",
     "trending": false,
-    "source": "arXiv - Okezzi Ukorigho, Opeoluwa Owoyele"
+    "source": "arXiv - Zixiang Xu, Sixian Li, Huaxing Liu et al."
+  },
+  {
+    "id": "arxiv_1784003824743_2",
+    "name": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
+    "category": "nlp",
+    "description": "Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same bias...",
+    "link": "http://arxiv.org/abs/2607.11871v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-07-13T17:55:19Z",
+    "trending": false,
+    "source": "arXiv - Zixiang Xu, Sixian Li, Huaxing Liu et al."
+  },
+  {
+    "id": "arxiv_1784003824522_4",
+    "name": "Evidence-Backed Video Question Answering",
+    "category": "ai",
+    "description": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainabi...",
+    "link": "http://arxiv.org/abs/2607.11862v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-07-13T17:49:10Z",
+    "trending": true,
+    "source": "arXiv - Shijie Wang, Honglu Zhou, Ziyang Wang et al."
+  },
+  {
+    "id": "arxiv_1784003824541_2",
+    "name": "Evidence-Backed Video Question Answering",
+    "category": "computer-vision",
+    "description": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainabi...",
+    "link": "http://arxiv.org/abs/2607.11862v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-07-13T17:49:10Z",
+    "trending": true,
+    "source": "arXiv - Shijie Wang, Honglu Zhou, Ziyang Wang et al."
+  },
+  {
+    "id": "arxiv_1784003824744_3",
+    "name": "AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification",
+    "category": "nlp",
+    "description": "Large language models (LLMs) have achieved remarkable performance on high-school and olympiad-style mathematics, yet their capabilities on advanced mathematics remain poorly understood. Existing bench...",
+    "link": "http://arxiv.org/abs/2607.11849v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "GPT"
+    ],
+    "date": "2026-07-13T17:38:22Z",
+    "trending": false,
+    "source": "arXiv - Lingkai Kong, Zijian Wu, Yuzhe Gu et al."
+  },
+  {
+    "id": "arxiv_1784003824541_3",
+    "name": "Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding",
+    "category": "computer-vision",
+    "description": "Recent Multimodal Large Language Models (MLLMs) achieve strong performance on single-view video understanding benchmarks. However, sports videos involve dense occlusion, rapid motion, and complex inte...",
+    "link": "http://arxiv.org/abs/2607.11844v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-07-13T17:34:36Z",
+    "trending": false,
+    "source": "arXiv - Kerui Chen, Jinglu Wang, Xiaoyi Zhang et al."
+  },
+  {
+    "id": "arxiv_1784003824541_4",
+    "name": "LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments",
+    "category": "computer-vision",
+    "description": "This paper presents a cascaded Low-Rank Adaptation (LoRA)-based multimodal fusion framework for action and activity recognition in healthcare-oriented training environments. The proposed architecture ...",
+    "link": "http://arxiv.org/abs/2607.11839v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-13T17:27:58Z",
+    "trending": false,
+    "source": "arXiv - Divya Mereddy, Jeevan Beedareddy"
+  },
+  {
+    "id": "arxiv_1784003824744_4",
+    "name": "Introducing Human-Centeredness in AI-Assisted Lexicography",
+    "category": "nlp",
+    "description": "This paper proposes a human-centered artificial intelligence (HCAI) framework for AI-assisted lexicography. While generative AI offers significant opportunities to enhance lexicographic work, it also ...",
+    "link": "http://arxiv.org/abs/2607.11808v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-13T17:00:39Z",
+    "trending": false,
+    "source": "arXiv - Antonio San Martin, Catherine Trekker"
   }
 ]
