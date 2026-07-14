@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1784033990325_0",
+    "id": "arxiv_1784040677721_0",
     "name": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
     "category": "computer-vision",
     "description": "In this paper, we propose SpectraReward, a training-free reward function that turns pretrained MLLMs into off-the-shelf reward models for image-generation reinforcement learning. Instead of asking the...",
@@ -12,11 +12,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-07-13T17:59:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Runhui Huang, Qihui Zhang, Zhe Liu et al."
   },
   {
-    "id": "arxiv_1784033990326_1",
+    "id": "arxiv_1784040677721_1",
     "name": "Latent-Identity Tuning in Text-to-Image Personalization Models",
     "category": "computer-vision",
     "description": "Generating and editing a person's face demands high precision, as even minor modifications can significantly alter a subject's perceived identity. Current personalization and editing methods built on ...",
@@ -25,11 +25,11 @@
       "AI"
     ],
     "date": "2026-07-13T17:59:49Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Daniel Garibi, Ronen Kamenetsky, Hadar Averbuch-Elor et al."
   },
   {
-    "id": "arxiv_1784033990348_0",
+    "id": "arxiv_1784040677744_0",
     "name": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
     "category": "machine-learning",
     "description": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functio...",
@@ -40,11 +40,11 @@
       "LLM"
     ],
     "date": "2026-07-13T17:58:50Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Shikai Qiu, Marc Finzi, Yujia Zheng et al."
   },
   {
-    "id": "arxiv_1784033990302_0",
+    "id": "arxiv_1784040677696_0",
     "name": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
     "category": "ai",
     "description": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recogni...",
@@ -60,7 +60,7 @@
     "source": "arXiv - Gabrielle Kaili-May Liu, Areeb Gani, Jacqueline Lu et al."
   },
   {
-    "id": "arxiv_1784033990371_0",
+    "id": "arxiv_1784040677917_0",
     "name": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
     "category": "nlp",
     "description": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recogni...",
@@ -76,7 +76,7 @@
     "source": "arXiv - Gabrielle Kaili-May Liu, Areeb Gani, Jacqueline Lu et al."
   },
   {
-    "id": "arxiv_1784033990302_1",
+    "id": "arxiv_1784040677697_1",
     "name": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
     "category": "ai",
     "description": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been most...",
@@ -90,7 +90,7 @@
     "source": "arXiv - Tiberiu Musat, Tiago Pimentel, Nicholas Zucchet et al."
   },
   {
-    "id": "arxiv_1784033990348_1",
+    "id": "arxiv_1784040677744_1",
     "name": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
     "category": "machine-learning",
     "description": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been most...",
@@ -100,11 +100,11 @@
       "Transformer"
     ],
     "date": "2026-07-13T17:56:11Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Tiberiu Musat, Tiago Pimentel, Nicholas Zucchet et al."
   },
   {
-    "id": "arxiv_1784033990302_2",
+    "id": "arxiv_1784040677697_2",
     "name": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
     "category": "ai",
     "description": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track the...",
@@ -118,7 +118,7 @@
     "source": "arXiv - Yunhai Feng, Natalie Leung, Jiaxuan Wang et al."
   },
   {
-    "id": "arxiv_1784033990348_2",
+    "id": "arxiv_1784040677744_2",
     "name": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
     "category": "machine-learning",
     "description": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track the...",
@@ -132,7 +132,7 @@
     "source": "arXiv - Yunhai Feng, Natalie Leung, Jiaxuan Wang et al."
   },
   {
-    "id": "arxiv_1784033990348_3",
+    "id": "arxiv_1784040677744_3",
     "name": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
     "category": "machine-learning",
     "description": "Institutions collect far more open-ended teaching-evaluation feedback than they read. A prior study introduced a validated protocol for classifying such comments by thematic category and sentiment, bu...",
@@ -146,7 +146,7 @@
     "source": "arXiv - Esteban U. Vega Barajas"
   },
   {
-    "id": "arxiv_1784033990371_1",
+    "id": "arxiv_1784040677917_1",
     "name": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
     "category": "nlp",
     "description": "Institutions collect far more open-ended teaching-evaluation feedback than they read. A prior study introduced a validated protocol for classifying such comments by thematic category and sentiment, bu...",
@@ -156,11 +156,11 @@
       "Transformer"
     ],
     "date": "2026-07-13T17:56:05Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Esteban U. Vega Barajas"
   },
   {
-    "id": "arxiv_1784033990302_3",
+    "id": "arxiv_1784040677697_3",
     "name": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
     "category": "ai",
     "description": "Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same bias...",
@@ -174,7 +174,7 @@
     "source": "arXiv - Zixiang Xu, Sixian Li, Huaxing Liu et al."
   },
   {
-    "id": "arxiv_1784033990348_4",
+    "id": "arxiv_1784040677745_4",
     "name": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
     "category": "machine-learning",
     "description": "Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same bias...",
@@ -188,7 +188,7 @@
     "source": "arXiv - Zixiang Xu, Sixian Li, Huaxing Liu et al."
   },
   {
-    "id": "arxiv_1784033990371_2",
+    "id": "arxiv_1784040677917_2",
     "name": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
     "category": "nlp",
     "description": "Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same bias...",
@@ -198,11 +198,11 @@
       "LLM"
     ],
     "date": "2026-07-13T17:55:19Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zixiang Xu, Sixian Li, Huaxing Liu et al."
   },
   {
-    "id": "arxiv_1784033990302_4",
+    "id": "arxiv_1784040677697_4",
     "name": "Evidence-Backed Video Question Answering",
     "category": "ai",
     "description": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainabi...",
@@ -212,11 +212,11 @@
       "LLM"
     ],
     "date": "2026-07-13T17:49:10Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shijie Wang, Honglu Zhou, Ziyang Wang et al."
   },
   {
-    "id": "arxiv_1784033990326_2",
+    "id": "arxiv_1784040677721_2",
     "name": "Evidence-Backed Video Question Answering",
     "category": "computer-vision",
     "description": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainabi...",
@@ -226,11 +226,11 @@
       "LLM"
     ],
     "date": "2026-07-13T17:49:10Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shijie Wang, Honglu Zhou, Ziyang Wang et al."
   },
   {
-    "id": "arxiv_1784033990371_3",
+    "id": "arxiv_1784040677917_3",
     "name": "AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification",
     "category": "nlp",
     "description": "Large language models (LLMs) have achieved remarkable performance on high-school and olympiad-style mathematics, yet their capabilities on advanced mathematics remain poorly understood. Existing bench...",
@@ -245,7 +245,7 @@
     "source": "arXiv - Lingkai Kong, Zijian Wu, Yuzhe Gu et al."
   },
   {
-    "id": "arxiv_1784033990326_3",
+    "id": "arxiv_1784040677721_3",
     "name": "Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding",
     "category": "computer-vision",
     "description": "Recent Multimodal Large Language Models (MLLMs) achieve strong performance on single-view video understanding benchmarks. However, sports videos involve dense occlusion, rapid motion, and complex inte...",
@@ -259,7 +259,7 @@
     "source": "arXiv - Kerui Chen, Jinglu Wang, Xiaoyi Zhang et al."
   },
   {
-    "id": "arxiv_1784033990326_4",
+    "id": "arxiv_1784040677721_4",
     "name": "LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments",
     "category": "computer-vision",
     "description": "This paper presents a cascaded Low-Rank Adaptation (LoRA)-based multimodal fusion framework for action and activity recognition in healthcare-oriented training environments. The proposed architecture ...",
@@ -272,7 +272,7 @@
     "source": "arXiv - Divya Mereddy, Jeevan Beedareddy"
   },
   {
-    "id": "arxiv_1784033990371_4",
+    "id": "arxiv_1784040677917_4",
     "name": "Introducing Human-Centeredness in AI-Assisted Lexicography",
     "category": "nlp",
     "description": "This paper proposes a human-centered artificial intelligence (HCAI) framework for AI-assisted lexicography. While generative AI offers significant opportunities to enhance lexicographic work, it also ...",
