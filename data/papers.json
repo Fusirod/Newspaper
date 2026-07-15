@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1784108758070_0",
+    "id": "arxiv_1784114305065_0",
     "name": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
     "category": "ai",
     "description": "Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-cont...",
@@ -15,7 +15,7 @@
     "source": "arXiv - Junjie Yin, Xinyu Feng"
   },
   {
-    "id": "arxiv_1784108758246_0",
+    "id": "arxiv_1784114305287_0",
     "name": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
     "category": "nlp",
     "description": "Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-cont...",
@@ -26,11 +26,11 @@
       "GPT"
     ],
     "date": "2026-07-14T17:59:31Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Junjie Yin, Xinyu Feng"
   },
   {
-    "id": "arxiv_1784108758154_0",
+    "id": "arxiv_1784114305139_0",
     "name": "The Seriality Gap in Video Diffusion Models",
     "category": "computer-vision",
     "description": "When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of ...",
@@ -40,11 +40,11 @@
       "Diffusion"
     ],
     "date": "2026-07-14T17:59:22Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jorge Diaz Chao, Konpat Preechakul, Yuxi Liu et al."
   },
   {
-    "id": "arxiv_1784108758166_0",
+    "id": "arxiv_1784114305215_0",
     "name": "The Seriality Gap in Video Diffusion Models",
     "category": "machine-learning",
     "description": "When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of ...",
@@ -54,11 +54,11 @@
       "Diffusion"
     ],
     "date": "2026-07-14T17:59:22Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jorge Diaz Chao, Konpat Preechakul, Yuxi Liu et al."
   },
   {
-    "id": "arxiv_1784108758070_1",
+    "id": "arxiv_1784114305065_1",
     "name": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
     "category": "ai",
     "description": "Training robust autonomous driving agents requires a simulator that is fast enough for reinforcement learning at scale, realistic enough to ground behavior in real-world map structure, and diverse eno...",
@@ -73,7 +73,7 @@
     "source": "arXiv - Zhouchonghao Wu, Akshay Rangesh, Weixin Li et al."
   },
   {
-    "id": "arxiv_1784108758166_1",
+    "id": "arxiv_1784114305215_1",
     "name": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
     "category": "machine-learning",
     "description": "Training robust autonomous driving agents requires a simulator that is fast enough for reinforcement learning at scale, realistic enough to ground behavior in real-world map structure, and diverse eno...",
@@ -88,7 +88,7 @@
     "source": "arXiv - Zhouchonghao Wu, Akshay Rangesh, Weixin Li et al."
   },
   {
-    "id": "arxiv_1784108758070_2",
+    "id": "arxiv_1784114305065_2",
     "name": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
     "category": "ai",
     "description": "Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent sys...",
@@ -102,7 +102,7 @@
     "source": "arXiv - Hongru Cai, Yongqi Li, Ran Wei et al."
   },
   {
-    "id": "arxiv_1784108758246_1",
+    "id": "arxiv_1784114305287_1",
     "name": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
     "category": "nlp",
     "description": "Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent sys...",
@@ -112,11 +112,11 @@
       "LLM"
     ],
     "date": "2026-07-14T17:58:57Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hongru Cai, Yongqi Li, Ran Wei et al."
   },
   {
-    "id": "arxiv_1784108758166_2",
+    "id": "arxiv_1784114305215_2",
     "name": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching",
     "category": "machine-learning",
     "description": "Many nonlinear physical systems exhibit an initial transient phase in which perturbations grow before nonlinear interactions lead to a statistically steady state. While this saturated regime is of pri...",
@@ -129,7 +129,7 @@
     "source": "arXiv - Gianluca Galletti, Gerald Gutenbrunner, William Hornsby et al."
   },
   {
-    "id": "arxiv_1784108758154_1",
+    "id": "arxiv_1784114305140_1",
     "name": "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models",
     "category": "computer-vision",
     "description": "World Action Models (WAMs) are able to leverage pretrained video generators for both world modeling and action prediction. However, directly leveraging such video generators for control raises a new c...",
@@ -139,11 +139,11 @@
       "Diffusion"
     ],
     "date": "2026-07-14T17:57:12Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yixiang Chen, Peiyan Li, Yuan Xu et al."
   },
   {
-    "id": "arxiv_1784108758070_3",
+    "id": "arxiv_1784114305066_3",
     "name": "Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model",
     "category": "ai",
     "description": "Automatic speech recognition is dominated by autoregressive decoders that emit one token at a time. We ask whether a discrete diffusion language model can transcribe speech instead, refining a whole t...",
@@ -153,11 +153,11 @@
       "Diffusion"
     ],
     "date": "2026-07-14T17:53:22Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Harsha Vardhan Khurdula, Abhinav Kumar Singh, Yoeven D Khemlani et al."
   },
   {
-    "id": "arxiv_1784108758154_2",
+    "id": "arxiv_1784114305140_2",
     "name": "DermDepth: Toward Monocular Metric Scale 3D Reconstruction Models for Dermatology",
     "category": "computer-vision",
     "description": "Dermatological practice routinely involves measuring and tracking lesion size, morphology and texture, as critical components of wound or skin cancer screening, monitoring and diagnosis. To accomplish...",
@@ -170,7 +170,7 @@
     "source": "arXiv - Héctor Carrión, Narges Norouzi"
   },
   {
-    "id": "arxiv_1784108758070_4",
+    "id": "arxiv_1784114305066_4",
     "name": "Dynamic Resource Allocation for Ensemble Determinization MCTS",
     "category": "ai",
     "description": "Simulation-based algorithms are especially suited for high-uncertainty environments such as adversarial board games with significant elements of randomness and hidden information. In particular, sever...",
@@ -183,7 +183,7 @@
     "source": "arXiv - Jakub Kowalski, Adam Ciężkowski, Artur Krzyżyński et al."
   },
   {
-    "id": "arxiv_1784108758166_3",
+    "id": "arxiv_1784114305215_3",
     "name": "The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting",
     "category": "machine-learning",
     "description": "A growing family of indices scores how predictable a series is from its spectrum. Practitioners increasingly read these scores as answering a different question: whether \\emph{adding context}, a longe...",
@@ -196,7 +196,7 @@
     "source": "arXiv - Mert Onur Cakiroglu, Mehmet Dalkilic, Hasan Kurban"
   },
   {
-    "id": "arxiv_1784108758167_4",
+    "id": "arxiv_1784114305215_4",
     "name": "Watermark Forensics for Generative Models: An Information-Theoretic Perspective",
     "category": "machine-learning",
     "description": "A watermark in a generative model's output is usually asked only whether a text is machine-made. The same mark can do more: attribute it to the user who produced it, extract a hidden payload, or local...",
@@ -207,11 +207,11 @@
       "GPT"
     ],
     "date": "2026-07-14T17:49:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Xiaoyu Li, Zheng Gao, Xiaoyan Feng et al."
   },
   {
-    "id": "arxiv_1784108758154_3",
+    "id": "arxiv_1784114305141_3",
     "name": "X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras",
     "category": "computer-vision",
     "description": "We present X-lens, a compact feed-forward model for metric depth estimation from a variable number of calibrated fisheye and pinhole views. To support real-time downstream perception, X-lens is built ...",
@@ -221,11 +221,11 @@
       "Optimization"
     ],
     "date": "2026-07-14T17:45:50Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Heng Zhou, Shuhong Liu, Yonghao He et al."
   },
   {
-    "id": "arxiv_1784108758154_4",
+    "id": "arxiv_1784114305141_4",
     "name": "Controllable Generation of Diverse Dermatological Imagery for Fair and Efficient Malignancy Classification",
     "category": "computer-vision",
     "description": "Accurate dermatological diagnosis naturally necessitates equitable performance across diverse populations, yet a systematic lack of expertly annotated images, especially for underrepresented skin tone...",
@@ -238,7 +238,7 @@
     "source": "arXiv - Héctor Carrión, Narges Norouzi"
   },
   {
-    "id": "arxiv_1784108758246_2",
+    "id": "arxiv_1784114305287_2",
     "name": "The Illusion of Robustness: Aggregate Accuracy Hides Prediction Flips under Task-Irrelevant Context",
     "category": "nlp",
     "description": "As large language models (LLMs) grow more capable, they are increasingly deployed in context-rich settings where task inputs are often accompanied by long, partially irrelevant context. In a controlle...",
@@ -252,7 +252,7 @@
     "source": "arXiv - Yanzhe Zhang, Sanmi Koyejo, Diyi Yang"
   },
   {
-    "id": "arxiv_1784108758246_3",
+    "id": "arxiv_1784114305287_3",
     "name": "MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations",
     "category": "nlp",
     "description": "Long-term memory has become a foundational capability for LLM-based agents that accompany users across extended, multi-session interactions. Existing benchmarks, however, evaluate such memory almost e...",
@@ -266,7 +266,7 @@
     "source": "arXiv - Xixuan Hao, Zeyu Zhang, Zehao Lin et al."
   },
   {
-    "id": "arxiv_1784108758246_4",
+    "id": "arxiv_1784114305287_4",
     "name": "LLM Judges Can Be Too Generous When There Is No Reference Answer",
     "category": "nlp",
     "description": "LLM judges are increasingly being used to evaluate open-ended model responses, often in no-reference settings where a ground-truth answer is unavailable. However, can they reliably assess in such eval...",
