@@ -1,6 +1,88 @@
 [
   {
-    "id": "rss_TechCrunch_1784128493169_0",
+    "id": "rss_TechCrunch_1784134880015_0",
+    "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+    "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 15 Jul 2026 17:00:34 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1784134880015_1",
+    "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+    "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Startup"
+    ],
+    "date": "Wed, 15 Jul 2026 17:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1784134884016_0",
+    "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        With the settlement withdrawn, Google is now bound by the court's full antitrust remedies.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
+    "tags": [
+      "Google"
+    ],
+    "date": "Wed, 15 Jul 2026 16:55:12 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1784134880015_2",
+    "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+    "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+    "tags": [
+      "AI",
+      "Microsoft"
+    ],
+    "date": "Wed, 15 Jul 2026 16:20:18 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1784134884016_1",
+    "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The Codex Micro is designed to monitor multiple agentic threads at a glance.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 15 Jul 2026 16:00:33 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1784134880015_3",
+    "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most impor",
+    "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 15 Jul 2026 15:29:33 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1784134880015_4",
     "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -10,34 +92,10 @@
       "AI"
     ],
     "date": "Wed, 15 Jul 2026 13:10:47 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784128493169_1",
-    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
-    "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 15 Jul 2026 13:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1784128493169_2",
-    "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Rime is handling over 100 million calls each month across multiple companies.",
-    "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-    "tags": [],
-    "date": "Wed, 15 Jul 2026 13:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1784128495267_0",
+    "id": "rss_MIT_Tech_Review_1784134882515_0",
     "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -50,38 +108,11 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784128493169_3",
-    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
-    "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Wed, 15 Jul 2026 12:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1784128493169_4",
-    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild. ",
-    "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 15 Jul 2026 12:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1784128497660_0",
-    "title": "An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
+    "id": "rss_Wired_1784134885138_0",
+    "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
     "category": "ai-news",
     "source": "Wired",
-    "description": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test.",
+    "description": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
     "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
     "tags": [
       "AI",
@@ -91,7 +122,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784128496588_0",
+    "id": "rss_Ars_Technica_1784134884017_2",
     "title": "A most improbable astronaut just went to space",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -99,10 +130,10 @@
     "link": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
     "tags": [],
     "date": "Wed, 15 Jul 2026 11:30:07 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784128496588_1",
+    "id": "rss_Ars_Technica_1784134884017_3",
     "title": "How hard is it to build orbital data centers, actually?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -113,7 +144,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1784128496588_2",
+    "id": "rss_Ars_Technica_1784134884017_4",
     "title": "Sotheby's big T. rex auction raises concerns hype and wealth are upending science",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -126,7 +157,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784128497660_1",
+    "id": "rss_Wired_1784134885138_1",
     "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
     "category": "ai-news",
     "source": "Wired",
@@ -140,7 +171,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784128497660_2",
+    "id": "rss_Wired_1784134885138_2",
     "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
     "category": "ai-news",
     "source": "Wired",
@@ -155,32 +186,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784128496588_3",
-    "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.\n                    ",
-    "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-    "tags": [
-      "AI",
-      "Microsoft"
-    ],
-    "date": "Tue, 14 Jul 2026 22:20:48 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1784128496588_4",
-    "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Citizens must now spend 21 days in a third country before they are allowed to come home.\n                    ",
-    "link": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
-    "tags": [],
-    "date": "Tue, 14 Jul 2026 22:09:31 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1784128497660_3",
+    "id": "rss_Wired_1784134885138_3",
     "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
     "category": "ai-news",
     "source": "Wired",
@@ -188,10 +194,10 @@
     "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
     "tags": [],
     "date": "Tue, 14 Jul 2026 16:05:18 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784128495267_1",
+    "id": "rss_MIT_Tech_Review_1784134882515_1",
     "title": "The Download: Claude’s inner workings, and the future of world models",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -201,10 +207,10 @@
       "AI"
     ],
     "date": "Tue, 14 Jul 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1784128497660_4",
+    "id": "rss_Wired_1784134885138_4",
     "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
     "category": "ai-news",
     "source": "Wired",
@@ -215,7 +221,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1784128495268_2",
+    "id": "rss_MIT_Tech_Review_1784134882516_2",
     "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -228,7 +234,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784128495268_3",
+    "id": "rss_MIT_Tech_Review_1784134882516_3",
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -241,7 +247,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1784128495268_4",
+    "id": "rss_MIT_Tech_Review_1784134882516_4",
     "title": "The Download: a donor conception cap and world models for AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -251,10 +257,10 @@
       "AI"
     ],
     "date": "Mon, 13 Jul 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1784128506308_0",
+    "id": "rss_Distill_1784134894136_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -264,10 +270,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1784128506308_1",
+    "id": "rss_Distill_1784134894136_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -277,10 +283,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1784128506308_2",
+    "id": "rss_Distill_1784134894136_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -291,7 +297,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784128506308_3",
+    "id": "rss_Distill_1784134894136_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -304,7 +310,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1784128506308_4",
+    "id": "rss_Distill_1784134894136_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -312,6 +318,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
