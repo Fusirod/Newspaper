@@ -1,6 +1,84 @@
 [
   {
-    "id": "rss_TechCrunch_1784134880015_0",
+    "id": "rss_Ars_Technica_1784141428826_0",
+    "title": "In memoriam: 7 of our favorite Sam Neill films",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The actor, who starred in 1993's Jurassic Park, died Monday in Sydney, Australia, at the age of 78. \n                    ",
+    "link": "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/",
+    "tags": [],
+    "date": "Wed, 15 Jul 2026 18:39:58 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1784141430060_0",
+    "title": "AI Isn’t Smarter Than a Baby—Yet",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
+    "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 15 Jul 2026 18:30:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1784141425202_0",
+    "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+    "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+    "tags": [],
+    "date": "Wed, 15 Jul 2026 18:06:05 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1784141430060_1",
+    "title": "Thinking Machines Lab Drops Its First Model",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
+    "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 15 Jul 2026 18:05:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1784141425202_1",
+    "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+    "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 15 Jul 2026 18:04:06 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1784141427392_0",
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m",
+    "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "LLM"
+    ],
+    "date": "Wed, 15 Jul 2026 17:09:37 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1784141425202_2",
     "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -13,7 +91,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784134880015_1",
+    "id": "rss_TechCrunch_1784141425202_3",
     "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -28,7 +106,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784134884016_0",
+    "id": "rss_Ars_Technica_1784141428826_1",
     "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -38,10 +116,10 @@
       "Google"
     ],
     "date": "Wed, 15 Jul 2026 16:55:12 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1784134880015_2",
+    "id": "rss_TechCrunch_1784141425202_4",
     "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -55,7 +133,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1784134884016_1",
+    "id": "rss_Ars_Technica_1784141428826_2",
     "title": "OpenAI's first branded hardware is... a light-up keyboard?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -69,33 +147,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784134880015_3",
-    "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most impor",
-    "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 15 Jul 2026 15:29:33 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1784134880015_4",
-    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-    "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 15 Jul 2026 13:10:47 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1784134882515_0",
+    "id": "rss_MIT_Tech_Review_1784141427392_1",
     "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -108,7 +160,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784134885138_0",
+    "id": "rss_Wired_1784141430060_2",
     "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
     "category": "ai-news",
     "source": "Wired",
@@ -122,7 +174,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784134884017_2",
+    "id": "rss_Ars_Technica_1784141428826_3",
     "title": "A most improbable astronaut just went to space",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -130,10 +182,10 @@
     "link": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
     "tags": [],
     "date": "Wed, 15 Jul 2026 11:30:07 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1784134884017_3",
+    "id": "rss_Ars_Technica_1784141428826_4",
     "title": "How hard is it to build orbital data centers, actually?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -144,20 +196,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1784134884017_4",
-    "title": "Sotheby's big T. rex auction raises concerns hype and wealth are upending science",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Private buyers are increasingly outbidding museums for fossils.\n                    ",
-    "link": "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 15 Jul 2026 10:30:39 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1784134885138_1",
+    "id": "rss_Wired_1784141430060_3",
     "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
     "category": "ai-news",
     "source": "Wired",
@@ -171,7 +210,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784134885138_2",
+    "id": "rss_Wired_1784141430060_4",
     "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
     "category": "ai-news",
     "source": "Wired",
@@ -186,18 +225,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784134885138_3",
-    "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
-    "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
-    "tags": [],
-    "date": "Tue, 14 Jul 2026 16:05:18 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1784134882515_1",
+    "id": "rss_MIT_Tech_Review_1784141427392_2",
     "title": "The Download: Claude’s inner workings, and the future of world models",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -207,21 +235,10 @@
       "AI"
     ],
     "date": "Tue, 14 Jul 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1784134885138_4",
-    "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "On this week’s episode of The Big Interview podcast, WIRED’s senior culture editor Manisha Krishnan talks to Gowanus about eschewing Big Tech, going outside, and rejection in the age of dating apps.",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
-    "tags": [],
-    "date": "Tue, 14 Jul 2026 10:30:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1784134882516_2",
+    "id": "rss_MIT_Tech_Review_1784141427392_3",
     "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -234,7 +251,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784134882516_3",
+    "id": "rss_MIT_Tech_Review_1784141427392_4",
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -244,23 +261,10 @@
       "AI"
     ],
     "date": "Mon, 13 Jul 2026 18:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784134882516_4",
-    "title": "The Download: a donor conception cap and world models for AI",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a ",
-    "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 13 Jul 2026 12:10:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Distill_1784134894136_0",
+    "id": "rss_Distill_1784141439463_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -273,7 +277,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784134894136_1",
+    "id": "rss_Distill_1784141439463_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -283,10 +287,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1784134894136_2",
+    "id": "rss_Distill_1784141439463_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -297,7 +301,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784134894136_3",
+    "id": "rss_Distill_1784141439463_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -310,7 +314,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1784134894136_4",
+    "id": "rss_Distill_1784141439463_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -318,6 +322,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
