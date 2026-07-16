@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1784215367113_0",
+    "id": "arxiv_1784221159545_0",
     "name": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
     "category": "computer-vision",
     "description": "Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can li...",
@@ -15,7 +15,7 @@
     "source": "arXiv - Zhihao Xie, Junfeng Wu, Xinting Hu et al."
   },
   {
-    "id": "arxiv_1784215367183_0",
+    "id": "arxiv_1784221159618_0",
     "name": "Leveraging unlabelled data for generalizable neural population decoding",
     "category": "machine-learning",
     "description": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike leve...",
@@ -27,11 +27,11 @@
       "Optimization"
     ],
     "date": "2026-07-15T17:58:00Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ximeng Mao, Nanda H. Krishna, Avery Hee-Woon Ryoo et al."
   },
   {
-    "id": "arxiv_1784215367183_1",
+    "id": "arxiv_1784221159618_1",
     "name": "Linear Independent Component Analysis via Optimal Transport",
     "category": "machine-learning",
     "description": "Linear Independent Component Analysis (ICA) recovers jointly independent source signals from their linear mixtures. To achieve this, classical ICA algorithms attempt to maximize non-Gaussianity, measu...",
@@ -44,7 +44,7 @@
     "source": "arXiv - Ashutosh Jha, Michel Besserve, Simon Buchholz"
   },
   {
-    "id": "arxiv_1784215367113_1",
+    "id": "arxiv_1784221159545_1",
     "name": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
     "category": "computer-vision",
     "description": "Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a dat...",
@@ -57,7 +57,7 @@
     "source": "arXiv - Zhen Li, Zian Meng, Shuwei Shi et al."
   },
   {
-    "id": "arxiv_1784215367184_2",
+    "id": "arxiv_1784221159618_2",
     "name": "MetaPerch: Learning from metadata for bioacoustics foundation models",
     "category": "machine-learning",
     "description": "Bioacoustic foundation models rely on large-scale citizen science platforms like Xeno-Canto for geographically and ecologically diverse data. Recent work has shown that supervision alone can produce S...",
@@ -71,7 +71,7 @@
     "source": "arXiv - Mustafa Chasmai, Vincent Dumoulin, Jenny Hamer"
   },
   {
-    "id": "arxiv_1784215367184_3",
+    "id": "arxiv_1784221159619_3",
     "name": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
     "category": "machine-learning",
     "description": "Genomic foundation models such as Evo 2 learn rich sequence representations, but their value for biosecurity screening is largely unexplored. We ask how much biosecurity-relevant signal is linearly ac...",
@@ -84,21 +84,7 @@
     "source": "arXiv - Jeremy Guntoro, Alexander Dack, Dylan Danno et al."
   },
   {
-    "id": "arxiv_1784215367253_0",
-    "name": "Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters",
-    "category": "nlp",
-    "description": "Forecasters are evaluated by backtesting, which replays resolved questions and grades the probability the system would have assigned before the outcome was known. For LLMs, two channels leak the answe...",
-    "link": "http://arxiv.org/abs/2607.14051v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-15T17:21:43Z",
-    "trending": false,
-    "source": "arXiv - Xiao Ye, Jacob Dineen, Evan Zhu et al."
-  },
-  {
-    "id": "arxiv_1784215367042_0",
+    "id": "arxiv_1784221159470_0",
     "name": "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models",
     "category": "ai",
     "description": "The emergence of Chain-of-Thought (CoT) reasoning has significantly enhanced the ability of large language models (LLMs) to tackle complex, multi-step tasks. However, when errors occur, current intera...",
@@ -112,7 +98,7 @@
     "source": "arXiv - Hefeng Zhou, Jinxuan Zhang, Jiong Lou et al."
   },
   {
-    "id": "arxiv_1784215367042_1",
+    "id": "arxiv_1784221159470_1",
     "name": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
     "category": "ai",
     "description": "This paper presents Earthquaker-AI, a hybrid educational framework building upon a previously implemented educational robotics project by integrating a conversational AI assistant based on Retrieval-A...",
@@ -122,11 +108,11 @@
       "Robotics"
     ],
     "date": "2026-07-15T17:15:16Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Xanthi Kokkinou, Chaido Mizeli, Nafsika Koulaxidou et al."
   },
   {
-    "id": "arxiv_1784215367042_2",
+    "id": "arxiv_1784221159470_2",
     "name": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
     "category": "ai",
     "description": "By 2030, 59 of every 100 workers will need reskilling or upskilling, yet the average time to close an enterprise skills gap grew from roughly 3 days in 2014 to 36 days in 2018. Most current frameworks...",
@@ -139,22 +125,9 @@
     "source": "arXiv - Tam Nguyen, Hung Nguyen, Robert Ogburn"
   },
   {
-    "id": "arxiv_1784215367042_3",
+    "id": "arxiv_1784221159470_3",
     "name": "Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study",
     "category": "ai",
-    "description": "Historical Manchu OCR must accommodate various visually distinct writing styles, including regular script, running script, and the semi-cursive chancery hand used in palace memorials, despite limited ...",
-    "link": "http://arxiv.org/abs/2607.14041v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-15T17:12:37Z",
-    "trending": false,
-    "source": "arXiv - Zhan Chen, Jiqiao Ma, Chih-wen Kuo"
-  },
-  {
-    "id": "arxiv_1784215367113_2",
-    "name": "Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study",
-    "category": "computer-vision",
     "description": "Historical Manchu OCR must accommodate various visually distinct writing styles, including regular script, running script, and the semi-cursive chancery hand used in palace memorials, despite limited ...",
     "link": "http://arxiv.org/abs/2607.14041v1",
     "tags": [
@@ -165,7 +138,20 @@
     "source": "arXiv - Zhan Chen, Jiqiao Ma, Chih-wen Kuo"
   },
   {
-    "id": "arxiv_1784215367184_4",
+    "id": "arxiv_1784221159545_2",
+    "name": "Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study",
+    "category": "computer-vision",
+    "description": "Historical Manchu OCR must accommodate various visually distinct writing styles, including regular script, running script, and the semi-cursive chancery hand used in palace memorials, despite limited ...",
+    "link": "http://arxiv.org/abs/2607.14041v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-15T17:12:37Z",
+    "trending": false,
+    "source": "arXiv - Zhan Chen, Jiqiao Ma, Chih-wen Kuo"
+  },
+  {
+    "id": "arxiv_1784221159619_4",
     "name": "Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study",
     "category": "machine-learning",
     "description": "Historical Manchu OCR must accommodate various visually distinct writing styles, including regular script, running script, and the semi-cursive chancery hand used in palace memorials, despite limited ...",
@@ -178,22 +164,7 @@
     "source": "arXiv - Zhan Chen, Jiqiao Ma, Chih-wen Kuo"
   },
   {
-    "id": "arxiv_1784215367253_1",
-    "name": "Can an Old Dog Be Taught New Tricks? Taking LLMs Beyond Sentence Level Translation",
-    "category": "nlp",
-    "description": "Automatic translation systems, from CAT tools to MT, overwhelmingly treat translation as a sentence-by-sentence act. This paper asks whether LLMs can be moved beyond that paradigm through whole-docume...",
-    "link": "http://arxiv.org/abs/2607.14040v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "LLM"
-    ],
-    "date": "2026-07-15T17:10:24Z",
-    "trending": false,
-    "source": "arXiv - Alaina Brandt"
-  },
-  {
-    "id": "arxiv_1784215367042_4",
+    "id": "arxiv_1784221159471_4",
     "name": "Early Adoption of Agentic Coding Tools by GitHub Projects",
     "category": "ai",
     "description": "Agentic coding tools are increasingly capable of generating and submitting pull requests (PRs) to software projects, introducing new forms of human-agent collaboration in software development. While p...",
@@ -203,11 +174,11 @@
       "GAN"
     ],
     "date": "2026-07-15T17:05:06Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Maliha Noushin Raida, Daqing Hou"
   },
   {
-    "id": "arxiv_1784215367113_3",
+    "id": "arxiv_1784221159546_3",
     "name": "M$^\\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming",
     "category": "computer-vision",
     "description": "Driving-world generation has emerged as a core capability for scalable autonomous-driving simulation, yet existing methods remain limited in object-level controllability and long-horizon stability. We...",
@@ -220,21 +191,7 @@
     "source": "arXiv - Ke Cheng, Hanqiao Ye, Lei Shi et al."
   },
   {
-    "id": "arxiv_1784215367253_2",
-    "name": "Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0",
-    "category": "nlp",
-    "description": "Most reported gains from agent-optimization methods are one-shot: an agent is optimized against a fixed benchmark and the resulting improvement is reported as if it were a stable property of the metho...",
-    "link": "http://arxiv.org/abs/2607.14004v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-07-15T16:36:04Z",
-    "trending": true,
-    "source": "arXiv - Wenxiao Wang, Priyatham Kattakinda, Soheil Feizi"
-  },
-  {
-    "id": "arxiv_1784215367113_4",
+    "id": "arxiv_1784221159546_4",
     "name": "Task-Specific Feature Fusion Method for Multi-Task Affective Behavior Analysis",
     "category": "computer-vision",
     "description": "The 11th Affective Behavior Analysis in-the-wild (ABAW11) Multi-Task Learning Challenge requires a unified system to predict valence-arousal, categorical expressions, and facial action units from the ...",
@@ -243,34 +200,7 @@
       "AI"
     ],
     "date": "2026-07-15T16:14:59Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jiajun Sun, Zhe Gao"
-  },
-  {
-    "id": "arxiv_1784215367254_3",
-    "name": "Constraint-Aware Counterfactual Editing for Aspect-Based Sentiment Analysis",
-    "category": "nlp",
-    "description": "Aspect-Based Sentiment Analysis (ABSA) requires models to identify sentiment toward specific aspects rather than relying on the global polarity of a sentence. This makes counterfactual evaluation espe...",
-    "link": "http://arxiv.org/abs/2607.13977v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-15T16:03:44Z",
-    "trending": false,
-    "source": "arXiv - S M Rafiuddin, Vamsi Krishna Pavuluri, Atriya Sen"
-  },
-  {
-    "id": "arxiv_1784215367254_4",
-    "name": "DeltaMerge-LowRes: Composing Language and Task Deltas for Low-Resource Adaptation",
-    "category": "nlp",
-    "description": "Adapting a multilingual encoder to a new language \\emph{and} a new task with only a few hundred gold examples is a common low-resource NLP setting, yet the two axes are usually fused via an expensive ...",
-    "link": "http://arxiv.org/abs/2607.13967v1",
-    "tags": [
-      "AI",
-      "NLP"
-    ],
-    "date": "2026-07-15T15:53:40Z",
-    "trending": false,
-    "source": "arXiv - Son Ha Xuan, Xuan-Bach Le, Phat T. Tran-Truong"
   }
 ]
