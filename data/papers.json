@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1784331580644_0",
+    "id": "arxiv_1784337229074_0",
     "name": "Hierarchical Denoising For Multi-Step Visual Reasoning",
     "category": "computer-vision",
     "description": "Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bi...",
@@ -16,7 +16,7 @@
     "source": "arXiv - Zezhong Qian, Xiaowei Chi, Chak-Wing Mak et al."
   },
   {
-    "id": "arxiv_1784331580780_0",
+    "id": "arxiv_1784337229120_0",
     "name": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
     "category": "nlp",
     "description": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona...",
@@ -26,11 +26,11 @@
       "LLM"
     ],
     "date": "2026-07-16T17:59:31Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Patrik Wolf, Thomas Kleine Buening, Andreas Krause et al."
   },
   {
-    "id": "arxiv_1784331580569_0",
+    "id": "arxiv_1784337229049_0",
     "name": "RoboTTT: Context Scaling for Robot Policies",
     "category": "ai",
     "description": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu...",
@@ -44,7 +44,7 @@
     "source": "arXiv - Yunfan Jiang, Yevgen Chebotar, Ruijie Zheng et al."
   },
   {
-    "id": "arxiv_1784331580712_0",
+    "id": "arxiv_1784337229097_0",
     "name": "RoboTTT: Context Scaling for Robot Policies",
     "category": "machine-learning",
     "description": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu...",
@@ -54,11 +54,11 @@
       "Vision"
     ],
     "date": "2026-07-16T17:59:06Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yunfan Jiang, Yevgen Chebotar, Ruijie Zheng et al."
   },
   {
-    "id": "arxiv_1784331580644_1",
+    "id": "arxiv_1784337229074_1",
     "name": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
     "category": "computer-vision",
     "description": "MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a power...",
@@ -70,11 +70,11 @@
       "Optimization"
     ],
     "date": "2026-07-16T17:59:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yushi Huang, Xiangxin Zhou, Jun Zhang et al."
   },
   {
-    "id": "arxiv_1784331580713_1",
+    "id": "arxiv_1784337229097_1",
     "name": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
     "category": "machine-learning",
     "description": "MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a power...",
@@ -86,11 +86,11 @@
       "Optimization"
     ],
     "date": "2026-07-16T17:59:02Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yushi Huang, Xiangxin Zhou, Jun Zhang et al."
   },
   {
-    "id": "arxiv_1784331580570_1",
+    "id": "arxiv_1784337229049_1",
     "name": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
     "category": "ai",
     "description": "Editing the figures in a research paper is a routine and time-consuming part of everyday research practice: authors relabel components, rearrange panels, and restyle visuals as they revise their manus...",
@@ -100,11 +100,11 @@
       "Vision"
     ],
     "date": "2026-07-16T17:58:36Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yasheng Sun, Zezi Zeng, Yifan Yang et al."
   },
   {
-    "id": "arxiv_1784331580780_1",
+    "id": "arxiv_1784337229120_1",
     "name": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
     "category": "nlp",
     "description": "Editing the figures in a research paper is a routine and time-consuming part of everyday research practice: authors relabel components, rearrange panels, and restyle visuals as they revise their manus...",
@@ -118,7 +118,7 @@
     "source": "arXiv - Yasheng Sun, Zezi Zeng, Yifan Yang et al."
   },
   {
-    "id": "arxiv_1784331580644_2",
+    "id": "arxiv_1784337229074_2",
     "name": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
     "category": "computer-vision",
     "description": "Online novel view synthesis from multi-view streaming videos faces a fundamental trade-off: maintaining a persistent, long-horizon memory to reconstruct temporarily occluded regions while operating un...",
@@ -132,7 +132,7 @@
     "source": "arXiv - Baback Elmieh, Lynn Tsai, Zeman Li et al."
   },
   {
-    "id": "arxiv_1784331580713_2",
+    "id": "arxiv_1784337229097_2",
     "name": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
     "category": "machine-learning",
     "description": "Online novel view synthesis from multi-view streaming videos faces a fundamental trade-off: maintaining a persistent, long-horizon memory to reconstruct temporarily occluded regions while operating un...",
@@ -146,7 +146,7 @@
     "source": "arXiv - Baback Elmieh, Lynn Tsai, Zeman Li et al."
   },
   {
-    "id": "arxiv_1784331580645_3",
+    "id": "arxiv_1784337229074_3",
     "name": "Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography",
     "category": "computer-vision",
     "description": "Myocardial infarction (MI) remains a leading cause of mortality worldwide. Echocardiography (Echo) is a widely available modality for MI assessment, where regional wall motion abnormality is a key ind...",
@@ -160,7 +160,7 @@
     "source": "arXiv - Guang Yang, Wentian Xu, Siyu Wang et al."
   },
   {
-    "id": "arxiv_1784331580570_2",
+    "id": "arxiv_1784337229049_2",
     "name": "Pretraining Data Can Be Poisoned through Computational Propaganda",
     "category": "ai",
     "description": "Poisoning pretraining data can introduce harmful behaviors to LMs that are difficult to detect and mitigate. Prior work on poisoning pretraining data has largely exploited established data sources suc...",
@@ -170,11 +170,11 @@
       "GAN"
     ],
     "date": "2026-07-16T17:56:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Victoria Graf, Hannaneh Hajishirzi, Noah A. Smith et al."
   },
   {
-    "id": "arxiv_1784331580780_2",
+    "id": "arxiv_1784337229120_2",
     "name": "Pretraining Data Can Be Poisoned through Computational Propaganda",
     "category": "nlp",
     "description": "Poisoning pretraining data can introduce harmful behaviors to LMs that are difficult to detect and mitigate. Prior work on poisoning pretraining data has largely exploited established data sources suc...",
@@ -188,7 +188,7 @@
     "source": "arXiv - Victoria Graf, Hannaneh Hajishirzi, Noah A. Smith et al."
   },
   {
-    "id": "arxiv_1784331580570_3",
+    "id": "arxiv_1784337229049_3",
     "name": "SceneBind: Binding What and Where Across Vision, Audio and Language",
     "category": "ai",
     "description": "We present SceneBind, an omni-modal representation of realistic scenes with joint semantic and 3D spatial understanding across vision, audio and language. Existing omni-modal encoders excel at instanc...",
@@ -202,7 +202,7 @@
     "source": "arXiv - Mingfei Chen, Zijun Cui, Ruoke Zhang et al."
   },
   {
-    "id": "arxiv_1784331580645_4",
+    "id": "arxiv_1784337229074_4",
     "name": "SceneBind: Binding What and Where Across Vision, Audio and Language",
     "category": "computer-vision",
     "description": "We present SceneBind, an omni-modal representation of realistic scenes with joint semantic and 3D spatial understanding across vision, audio and language. Existing omni-modal encoders excel at instanc...",
@@ -216,7 +216,7 @@
     "source": "arXiv - Mingfei Chen, Zijun Cui, Ruoke Zhang et al."
   },
   {
-    "id": "arxiv_1784331580570_4",
+    "id": "arxiv_1784337229049_4",
     "name": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
     "category": "ai",
     "description": "Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completio...",
@@ -229,7 +229,7 @@
     "source": "arXiv - Paul Kassianik, Blaine Nelson, Yaron Singer"
   },
   {
-    "id": "arxiv_1784331580713_3",
+    "id": "arxiv_1784337229097_3",
     "name": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
     "category": "machine-learning",
     "description": "The growing use of Bitcoin as a decentralized digital asset and investment tool has sparked strong interest in understanding its market behavior. This study presents a new approach to analyze Bitcoin ...",
@@ -244,7 +244,7 @@
     "source": "arXiv - Arthur G. Bubolz, Abreu Quevedo, Giancarlo Lucca et al."
   },
   {
-    "id": "arxiv_1784331580780_3",
+    "id": "arxiv_1784337229120_3",
     "name": "Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search",
     "category": "nlp",
     "description": "Retrieval systems are trained and evaluated on a static idea of usefulness: hand a document and a question to a reader model, see whether the answer improves, and score the document accordingly. The i...",
@@ -253,11 +253,11 @@
       "AI"
     ],
     "date": "2026-07-16T17:48:29Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Debayan Mukhopadhyay, Utshab Kumar Ghosh, Shubham Chatterjee"
   },
   {
-    "id": "arxiv_1784331580713_4",
+    "id": "arxiv_1784337229097_4",
     "name": "Mutable Low-Rank Sketches for Retrain-Free Recommendation",
     "category": "machine-learning",
     "description": "A common bottleneck in two-stage recommendation is embedding staleness: when a user rates a new item, their embedding remains fixed until the next retrain cycle. We propose mutable sketches, which sto...",
@@ -266,11 +266,11 @@
       "AI"
     ],
     "date": "2026-07-16T17:39:38Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hector J. Garcia, Nick Clayton"
   },
   {
-    "id": "arxiv_1784331580781_4",
+    "id": "arxiv_1784337229121_4",
     "name": "Beyond the Leaderboard: Design Lessons for Trustworthy Multimodal VQA",
     "category": "nlp",
     "description": "Healthcare multimodal AI must combine visual and textual evidence while remaining reliable and interpretable. Using MediaEval Medico 2025 as a retrospective GI endoscopy case study, we analyze design ...",
