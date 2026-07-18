@@ -1,6 +1,33 @@
 [
   {
-    "id": "rss_TechCrunch_1784363345198_0",
+    "id": "rss_Wired_1784369190006_0",
+    "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+    "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Sat, 18 Jul 2026 10:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1784369190006_1",
+    "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+    "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Sat, 18 Jul 2026 09:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1784369185080_0",
     "title": "Neil Rimer thinks the AI money is coming back out",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -10,10 +37,10 @@
       "AI"
     ],
     "date": "Sat, 18 Jul 2026 04:47:25 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784363345198_1",
+    "id": "rss_TechCrunch_1784369185080_1",
     "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -23,10 +50,10 @@
       "AI"
     ],
     "date": "Fri, 17 Jul 2026 22:55:09 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1784363345198_2",
+    "id": "rss_TechCrunch_1784369185080_2",
     "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -39,7 +66,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784363345198_3",
+    "id": "rss_TechCrunch_1784369185080_3",
     "title": "The Zoom hack that says, ‘Don’t record me’",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -47,10 +74,10 @@
     "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
     "tags": [],
     "date": "Fri, 17 Jul 2026 21:20:47 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784363345199_4",
+    "id": "rss_TechCrunch_1784369185080_4",
     "title": "Agility Robotics plants its flag in Tesla’s backyard",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -64,7 +91,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784363348875_0",
+    "id": "rss_Ars_Technica_1784369188924_0",
     "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -74,10 +101,10 @@
       "Google"
     ],
     "date": "Fri, 17 Jul 2026 19:50:18 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784363348875_1",
+    "id": "rss_Ars_Technica_1784369188924_1",
     "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -85,10 +112,10 @@
     "link": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
     "tags": [],
     "date": "Fri, 17 Jul 2026 19:19:42 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1784363348875_2",
+    "id": "rss_Ars_Technica_1784369188924_2",
     "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -96,10 +123,10 @@
     "link": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
     "tags": [],
     "date": "Fri, 17 Jul 2026 18:53:11 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1784363348875_3",
+    "id": "rss_Ars_Technica_1784369188924_3",
     "title": "Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -110,7 +137,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784363348875_4",
+    "id": "rss_Ars_Technica_1784369188924_4",
     "title": "Troubling new details emerge on diabetes ouster controversy",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -120,10 +147,10 @@
       "AI"
     ],
     "date": "Fri, 17 Jul 2026 17:08:05 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1784363347476_0",
+    "id": "rss_MIT_Tech_Review_1784369187426_0",
     "title": "The Download: perimenopause misinformation and China’s latest AI leap",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -133,10 +160,10 @@
       "AI"
     ],
     "date": "Fri, 17 Jul 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1784363350094_0",
+    "id": "rss_Wired_1784369190006_2",
     "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
     "category": "ai-news",
     "source": "Wired",
@@ -150,7 +177,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1784363347477_1",
+    "id": "rss_MIT_Tech_Review_1784369187427_1",
     "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -161,7 +188,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784363350094_1",
+    "id": "rss_Wired_1784369190006_3",
     "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
     "category": "ai-news",
     "source": "Wired",
@@ -171,10 +198,10 @@
       "Robot"
     ],
     "date": "Fri, 17 Jul 2026 09:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1784363347477_2",
+    "id": "rss_MIT_Tech_Review_1784369187427_2",
     "title": "The risk of weather data sabotage is rising",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -184,10 +211,10 @@
       "AI"
     ],
     "date": "Fri, 17 Jul 2026 08:57:32 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1784363350094_2",
+    "id": "rss_Wired_1784369190006_4",
     "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
     "category": "ai-news",
     "source": "Wired",
@@ -198,23 +225,10 @@
       "OpenAI"
     ],
     "date": "Thu, 16 Jul 2026 22:17:27 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1784363350094_3",
-    "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
-    "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 16 Jul 2026 18:35:18 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784363347477_3",
+    "id": "rss_MIT_Tech_Review_1784369187427_3",
     "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -227,10 +241,10 @@
       "LLM"
     ],
     "date": "Thu, 16 Jul 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784363347477_4",
+    "id": "rss_MIT_Tech_Review_1784369187427_4",
     "title": "Why heat pumps are still so hot in the US",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -238,23 +252,10 @@
     "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
     "tags": [],
     "date": "Thu, 16 Jul 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1784363350094_4",
-    "title": "Please Stop Making Me Opt Out of AI",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
-    "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 16 Jul 2026 10:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1784363359114_0",
+    "id": "rss_Distill_1784369198885_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -267,7 +268,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784363359114_1",
+    "id": "rss_Distill_1784369198885_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -277,10 +278,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1784363359114_2",
+    "id": "rss_Distill_1784369198885_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -291,7 +292,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784363359114_3",
+    "id": "rss_Distill_1784369198885_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -304,7 +305,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1784363359114_4",
+    "id": "rss_Distill_1784369198885_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
