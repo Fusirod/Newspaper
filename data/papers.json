@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1784567649976_0",
+    "id": "arxiv_1784575230232_0",
     "name": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs",
     "category": "computer-vision",
     "description": "Multimodal large language models have achieved strong performance across diverse vision-language tasks, yet their capabilities in UAV scenarios remain insufficiently explored. Recent UAV-oriented benc...",
@@ -12,11 +12,11 @@
       "Optimization"
     ],
     "date": "2026-07-17T17:59:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Like Liu, Zhengzheng Xu, Haitao He et al."
   },
   {
-    "id": "arxiv_1784567649976_1",
+    "id": "arxiv_1784575230232_1",
     "name": "MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction",
     "category": "computer-vision",
     "description": "Humans can infer how objects are likely to move from passive observation: a cup may be lifted, a drawer may slide, and a lid may rotate shut. Such predictions expose the physical consequences of inter...",
@@ -29,7 +29,7 @@
     "source": "arXiv - Homanga Bharadhwaj, Yash Jangir"
   },
   {
-    "id": "arxiv_1784567649976_2",
+    "id": "arxiv_1784575230232_2",
     "name": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
     "category": "computer-vision",
     "description": "Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, bu...",
@@ -45,7 +45,7 @@
     "source": "arXiv - Hao Liu, Chenghuan Huang, Ye Huang et al."
   },
   {
-    "id": "arxiv_1784567649976_3",
+    "id": "arxiv_1784575230232_3",
     "name": "Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA",
     "category": "computer-vision",
     "description": "Grounded long-video question answering (Grounded LVQA) requires answering a question about a long video while localizing the short evidence interval that supports the answer. Recent agentic methods fr...",
@@ -59,7 +59,7 @@
     "source": "arXiv - Ce Zhang, Ziyang Wang, Yulu Pan et al."
   },
   {
-    "id": "arxiv_1784567650039_0",
+    "id": "arxiv_1784575230300_0",
     "name": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
     "category": "machine-learning",
     "description": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension betwe...",
@@ -68,11 +68,11 @@
       "LLM"
     ],
     "date": "2026-07-17T17:58:29Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuchen Yang, Yifan Zhao, Anisha Dasgupta et al."
   },
   {
-    "id": "arxiv_1784567650039_1",
+    "id": "arxiv_1784575230300_1",
     "name": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
     "category": "machine-learning",
     "description": "To address the escalating energy and latency demands of machine-learning workloads, we introduce a blueprint for an energy-efficient and fast thermodynamic computing stack that leverages stochastic an...",
@@ -86,7 +86,7 @@
     "source": "arXiv - Owen Lockwood, Jérémy Béjanin, Joost Bus et al."
   },
   {
-    "id": "arxiv_1784567649976_4",
+    "id": "arxiv_1784575230232_4",
     "name": "Vision-Language Assistant for Emotional Reactions to Risky Driving",
     "category": "computer-vision",
     "description": "This study introduces a vision-language pipeline that detects risky driving behaviors and generates emotionally expressive responses to support driver awareness and comfort. Although vision-language m...",
@@ -101,7 +101,7 @@
     "source": "arXiv - Harine Choi, Eun Hak Lee, Zhengzhong Tu"
   },
   {
-    "id": "arxiv_1784567650039_2",
+    "id": "arxiv_1784575230300_2",
     "name": "Cluster-Aware Matching via Laplacian Optimal Transport",
     "category": "machine-learning",
     "description": "In many applications of matching, the point clouds to be matched are not merely unstructured sets of points but rather samples from distributions with an intrinsic cluster structure. In such cases, as...",
@@ -110,11 +110,11 @@
       "AI"
     ],
     "date": "2026-07-17T17:56:51Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Gabriel Samberg, YoonHaeng Hur, Yuehaw Khoo et al."
   },
   {
-    "id": "arxiv_1784567650040_3",
+    "id": "arxiv_1784575230300_3",
     "name": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
     "category": "machine-learning",
     "description": "Reinforcement learning (RL) has recently emerged as a promising feedback control strategy for nonlinear and complex dynamical systems. However, RL algorithms are sample inefficient and require a large...",
@@ -129,7 +129,7 @@
     "source": "arXiv - Matteo Tomasetto, Nicolò Botteghi, Gabriele Bruni et al."
   },
   {
-    "id": "arxiv_1784567649915_0",
+    "id": "arxiv_1784575230162_0",
     "name": "Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities",
     "category": "ai",
     "description": "Connected and Autonomous Vehicles (CAVs) rely on interconnected software and hardware components, including sensors, Electronic Control Units, in-vehicle infotainment systems, and telematics units, wh...",
@@ -143,7 +143,7 @@
     "source": "arXiv - Md Erfan, Ahmed Ryan, Md Kamal Hossain Chowdhury et al."
   },
   {
-    "id": "arxiv_1784567649915_1",
+    "id": "arxiv_1784575230162_1",
     "name": "When Does Muon Help Agentic Reinforcement Learning?",
     "category": "ai",
     "description": "Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through match...",
@@ -154,11 +154,11 @@
       "Optimization"
     ],
     "date": "2026-07-17T17:49:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Kai Ruan, Jinghao Lin, Zihe Huang et al."
   },
   {
-    "id": "arxiv_1784567650040_4",
+    "id": "arxiv_1784575230300_4",
     "name": "When Does Muon Help Agentic Reinforcement Learning?",
     "category": "machine-learning",
     "description": "Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through match...",
@@ -173,7 +173,7 @@
     "source": "arXiv - Kai Ruan, Jinghao Lin, Zihe Huang et al."
   },
   {
-    "id": "arxiv_1784567649916_2",
+    "id": "arxiv_1784575230162_2",
     "name": "An Exam for Active Observers",
     "category": "ai",
     "description": "Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active obs...",
@@ -189,7 +189,7 @@
     "source": "arXiv - Jiarui Zhang, Muzi Tao, Shangshang Wang et al."
   },
   {
-    "id": "arxiv_1784567650102_0",
+    "id": "arxiv_1784575230367_0",
     "name": "An Exam for Active Observers",
     "category": "nlp",
     "description": "Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active obs...",
@@ -201,11 +201,11 @@
       "GPT"
     ],
     "date": "2026-07-17T17:46:23Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jiarui Zhang, Muzi Tao, Shangshang Wang et al."
   },
   {
-    "id": "arxiv_1784567649916_3",
+    "id": "arxiv_1784575230162_3",
     "name": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective",
     "category": "ai",
     "description": "LLM powered multi-agent systems (MAS) have emerged as a promising paradigm for complex tasks. However, their advantages over single-agent systems (SAS) remain unclear, with performance varying inconsi...",
@@ -220,7 +220,7 @@
     "source": "arXiv - Wendi Yu, Lianhao Zhou, Xiangjue Dong et al."
   },
   {
-    "id": "arxiv_1784567649916_4",
+    "id": "arxiv_1784575230163_4",
     "name": "ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning",
     "category": "ai",
     "description": "Multimodal Scientific Claim Verification (MSCV) requires models to verify scientific claims using visually grounded evidence from papers, including figures, tables, charts, and textual context. Howeve...",
@@ -235,7 +235,7 @@
     "source": "arXiv - Binglin Zhou, Peng Shi, Ryo Kamoi et al."
   },
   {
-    "id": "arxiv_1784567650102_1",
+    "id": "arxiv_1784575230367_1",
     "name": "ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning",
     "category": "nlp",
     "description": "Multimodal Scientific Claim Verification (MSCV) requires models to verify scientific claims using visually grounded evidence from papers, including figures, tables, charts, and textual context. Howeve...",
@@ -250,7 +250,7 @@
     "source": "arXiv - Binglin Zhou, Peng Shi, Ryo Kamoi et al."
   },
   {
-    "id": "arxiv_1784567650102_2",
+    "id": "arxiv_1784575230367_2",
     "name": "Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content",
     "category": "nlp",
     "description": "Language models encode text as subword tokens, raw bytes, or rendered pixels, but these encodings are usually compared under modeling constraints that expose different amounts of linguistic content to...",
@@ -259,11 +259,11 @@
       "AI"
     ],
     "date": "2026-07-17T16:55:27Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ingo Ziegler, Martin Krebs, Desmond Elliott"
   },
   {
-    "id": "arxiv_1784567650102_3",
+    "id": "arxiv_1784575230367_3",
     "name": "Understanding Reasoning from Pretraining to Post-Training",
     "category": "nlp",
     "description": "Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that prec...",
@@ -274,11 +274,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-07-17T16:31:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jingyan Shen, Ang Li, Salman Rahman et al."
   },
   {
-    "id": "arxiv_1784567650102_4",
+    "id": "arxiv_1784575230367_4",
     "name": "Controlling Implicit Shortcut Reliance in L2 Spoken English Auto-markers",
     "category": "nlp",
     "description": "Increasingly, speech and language processing tasks take either audio or text directly rather than extracting features from these as the input to the classifier or regressor. Often these systems make u...",
