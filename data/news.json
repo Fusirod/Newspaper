@@ -1,6 +1,6 @@
 [
   {
-    "id": "rss_TechCrunch_1784587474766_0",
+    "id": "rss_TechCrunch_1784591051338_0",
     "title": "Trump’s latest AI czar has already resigned",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -13,7 +13,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784587478383_0",
+    "id": "rss_Ars_Technica_1784591054735_0",
     "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -24,7 +24,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1784587478383_1",
+    "id": "rss_Ars_Technica_1784591054735_1",
     "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -35,7 +35,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784587474766_1",
+    "id": "rss_TechCrunch_1784591051339_1",
     "title": "Google is working on a new AI chip designed to make Gemini more efficient",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -49,7 +49,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784587478383_2",
+    "id": "rss_Ars_Technica_1784591054735_2",
     "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -62,7 +62,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784587474766_2",
+    "id": "rss_TechCrunch_1784591051339_2",
     "title": "AI’s most important protocol is getting a little bit easier to use",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -75,7 +75,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784587478383_3",
+    "id": "rss_Ars_Technica_1784591054735_3",
     "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -83,10 +83,10 @@
     "link": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
     "tags": [],
     "date": "Mon, 20 Jul 2026 20:30:25 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1784587474766_3",
+    "id": "rss_TechCrunch_1784591051339_3",
     "title": "X relaunches a rebuilt Android app after year-long effort",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -99,7 +99,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1784587474766_4",
+    "id": "rss_TechCrunch_1784591051339_4",
     "title": "OpenAI is scared of open-weight models. Should the US be?",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -111,10 +111,10 @@
       "LLM"
     ],
     "date": "Mon, 20 Jul 2026 19:33:25 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1784587478383_4",
+    "id": "rss_Ars_Technica_1784591054735_4",
     "title": "AT&T loses key ruling in bid to stop offering basic phone service in California",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -122,10 +122,10 @@
     "link": "https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/",
     "tags": [],
     "date": "Mon, 20 Jul 2026 19:20:49 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1784587476980_0",
+    "id": "rss_MIT_Tech_Review_1784591053554_0",
     "title": "China’s AI models have Trump’s AI world at war with itself",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -135,10 +135,10 @@
       "AI"
     ],
     "date": "Mon, 20 Jul 2026 18:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784587476981_1",
+    "id": "rss_MIT_Tech_Review_1784591053554_1",
     "title": "The Download: AI hiring biases, and weather data sabotage",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -151,7 +151,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784587476981_2",
+    "id": "rss_MIT_Tech_Review_1784591053554_2",
     "title": "AI is more likely than humans to form biases when hiring",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -162,10 +162,50 @@
       "LLM"
     ],
     "date": "Mon, 20 Jul 2026 08:39:01 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1784591055823_0",
+    "title": "Your Period Tracker Is (Probably) Spying on You",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
+    "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Sat, 18 Jul 2026 10:30:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1784591055823_1",
+    "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+    "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Sat, 18 Jul 2026 10:00:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784587476981_3",
+    "id": "rss_Wired_1784591055823_2",
+    "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+    "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Sat, 18 Jul 2026 09:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1784591053554_3",
     "title": "The Download: perimenopause misinformation and China’s latest AI leap",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -175,10 +215,24 @@
       "AI"
     ],
     "date": "Fri, 17 Jul 2026 12:10:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1784591055823_3",
+    "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
+    "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Fri, 17 Jul 2026 10:00:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784587476981_4",
+    "id": "rss_MIT_Tech_Review_1784591053555_4",
     "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -189,7 +243,20 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1784587491856_0",
+    "id": "rss_Wired_1784591055824_4",
+    "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”",
+    "link": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
+    "tags": [
+      "Robot"
+    ],
+    "date": "Fri, 17 Jul 2026 09:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Distill_1784591063654_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -199,10 +266,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1784587491856_1",
+    "id": "rss_Distill_1784591063654_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -215,7 +282,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784587491856_2",
+    "id": "rss_Distill_1784591063654_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -226,7 +293,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784587491856_3",
+    "id": "rss_Distill_1784591063654_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -239,7 +306,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784587491856_4",
+    "id": "rss_Distill_1784591063654_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
