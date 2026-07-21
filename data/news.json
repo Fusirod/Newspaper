@@ -1,6 +1,57 @@
 [
   {
-    "id": "rss_Ars_Technica_1784645551557_0",
+    "id": "rss_Wired_1784650323653_0",
+    "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
+    "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 21 Jul 2026 16:08:44 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1784650318711_0",
+    "title": "US threatens sanctions against Chinese AI models over IP theft",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+    "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 21 Jul 2026 15:37:05 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1784650322452_0",
+    "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"Current economic conditions\" have shifted TreeSize's business model. \n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+    "tags": [],
+    "date": "Tue, 21 Jul 2026 15:18:23 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1784650323653_1",
+    "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
+    "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+    "tags": [
+      "AI",
+      "NVIDIA"
+    ],
+    "date": "Tue, 21 Jul 2026 15:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1784650322453_1",
     "title": "When your vehicle outlives its cloud: What happens next?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,11 +62,11 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784645547891_0",
+    "id": "rss_TechCrunch_1784650318711_1",
     "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+    "description": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
     "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
     "tags": [
       "AI"
@@ -24,7 +75,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1784645551557_1",
+    "id": "rss_Ars_Technica_1784650322453_2",
     "title": "Apps targeted at US troops contain Chinese and Russian code",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -37,7 +88,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1784645551557_2",
+    "id": "rss_Ars_Technica_1784650322453_3",
     "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -48,7 +99,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784645552618_0",
+    "id": "rss_Wired_1784650323653_2",
     "title": "Halliday’s New Smart Glasses Skip the Camera",
     "category": "ai-news",
     "source": "Wired",
@@ -59,7 +110,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784645550020_0",
+    "id": "rss_MIT_Tech_Review_1784650321109_0",
     "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -72,7 +123,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784645550020_1",
+    "id": "rss_MIT_Tech_Review_1784650321109_1",
     "title": "Advancing next-gen AI with materials science innovation",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -85,7 +136,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784645552618_1",
+    "id": "rss_Wired_1784650323654_3",
     "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
     "category": "ai-news",
     "source": "Wired",
@@ -96,10 +147,10 @@
       "Google"
     ],
     "date": "Tue, 21 Jul 2026 10:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1784645547891_1",
+    "id": "rss_TechCrunch_1784650318711_2",
     "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -112,7 +163,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784645552618_2",
+    "id": "rss_Wired_1784650323654_4",
     "title": "The Army Is Burning Through Its AI Tokens",
     "category": "ai-news",
     "source": "Wired",
@@ -122,23 +173,10 @@
       "AI"
     ],
     "date": "Tue, 21 Jul 2026 09:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1784645552618_3",
-    "title": "Etsy Is In Its Flop Era, and Sellers Are Fleeing",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Once a quirky bastion of amateur vulva jewelry and pet portraits, Etsy is now deluged with mass-produced goods and AI knockoffs. Some customers don’t seem to mind.",
-    "link": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 21 Jul 2026 09:00:00 +0000",
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1784645547891_2",
+    "id": "rss_TechCrunch_1784650318711_3",
     "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -151,7 +189,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784645547891_3",
+    "id": "rss_TechCrunch_1784650318711_4",
     "title": "Trump’s latest AI czar has already resigned",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -161,10 +199,10 @@
       "AI"
     ],
     "date": "Mon, 20 Jul 2026 22:21:04 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784645551557_3",
+    "id": "rss_Ars_Technica_1784650322453_4",
     "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -175,32 +213,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784645551557_4",
-    "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        California and XPRIZE competition tests whether drones can stop wildfires early.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
-    "tags": [],
-    "date": "Mon, 20 Jul 2026 21:55:52 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1784645547892_4",
-    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently. ",
-    "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Mon, 20 Jul 2026 21:21:15 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1784645550020_2",
+    "id": "rss_MIT_Tech_Review_1784650321110_2",
     "title": "China’s AI models have Trump’s AI world at war with itself",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -213,7 +226,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784645550020_3",
+    "id": "rss_MIT_Tech_Review_1784650321110_3",
     "title": "The Download: AI hiring biases, and weather data sabotage",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -223,10 +236,10 @@
       "AI"
     ],
     "date": "Mon, 20 Jul 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1784645550021_4",
+    "id": "rss_MIT_Tech_Review_1784650321110_4",
     "title": "AI is more likely than humans to form biases when hiring",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -240,20 +253,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784645552618_4",
-    "title": "Your Period Tracker Is (Probably) Spying on You",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
-    "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Sat, 18 Jul 2026 10:30:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Distill_1784645560793_0",
+    "id": "rss_Distill_1784650332930_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -263,10 +263,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1784645560793_1",
+    "id": "rss_Distill_1784650332930_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -279,7 +279,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784645560793_2",
+    "id": "rss_Distill_1784650332930_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -287,10 +287,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1784645560793_3",
+    "id": "rss_Distill_1784650332930_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -303,7 +303,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784645560793_4",
+    "id": "rss_Distill_1784650332930_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -311,6 +311,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]

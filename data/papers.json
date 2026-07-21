@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1784645547602_0",
+    "id": "arxiv_1784650318317_0",
     "name": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
     "category": "computer-vision",
     "description": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances ...",
@@ -10,11 +10,11 @@
       "Vision"
     ],
     "date": "2026-07-20T17:59:51Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Sheng-Yu Wang, Yotam Nitzan, Aaron Hertzmann et al."
   },
   {
-    "id": "arxiv_1784645547669_0",
+    "id": "arxiv_1784650318375_0",
     "name": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
     "category": "machine-learning",
     "description": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances ...",
@@ -24,11 +24,11 @@
       "Vision"
     ],
     "date": "2026-07-20T17:59:51Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Sheng-Yu Wang, Yotam Nitzan, Aaron Hertzmann et al."
   },
   {
-    "id": "arxiv_1784645547669_1",
+    "id": "arxiv_1784650318375_1",
     "name": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
     "category": "machine-learning",
     "description": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global...",
@@ -44,7 +44,7 @@
     "source": "arXiv - Gaoyue Zhou, Zichen Jeff Cui, Ada Langford et al."
   },
   {
-    "id": "arxiv_1784645547532_0",
+    "id": "arxiv_1784650318255_0",
     "name": "Automated Discovery Has No Universally Superior Harness",
     "category": "ai",
     "description": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about ar...",
@@ -58,7 +58,7 @@
     "source": "arXiv - Akshat Gupta, Jermaine Lei, Alexander Lu et al."
   },
   {
-    "id": "arxiv_1784645547735_0",
+    "id": "arxiv_1784650318432_0",
     "name": "Automated Discovery Has No Universally Superior Harness",
     "category": "nlp",
     "description": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about ar...",
@@ -72,7 +72,7 @@
     "source": "arXiv - Akshat Gupta, Jermaine Lei, Alexander Lu et al."
   },
   {
-    "id": "arxiv_1784645547735_1",
+    "id": "arxiv_1784650318432_1",
     "name": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
     "category": "nlp",
     "description": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledg...",
@@ -82,11 +82,11 @@
       "LLM"
     ],
     "date": "2026-07-20T17:58:31Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Kevin Du, Clara Kümpel, Michelle Wastl et al."
   },
   {
-    "id": "arxiv_1784645547532_1",
+    "id": "arxiv_1784650318255_1",
     "name": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
     "category": "ai",
     "description": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cr...",
@@ -102,7 +102,7 @@
     "source": "arXiv - Yi Tang, Xinyi Shang, Jiacheng Cui et al."
   },
   {
-    "id": "arxiv_1784645547602_1",
+    "id": "arxiv_1784650318318_1",
     "name": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
     "category": "computer-vision",
     "description": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cr...",
@@ -118,7 +118,7 @@
     "source": "arXiv - Yi Tang, Xinyi Shang, Jiacheng Cui et al."
   },
   {
-    "id": "arxiv_1784645547532_2",
+    "id": "arxiv_1784650318255_2",
     "name": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
     "category": "ai",
     "description": "To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque...",
@@ -131,7 +131,7 @@
     "source": "arXiv - Brian K Chen"
   },
   {
-    "id": "arxiv_1784645547736_2",
+    "id": "arxiv_1784650318433_2",
     "name": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
     "category": "nlp",
     "description": "To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque...",
@@ -140,11 +140,11 @@
       "AI"
     ],
     "date": "2026-07-20T17:58:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Brian K Chen"
   },
   {
-    "id": "arxiv_1784645547602_2",
+    "id": "arxiv_1784650318318_2",
     "name": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
     "category": "computer-vision",
     "description": "In line with the prevailing direction of vision research, we explore the integration of both generation and editing capabilities for video and image modalities within a single model. Current approache...",
@@ -159,7 +159,7 @@
     "source": "arXiv - Dingyun Zhang, Lixue Gong, Wei Liu"
   },
   {
-    "id": "arxiv_1784645547669_2",
+    "id": "arxiv_1784650318375_2",
     "name": "Causal Discovery on Irregular Time Series",
     "category": "machine-learning",
     "description": "Causal discovery methods have shown strong performance in temporal systems, but they typically rely on regular and discrete lag structures, limiting their applicability to regularly sampled data. Howe...",
@@ -170,7 +170,7 @@
     "source": "arXiv - Martim Penim, Ricardo Ribeiro Pereira, Jacopo Bono et al."
   },
   {
-    "id": "arxiv_1784645547669_3",
+    "id": "arxiv_1784650318375_3",
     "name": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
     "category": "machine-learning",
     "description": "We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step m...",
@@ -179,11 +179,11 @@
       "Transformer"
     ],
     "date": "2026-07-20T17:57:20Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Masahiro Kato, Taka Kato"
   },
   {
-    "id": "arxiv_1784645547533_3",
+    "id": "arxiv_1784650318256_3",
     "name": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
     "category": "ai",
     "description": "Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representati...",
@@ -197,7 +197,7 @@
     "source": "arXiv - Naoto Usuyama, Jeya Maria Jose Valanarasu, Sicong Yao et al."
   },
   {
-    "id": "arxiv_1784645547602_3",
+    "id": "arxiv_1784650318318_3",
     "name": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
     "category": "computer-vision",
     "description": "Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representati...",
@@ -207,11 +207,11 @@
       "CNN"
     ],
     "date": "2026-07-20T17:52:33Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Naoto Usuyama, Jeya Maria Jose Valanarasu, Sicong Yao et al."
   },
   {
-    "id": "arxiv_1784645547602_4",
+    "id": "arxiv_1784650318318_4",
     "name": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
     "category": "computer-vision",
     "description": "Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on ...",
@@ -225,7 +225,7 @@
     "source": "arXiv - Yiyang Cai, Nan Chen, Rongchang Xie et al."
   },
   {
-    "id": "arxiv_1784645547736_3",
+    "id": "arxiv_1784650318433_3",
     "name": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
     "category": "nlp",
     "description": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code...",
@@ -235,11 +235,11 @@
       "LLM"
     ],
     "date": "2026-07-20T17:47:44Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuhang Wang, Yuling Shi, Shaoqiu Zhang et al."
   },
   {
-    "id": "arxiv_1784645547669_4",
+    "id": "arxiv_1784650318375_4",
     "name": "Unveiling Invariant and Transferable Latent Factors Across Heterogeneous Environments via ATLAS",
     "category": "machine-learning",
     "description": "This paper considers a multi-environment factor model in which high-dimensional covariates are collected from heterogeneous environments, with auxiliary labels available in a subset of these environme...",
@@ -249,11 +249,11 @@
       "Vision"
     ],
     "date": "2026-07-20T17:44:57Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yihong Gu, Katherine Liao, Tianxi Cai"
   },
   {
-    "id": "arxiv_1784645547533_4",
+    "id": "arxiv_1784650318256_4",
     "name": "Learning Adaptive Safety Margins for Visual Navigation",
     "category": "ai",
     "description": "Robots in cluttered indoor spaces often fail not because they cannot generate collision-free paths, but because a fixed safety margin is mis-calibrated: conservative margins cause detours and timeouts...",
@@ -268,7 +268,7 @@
     "source": "arXiv - Junyi Hu, Shuaihang Yuan, Geeta Chandra Raju Bethala et al."
   },
   {
-    "id": "arxiv_1784645547736_4",
+    "id": "arxiv_1784650318433_4",
     "name": "PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning",
     "category": "nlp",
     "description": "Not all training samples contribute equally to large language model fine-tuning. Selecting informative training samples can reduce the computational cost while preserving downstream performance. Many ...",
@@ -277,7 +277,7 @@
       "AI"
     ],
     "date": "2026-07-20T17:38:38Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hang Zhang, Warren J. Gross"
   }
 ]
