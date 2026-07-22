@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1784705254070_0",
+    "id": "arxiv_1784715030112_0",
     "name": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
     "category": "ai",
     "description": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. H...",
@@ -11,11 +11,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-07-21T17:59:21Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Lizhe Fang, Weizhou Shen, Tianyi Tang et al."
   },
   {
-    "id": "arxiv_1784705254276_0",
+    "id": "arxiv_1784715030155_0",
     "name": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
     "category": "nlp",
     "description": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. H...",
@@ -30,7 +30,7 @@
     "source": "arXiv - Lizhe Fang, Weizhou Shen, Tianyi Tang et al."
   },
   {
-    "id": "arxiv_1784705254070_1",
+    "id": "arxiv_1784715030112_1",
     "name": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
     "category": "ai",
     "description": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reli...",
@@ -41,11 +41,11 @@
       "Diffusion"
     ],
     "date": "2026-07-21T17:59:12Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Rahul Sajnani, Yulia Gryaditskaya, Radom��r Měch et al."
   },
   {
-    "id": "arxiv_1784705254139_0",
+    "id": "arxiv_1784715030126_0",
     "name": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
     "category": "computer-vision",
     "description": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reli...",
@@ -56,11 +56,11 @@
       "Diffusion"
     ],
     "date": "2026-07-21T17:59:12Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Rahul Sajnani, Yulia Gryaditskaya, Radomír Měch et al."
   },
   {
-    "id": "arxiv_1784705254139_1",
+    "id": "arxiv_1784715030126_1",
     "name": "Masked Visual Actions for Unified World Modeling",
     "category": "computer-vision",
     "description": "Video models absorb rich priors over how the visual world moves, interacts, and responds to contact, making them promising substrates for robotic world modeling. The central challenge is how to commun...",
@@ -71,7 +71,7 @@
     "source": "arXiv - Hadi Alzayer, Wenlong Huang, Haonan Chen et al."
   },
   {
-    "id": "arxiv_1784705254140_2",
+    "id": "arxiv_1784715030126_2",
     "name": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis",
     "category": "computer-vision",
     "description": "Recent advances in multimodal generative models have enabled instruction-based image generation to move beyond semantic manipulation to knowledge-driven visual reasoning. However, these methods focus ...",
@@ -85,7 +85,7 @@
     "source": "arXiv - Yuan Wang, Yongchao Du, Mengting Chen et al."
   },
   {
-    "id": "arxiv_1784705254140_3",
+    "id": "arxiv_1784715030126_3",
     "name": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
     "category": "computer-vision",
     "description": "Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce O...",
@@ -100,7 +100,7 @@
     "source": "arXiv - Yu Chen, Caorui Li, Ziyu Xiong et al."
   },
   {
-    "id": "arxiv_1784705254070_2",
+    "id": "arxiv_1784715030112_2",
     "name": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
     "category": "ai",
     "description": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat su...",
@@ -114,7 +114,7 @@
     "source": "arXiv - Qijia He, Jiayi Cheng, Chenqian Le et al."
   },
   {
-    "id": "arxiv_1784705254070_3",
+    "id": "arxiv_1784715030112_3",
     "name": "Agents in the Wild: Where Research Meets Deployment",
     "category": "ai",
     "description": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes t...",
@@ -125,11 +125,11 @@
       "LLM"
     ],
     "date": "2026-07-21T17:55:10Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Grace Hui Yang, Pranav N. Venkit, Hooman Sedghamiz et al."
   },
   {
-    "id": "arxiv_1784705254276_1",
+    "id": "arxiv_1784715030155_1",
     "name": "Agents in the Wild: Where Research Meets Deployment",
     "category": "nlp",
     "description": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes t...",
@@ -144,7 +144,7 @@
     "source": "arXiv - Grace Hui Yang, Pranav N. Venkit, Hooman Sedghamiz et al."
   },
   {
-    "id": "arxiv_1784705254206_0",
+    "id": "arxiv_1784715030139_0",
     "name": "1-Lipschitz Neural Networks on Hadamard Manifolds",
     "category": "machine-learning",
     "description": "Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we ...",
@@ -158,7 +158,7 @@
     "source": "arXiv - Davide Murari, Marta Ghirardelli, Ben Adcock et al."
   },
   {
-    "id": "arxiv_1784705254206_1",
+    "id": "arxiv_1784715030139_1",
     "name": "Fundamental limits of distributed multiclass classification from simple binary decisions",
     "category": "machine-learning",
     "description": "We consider the problem of constructing a $K$-class classifier from the combination of $O(\\log K)$ simple binary classifiers -- this is a natural paradigm to construct a sophisticated classifier in a ...",
@@ -171,7 +171,7 @@
     "source": "arXiv - Ioannis Papageorgiou, Srinivas Nomula, Ayalvadi Ganesh et al."
   },
   {
-    "id": "arxiv_1784705254071_4",
+    "id": "arxiv_1784715030112_4",
     "name": "Provable diffusion-based posterior sampling for linear inverse problems via DDIM",
     "category": "ai",
     "description": "Diffusion-based methods have achieved remarkable empirical success in solving inverse problems. However, many existing posterior samplers either lack rigorous theoretical guarantees or incur substanti...",
@@ -185,7 +185,7 @@
     "source": "arXiv - Yuchen Jiao, Na Li, Changxiao Cai et al."
   },
   {
-    "id": "arxiv_1784705254207_2",
+    "id": "arxiv_1784715030139_2",
     "name": "Provable diffusion-based posterior sampling for linear inverse problems via DDIM",
     "category": "machine-learning",
     "description": "Diffusion-based methods have achieved remarkable empirical success in solving inverse problems. However, many existing posterior samplers either lack rigorous theoretical guarantees or incur substanti...",
@@ -199,7 +199,7 @@
     "source": "arXiv - Yuchen Jiao, Na Li, Changxiao Cai et al."
   },
   {
-    "id": "arxiv_1784705254140_4",
+    "id": "arxiv_1784715030126_4",
     "name": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
     "category": "computer-vision",
     "description": "Generative models have undergone many generations of evolution, from VAEs/GANs to diffusion/flow matching. Along the way, the underlying techniques have become more complicated and various beliefs abo...",
@@ -215,7 +215,7 @@
     "source": "arXiv - Chirag Vashist, Ke Li"
   },
   {
-    "id": "arxiv_1784705254207_3",
+    "id": "arxiv_1784715030140_3",
     "name": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
     "category": "machine-learning",
     "description": "Generative models have undergone many generations of evolution, from VAEs/GANs to diffusion/flow matching. Along the way, the underlying techniques have become more complicated and various beliefs abo...",
@@ -227,11 +227,11 @@
       "Diffusion"
     ],
     "date": "2026-07-21T17:51:38Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Chirag Vashist, Ke Li"
   },
   {
-    "id": "arxiv_1784705254207_4",
+    "id": "arxiv_1784715030140_4",
     "name": "ISO: An RLVR-Native Optimization Stack",
     "category": "machine-learning",
     "description": "Reinforcement learning with verifiable rewards (RLVR) is rapidly advancing the reasoning capabilities of language models, yet the optimization layer that converts reward feedback into weight-space upd...",
@@ -242,11 +242,11 @@
       "Optimization"
     ],
     "date": "2026-07-21T17:51:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hanqing Zhu, Wenyan Cong, Zhizhou Sha et al."
   },
   {
-    "id": "arxiv_1784705254276_2",
+    "id": "arxiv_1784715030155_2",
     "name": "Selective State-Space Adaptation and Retrieval for Language Model Reasoning",
     "category": "nlp",
     "description": "Low-rank adaptation introduces a static learned update applied identically to every input. The update provides task-level adaptation but does not explicitly represent token-level or instance-level sta...",
@@ -255,11 +255,11 @@
       "AI"
     ],
     "date": "2026-07-21T17:47:57Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Atahan Dokme, Larry Heck"
   },
   {
-    "id": "arxiv_1784705254276_3",
+    "id": "arxiv_1784715030155_3",
     "name": "Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness",
     "category": "nlp",
     "description": "Evaluating the factuality of long-form generations has focused predominantly on precision, measuring whether the claims a model makes are correct. The dominant decompose-search-verify pipeline catches...",
@@ -270,11 +270,11 @@
       "LLM"
     ],
     "date": "2026-07-21T17:42:50Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Xilun Chen, Zhaleh Feizollahi, Ross Goodwin et al."
   },
   {
-    "id": "arxiv_1784705254276_4",
+    "id": "arxiv_1784715030156_4",
     "name": "CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Interpretability",
     "category": "nlp",
     "description": "Circuit analysis can support not only model explanation but also downstream interventions such as pruning, editing, steering, and selective fine-tuning. However, conducting such analyses currently req...",
