@@ -1,6 +1,90 @@
 [
   {
-    "id": "rss_Ars_Technica_1784743135541_0",
+    "id": "rss_TechCrunch_1784747555512_0",
+    "title": "How an OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+    "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 22 Jul 2026 19:11:46 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1784747560142_0",
+    "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+    "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 22 Jul 2026 19:01:38 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1784747555513_1",
+    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world. ",
+    "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "tags": [
+      "AI",
+      "Robot"
+    ],
+    "date": "Wed, 22 Jul 2026 18:50:44 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1784747559090_0",
+    "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Union previously warned automaker that any robot deployment must be negotiated.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+    "tags": [
+      "AI",
+      "Robot"
+    ],
+    "date": "Wed, 22 Jul 2026 18:18:12 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1784747555513_2",
+    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sha",
+    "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+    "tags": [
+      "AI",
+      "Startup",
+      "Funding"
+    ],
+    "date": "Wed, 22 Jul 2026 18:13:58 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1784747555513_3",
+    "title": "Monday.com lays off hundreds to focus on AI",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform. ",
+    "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 22 Jul 2026 17:54:14 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1784747559090_1",
     "title": "Next Space Force chief throws cold water on the idea of space privateers",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,7 +95,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784743135541_1",
+    "id": "rss_Ars_Technica_1784747559090_2",
     "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -25,7 +109,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784743131832_0",
+    "id": "rss_TechCrunch_1784747555513_4",
     "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -38,34 +122,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784743131832_1",
-    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content. ",
-    "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 22 Jul 2026 16:23:09 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1784743131832_2",
-    "title": "OpenAI’s AI spending spree has ballooned to $750B",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-    "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Wed, 22 Jul 2026 16:13:30 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1784743135541_2",
+    "id": "rss_Ars_Technica_1784747559090_3",
     "title": "What happens when you try to chop a photon in half?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -76,7 +133,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784743135541_3",
+    "id": "rss_Ars_Technica_1784747559090_4",
     "title": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -89,47 +146,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784743135541_4",
-    "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Troops received an email informing them that they were rapidly depleting their AI tokens.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 22 Jul 2026 13:35:17 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1784743131832_3",
-    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-    "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 22 Jul 2026 13:20:35 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1784743131832_4",
-    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
-    "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Wed, 22 Jul 2026 13:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1784743134129_0",
+    "id": "rss_MIT_Tech_Review_1784747557664_0",
     "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -140,10 +157,10 @@
       "OpenAI"
     ],
     "date": "Wed, 22 Jul 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784743134132_1",
+    "id": "rss_MIT_Tech_Review_1784747557665_1",
     "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -154,7 +171,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784743136676_0",
+    "id": "rss_Wired_1784747560143_1",
     "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
     "category": "ai-news",
     "source": "Wired",
@@ -169,7 +186,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784743136676_1",
+    "id": "rss_Wired_1784747560143_2",
     "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
     "category": "ai-news",
     "source": "Wired",
@@ -180,7 +197,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1784743136676_2",
+    "id": "rss_Wired_1784747560143_3",
     "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
     "category": "ai-news",
     "source": "Wired",
@@ -190,10 +207,10 @@
       "AI"
     ],
     "date": "Tue, 21 Jul 2026 16:08:44 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1784743136676_3",
+    "id": "rss_Wired_1784747560143_4",
     "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
     "category": "ai-news",
     "source": "Wired",
@@ -207,18 +224,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784743136676_4",
-    "title": "Halliday’s New Smart Glasses Skip the Camera",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved.",
-    "link": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
-    "tags": [],
-    "date": "Tue, 21 Jul 2026 13:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1784743134132_2",
+    "id": "rss_MIT_Tech_Review_1784747557665_2",
     "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -228,10 +234,10 @@
       "AI"
     ],
     "date": "Tue, 21 Jul 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784743134132_3",
+    "id": "rss_MIT_Tech_Review_1784747557665_3",
     "title": "Advancing next-gen AI with materials science innovation",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -244,7 +250,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784743134132_4",
+    "id": "rss_MIT_Tech_Review_1784747557665_4",
     "title": "China’s AI models have Trump’s AI world at war with itself",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -254,10 +260,10 @@
       "AI"
     ],
     "date": "Mon, 20 Jul 2026 18:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1784743145964_0",
+    "id": "rss_Distill_1784747568402_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -270,7 +276,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784743145964_1",
+    "id": "rss_Distill_1784747568402_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -283,7 +289,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784743145964_2",
+    "id": "rss_Distill_1784747568402_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -291,10 +297,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1784743145964_3",
+    "id": "rss_Distill_1784747568402_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -307,7 +313,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784743145965_4",
+    "id": "rss_Distill_1784747568402_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -315,6 +321,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
