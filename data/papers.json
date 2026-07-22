@@ -1,283 +1,289 @@
 [
   {
-    "id": "arxiv_1784683068161_0",
-    "name": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
-    "category": "computer-vision",
-    "description": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances ...",
-    "link": "http://arxiv.org/abs/2607.18237v1",
+    "id": "arxiv_1784696078534_0",
+    "name": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+    "category": "ai",
+    "description": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. H...",
+    "link": "http://arxiv.org/abs/2607.19345v1",
     "tags": [
       "AI",
-      "Vision"
+      "LLM",
+      "Reinforcement Learning"
     ],
-    "date": "2026-07-20T17:59:51Z",
-    "trending": true,
-    "source": "arXiv - Sheng-Yu Wang, Yotam Nitzan, Aaron Hertzmann et al."
-  },
-  {
-    "id": "arxiv_1784683068184_0",
-    "name": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
-    "category": "machine-learning",
-    "description": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances ...",
-    "link": "http://arxiv.org/abs/2607.18237v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-07-20T17:59:51Z",
+    "date": "2026-07-21T17:59:21Z",
     "trending": false,
-    "source": "arXiv - Sheng-Yu Wang, Yotam Nitzan, Aaron Hertzmann et al."
+    "source": "arXiv - Lizhe Fang, Weizhou Shen, Tianyi Tang et al."
   },
   {
-    "id": "arxiv_1784683068184_1",
-    "name": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
-    "category": "machine-learning",
-    "description": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global...",
-    "link": "http://arxiv.org/abs/2607.18236v1",
+    "id": "arxiv_1784696078777_0",
+    "name": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+    "category": "nlp",
+    "description": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. H...",
+    "link": "http://arxiv.org/abs/2607.19345v1",
     "tags": [
       "AI",
-      "Vision",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-07-21T17:59:21Z",
+    "trending": true,
+    "source": "arXiv - Lizhe Fang, Weizhou Shen, Tianyi Tang et al."
+  },
+  {
+    "id": "arxiv_1784696078534_1",
+    "name": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+    "category": "ai",
+    "description": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reli...",
+    "link": "http://arxiv.org/abs/2607.19344v1",
+    "tags": [
+      "AI",
       "Transformer",
-      "Robotics"
+      "Diffusion"
     ],
-    "date": "2026-07-20T17:59:41Z",
+    "date": "2026-07-21T17:59:12Z",
     "trending": false,
-    "source": "arXiv - Gaoyue Zhou, Zichen Jeff Cui, Ada Langford et al."
+    "source": "arXiv - Rahul Sajnani, Yulia Gryaditskaya, Radom��r Měch et al."
   },
   {
-    "id": "arxiv_1784683068134_0",
-    "name": "Automated Discovery Has No Universally Superior Harness",
-    "category": "ai",
-    "description": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about ar...",
-    "link": "http://arxiv.org/abs/2607.18235v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-20T17:59:37Z",
-    "trending": false,
-    "source": "arXiv - Akshat Gupta, Jermaine Lei, Alexander Lu et al."
-  },
-  {
-    "id": "arxiv_1784683068210_0",
-    "name": "Automated Discovery Has No Universally Superior Harness",
-    "category": "nlp",
-    "description": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about ar...",
-    "link": "http://arxiv.org/abs/2607.18235v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-20T17:59:37Z",
-    "trending": true,
-    "source": "arXiv - Akshat Gupta, Jermaine Lei, Alexander Lu et al."
-  },
-  {
-    "id": "arxiv_1784683068210_1",
-    "name": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
-    "category": "nlp",
-    "description": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledg...",
-    "link": "http://arxiv.org/abs/2607.18232v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-20T17:58:31Z",
-    "trending": false,
-    "source": "arXiv - Kevin Du, Clara Kümpel, Michelle Wastl et al."
-  },
-  {
-    "id": "arxiv_1784683068134_1",
-    "name": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
-    "category": "ai",
-    "description": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cr...",
-    "link": "http://arxiv.org/abs/2607.18230v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GPT",
-      "Optimization"
-    ],
-    "date": "2026-07-20T17:58:13Z",
-    "trending": false,
-    "source": "arXiv - Yi Tang, Xinyi Shang, Jiacheng Cui et al."
-  },
-  {
-    "id": "arxiv_1784683068161_1",
-    "name": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+    "id": "arxiv_1784696078619_0",
+    "name": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
     "category": "computer-vision",
-    "description": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cr...",
-    "link": "http://arxiv.org/abs/2607.18230v1",
+    "description": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reli...",
+    "link": "http://arxiv.org/abs/2607.19344v1",
     "tags": [
       "AI",
-      "Vision",
-      "GPT",
-      "Optimization"
+      "Transformer",
+      "Diffusion"
     ],
-    "date": "2026-07-20T17:58:13Z",
+    "date": "2026-07-21T17:59:12Z",
     "trending": false,
-    "source": "arXiv - Yi Tang, Xinyi Shang, Jiacheng Cui et al."
+    "source": "arXiv - Rahul Sajnani, Yulia Gryaditskaya, Radomír Měch et al."
   },
   {
-    "id": "arxiv_1784683068135_2",
-    "name": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
-    "category": "ai",
-    "description": "To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque...",
-    "link": "http://arxiv.org/abs/2607.18228v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-20T17:58:05Z",
-    "trending": false,
-    "source": "arXiv - Brian K Chen"
-  },
-  {
-    "id": "arxiv_1784683068210_2",
-    "name": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
-    "category": "nlp",
-    "description": "To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque...",
-    "link": "http://arxiv.org/abs/2607.18228v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-20T17:58:05Z",
-    "trending": false,
-    "source": "arXiv - Brian K Chen"
-  },
-  {
-    "id": "arxiv_1784683068161_2",
-    "name": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
+    "id": "arxiv_1784696078619_1",
+    "name": "Masked Visual Actions for Unified World Modeling",
     "category": "computer-vision",
-    "description": "In line with the prevailing direction of vision research, we explore the integration of both generation and editing capabilities for video and image modalities within a single model. Current approache...",
-    "link": "http://arxiv.org/abs/2607.18227v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-07-20T17:58:03Z",
-    "trending": false,
-    "source": "arXiv - Dingyun Zhang, Lixue Gong, Wei Liu"
-  },
-  {
-    "id": "arxiv_1784683068184_2",
-    "name": "Causal Discovery on Irregular Time Series",
-    "category": "machine-learning",
-    "description": "Causal discovery methods have shown strong performance in temporal systems, but they typically rely on regular and discrete lag structures, limiting their applicability to regularly sampled data. Howe...",
-    "link": "http://arxiv.org/abs/2607.18226v1",
+    "description": "Video models absorb rich priors over how the visual world moves, interacts, and responds to contact, making them promising substrates for robotic world modeling. The central challenge is how to commun...",
+    "link": "http://arxiv.org/abs/2607.19343v1",
     "tags": [],
-    "date": "2026-07-20T17:57:45Z",
+    "date": "2026-07-21T17:59:11Z",
     "trending": false,
-    "source": "arXiv - Martim Penim, Ricardo Ribeiro Pereira, Jacopo Bono et al."
+    "source": "arXiv - Hadi Alzayer, Wenlong Huang, Haonan Chen et al."
   },
   {
-    "id": "arxiv_1784683068184_3",
-    "name": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
-    "category": "machine-learning",
-    "description": "We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step m...",
-    "link": "http://arxiv.org/abs/2607.18225v1",
-    "tags": [
-      "Transformer"
-    ],
-    "date": "2026-07-20T17:57:20Z",
-    "trending": true,
-    "source": "arXiv - Masahiro Kato, Taka Kato"
-  },
-  {
-    "id": "arxiv_1784683068135_3",
-    "name": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
-    "category": "ai",
-    "description": "Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representati...",
-    "link": "http://arxiv.org/abs/2607.18218v1",
-    "tags": [
-      "AI",
-      "CNN"
-    ],
-    "date": "2026-07-20T17:52:33Z",
-    "trending": true,
-    "source": "arXiv - Naoto Usuyama, Jeya Maria Jose Valanarasu, Sicong Yao et al."
-  },
-  {
-    "id": "arxiv_1784683068161_3",
-    "name": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
+    "id": "arxiv_1784696078619_2",
+    "name": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis",
     "category": "computer-vision",
-    "description": "Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representati...",
-    "link": "http://arxiv.org/abs/2607.18218v1",
+    "description": "Recent advances in multimodal generative models have enabled instruction-based image generation to move beyond semantic manipulation to knowledge-driven visual reasoning. However, these methods focus ...",
+    "link": "http://arxiv.org/abs/2607.19341v1",
     "tags": [
       "AI",
-      "CNN"
-    ],
-    "date": "2026-07-20T17:52:33Z",
-    "trending": false,
-    "source": "arXiv - Naoto Usuyama, Jeya Maria Jose Valanarasu, Sicong Yao et al."
-  },
-  {
-    "id": "arxiv_1784683068161_4",
-    "name": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
-    "category": "computer-vision",
-    "description": "Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on ...",
-    "link": "http://arxiv.org/abs/2607.18217v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-20T17:51:35Z",
-    "trending": true,
-    "source": "arXiv - Yiyang Cai, Nan Chen, Rongchang Xie et al."
-  },
-  {
-    "id": "arxiv_1784683068210_3",
-    "name": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
-    "category": "nlp",
-    "description": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code...",
-    "link": "http://arxiv.org/abs/2607.18213v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-20T17:47:44Z",
-    "trending": false,
-    "source": "arXiv - Yuhang Wang, Yuling Shi, Shaoqiu Zhang et al."
-  },
-  {
-    "id": "arxiv_1784683068184_4",
-    "name": "Unveiling Invariant and Transferable Latent Factors Across Heterogeneous Environments via ATLAS",
-    "category": "machine-learning",
-    "description": "This paper considers a multi-environment factor model in which high-dimensional covariates are collected from heterogeneous environments, with auxiliary labels available in a subset of these environme...",
-    "link": "http://arxiv.org/abs/2607.18209v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-07-20T17:44:57Z",
-    "trending": false,
-    "source": "arXiv - Yihong Gu, Katherine Liao, Tianxi Cai"
-  },
-  {
-    "id": "arxiv_1784683068135_4",
-    "name": "Learning Adaptive Safety Margins for Visual Navigation",
-    "category": "ai",
-    "description": "Robots in cluttered indoor spaces often fail not because they cannot generate collision-free paths, but because a fixed safety margin is mis-calibrated: conservative margins cause detours and timeouts...",
-    "link": "http://arxiv.org/abs/2607.18200v1",
-    "tags": [
-      "AI",
-      "Diffusion",
       "Optimization"
     ],
-    "date": "2026-07-20T17:40:25Z",
+    "date": "2026-07-21T17:59:02Z",
     "trending": false,
-    "source": "arXiv - Junyi Hu, Shuaihang Yuan, Geeta Chandra Raju Bethala et al."
+    "source": "arXiv - Yuan Wang, Yongchao Du, Mengting Chen et al."
   },
   {
-    "id": "arxiv_1784683068211_4",
-    "name": "PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning",
+    "id": "arxiv_1784696078619_3",
+    "name": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
+    "category": "computer-vision",
+    "description": "Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce O...",
+    "link": "http://arxiv.org/abs/2607.19339v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-07-21T17:57:50Z",
+    "trending": false,
+    "source": "arXiv - Yu Chen, Caorui Li, Ziyu Xiong et al."
+  },
+  {
+    "id": "arxiv_1784696078534_2",
+    "name": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
+    "category": "ai",
+    "description": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat su...",
+    "link": "http://arxiv.org/abs/2607.19338v1",
+    "tags": [
+      "AI",
+      "GPT"
+    ],
+    "date": "2026-07-21T17:56:49Z",
+    "trending": false,
+    "source": "arXiv - Qijia He, Jiayi Cheng, Chenqian Le et al."
+  },
+  {
+    "id": "arxiv_1784696078535_3",
+    "name": "Agents in the Wild: Where Research Meets Deployment",
+    "category": "ai",
+    "description": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes t...",
+    "link": "http://arxiv.org/abs/2607.19336v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-07-21T17:55:10Z",
+    "trending": false,
+    "source": "arXiv - Grace Hui Yang, Pranav N. Venkit, Hooman Sedghamiz et al."
+  },
+  {
+    "id": "arxiv_1784696078777_1",
+    "name": "Agents in the Wild: Where Research Meets Deployment",
     "category": "nlp",
-    "description": "Not all training samples contribute equally to large language model fine-tuning. Selecting informative training samples can reduce the computational cost while preserving downstream performance. Many ...",
-    "link": "http://arxiv.org/abs/2607.18199v1",
+    "description": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes t...",
+    "link": "http://arxiv.org/abs/2607.19336v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-07-21T17:55:10Z",
+    "trending": false,
+    "source": "arXiv - Grace Hui Yang, Pranav N. Venkit, Hooman Sedghamiz et al."
+  },
+  {
+    "id": "arxiv_1784696078698_0",
+    "name": "1-Lipschitz Neural Networks on Hadamard Manifolds",
+    "category": "machine-learning",
+    "description": "Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we ...",
+    "link": "http://arxiv.org/abs/2607.19335v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-07-21T17:54:34Z",
+    "trending": false,
+    "source": "arXiv - Davide Murari, Marta Ghirardelli, Ben Adcock et al."
+  },
+  {
+    "id": "arxiv_1784696078698_1",
+    "name": "Fundamental limits of distributed multiclass classification from simple binary decisions",
+    "category": "machine-learning",
+    "description": "We consider the problem of constructing a $K$-class classifier from the combination of $O(\\log K)$ simple binary classifiers -- this is a natural paradigm to construct a sophisticated classifier in a ...",
+    "link": "http://arxiv.org/abs/2607.19334v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-07-20T17:38:38Z",
+    "date": "2026-07-21T17:53:44Z",
+    "trending": true,
+    "source": "arXiv - Ioannis Papageorgiou, Srinivas Nomula, Ayalvadi Ganesh et al."
+  },
+  {
+    "id": "arxiv_1784696078535_4",
+    "name": "Provable diffusion-based posterior sampling for linear inverse problems via DDIM",
+    "category": "ai",
+    "description": "Diffusion-based methods have achieved remarkable empirical success in solving inverse problems. However, many existing posterior samplers either lack rigorous theoretical guarantees or incur substanti...",
+    "link": "http://arxiv.org/abs/2607.19333v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-07-21T17:53:36Z",
+    "trending": true,
+    "source": "arXiv - Yuchen Jiao, Na Li, Changxiao Cai et al."
+  },
+  {
+    "id": "arxiv_1784696078698_2",
+    "name": "Provable diffusion-based posterior sampling for linear inverse problems via DDIM",
+    "category": "machine-learning",
+    "description": "Diffusion-based methods have achieved remarkable empirical success in solving inverse problems. However, many existing posterior samplers either lack rigorous theoretical guarantees or incur substanti...",
+    "link": "http://arxiv.org/abs/2607.19333v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-07-21T17:53:36Z",
     "trending": false,
-    "source": "arXiv - Hang Zhang, Warren J. Gross"
+    "source": "arXiv - Yuchen Jiao, Na Li, Changxiao Cai et al."
+  },
+  {
+    "id": "arxiv_1784696078619_4",
+    "name": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
+    "category": "computer-vision",
+    "description": "Generative models have undergone many generations of evolution, from VAEs/GANs to diffusion/flow matching. Along the way, the underlying techniques have become more complicated and various beliefs abo...",
+    "link": "http://arxiv.org/abs/2607.19332v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "GAN",
+      "Diffusion"
+    ],
+    "date": "2026-07-21T17:51:38Z",
+    "trending": false,
+    "source": "arXiv - Chirag Vashist, Ke Li"
+  },
+  {
+    "id": "arxiv_1784696078698_3",
+    "name": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
+    "category": "machine-learning",
+    "description": "Generative models have undergone many generations of evolution, from VAEs/GANs to diffusion/flow matching. Along the way, the underlying techniques have become more complicated and various beliefs abo...",
+    "link": "http://arxiv.org/abs/2607.19332v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "GAN",
+      "Diffusion"
+    ],
+    "date": "2026-07-21T17:51:38Z",
+    "trending": true,
+    "source": "arXiv - Chirag Vashist, Ke Li"
+  },
+  {
+    "id": "arxiv_1784696078698_4",
+    "name": "ISO: An RLVR-Native Optimization Stack",
+    "category": "machine-learning",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) is rapidly advancing the reasoning capabilities of language models, yet the optimization layer that converts reward feedback into weight-space upd...",
+    "link": "http://arxiv.org/abs/2607.19331v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-07-21T17:51:36Z",
+    "trending": false,
+    "source": "arXiv - Hanqing Zhu, Wenyan Cong, Zhizhou Sha et al."
+  },
+  {
+    "id": "arxiv_1784696078777_2",
+    "name": "Selective State-Space Adaptation and Retrieval for Language Model Reasoning",
+    "category": "nlp",
+    "description": "Low-rank adaptation introduces a static learned update applied identically to every input. The update provides task-level adaptation but does not explicitly represent token-level or instance-level sta...",
+    "link": "http://arxiv.org/abs/2607.19326v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-21T17:47:57Z",
+    "trending": false,
+    "source": "arXiv - Atahan Dokme, Larry Heck"
+  },
+  {
+    "id": "arxiv_1784696078777_3",
+    "name": "Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness",
+    "category": "nlp",
+    "description": "Evaluating the factuality of long-form generations has focused predominantly on precision, measuring whether the claims a model makes are correct. The dominant decompose-search-verify pipeline catches...",
+    "link": "http://arxiv.org/abs/2607.19322v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "LLM"
+    ],
+    "date": "2026-07-21T17:42:50Z",
+    "trending": false,
+    "source": "arXiv - Xilun Chen, Zhaleh Feizollahi, Ross Goodwin et al."
+  },
+  {
+    "id": "arxiv_1784696078777_4",
+    "name": "CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Interpretability",
+    "category": "nlp",
+    "description": "Circuit analysis can support not only model explanation but also downstream interventions such as pruning, editing, steering, and selective fine-tuning. However, conducting such analyses currently req...",
+    "link": "http://arxiv.org/abs/2607.19317v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-21T17:34:12Z",
+    "trending": true,
+    "source": "arXiv - Pratinav Seth, Hem Gosalia, Aditya Kasliwal et al."
   }
 ]
