@@ -1,6 +1,87 @@
 [
   {
-    "id": "rss_Ars_Technica_1784829898023_0",
+    "id": "rss_Ars_Technica_1784837117712_0",
+    "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The FDA hasn't said where the cases are or how they're linked.\n                    ",
+    "link": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 23 Jul 2026 19:22:36 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1784837117712_1",
+    "title": "Forgot your Google password? Now you can log in with a selfie.",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Google's selfie videos can be used for account access, AI Avatars, and age verification.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Thu, 23 Jul 2026 19:14:25 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1784837117712_2",
+    "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Bill would let Homeland Security chief decide when an AI should be shut down.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 23 Jul 2026 19:08:01 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1784837114094_0",
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 23 Jul 2026 19:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1784837118833_0",
+    "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
+    "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Thu, 23 Jul 2026 18:45:52 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1784837114094_1",
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+    "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Thu, 23 Jul 2026 18:38:34 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1784837117712_3",
     "title": "Final Coyote vs. Acme trailer drops at SDCC",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -13,21 +94,20 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784829894571_0",
+    "id": "rss_TechCrunch_1784837114094_2",
     "title": "Runway launches AI model router as generative media gets crowded",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster of",
+    "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
     "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
     "tags": [
-      "AI",
-      "Startup"
+      "AI"
     ],
     "date": "Thu, 23 Jul 2026 17:07:35 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1784829894571_1",
+    "id": "rss_TechCrunch_1784837114095_3",
     "title": "OpenAI makes ChatGPT Health available to all US users",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -43,7 +123,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784829896836_0",
+    "id": "rss_MIT_Tech_Review_1784837116465_0",
     "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -54,7 +134,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784829898023_1",
+    "id": "rss_Ars_Technica_1784837117712_4",
     "title": "A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -67,20 +147,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784829898023_2",
-    "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Google becomes third tech giant to face huge fines under the Digital Markets Act.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
-    "tags": [
-      "Google"
-    ],
-    "date": "Thu, 23 Jul 2026 16:41:36 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1784829894571_2",
+    "id": "rss_TechCrunch_1784837114095_4",
     "title": "Meta launched a new AI optimism ad set to a song about human extinction",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -94,59 +161,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1784829898023_3",
-    "title": "Sony's decision to ditch discs was practically inevitable, data shows",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Circana numbers show US gamers overwhelmingly voting with their wallets.\n                    ",
-    "link": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
-    "tags": [],
-    "date": "Thu, 23 Jul 2026 16:25:46 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1784829898023_4",
-    "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Google continues to report big quarterly revenue, but its AI spending has skyrocketed.\n                    ",
-    "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Thu, 23 Jul 2026 16:04:19 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1784829894571_3",
-    "title": "Nvidia is sending GPUs to the moon",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "If there's a place in the universe without GPUs, Nvidia is sending them there. ",
-    "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-    "tags": [
-      "NVIDIA"
-    ],
-    "date": "Thu, 23 Jul 2026 15:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1784829894571_4",
-    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors ",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says. ",
-    "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Thu, 23 Jul 2026 15:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1784829896837_1",
+    "id": "rss_MIT_Tech_Review_1784837116465_1",
     "title": "The Download: energy transmission and US threats against Chinese AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -156,10 +171,10 @@
       "AI"
     ],
     "date": "Thu, 23 Jul 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784829896837_2",
+    "id": "rss_MIT_Tech_Review_1784837116465_2",
     "title": "How AI helps scientists design the next generation of medicines",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -169,10 +184,10 @@
       "AI"
     ],
     "date": "Thu, 23 Jul 2026 12:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1784829899113_0",
+    "id": "rss_Wired_1784837118833_1",
     "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
     "category": "ai-news",
     "source": "Wired",
@@ -185,7 +200,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784829896837_3",
+    "id": "rss_MIT_Tech_Review_1784837116465_3",
     "title": "The power line that could reshape New York’s grid is hitting snags",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -195,10 +210,10 @@
       "AI"
     ],
     "date": "Thu, 23 Jul 2026 09:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1784829899113_1",
+    "id": "rss_Wired_1784837118833_2",
     "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
     "category": "ai-news",
     "source": "Wired",
@@ -211,7 +226,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784829899113_2",
+    "id": "rss_Wired_1784837118833_3",
     "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
     "category": "ai-news",
     "source": "Wired",
@@ -222,10 +237,10 @@
       "OpenAI"
     ],
     "date": "Wed, 22 Jul 2026 19:01:38 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1784829896837_4",
+    "id": "rss_MIT_Tech_Review_1784837116466_4",
     "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -236,10 +251,10 @@
       "OpenAI"
     ],
     "date": "Wed, 22 Jul 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1784829899113_3",
+    "id": "rss_Wired_1784837118833_4",
     "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
     "category": "ai-news",
     "source": "Wired",
@@ -254,18 +269,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1784829899113_4",
-    "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
-    "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
-    "tags": [],
-    "date": "Tue, 21 Jul 2026 19:05:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1784829907173_0",
+    "id": "rss_Distill_1784837126942_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -278,7 +282,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1784829907173_1",
+    "id": "rss_Distill_1784837126942_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -288,10 +292,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1784829907173_2",
+    "id": "rss_Distill_1784837126942_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -302,7 +306,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1784829907173_3",
+    "id": "rss_Distill_1784837126942_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -312,10 +316,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1784829907173_4",
+    "id": "rss_Distill_1784837126942_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
