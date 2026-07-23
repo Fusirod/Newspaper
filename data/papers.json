@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "id": "arxiv_1784823745261_0",
+    "name": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
+    "category": "computer-vision",
+    "description": "3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-...",
+    "link": "http://arxiv.org/abs/2607.20417v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-07-22T17:54:44Z",
+    "trending": true,
+    "source": "arXiv - Cho In, Jeonghwan Cho, Mijin Yoo et al."
+  },
+  {
+    "id": "arxiv_1784823745526_0",
+    "name": "LKValues: Aligning Large Language Models with Sri Lankan Societal Values",
+    "category": "nlp",
+    "description": "Value alignment of Large Language Models (LLMs) has been shown to be culturally biased toward Western norms. This results in the mishandling of local values in multilingual societies such as Sri Lanka...",
+    "link": "http://arxiv.org/abs/2607.20410v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-07-22T17:49:37Z",
+    "trending": false,
+    "source": "arXiv - Nethmi Muthugala,  Supryadi, Surangika Ranathunga et al."
+  },
+  {
+    "id": "arxiv_1784823745261_1",
+    "name": "PercepCap: Video Captioner with Structured Spatio-Temporal Perception",
+    "category": "computer-vision",
+    "description": "Video captioning requires fine-grained spatio-temporal understanding of videos, including spatial perception of where objects are located and temporal perception of when events occur. Existing MLLMs u...",
+    "link": "http://arxiv.org/abs/2607.20389v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-07-22T17:17:33Z",
+    "trending": true,
+    "source": "arXiv - Yifan Xu, Zihao Wang, Zhixiao Wang et al."
+  },
+  {
+    "id": "arxiv_1784823745261_2",
+    "name": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language",
+    "category": "computer-vision",
+    "description": "Optical Character Recognition (OCR) for Persian remains substantially less mature than for Latin-script languages despite Persian being spoken by more than 110 million people across multiple countries...",
+    "link": "http://arxiv.org/abs/2607.20385v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-07-22T17:13:25Z",
+    "trending": true,
+    "source": "arXiv - Pouria Mahdi, Haq Nawaz Malik"
+  },
+  {
+    "id": "arxiv_1784823745526_1",
+    "name": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
+    "category": "nlp",
+    "description": "Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insen...",
+    "link": "http://arxiv.org/abs/2607.20379v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-07-22T17:10:23Z",
+    "trending": false,
+    "source": "arXiv - Hiskias Dingeto"
+  },
+  {
+    "id": "arxiv_1784823745526_2",
+    "name": "Notes to Self: Can LLMs Benefit from Experiential Abstractions?",
+    "category": "nlp",
+    "description": "Humans distill experience into reusable abstractions, e.g., strategies and cautionary reminders, and apply them to gradually solve problems more effectively. We study whether Large Language Models (LL...",
+    "link": "http://arxiv.org/abs/2607.20372v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-07-22T17:02:34Z",
+    "trending": false,
+    "source": "arXiv - Chang Liu, Xinyu Li, Artur Dubrawski"
+  },
+  {
+    "id": "arxiv_1784823745261_3",
+    "name": "Self Gradient Forcing: Native Long Video Extrapolation",
+    "category": "computer-vision",
+    "description": "Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. T...",
+    "link": "http://arxiv.org/abs/2607.20368v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion"
+    ],
+    "date": "2026-07-22T16:59:23Z",
+    "trending": false,
+    "source": "arXiv - Junhao Zhuang, Shiyi Zhang, Yuxuan Bian et al."
+  },
+  {
+    "id": "arxiv_1784823745261_4",
+    "name": "Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs",
+    "category": "computer-vision",
+    "description": "Multimodal Large Language Models (MLLMs) have recently demonstrated strong performance across vision-language tasks. However, their high inference cost, arising from both the large number of input vis...",
+    "link": "http://arxiv.org/abs/2607.20357v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-07-22T16:43:27Z",
+    "trending": false,
+    "source": "arXiv - Pengcheng Wang, Zhiquan Wang, Jayoung Lee et al."
+  },
+  {
+    "id": "arxiv_1784823745526_3",
+    "name": "Test-Time Training for Modality Order Consistency in Vision-Language Models",
+    "category": "nlp",
+    "description": "We find that vision-language models are sensitive to a specific semantically irrelevant change: the order in which the image and question are presented. Across three models and three benchmarks, image...",
+    "link": "http://arxiv.org/abs/2607.20351v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-07-22T16:37:02Z",
+    "trending": true,
+    "source": "arXiv - Aditi Gupta, Yossi Gandelsman"
+  },
+  {
+    "id": "arxiv_1784823745526_4",
+    "name": "Generative AI floods and dilutes the market for books",
+    "category": "nlp",
+    "description": "Generative AI can produce book-length works of fiction at near-zero cost. These books are often dismissed as low-quality ``slop'' that buyers will ignore, and are assumed to carry little commercial we...",
+    "link": "http://arxiv.org/abs/2607.20349v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-07-22T16:33:20Z",
+    "trending": true,
+    "source": "arXiv - Tuhin Chakrabarty, Xinyue Liu, Jane C. Ginsburg et al."
+  }
+]
