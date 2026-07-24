@@ -1,281 +1,282 @@
 [
   {
-    "id": "arxiv_1784856077264_0",
-    "name": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
-    "category": "computer-vision",
-    "description": "3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-...",
-    "link": "http://arxiv.org/abs/2607.20417v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-07-22T17:54:44Z",
-    "trending": false,
-    "source": "arXiv - Cho In, Jeonghwan Cho, Mijin Yoo et al."
-  },
-  {
-    "id": "arxiv_1784856077342_0",
-    "name": "Lipschitzian SLLNs for random functions",
-    "category": "machine-learning",
-    "description": "We prove strong laws of large numbers for locally Lipschitz functions in the Lipschitz pseudometric. Our results hold under either a topological or a model-theoretic condition, with the latter encompa...",
-    "link": "http://arxiv.org/abs/2607.20411v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-22T17:50:53Z",
-    "trending": false,
-    "source": "arXiv - Lai Tian, Johannes O. Royset"
-  },
-  {
-    "id": "arxiv_1784856077414_0",
-    "name": "LKValues: Aligning Large Language Models with Sri Lankan Societal Values",
-    "category": "nlp",
-    "description": "Value alignment of Large Language Models (LLMs) has been shown to be culturally biased toward Western norms. This results in the mishandling of local values in multilingual societies such as Sri Lanka...",
-    "link": "http://arxiv.org/abs/2607.20410v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-22T17:49:37Z",
-    "trending": true,
-    "source": "arXiv - Nethmi Muthugala,  Supryadi, Surangika Ranathunga et al."
-  },
-  {
-    "id": "arxiv_1784856077190_0",
-    "name": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
+    "id": "arxiv_1784868986948_0",
+    "name": "3D-Aware VLMs with Implicit and Explicit Geometries",
     "category": "ai",
-    "description": "In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predicate vocabulary, argument structure, and trusted evi...",
-    "link": "http://arxiv.org/abs/2607.20402v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-22T17:38:39Z",
-    "trending": false,
-    "source": "arXiv - Wael AbdAlmageed"
-  },
-  {
-    "id": "arxiv_1784856077342_1",
-    "name": "Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning",
-    "category": "machine-learning",
-    "description": "Full-sized humanoid robot capabilities have grown exponentially in recent years, aiming towards general-purpose deployment in human environments. A popular control method used by manufacturers utilize...",
-    "link": "http://arxiv.org/abs/2607.20399v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-07-22T17:35:43Z",
-    "trending": true,
-    "source": "arXiv - Nicolas Kosanovic, Jordan Dowdy, Jean Chagas Vaz"
-  },
-  {
-    "id": "arxiv_1784856077264_1",
-    "name": "PercepCap: Video Captioner with Structured Spatio-Temporal Perception",
-    "category": "computer-vision",
-    "description": "Video captioning requires fine-grained spatio-temporal understanding of videos, including spatial perception of where objects are located and temporal perception of when events occur. Existing MLLMs u...",
-    "link": "http://arxiv.org/abs/2607.20389v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-07-22T17:17:33Z",
-    "trending": false,
-    "source": "arXiv - Yifan Xu, Zihao Wang, Zhixiao Wang et al."
-  },
-  {
-    "id": "arxiv_1784856077190_1",
-    "name": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language",
-    "category": "ai",
-    "description": "Optical Character Recognition (OCR) for Persian remains substantially less mature than for Latin-script languages despite Persian being spoken by more than 110 million people across multiple countries...",
-    "link": "http://arxiv.org/abs/2607.20385v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-07-22T17:13:25Z",
-    "trending": false,
-    "source": "arXiv - Pouria Mahdi, Haq Nawaz Malik"
-  },
-  {
-    "id": "arxiv_1784856077264_2",
-    "name": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language",
-    "category": "computer-vision",
-    "description": "Optical Character Recognition (OCR) for Persian remains substantially less mature than for Latin-script languages despite Persian being spoken by more than 110 million people across multiple countries...",
-    "link": "http://arxiv.org/abs/2607.20385v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-07-22T17:13:25Z",
-    "trending": false,
-    "source": "arXiv - Pouria Mahdi, Haq Nawaz Malik"
-  },
-  {
-    "id": "arxiv_1784856077190_2",
-    "name": "FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization",
-    "category": "ai",
-    "description": "Clinical biomarker workflows in translational research settings often rely on spreadsheet-driven tracking, manual quality control (QC) reconciliation, and loosely integrated systems, resulting in limi...",
-    "link": "http://arxiv.org/abs/2607.20382v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-07-22T17:11:52Z",
-    "trending": true,
-    "source": "arXiv - Eva McCord, Ernest Pedapati, Zag ElSayed"
-  },
-  {
-    "id": "arxiv_1784856077190_3",
-    "name": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
-    "category": "ai",
-    "description": "Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insen...",
-    "link": "http://arxiv.org/abs/2607.20379v1",
+    "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason...",
+    "link": "http://arxiv.org/abs/2607.21595v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-07-22T17:10:23Z",
+    "date": "2026-07-23T17:59:59Z",
     "trending": false,
-    "source": "arXiv - Hiskias Dingeto"
+    "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
   },
   {
-    "id": "arxiv_1784856077414_1",
-    "name": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
-    "category": "nlp",
-    "description": "Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insen...",
-    "link": "http://arxiv.org/abs/2607.20379v1",
+    "id": "arxiv_1784868987033_0",
+    "name": "3D-Aware VLMs with Implicit and Explicit Geometries",
+    "category": "computer-vision",
+    "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason...",
+    "link": "http://arxiv.org/abs/2607.21595v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-07-22T17:10:23Z",
-    "trending": true,
-    "source": "arXiv - Hiskias Dingeto"
-  },
-  {
-    "id": "arxiv_1784856077342_2",
-    "name": "PG-KINN: A Physics-Informed Petrov-Galerkin Kolmogorov-Arnold Network for Solving Forward and Inverse PDEs",
-    "category": "machine-learning",
-    "description": "Physics-informed learning of partial differential equations (PDEs) has been dominated by multilayer perceptrons (MLPs), whose spectral bias and dense parameterization limit both accuracy and interpret...",
-    "link": "http://arxiv.org/abs/2607.20378v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-22T17:08:29Z",
-    "trending": true,
-    "source": "arXiv - Amirhossein Sadr, Nima Soltani, Vahideh Moghtadaiee et al."
-  },
-  {
-    "id": "arxiv_1784856077342_3",
-    "name": "Statevector-Referenced Geometry Survival of a Four-Qubit ZZ Quantum Kernel on IBM Quantum Hardware: A Fixed-Subset Diagnostic Across Three Execution Configurations",
-    "category": "machine-learning",
-    "description": "Quantum-kernel methods encode a dataset's geometry in a Gram matrix, so learning claims on hardware kernels assume the intended geometry survives execution. We measure that survival for one frozen fou...",
-    "link": "http://arxiv.org/abs/2607.20377v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-22T17:05:42Z",
+    "date": "2026-07-23T17:59:59Z",
     "trending": false,
-    "source": "arXiv - Rostyslav Sipakov"
+    "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
   },
   {
-    "id": "arxiv_1784856077342_4",
-    "name": "Online Variance Reduction for Domain Adaptation on Streaming Data",
+    "id": "arxiv_1784868987121_0",
+    "name": "3D-Aware VLMs with Implicit and Explicit Geometries",
     "category": "machine-learning",
-    "description": "This paper studies the problem of stochastic variance reduction (SVR) for the maximum mean discrepancy (MMD) and correlation alignment (CORAL) loss functions. Although various offline SVR algorithms f...",
-    "link": "http://arxiv.org/abs/2607.20374v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-22T17:04:29Z",
-    "trending": true,
-    "source": "arXiv - Andrea Napoli"
-  },
-  {
-    "id": "arxiv_1784856077414_2",
-    "name": "Notes to Self: Can LLMs Benefit from Experiential Abstractions?",
-    "category": "nlp",
-    "description": "Humans distill experience into reusable abstractions, e.g., strategies and cautionary reminders, and apply them to gradually solve problems more effectively. We study whether Large Language Models (LL...",
-    "link": "http://arxiv.org/abs/2607.20372v1",
+    "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason...",
+    "link": "http://arxiv.org/abs/2607.21595v1",
     "tags": [
       "AI",
-      "LLM",
-      "Reinforcement Learning"
+      "Vision"
     ],
-    "date": "2026-07-22T17:02:34Z",
+    "date": "2026-07-23T17:59:59Z",
     "trending": true,
-    "source": "arXiv - Chang Liu, Xinyu Li, Artur Dubrawski"
+    "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
   },
   {
-    "id": "arxiv_1784856077265_3",
-    "name": "Self Gradient Forcing: Native Long Video Extrapolation",
+    "id": "arxiv_1784868987034_1",
+    "name": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
     "category": "computer-vision",
-    "description": "Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. T...",
-    "link": "http://arxiv.org/abs/2607.20368v1",
+    "description": "Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video ...",
+    "link": "http://arxiv.org/abs/2607.21594v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer",
+      "Diffusion"
+    ],
+    "date": "2026-07-23T17:59:58Z",
+    "trending": false,
+    "source": "arXiv - Sicheng Mo, Yuheng Li, Ziyang Leng et al."
+  },
+  {
+    "id": "arxiv_1784868987034_2",
+    "name": "Unified Video Dense Prediction from Disjoint Data",
+    "category": "computer-vision",
+    "description": "Scene understanding requires simultaneous prediction about geometry, appearance, and semantics. However, existing task-specific annotations are fragmented across incompatible, domain-specific datasets...",
+    "link": "http://arxiv.org/abs/2607.21592v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-07-23T17:59:50Z",
+    "trending": false,
+    "source": "arXiv - Yihong Sun, Seoung Wug Oh, Jiahui Huang et al."
+  },
+  {
+    "id": "arxiv_1784868987034_3",
+    "name": "Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning",
+    "category": "computer-vision",
+    "description": "Diffusion and flow-matching models dominate conditional image generation, yet inference-time scaling for these models is far less developed than for autoregressive language models. Because final quali...",
+    "link": "http://arxiv.org/abs/2607.21591v1",
     "tags": [
       "AI",
       "Vision",
       "Diffusion"
     ],
-    "date": "2026-07-22T16:59:23Z",
+    "date": "2026-07-23T17:59:46Z",
     "trending": false,
-    "source": "arXiv - Junhao Zhuang, Shiyi Zhang, Yuxuan Bian et al."
+    "source": "arXiv - Rogerio Guimaraes, Pietro Perona"
   },
   {
-    "id": "arxiv_1784856077265_4",
-    "name": "Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs",
+    "id": "arxiv_1784868987121_1",
+    "name": "Expanding Flow Maps",
+    "category": "machine-learning",
+    "description": "Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed d...",
+    "link": "http://arxiv.org/abs/2607.21585v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-23T17:57:38Z",
+    "trending": false,
+    "source": "arXiv - Sophia Tang, Pranam Chatterjee"
+  },
+  {
+    "id": "arxiv_1784868987034_4",
+    "name": "Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation",
     "category": "computer-vision",
-    "description": "Multimodal Large Language Models (MLLMs) have recently demonstrated strong performance across vision-language tasks. However, their high inference cost, arising from both the large number of input vis...",
-    "link": "http://arxiv.org/abs/2607.20357v1",
+    "description": "Compositional generalization is essential for robot to follow diverse instructions. However, pretrained policies are known to take shortcuts, deferring to salient cues rather than grounding language. ...",
+    "link": "http://arxiv.org/abs/2607.21582v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-23T17:57:09Z",
+    "trending": false,
+    "source": "arXiv - Yu Qi, Zhang Ye, Xinyi Xu et al."
+  },
+  {
+    "id": "arxiv_1784868986949_1",
+    "name": "GraphVid: Interactive Graph-Controllable Video Generation",
+    "category": "ai",
+    "description": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movem...",
+    "link": "http://arxiv.org/abs/2607.21580v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-23T17:56:30Z",
+    "trending": false,
+    "source": "arXiv - Vedant Shah, Onkar Susladkar, Tushar Prakash et al."
+  },
+  {
+    "id": "arxiv_1784868986949_2",
+    "name": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
+    "category": "ai",
+    "description": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is...",
+    "link": "http://arxiv.org/abs/2607.21579v1",
     "tags": [
       "AI",
+      "Optimization"
+    ],
+    "date": "2026-07-23T17:56:05Z",
+    "trending": false,
+    "source": "arXiv - Dawei Li, Xiaotian Jiang, Mingyi Hong"
+  },
+  {
+    "id": "arxiv_1784868987121_2",
+    "name": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
+    "category": "machine-learning",
+    "description": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is...",
+    "link": "http://arxiv.org/abs/2607.21579v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-07-23T17:56:05Z",
+    "trending": true,
+    "source": "arXiv - Dawei Li, Xiaotian Jiang, Mingyi Hong"
+  },
+  {
+    "id": "arxiv_1784868986949_3",
+    "name": "Synthetic data generation framework for quality control automation in gravure printing",
+    "category": "ai",
+    "description": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-...",
+    "link": "http://arxiv.org/abs/2607.21577v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
       "Vision",
+      "Transformer"
+    ],
+    "date": "2026-07-23T17:55:21Z",
+    "trending": false,
+    "source": "arXiv - Korota Arsène Coulibaly, Mohamed Hamlich, Khalid Hmali et al."
+  },
+  {
+    "id": "arxiv_1784868987121_3",
+    "name": "Synthetic data generation framework for quality control automation in gravure printing",
+    "category": "machine-learning",
+    "description": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-...",
+    "link": "http://arxiv.org/abs/2607.21577v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-07-23T17:55:21Z",
+    "trending": false,
+    "source": "arXiv - Korota Arsène Coulibaly, Mohamed Hamlich, Khalid Hmali et al."
+  },
+  {
+    "id": "arxiv_1784868987207_0",
+    "name": "Surprisal Theory is Tautological (without Rational Grounding)",
+    "category": "nlp",
+    "description": "Surprisal theory holds that the human processing difficulty of a linguistic unit in context is an affine function of its surprisal under some language model. I argue this claim is a tautology without ...",
+    "link": "http://arxiv.org/abs/2607.21574v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-23T17:54:37Z",
+    "trending": true,
+    "source": "arXiv - Ryan Cotterell"
+  },
+  {
+    "id": "arxiv_1784868986949_4",
+    "name": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
+    "category": "ai",
+    "description": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, e...",
+    "link": "http://arxiv.org/abs/2607.21573v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-23T17:52:01Z",
+    "trending": false,
+    "source": "arXiv - Hongnan Ma, Yiwei Shi, Mengyue Yang et al."
+  },
+  {
+    "id": "arxiv_1784868987122_4",
+    "name": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
+    "category": "machine-learning",
+    "description": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, e...",
+    "link": "http://arxiv.org/abs/2607.21573v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-23T17:52:01Z",
+    "trending": false,
+    "source": "arXiv - Hongnan Ma, Yiwei Shi, Mengyue Yang et al."
+  },
+  {
+    "id": "arxiv_1784868987207_1",
+    "name": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
+    "category": "nlp",
+    "description": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an...",
+    "link": "http://arxiv.org/abs/2607.21570v1",
+    "tags": [
+      "GAN",
       "LLM"
     ],
-    "date": "2026-07-22T16:43:27Z",
+    "date": "2026-07-23T17:50:28Z",
     "trending": false,
-    "source": "arXiv - Pengcheng Wang, Zhiquan Wang, Jayoung Lee et al."
+    "source": "arXiv - Qian Wu, Xinrong Zhou, Zizhan Ma et al."
   },
   {
-    "id": "arxiv_1784856077414_3",
-    "name": "Test-Time Training for Modality Order Consistency in Vision-Language Models",
+    "id": "arxiv_1784868987208_2",
+    "name": "OpenForgeRL: Train Harness-native Agents in Any Environment",
     "category": "nlp",
-    "description": "We find that vision-language models are sensitive to a specific semantically irrelevant change: the order in which the image and question are presented. Across three models and three benchmarks, image...",
-    "link": "http://arxiv.org/abs/2607.20351v1",
+    "description": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex h...",
+    "link": "http://arxiv.org/abs/2607.21557v1",
     "tags": [
-      "AI",
-      "Vision"
+      "AI"
     ],
-    "date": "2026-07-22T16:37:02Z",
+    "date": "2026-07-23T17:38:30Z",
     "trending": false,
-    "source": "arXiv - Aditi Gupta, Yossi Gandelsman"
+    "source": "arXiv - Xiao Yu, Baolin Peng, Ruize Xu et al."
   },
   {
-    "id": "arxiv_1784856077190_4",
-    "name": "Generative AI floods and dilutes the market for books",
-    "category": "ai",
-    "description": "Generative AI can produce book-length works of fiction at near-zero cost. These books are often dismissed as low-quality ``slop'' that buyers will ignore, and are assumed to carry little commercial we...",
-    "link": "http://arxiv.org/abs/2607.20349v1",
+    "id": "arxiv_1784868987208_3",
+    "name": "The Boundaries of Automation: A Theory of Persistent Human Participation",
+    "category": "nlp",
+    "description": "The rapid progress of AI has intensified the long-standing pursuit of automation: replacing human participation with algorithms wherever possible. Implicit in this pursuit is the assumption that human...",
+    "link": "http://arxiv.org/abs/2607.21547v1",
     "tags": [
-      "AI",
-      "Diffusion"
+      "AI"
     ],
-    "date": "2026-07-22T16:33:20Z",
+    "date": "2026-07-23T17:33:43Z",
     "trending": true,
-    "source": "arXiv - Tuhin Chakrabarty, Xinyue Liu, Jane C. Ginsburg et al."
+    "source": "arXiv - Fares Fourati, Hinrich Schütze, Eyke Hüllermeier et al."
   },
   {
-    "id": "arxiv_1784856077414_4",
-    "name": "Generative AI floods and dilutes the market for books",
+    "id": "arxiv_1784868987208_4",
+    "name": "DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages",
     "category": "nlp",
-    "description": "Generative AI can produce book-length works of fiction at near-zero cost. These books are often dismissed as low-quality ``slop'' that buyers will ignore, and are assumed to carry little commercial we...",
-    "link": "http://arxiv.org/abs/2607.20349v1",
+    "description": "We present DONDO, a family of open, permissively licensed automatic speech recognition (ASR) base models for African languages, built on the w2v-BERT 2.0 self-supervised speech encoder. DONDO comprise...",
+    "link": "http://arxiv.org/abs/2607.21540v1",
     "tags": [
       "AI",
-      "Diffusion"
+      "GAN",
+      "BERT"
     ],
-    "date": "2026-07-22T16:33:20Z",
-    "trending": false,
-    "source": "arXiv - Tuhin Chakrabarty, Xinyue Liu, Jane C. Ginsburg et al."
+    "date": "2026-07-23T17:25:08Z",
+    "trending": true,
+    "source": "arXiv - Paul Azunre"
   }
 ]
