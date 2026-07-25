@@ -1,34 +1,6 @@
 [
   {
-    "id": "arxiv_1785015683052_0",
-    "name": "3D-Aware VLMs with Implicit and Explicit Geometries",
-    "category": "ai",
-    "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason...",
-    "link": "http://arxiv.org/abs/2607.21595v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-07-23T17:59:59Z",
-    "trending": true,
-    "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
-  },
-  {
-    "id": "arxiv_1785015683135_0",
-    "name": "3D-Aware VLMs with Implicit and Explicit Geometries",
-    "category": "computer-vision",
-    "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason...",
-    "link": "http://arxiv.org/abs/2607.21595v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-07-23T17:59:59Z",
-    "trending": true,
-    "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
-  },
-  {
-    "id": "arxiv_1785015683217_0",
+    "id": "arxiv_1785019251094_0",
     "name": "3D-Aware VLMs with Implicit and Explicit Geometries",
     "category": "machine-learning",
     "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason...",
@@ -42,52 +14,7 @@
     "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
   },
   {
-    "id": "arxiv_1785015683135_1",
-    "name": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
-    "category": "computer-vision",
-    "description": "Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video ...",
-    "link": "http://arxiv.org/abs/2607.21594v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-07-23T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Sicheng Mo, Yuheng Li, Ziyang Leng et al."
-  },
-  {
-    "id": "arxiv_1785015683135_2",
-    "name": "Unified Video Dense Prediction from Disjoint Data",
-    "category": "computer-vision",
-    "description": "Scene understanding requires simultaneous prediction about geometry, appearance, and semantics. However, existing task-specific annotations are fragmented across incompatible, domain-specific datasets...",
-    "link": "http://arxiv.org/abs/2607.21592v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-07-23T17:59:50Z",
-    "trending": true,
-    "source": "arXiv - Yihong Sun, Seoung Wug Oh, Jiahui Huang et al."
-  },
-  {
-    "id": "arxiv_1785015683135_3",
-    "name": "Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning",
-    "category": "computer-vision",
-    "description": "Diffusion and flow-matching models dominate conditional image generation, yet inference-time scaling for these models is far less developed than for autoregressive language models. Because final quali...",
-    "link": "http://arxiv.org/abs/2607.21591v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Diffusion"
-    ],
-    "date": "2026-07-23T17:59:46Z",
-    "trending": false,
-    "source": "arXiv - Rogerio Guimaraes, Pietro Perona"
-  },
-  {
-    "id": "arxiv_1785015683217_1",
+    "id": "arxiv_1785019251094_1",
     "name": "Expanding Flow Maps",
     "category": "machine-learning",
     "description": "Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed d...",
@@ -96,51 +23,11 @@
       "AI"
     ],
     "date": "2026-07-23T17:57:38Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sophia Tang, Pranam Chatterjee"
   },
   {
-    "id": "arxiv_1785015683135_4",
-    "name": "Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation",
-    "category": "computer-vision",
-    "description": "Compositional generalization is essential for robot to follow diverse instructions. However, pretrained policies are known to take shortcuts, deferring to salient cues rather than grounding language. ...",
-    "link": "http://arxiv.org/abs/2607.21582v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-23T17:57:09Z",
-    "trending": true,
-    "source": "arXiv - Yu Qi, Zhang Ye, Xinyi Xu et al."
-  },
-  {
-    "id": "arxiv_1785015683052_1",
-    "name": "GraphVid: Interactive Graph-Controllable Video Generation",
-    "category": "ai",
-    "description": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movem...",
-    "link": "http://arxiv.org/abs/2607.21580v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-23T17:56:30Z",
-    "trending": false,
-    "source": "arXiv - Vedant Shah, Onkar Susladkar, Tushar Prakash et al."
-  },
-  {
-    "id": "arxiv_1785015683052_2",
-    "name": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
-    "category": "ai",
-    "description": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is...",
-    "link": "http://arxiv.org/abs/2607.21579v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-07-23T17:56:05Z",
-    "trending": false,
-    "source": "arXiv - Dawei Li, Xiaotian Jiang, Mingyi Hong"
-  },
-  {
-    "id": "arxiv_1785015683217_2",
+    "id": "arxiv_1785019251095_2",
     "name": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
     "category": "machine-learning",
     "description": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is...",
@@ -154,23 +41,7 @@
     "source": "arXiv - Dawei Li, Xiaotian Jiang, Mingyi Hong"
   },
   {
-    "id": "arxiv_1785015683053_3",
-    "name": "Synthetic data generation framework for quality control automation in gravure printing",
-    "category": "ai",
-    "description": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-...",
-    "link": "http://arxiv.org/abs/2607.21577v1",
-    "tags": [
-      "AI",
-      "Deep Learning",
-      "Vision",
-      "Transformer"
-    ],
-    "date": "2026-07-23T17:55:21Z",
-    "trending": true,
-    "source": "arXiv - Korota Arsène Coulibaly, Mohamed Hamlich, Khalid Hmali et al."
-  },
-  {
-    "id": "arxiv_1785015683217_3",
+    "id": "arxiv_1785019251095_3",
     "name": "Synthetic data generation framework for quality control automation in gravure printing",
     "category": "machine-learning",
     "description": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-...",
@@ -186,33 +57,7 @@
     "source": "arXiv - Korota Arsène Coulibaly, Mohamed Hamlich, Khalid Hmali et al."
   },
   {
-    "id": "arxiv_1785015683294_0",
-    "name": "Surprisal Theory is Tautological (without Rational Grounding)",
-    "category": "nlp",
-    "description": "Surprisal theory holds that the human processing difficulty of a linguistic unit in context is an affine function of its surprisal under some language model. I argue this claim is a tautology without ...",
-    "link": "http://arxiv.org/abs/2607.21574v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-23T17:54:37Z",
-    "trending": true,
-    "source": "arXiv - Ryan Cotterell"
-  },
-  {
-    "id": "arxiv_1785015683053_4",
-    "name": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
-    "category": "ai",
-    "description": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, e...",
-    "link": "http://arxiv.org/abs/2607.21573v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-23T17:52:01Z",
-    "trending": true,
-    "source": "arXiv - Hongnan Ma, Yiwei Shi, Mengyue Yang et al."
-  },
-  {
-    "id": "arxiv_1785015683217_4",
+    "id": "arxiv_1785019251095_4",
     "name": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
     "category": "machine-learning",
     "description": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, e...",
@@ -223,60 +68,5 @@
     "date": "2026-07-23T17:52:01Z",
     "trending": false,
     "source": "arXiv - Hongnan Ma, Yiwei Shi, Mengyue Yang et al."
-  },
-  {
-    "id": "arxiv_1785015683294_1",
-    "name": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
-    "category": "nlp",
-    "description": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an...",
-    "link": "http://arxiv.org/abs/2607.21570v1",
-    "tags": [
-      "GAN",
-      "LLM"
-    ],
-    "date": "2026-07-23T17:50:28Z",
-    "trending": true,
-    "source": "arXiv - Qian Wu, Xinrong Zhou, Zizhan Ma et al."
-  },
-  {
-    "id": "arxiv_1785015683294_2",
-    "name": "OpenForgeRL: Train Harness-native Agents in Any Environment",
-    "category": "nlp",
-    "description": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex h...",
-    "link": "http://arxiv.org/abs/2607.21557v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-23T17:38:30Z",
-    "trending": false,
-    "source": "arXiv - Xiao Yu, Baolin Peng, Ruize Xu et al."
-  },
-  {
-    "id": "arxiv_1785015683294_3",
-    "name": "The Boundaries of Automation: A Theory of Persistent Human Participation",
-    "category": "nlp",
-    "description": "The rapid progress of AI has intensified the long-standing pursuit of automation: replacing human participation with algorithms wherever possible. Implicit in this pursuit is the assumption that human...",
-    "link": "http://arxiv.org/abs/2607.21547v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-23T17:33:43Z",
-    "trending": true,
-    "source": "arXiv - Fares Fourati, Hinrich Schütze, Eyke Hüllermeier et al."
-  },
-  {
-    "id": "arxiv_1785015683294_4",
-    "name": "DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages",
-    "category": "nlp",
-    "description": "We present DONDO, a family of open, permissively licensed automatic speech recognition (ASR) base models for African languages, built on the w2v-BERT 2.0 self-supervised speech encoder. DONDO comprise...",
-    "link": "http://arxiv.org/abs/2607.21540v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "BERT"
-    ],
-    "date": "2026-07-23T17:25:08Z",
-    "trending": false,
-    "source": "arXiv - Paul Azunre"
   }
 ]
