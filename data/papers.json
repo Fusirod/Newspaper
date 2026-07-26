@@ -1,8 +1,36 @@
 [
   {
-    "id": "arxiv_1785066726941_0",
+    "id": "arxiv_1785070273730_0",
     "name": "3D-Aware VLMs with Implicit and Explicit Geometries",
     "category": "ai",
+    "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason...",
+    "link": "http://arxiv.org/abs/2607.21595v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-07-23T17:59:59Z",
+    "trending": false,
+    "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
+  },
+  {
+    "id": "arxiv_1785070273754_0",
+    "name": "3D-Aware VLMs with Implicit and Explicit Geometries",
+    "category": "computer-vision",
+    "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason...",
+    "link": "http://arxiv.org/abs/2607.21595v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-07-23T17:59:59Z",
+    "trending": false,
+    "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
+  },
+  {
+    "id": "arxiv_1785070273780_0",
+    "name": "3D-Aware VLMs with Implicit and Explicit Geometries",
+    "category": "machine-learning",
     "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason...",
     "link": "http://arxiv.org/abs/2607.21595v1",
     "tags": [
@@ -14,35 +42,7 @@
     "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
   },
   {
-    "id": "arxiv_1785066727000_0",
-    "name": "3D-Aware VLMs with Implicit and Explicit Geometries",
-    "category": "computer-vision",
-    "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason...",
-    "link": "http://arxiv.org/abs/2607.21595v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-07-23T17:59:59Z",
-    "trending": false,
-    "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
-  },
-  {
-    "id": "arxiv_1785066727058_0",
-    "name": "3D-Aware VLMs with Implicit and Explicit Geometries",
-    "category": "machine-learning",
-    "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason...",
-    "link": "http://arxiv.org/abs/2607.21595v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-07-23T17:59:59Z",
-    "trending": false,
-    "source": "arXiv - Wenhao Li, Xueying Jiang, Quanhao Qian et al."
-  },
-  {
-    "id": "arxiv_1785066727000_1",
+    "id": "arxiv_1785070273754_1",
     "name": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
     "category": "computer-vision",
     "description": "Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video ...",
@@ -54,11 +54,11 @@
       "Diffusion"
     ],
     "date": "2026-07-23T17:59:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sicheng Mo, Yuheng Li, Ziyang Leng et al."
   },
   {
-    "id": "arxiv_1785066727000_2",
+    "id": "arxiv_1785070273754_2",
     "name": "Unified Video Dense Prediction from Disjoint Data",
     "category": "computer-vision",
     "description": "Scene understanding requires simultaneous prediction about geometry, appearance, and semantics. However, existing task-specific annotations are fragmented across incompatible, domain-specific datasets...",
@@ -72,7 +72,7 @@
     "source": "arXiv - Yihong Sun, Seoung Wug Oh, Jiahui Huang et al."
   },
   {
-    "id": "arxiv_1785066727000_3",
+    "id": "arxiv_1785070273754_3",
     "name": "Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning",
     "category": "computer-vision",
     "description": "Diffusion and flow-matching models dominate conditional image generation, yet inference-time scaling for these models is far less developed than for autoregressive language models. Because final quali...",
@@ -87,7 +87,7 @@
     "source": "arXiv - Rogerio Guimaraes, Pietro Perona"
   },
   {
-    "id": "arxiv_1785066727058_1",
+    "id": "arxiv_1785070273780_1",
     "name": "Expanding Flow Maps",
     "category": "machine-learning",
     "description": "Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed d...",
@@ -100,7 +100,7 @@
     "source": "arXiv - Sophia Tang, Pranam Chatterjee"
   },
   {
-    "id": "arxiv_1785066727000_4",
+    "id": "arxiv_1785070273754_4",
     "name": "Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation",
     "category": "computer-vision",
     "description": "Compositional generalization is essential for robot to follow diverse instructions. However, pretrained policies are known to take shortcuts, deferring to salient cues rather than grounding language. ...",
@@ -113,7 +113,7 @@
     "source": "arXiv - Yu Qi, Zhang Ye, Xinyi Xu et al."
   },
   {
-    "id": "arxiv_1785066726942_1",
+    "id": "arxiv_1785070273730_1",
     "name": "GraphVid: Interactive Graph-Controllable Video Generation",
     "category": "ai",
     "description": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movem...",
@@ -126,7 +126,7 @@
     "source": "arXiv - Vedant Shah, Onkar Susladkar, Tushar Prakash et al."
   },
   {
-    "id": "arxiv_1785066726942_2",
+    "id": "arxiv_1785070273730_2",
     "name": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
     "category": "ai",
     "description": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is...",
@@ -140,7 +140,7 @@
     "source": "arXiv - Dawei Li, Xiaotian Jiang, Mingyi Hong"
   },
   {
-    "id": "arxiv_1785066727058_2",
+    "id": "arxiv_1785070273780_2",
     "name": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
     "category": "machine-learning",
     "description": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is...",
@@ -150,11 +150,11 @@
       "Optimization"
     ],
     "date": "2026-07-23T17:56:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Dawei Li, Xiaotian Jiang, Mingyi Hong"
   },
   {
-    "id": "arxiv_1785066726942_3",
+    "id": "arxiv_1785070273731_3",
     "name": "Synthetic data generation framework for quality control automation in gravure printing",
     "category": "ai",
     "description": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-...",
@@ -166,11 +166,11 @@
       "Transformer"
     ],
     "date": "2026-07-23T17:55:21Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Korota Arsène Coulibaly, Mohamed Hamlich, Khalid Hmali et al."
   },
   {
-    "id": "arxiv_1785066727059_3",
+    "id": "arxiv_1785070273781_3",
     "name": "Synthetic data generation framework for quality control automation in gravure printing",
     "category": "machine-learning",
     "description": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-...",
@@ -182,11 +182,11 @@
       "Transformer"
     ],
     "date": "2026-07-23T17:55:21Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Korota Arsène Coulibaly, Mohamed Hamlich, Khalid Hmali et al."
   },
   {
-    "id": "arxiv_1785066727117_0",
+    "id": "arxiv_1785070273805_0",
     "name": "Surprisal Theory is Tautological (without Rational Grounding)",
     "category": "nlp",
     "description": "Surprisal theory holds that the human processing difficulty of a linguistic unit in context is an affine function of its surprisal under some language model. I argue this claim is a tautology without ...",
@@ -195,11 +195,11 @@
       "AI"
     ],
     "date": "2026-07-23T17:54:37Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ryan Cotterell"
   },
   {
-    "id": "arxiv_1785066726942_4",
+    "id": "arxiv_1785070273731_4",
     "name": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
     "category": "ai",
     "description": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, e...",
@@ -212,7 +212,7 @@
     "source": "arXiv - Hongnan Ma, Yiwei Shi, Mengyue Yang et al."
   },
   {
-    "id": "arxiv_1785066727059_4",
+    "id": "arxiv_1785070273781_4",
     "name": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
     "category": "machine-learning",
     "description": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, e...",
@@ -221,11 +221,11 @@
       "AI"
     ],
     "date": "2026-07-23T17:52:01Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hongnan Ma, Yiwei Shi, Mengyue Yang et al."
   },
   {
-    "id": "arxiv_1785066727118_1",
+    "id": "arxiv_1785070273806_1",
     "name": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
     "category": "nlp",
     "description": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an...",
@@ -239,7 +239,7 @@
     "source": "arXiv - Qian Wu, Xinrong Zhou, Zizhan Ma et al."
   },
   {
-    "id": "arxiv_1785066727118_2",
+    "id": "arxiv_1785070273806_2",
     "name": "OpenForgeRL: Train Harness-native Agents in Any Environment",
     "category": "nlp",
     "description": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex h...",
@@ -248,11 +248,11 @@
       "AI"
     ],
     "date": "2026-07-23T17:38:30Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Xiao Yu, Baolin Peng, Ruize Xu et al."
   },
   {
-    "id": "arxiv_1785066727118_3",
+    "id": "arxiv_1785070273806_3",
     "name": "The Boundaries of Automation: A Theory of Persistent Human Participation",
     "category": "nlp",
     "description": "The rapid progress of AI has intensified the long-standing pursuit of automation: replacing human participation with algorithms wherever possible. Implicit in this pursuit is the assumption that human...",
@@ -265,7 +265,7 @@
     "source": "arXiv - Fares Fourati, Hinrich Schütze, Eyke Hüllermeier et al."
   },
   {
-    "id": "arxiv_1785066727118_4",
+    "id": "arxiv_1785070273806_4",
     "name": "DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages",
     "category": "nlp",
     "description": "We present DONDO, a family of open, permissively licensed automatic speech recognition (ASR) base models for African languages, built on the w2v-BERT 2.0 self-supervised speech encoder. DONDO comprise...",
@@ -276,7 +276,7 @@
       "BERT"
     ],
     "date": "2026-07-23T17:25:08Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Paul Azunre"
   }
 ]
