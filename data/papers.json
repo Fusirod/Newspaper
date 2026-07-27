@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1785173167797_0",
+    "id": "arxiv_1785179185442_0",
     "name": "Robot-Factored World Models via Robot Rendering",
     "category": "computer-vision",
     "description": "Action-conditioned video world models predict future observations from an initial observation and an action signal. In robotics, actions influence future observations through two distinct processes: t...",
@@ -14,23 +14,9 @@
     "source": "arXiv - Byungjun Kim, Taeksoo Kim, Hyunsoo Cha et al."
   },
   {
-    "id": "arxiv_1785173167712_0",
+    "id": "arxiv_1785179185367_0",
     "name": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
     "category": "ai",
-    "description": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing moti...",
-    "link": "http://arxiv.org/abs/2607.22534v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-07-24T17:59:51Z",
-    "trending": true,
-    "source": "arXiv - Shing Ho J. Lin, Wenzhao Zheng, Dong Zhuo et al."
-  },
-  {
-    "id": "arxiv_1785173167797_1",
-    "name": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
-    "category": "computer-vision",
     "description": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing moti...",
     "link": "http://arxiv.org/abs/2607.22534v1",
     "tags": [
@@ -42,7 +28,21 @@
     "source": "arXiv - Shing Ho J. Lin, Wenzhao Zheng, Dong Zhuo et al."
   },
   {
-    "id": "arxiv_1785173167797_2",
+    "id": "arxiv_1785179185442_1",
+    "name": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
+    "category": "computer-vision",
+    "description": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing moti...",
+    "link": "http://arxiv.org/abs/2607.22534v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-07-24T17:59:51Z",
+    "trending": true,
+    "source": "arXiv - Shing Ho J. Lin, Wenzhao Zheng, Dong Zhuo et al."
+  },
+  {
+    "id": "arxiv_1785179185442_2",
     "name": "Twins: Learn to Predict Unified Representations with Focal Loss",
     "category": "computer-vision",
     "description": "Unified multimodal models seek a shared visual token space that supports both multimodal understanding and image generation. Discrete methods unify the interface via a shared codebook, whereas continu...",
@@ -54,11 +54,11 @@
       "Optimization"
     ],
     "date": "2026-07-24T17:59:39Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Kaixiong Gong, Xin Cai, Bin Lin et al."
   },
   {
-    "id": "arxiv_1785173168130_0",
+    "id": "arxiv_1785179185580_0",
     "name": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
     "category": "nlp",
     "description": "LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verif...",
@@ -69,11 +69,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-07-24T17:59:22Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Siyuan Huang, Pengyu Cheng, Haotian Liu et al."
   },
   {
-    "id": "arxiv_1785173167712_1",
+    "id": "arxiv_1785179185367_1",
     "name": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
     "category": "ai",
     "description": "To effectively integrate AI into high-stakes, critical environments such as healthcare, autonomous driving, and aviation--and to advance toward higher levels of automation and seamless human-AI collab...",
@@ -88,7 +88,7 @@
     "source": "arXiv - Anduel Mehmeti, Gabriella Gigante, Salvatore Venticinque"
   },
   {
-    "id": "arxiv_1785173167712_2",
+    "id": "arxiv_1785179185368_2",
     "name": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents",
     "category": "ai",
     "description": "Adding procedural skills to an LLM agent is typically evaluated by average improvement in task success. However, this metric hides an important cost: skills can also make agents worse. We measure both...",
@@ -98,11 +98,11 @@
       "LLM"
     ],
     "date": "2026-07-24T17:50:03Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Darshan Tank, Baran Nama"
   },
   {
-    "id": "arxiv_1785173168050_0",
+    "id": "arxiv_1785179185512_0",
     "name": "PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest",
     "category": "machine-learning",
     "description": "In this paper, we propose a new solution for addressing the content cold-start problem in industry-scale search and recommender systems. Compared to prior approaches, we have made the following new co...",
@@ -113,7 +113,7 @@
     "source": "arXiv - Olafur Gudmundsson, Bo Zhao, Huayi Liao et al."
   },
   {
-    "id": "arxiv_1785173167712_3",
+    "id": "arxiv_1785179185368_3",
     "name": "Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support",
     "category": "ai",
     "description": "A central design principle in modern machine learning and artificial intelligence is to align a model's inductive bias with the structure of its input data. For matrix-valued inputs, relevant matrix-l...",
@@ -123,11 +123,11 @@
       "Machine Learning"
     ],
     "date": "2026-07-24T17:39:14Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Peiyong Wang, Udaya Parampalli, Casey R. Myers"
   },
   {
-    "id": "arxiv_1785173168050_1",
+    "id": "arxiv_1785179185512_1",
     "name": "Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support",
     "category": "machine-learning",
     "description": "A central design principle in modern machine learning and artificial intelligence is to align a model's inductive bias with the structure of its input data. For matrix-valued inputs, relevant matrix-l...",
@@ -141,7 +141,7 @@
     "source": "arXiv - Peiyong Wang, Udaya Parampalli, Casey R. Myers"
   },
   {
-    "id": "arxiv_1785173168050_2",
+    "id": "arxiv_1785179185512_2",
     "name": "Dysphagia Risk Stratification in Head and Neck Cancer via Two-Stage PRO-Clinical Stacking",
     "category": "machine-learning",
     "description": "Dysphagia is a debilitating late effect of head and neck cancer (HNC) treatment, yet timely identification of at-risk patients remains challenging in survivorship care. Definitive assessment relies on...",
@@ -150,11 +150,11 @@
       "AI"
     ],
     "date": "2026-07-24T17:34:26Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Siyuan Zhao, Eric Ababio Anyimadu, Zachary G. Brumm et al."
   },
   {
-    "id": "arxiv_1785173167712_4",
+    "id": "arxiv_1785179185368_4",
     "name": "Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science",
     "category": "ai",
     "description": "Commercial large language models are increasingly used as knowledge references, yet their stance on contested scientific claims is neither stable nor transparent. We tested how four major LLM families...",
@@ -169,7 +169,7 @@
     "source": "arXiv - Davide Scarso, Hugo Noronha de Almeida, Joaquim Pina"
   },
   {
-    "id": "arxiv_1785173168130_1",
+    "id": "arxiv_1785179185580_1",
     "name": "Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science",
     "category": "nlp",
     "description": "Commercial large language models are increasingly used as knowledge references, yet their stance on contested scientific claims is neither stable nor transparent. We tested how four major LLM families...",
@@ -180,11 +180,11 @@
       "GPT"
     ],
     "date": "2026-07-24T17:32:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Davide Scarso, Hugo Noronha de Almeida, Joaquim Pina"
   },
   {
-    "id": "arxiv_1785173168050_3",
+    "id": "arxiv_1785179185512_3",
     "name": "CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
     "category": "machine-learning",
     "description": "Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large lang...",
@@ -194,11 +194,11 @@
       "LLM"
     ],
     "date": "2026-07-24T17:32:35Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jiyuan Tan, Vasilis Syrgkanis"
   },
   {
-    "id": "arxiv_1785173168050_4",
+    "id": "arxiv_1785179185512_4",
     "name": "Interpretable EEG biomarkers with bag-of-waves: Spatial and temporal waveform dictionaries for low-data regimes",
     "category": "machine-learning",
     "description": "Electroencephalography (EEG) is widely used to diagnose neurological conditions, but its analysis usually relies on either predefined spectral features or deep neural networks. Predefined features car...",
@@ -212,7 +212,7 @@
     "source": "arXiv - Athanasios Papastathopoulos-Katsaros, Steven T. Lee, Lin Yao et al."
   },
   {
-    "id": "arxiv_1785173167797_3",
+    "id": "arxiv_1785179185443_3",
     "name": "CARA: Concept-Aware Risk Attention for Interpretable Collision Anticipation",
     "category": "computer-vision",
     "description": "Collision anticipation in autonomous driving requires not only accurate early warnings but also interpretable reasoning about what risk factors are being tracked and how risk evolves over time. Existi...",
@@ -227,7 +227,7 @@
     "source": "arXiv - Zhishan Tao, Ruoyu Wang, Yucheng Wu et al."
   },
   {
-    "id": "arxiv_1785173167798_4",
+    "id": "arxiv_1785179185443_4",
     "name": "Optimal Transport Image Representation and Deep Covariance Alignment (CORAL) for Control Valve Stiction Detection",
     "category": "computer-vision",
     "description": "Control valve stiction is a common cause of unwanted oscillations and poor control-loop performance in industrial processes. Data-driven methods can automatically detect stiction, but models trained p...",
@@ -238,11 +238,11 @@
       "CNN"
     ],
     "date": "2026-07-24T16:56:33Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Seshu K. Damarla"
   },
   {
-    "id": "arxiv_1785173168130_2",
+    "id": "arxiv_1785179185580_2",
     "name": "grapheme-kit: Grapheme-Level Metrics and Text Processing for Multilingual NLP",
     "category": "nlp",
     "description": "Existing lexical distance, similarity, and evaluation metrics operate on Unicode code points, which can misrepresent errors in writing systems where a single grapheme is represented by multiple Unicod...",
@@ -256,7 +256,7 @@
     "source": "arXiv - Izzath Nisfer, Ashini Kavindya, Ovindu Atukorala et al."
   },
   {
-    "id": "arxiv_1785173168130_3",
+    "id": "arxiv_1785179185580_3",
     "name": "A Factorial Study of Synthetic Data Generation for Low-Resource Machine Translation using Grammar Books",
     "category": "nlp",
     "description": "Most endangered languages lack the parallel data required for machine translation, despite the existence of descriptive grammar books. We introduce a pipeline that uses large language models to extrac...",
@@ -265,11 +265,11 @@
       "AI"
     ],
     "date": "2026-07-24T15:03:36Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Varun Ghat Ravikumar, Sina Ahmadi, Lena Jäger et al."
   },
   {
-    "id": "arxiv_1785173168130_4",
+    "id": "arxiv_1785179185580_4",
     "name": "Cross-Tokenizer On-Policy Distillation via Byte-Prefix Marginalization",
     "category": "nlp",
     "description": "Open-weight language models from different families exhibit complementary capabilities, motivating their consolidation into a compact student through on-policy distillation (OPD). However, full-vocabu...",
