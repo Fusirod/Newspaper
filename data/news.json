@@ -1,31 +1,91 @@
 [
   {
-    "id": "rss_Ars_Technica_1785179189372_0",
-    "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+    "id": "rss_Ars_Technica_1785185914070_0",
+    "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
     "category": "ai-news",
     "source": "Ars Technica",
-    "description": "\n                        Telecom expects AI revenue from dark fiber deals and retrofitted data centers.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+    "description": "\n                        Kennedy has focused on nutrition but has neglected food safety, critics say. \n                    ",
+    "link": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+    "tags": [],
+    "date": "Mon, 27 Jul 2026 20:42:13 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1785185914071_1",
+    "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        These are likely the last updates of note before Apple's bigger fall updates.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+    "tags": [],
+    "date": "Mon, 27 Jul 2026 20:32:45 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1785185914071_2",
+    "title": "A missing underscore sent innocent man to prison for 18 months",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        When the first step goes wrong, bad results follow.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+    "tags": [],
+    "date": "Mon, 27 Jul 2026 20:22:03 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1785185910266_0",
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
     "tags": [
-      "AI",
       "Google"
     ],
-    "date": "Mon, 27 Jul 2026 18:48:41 +0000",
+    "date": "Mon, 27 Jul 2026 20:19:42 +0000",
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1785179189372_1",
-    "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
+    "id": "rss_Ars_Technica_1785185914071_3",
+    "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
     "category": "ai-news",
     "source": "Ars Technica",
-    "description": "\n                        NASA has not made substantial investments in thermal protection research for decades.\n                    ",
-    "link": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+    "description": "\n                        Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+    "tags": [
+      "Google"
+    ],
+    "date": "Mon, 27 Jul 2026 20:12:42 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1785185915162_0",
+    "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+    "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+    "tags": [
+      "AI",
+      "Google",
+      "Chatbot"
+    ],
+    "date": "Mon, 27 Jul 2026 20:08:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1785185914071_4",
+    "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Age verification is okay, but filtering is preempted by Section 230, judges find.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
     "tags": [],
-    "date": "Mon, 27 Jul 2026 18:34:40 +0000",
+    "date": "Mon, 27 Jul 2026 19:18:02 +0000",
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1785179185826_0",
+    "id": "rss_TechCrunch_1785185910266_1",
     "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -39,7 +99,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1785179187976_0",
+    "id": "rss_MIT_Tech_Review_1785185912627_0",
     "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -53,7 +113,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1785179185826_1",
+    "id": "rss_TechCrunch_1785185910266_2",
     "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -64,24 +124,10 @@
       "OpenAI"
     ],
     "date": "Mon, 27 Jul 2026 17:28:42 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1785179189372_2",
-    "title": "ChatGPT starts blocking direct requests to copy an author's style",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        New behavior capturing a writer's \"broad qualities\" could have legal implications.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-    "tags": [
-      "ChatGPT",
-      "GPT"
-    ],
-    "date": "Mon, 27 Jul 2026 16:58:46 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1785179185826_2",
+    "id": "rss_TechCrunch_1785185910267_3",
     "title": "Threads users can now chat with Meta AI in their DMs",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -96,20 +142,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1785179189372_3",
-    "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The government says destroying his own data during an airport interrogation was illegal.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 27 Jul 2026 15:58:34 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1785179185826_3",
+    "id": "rss_TechCrunch_1785185910267_4",
     "title": "Google’s AI search is rapidly becoming the default, new data shows",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -120,34 +153,10 @@
       "Google"
     ],
     "date": "Mon, 27 Jul 2026 15:57:12 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1785179185826_4",
-    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026 ",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-    "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 27 Jul 2026 15:30:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1785179189372_4",
-    "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Framework's latest modular laptop trades one set of problems for another.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-    "tags": [],
-    "date": "Mon, 27 Jul 2026 15:02:45 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785179187976_1",
+    "id": "rss_MIT_Tech_Review_1785185912627_1",
     "title": "How lasers could help provide fuel for nuclear reactors",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -155,10 +164,10 @@
     "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
     "tags": [],
     "date": "Mon, 27 Jul 2026 14:24:42 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785179187976_2",
+    "id": "rss_MIT_Tech_Review_1785185912627_2",
     "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -171,7 +180,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785179187977_3",
+    "id": "rss_MIT_Tech_Review_1785185912627_3",
     "title": "The path to artificial superintelligence",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -184,7 +193,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785179187977_4",
+    "id": "rss_MIT_Tech_Review_1785185912627_4",
     "title": "Closing the data loop in AI-driven drug discovery",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -197,7 +206,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785179190416_0",
+    "id": "rss_Wired_1785185915162_1",
     "title": "This Is Donald Trump’s AI Brain Trust",
     "category": "ai-news",
     "source": "Wired",
@@ -207,10 +216,10 @@
       "AI"
     ],
     "date": "Mon, 27 Jul 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1785179190416_1",
+    "id": "rss_Wired_1785185915162_2",
     "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
     "category": "ai-news",
     "source": "Wired",
@@ -221,10 +230,10 @@
       "OpenAI"
     ],
     "date": "Sat, 25 Jul 2026 10:30:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1785179190416_2",
+    "id": "rss_Wired_1785185915162_3",
     "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
     "category": "ai-news",
     "source": "Wired",
@@ -235,10 +244,10 @@
       "OpenAI"
     ],
     "date": "Fri, 24 Jul 2026 17:53:01 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1785179190416_3",
+    "id": "rss_Wired_1785185915163_4",
     "title": "Silicon Valley Is Completely Divided Over Chinese AI",
     "category": "ai-news",
     "source": "Wired",
@@ -249,23 +258,10 @@
       "Startup"
     ],
     "date": "Fri, 24 Jul 2026 15:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1785179190416_4",
-    "title": "Some Kids Will Never Think AI Is Cool",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
-    "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 24 Jul 2026 10:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Distill_1785179198218_0",
+    "id": "rss_Distill_1785185924393_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -278,7 +274,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785179198218_1",
+    "id": "rss_Distill_1785185924393_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -291,7 +287,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785179198218_2",
+    "id": "rss_Distill_1785185924393_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -302,7 +298,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785179198218_3",
+    "id": "rss_Distill_1785185924393_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -315,7 +311,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785179198218_4",
+    "id": "rss_Distill_1785185924393_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -323,6 +319,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
