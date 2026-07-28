@@ -1,284 +1,289 @@
 [
   {
-    "id": "arxiv_1785201415231_0",
-    "name": "Robot-Factored World Models via Robot Rendering",
+    "id": "arxiv_1785214207079_0",
+    "name": "Data Pyramid for Embodied Manipulation",
     "category": "computer-vision",
-    "description": "Action-conditioned video world models predict future observations from an initial observation and an action signal. In robotics, actions influence future observations through two distinct processes: t...",
-    "link": "http://arxiv.org/abs/2607.22535v1",
-    "tags": [
-      "AI",
-      "Robotics"
-    ],
-    "date": "2026-07-24T17:59:57Z",
-    "trending": false,
-    "source": "arXiv - Byungjun Kim, Taeksoo Kim, Hyunsoo Cha et al."
-  },
-  {
-    "id": "arxiv_1785201400013_0",
-    "name": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
-    "category": "ai",
-    "description": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing moti...",
-    "link": "http://arxiv.org/abs/2607.22534v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-07-24T17:59:51Z",
-    "trending": true,
-    "source": "arXiv - Shing Ho J. Lin, Wenzhao Zheng, Dong Zhuo et al."
-  },
-  {
-    "id": "arxiv_1785201415231_1",
-    "name": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
-    "category": "computer-vision",
-    "description": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing moti...",
-    "link": "http://arxiv.org/abs/2607.22534v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-07-24T17:59:51Z",
-    "trending": false,
-    "source": "arXiv - Shing Ho J. Lin, Wenzhao Zheng, Dong Zhuo et al."
-  },
-  {
-    "id": "arxiv_1785201415232_2",
-    "name": "Twins: Learn to Predict Unified Representations with Focal Loss",
-    "category": "computer-vision",
-    "description": "Unified multimodal models seek a shared visual token space that supports both multimodal understanding and image generation. Discrete methods unify the interface via a shared codebook, whereas continu...",
-    "link": "http://arxiv.org/abs/2607.22531v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "Diffusion",
-      "Optimization"
-    ],
-    "date": "2026-07-24T17:59:39Z",
-    "trending": true,
-    "source": "arXiv - Kaixiong Gong, Xin Cai, Bin Lin et al."
-  },
-  {
-    "id": "arxiv_1785201430897_0",
-    "name": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
-    "category": "nlp",
-    "description": "LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verif...",
-    "link": "http://arxiv.org/abs/2607.22529v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-07-24T17:59:22Z",
-    "trending": true,
-    "source": "arXiv - Siyuan Huang, Pengyu Cheng, Haotian Liu et al."
-  },
-  {
-    "id": "arxiv_1785201400013_1",
-    "name": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
-    "category": "ai",
-    "description": "To effectively integrate AI into high-stakes, critical environments such as healthcare, autonomous driving, and aviation--and to advance toward higher levels of automation and seamless human-AI collab...",
-    "link": "http://arxiv.org/abs/2607.22525v1",
-    "tags": [
-      "AI",
-      "Deep Learning",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-07-24T17:56:38Z",
-    "trending": true,
-    "source": "arXiv - Anduel Mehmeti, Gabriella Gigante, Salvatore Venticinque"
-  },
-  {
-    "id": "arxiv_1785201400013_2",
-    "name": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents",
-    "category": "ai",
-    "description": "Adding procedural skills to an LLM agent is typically evaluated by average improvement in task success. However, this metric hides an important cost: skills can also make agents worse. We measure both...",
-    "link": "http://arxiv.org/abs/2607.22520v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-24T17:50:03Z",
-    "trending": false,
-    "source": "arXiv - Darshan Tank, Baran Nama"
-  },
-  {
-    "id": "arxiv_1785201430814_0",
-    "name": "PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest",
-    "category": "machine-learning",
-    "description": "In this paper, we propose a new solution for addressing the content cold-start problem in industry-scale search and recommender systems. Compared to prior approaches, we have made the following new co...",
-    "link": "http://arxiv.org/abs/2607.22518v1",
-    "tags": [],
-    "date": "2026-07-24T17:41:28Z",
-    "trending": false,
-    "source": "arXiv - Olafur Gudmundsson, Bo Zhao, Huayi Liao et al."
-  },
-  {
-    "id": "arxiv_1785201400013_3",
-    "name": "Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support",
-    "category": "ai",
-    "description": "A central design principle in modern machine learning and artificial intelligence is to align a model's inductive bias with the structure of its input data. For matrix-valued inputs, relevant matrix-l...",
-    "link": "http://arxiv.org/abs/2607.22516v1",
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "date": "2026-07-24T17:39:14Z",
-    "trending": true,
-    "source": "arXiv - Peiyong Wang, Udaya Parampalli, Casey R. Myers"
-  },
-  {
-    "id": "arxiv_1785201430814_1",
-    "name": "Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support",
-    "category": "machine-learning",
-    "description": "A central design principle in modern machine learning and artificial intelligence is to align a model's inductive bias with the structure of its input data. For matrix-valued inputs, relevant matrix-l...",
-    "link": "http://arxiv.org/abs/2607.22516v1",
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "date": "2026-07-24T17:39:14Z",
-    "trending": false,
-    "source": "arXiv - Peiyong Wang, Udaya Parampalli, Casey R. Myers"
-  },
-  {
-    "id": "arxiv_1785201430814_2",
-    "name": "Dysphagia Risk Stratification in Head and Neck Cancer via Two-Stage PRO-Clinical Stacking",
-    "category": "machine-learning",
-    "description": "Dysphagia is a debilitating late effect of head and neck cancer (HNC) treatment, yet timely identification of at-risk patients remains challenging in survivorship care. Definitive assessment relies on...",
-    "link": "http://arxiv.org/abs/2607.22514v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-24T17:34:26Z",
-    "trending": true,
-    "source": "arXiv - Siyuan Zhao, Eric Ababio Anyimadu, Zachary G. Brumm et al."
-  },
-  {
-    "id": "arxiv_1785201400013_4",
-    "name": "Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science",
-    "category": "ai",
-    "description": "Commercial large language models are increasingly used as knowledge references, yet their stance on contested scientific claims is neither stable nor transparent. We tested how four major LLM families...",
-    "link": "http://arxiv.org/abs/2607.22513v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT"
-    ],
-    "date": "2026-07-24T17:32:43Z",
-    "trending": false,
-    "source": "arXiv - Davide Scarso, Hugo Noronha de Almeida, Joaquim Pina"
-  },
-  {
-    "id": "arxiv_1785201430897_1",
-    "name": "Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science",
-    "category": "nlp",
-    "description": "Commercial large language models are increasingly used as knowledge references, yet their stance on contested scientific claims is neither stable nor transparent. We tested how four major LLM families...",
-    "link": "http://arxiv.org/abs/2607.22513v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT"
-    ],
-    "date": "2026-07-24T17:32:43Z",
-    "trending": false,
-    "source": "arXiv - Davide Scarso, Hugo Noronha de Almeida, Joaquim Pina"
-  },
-  {
-    "id": "arxiv_1785201430814_3",
-    "name": "CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
-    "category": "machine-learning",
-    "description": "Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large lang...",
-    "link": "http://arxiv.org/abs/2607.22511v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-07-24T17:32:35Z",
-    "trending": false,
-    "source": "arXiv - Jiyuan Tan, Vasilis Syrgkanis"
-  },
-  {
-    "id": "arxiv_1785201430814_4",
-    "name": "Interpretable EEG biomarkers with bag-of-waves: Spatial and temporal waveform dictionaries for low-data regimes",
-    "category": "machine-learning",
-    "description": "Electroencephalography (EEG) is widely used to diagnose neurological conditions, but its analysis usually relies on either predefined spectral features or deep neural networks. Predefined features car...",
-    "link": "http://arxiv.org/abs/2607.22508v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-07-24T17:27:43Z",
-    "trending": false,
-    "source": "arXiv - Athanasios Papastathopoulos-Katsaros, Steven T. Lee, Lin Yao et al."
-  },
-  {
-    "id": "arxiv_1785201415232_3",
-    "name": "CARA: Concept-Aware Risk Attention for Interpretable Collision Anticipation",
-    "category": "computer-vision",
-    "description": "Collision anticipation in autonomous driving requires not only accurate early warnings but also interpretable reasoning about what risk factors are being tracked and how risk evolves over time. Existi...",
-    "link": "http://arxiv.org/abs/2607.22494v1",
+    "description": "Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states ...",
+    "link": "http://arxiv.org/abs/2607.24744v1",
     "tags": [
       "AI",
       "Vision",
       "GAN"
     ],
-    "date": "2026-07-24T17:06:05Z",
-    "trending": true,
-    "source": "arXiv - Zhishan Tao, Ruoyu Wang, Yucheng Wu et al."
+    "date": "2026-07-27T17:59:58Z",
+    "trending": false,
+    "source": "arXiv - Yifan Ye, Yankai Fu, Yaoxu Lv et al."
   },
   {
-    "id": "arxiv_1785201415232_4",
-    "name": "Optimal Transport Image Representation and Deep Covariance Alignment (CORAL) for Control Valve Stiction Detection",
+    "id": "arxiv_1785214206995_0",
+    "name": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+    "category": "ai",
+    "description": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must ab...",
+    "link": "http://arxiv.org/abs/2607.24743v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "GPT"
+    ],
+    "date": "2026-07-27T17:59:49Z",
+    "trending": false,
+    "source": "arXiv - Hangjie Yuan, Yichen Qian, Zhiwei Tang et al."
+  },
+  {
+    "id": "arxiv_1785214207080_1",
+    "name": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
     "category": "computer-vision",
-    "description": "Control valve stiction is a common cause of unwanted oscillations and poor control-loop performance in industrial processes. Data-driven methods can automatically detect stiction, but models trained p...",
-    "link": "http://arxiv.org/abs/2607.22486v1",
+    "description": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must ab...",
+    "link": "http://arxiv.org/abs/2607.24743v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "GPT"
+    ],
+    "date": "2026-07-27T17:59:49Z",
+    "trending": true,
+    "source": "arXiv - Hangjie Yuan, Yichen Qian, Zhiwei Tang et al."
+  },
+  {
+    "id": "arxiv_1785214207259_0",
+    "name": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+    "category": "nlp",
+    "description": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must ab...",
+    "link": "http://arxiv.org/abs/2607.24743v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "GPT"
+    ],
+    "date": "2026-07-27T17:59:49Z",
+    "trending": false,
+    "source": "arXiv - Hangjie Yuan, Yichen Qian, Zhiwei Tang et al."
+  },
+  {
+    "id": "arxiv_1785214207162_0",
+    "name": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
+    "category": "machine-learning",
+    "description": "Dynamic applications, including optimal-transport Flow Matching, repeatedly solve related entropic optimal transport problems, yet conventional distributed Sinkhorn processes frames sequentially and s...",
+    "link": "http://arxiv.org/abs/2607.24741v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-27T17:59:36Z",
+    "trending": false,
+    "source": "arXiv - Xinyang Wen"
+  },
+  {
+    "id": "arxiv_1785214207162_1",
+    "name": "Learning Distributions from Multiple Data Providers",
+    "category": "machine-learning",
+    "description": "Motivated by learning from heterogeneous and overlapping data providers, we study a stylized model of distribution learning from restricted conditional samples. The goal is to learn an unknown distrib...",
+    "link": "http://arxiv.org/abs/2607.24732v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-27T17:57:16Z",
+    "trending": false,
+    "source": "arXiv - Jon Kleinberg, Amin Saberi, Xizhi Tan et al."
+  },
+  {
+    "id": "arxiv_1785214206996_1",
+    "name": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+    "category": "ai",
+    "description": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default...",
+    "link": "http://arxiv.org/abs/2607.24731v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion"
+    ],
+    "date": "2026-07-27T17:57:02Z",
+    "trending": false,
+    "source": "arXiv - Bingnan Li, Haozhe Wang, Haozhong Xiong et al."
+  },
+  {
+    "id": "arxiv_1785214206996_2",
+    "name": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+    "category": "ai",
+    "description": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are incr...",
+    "link": "http://arxiv.org/abs/2607.24730v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-07-27T17:57:02Z",
+    "trending": true,
+    "source": "arXiv - Krithi Shailya, Ananya Lakshmi Ravi, Venkatanathan K. V. et al."
+  },
+  {
+    "id": "arxiv_1785214207080_2",
+    "name": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+    "category": "computer-vision",
+    "description": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default...",
+    "link": "http://arxiv.org/abs/2607.24731v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion"
+    ],
+    "date": "2026-07-27T17:57:02Z",
+    "trending": false,
+    "source": "arXiv - Bingnan Li, Haozhe Wang, Haozhong Xiong et al."
+  },
+  {
+    "id": "arxiv_1785214207080_3",
+    "name": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+    "category": "computer-vision",
+    "description": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are incr...",
+    "link": "http://arxiv.org/abs/2607.24730v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-07-27T17:57:02Z",
+    "trending": false,
+    "source": "arXiv - Krithi Shailya, Ananya Lakshmi Ravi, Venkatanathan K. V. et al."
+  },
+  {
+    "id": "arxiv_1785214207162_2",
+    "name": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+    "category": "machine-learning",
+    "description": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default...",
+    "link": "http://arxiv.org/abs/2607.24731v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion"
+    ],
+    "date": "2026-07-27T17:57:02Z",
+    "trending": true,
+    "source": "arXiv - Bingnan Li, Haozhe Wang, Haozhong Xiong et al."
+  },
+  {
+    "id": "arxiv_1785214207080_4",
+    "name": "MicroZoom: Structure-Preserving Detail Synthesis at Extreme Scale",
+    "category": "computer-vision",
+    "description": "We introduce MicroZoom, a generative framework for gigapixel image synthesis at the microscopic scale. Given a standard photograph and a sparse set of consumer-grade microscope close-ups, MicroZoom sy...",
+    "link": "http://arxiv.org/abs/2607.24729v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-27T17:57:00Z",
+    "trending": false,
+    "source": "arXiv - Huy Huynh, Jingwei Ma, Brian Curless et al."
+  },
+  {
+    "id": "arxiv_1785214207162_3",
+    "name": "Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs",
+    "category": "machine-learning",
+    "description": "The Deep Galerkin Method (DGM) and Physics Informed Neural Networks (PINNs) have become widely-used methods for solving partial differential equations (PDEs) in the rapidly growing field of scientific...",
+    "link": "http://arxiv.org/abs/2607.24726v1",
     "tags": [
       "AI",
       "Neural",
-      "CNN"
+      "Machine Learning"
     ],
-    "date": "2026-07-24T16:56:33Z",
+    "date": "2026-07-27T17:56:37Z",
     "trending": false,
-    "source": "arXiv - Seshu K. Damarla"
+    "source": "arXiv - Justin Sirignano, Konstantinos Spiliopoulos, Samuel Cohen"
   },
   {
-    "id": "arxiv_1785201430897_2",
-    "name": "grapheme-kit: Grapheme-Level Metrics and Text Processing for Multilingual NLP",
+    "id": "arxiv_1785214206996_3",
+    "name": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+    "category": "ai",
+    "description": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, m...",
+    "link": "http://arxiv.org/abs/2607.24720v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-27T17:55:03Z",
+    "trending": false,
+    "source": "arXiv - Tianyi Men, Zhuoran Jin, Kang Liu et al."
+  },
+  {
+    "id": "arxiv_1785214207162_4",
+    "name": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+    "category": "machine-learning",
+    "description": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, m...",
+    "link": "http://arxiv.org/abs/2607.24720v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-27T17:55:03Z",
+    "trending": false,
+    "source": "arXiv - Tianyi Men, Zhuoran Jin, Kang Liu et al."
+  },
+  {
+    "id": "arxiv_1785214207259_1",
+    "name": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
     "category": "nlp",
-    "description": "Existing lexical distance, similarity, and evaluation metrics operate on Unicode code points, which can misrepresent errors in writing systems where a single grapheme is represented by multiple Unicod...",
-    "link": "http://arxiv.org/abs/2607.22456v1",
+    "description": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, m...",
+    "link": "http://arxiv.org/abs/2607.24720v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-27T17:55:03Z",
+    "trending": false,
+    "source": "arXiv - Tianyi Men, Zhuoran Jin, Kang Liu et al."
+  },
+  {
+    "id": "arxiv_1785214206996_4",
+    "name": "DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
+    "category": "ai",
+    "description": "Pretraining data processing is critical to the downstream performance of Large Language Models (LLMs). However, many existing approaches define a fixed processing strategy at the corpus or domain leve...",
+    "link": "http://arxiv.org/abs/2607.24717v1",
     "tags": [
       "AI",
-      "NLP"
+      "LLM"
     ],
-    "date": "2026-07-24T16:14:37Z",
+    "date": "2026-07-27T17:54:12Z",
     "trending": false,
-    "source": "arXiv - Izzath Nisfer, Ashini Kavindya, Ovindu Atukorala et al."
+    "source": "arXiv - Zhen Huang, Yikun Wang, Shijie Xia et al."
   },
   {
-    "id": "arxiv_1785201430897_3",
-    "name": "A Factorial Study of Synthetic Data Generation for Low-Resource Machine Translation using Grammar Books",
+    "id": "arxiv_1785214207259_2",
+    "name": "DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
     "category": "nlp",
-    "description": "Most endangered languages lack the parallel data required for machine translation, despite the existence of descriptive grammar books. We introduce a pipeline that uses large language models to extrac...",
-    "link": "http://arxiv.org/abs/2607.22376v1",
+    "description": "Pretraining data processing is critical to the downstream performance of Large Language Models (LLMs). However, many existing approaches define a fixed processing strategy at the corpus or domain leve...",
+    "link": "http://arxiv.org/abs/2607.24717v1",
     "tags": [
-      "AI"
+      "AI",
+      "LLM"
     ],
-    "date": "2026-07-24T15:03:36Z",
-    "trending": false,
-    "source": "arXiv - Varun Ghat Ravikumar, Sina Ahmadi, Lena Jäger et al."
-  },
-  {
-    "id": "arxiv_1785201430897_4",
-    "name": "Cross-Tokenizer On-Policy Distillation via Byte-Prefix Marginalization",
-    "category": "nlp",
-    "description": "Open-weight language models from different families exhibit complementary capabilities, motivating their consolidation into a compact student through on-policy distillation (OPD). However, full-vocabu...",
-    "link": "http://arxiv.org/abs/2607.22334v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-24T14:12:54Z",
+    "date": "2026-07-27T17:54:12Z",
     "trending": true,
-    "source": "arXiv - Hao Wang, Kun Yuan, Wenlin Zhong et al."
+    "source": "arXiv - Zhen Huang, Yikun Wang, Shijie Xia et al."
+  },
+  {
+    "id": "arxiv_1785214207259_3",
+    "name": "Beyond Scale and Generation: Understanding Language Model-based Entity Matching",
+    "category": "nlp",
+    "description": "Entity matching identifies records that refer to the same real-world entity. Language models can be adapted to this task through bi-encoder, cross-encoder, and generative matcher architectures. Howeve...",
+    "link": "http://arxiv.org/abs/2607.24688v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-07-27T17:29:18Z",
+    "trending": false,
+    "source": "arXiv - Zeyu Zhang, Xue Li, Iacer Calixto et al."
+  },
+  {
+    "id": "arxiv_1785214207260_4",
+    "name": "Kimi K3: Open Frontier Intelligence",
+    "category": "nlp",
+    "description": "We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta ...",
+    "link": "http://arxiv.org/abs/2607.24653v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "GPT",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-07-27T16:49:54Z",
+    "trending": true,
+    "source": "arXiv -  Kimi Team, Tongtong Bai, Yifan Bai et al."
   }
 ]
