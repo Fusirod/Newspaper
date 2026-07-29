@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1785355512116_0",
+    "id": "arxiv_1785361434943_0",
     "name": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
     "category": "ai",
     "description": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent g...",
@@ -10,11 +10,11 @@
       "Vision"
     ],
     "date": "2026-07-28T17:59:46Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Haolei Xu, Xiaowen Xu, Haiwen Hong et al."
   },
   {
-    "id": "arxiv_1785355512358_0",
+    "id": "arxiv_1785361434986_0",
     "name": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
     "category": "nlp",
     "description": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent g...",
@@ -24,11 +24,11 @@
       "Vision"
     ],
     "date": "2026-07-28T17:59:46Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Haolei Xu, Xiaowen Xu, Haiwen Hong et al."
   },
   {
-    "id": "arxiv_1785355512116_1",
+    "id": "arxiv_1785361434944_1",
     "name": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies",
     "category": "ai",
     "description": "Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input...",
@@ -39,11 +39,11 @@
       "Diffusion"
     ],
     "date": "2026-07-28T17:59:31Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sungjae Park, Shubham Tulsiani"
   },
   {
-    "id": "arxiv_1785355512281_0",
+    "id": "arxiv_1785361434973_0",
     "name": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies",
     "category": "machine-learning",
     "description": "Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input...",
@@ -58,7 +58,7 @@
     "source": "arXiv - Sungjae Park, Shubham Tulsiani"
   },
   {
-    "id": "arxiv_1785355512281_1",
+    "id": "arxiv_1785361434973_1",
     "name": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA",
     "category": "machine-learning",
     "description": "Mixture-of-Experts (MoE) variants of Low-Rank Adaptation (LoRA) route every token to a fixed number of experts $k$. Tokens differ in how uncertain the model is about them, so a single k over-spends on...",
@@ -67,11 +67,11 @@
       "AI"
     ],
     "date": "2026-07-28T17:59:16Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Tom Saliencro, Rohan Desai, Priya Nair et al."
   },
   {
-    "id": "arxiv_1785355512281_2",
+    "id": "arxiv_1785361434973_2",
     "name": "Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis",
     "category": "machine-learning",
     "description": "Enhancing classification performance in mammography remains a persistent challenge across both small curated datasets and large-scale clinical cohorts. Conventional transfer learning approaches often ...",
@@ -82,11 +82,11 @@
       "Optimization"
     ],
     "date": "2026-07-28T17:52:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Adarsh Bhandary Panambur, Siming Bayer, Andreas Maier"
   },
   {
-    "id": "arxiv_1785355512200_0",
+    "id": "arxiv_1785361434960_0",
     "name": "VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening",
     "category": "computer-vision",
     "description": "We present VetClaw, an edge-cloud multimodal agentic system for early veterinary disease screening. VetClaw uses a camera module as an edge sensing device and sends captured images, together with opti...",
@@ -96,11 +96,11 @@
       "Vision"
     ],
     "date": "2026-07-28T17:50:25Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Syed Mhamudul Hasan, Anas AlSobeh, Hussein Zangoti et al."
   },
   {
-    "id": "arxiv_1785355512281_3",
+    "id": "arxiv_1785361434973_3",
     "name": "VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening",
     "category": "machine-learning",
     "description": "We present VetClaw, an edge-cloud multimodal agentic system for early veterinary disease screening. VetClaw uses a camera module as an edge sensing device and sends captured images, together with opti...",
@@ -110,26 +110,13 @@
       "Vision"
     ],
     "date": "2026-07-28T17:50:25Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Syed Mhamudul Hasan, Anas AlSobeh, Hussein Zangoti et al."
   },
   {
-    "id": "arxiv_1785355512116_2",
+    "id": "arxiv_1785361434944_2",
     "name": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
     "category": "ai",
-    "description": "Computer-use agents (CUAs) increasingly act through desktop GUIs to complete long-horizon tasks. Current benchmarks primarily measure end-task success or single-frame grounding. Neither isolates wheth...",
-    "link": "http://arxiv.org/abs/2607.26041v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-28T17:49:51Z",
-    "trending": true,
-    "source": "arXiv - Abhishek Pillai, Samir Kumar Nayak, Yuan Chen"
-  },
-  {
-    "id": "arxiv_1785355512200_1",
-    "name": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
-    "category": "computer-vision",
     "description": "Computer-use agents (CUAs) increasingly act through desktop GUIs to complete long-horizon tasks. Current benchmarks primarily measure end-task success or single-frame grounding. Neither isolates wheth...",
     "link": "http://arxiv.org/abs/2607.26041v1",
     "tags": [
@@ -140,7 +127,20 @@
     "source": "arXiv - Abhishek Pillai, Samir Kumar Nayak, Yuan Chen"
   },
   {
-    "id": "arxiv_1785355512282_4",
+    "id": "arxiv_1785361434960_1",
+    "name": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
+    "category": "computer-vision",
+    "description": "Computer-use agents (CUAs) increasingly act through desktop GUIs to complete long-horizon tasks. Current benchmarks primarily measure end-task success or single-frame grounding. Neither isolates wheth...",
+    "link": "http://arxiv.org/abs/2607.26041v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-07-28T17:49:51Z",
+    "trending": true,
+    "source": "arXiv - Abhishek Pillai, Samir Kumar Nayak, Yuan Chen"
+  },
+  {
+    "id": "arxiv_1785361434974_4",
     "name": "Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance",
     "category": "machine-learning",
     "description": "Much like humans benefit from guidance while learning, reinforcement learning algorithms may benefit from additional supervision beyond rewards. Leveraging additional information during training to le...",
@@ -155,7 +155,7 @@
     "source": "arXiv - Gaspard Lambrechts, Adrien Bolland, Daniel Ebi et al."
   },
   {
-    "id": "arxiv_1785355512201_2",
+    "id": "arxiv_1785361434960_2",
     "name": "Wonder: Video World Model Done Better",
     "category": "computer-vision",
     "description": "We present Wonder, a general-purpose video world model for real-time, camera-controllable world exploration. Given an image or a conditional video, Wonder constructs a playable world where users can n...",
@@ -168,7 +168,7 @@
     "source": "arXiv - Jiacong Xu, Hanwen Jiang, Zhixin Shu et al."
   },
   {
-    "id": "arxiv_1785355512116_3",
+    "id": "arxiv_1785361434944_3",
     "name": "Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment",
     "category": "ai",
     "description": "Technological races create tension between speed and safety: actors may gain by moving faster than competitors, even when risky development is harmful. This is prominent in debates about artificial in...",
@@ -181,7 +181,7 @@
     "source": "arXiv - Elias Fernández Domingos, The Anh Han"
   },
   {
-    "id": "arxiv_1785355512117_4",
+    "id": "arxiv_1785361434944_4",
     "name": "CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer",
     "category": "ai",
     "description": "Graph foundation models (GFMs) have emerged as a promising paradigm for transferring knowledge across graph domains and tasks. Real-world graphs associate nodes with text, images, and other modalities...",
@@ -196,7 +196,7 @@
     "source": "arXiv - Ankang Yang, Jitao Zhao, Di Jin et al."
   },
   {
-    "id": "arxiv_1785355512358_1",
+    "id": "arxiv_1785361434986_1",
     "name": "UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams",
     "category": "nlp",
     "description": "Memory is essential for LLM agents to accumulate task experience and reuse task-specific execution strategies. However, real-world deployment over boundary-agnostic and evolving task streams exposes a...",
@@ -206,11 +206,11 @@
       "LLM"
     ],
     "date": "2026-07-28T17:28:21Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Siyu Xia, Chenheng Zhang, Yanting Wu et al."
   },
   {
-    "id": "arxiv_1785355512358_2",
+    "id": "arxiv_1785361434986_2",
     "name": "Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do",
     "category": "nlp",
     "description": "Syntactic convergence (the tendency of speakers to adapt in language towards the grammatical profiles of their interlocutors) is a well-documented feature of human dialogue widely considered to operat...",
@@ -223,7 +223,7 @@
     "source": "arXiv - Zandi Eberstadt"
   },
   {
-    "id": "arxiv_1785355512201_3",
+    "id": "arxiv_1785361434960_3",
     "name": "Pictura: Perspective-View Self-Play at Scale for Driving",
     "category": "computer-vision",
     "description": "Self-play in simulation produces robust driving policies at scale. Demonstrations of such behavior have been made using privileged vectorized observations such as exact poses and velocities, even for ...",
@@ -237,7 +237,7 @@
     "source": "arXiv - Yuan Yin, Elias Ramzi, Marc Lafon et al."
   },
   {
-    "id": "arxiv_1785355512201_4",
+    "id": "arxiv_1785361434960_4",
     "name": "Parallel Decoding Distillation for Fast Image and Video Generation",
     "category": "computer-vision",
     "description": "Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variation...",
@@ -247,11 +247,11 @@
       "Diffusion"
     ],
     "date": "2026-07-28T17:20:00Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Neta Shaul, Chao Liu, Arash Vahdat et al."
   },
   {
-    "id": "arxiv_1785355512358_3",
+    "id": "arxiv_1785361434986_3",
     "name": "Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs",
     "category": "nlp",
     "description": "Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledg...",
@@ -261,11 +261,11 @@
       "LLM"
     ],
     "date": "2026-07-28T16:43:56Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Fanfu Wei, Thibault Ehrhart, Raphaël Troncy"
   },
   {
-    "id": "arxiv_1785355512358_4",
+    "id": "arxiv_1785361434986_4",
     "name": "Polistemics: Evaluating LLMs as Information Mediators in Politics & Elections",
     "category": "nlp",
     "description": "As LLMs increasingly mediate the political information citizens rely on, there is still no standardized way to assess whether they do so responsibly. We introduce Polistemics, a theory-grounded benchm...",
@@ -275,7 +275,7 @@
       "LLM"
     ],
     "date": "2026-07-28T16:40:18Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Baran Peters"
   }
 ]
