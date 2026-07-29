@@ -1,6 +1,33 @@
 [
   {
-    "id": "rss_MIT_Tech_Review_1785329578657_0",
+    "id": "rss_TechCrunch_1785337304991_0",
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Wed, 29 Jul 2026 14:41:06 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1785337308530_0",
+    "title": "What happens when you put AI to work deciphering lost languages?",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        AI is fantastic at spotting patterns, but human insight is the key.\n                    ",
+    "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 29 Jul 2026 13:23:31 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1785337307247_0",
     "title": "The Download: a chip talent battle, and deflating AI hype",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -11,11 +38,11 @@
       "Vision"
     ],
     "date": "Wed, 29 Jul 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1785329580088_0",
-    "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+    "id": "rss_Ars_Technica_1785337308530_1",
+    "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
     "category": "ai-news",
     "source": "Ars Technica",
     "description": "\n                        Deciding what's real on the Internet won't be easy in the future. \n                    ",
@@ -28,7 +55,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1785329576517_0",
+    "id": "rss_TechCrunch_1785337304992_1",
     "title": "As AI content floods the internet, Pangram raises $9M to detect it",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -42,7 +69,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785329581157_0",
+    "id": "rss_Wired_1785337309619_0",
     "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
     "category": "ai-news",
     "source": "Wired",
@@ -55,7 +82,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1785329580088_1",
+    "id": "rss_Ars_Technica_1785337308530_2",
     "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -66,7 +93,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785329581157_1",
+    "id": "rss_Wired_1785337309619_1",
     "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
     "category": "ai-news",
     "source": "Wired",
@@ -79,7 +106,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785329578658_1",
+    "id": "rss_MIT_Tech_Review_1785337307247_1",
     "title": "The AI Hype Index: Unsexy AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -92,7 +119,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1785329580088_2",
+    "id": "rss_Ars_Technica_1785337308530_3",
     "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -103,7 +130,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785329581158_2",
+    "id": "rss_Wired_1785337309619_2",
     "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
     "category": "ai-news",
     "source": "Wired",
@@ -114,10 +141,10 @@
       "OpenAI"
     ],
     "date": "Wed, 29 Jul 2026 00:15:30 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1785329576517_1",
+    "id": "rss_TechCrunch_1785337304992_2",
     "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -130,7 +157,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1785329580088_3",
+    "id": "rss_Ars_Technica_1785337308530_4",
     "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -143,18 +170,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1785329580088_4",
-    "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Lab students were supposed to ID a mild germ. They all identified a deadly pathogen.\n                    ",
-    "link": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
-    "tags": [],
-    "date": "Tue, 28 Jul 2026 21:49:52 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1785329576517_2",
+    "id": "rss_TechCrunch_1785337304992_3",
     "title": "Bot-detection startup Spur nabs $200M from Insight",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -165,10 +181,10 @@
       "Startup"
     ],
     "date": "Tue, 28 Jul 2026 21:29:34 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1785329576517_3",
+    "id": "rss_TechCrunch_1785337304992_4",
     "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -178,21 +194,10 @@
       "Startup"
     ],
     "date": "Tue, 28 Jul 2026 20:45:12 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1785329576518_4",
-    "title": "Sam Altman is ready to decelerate",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "tags": [],
-    "date": "Tue, 28 Jul 2026 20:17:08 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785329578658_2",
+    "id": "rss_MIT_Tech_Review_1785337307247_2",
     "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -206,7 +211,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785329581158_3",
+    "id": "rss_Wired_1785337309619_3",
     "title": "Can the New York Times Save Journalism From Our AI Overlords?",
     "category": "ai-news",
     "source": "Wired",
@@ -221,7 +226,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785329581158_4",
+    "id": "rss_Wired_1785337309619_4",
     "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
     "category": "ai-news",
     "source": "Wired",
@@ -232,10 +237,10 @@
       "OpenAI"
     ],
     "date": "Tue, 28 Jul 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1785329578658_3",
+    "id": "rss_MIT_Tech_Review_1785337307247_3",
     "title": "Samsung’s chip workers are jumping ship to rival SK Hynix ",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -246,10 +251,10 @@
       "Vision"
     ],
     "date": "Tue, 28 Jul 2026 09:18:57 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1785329578658_4",
+    "id": "rss_MIT_Tech_Review_1785337307247_4",
     "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -263,7 +268,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785329589622_0",
+    "id": "rss_Distill_1785337317702_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -276,7 +281,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785329589622_1",
+    "id": "rss_Distill_1785337317702_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -286,10 +291,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1785329589622_2",
+    "id": "rss_Distill_1785337317702_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -300,7 +305,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785329589622_3",
+    "id": "rss_Distill_1785337317702_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -313,7 +318,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1785329589622_4",
+    "id": "rss_Distill_1785337317702_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -321,6 +326,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
