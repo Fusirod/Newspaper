@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1785434821184_0",
+    "id": "arxiv_1785442145727_0",
     "name": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
     "category": "computer-vision",
     "description": "Vision-language-action (VLA) models commonly adopt an LLM-centric $V \\to L \\to A$ pathway, where visual observations are projected into the representation space of a large language model before being ...",
@@ -11,11 +11,11 @@
       "LLM"
     ],
     "date": "2026-07-29T17:59:58Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hengyi Xie, Chenfei Yao, Xianjin Wu et al."
   },
   {
-    "id": "arxiv_1785434821257_0",
+    "id": "arxiv_1785442145742_0",
     "name": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
     "category": "machine-learning",
     "description": "Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question: given a pretrained ...",
@@ -25,11 +25,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-07-29T17:59:51Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Perry Dong, Ron Polonsky, Dorsa Sadigh et al."
   },
   {
-    "id": "arxiv_1785434821333_0",
+    "id": "arxiv_1785442145755_0",
     "name": "Mental World Modeling",
     "category": "nlp",
     "description": "World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is d...",
@@ -43,18 +43,18 @@
     "source": "arXiv - Hao Fei, Yiran Zhao"
   },
   {
-    "id": "arxiv_1785434821258_1",
+    "id": "arxiv_1785442145742_1",
     "name": "From Classification to Regression: Using a Fruitfly to Solve Equations",
     "category": "machine-learning",
     "description": "We present a novel approach to regression tasks using classification which is motivated by the mechanism used by fruitflies to sense their environment. Specifically, we formulate a general framework f...",
     "link": "http://arxiv.org/abs/2607.27196v1",
     "tags": [],
     "date": "2026-07-29T17:58:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shady E. Ahmed, Panos Stinis"
   },
   {
-    "id": "arxiv_1785434821185_1",
+    "id": "arxiv_1785442145727_1",
     "name": "VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion",
     "category": "computer-vision",
     "description": "Accurately recovering the camera's calibration and metric poses for any unconstrained video would unlock large-scale training data for navigation and scene understanding. The dominant approaches to th...",
@@ -64,11 +64,11 @@
       "Optimization"
     ],
     "date": "2026-07-29T17:58:04Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zador Pataki, Paul-Edouard Sarlin, Marc Pollefeys"
   },
   {
-    "id": "arxiv_1785434821110_0",
+    "id": "arxiv_1785442145711_0",
     "name": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
     "category": "ai",
     "description": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on nar...",
@@ -77,11 +77,11 @@
       "AI"
     ],
     "date": "2026-07-29T17:57:19Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Peter Kirgis, Sayash Kapoor, Andrew Schwartz et al."
   },
   {
-    "id": "arxiv_1785434821258_2",
+    "id": "arxiv_1785442145742_2",
     "name": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
     "category": "machine-learning",
     "description": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on nar...",
@@ -94,7 +94,7 @@
     "source": "arXiv - Peter Kirgis, Sayash Kapoor, Andrew Schwartz et al."
   },
   {
-    "id": "arxiv_1785434821111_1",
+    "id": "arxiv_1785442145711_1",
     "name": "APEX-Accounting",
     "category": "ai",
     "description": "We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing ...",
@@ -104,11 +104,11 @@
       "GPT"
     ],
     "date": "2026-07-29T17:56:49Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Julien Benchek, Austin Bennett, Jasmin Kern et al."
   },
   {
-    "id": "arxiv_1785434821333_1",
+    "id": "arxiv_1785442145755_1",
     "name": "APEX-Accounting",
     "category": "nlp",
     "description": "We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing ...",
@@ -118,11 +118,11 @@
       "GPT"
     ],
     "date": "2026-07-29T17:56:49Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Julien Benchek, Austin Bennett, Jasmin Kern et al."
   },
   {
-    "id": "arxiv_1785434821258_3",
+    "id": "arxiv_1785442145742_3",
     "name": "Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes",
     "category": "machine-learning",
     "description": "Accurate option prices do not imply accurate recovery of the latent risk-neutral density. We study this distinction with two complementary benchmarks. A controlled benchmark exposes simulator-truth de...",
@@ -136,7 +136,7 @@
     "source": "arXiv - Lennon J. Shikhman, Michael Galarnyk, Aadi Dash et al."
   },
   {
-    "id": "arxiv_1785434821333_2",
+    "id": "arxiv_1785442145755_2",
     "name": "Pangram 4 Technical Report",
     "category": "nlp",
     "description": "We present Pangram 4, the latest deep-learning-based AI-text classification model from Pangram Labs. We achieve an AUROC of 0.9916 with a false positive rate of 0.0041% and a false negative rate of 0....",
@@ -149,7 +149,7 @@
     "source": "arXiv - Ben Glickenhaus, Katherine Thai, Jenna Russell et al."
   },
   {
-    "id": "arxiv_1785434821185_2",
+    "id": "arxiv_1785442145728_2",
     "name": "HumanCLAW: Can Vision-Language Models Act Through a Body?",
     "category": "computer-vision",
     "description": "Evaluating whether a vision-language model (VLM) can act through a physical body is challenging. The outcome of an action couples the VLM's decision with motor control. When a task fails, it is hard t...",
@@ -163,7 +163,7 @@
     "source": "arXiv - Siyao Li, Jiawei Gu, Shuai Liu et al."
   },
   {
-    "id": "arxiv_1785434821111_2",
+    "id": "arxiv_1785442145711_2",
     "name": "The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making",
     "category": "ai",
     "description": "Conversational AI is increasingly positioned as a teammate rather than a tool, yet we know little about how its presence reshapes communication among the humans on the team. We examined sociocognitive...",
@@ -176,7 +176,7 @@
     "source": "arXiv - Nia Nixon, Jaeyoon Choi, Pedro Martins De Bastos et al."
   },
   {
-    "id": "arxiv_1785434821333_3",
+    "id": "arxiv_1785442145755_3",
     "name": "DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search",
     "category": "nlp",
     "description": "State-of-the-art retrieval models increasingly rely on closed training data, creating a reproducibility gap. We present an open end-to-end recipe for training retrieval models and study how English su...",
@@ -191,7 +191,7 @@
     "source": "arXiv - Raphaël Sourty, Antoine Chaffin, Paulo Roberto Moura Junior et al."
   },
   {
-    "id": "arxiv_1785434821111_3",
+    "id": "arxiv_1785442145711_3",
     "name": "Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
     "category": "ai",
     "description": "Effective collaboration with novel and diverse partners is a crucial skill for autonomous agents. Most current ad-hoc teamwork (AHT) approaches assume that agents will collaborate on a single, fixed t...",
@@ -200,11 +200,11 @@
       "AI"
     ],
     "date": "2026-07-29T17:50:39Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Peter Tisnikar, Maja Swieczkowska, Benteng Ma et al."
   },
   {
-    "id": "arxiv_1785434821111_4",
+    "id": "arxiv_1785442145711_4",
     "name": "Improving Item Discoverability in e-Commerce Search via Related Intent Generation",
     "category": "ai",
     "description": "Traditional search systems are optimized to retrieve items that strictly match a query, often prioritizing precision over recall. In e-commerce marketplaces and particularly grocery, this paradigm is ...",
@@ -214,11 +214,11 @@
       "LLM"
     ],
     "date": "2026-07-29T17:46:35Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ji Xin, Xiao Xiao, Ishan Bhatt et al."
   },
   {
-    "id": "arxiv_1785434821258_4",
+    "id": "arxiv_1785442145742_4",
     "name": "When Do Learned Diffusion Proposals Help Constraint Solving? A Controlled Study on Continuous Algebraic Systems",
     "category": "machine-learning",
     "description": "Solving a continuous algebraic constraint system requires two decisions: which values satisfy the constraints, and which structural augmentation renders an unsolvable system solvable. Classical solver...",
@@ -234,7 +234,7 @@
     "source": "arXiv - Quang Bui, Sparsh Roy, Akash Gundimeda et al."
   },
   {
-    "id": "arxiv_1785434821334_4",
+    "id": "arxiv_1785442145756_4",
     "name": "SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Program Synthesis from Scratch",
     "category": "nlp",
     "description": "LLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing a program from scratch remains fundamentally harder. Recent benchmarks such as Progra...",
@@ -248,7 +248,7 @@
     "source": "arXiv - Yihao Chen, Shi Chang, Feng Lin et al."
   },
   {
-    "id": "arxiv_1785434821185_3",
+    "id": "arxiv_1785442145728_3",
     "name": "Anatomy Contextualized Adaption of CT Foundation Models",
     "category": "computer-vision",
     "description": "CT vision-language foundation models have demonstrated promising performance across downstream tasks, but are typically trained with whole-volume representations that dilute fine-grained anatomical si...",
@@ -259,11 +259,11 @@
       "Transformer"
     ],
     "date": "2026-07-29T17:32:57Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Roshan Kenia, Stephanie L McNamara, William Lotter"
   },
   {
-    "id": "arxiv_1785434821185_4",
+    "id": "arxiv_1785442145728_4",
     "name": "Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications",
     "category": "computer-vision",
     "description": "As Multimodal Large Language Models (MLLMs) are increasingly deployed in decision-critical pipelines such as robotics, embodied AI, and safety monitoring, the opacity of their spatial judgments limits...",
