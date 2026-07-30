@@ -1,55 +1,127 @@
 [
   {
-    "id": "rss_Ars_Technica_1785423515720_0",
-    "title": "With a stateless makeover, new MCP spec targets enterprise scale",
+    "id": "rss_TechCrunch_1785428617504_0",
+    "title": "Okta buys AI security startup Permiso; source says for about $200M",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Thu, 30 Jul 2026 16:09:42 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1785428622016_0",
+    "title": "The New Friend AI Pendant Can Now Talk Back to You",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
+    "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 30 Jul 2026 16:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1785428620832_0",
+    "title": "Quantum computers outperform classical ones, with results you can trust",
     "category": "ai-news",
     "source": "Ars Technica",
-    "description": "\n                        Plus, a new deprecation policy ensures features aren't removed suddenly.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+    "description": "\n                        Three approaches to the issue of quantum results that can't be verified classically.\n                    ",
+    "link": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
     "tags": [],
+    "date": "Thu, 30 Jul 2026 15:59:37 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1785428617504_1",
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Thu, 30 Jul 2026 15:41:16 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1785428617504_2",
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Thu, 30 Jul 2026 15:19:15 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1785428622016_1",
+    "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
+    "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+    "tags": [
+      "AI",
+      "Google",
+      "Robot"
+    ],
+    "date": "Thu, 30 Jul 2026 15:04:22 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1785428617504_3",
+    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+    "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 30 Jul 2026 15:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1785428620832_1",
+    "title": "New MCP specification addresses the main barrier to enterprise adoption",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Plus, a new policy for the AI protocol ensures features aren't removed suddenly.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+    "tags": [
+      "AI"
+    ],
     "date": "Thu, 30 Jul 2026 14:53:07 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1785423512427_0",
+    "id": "rss_TechCrunch_1785428617504_4",
     "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against HuggingFace has nothing to do with AI, but traditional cybersecurity defense. ",
+    "description": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense. ",
     "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
     "tags": [
       "AI",
       "OpenAI"
     ],
     "date": "Thu, 30 Jul 2026 14:48:32 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1785423512427_1",
-    "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come ",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade. ",
-    "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-    "tags": [],
-    "date": "Thu, 30 Jul 2026 14:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1785423512427_2",
-    "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan. ",
-    "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 30 Jul 2026 13:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1785423514581_0",
+    "id": "rss_MIT_Tech_Review_1785428619647_0",
     "title": "The Download: tricking LLMs, and reviving geothermal plants",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -63,7 +135,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785423516875_0",
+    "id": "rss_Wired_1785428622016_2",
     "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
     "category": "ai-news",
     "source": "Wired",
@@ -77,7 +149,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785423514581_1",
+    "id": "rss_MIT_Tech_Review_1785428619647_1",
     "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -92,7 +164,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785423516875_1",
+    "id": "rss_Wired_1785428622016_3",
     "title": "LinkedIn Won’t Be Expanding Its Data Centers in the Next Year",
     "category": "ai-news",
     "source": "Wired",
@@ -102,10 +174,10 @@
       "AI"
     ],
     "date": "Thu, 30 Jul 2026 10:15:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1785423516875_2",
+    "id": "rss_Wired_1785428622016_4",
     "title": "AI Scammers Are Better at Building Trust Than Humans",
     "category": "ai-news",
     "source": "Wired",
@@ -119,51 +191,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785423516875_3",
-    "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
-    "link": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
-    "tags": [
-      "AI",
-      "Robot",
-      "Startup"
-    ],
-    "date": "Thu, 30 Jul 2026 09:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1785423512428_3",
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "Microsoft"
-    ],
-    "date": "Thu, 30 Jul 2026 00:21:06 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1785423512428_4",
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Wed, 29 Jul 2026 23:00:11 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1785423515720_1",
+    "id": "rss_Ars_Technica_1785428620832_2",
     "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -171,10 +199,10 @@
     "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
     "tags": [],
     "date": "Wed, 29 Jul 2026 22:07:06 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1785423515720_2",
+    "id": "rss_Ars_Technica_1785428620832_3",
     "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -187,7 +215,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1785423515720_3",
+    "id": "rss_Ars_Technica_1785428620832_4",
     "title": "Who wins and who loses after US bans foreign robots?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -200,33 +228,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1785423515720_4",
-    "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Comcast, accused of negligence, says lawsuit mischaracterized alleged events.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 29 Jul 2026 19:33:55 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1785423516875_4",
-    "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
-    "link": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 29 Jul 2026 18:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1785423514582_2",
+    "id": "rss_MIT_Tech_Review_1785428619647_2",
     "title": "How an overlooked geothermal plant got a second chance",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -236,10 +238,10 @@
       "AI"
     ],
     "date": "Wed, 29 Jul 2026 17:58:44 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785423514582_3",
+    "id": "rss_MIT_Tech_Review_1785428619647_3",
     "title": "The Download: a chip talent battle, and deflating AI hype",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -250,10 +252,10 @@
       "Vision"
     ],
     "date": "Wed, 29 Jul 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1785423514582_4",
+    "id": "rss_MIT_Tech_Review_1785428619647_4",
     "title": "The AI Hype Index: Unsexy AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -266,7 +268,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785423524920_0",
+    "id": "rss_Distill_1785428630549_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -279,7 +281,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785423524920_1",
+    "id": "rss_Distill_1785428630549_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -289,10 +291,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1785423524920_2",
+    "id": "rss_Distill_1785428630549_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -300,10 +302,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1785423524920_3",
+    "id": "rss_Distill_1785428630549_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -316,7 +318,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785423524920_4",
+    "id": "rss_Distill_1785428630549_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -324,6 +326,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
