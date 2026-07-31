@@ -1,6 +1,20 @@
 [
   {
-    "id": "rss_TechCrunch_1785455417083_0",
+    "id": "rss_TechCrunch_1785461108200_0",
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Fri, 31 Jul 2026 01:06:54 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1785461108200_1",
     "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -14,7 +28,21 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1785455417083_1",
+    "id": "rss_TechCrunch_1785461108200_2",
+    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.  ",
+    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Thu, 30 Jul 2026 23:08:58 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1785461108200_3",
     "title": "Investors love AI, as long as you’re a cloud host",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -24,10 +52,10 @@
       "AI"
     ],
     "date": "Thu, 30 Jul 2026 22:41:41 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1785455421126_0",
+    "id": "rss_Ars_Technica_1785461111761_0",
     "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -38,7 +66,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1785455421126_1",
+    "id": "rss_Ars_Technica_1785461111761_1",
     "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -46,10 +74,10 @@
     "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
     "tags": [],
     "date": "Thu, 30 Jul 2026 20:57:22 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1785455421126_2",
+    "id": "rss_Ars_Technica_1785461111761_2",
     "title": "Trump FCC faces blowback in attempt to police speech on broadcast TV",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -57,10 +85,10 @@
     "link": "https://arstechnica.com/tech-policy/2026/07/trump-fccs-war-on-abc-slammed-by-both-conservatives-and-liberals/",
     "tags": [],
     "date": "Thu, 30 Jul 2026 20:48:47 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1785455421126_3",
+    "id": "rss_Ars_Technica_1785461111761_3",
     "title": "Iran struck Amazon data centers again amid widening war, satellites show",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -73,7 +101,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1785455417083_2",
+    "id": "rss_TechCrunch_1785461108200_4",
     "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -83,10 +111,10 @@
       "AI"
     ],
     "date": "Thu, 30 Jul 2026 20:26:38 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1785455422244_0",
+    "id": "rss_Wired_1785461112875_0",
     "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
     "category": "ai-news",
     "source": "Wired",
@@ -101,7 +129,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1785455421126_4",
+    "id": "rss_Ars_Technica_1785461111761_4",
     "title": "Just because a game is on disc doesn’t mean it will work in the future",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -112,36 +140,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1785455417084_3",
-    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price. ",
-    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 30 Jul 2026 19:44:16 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1785455417084_4",
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "tags": [
-      "AI",
-      "Google",
-      "Microsoft",
-      "LLM"
-    ],
-    "date": "Thu, 30 Jul 2026 18:57:58 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1785455422244_1",
+    "id": "rss_Wired_1785461112875_1",
     "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
     "category": "ai-news",
     "source": "Wired",
@@ -157,7 +156,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785455419595_0",
+    "id": "rss_MIT_Tech_Review_1785461110375_0",
     "title": "Montana’s plan to become an experimental medical hub just pushed forward",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -168,7 +167,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785455422244_2",
+    "id": "rss_Wired_1785461112875_2",
     "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
     "category": "ai-news",
     "source": "Wired",
@@ -182,7 +181,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785455422245_3",
+    "id": "rss_Wired_1785461112876_3",
     "title": "The New Friend AI Pendant Can Now Talk Back to You",
     "category": "ai-news",
     "source": "Wired",
@@ -195,7 +194,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1785455422245_4",
+    "id": "rss_Wired_1785461112876_4",
     "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
     "category": "ai-news",
     "source": "Wired",
@@ -207,10 +206,10 @@
       "Robot"
     ],
     "date": "Thu, 30 Jul 2026 15:04:22 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785455419595_1",
+    "id": "rss_MIT_Tech_Review_1785461110376_1",
     "title": "The Download: tricking LLMs, and reviving geothermal plants",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -224,7 +223,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1785455419595_2",
+    "id": "rss_MIT_Tech_Review_1785461110376_2",
     "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -236,10 +235,10 @@
       "Machine Learning"
     ],
     "date": "Thu, 30 Jul 2026 10:15:19 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785455419595_3",
+    "id": "rss_MIT_Tech_Review_1785461110376_3",
     "title": "How an overlooked geothermal plant got a second chance",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -252,7 +251,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785455419595_4",
+    "id": "rss_MIT_Tech_Review_1785461110376_4",
     "title": "The Download: a chip talent battle, and deflating AI hype",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -263,10 +262,10 @@
       "Vision"
     ],
     "date": "Wed, 29 Jul 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1785455431507_0",
+    "id": "rss_Distill_1785461121620_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -279,7 +278,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785455431508_1",
+    "id": "rss_Distill_1785461121620_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -292,7 +291,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785455431508_2",
+    "id": "rss_Distill_1785461121620_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -303,7 +302,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1785455431508_3",
+    "id": "rss_Distill_1785461121620_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -316,7 +315,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785455431508_4",
+    "id": "rss_Distill_1785461121620_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -324,6 +323,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
