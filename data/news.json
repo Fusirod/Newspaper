@@ -1,17 +1,82 @@
 [
   {
-    "id": "rss_Ars_Technica_1785518094744_0",
-    "title": "Sony acknowledges backlash, will “cautiously” move forward with end of discs",
+    "id": "rss_Wired_1785524543826_0",
+    "title": "Chinese AI Researchers Are Finding Their Voice on X",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+    "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Fri, 31 Jul 2026 18:14:43 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1785524542713_0",
+    "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Gaps in laws may help Pennsylvania high school escape AI nudes scandal.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 31 Jul 2026 18:11:55 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1785524542713_1",
+    "title": "Researchers devise a full-color night vision goggle",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Wavelength and intensity in the infrared are translated into colors in the visible.\n                    ",
+    "link": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
+    "tags": [
+      "Vision"
+    ],
+    "date": "Fri, 31 Jul 2026 17:58:38 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1785524542713_2",
+    "title": "China could supply EV manufacturing boom with recycled EVs",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Look at chemistry of batteries and motors shows big opportunity for recycling.\n                    ",
+    "link": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
+    "tags": [],
+    "date": "Fri, 31 Jul 2026 17:29:21 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1785524538866_0",
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
+    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Fri, 31 Jul 2026 17:26:32 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1785524542713_3",
+    "title": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
     "category": "ai-news",
     "source": "Ars Technica",
     "description": "\n                        Sony doesn't think the move will hurt it financially. \n                    ",
     "link": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
     "tags": [],
     "date": "Fri, 31 Jul 2026 17:07:42 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1785518091331_0",
+    "id": "rss_TechCrunch_1785524538866_1",
     "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -21,10 +86,10 @@
       "AI"
     ],
     "date": "Fri, 31 Jul 2026 16:49:08 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1785518094744_1",
+    "id": "rss_Ars_Technica_1785524542713_4",
     "title": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -35,7 +100,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1785518091331_1",
+    "id": "rss_TechCrunch_1785524538867_2",
     "title": "Siri AI could come with a paywall for power users",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -49,7 +114,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1785518091331_2",
+    "id": "rss_TechCrunch_1785524538867_3",
     "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -62,7 +127,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785518095904_0",
+    "id": "rss_Wired_1785524543826_1",
     "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
     "category": "ai-news",
     "source": "Wired",
@@ -72,10 +137,10 @@
       "AI"
     ],
     "date": "Fri, 31 Jul 2026 15:00:09 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1785518095904_1",
+    "id": "rss_Wired_1785524543826_2",
     "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
     "category": "ai-news",
     "source": "Wired",
@@ -88,7 +153,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1785518091331_3",
+    "id": "rss_TechCrunch_1785524538867_4",
     "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -99,35 +164,10 @@
       "Startup"
     ],
     "date": "Fri, 31 Jul 2026 14:47:11 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1785518094744_2",
-    "title": "AI scammers outperform humans when it comes to building trust",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The AI chatbot was more effective at creating “exploitable trust” than the humans.\n                    ",
-    "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-    "tags": [
-      "AI",
-      "Chatbot"
-    ],
-    "date": "Fri, 31 Jul 2026 14:01:40 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1785518094744_3",
-    "title": "Pathogenic review: Damn, it feels good to be a virus",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The hot new roguelite twin-stick shooter lives up to the hype.\n                    ",
-    "link": "https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/",
-    "tags": [],
-    "date": "Fri, 31 Jul 2026 13:00:18 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785518093511_0",
+    "id": "rss_MIT_Tech_Review_1785524541188_0",
     "title": "The Download: Montana’s new experimental drug rules",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -137,23 +177,10 @@
       "AI"
     ],
     "date": "Fri, 31 Jul 2026 12:16:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1785518094744_4",
-    "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        A disputed exam, an unreliable detector, and one very late Apple Pages file.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 31 Jul 2026 11:00:52 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1785518093511_1",
+    "id": "rss_MIT_Tech_Review_1785524541188_1",
     "title": "Montana’s new “right to try” law can’t come soon enough for some",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -164,7 +191,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785518095904_2",
+    "id": "rss_Wired_1785524543826_3",
     "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
     "category": "ai-news",
     "source": "Wired",
@@ -178,21 +205,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1785518091331_4",
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
-    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Fri, 31 Jul 2026 01:06:54 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1785518095904_3",
+    "id": "rss_Wired_1785524543826_4",
     "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
     "category": "ai-news",
     "source": "Wired",
@@ -207,23 +220,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1785518095904_4",
-    "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
-    "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "NVIDIA",
-      "Chatbot"
-    ],
-    "date": "Thu, 30 Jul 2026 17:51:10 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1785518093511_2",
+    "id": "rss_MIT_Tech_Review_1785524541188_2",
     "title": "Montana’s plan to become an experimental medical hub just pushed forward",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -234,7 +231,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785518093511_3",
+    "id": "rss_MIT_Tech_Review_1785524541188_3",
     "title": "The Download: tricking LLMs, and reviving geothermal plants",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -248,7 +245,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1785518093511_4",
+    "id": "rss_MIT_Tech_Review_1785524541188_4",
     "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -263,7 +260,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785518105008_0",
+    "id": "rss_Distill_1785524553267_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -273,10 +270,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1785518105008_1",
+    "id": "rss_Distill_1785524553267_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -289,7 +286,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785518105008_2",
+    "id": "rss_Distill_1785524553267_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -300,7 +297,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785518105008_3",
+    "id": "rss_Distill_1785524553267_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -313,7 +310,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1785518105008_4",
+    "id": "rss_Distill_1785524553267_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -321,6 +318,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
