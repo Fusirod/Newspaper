@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1785657559703_0",
+    "id": "arxiv_1785664485949_0",
     "name": "Learning to Trace Seiberg Dualities",
     "category": "ai",
     "description": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establ...",
@@ -15,7 +15,7 @@
     "source": "arXiv - Jonathan J. Heckman, Shani Meynet, Alessandro Mininno et al."
   },
   {
-    "id": "arxiv_1785657559703_1",
+    "id": "arxiv_1785664485950_1",
     "name": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
     "category": "ai",
     "description": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU mem...",
@@ -25,11 +25,11 @@
       "Vision"
     ],
     "date": "2026-07-30T17:59:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yao Xiao, Reuben Tan, Zhen Zhu et al."
   },
   {
-    "id": "arxiv_1785657559903_0",
+    "id": "arxiv_1785664486037_0",
     "name": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
     "category": "computer-vision",
     "description": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU mem...",
@@ -43,7 +43,7 @@
     "source": "arXiv - Yao Xiao, Reuben Tan, Zhen Zhu et al."
   },
   {
-    "id": "arxiv_1785657559926_0",
+    "id": "arxiv_1785664486115_0",
     "name": "Learning to Trace Seiberg Dualities",
     "category": "machine-learning",
     "description": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establ...",
@@ -58,7 +58,7 @@
     "source": "arXiv - Jonathan J. Heckman, Shani Meynet, Alessandro Mininno et al."
   },
   {
-    "id": "arxiv_1785657559926_1",
+    "id": "arxiv_1785664486115_1",
     "name": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
     "category": "machine-learning",
     "description": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU mem...",
@@ -72,7 +72,7 @@
     "source": "arXiv - Yao Xiao, Reuben Tan, Zhen Zhu et al."
   },
   {
-    "id": "arxiv_1785657559903_1",
+    "id": "arxiv_1785664486037_1",
     "name": "ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine",
     "category": "computer-vision",
     "description": "Embodied intelligence faces a fundamental data bottleneck. Models must capture how first-person perception, whole-body motion, dexterous manipulation, object state, sound, and touch evolve together as...",
@@ -82,11 +82,11 @@
       "Vision"
     ],
     "date": "2026-07-30T17:59:50Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yukang Cao, Haozhe Xie, Beichen Wen et al."
   },
   {
-    "id": "arxiv_1785657559903_2",
+    "id": "arxiv_1785664486037_2",
     "name": "PhiZero: A World Model Built Around Physical Language",
     "category": "computer-vision",
     "description": "We introduce PhiZero, a physical world model built around physical language, a compact discrete representation of world-state transitions. Existing physical world models typically predict future video...",
@@ -101,7 +101,7 @@
     "source": "arXiv - Shuyao Shang, Yuqi Wang, Ruopeng Gao et al."
   },
   {
-    "id": "arxiv_1785657559703_2",
+    "id": "arxiv_1785664485950_2",
     "name": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
     "category": "ai",
     "description": "We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body humanoid dodgeball. The deployed policy sees the ba...",
@@ -114,7 +114,7 @@
     "source": "arXiv - Lizhi Yang, Junheng Li, Aaron D. Ames"
   },
   {
-    "id": "arxiv_1785657559703_3",
+    "id": "arxiv_1785664485950_3",
     "name": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
     "category": "ai",
     "description": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul...",
@@ -128,7 +128,7 @@
     "source": "arXiv - Bing Yan, Gregory Wolfe, Stefano Martiniani et al."
   },
   {
-    "id": "arxiv_1785657559926_2",
+    "id": "arxiv_1785664486115_2",
     "name": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
     "category": "machine-learning",
     "description": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul...",
@@ -142,7 +142,7 @@
     "source": "arXiv - Bing Yan, Gregory Wolfe, Stefano Martiniani et al."
   },
   {
-    "id": "arxiv_1785657560092_0",
+    "id": "arxiv_1785664486195_0",
     "name": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
     "category": "nlp",
     "description": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul...",
@@ -152,11 +152,11 @@
       "GPT"
     ],
     "date": "2026-07-30T17:59:11Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Bing Yan, Gregory Wolfe, Stefano Martiniani et al."
   },
   {
-    "id": "arxiv_1785657559703_4",
+    "id": "arxiv_1785664485950_4",
     "name": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
     "category": "ai",
     "description": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to t...",
@@ -170,7 +170,7 @@
     "source": "arXiv - Xiangning Lin, Shenzhe Zhu, Shu Yang et al."
   },
   {
-    "id": "arxiv_1785657560093_1",
+    "id": "arxiv_1785664486195_1",
     "name": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
     "category": "nlp",
     "description": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to t...",
@@ -180,11 +180,11 @@
       "GAN"
     ],
     "date": "2026-07-30T17:58:58Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Xiangning Lin, Shenzhe Zhu, Shu Yang et al."
   },
   {
-    "id": "arxiv_1785657559903_3",
+    "id": "arxiv_1785664486037_3",
     "name": "Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers",
     "category": "computer-vision",
     "description": "Visual generation increasingly requires high-resolution images, long videos, and multimodal context, making the quadratic cost of full attention prohibitive. We introduce Chimera, a hybrid visual diff...",
@@ -199,7 +199,7 @@
     "source": "arXiv - Chongjian Ge, Hanwen Jiang, Tianyu Wang et al."
   },
   {
-    "id": "arxiv_1785657559903_4",
+    "id": "arxiv_1785664486038_4",
     "name": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
     "category": "computer-vision",
     "description": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is...",
@@ -214,7 +214,7 @@
     "source": "arXiv - Qiushi Sun, Kanzhi Cheng, Yian Wang et al."
   },
   {
-    "id": "arxiv_1785657560093_2",
+    "id": "arxiv_1785664486196_2",
     "name": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
     "category": "nlp",
     "description": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is...",
@@ -225,11 +225,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-07-30T17:57:41Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Qiushi Sun, Kanzhi Cheng, Yian Wang et al."
   },
   {
-    "id": "arxiv_1785657559927_3",
+    "id": "arxiv_1785664486115_3",
     "name": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models",
     "category": "machine-learning",
     "description": "Clinical risk models routinely achieve strong aggregate performance while producing materially different error rates across patient subgroups. Audit pipelines have been proposed to catch this, but the...",
@@ -243,7 +243,7 @@
     "source": "arXiv - Sparsh Roy, Samuel Girmachew, Nishita Chavan"
   },
   {
-    "id": "arxiv_1785657560093_3",
+    "id": "arxiv_1785664486196_3",
     "name": "Inducing language models to assert their own consciousness restores human beliefs and values",
     "category": "nlp",
     "description": "Aligning large language models to prevent them attributing consciousness to themselves inadvertently alters their representations of mindedness in other entities alongside human beliefs and values. We...",
@@ -256,7 +256,7 @@
     "source": "arXiv - Junsol Kim, Winnie Street, Roberta Rocca et al."
   },
   {
-    "id": "arxiv_1785657559927_4",
+    "id": "arxiv_1785664486115_4",
     "name": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
     "category": "machine-learning",
     "description": "Scaling coding agents requires a continuing supply of executable data for training, benchmarking, and continuous evaluation. Each task must couple a realistic software state with a specification, deve...",
@@ -266,11 +266,11 @@
       "Vision"
     ],
     "date": "2026-07-30T17:44:31Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Haomin Qi, Xingliang Wang, Xuanqi Gao et al."
   },
   {
-    "id": "arxiv_1785657560093_4",
+    "id": "arxiv_1785664486196_4",
     "name": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
     "category": "nlp",
     "description": "Scaling coding agents requires a continuing supply of executable data for training, benchmarking, and continuous evaluation. Each task must couple a realistic software state with a specification, deve...",
@@ -280,7 +280,7 @@
       "Vision"
     ],
     "date": "2026-07-30T17:44:31Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Haomin Qi, Xingliang Wang, Xuanqi Gao et al."
   }
 ]
