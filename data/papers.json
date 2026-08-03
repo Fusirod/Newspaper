@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1785790290947_0",
+    "id": "arxiv_1785794120192_0",
     "name": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
     "category": "computer-vision",
     "description": "Robust low-light imaging remains challenging for the community. Recent studies have explored fusing Near-Infrared (NIR) with noisy RGB to achieve improved enhancement, yet most methods depend on caref...",
@@ -11,11 +11,11 @@
       "Vision"
     ],
     "date": "2026-07-31T17:59:18Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Muyao Niu, Mingze Ma, Yifan Zhan et al."
   },
   {
-    "id": "arxiv_1785790290947_1",
+    "id": "arxiv_1785794120193_1",
     "name": "Scaling Properties of Text Conditioning in Visual Generation",
     "category": "computer-vision",
     "description": "We study empirical scaling properties for text conditioning in visual generation. Such properties have rarely been measured because diffusion loss does not scale with the number of tokens in natural-l...",
@@ -29,7 +29,7 @@
     "source": "arXiv - Zilong Chen, Chaorui Deng, Kunchang Li et al."
   },
   {
-    "id": "arxiv_1785790290976_0",
+    "id": "arxiv_1785794120225_0",
     "name": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
     "category": "nlp",
     "description": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small...",
@@ -44,7 +44,7 @@
     "source": "arXiv - Zhenyu Zhang, Zhichao Cao"
   },
   {
-    "id": "arxiv_1785790290926_0",
+    "id": "arxiv_1785794120175_0",
     "name": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
     "category": "ai",
     "description": "Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output ...",
@@ -57,7 +57,7 @@
     "source": "arXiv - Boyang Zhang, Adrian Lyjak, Eli Stewart et al."
   },
   {
-    "id": "arxiv_1785790290962_0",
+    "id": "arxiv_1785794120209_0",
     "name": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
     "category": "machine-learning",
     "description": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study diffe...",
@@ -66,11 +66,11 @@
       "AI"
     ],
     "date": "2026-07-31T17:55:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Arkajyoti Bhattacharjee, Arnab Auddy"
   },
   {
-    "id": "arxiv_1785790290962_1",
+    "id": "arxiv_1785794120210_1",
     "name": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
     "category": "machine-learning",
     "description": "SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low communication budget. ...",
@@ -84,7 +84,7 @@
     "source": "arXiv - Maria Smirnova, Alexey Kravatskiy"
   },
   {
-    "id": "arxiv_1785790290962_2",
+    "id": "arxiv_1785794120210_2",
     "name": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
     "category": "machine-learning",
     "description": "PDE discovery from sparse observations requires reconstructing a continuous field and selecting the correct differential terms. Our analysis of optimization paths in coupled neural PDE discovery revea...",
@@ -96,11 +96,11 @@
       "Optimization"
     ],
     "date": "2026-07-31T17:49:32Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Juncheng Zhong, Chenghuang Shen, Jianfeng Liu et al."
   },
   {
-    "id": "arxiv_1785790290962_3",
+    "id": "arxiv_1785794120210_3",
     "name": "GQ-FSL: Green Quantized Federated Split Learning",
     "category": "machine-learning",
     "description": "Deploying state-of-the-art deep neural networks (DNNs) at the wireless edge is severely bottlenecked by the strict energy and resource constraints of mobile devices. While federated split learning (FS...",
@@ -115,7 +115,7 @@
     "source": "arXiv - Idan Roth, Lutz Lampe"
   },
   {
-    "id": "arxiv_1785790290926_1",
+    "id": "arxiv_1785794120175_1",
     "name": "Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics",
     "category": "ai",
     "description": "Fault detection and diagnosis (FDD) technology is essential for improving HVAC system reliability, energy efficiency, and maintenance effectiveness. However, effective deployment of FDD solutions in b...",
@@ -124,11 +124,11 @@
       "AI"
     ],
     "date": "2026-07-31T17:37:34Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yimin Chen, Brian Fricke, Bo Shen et al."
   },
   {
-    "id": "arxiv_1785790290976_1",
+    "id": "arxiv_1785794120225_1",
     "name": "Evolving language compositionality in a frequency-structured meaning space",
     "category": "nlp",
     "description": "The iterated learning model was introduced to investigate language evolution: the way in which the characteristic properties of human languages have been shaped, at least partly, by repeated transmiss...",
@@ -137,11 +137,11 @@
       "AI"
     ],
     "date": "2026-07-31T17:18:57Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Fabio De Ponte, Eloise Gaines-White, Conor Houghton et al."
   },
   {
-    "id": "arxiv_1785790290948_2",
+    "id": "arxiv_1785794120193_2",
     "name": "HierDoc: Hierarchical Page-to-Region Evidence Routing for Long-Document Visual Question Answering",
     "category": "computer-vision",
     "description": "Multi-page document visual question answering requires locating sparse evidence at both the page and region levels. Existing approaches typically emphasize one level over the other: page-centric metho...",
@@ -155,7 +155,7 @@
     "source": "arXiv - Rongjian Gu, Wengang Zhou, Junyu Xiong et al."
   },
   {
-    "id": "arxiv_1785790290948_3",
+    "id": "arxiv_1785794120193_3",
     "name": "CodeShrink: Adaptive Visual Compression for Efficient Multimodal Code Understanding",
     "category": "computer-vision",
     "description": "Rendering source code as images offers a promising way to reduce the input costs of Multimodal Large Language Models (MLLMs). Adjusting image resolution can trade visual token cost against content fid...",
@@ -166,11 +166,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-07-31T17:15:51Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Wenxin Tang, Jingyu Xiao, Zhenyu Liu et al."
   },
   {
-    "id": "arxiv_1785790290948_4",
+    "id": "arxiv_1785794120193_4",
     "name": "OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting",
     "category": "computer-vision",
     "description": "Single-image 3D hand avatar reconstruction is fundamentally ill-posed and particularly challenging due to limited visual evidence under severe self-occlusion and the complex pose-dependent deformation...",
@@ -183,7 +183,7 @@
     "source": "arXiv - Zhisheng Han, Shiyao Wu, Jiayan Qiu et al."
   },
   {
-    "id": "arxiv_1785790290926_2",
+    "id": "arxiv_1785794120175_2",
     "name": "AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers",
     "category": "ai",
     "description": "As LLMs evolve from code completion systems into autonomous scientific agents, evaluating their ability to conduct experiments has become increasingly important. Existing benchmarks typically focus on...",
@@ -199,7 +199,7 @@
     "source": "arXiv - Tianyu Huai, Tingshuo Fan, Xinchi Chen et al."
   },
   {
-    "id": "arxiv_1785790290927_3",
+    "id": "arxiv_1785794120175_3",
     "name": "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations",
     "category": "ai",
     "description": "Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinations...",
@@ -212,7 +212,7 @@
     "source": "arXiv - Ilya Mikhelson"
   },
   {
-    "id": "arxiv_1785790290927_4",
+    "id": "arxiv_1785794120175_4",
     "name": "CENDRe: Concept Extraction with Natural Domain Representations",
     "category": "ai",
     "description": "Convolutional neural networks (CNNs) are widely used for time-series classification, but their deployment in critical domains requires understanding the temporal and spectral patterns that drive their...",
@@ -227,7 +227,7 @@
     "source": "arXiv - Antonia Holzapfel, Andres Felipe Posada Moreno, Sebastian Trimpe"
   },
   {
-    "id": "arxiv_1785790290962_4",
+    "id": "arxiv_1785794120210_4",
     "name": "CENDRe: Concept Extraction with Natural Domain Representations",
     "category": "machine-learning",
     "description": "Convolutional neural networks (CNNs) are widely used for time-series classification, but their deployment in critical domains requires understanding the temporal and spectral patterns that drive their...",
@@ -238,11 +238,11 @@
       "CNN"
     ],
     "date": "2026-07-31T16:56:27Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Antonia Holzapfel, Andres Felipe Posada Moreno, Sebastian Trimpe"
   },
   {
-    "id": "arxiv_1785790290976_2",
+    "id": "arxiv_1785794120225_2",
     "name": "WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning",
     "category": "nlp",
     "description": "Reinforcement learning (RL) post-training of Vision-Language-Action (VLA) models has shown strong promise for robotic manipulation. Among RL methods, critic-based approaches rely on a value estimator ...",
@@ -257,7 +257,7 @@
     "source": "arXiv - Senyu Fei, Xiaopeng Yu, Siyin Wang et al."
   },
   {
-    "id": "arxiv_1785790290976_3",
+    "id": "arxiv_1785794120225_3",
     "name": "FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models",
     "category": "nlp",
     "description": "Reading a social situation often depends on behavior, not words alone. We introduce FriendBench, a benchmark for inferring whether two people are already familiar or are meeting as strangers, from a 2...",
@@ -270,7 +270,7 @@
     "source": "arXiv - Jeffrey M. Girard, Jason Z. Zheng, Jacqueline R. Vertino et al."
   },
   {
-    "id": "arxiv_1785790290976_4",
+    "id": "arxiv_1785794120225_4",
     "name": "ResKV: Reconstructing Omitted Attention Contributions for Fixed-Budget KV Cache Compression",
     "category": "nlp",
     "description": "KV cache compression is essential for efficient long-context inference. Existing eviction methods permanently discard unselected tokens and consequently remove their aggregate contribution to attentio...",
