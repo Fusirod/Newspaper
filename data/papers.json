@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1785856407622_0",
+    "id": "arxiv_1785864394242_0",
     "name": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
     "category": "computer-vision",
     "description": "Controllable video generation models are increasingly being developed as world models. Accordingly, evaluating them in this role extends beyond the apparent appearance of generated videos to the inher...",
@@ -10,11 +10,11 @@
       "LLM"
     ],
     "date": "2026-08-03T17:59:54Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yuxue Yang, Shuyao Shang, Jiahe Wang et al."
   },
   {
-    "id": "arxiv_1785856407802_0",
+    "id": "arxiv_1785864394275_0",
     "name": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
     "category": "nlp",
     "description": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. ...",
@@ -26,11 +26,11 @@
       "Diffusion"
     ],
     "date": "2026-08-03T17:59:50Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jiajun Liang, Yucheng Liao, Yukang Cao et al."
   },
   {
-    "id": "arxiv_1785856407529_0",
+    "id": "arxiv_1785864394223_0",
     "name": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
     "category": "ai",
     "description": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized application...",
@@ -46,7 +46,7 @@
     "source": "arXiv - Junjie Yin, Buxin She, Xinyu Feng et al."
   },
   {
-    "id": "arxiv_1785856407622_1",
+    "id": "arxiv_1785864394242_1",
     "name": "VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification",
     "category": "computer-vision",
     "description": "Aerial-ground person re-identification is a challenging task due to cross-platform viewpoint variations, which cause severe occlusion and geometric deformation. Existing methods attempt to learn view-...",
@@ -55,11 +55,11 @@
       "AI"
     ],
     "date": "2026-08-03T17:59:01Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Chao Ji, Shiyu Xuan, Zechao Li"
   },
   {
-    "id": "arxiv_1785856407712_0",
+    "id": "arxiv_1785864394258_0",
     "name": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
     "category": "machine-learning",
     "description": "Language models are playing an increasingly important role in laboratory science, performing tasks such as experiment planning, execution, and post-hoc analysis. However, precisely measuring their abi...",
@@ -68,11 +68,11 @@
       "AI"
     ],
     "date": "2026-08-03T17:58:27Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Brandon Wang, Andrei S. Tyrin, Daniil A. Boiko"
   },
   {
-    "id": "arxiv_1785856407623_2",
+    "id": "arxiv_1785864394242_2",
     "name": "CAPEval: A Decoupled Caption Evaluation across Understanding and Generation",
     "category": "computer-vision",
     "description": "Captions serve as a primary supervision signal for both multimodal understanding and text-to-image generation. However, previous evaluations treat the caption quality as a single scalar objective, whi...",
@@ -86,7 +86,7 @@
     "source": "arXiv - Zhipeng Liu, Haochen Wang, Zhaoxiang Zhang"
   },
   {
-    "id": "arxiv_1785856407712_1",
+    "id": "arxiv_1785864394258_1",
     "name": "The Condition-Number Barrier in Sparse Least Squares",
     "category": "machine-learning",
     "description": "In [AS21], Axiotis and Sviridenko conjectured that the linear dependence on the restricted condition number in sparse convex optimization cannot be improved by a polynomial-time algorithm. We establis...",
@@ -96,11 +96,11 @@
       "Optimization"
     ],
     "date": "2026-08-03T17:57:01Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Honghao Lin, Vahab Mirrokni, David P. Woodruff"
   },
   {
-    "id": "arxiv_1785856407712_2",
+    "id": "arxiv_1785864394258_2",
     "name": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
     "category": "machine-learning",
     "description": "Optimization-based latent reasoning improves large language model outputs by optimizing instance-specific continuous states at test time while keeping model parameters frozen. Existing methods, howeve...",
@@ -116,7 +116,7 @@
     "source": "arXiv - Zhaoxin Yu, Qi Shen, Hengli Li et al."
   },
   {
-    "id": "arxiv_1785856407803_1",
+    "id": "arxiv_1785864394275_1",
     "name": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
     "category": "nlp",
     "description": "Optimization-based latent reasoning improves large language model outputs by optimizing instance-specific continuous states at test time while keeping model parameters frozen. Existing methods, howeve...",
@@ -132,7 +132,7 @@
     "source": "arXiv - Zhaoxin Yu, Qi Shen, Hengli Li et al."
   },
   {
-    "id": "arxiv_1785856407529_1",
+    "id": "arxiv_1785864394223_1",
     "name": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
     "category": "ai",
     "description": "Sparse retrieval underpins modern search systems, from web search to retrieval-augmented generation. Existing work has introduced Learned Sparse Retrieval (LSR) to push beyond exact lexical matching t...",
@@ -141,11 +141,11 @@
       "AI"
     ],
     "date": "2026-08-03T17:54:11Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Tingyu Song, Mingxin Li, Yanzhao Zhang et al."
   },
   {
-    "id": "arxiv_1785856407623_3",
+    "id": "arxiv_1785864394242_3",
     "name": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
     "category": "computer-vision",
     "description": "Sparse retrieval underpins modern search systems, from web search to retrieval-augmented generation. Existing work has introduced Learned Sparse Retrieval (LSR) to push beyond exact lexical matching t...",
@@ -154,11 +154,11 @@
       "AI"
     ],
     "date": "2026-08-03T17:54:11Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Tingyu Song, Mingxin Li, Yanzhao Zhang et al."
   },
   {
-    "id": "arxiv_1785856407803_2",
+    "id": "arxiv_1785864394275_2",
     "name": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
     "category": "nlp",
     "description": "Sparse retrieval underpins modern search systems, from web search to retrieval-augmented generation. Existing work has introduced Learned Sparse Retrieval (LSR) to push beyond exact lexical matching t...",
@@ -171,7 +171,7 @@
     "source": "arXiv - Tingyu Song, Mingxin Li, Yanzhao Zhang et al."
   },
   {
-    "id": "arxiv_1785856407529_2",
+    "id": "arxiv_1785864394224_2",
     "name": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
     "category": "ai",
     "description": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We ...",
@@ -184,7 +184,7 @@
     "source": "arXiv - Shuaijun Liu, Qifu Wen, Shuyang Hao et al."
   },
   {
-    "id": "arxiv_1785856407712_3",
+    "id": "arxiv_1785864394258_3",
     "name": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
     "category": "machine-learning",
     "description": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We ...",
@@ -197,7 +197,7 @@
     "source": "arXiv - Shuaijun Liu, Qifu Wen, Shuyang Hao et al."
   },
   {
-    "id": "arxiv_1785856407712_4",
+    "id": "arxiv_1785864394258_4",
     "name": "Smooth Reparameterizations of Functions on Simplicial Product Spaces: Applications to Probabilistic Tensor Decomposition and Functional Data Registration",
     "category": "machine-learning",
     "description": "We consider optimization problems defined on product spaces of simplices. Examples of this class of problems include learning low-rank discrete multivariate probability distributions via simplex const...",
@@ -211,7 +211,7 @@
     "source": "arXiv - Shashwat Kumar, Arafat Rahman, Anuj Srivastava et al."
   },
   {
-    "id": "arxiv_1785856407530_3",
+    "id": "arxiv_1785864394224_3",
     "name": "AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies",
     "category": "ai",
     "description": "The efficiency of a datacenter rests on its control plane policies. Designing these policies is increasingly hard: the hardware-software stack grows fast, the design space is vast and interdependent, ...",
@@ -226,7 +226,7 @@
     "source": "arXiv - Qiushi Lin, Chaojie Zhang, Íñigo Goiri et al."
   },
   {
-    "id": "arxiv_1785856407623_4",
+    "id": "arxiv_1785864394242_4",
     "name": "ReMiX-MAE: Learning Missing-Channel Cross-Modal Representations from RGB-Only Clinical Facial Videos for Sympathetic-Mediated Pain Assessment",
     "category": "computer-vision",
     "description": "Automated pain assessment in real clinics is limited by scarce clinically grounded facial video data with weak labels (often sequence-level self-report) and by the fact that pain cues can be subtle or...",
@@ -235,11 +235,11 @@
       "AI"
     ],
     "date": "2026-08-03T17:43:53Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Nan Bi, Taoyue Wang, Lijun Yin et al."
   },
   {
-    "id": "arxiv_1785856407530_4",
+    "id": "arxiv_1785864394224_4",
     "name": "Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection",
     "category": "ai",
     "description": "Retrieval-augmented generation (RAG) imposes a prefill cost proportional to retrieved context length, and -- with Transformer backbones -- a KV-cache that grows with each generated token. State-Space ...",
@@ -254,7 +254,7 @@
     "source": "arXiv - Anusha Madan Gopal, Aras Pirbadian, Kristofor D. Carlson et al."
   },
   {
-    "id": "arxiv_1785856407803_3",
+    "id": "arxiv_1785864394275_3",
     "name": "Romanized Arabic Across Dialects: Views, Usage Patterns, and Linguistic Variation",
     "category": "nlp",
     "description": "Arabizi refers to Arabic written in Latin script. Although previous studies have shown that the prevalence and usage of Arabizi vary by factors such as region and age group, most NLP research on Arabi...",
@@ -263,11 +263,11 @@
       "NLP"
     ],
     "date": "2026-08-03T17:39:45Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Amr Keleg, Ahmed Amine Ben Abdallah, Taha Yassine et al."
   },
   {
-    "id": "arxiv_1785856407803_4",
+    "id": "arxiv_1785864394275_4",
     "name": "Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation",
     "category": "nlp",
     "description": "Fairness evaluation concerns not only what a model produces, but also what its outputs ought to be compared against. When a model generates \"a CEO in the United States,\" the prompt leaves demographic ...",
@@ -276,7 +276,7 @@
       "AI"
     ],
     "date": "2026-08-03T17:35:31Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zeshen Zheng, Yujia He, Qianmian Lin et al."
   }
 ]
