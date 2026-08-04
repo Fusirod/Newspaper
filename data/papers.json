@@ -1,35 +1,147 @@
 [
   {
-    "id": "arxiv_1785801405449_0",
-    "name": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
-    "category": "computer-vision",
-    "description": "Robust low-light imaging remains challenging for the community. Recent studies have explored fusing Near-Infrared (NIR) with noisy RGB to achieve improved enhancement, yet most methods depend on caref...",
-    "link": "http://arxiv.org/abs/2607.29684v1",
+    "id": "arxiv_1785807886094_0",
+    "name": "Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth",
+    "category": "ai",
+    "description": "Depth-routing residual architectures allow Transformer layers to retrieve earlier representations instead of inheriting only the immediately preceding state. Existing Block Attention Residuals, howeve...",
+    "link": "http://arxiv.org/abs/2608.01075v1",
     "tags": [
       "AI",
-      "Neural",
+      "Transformer"
+    ],
+    "date": "2026-08-02T08:19:39Z",
+    "trending": true,
+    "source": "arXiv - Kehan Wang"
+  },
+  {
+    "id": "arxiv_1785807886171_0",
+    "name": "Logit-Origin Centering for Singleton Test-Time Adaptation",
+    "category": "computer-vision",
+    "description": "Tabular data is used extensively in many real-world use cases. Deep learning models have been developed to deal with tabular data, but generally perform poorly when the test data distribution differs ...",
+    "link": "http://arxiv.org/abs/2608.01074v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-08-02T08:18:56Z",
+    "trending": true,
+    "source": "arXiv - Mayank Sharma, Rohit Kumar Mourya, Pratik Mazumder"
+  },
+  {
+    "id": "arxiv_1785807886171_1",
+    "name": "PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Reconstruction",
+    "category": "computer-vision",
+    "description": "Autoregressive rigging models such as UniRig and SkinTokens perform well on articulated characters, but their ability to generalize to plant structures remains largely unexplored, since plant topologi...",
+    "link": "http://arxiv.org/abs/2608.01072v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-02T08:13:51Z",
+    "trending": false,
+    "source": "arXiv - Nathan Hu, Yang Yang, Fumio Okura"
+  },
+  {
+    "id": "arxiv_1785807886172_2",
+    "name": "ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models",
+    "category": "computer-vision",
+    "description": "Training-free test-time defenses offer a practical way to improve the adversarial robustness of CLIP-style vision--language models without modifying the pretrained model. However, their correction str...",
+    "link": "http://arxiv.org/abs/2608.01067v1",
+    "tags": [
+      "AI",
       "Vision"
     ],
-    "date": "2026-07-31T17:59:18Z",
+    "date": "2026-08-02T08:06:45Z",
     "trending": true,
-    "source": "arXiv - Muyao Niu, Mingze Ma, Yifan Zhan et al."
+    "source": "arXiv - Hashmat Shadab Malik, Toluwani Aremu, Samuele Poppi et al."
   },
   {
-    "id": "arxiv_1785801405449_1",
-    "name": "Scaling Properties of Text Conditioning in Visual Generation",
+    "id": "arxiv_1785807886172_3",
+    "name": "One Query, Many Scales: Sparse Mixture-of-Experts for Efficient Hierarchical Cross-View Geo-Localization",
     "category": "computer-vision",
-    "description": "We study empirical scaling properties for text conditioning in visual generation. Such properties have rarely been measured because diffusion loss does not scale with the number of tokens in natural-l...",
-    "link": "http://arxiv.org/abs/2607.29679v1",
+    "description": "Cross-view geo-localization (CVGL) retrieves geo-tagged satellite imagery for a ground-view query. Most systems exhaustively search a flat, fixed-resolution gallery, incurring high cost over large are...",
+    "link": "http://arxiv.org/abs/2608.01060v1",
     "tags": [
       "AI",
-      "Diffusion"
+      "Vision"
     ],
-    "date": "2026-07-31T17:56:52Z",
-    "trending": true,
-    "source": "arXiv - Zilong Chen, Chaorui Deng, Kunchang Li et al."
+    "date": "2026-08-02T07:53:17Z",
+    "trending": false,
+    "source": "arXiv - Ruijie Fan, Junyan Ye, Qi Zhu et al."
   },
   {
-    "id": "arxiv_1785801405641_0",
+    "id": "arxiv_1785807886172_4",
+    "name": "Extended KAFR: A kinematic-adaptive paradigm for the efficient analysis of surgical video",
+    "category": "computer-vision",
+    "description": "Artificial Intelligence is increasingly applied to surgical video analysis for phase segmentation, skill assessment, and workflow optimization. A key challenge is the length of surgical recordings, of...",
+    "link": "http://arxiv.org/abs/2608.01058v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-08-02T07:48:48Z",
+    "trending": false,
+    "source": "arXiv - Huu Phong Nguyen, Shekhar Madhav Khairnar, Ganesh Sankaranarayanan"
+  },
+  {
+    "id": "arxiv_1785807886094_1",
+    "name": "Control Under Compression: Reliability Frontiers for Tool-Using Agents",
+    "category": "ai",
+    "description": "Tool-using language-model agents are governed not only by task prompts but also by persistent system-side instructions that specify tools, arguments, policies, execution protocols, and recovery. Compr...",
+    "link": "http://arxiv.org/abs/2608.01056v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-02T07:43:44Z",
+    "trending": false,
+    "source": "arXiv - Yinghan Hou, Zongyou Yang"
+  },
+  {
+    "id": "arxiv_1785807886094_2",
+    "name": "Credit the Right Box: Marginal Contribution Assignment for Structured Visual Perception",
+    "category": "ai",
+    "description": "Multimodal Large Language Models (MLLMs) are increasingly expected to solve structured perception tasks that require visual recognition, language-to-object binding, object cardinality preservation, an...",
+    "link": "http://arxiv.org/abs/2608.01055v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-08-02T07:43:09Z",
+    "trending": true,
+    "source": "arXiv - Xinheng Han, Jianfei Wang, Yu Chen et al."
+  },
+  {
+    "id": "arxiv_1785807886094_3",
+    "name": "Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill Selection at Scale",
+    "category": "ai",
+    "description": "Production LLM agents that select from large skill libraries face a limitation that semantic relevance alone cannot resolve: a skill may match a user's topic yet be impossible to execute in the curren...",
+    "link": "http://arxiv.org/abs/2608.01050v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-02T07:32:49Z",
+    "trending": false,
+    "source": "arXiv - Ortal Ashkenazi, Vitalii Kloz, Mykhailo Ulianchenko"
+  },
+  {
+    "id": "arxiv_1785807886095_4",
+    "name": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
+    "category": "ai",
+    "description": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of the physical world. In this emerging landscape, Joint Embedding Predictive Arch...",
+    "link": "http://arxiv.org/abs/2608.01049v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-02T07:32:46Z",
+    "trending": false,
+    "source": "arXiv - Kapil Wanaskar, Gaytri Jena, Aman Chadha et al."
+  },
+  {
+    "id": "arxiv_1785807886324_0",
     "name": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
     "category": "nlp",
     "description": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small...",
@@ -40,24 +152,11 @@
       "GPT"
     ],
     "date": "2026-07-31T17:56:30Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhenyu Zhang, Zhichao Cao"
   },
   {
-    "id": "arxiv_1785801405345_0",
-    "name": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
-    "category": "ai",
-    "description": "Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output ...",
-    "link": "http://arxiv.org/abs/2607.29677v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-31T17:55:58Z",
-    "trending": true,
-    "source": "arXiv - Boyang Zhang, Adrian Lyjak, Eli Stewart et al."
-  },
-  {
-    "id": "arxiv_1785801405544_0",
+    "id": "arxiv_1785807886248_0",
     "name": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
     "category": "machine-learning",
     "description": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study diffe...",
@@ -70,7 +169,7 @@
     "source": "arXiv - Arkajyoti Bhattacharjee, Arnab Auddy"
   },
   {
-    "id": "arxiv_1785801405544_1",
+    "id": "arxiv_1785807886248_1",
     "name": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
     "category": "machine-learning",
     "description": "SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low communication budget. ...",
@@ -84,7 +183,7 @@
     "source": "arXiv - Maria Smirnova, Alexey Kravatskiy"
   },
   {
-    "id": "arxiv_1785801405544_2",
+    "id": "arxiv_1785807886248_2",
     "name": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
     "category": "machine-learning",
     "description": "PDE discovery from sparse observations requires reconstructing a continuous field and selecting the correct differential terms. Our analysis of optimization paths in coupled neural PDE discovery revea...",
@@ -100,7 +199,7 @@
     "source": "arXiv - Juncheng Zhong, Chenghuang Shen, Jianfeng Liu et al."
   },
   {
-    "id": "arxiv_1785801405544_3",
+    "id": "arxiv_1785807886248_3",
     "name": "GQ-FSL: Green Quantized Federated Split Learning",
     "category": "machine-learning",
     "description": "Deploying state-of-the-art deep neural networks (DNNs) at the wireless edge is severely bottlenecked by the strict energy and resource constraints of mobile devices. While federated split learning (FS...",
@@ -115,20 +214,7 @@
     "source": "arXiv - Idan Roth, Lutz Lampe"
   },
   {
-    "id": "arxiv_1785801405345_1",
-    "name": "Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics",
-    "category": "ai",
-    "description": "Fault detection and diagnosis (FDD) technology is essential for improving HVAC system reliability, energy efficiency, and maintenance effectiveness. However, effective deployment of FDD solutions in b...",
-    "link": "http://arxiv.org/abs/2607.29657v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-31T17:37:34Z",
-    "trending": true,
-    "source": "arXiv - Yimin Chen, Brian Fricke, Bo Shen et al."
-  },
-  {
-    "id": "arxiv_1785801405642_1",
+    "id": "arxiv_1785807886324_1",
     "name": "Evolving language compositionality in a frequency-structured meaning space",
     "category": "nlp",
     "description": "The iterated learning model was introduced to investigate language evolution: the way in which the characteristic properties of human languages have been shaped, at least partly, by repeated transmiss...",
@@ -141,93 +227,7 @@
     "source": "arXiv - Fabio De Ponte, Eloise Gaines-White, Conor Houghton et al."
   },
   {
-    "id": "arxiv_1785801405450_2",
-    "name": "HierDoc: Hierarchical Page-to-Region Evidence Routing for Long-Document Visual Question Answering",
-    "category": "computer-vision",
-    "description": "Multi-page document visual question answering requires locating sparse evidence at both the page and region levels. Existing approaches typically emphasize one level over the other: page-centric metho...",
-    "link": "http://arxiv.org/abs/2607.29638v1",
-    "tags": [
-      "AI",
-      "GAN"
-    ],
-    "date": "2026-07-31T17:17:23Z",
-    "trending": true,
-    "source": "arXiv - Rongjian Gu, Wengang Zhou, Junyu Xiong et al."
-  },
-  {
-    "id": "arxiv_1785801405450_3",
-    "name": "CodeShrink: Adaptive Visual Compression for Efficient Multimodal Code Understanding",
-    "category": "computer-vision",
-    "description": "Rendering source code as images offers a promising way to reduce the input costs of Multimodal Large Language Models (MLLMs). Adjusting image resolution can trade visual token cost against content fid...",
-    "link": "http://arxiv.org/abs/2607.29637v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-07-31T17:15:51Z",
-    "trending": true,
-    "source": "arXiv - Wenxin Tang, Jingyu Xiao, Zhenyu Liu et al."
-  },
-  {
-    "id": "arxiv_1785801405450_4",
-    "name": "OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting",
-    "category": "computer-vision",
-    "description": "Single-image 3D hand avatar reconstruction is fundamentally ill-posed and particularly challenging due to limited visual evidence under severe self-occlusion and the complex pose-dependent deformation...",
-    "link": "http://arxiv.org/abs/2607.29633v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-31T17:09:46Z",
-    "trending": false,
-    "source": "arXiv - Zhisheng Han, Shiyao Wu, Jiayan Qiu et al."
-  },
-  {
-    "id": "arxiv_1785801405345_2",
-    "name": "AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers",
-    "category": "ai",
-    "description": "As LLMs evolve from code completion systems into autonomous scientific agents, evaluating their ability to conduct experiments has become increasingly important. Existing benchmarks typically focus on...",
-    "link": "http://arxiv.org/abs/2607.29626v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-07-31T16:58:00Z",
-    "trending": false,
-    "source": "arXiv - Tianyu Huai, Tingshuo Fan, Xinchi Chen et al."
-  },
-  {
-    "id": "arxiv_1785801405346_3",
-    "name": "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations",
-    "category": "ai",
-    "description": "Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinations...",
-    "link": "http://arxiv.org/abs/2607.29624v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-07-31T16:57:49Z",
-    "trending": true,
-    "source": "arXiv - Ilya Mikhelson"
-  },
-  {
-    "id": "arxiv_1785801405346_4",
-    "name": "CENDRe: Concept Extraction with Natural Domain Representations",
-    "category": "ai",
-    "description": "Convolutional neural networks (CNNs) are widely used for time-series classification, but their deployment in critical domains requires understanding the temporal and spectral patterns that drive their...",
-    "link": "http://arxiv.org/abs/2607.29621v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "CNN"
-    ],
-    "date": "2026-07-31T16:56:27Z",
-    "trending": false,
-    "source": "arXiv - Antonia Holzapfel, Andres Felipe Posada Moreno, Sebastian Trimpe"
-  },
-  {
-    "id": "arxiv_1785801405544_4",
+    "id": "arxiv_1785807886249_4",
     "name": "CENDRe: Concept Extraction with Natural Domain Representations",
     "category": "machine-learning",
     "description": "Convolutional neural networks (CNNs) are widely used for time-series classification, but their deployment in critical domains requires understanding the temporal and spectral patterns that drive their...",
@@ -238,11 +238,11 @@
       "CNN"
     ],
     "date": "2026-07-31T16:56:27Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Antonia Holzapfel, Andres Felipe Posada Moreno, Sebastian Trimpe"
   },
   {
-    "id": "arxiv_1785801405642_2",
+    "id": "arxiv_1785807886325_2",
     "name": "WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning",
     "category": "nlp",
     "description": "Reinforcement learning (RL) post-training of Vision-Language-Action (VLA) models has shown strong promise for robotic manipulation. Among RL methods, critic-based approaches rely on a value estimator ...",
@@ -257,7 +257,7 @@
     "source": "arXiv - Senyu Fei, Xiaopeng Yu, Siyin Wang et al."
   },
   {
-    "id": "arxiv_1785801405642_3",
+    "id": "arxiv_1785807886325_3",
     "name": "FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models",
     "category": "nlp",
     "description": "Reading a social situation often depends on behavior, not words alone. We introduce FriendBench, a benchmark for inferring whether two people are already familiar or are meeting as strangers, from a 2...",
@@ -270,7 +270,7 @@
     "source": "arXiv - Jeffrey M. Girard, Jason Z. Zheng, Jacqueline R. Vertino et al."
   },
   {
-    "id": "arxiv_1785801405642_4",
+    "id": "arxiv_1785807886325_4",
     "name": "ResKV: Reconstructing Omitted Attention Contributions for Fixed-Budget KV Cache Compression",
     "category": "nlp",
     "description": "KV cache compression is essential for efficient long-context inference. Existing eviction methods permanently discard unselected tokens and consequently remove their aggregate contribution to attentio...",
