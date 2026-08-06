@@ -1,293 +1,278 @@
 [
   {
-    "id": "arxiv_1785978918159_0",
-    "name": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
+    "id": "arxiv_1785991895986_0",
+    "name": "CoCo-IR: Contextual Composed Image Retrieval",
     "category": "computer-vision",
-    "description": "Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead....",
-    "link": "http://arxiv.org/abs/2608.04010v1",
+    "description": "Current instruction-based image retrieval systems are powerful but limited to single-turn interactions, failing to capture the iterative nature of complex, real-world visual searches. To overcome this...",
+    "link": "http://arxiv.org/abs/2608.05149v1",
     "tags": [
-      "AI",
-      "Vision",
-      "Transformer",
-      "LLM"
+      "AI"
     ],
-    "date": "2026-08-04T17:59:58Z",
-    "trending": true,
-    "source": "arXiv - Yang Yang, Qinyu Zhao, Mouxiang Chen et al."
-  },
-  {
-    "id": "arxiv_1785978918231_0",
-    "name": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
-    "category": "nlp",
-    "description": "Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead....",
-    "link": "http://arxiv.org/abs/2608.04010v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer",
-      "LLM"
-    ],
-    "date": "2026-08-04T17:59:58Z",
+    "date": "2026-08-05T17:59:57Z",
     "trending": false,
-    "source": "arXiv - Yang Yang, Qinyu Zhao, Mouxiang Chen et al."
+    "source": "arXiv - Shengcao Cao, Tanmaya Shekhar Dabral, Zhongli Ding et al."
   },
   {
-    "id": "arxiv_1785978918232_1",
-    "name": "SocietyBench: Forecasting Counterfactual Social-World Evolution",
+    "id": "arxiv_1785991896011_0",
+    "name": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
     "category": "nlp",
-    "description": "Large language models (LLMs), and the agents built on top of them, are now benchmarked heavily on whether they can finish a task -- fix a bug, drive a browser, operate a GUI. A complementary social ab...",
-    "link": "http://arxiv.org/abs/2608.04009v1",
+    "description": "Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection o...",
+    "link": "http://arxiv.org/abs/2608.05148v1",
     "tags": [
-      "AI",
-      "LLM"
+      "AI"
     ],
-    "date": "2026-08-04T17:59:56Z",
+    "date": "2026-08-05T17:59:44Z",
     "trending": false,
-    "source": "arXiv - Zhenran Wang, Zhonghan Bian, Jinsong Li et al."
+    "source": "arXiv - Damien Sileo, Valentin Lacombe, Dimitri Kachler"
   },
   {
-    "id": "arxiv_1785978918232_2",
-    "name": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
-    "category": "nlp",
-    "description": "Benchmarks that measure the forecasting ability of large language models are almost always retrospective: the event has happened, the answer is somewhere on the Web, and the evaluation must defend its...",
-    "link": "http://arxiv.org/abs/2608.04008v1",
+    "id": "arxiv_1785991895986_1",
+    "name": "Objects as Audio-Visual Modal Sound Fields",
+    "category": "computer-vision",
+    "description": "While modern 3D reconstruction excels at modeling object geometry and appearance, it largely ignores the rich acoustic cues revealed through physical interaction. Object impact sounds convey material,...",
+    "link": "http://arxiv.org/abs/2608.05145v1",
     "tags": [
-      "AI",
-      "LLM"
+      "Vision"
     ],
-    "date": "2026-08-04T17:59:55Z",
+    "date": "2026-08-05T17:59:19Z",
     "trending": false,
-    "source": "arXiv - Zhenran Wang, Zhonghan Bian, Jinsong Li et al."
+    "source": "arXiv - Zisen Shao, Zihao Wei, Derong Jin et al."
   },
   {
-    "id": "arxiv_1785978918123_0",
-    "name": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
+    "id": "arxiv_1785991895972_0",
+    "name": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
     "category": "ai",
-    "description": "Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, li...",
-    "link": "http://arxiv.org/abs/2608.04007v1",
+    "description": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified object...",
+    "link": "http://arxiv.org/abs/2608.05144v1",
     "tags": [
       "AI",
-      "Vision",
-      "LLM",
+      "GPT",
       "Reinforcement Learning"
     ],
-    "date": "2026-08-04T17:59:21Z",
-    "trending": false,
-    "source": "arXiv - Changle Qu, Sunhao Dai, Hengyi Cai et al."
+    "date": "2026-08-05T17:58:58Z",
+    "trending": true,
+    "source": "arXiv - Boxiu Li, Zimo Wen, Yijia Fan et al."
   },
   {
-    "id": "arxiv_1785978918232_3",
-    "name": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
+    "id": "arxiv_1785991895973_1",
+    "name": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+    "category": "ai",
+    "description": "Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora...",
+    "link": "http://arxiv.org/abs/2608.05141v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-05T17:58:15Z",
+    "trending": false,
+    "source": "arXiv - Indraneil Paul, Falko Helm, Goran Glavaš et al."
+  },
+  {
+    "id": "arxiv_1785991895997_0",
+    "name": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+    "category": "machine-learning",
+    "description": "Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora...",
+    "link": "http://arxiv.org/abs/2608.05141v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-05T17:58:15Z",
+    "trending": false,
+    "source": "arXiv - Indraneil Paul, Falko Helm, Goran Glavaš et al."
+  },
+  {
+    "id": "arxiv_1785991895997_1",
+    "name": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
+    "category": "machine-learning",
+    "description": "Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. W...",
+    "link": "http://arxiv.org/abs/2608.05139v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-05T17:57:16Z",
+    "trending": true,
+    "source": "arXiv - Yinghui He, Ling Yang, Jiarui Liu et al."
+  },
+  {
+    "id": "arxiv_1785991896011_1",
+    "name": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
     "category": "nlp",
-    "description": "Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, li...",
-    "link": "http://arxiv.org/abs/2608.04007v1",
+    "description": "Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. W...",
+    "link": "http://arxiv.org/abs/2608.05139v1",
     "tags": [
       "AI",
-      "Vision",
-      "LLM",
-      "Reinforcement Learning"
+      "LLM"
     ],
-    "date": "2026-08-04T17:59:21Z",
+    "date": "2026-08-05T17:57:16Z",
     "trending": false,
-    "source": "arXiv - Changle Qu, Sunhao Dai, Hengyi Cai et al."
+    "source": "arXiv - Yinghui He, Ling Yang, Jiarui Liu et al."
   },
   {
-    "id": "arxiv_1785978918232_4",
-    "name": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
+    "id": "arxiv_1785991895973_2",
+    "name": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
+    "category": "ai",
+    "description": "Modern Greek is absent from NVIDIA's Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, fina...",
+    "link": "http://arxiv.org/abs/2608.05138v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-08-05T17:56:40Z",
+    "trending": false,
+    "source": "arXiv - Ayoub Kirouane, Christos Petrocheilos"
+  },
+  {
+    "id": "arxiv_1785991896011_2",
+    "name": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
     "category": "nlp",
-    "description": "Recursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain pref...",
-    "link": "http://arxiv.org/abs/2608.04003v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-04T17:58:05Z",
-    "trending": true,
-    "source": "arXiv - Shuhan Xue, Zixin Ding, Yichen Shen et al."
-  },
-  {
-    "id": "arxiv_1785978918123_1",
-    "name": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
-    "category": "ai",
-    "description": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend del...",
-    "link": "http://arxiv.org/abs/2608.04001v1",
+    "description": "Modern Greek is absent from NVIDIA's Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, fina...",
+    "link": "http://arxiv.org/abs/2608.05138v1",
     "tags": [
       "AI",
-      "GAN",
+      "Vision"
+    ],
+    "date": "2026-08-05T17:56:40Z",
+    "trending": false,
+    "source": "arXiv - Ayoub Kirouane, Christos Petrocheilos"
+  },
+  {
+    "id": "arxiv_1785991895986_2",
+    "name": "SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding",
+    "category": "computer-vision",
+    "description": "Understanding 3D scenes is fundamental to embodied intelligence, requiring joint reasoning over heterogeneous information from multiple modalities, including visual and geometric cues. However, the re...",
+    "link": "http://arxiv.org/abs/2608.05137v1",
+    "tags": [
+      "AI",
       "LLM"
     ],
-    "date": "2026-08-04T17:57:20Z",
-    "trending": false,
-    "source": "arXiv - Mohsen Hariri, Weicong Chen, Nahal Shahini et al."
+    "date": "2026-08-05T17:56:35Z",
+    "trending": true,
+    "source": "arXiv - Yue Zhang, Yingzhao Jian, Yunqiu Xu et al."
   },
   {
-    "id": "arxiv_1785978918195_0",
-    "name": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
+    "id": "arxiv_1785991895998_2",
+    "name": "The Loss Does Not See the Basis, but Adam Does",
     "category": "machine-learning",
-    "description": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend del...",
-    "link": "http://arxiv.org/abs/2608.04001v1",
+    "description": "Gradient descent on a factored model $W = UV^\\top$ is implicitly biased toward low-rank solutions, while Adam, starting from the same small initialization, is not. We trace the difference to the gauge...",
+    "link": "http://arxiv.org/abs/2608.05136v1",
     "tags": [
       "AI",
-      "GAN",
+      "Transformer"
+    ],
+    "date": "2026-08-05T17:56:26Z",
+    "trending": false,
+    "source": "arXiv - Devender Singh"
+  },
+  {
+    "id": "arxiv_1785991895986_3",
+    "name": "Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings",
+    "category": "computer-vision",
+    "description": "Predicting how a subcortical structure's shape will evolve from a few prior scans could support prognosis and clinical-trial enrichment. Existing longitudinal mesh predictors either extrapolate shape ...",
+    "link": "http://arxiv.org/abs/2608.05132v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-08-05T17:53:33Z",
+    "trending": true,
+    "source": "arXiv - Hao Ding, Daniel Semchin, Paul M. Thompson et al."
+  },
+  {
+    "id": "arxiv_1785991895998_3",
+    "name": "Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings",
+    "category": "machine-learning",
+    "description": "Predicting how a subcortical structure's shape will evolve from a few prior scans could support prognosis and clinical-trial enrichment. Existing longitudinal mesh predictors either extrapolate shape ...",
+    "link": "http://arxiv.org/abs/2608.05132v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-08-05T17:53:33Z",
+    "trending": false,
+    "source": "arXiv - Hao Ding, Daniel Semchin, Paul M. Thompson et al."
+  },
+  {
+    "id": "arxiv_1785991895973_3",
+    "name": "OPD-V: Visual On-Policy Self-Distillation with Modality Balance",
+    "category": "ai",
+    "description": "On-Policy Self-Distillation (OPSD) has become a standard post-training approach for improving visual reasoning in multimodal large language models (MLLMs). Existing methods draw privileged information...",
+    "link": "http://arxiv.org/abs/2608.05131v1",
+    "tags": [
+      "AI",
       "LLM"
     ],
-    "date": "2026-08-04T17:57:20Z",
-    "trending": false,
-    "source": "arXiv - Mohsen Hariri, Weicong Chen, Nahal Shahini et al."
-  },
-  {
-    "id": "arxiv_1785978918159_1",
-    "name": "Perceptual Anchoring: Prototype-Guided Text Calibration for Training-free Open-Vocabulary Semantic Segmentation",
-    "category": "computer-vision",
-    "description": "Training-free open-vocabulary semantic segmentation (OVSS) partitions an image into semantically distinct regions based on arbitrary text descriptions, without learning any additional parameters. Howe...",
-    "link": "http://arxiv.org/abs/2608.03991v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-04T17:52:13Z",
-    "trending": false,
-    "source": "arXiv - Wanli Ma, Jiangwen Lu, Qinmu Peng et al."
-  },
-  {
-    "id": "arxiv_1785978918195_1",
-    "name": "Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation",
-    "category": "machine-learning",
-    "description": "Synthetic histopathology image generation has emerged as an approach that may address data scarcity in computational pathology, yet current evaluation methodologies may not fully assess synthetic data...",
-    "link": "http://arxiv.org/abs/2608.03990v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-08-04T17:51:40Z",
-    "trending": false,
-    "source": "arXiv - Seyed Kahaki, Shijie Li, Weijie Chen et al."
-  },
-  {
-    "id": "arxiv_1785978918124_2",
-    "name": "Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?",
-    "category": "ai",
-    "description": "Optimizing compilers miss profitable transformations when their enabling semantics are absent from the analyzed program representation. We ask whether large language models (LLMs) can recover such sem...",
-    "link": "http://arxiv.org/abs/2608.03983v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-08-04T17:47:25Z",
+    "date": "2026-08-05T17:53:06Z",
     "trending": true,
-    "source": "arXiv - Hailong Jiang, Feng Yu, Emran Hossain et al."
+    "source": "arXiv -  Aniri, Jinhe Bi, Peng Liao et al."
   },
   {
-    "id": "arxiv_1785978918124_3",
-    "name": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
-    "category": "ai",
-    "description": "We introduce Video-DeepResearch (Video-DR), extending multimodal agents from static images to continuous video streams, a setting that demands dense spatiotemporal grounding coupled with open-web expl...",
-    "link": "http://arxiv.org/abs/2608.03979v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GPT",
-      "Optimization"
-    ],
-    "date": "2026-08-04T17:45:16Z",
-    "trending": true,
-    "source": "arXiv - Zhen Fang, Yu Zeng, Wenxuan Huang et al."
-  },
-  {
-    "id": "arxiv_1785978918159_2",
-    "name": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+    "id": "arxiv_1785991895986_4",
+    "name": "OPD-V: Visual On-Policy Self-Distillation with Modality Balance",
     "category": "computer-vision",
-    "description": "We introduce Video-DeepResearch (Video-DR), extending multimodal agents from static images to continuous video streams, a setting that demands dense spatiotemporal grounding coupled with open-web expl...",
-    "link": "http://arxiv.org/abs/2608.03979v1",
+    "description": "On-Policy Self-Distillation (OPSD) has become a standard post-training approach for improving visual reasoning in multimodal large language models (MLLMs). Existing methods draw privileged information...",
+    "link": "http://arxiv.org/abs/2608.05131v1",
     "tags": [
       "AI",
-      "Vision",
-      "GPT",
-      "Optimization"
-    ],
-    "date": "2026-08-04T17:45:16Z",
-    "trending": false,
-    "source": "arXiv - Zhen Fang, Yu Zeng, Wenxuan Huang et al."
-  },
-  {
-    "id": "arxiv_1785978918159_3",
-    "name": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-    "category": "computer-vision",
-    "description": "Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a ...",
-    "link": "http://arxiv.org/abs/2608.03974v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-08-04T17:40:48Z",
-    "trending": false,
-    "source": "arXiv - Yicheng Xiao, Wenxun Dai, Xinran Qin et al."
-  },
-  {
-    "id": "arxiv_1785978918124_4",
-    "name": "ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning",
-    "category": "ai",
-    "description": "On-policy training has emerged as a powerful post-training paradigm for improving the reasoning capabilities of large language models, and is often enhanced by golden trajectories from stronger expert...",
-    "link": "http://arxiv.org/abs/2608.03972v1",
-    "tags": [
-      "AI",
-      "Vision",
       "LLM"
     ],
-    "date": "2026-08-04T17:40:08Z",
+    "date": "2026-08-05T17:53:06Z",
     "trending": false,
-    "source": "arXiv - Jinhe Bi, Chennan Zhou, Zengjie Jin et al."
+    "source": "arXiv -  Aniri, Jinhe Bi, Peng Liao et al."
   },
   {
-    "id": "arxiv_1785978918159_4",
-    "name": "UniWorld-Design: From Pixel Generation to Layer-Native Design",
-    "category": "computer-vision",
-    "description": "We introduce UniWorld-Design, a framework that redefines image generation from flat pixel synthesis to structured visual composition, with semantic RGBA layers as the atomic units of generation, under...",
-    "link": "http://arxiv.org/abs/2608.03971v1",
-    "tags": [],
-    "date": "2026-08-04T17:39:37Z",
-    "trending": false,
-    "source": "arXiv - Zongjian Li, Zhiyuan Yan, Chenxu Bai et al."
-  },
-  {
-    "id": "arxiv_1785978918195_2",
-    "name": "Information-Geometric Forward Policy Training in GFlowNets",
-    "category": "machine-learning",
-    "description": "Generative Flow Networks (GFlowNets) have emerged as a flexible framework for amortised inference over discrete and mixed discrete-continuous objects, requiring only an unnormalised target density spe...",
-    "link": "http://arxiv.org/abs/2608.03967v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-04T17:34:14Z",
-    "trending": false,
-    "source": "arXiv - Yordan Raykov, Rodrigo Veiga"
-  },
-  {
-    "id": "arxiv_1785978918195_3",
-    "name": "Muon Meets Mamba: Spectral Optimization for State Space Models",
-    "category": "machine-learning",
-    "description": "Muon is a recent optimizer that orthogonalizes the update to each weight matrix with a Newton-Schulz iteration, which performs steepest descent under the spectral norm. Almost all the evidence for it ...",
-    "link": "http://arxiv.org/abs/2608.03941v1",
+    "id": "arxiv_1785991895973_4",
+    "name": "SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant",
+    "category": "ai",
+    "description": "Achieving local differential privacy in distributed optimization while maintaining low communication cost remains challenging. Existing vector quantization methods, such as vqSGD, use high-dimensional...",
+    "link": "http://arxiv.org/abs/2608.05127v1",
     "tags": [
       "AI",
-      "Transformer",
       "Optimization"
     ],
-    "date": "2026-08-04T17:10:47Z",
-    "trending": false,
-    "source": "arXiv - Arslan Battalov, Karim Kramin, Alexander Markotenko et al."
+    "date": "2026-08-05T17:51:25Z",
+    "trending": true,
+    "source": "arXiv - Adel Javanmard, David P. Woodruff, Vahab Mirrokni"
   },
   {
-    "id": "arxiv_1785978918195_4",
-    "name": "Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility",
+    "id": "arxiv_1785991895998_4",
+    "name": "SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant",
     "category": "machine-learning",
-    "description": "Pre-pretraining language models (LMs) on symbolic data can accelerate and improve natural language acquisition. However, existing pre-pretraining tasks, such as Dyck and procedural algorithms, rely on...",
-    "link": "http://arxiv.org/abs/2608.03930v1",
+    "description": "Achieving local differential privacy in distributed optimization while maintaining low communication cost remains challenging. Existing vector quantization methods, such as vqSGD, use high-dimensional...",
+    "link": "http://arxiv.org/abs/2608.05127v1",
     "tags": [
       "AI",
-      "GAN"
+      "Optimization"
     ],
-    "date": "2026-08-04T17:02:34Z",
+    "date": "2026-08-05T17:51:25Z",
     "trending": false,
-    "source": "arXiv - Jo-Ku Cheng, Nikolaos Aletras, Marco Valentino"
+    "source": "arXiv - Adel Javanmard, David P. Woodruff, Vahab Mirrokni"
+  },
+  {
+    "id": "arxiv_1785991896011_3",
+    "name": "Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models",
+    "category": "nlp",
+    "description": "Spoken Language Understanding (SLU) is the core component of task-oriented dialogue systems and a pivotal link in achieving seamless human-agent interaction. While traditional SLU can effectively extr...",
+    "link": "http://arxiv.org/abs/2608.05126v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-05T17:50:31Z",
+    "trending": false,
+    "source": "arXiv - Yuezhang Peng, Yuxin Liu, Changfeng Gao et al."
+  },
+  {
+    "id": "arxiv_1785991896011_4",
+    "name": "Chained Recursive Language Models for Multi-Iteration Reasoning",
+    "category": "nlp",
+    "description": "Long context reasoning in large language models (LLMs) is usually constrained by the fact that a single inference trajectory has to simultaneously explore the context, store intermediate state, verify...",
+    "link": "http://arxiv.org/abs/2608.05124v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-05T17:50:08Z",
+    "trending": false,
+    "source": "arXiv - Purbesh Mitra, Sennur Ulukus"
   }
 ]
