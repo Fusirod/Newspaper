@@ -1,36 +1,8 @@
 [
   {
-    "id": "arxiv_1786216770600_0",
+    "id": "arxiv_1786220040468_0",
     "name": "Learning When to Trust via Selective Context Preference Optimization",
     "category": "ai",
-    "description": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides...",
-    "link": "http://arxiv.org/abs/2608.06377v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-08-06T17:59:58Z",
-    "trending": true,
-    "source": "arXiv - Xian Sun, Wei Chow, Yingshuo Wang et al."
-  },
-  {
-    "id": "arxiv_1786216770898_0",
-    "name": "Learning When to Trust via Selective Context Preference Optimization",
-    "category": "machine-learning",
-    "description": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides...",
-    "link": "http://arxiv.org/abs/2608.06377v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-08-06T17:59:58Z",
-    "trending": true,
-    "source": "arXiv - Xian Sun, Wei Chow, Yingshuo Wang et al."
-  },
-  {
-    "id": "arxiv_1786216771081_0",
-    "name": "Learning When to Trust via Selective Context Preference Optimization",
-    "category": "nlp",
     "description": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides...",
     "link": "http://arxiv.org/abs/2608.06377v1",
     "tags": [
@@ -42,7 +14,35 @@
     "source": "arXiv - Xian Sun, Wei Chow, Yingshuo Wang et al."
   },
   {
-    "id": "arxiv_1786216771081_1",
+    "id": "arxiv_1786220040496_0",
+    "name": "Learning When to Trust via Selective Context Preference Optimization",
+    "category": "machine-learning",
+    "description": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides...",
+    "link": "http://arxiv.org/abs/2608.06377v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-08-06T17:59:58Z",
+    "trending": false,
+    "source": "arXiv - Xian Sun, Wei Chow, Yingshuo Wang et al."
+  },
+  {
+    "id": "arxiv_1786220040510_0",
+    "name": "Learning When to Trust via Selective Context Preference Optimization",
+    "category": "nlp",
+    "description": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides...",
+    "link": "http://arxiv.org/abs/2608.06377v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-08-06T17:59:58Z",
+    "trending": true,
+    "source": "arXiv - Xian Sun, Wei Chow, Yingshuo Wang et al."
+  },
+  {
+    "id": "arxiv_1786220040510_1",
     "name": "The Bitter Lesson of Tool Calling",
     "category": "nlp",
     "description": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that ch...",
@@ -57,7 +57,7 @@
     "source": "arXiv - Ishan Patel, Sahil Sen, Elias Lumer et al."
   },
   {
-    "id": "arxiv_1786216770601_1",
+    "id": "arxiv_1786220040468_1",
     "name": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
     "category": "ai",
     "description": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure...",
@@ -67,11 +67,11 @@
       "LLM"
     ],
     "date": "2026-08-06T17:57:37Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi et al."
   },
   {
-    "id": "arxiv_1786216770898_1",
+    "id": "arxiv_1786220040497_1",
     "name": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
     "category": "machine-learning",
     "description": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure...",
@@ -85,7 +85,7 @@
     "source": "arXiv - Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi et al."
   },
   {
-    "id": "arxiv_1786216770601_2",
+    "id": "arxiv_1786220040468_2",
     "name": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
     "category": "ai",
     "description": "The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about dig...",
@@ -98,7 +98,7 @@
     "source": "arXiv - George Grispos, Sajda Qureshi"
   },
   {
-    "id": "arxiv_1786216770601_3",
+    "id": "arxiv_1786220040468_3",
     "name": "An Optimal Agnostic PAC Algorithm",
     "category": "ai",
     "description": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk boun...",
@@ -111,7 +111,7 @@
     "source": "arXiv - Markus Engelund Mathiasen, Jian Qian, Nikita Zhivotovskiy"
   },
   {
-    "id": "arxiv_1786216770898_2",
+    "id": "arxiv_1786220040497_2",
     "name": "An Optimal Agnostic PAC Algorithm",
     "category": "machine-learning",
     "description": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk boun...",
@@ -124,7 +124,7 @@
     "source": "arXiv - Markus Engelund Mathiasen, Jian Qian, Nikita Zhivotovskiy"
   },
   {
-    "id": "arxiv_1786216770601_4",
+    "id": "arxiv_1786220040468_4",
     "name": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
     "category": "ai",
     "description": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed...",
@@ -134,11 +134,11 @@
       "LLM"
     ],
     "date": "2026-08-06T17:57:11Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Boning Li, Yu Chen, Longbo Huang"
   },
   {
-    "id": "arxiv_1786216770898_3",
+    "id": "arxiv_1786220040497_3",
     "name": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
     "category": "machine-learning",
     "description": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed...",
@@ -148,11 +148,11 @@
       "LLM"
     ],
     "date": "2026-08-06T17:57:11Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Boning Li, Yu Chen, Longbo Huang"
   },
   {
-    "id": "arxiv_1786216771081_2",
+    "id": "arxiv_1786220040510_2",
     "name": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
     "category": "nlp",
     "description": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed...",
@@ -166,7 +166,7 @@
     "source": "arXiv - Boning Li, Yu Chen, Longbo Huang"
   },
   {
-    "id": "arxiv_1786216770898_4",
+    "id": "arxiv_1786220040497_4",
     "name": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
     "category": "machine-learning",
     "description": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not ...",
@@ -176,11 +176,11 @@
       "Vision"
     ],
     "date": "2026-08-06T17:53:18Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Fanzhe Meng, Guoxin Chen, Jiale Zhao et al."
   },
   {
-    "id": "arxiv_1786216771081_3",
+    "id": "arxiv_1786220040510_3",
     "name": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
     "category": "nlp",
     "description": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not ...",
@@ -194,7 +194,7 @@
     "source": "arXiv - Fanzhe Meng, Guoxin Chen, Jiale Zhao et al."
   },
   {
-    "id": "arxiv_1786216771081_4",
+    "id": "arxiv_1786220040510_4",
     "name": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
     "category": "nlp",
     "description": "Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have...",
@@ -206,11 +206,11 @@
       "LLM"
     ],
     "date": "2026-08-06T17:52:06Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xinye Wang, Junxiao Liu, Shujian Huang"
   },
   {
-    "id": "arxiv_1786216770619_0",
+    "id": "arxiv_1786220040482_0",
     "name": "Does FLAIR super-resolution erase or hallucinate small white-matter lesions?",
     "category": "computer-vision",
     "description": "White matter hyperintensities (WMH), bright regions on Fluid-attenuated Inversion Recovery (FLAIR) scans are associated with cerebrovascular pathology and neurodegeneration. FLAIR is usually acquired ...",
@@ -224,7 +224,7 @@
     "source": "arXiv - Zahra Khodakarami, Yue Li, Pulkit Khandelwal et al."
   },
   {
-    "id": "arxiv_1786216770619_1",
+    "id": "arxiv_1786220040482_1",
     "name": "UQ-Loc: Uncertainty-Aware LiDAR Scene Coordinate Regression",
     "category": "computer-vision",
     "description": "LiDAR-based Scene Coordinate Regression (SCR) maps point clouds directly to 3D scene coordinates, enabling precise 6-DoF localisation without explicit map retrieval. However, existing methods produce ...",
@@ -237,7 +237,7 @@
     "source": "arXiv - Jacek Komorowski"
   },
   {
-    "id": "arxiv_1786216770619_2",
+    "id": "arxiv_1786220040482_2",
     "name": "TLNM: Externally Validated Tooth Detection, Numbering and Segmentation from Smartphone Photographs Using Mask R-CNN",
     "category": "computer-vision",
     "description": "Oral health issues affect billions globally, but the cost and limited access to professional dental care hinder preventive oral healthcare. Research relies on clinical-grade radiographs or intraoral c...",
@@ -252,7 +252,7 @@
     "source": "arXiv - Arash Nedaei, Henna Tiensuu, Elina Väyrynen et al."
   },
   {
-    "id": "arxiv_1786216770619_3",
+    "id": "arxiv_1786220040482_3",
     "name": "OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations",
     "category": "computer-vision",
     "description": "The development of deep learning over the past decade has revolutionized medical imaging segmentation, allowing the extraction of precise descriptors from large volumes to characterize pathologies. Da...",
@@ -262,11 +262,11 @@
       "Deep Learning"
     ],
     "date": "2026-08-06T16:54:15Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Robin Trombetta, Carole Lartizien"
   },
   {
-    "id": "arxiv_1786216770620_4",
+    "id": "arxiv_1786220040482_4",
     "name": "MASS: Multiplayer World Models with Authoritative Shared State",
     "category": "computer-vision",
     "description": "Current video world models struggle in multiplayer environments because they entangle world state with view-dependent visual latents, leading to redundant compute, view inconsistencies, and poor scala...",
