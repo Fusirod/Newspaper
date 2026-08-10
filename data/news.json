@@ -1,6 +1,48 @@
 [
   {
-    "id": "rss_TechCrunch_1786352611957_0",
+    "id": "rss_Wired_1786359249049_0",
+    "title": "The Rise of the 1 am Job Interview",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
+    "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 10 Aug 2026 10:30:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1786359246453_0",
+    "title": "AI for science needs reasoning, not just data",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi",
+    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 10 Aug 2026 09:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1786359246453_1",
+    "title": "These startups are chasing the next big thing in LLMs",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they des",
+    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "tags": [
+      "AI",
+      "Google",
+      "LLM",
+      "Startup"
+    ],
+    "date": "Mon, 10 Aug 2026 09:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1786359243990_0",
     "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -14,7 +56,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1786352611957_1",
+    "id": "rss_TechCrunch_1786359243990_1",
     "title": "Anthropic is turning Claude Code’s auto mode on by default",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -25,7 +67,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1786352611957_2",
+    "id": "rss_TechCrunch_1786359243991_2",
     "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -36,7 +78,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1786352611957_3",
+    "id": "rss_TechCrunch_1786359243991_3",
     "title": "The AI safety test is becoming a safety risk",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -49,7 +91,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1786352615622_0",
+    "id": "rss_Ars_Technica_1786359247940_0",
     "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -57,10 +99,10 @@
     "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
     "tags": [],
     "date": "Sun, 09 Aug 2026 11:00:14 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1786352616731_0",
+    "id": "rss_Wired_1786359249049_1",
     "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
     "category": "ai-news",
     "source": "Wired",
@@ -73,7 +115,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1786352616731_1",
+    "id": "rss_Wired_1786359249049_2",
     "title": "These AI Barons Are Ready to Give Away Their Fortunes",
     "category": "ai-news",
     "source": "Wired",
@@ -83,10 +125,10 @@
       "AI"
     ],
     "date": "Sun, 09 Aug 2026 09:30:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1786352611957_4",
+    "id": "rss_TechCrunch_1786359243991_4",
     "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -97,7 +139,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1786352615622_1",
+    "id": "rss_Ars_Technica_1786359247940_1",
     "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -108,7 +150,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1786352615622_2",
+    "id": "rss_Ars_Technica_1786359247940_2",
     "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -119,7 +161,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1786352616731_2",
+    "id": "rss_Wired_1786359249049_3",
     "title": "How to Disable Gemini in Gmail and Google Docs",
     "category": "ai-news",
     "source": "Wired",
@@ -133,7 +175,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1786352615622_3",
+    "id": "rss_Ars_Technica_1786359247940_3",
     "title": "Europe's free satellite service just made it easier to track wildfires",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -144,7 +186,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1786352615622_4",
+    "id": "rss_Ars_Technica_1786359247940_4",
     "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -152,10 +194,10 @@
     "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
     "tags": [],
     "date": "Fri, 07 Aug 2026 21:09:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1786352614177_0",
+    "id": "rss_MIT_Tech_Review_1786359246453_2",
     "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -168,7 +210,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1786352616731_3",
+    "id": "rss_Wired_1786359249049_4",
     "title": "Scientists Used AI to Create 16 New Viruses",
     "category": "ai-news",
     "source": "Wired",
@@ -181,7 +223,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1786352614177_1",
+    "id": "rss_MIT_Tech_Review_1786359246453_3",
     "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -194,22 +236,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1786352616731_4",
-    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-    "tags": [
-      "AI",
-      "Google",
-      "Chatbot"
-    ],
-    "date": "Fri, 07 Aug 2026 10:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1786352614177_2",
+    "id": "rss_MIT_Tech_Review_1786359246453_4",
     "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -224,31 +251,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1786352614177_3",
-    "title": "Puzzle Corner",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June ",
-    "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-    "tags": [],
-    "date": "Wed, 05 Aug 2026 14:56:29 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1786352614177_4",
-    "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Tele",
-    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 05 Aug 2026 12:10:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1786352625644_0",
+    "id": "rss_Distill_1786359257679_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -258,10 +261,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1786352625644_1",
+    "id": "rss_Distill_1786359257679_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -271,10 +274,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1786352625644_2",
+    "id": "rss_Distill_1786359257679_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -285,7 +288,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1786352625644_3",
+    "id": "rss_Distill_1786359257679_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -295,10 +298,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1786352625644_4",
+    "id": "rss_Distill_1786359257679_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
