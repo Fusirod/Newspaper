@@ -1,279 +1,283 @@
 [
   {
-    "id": "arxiv_1786322662809_0",
-    "name": "Learning When to Trust via Selective Context Preference Optimization",
-    "category": "ai",
-    "description": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides...",
-    "link": "http://arxiv.org/abs/2608.06377v1",
+    "id": "arxiv_1786331001780_0",
+    "name": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving",
+    "category": "computer-vision",
+    "description": "World-Action Models (WAMs) improve end-to-end autonomous driving by transferring video dynamics priors to action prediction, but existing methods require costly future generation at inference. We pres...",
+    "link": "http://arxiv.org/abs/2608.07468v1",
     "tags": [
       "AI",
-      "Optimization"
+      "Reinforcement Learning"
     ],
-    "date": "2026-08-06T17:59:58Z",
+    "date": "2026-08-07T17:59:09Z",
     "trending": false,
-    "source": "arXiv - Xian Sun, Wei Chow, Yingshuo Wang et al."
+    "source": "arXiv - Zongchuang Zhao, Xin Zhou, Tianyang Xu et al."
   },
   {
-    "id": "arxiv_1786322662848_0",
-    "name": "Learning When to Trust via Selective Context Preference Optimization",
+    "id": "arxiv_1786331001780_1",
+    "name": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
+    "category": "computer-vision",
+    "description": "Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain ...",
+    "link": "http://arxiv.org/abs/2608.07463v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-08-07T17:58:10Z",
+    "trending": false,
+    "source": "arXiv - Youjun Zhao, Alex Warren, Gary K. L. Tam et al."
+  },
+  {
+    "id": "arxiv_1786331001805_0",
+    "name": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
     "category": "machine-learning",
-    "description": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides...",
-    "link": "http://arxiv.org/abs/2608.06377v1",
+    "description": "Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain ...",
+    "link": "http://arxiv.org/abs/2608.07463v1",
     "tags": [
       "AI",
-      "Optimization"
+      "Diffusion"
     ],
-    "date": "2026-08-06T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Xian Sun, Wei Chow, Yingshuo Wang et al."
+    "date": "2026-08-07T17:58:10Z",
+    "trending": true,
+    "source": "arXiv - Youjun Zhao, Alex Warren, Gary K. L. Tam et al."
   },
   {
-    "id": "arxiv_1786322662864_0",
-    "name": "Learning When to Trust via Selective Context Preference Optimization",
-    "category": "nlp",
-    "description": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides...",
-    "link": "http://arxiv.org/abs/2608.06377v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-08-06T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Xian Sun, Wei Chow, Yingshuo Wang et al."
-  },
-  {
-    "id": "arxiv_1786322662864_1",
-    "name": "The Bitter Lesson of Tool Calling",
-    "category": "nlp",
-    "description": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that ch...",
-    "link": "http://arxiv.org/abs/2608.06370v1",
+    "id": "arxiv_1786331001755_0",
+    "name": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
+    "category": "ai",
+    "description": "While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity ...",
+    "link": "http://arxiv.org/abs/2608.07460v1",
     "tags": [
       "AI",
       "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-08-07T17:55:48Z",
+    "trending": true,
+    "source": "arXiv - Ananya Sahu, Mohit Bansal, Elias Stengel-Eskin"
+  },
+  {
+    "id": "arxiv_1786331001830_0",
+    "name": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
+    "category": "nlp",
+    "description": "While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity ...",
+    "link": "http://arxiv.org/abs/2608.07460v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-08-07T17:55:48Z",
+    "trending": false,
+    "source": "arXiv - Ananya Sahu, Mohit Bansal, Elias Stengel-Eskin"
+  },
+  {
+    "id": "arxiv_1786331001756_1",
+    "name": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
+    "category": "ai",
+    "description": "Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant infor...",
+    "link": "http://arxiv.org/abs/2608.07458v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-08-07T17:51:49Z",
+    "trending": false,
+    "source": "arXiv - Gyuwan Kim, Cheoneum Park, Tao Yang"
+  },
+  {
+    "id": "arxiv_1786331001805_1",
+    "name": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
+    "category": "machine-learning",
+    "description": "Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant infor...",
+    "link": "http://arxiv.org/abs/2608.07458v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-08-07T17:51:49Z",
+    "trending": true,
+    "source": "arXiv - Gyuwan Kim, Cheoneum Park, Tao Yang"
+  },
+  {
+    "id": "arxiv_1786331001830_1",
+    "name": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
+    "category": "nlp",
+    "description": "Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant infor...",
+    "link": "http://arxiv.org/abs/2608.07458v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-08-07T17:51:49Z",
+    "trending": false,
+    "source": "arXiv - Gyuwan Kim, Cheoneum Park, Tao Yang"
+  },
+  {
+    "id": "arxiv_1786331001756_2",
+    "name": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
+    "category": "ai",
+    "description": "What will happen when AI agents interact in daily life, e.g. when one AI starts bossing another around? We find a counterintuitive answer that opens new avenues for out-of-equilibrium Physics. When a ...",
+    "link": "http://arxiv.org/abs/2608.07457v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-07T17:49:55Z",
+    "trending": false,
+    "source": "arXiv - Bella Xinrui Li, Frank Yingjie Huo, Neil F Johnson"
+  },
+  {
+    "id": "arxiv_1786331001756_3",
+    "name": "Strategy-first synthesis planning for complex natural products",
+    "category": "ai",
+    "description": "The total synthesis of a complex molecule is among the most demanding intellectual and experimental feats in chemistry: a chemist must plan many steps ahead for how to assemble simple building blocks ...",
+    "link": "http://arxiv.org/abs/2608.07454v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-07T17:47:39Z",
+    "trending": false,
+    "source": "arXiv - Daniel Armstrong, Xuan-Vu Nguyen, Octavian Susanu et al."
+  },
+  {
+    "id": "arxiv_1786331001756_4",
+    "name": "SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent",
+    "category": "ai",
+    "description": "LLM agents increasingly adapt to recurring tasks by accumulating procedural knowledge in skills. These skills are lightweight, reusable textual artifacts that are loaded into the agent's context witho...",
+    "link": "http://arxiv.org/abs/2608.07449v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-07T17:40:33Z",
+    "trending": false,
+    "source": "arXiv - Mingxuan Zheng, Yujin Zhou, Chuxue Cao et al."
+  },
+  {
+    "id": "arxiv_1786331001830_2",
+    "name": "SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent",
+    "category": "nlp",
+    "description": "LLM agents increasingly adapt to recurring tasks by accumulating procedural knowledge in skills. These skills are lightweight, reusable textual artifacts that are loaded into the agent's context witho...",
+    "link": "http://arxiv.org/abs/2608.07449v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-07T17:40:33Z",
+    "trending": true,
+    "source": "arXiv - Mingxuan Zheng, Yujin Zhou, Chuxue Cao et al."
+  },
+  {
+    "id": "arxiv_1786331001805_2",
+    "name": "RIS-Aided mmWave Localization Under Cross-Link Interference via Beam-Domain ML Fingerprinting",
+    "category": "machine-learning",
+    "description": "Accurate user equipment (UE) localization is critical for beam management in reconfigurable intelligent surface (RIS)-assisted millimeter-wave (mmWave) based sixth-generation (6G) networks, especially...",
+    "link": "http://arxiv.org/abs/2608.07444v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-07T17:28:33Z",
+    "trending": false,
+    "source": "arXiv - Md Tarek Hassan, Dmitry Zelenchuk, Muhammad Ali Babar Abbasi"
+  },
+  {
+    "id": "arxiv_1786331001830_3",
+    "name": "An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Sentences for DisCoCat-Based Sentiment Analysis",
+    "category": "nlp",
+    "description": "Quantum natural language processing (QNLP) provides a grammar-aware framework for text modeling, and Distributional Compositional Categorical (DisCoCat) is one of its theoretically grounded formulatio...",
+    "link": "http://arxiv.org/abs/2608.07439v1",
+    "tags": [
+      "AI",
+      "NLP",
+      "LLM",
       "GPT"
     ],
-    "date": "2026-08-06T17:58:32Z",
-    "trending": false,
-    "source": "arXiv - Ishan Patel, Sahil Sen, Elias Lumer et al."
-  },
-  {
-    "id": "arxiv_1786322662809_1",
-    "name": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
-    "category": "ai",
-    "description": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure...",
-    "link": "http://arxiv.org/abs/2608.06366v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-08-06T17:57:37Z",
+    "date": "2026-08-07T17:23:01Z",
     "trending": true,
-    "source": "arXiv - Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi et al."
+    "source": "arXiv - Brian Llinas, Nikos Chrisochoides"
   },
   {
-    "id": "arxiv_1786322662848_1",
-    "name": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
-    "category": "machine-learning",
-    "description": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure...",
-    "link": "http://arxiv.org/abs/2608.06366v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-08-06T17:57:37Z",
-    "trending": false,
-    "source": "arXiv - Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi et al."
-  },
-  {
-    "id": "arxiv_1786322662809_2",
-    "name": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
-    "category": "ai",
-    "description": "The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about dig...",
-    "link": "http://arxiv.org/abs/2608.06364v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-06T17:57:28Z",
-    "trending": false,
-    "source": "arXiv - George Grispos, Sajda Qureshi"
-  },
-  {
-    "id": "arxiv_1786322662809_3",
-    "name": "An Optimal Agnostic PAC Algorithm",
-    "category": "ai",
-    "description": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk boun...",
-    "link": "http://arxiv.org/abs/2608.06363v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-06T17:57:25Z",
-    "trending": true,
-    "source": "arXiv - Markus Engelund Mathiasen, Jian Qian, Nikita Zhivotovskiy"
-  },
-  {
-    "id": "arxiv_1786322662848_2",
-    "name": "An Optimal Agnostic PAC Algorithm",
-    "category": "machine-learning",
-    "description": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk boun...",
-    "link": "http://arxiv.org/abs/2608.06363v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-06T17:57:25Z",
-    "trending": true,
-    "source": "arXiv - Markus Engelund Mathiasen, Jian Qian, Nikita Zhivotovskiy"
-  },
-  {
-    "id": "arxiv_1786322662809_4",
-    "name": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
-    "category": "ai",
-    "description": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed...",
-    "link": "http://arxiv.org/abs/2608.06362v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-08-06T17:57:11Z",
-    "trending": false,
-    "source": "arXiv - Boning Li, Yu Chen, Longbo Huang"
-  },
-  {
-    "id": "arxiv_1786322662849_3",
-    "name": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
-    "category": "machine-learning",
-    "description": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed...",
-    "link": "http://arxiv.org/abs/2608.06362v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-08-06T17:57:11Z",
-    "trending": true,
-    "source": "arXiv - Boning Li, Yu Chen, Longbo Huang"
-  },
-  {
-    "id": "arxiv_1786322662865_2",
-    "name": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+    "id": "arxiv_1786331001830_4",
+    "name": "PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents",
     "category": "nlp",
-    "description": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed...",
-    "link": "http://arxiv.org/abs/2608.06362v1",
+    "description": "Human-like cognition does not select past experience by topical similarity alone: affective significance and unresolved conflict also shape what becomes accessible. We present PsychoAgent, a cognitive...",
+    "link": "http://arxiv.org/abs/2608.07438v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-08-06T17:57:11Z",
+    "date": "2026-08-07T17:22:29Z",
     "trending": false,
-    "source": "arXiv - Boning Li, Yu Chen, Longbo Huang"
+    "source": "arXiv - Mohammad Amanlou, Parham Abed Azad, Farbod Davoodi et al."
   },
   {
-    "id": "arxiv_1786322662849_4",
-    "name": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
+    "id": "arxiv_1786331001806_3",
+    "name": "Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers",
     "category": "machine-learning",
-    "description": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not ...",
-    "link": "http://arxiv.org/abs/2608.06352v1",
+    "description": "Under the standard split, Muon gets hidden matrices and AdamW embeddings/output head. Muon groks modular addition faster, but its solutions do not hold. All nine configurations on $(a+b) \\bmod 113$ gr...",
+    "link": "http://arxiv.org/abs/2608.07436v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-08-07T17:21:49Z",
+    "trending": false,
+    "source": "arXiv - Ali Janati, Kaoutar El Maghraoui, Andrei Kanavalau et al."
+  },
+  {
+    "id": "arxiv_1786331001780_2",
+    "name": "SABRE: Scalable and Automated Benchmarking of VLMs under Stress",
+    "category": "computer-vision",
+    "description": "Vision-language models (VLMs) are improving rapidly, but benchmark development lags behind, making weaknesses hard to identify. Building stress tests is costly: samples must satisfy controlled conditi...",
+    "link": "http://arxiv.org/abs/2608.07435v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-08-06T17:53:18Z",
+    "date": "2026-08-07T17:21:04Z",
     "trending": false,
-    "source": "arXiv - Fanzhe Meng, Guoxin Chen, Jiale Zhao et al."
+    "source": "arXiv - Zixuan Lan, Luzhe Sun, Matthew R. Walter et al."
   },
   {
-    "id": "arxiv_1786322662865_3",
-    "name": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
-    "category": "nlp",
-    "description": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not ...",
-    "link": "http://arxiv.org/abs/2608.06352v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-08-06T17:53:18Z",
-    "trending": false,
-    "source": "arXiv - Fanzhe Meng, Guoxin Chen, Jiale Zhao et al."
-  },
-  {
-    "id": "arxiv_1786322662865_4",
-    "name": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
-    "category": "nlp",
-    "description": "Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have...",
-    "link": "http://arxiv.org/abs/2608.06347v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "NLP",
-      "LLM"
-    ],
-    "date": "2026-08-06T17:52:06Z",
-    "trending": false,
-    "source": "arXiv - Xinye Wang, Junxiao Liu, Shujian Huang"
-  },
-  {
-    "id": "arxiv_1786322662831_0",
-    "name": "Does FLAIR super-resolution erase or hallucinate small white-matter lesions?",
+    "id": "arxiv_1786331001780_3",
+    "name": "Conformal Coverage Guarantees for Any Video Temporal Grounder",
     "category": "computer-vision",
-    "description": "White matter hyperintensities (WMH), bright regions on Fluid-attenuated Inversion Recovery (FLAIR) scans are associated with cerebrovascular pathology and neurodegeneration. FLAIR is usually acquired ...",
-    "link": "http://arxiv.org/abs/2608.06311v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-08-06T17:26:01Z",
-    "trending": false,
-    "source": "arXiv - Zahra Khodakarami, Yue Li, Pulkit Khandelwal et al."
-  },
-  {
-    "id": "arxiv_1786322662831_1",
-    "name": "UQ-Loc: Uncertainty-Aware LiDAR Scene Coordinate Regression",
-    "category": "computer-vision",
-    "description": "LiDAR-based Scene Coordinate Regression (SCR) maps point clouds directly to 3D scene coordinates, enabling precise 6-DoF localisation without explicit map retrieval. However, existing methods produce ...",
-    "link": "http://arxiv.org/abs/2608.06307v1",
+    "description": "Event boundaries in continuous video are ambiguous: re-annotate the same query-video pair and independent annotators mark moments that overlap by less than half on a large fraction of samples. The gro...",
+    "link": "http://arxiv.org/abs/2608.07434v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-08-06T17:23:17Z",
+    "date": "2026-08-07T17:19:27Z",
+    "trending": false,
+    "source": "arXiv - Aseel Mohamed, Rasul Khanbayov, Erchin Serpedin et al."
+  },
+  {
+    "id": "arxiv_1786331001806_4",
+    "name": "Wasserstein Policy Gradient for Entropy-Regularized Linear-Quadratic Control",
+    "category": "machine-learning",
+    "description": "Wasserstein policy gradient (WPG) updates state-conditional action laws by transport in the action space. We study entropy-regularized discounted linear-quadratic (LQ) control. A Bellman verification ...",
+    "link": "http://arxiv.org/abs/2608.07433v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-07T17:17:58Z",
     "trending": true,
-    "source": "arXiv - Jacek Komorowski"
+    "source": "arXiv - Zhaoyu Zhu, Rui Gao, Shuang Li"
   },
   {
-    "id": "arxiv_1786322662831_2",
-    "name": "TLNM: Externally Validated Tooth Detection, Numbering and Segmentation from Smartphone Photographs Using Mask R-CNN",
+    "id": "arxiv_1786331001781_4",
+    "name": "I Seek You in Videos: Identity-Conditioned Queries for Person-Centric Video Reasoning",
     "category": "computer-vision",
-    "description": "Oral health issues affect billions globally, but the cost and limited access to professional dental care hinder preventive oral healthcare. Research relies on clinical-grade radiographs or intraoral c...",
-    "link": "http://arxiv.org/abs/2608.06275v1",
+    "description": "Real-world video reasoning often involves multimodal, multi-source inputs, whereas existing video reasoning tasks typically assume a simplified video-text setting, limiting identity matching and perso...",
+    "link": "http://arxiv.org/abs/2608.07417v1",
     "tags": [
       "AI",
-      "Neural",
-      "CNN"
+      "GAN",
+      "LLM"
     ],
-    "date": "2026-08-06T17:03:05Z",
-    "trending": false,
-    "source": "arXiv - Arash Nedaei, Henna Tiensuu, Elina Väyrynen et al."
-  },
-  {
-    "id": "arxiv_1786322662831_3",
-    "name": "OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations",
-    "category": "computer-vision",
-    "description": "The development of deep learning over the past decade has revolutionized medical imaging segmentation, allowing the extraction of precise descriptors from large volumes to characterize pathologies. Da...",
-    "link": "http://arxiv.org/abs/2608.06264v1",
-    "tags": [
-      "AI",
-      "Deep Learning"
-    ],
-    "date": "2026-08-06T16:54:15Z",
-    "trending": false,
-    "source": "arXiv - Robin Trombetta, Carole Lartizien"
-  },
-  {
-    "id": "arxiv_1786322662831_4",
-    "name": "MASS: Multiplayer World Models with Authoritative Shared State",
-    "category": "computer-vision",
-    "description": "Current video world models struggle in multiplayer environments because they entangle world state with view-dependent visual latents, leading to redundant compute, view inconsistencies, and poor scala...",
-    "link": "http://arxiv.org/abs/2608.06257v1",
-    "tags": [],
-    "date": "2026-08-06T16:47:24Z",
-    "trending": false,
-    "source": "arXiv - Ziqi Cai, Siqi Yang, Yimu Wang et al."
+    "date": "2026-08-07T17:02:02Z",
+    "trending": true,
+    "source": "arXiv - Shibo Gao, Chongxiao Wang, Chenglong Huang et al."
   }
 ]
