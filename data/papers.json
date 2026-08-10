@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1786387106148_0",
+    "id": "arxiv_1786391101868_0",
     "name": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving",
     "category": "computer-vision",
     "description": "World-Action Models (WAMs) improve end-to-end autonomous driving by transferring video dynamics priors to action prediction, but existing methods require costly future generation at inference. We pres...",
@@ -10,11 +10,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-08-07T17:59:09Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zongchuang Zhao, Xin Zhou, Tianyang Xu et al."
   },
   {
-    "id": "arxiv_1786387106149_1",
+    "id": "arxiv_1786391101869_1",
     "name": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
     "category": "computer-vision",
     "description": "Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain ...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Youjun Zhao, Alex Warren, Gary K. L. Tam et al."
   },
   {
-    "id": "arxiv_1786387106211_0",
+    "id": "arxiv_1786391101891_0",
     "name": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
     "category": "machine-learning",
     "description": "Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain ...",
@@ -42,7 +42,7 @@
     "source": "arXiv - Youjun Zhao, Alex Warren, Gary K. L. Tam et al."
   },
   {
-    "id": "arxiv_1786387106083_0",
+    "id": "arxiv_1786391101844_0",
     "name": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
     "category": "ai",
     "description": "While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity ...",
@@ -53,11 +53,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-08-07T17:55:48Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ananya Sahu, Mohit Bansal, Elias Stengel-Eskin"
   },
   {
-    "id": "arxiv_1786387106275_0",
+    "id": "arxiv_1786391102154_0",
     "name": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
     "category": "nlp",
     "description": "While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity ...",
@@ -72,7 +72,7 @@
     "source": "arXiv - Ananya Sahu, Mohit Bansal, Elias Stengel-Eskin"
   },
   {
-    "id": "arxiv_1786387106084_1",
+    "id": "arxiv_1786391101845_1",
     "name": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
     "category": "ai",
     "description": "Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant infor...",
@@ -82,11 +82,11 @@
       "Optimization"
     ],
     "date": "2026-08-07T17:51:49Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Gyuwan Kim, Cheoneum Park, Tao Yang"
   },
   {
-    "id": "arxiv_1786387106211_1",
+    "id": "arxiv_1786391101892_1",
     "name": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
     "category": "machine-learning",
     "description": "Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant infor...",
@@ -96,11 +96,11 @@
       "Optimization"
     ],
     "date": "2026-08-07T17:51:49Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Gyuwan Kim, Cheoneum Park, Tao Yang"
   },
   {
-    "id": "arxiv_1786387106275_1",
+    "id": "arxiv_1786391102154_1",
     "name": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
     "category": "nlp",
     "description": "Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant infor...",
@@ -114,7 +114,7 @@
     "source": "arXiv - Gyuwan Kim, Cheoneum Park, Tao Yang"
   },
   {
-    "id": "arxiv_1786387106084_2",
+    "id": "arxiv_1786391101845_2",
     "name": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
     "category": "ai",
     "description": "What will happen when AI agents interact in daily life, e.g. when one AI starts bossing another around? We find a counterintuitive answer that opens new avenues for out-of-equilibrium Physics. When a ...",
@@ -123,11 +123,11 @@
       "AI"
     ],
     "date": "2026-08-07T17:49:55Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Bella Xinrui Li, Frank Yingjie Huo, Neil F Johnson"
   },
   {
-    "id": "arxiv_1786387106084_3",
+    "id": "arxiv_1786391101845_3",
     "name": "Strategy-first synthesis planning for complex natural products",
     "category": "ai",
     "description": "The total synthesis of a complex molecule is among the most demanding intellectual and experimental feats in chemistry: a chemist must plan many steps ahead for how to assemble simple building blocks ...",
@@ -140,7 +140,7 @@
     "source": "arXiv - Daniel Armstrong, Xuan-Vu Nguyen, Octavian Susanu et al."
   },
   {
-    "id": "arxiv_1786387106084_4",
+    "id": "arxiv_1786391101845_4",
     "name": "SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent",
     "category": "ai",
     "description": "LLM agents increasingly adapt to recurring tasks by accumulating procedural knowledge in skills. These skills are lightweight, reusable textual artifacts that are loaded into the agent's context witho...",
@@ -154,7 +154,7 @@
     "source": "arXiv - Mingxuan Zheng, Yujin Zhou, Chuxue Cao et al."
   },
   {
-    "id": "arxiv_1786387106276_2",
+    "id": "arxiv_1786391102154_2",
     "name": "SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent",
     "category": "nlp",
     "description": "LLM agents increasingly adapt to recurring tasks by accumulating procedural knowledge in skills. These skills are lightweight, reusable textual artifacts that are loaded into the agent's context witho...",
@@ -164,11 +164,11 @@
       "LLM"
     ],
     "date": "2026-08-07T17:40:33Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Mingxuan Zheng, Yujin Zhou, Chuxue Cao et al."
   },
   {
-    "id": "arxiv_1786387106211_2",
+    "id": "arxiv_1786391101892_2",
     "name": "RIS-Aided mmWave Localization Under Cross-Link Interference via Beam-Domain ML Fingerprinting",
     "category": "machine-learning",
     "description": "Accurate user equipment (UE) localization is critical for beam management in reconfigurable intelligent surface (RIS)-assisted millimeter-wave (mmWave) based sixth-generation (6G) networks, especially...",
@@ -181,7 +181,7 @@
     "source": "arXiv - Md Tarek Hassan, Dmitry Zelenchuk, Muhammad Ali Babar Abbasi"
   },
   {
-    "id": "arxiv_1786387106276_3",
+    "id": "arxiv_1786391102154_3",
     "name": "An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Sentences for DisCoCat-Based Sentiment Analysis",
     "category": "nlp",
     "description": "Quantum natural language processing (QNLP) provides a grammar-aware framework for text modeling, and Distributional Compositional Categorical (DisCoCat) is one of its theoretically grounded formulatio...",
@@ -197,7 +197,7 @@
     "source": "arXiv - Brian Llinas, Nikos Chrisochoides"
   },
   {
-    "id": "arxiv_1786387106276_4",
+    "id": "arxiv_1786391102155_4",
     "name": "PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents",
     "category": "nlp",
     "description": "Human-like cognition does not select past experience by topical similarity alone: affective significance and unresolved conflict also shape what becomes accessible. We present PsychoAgent, a cognitive...",
@@ -211,7 +211,7 @@
     "source": "arXiv - Mohammad Amanlou, Parham Abed Azad, Farbod Davoodi et al."
   },
   {
-    "id": "arxiv_1786387106211_3",
+    "id": "arxiv_1786391101892_3",
     "name": "Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers",
     "category": "machine-learning",
     "description": "Under the standard split, Muon gets hidden matrices and AdamW embeddings/output head. Muon groks modular addition faster, but its solutions do not hold. All nine configurations on $(a+b) \\bmod 113$ gr...",
@@ -225,7 +225,7 @@
     "source": "arXiv - Ali Janati, Kaoutar El Maghraoui, Andrei Kanavalau et al."
   },
   {
-    "id": "arxiv_1786387106149_2",
+    "id": "arxiv_1786391101869_2",
     "name": "SABRE: Scalable and Automated Benchmarking of VLMs under Stress",
     "category": "computer-vision",
     "description": "Vision-language models (VLMs) are improving rapidly, but benchmark development lags behind, making weaknesses hard to identify. Building stress tests is costly: samples must satisfy controlled conditi...",
@@ -239,7 +239,7 @@
     "source": "arXiv - Zixuan Lan, Luzhe Sun, Matthew R. Walter et al."
   },
   {
-    "id": "arxiv_1786387106149_3",
+    "id": "arxiv_1786391101869_3",
     "name": "Conformal Coverage Guarantees for Any Video Temporal Grounder",
     "category": "computer-vision",
     "description": "Event boundaries in continuous video are ambiguous: re-annotate the same query-video pair and independent annotators mark moments that overlap by less than half on a large fraction of samples. The gro...",
@@ -248,11 +248,11 @@
       "AI"
     ],
     "date": "2026-08-07T17:19:27Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Aseel Mohamed, Rasul Khanbayov, Erchin Serpedin et al."
   },
   {
-    "id": "arxiv_1786387106211_4",
+    "id": "arxiv_1786391101892_4",
     "name": "Wasserstein Policy Gradient for Entropy-Regularized Linear-Quadratic Control",
     "category": "machine-learning",
     "description": "Wasserstein policy gradient (WPG) updates state-conditional action laws by transport in the action space. We study entropy-regularized discounted linear-quadratic (LQ) control. A Bellman verification ...",
@@ -262,11 +262,11 @@
       "LLM"
     ],
     "date": "2026-08-07T17:17:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhaoyu Zhu, Rui Gao, Shuang Li"
   },
   {
-    "id": "arxiv_1786387106149_4",
+    "id": "arxiv_1786391101869_4",
     "name": "I Seek You in Videos: Identity-Conditioned Queries for Person-Centric Video Reasoning",
     "category": "computer-vision",
     "description": "Real-world video reasoning often involves multimodal, multi-source inputs, whereas existing video reasoning tasks typically assume a simplified video-text setting, limiting identity matching and perso...",
