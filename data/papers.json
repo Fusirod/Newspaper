@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1786430503197_0",
+    "id": "arxiv_1786435204729_0",
     "name": "Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots",
     "category": "computer-vision",
     "description": "Self-improvement for multimodal large language models (MLLMs) is typically driven by reward-based methods that provide only coarse scalar feedback. Distillation offers a richer alternative through den...",
@@ -16,7 +16,7 @@
     "source": "arXiv - Shravan Venkatraman, Omkar Thawakar, Ritesh Thawkar et al."
   },
   {
-    "id": "arxiv_1786430503173_0",
+    "id": "arxiv_1786435204710_0",
     "name": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
     "category": "ai",
     "description": "Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expected to reflect human perception, yet it is unclear h...",
@@ -30,7 +30,7 @@
     "source": "arXiv - Oluwanifemi Bamgbose, Simon Rosen, Jash Shah et al."
   },
   {
-    "id": "arxiv_1786430503244_0",
+    "id": "arxiv_1786435204756_0",
     "name": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
     "category": "nlp",
     "description": "Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expected to reflect human perception, yet it is unclear h...",
@@ -40,11 +40,11 @@
       "LLM"
     ],
     "date": "2026-08-10T17:59:51Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Oluwanifemi Bamgbose, Simon Rosen, Jash Shah et al."
   },
   {
-    "id": "arxiv_1786430503173_1",
+    "id": "arxiv_1786435204710_1",
     "name": "Multimodal Model Diffing for Feature Discovery and Control",
     "category": "ai",
     "description": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to ...",
@@ -58,7 +58,7 @@
     "source": "arXiv - Hunar Batra, Lachin Naghashyar, Ashkan Khakzar et al."
   },
   {
-    "id": "arxiv_1786430503197_1",
+    "id": "arxiv_1786435204729_1",
     "name": "Multimodal Model Diffing for Feature Discovery and Control",
     "category": "computer-vision",
     "description": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to ...",
@@ -72,7 +72,7 @@
     "source": "arXiv - Hunar Batra, Lachin Naghashyar, Ashkan Khakzar et al."
   },
   {
-    "id": "arxiv_1786430503220_0",
+    "id": "arxiv_1786435204743_0",
     "name": "Multimodal Model Diffing for Feature Discovery and Control",
     "category": "machine-learning",
     "description": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to ...",
@@ -82,11 +82,11 @@
       "LLM"
     ],
     "date": "2026-08-10T17:59:30Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hunar Batra, Lachin Naghashyar, Ashkan Khakzar et al."
   },
   {
-    "id": "arxiv_1786430503244_1",
+    "id": "arxiv_1786435204757_1",
     "name": "Multimodal Model Diffing for Feature Discovery and Control",
     "category": "nlp",
     "description": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to ...",
@@ -100,7 +100,7 @@
     "source": "arXiv - Hunar Batra, Lachin Naghashyar, Ashkan Khakzar et al."
   },
   {
-    "id": "arxiv_1786430503197_2",
+    "id": "arxiv_1786435204729_2",
     "name": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
     "category": "computer-vision",
     "description": "The world evolves following its dynamics, i.e., its laws of motion. However, leading video diffusion models largely fit the pixels without modeling how the pixels transit over time. Thus, they render ...",
@@ -114,7 +114,7 @@
     "source": "arXiv - Haodong Li, Shaoteng Liu, Tianyu Wang et al."
   },
   {
-    "id": "arxiv_1786430503173_2",
+    "id": "arxiv_1786435204710_2",
     "name": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
     "category": "ai",
     "description": "Large language models are increasingly being deployed in governmental settings, yet few existing evaluation frameworks jointly reflect the values of public administration and the linguistic requiremen...",
@@ -125,11 +125,11 @@
       "LLM"
     ],
     "date": "2026-08-10T17:59:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Laurens Samson, Iva Gornishka, Gossa Lô et al."
   },
   {
-    "id": "arxiv_1786430503244_2",
+    "id": "arxiv_1786435204757_2",
     "name": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
     "category": "nlp",
     "description": "Large language models are increasingly being deployed in governmental settings, yet few existing evaluation frameworks jointly reflect the values of public administration and the linguistic requiremen...",
@@ -144,7 +144,7 @@
     "source": "arXiv - Laurens Samson, Iva Gornishka, Gossa Lô et al."
   },
   {
-    "id": "arxiv_1786430503174_3",
+    "id": "arxiv_1786435204711_3",
     "name": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
     "category": "ai",
     "description": "Foundation models are transforming business workflows and boosting productivity, yet they remain largely absent from engineering domains such as power system analysis, where strict physical consistenc...",
@@ -158,7 +158,7 @@
     "source": "arXiv - Alban Puech, Matteo Mazzonelli, Tamara R. Govindasamy et al."
   },
   {
-    "id": "arxiv_1786430503197_3",
+    "id": "arxiv_1786435204729_3",
     "name": "Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation",
     "category": "computer-vision",
     "description": "Hardware assurance relies on scanning electron microscopy (SEM) to verify nanoscale structures, but assembling the large, high-quality datasets required for automated analysis is impeded by time-inten...",
@@ -172,7 +172,7 @@
     "source": "arXiv - Gijung Lee, Ronald Wilson, Damon L. Woodard et al."
   },
   {
-    "id": "arxiv_1786430503197_4",
+    "id": "arxiv_1786435204730_4",
     "name": "Beyond Hazard Resemblance: Contrastive Event Adjudication for Training-Free Video Anomaly Detection",
     "category": "computer-vision",
     "description": "Video anomaly detection (VAD) aims to identify and temporally localize abnormal events in videos. Supervised methods learn anomaly decision boundaries from target-domain annotations but require substa...",
@@ -185,7 +185,7 @@
     "source": "arXiv - Wenti Yin, Xiang Wang, Huaxin Zhang et al."
   },
   {
-    "id": "arxiv_1786430503174_4",
+    "id": "arxiv_1786435204711_4",
     "name": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
     "category": "ai",
     "description": "We introduce the Dark Souls Learning Environment (DSLE), a containerized platform that presents all 22 boss encounters of Dark Souls: Remastered as game-playing agent benchmarks through a Gymnasium-st...",
@@ -198,7 +198,7 @@
     "source": "arXiv - Derin Gezgin, Jim O'Connor, Tanner Goodwin et al."
   },
   {
-    "id": "arxiv_1786430503244_3",
+    "id": "arxiv_1786435204757_3",
     "name": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness",
     "category": "nlp",
     "description": "Large language model evaluations typically focus on performance under nominal conditions, creating an illusion of capability where models comfortably walk a narrow, highly optimized generation corrido...",
@@ -212,7 +212,7 @@
     "source": "arXiv - Tadanobu Chuyo Kamijo, Ori Rottenstreich, Javier Conde et al."
   },
   {
-    "id": "arxiv_1786430503220_1",
+    "id": "arxiv_1786435204744_1",
     "name": "Fairness in Link Prediction Beyond Demographic Parity: A Reproducibility Study",
     "category": "machine-learning",
     "description": "In fair ranked link prediction, demographic parity ($Δ_\\mathrm{DP}$) is a common fairness metric. Yet, Mattos et al. (2025) argue that it fails to detect exposure bias because it ignores where links a...",
@@ -225,7 +225,7 @@
     "source": "arXiv - Valentijn Oldenburg, Floris de Kam, Stef de Wildt et al."
   },
   {
-    "id": "arxiv_1786430503220_2",
+    "id": "arxiv_1786435204744_2",
     "name": "Consilience for Verifier-Free Test-Time Scaling",
     "category": "machine-learning",
     "description": "Test-time scaling often uses an external verifier, such as compilers and test cases in coding or trained value functions in robotics applications, to obtain high-quality rollouts. Verifier-free test-t...",
@@ -240,7 +240,7 @@
     "source": "arXiv - Lecheng Kong, Like Hui, Haitao Mao et al."
   },
   {
-    "id": "arxiv_1786430503244_4",
+    "id": "arxiv_1786435204757_4",
     "name": "Consilience for Verifier-Free Test-Time Scaling",
     "category": "nlp",
     "description": "Test-time scaling often uses an external verifier, such as compilers and test cases in coding or trained value functions in robotics applications, to obtain high-quality rollouts. Verifier-free test-t...",
@@ -251,11 +251,11 @@
       "Robotics"
     ],
     "date": "2026-08-10T17:45:44Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Lecheng Kong, Like Hui, Haitao Mao et al."
   },
   {
-    "id": "arxiv_1786430503220_3",
+    "id": "arxiv_1786435204744_3",
     "name": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
     "category": "machine-learning",
     "description": "We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model...",
@@ -268,7 +268,7 @@
     "source": "arXiv - Björn Engdahl, Adrian Kosowski, Jan Chorowski et al."
   },
   {
-    "id": "arxiv_1786430503221_4",
+    "id": "arxiv_1786435204744_4",
     "name": "Space-Creating versus Dead Possession: An Off-Ball Possession-Quality Index for Broadcast Football",
     "category": "machine-learning",
     "description": "Ball possession is the most-cited and most-misleading number in football: 60% recycled in one's own half is not 60% spent pinning the opponent back. Existing event-based possession-value frameworks (e...",
