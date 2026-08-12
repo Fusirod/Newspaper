@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1786564444627_0",
+    "id": "arxiv_1786566543534_0",
     "name": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
     "category": "computer-vision",
     "description": "Fréchet distance has recently emerged as an effective distribution-level objective for generator post-training, complementing the conventional sample-level diffusion and flow-matching losses. However,...",
@@ -15,7 +15,7 @@
     "source": "arXiv - Mingju Gao, Jingkai Zhou, Kun Gai et al."
   },
   {
-    "id": "arxiv_1786564444563_0",
+    "id": "arxiv_1786566543513_0",
     "name": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
     "category": "ai",
     "description": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics ar...",
@@ -29,7 +29,7 @@
     "source": "arXiv - Wenrui Bao, Tianyun Jiang, Zhiben Chen et al."
   },
   {
-    "id": "arxiv_1786564444627_1",
+    "id": "arxiv_1786566543534_1",
     "name": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
     "category": "computer-vision",
     "description": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics ar...",
@@ -43,7 +43,7 @@
     "source": "arXiv - Wenrui Bao, Tianyun Jiang, Zhiben Chen et al."
   },
   {
-    "id": "arxiv_1786564444627_2",
+    "id": "arxiv_1786566543534_2",
     "name": "Capturing Uncertainty in Human Motion for Representation Learning in Soccer",
     "category": "computer-vision",
     "description": "This paper presents a self-supervised representation learning framework for understanding 3D skeleton-based human motion in soccer, using future motion prediction as the learning objective. Since huma...",
@@ -57,7 +57,7 @@
     "source": "arXiv - Yizhou Xu, Lars Bretzner, Tiesheng Wang et al."
   },
   {
-    "id": "arxiv_1786564444627_3",
+    "id": "arxiv_1786566543534_3",
     "name": "VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics",
     "category": "computer-vision",
     "description": "Recent advances in video generation models have significantly improved the realism of synthetic videos, blurring the boundary between generated and authentic content and raising concerns about misinfo...",
@@ -69,11 +69,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-08-11T17:58:10Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Bowei Liu, Zheng Lu, Yuhan Bian et al."
   },
   {
-    "id": "arxiv_1786564444563_1",
+    "id": "arxiv_1786566543514_1",
     "name": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
     "category": "ai",
     "description": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or...",
@@ -83,11 +83,11 @@
       "LLM"
     ],
     "date": "2026-08-11T17:57:34Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Chen Lyu, Xingwei Tan, Simon Cullen et al."
   },
   {
-    "id": "arxiv_1786564444690_0",
+    "id": "arxiv_1786566543547_0",
     "name": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
     "category": "machine-learning",
     "description": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or...",
@@ -101,7 +101,7 @@
     "source": "arXiv - Chen Lyu, Xingwei Tan, Simon Cullen et al."
   },
   {
-    "id": "arxiv_1786564444877_0",
+    "id": "arxiv_1786566543561_0",
     "name": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
     "category": "nlp",
     "description": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or...",
@@ -115,7 +115,7 @@
     "source": "arXiv - Chen Lyu, Xingwei Tan, Simon Cullen et al."
   },
   {
-    "id": "arxiv_1786564444690_1",
+    "id": "arxiv_1786566543547_1",
     "name": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
     "category": "machine-learning",
     "description": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dens...",
@@ -125,11 +125,11 @@
       "LLM"
     ],
     "date": "2026-08-11T17:55:59Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Nikolai Bolik, Lennart Stöpler, Artur Andrzejak"
   },
   {
-    "id": "arxiv_1786564444877_1",
+    "id": "arxiv_1786566543561_1",
     "name": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
     "category": "nlp",
     "description": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dens...",
@@ -143,7 +143,7 @@
     "source": "arXiv - Nikolai Bolik, Lennart Stöpler, Artur Andrzejak"
   },
   {
-    "id": "arxiv_1786564444563_2",
+    "id": "arxiv_1786566543514_2",
     "name": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
     "category": "ai",
     "description": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on t...",
@@ -156,25 +156,9 @@
     "source": "arXiv - Alan Li, Rahul Saha, Anton Xue et al."
   },
   {
-    "id": "arxiv_1786564444564_3",
+    "id": "arxiv_1786566543514_3",
     "name": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
     "category": "ai",
-    "description": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although rece...",
-    "link": "http://arxiv.org/abs/2608.11191v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-08-11T17:50:25Z",
-    "trending": true,
-    "source": "arXiv - Shiyu Xuan, Zechao Li"
-  },
-  {
-    "id": "arxiv_1786564444627_4",
-    "name": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
-    "category": "computer-vision",
     "description": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although rece...",
     "link": "http://arxiv.org/abs/2608.11191v1",
     "tags": [
@@ -188,7 +172,23 @@
     "source": "arXiv - Shiyu Xuan, Zechao Li"
   },
   {
-    "id": "arxiv_1786564444877_2",
+    "id": "arxiv_1786566543535_4",
+    "name": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+    "category": "computer-vision",
+    "description": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although rece...",
+    "link": "http://arxiv.org/abs/2608.11191v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-08-11T17:50:25Z",
+    "trending": true,
+    "source": "arXiv - Shiyu Xuan, Zechao Li"
+  },
+  {
+    "id": "arxiv_1786566543561_2",
     "name": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
     "category": "nlp",
     "description": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although rece...",
@@ -204,7 +204,7 @@
     "source": "arXiv - Shiyu Xuan, Zechao Li"
   },
   {
-    "id": "arxiv_1786564444564_4",
+    "id": "arxiv_1786566543515_4",
     "name": "How to Verify Consistency of Probabilistic Claims",
     "category": "ai",
     "description": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, wh...",
@@ -217,7 +217,7 @@
     "source": "arXiv - Orr Paradise, Oliver Richardson, Yoshua Bengio et al."
   },
   {
-    "id": "arxiv_1786564444690_2",
+    "id": "arxiv_1786566543547_2",
     "name": "How to Verify Consistency of Probabilistic Claims",
     "category": "machine-learning",
     "description": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, wh...",
@@ -226,11 +226,11 @@
       "AI"
     ],
     "date": "2026-08-11T17:41:39Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Orr Paradise, Oliver Richardson, Yoshua Bengio et al."
   },
   {
-    "id": "arxiv_1786564444690_3",
+    "id": "arxiv_1786566543548_3",
     "name": "A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex",
     "category": "machine-learning",
     "description": "The attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simp...",
@@ -244,7 +244,7 @@
     "source": "arXiv - Eric A. F. Reinhardt, Adam J. Hauser"
   },
   {
-    "id": "arxiv_1786564444877_3",
+    "id": "arxiv_1786566543561_3",
     "name": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
     "category": "nlp",
     "description": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a field-w...",
@@ -259,7 +259,7 @@
     "source": "arXiv - Rahul Gupta, Abhinav Mohanty, Anaelia Ovalle et al."
   },
   {
-    "id": "arxiv_1786564444690_4",
+    "id": "arxiv_1786566543548_4",
     "name": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
     "category": "machine-learning",
     "description": "Existing Multimodal Large Language Models (MLLMs) predominantly rely on image-text pairs for modality alignment pretraining, mapping global image representations to long textual descriptions. However,...",
@@ -274,7 +274,7 @@
     "source": "arXiv - Changhao Xiang, Shangyu Xing, Zhen Wu et al."
   },
   {
-    "id": "arxiv_1786564444877_4",
+    "id": "arxiv_1786566543562_4",
     "name": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
     "category": "nlp",
     "description": "Existing Multimodal Large Language Models (MLLMs) predominantly rely on image-text pairs for modality alignment pretraining, mapping global image representations to long textual descriptions. However,...",
@@ -285,7 +285,7 @@
       "LLM"
     ],
     "date": "2026-08-11T17:28:52Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Changhao Xiang, Shangyu Xing, Zhen Wu et al."
   }
 ]
