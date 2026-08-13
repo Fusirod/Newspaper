@@ -1,6 +1,43 @@
 [
   {
-    "id": "rss_TechCrunch_1786652809021_0",
+    "id": "rss_Wired_1786656733874_0",
+    "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+    "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 13 Aug 2026 21:14:43 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1786656729187_0",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 13 Aug 2026 21:13:24 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1786656731327_0",
+    "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US po",
+    "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+    "tags": [],
+    "date": "Thu, 13 Aug 2026 21:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1786656729187_1",
     "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -10,10 +47,10 @@
       "AI"
     ],
     "date": "Thu, 13 Aug 2026 20:14:39 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1786652812381_0",
+    "id": "rss_Ars_Technica_1786656732787_0",
     "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -24,7 +61,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1786652809021_1",
+    "id": "rss_TechCrunch_1786656729187_2",
     "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -36,10 +73,10 @@
       "GPT"
     ],
     "date": "Thu, 13 Aug 2026 19:22:40 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1786652809021_2",
+    "id": "rss_TechCrunch_1786656729187_3",
     "title": "IBM partners with OpenAI to bolster enterprise AI push",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -50,10 +87,10 @@
       "OpenAI"
     ],
     "date": "Thu, 13 Aug 2026 19:19:49 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1786652812382_1",
+    "id": "rss_Ars_Technica_1786656732787_1",
     "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -61,10 +98,10 @@
     "link": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
     "tags": [],
     "date": "Thu, 13 Aug 2026 19:12:15 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1786652812382_2",
+    "id": "rss_Ars_Technica_1786656732787_2",
     "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -77,7 +114,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1786652809021_3",
+    "id": "rss_TechCrunch_1786656729187_4",
     "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -87,10 +124,10 @@
       "AI"
     ],
     "date": "Thu, 13 Aug 2026 18:28:14 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1786652811170_0",
+    "id": "rss_MIT_Tech_Review_1786656731327_1",
     "title": "Building a practical path to post-quantum cryptography",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -101,7 +138,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1786652812382_3",
+    "id": "rss_Ars_Technica_1786656732787_3",
     "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -112,7 +149,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1786652812382_4",
+    "id": "rss_Ars_Technica_1786656732787_4",
     "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -123,21 +160,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1786652809021_4",
-    "title": "OpenAI hires new CRO as executive shake-up continues",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Dali Rajic will take over as OpenAI's top salesperson. ",
-    "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Thu, 13 Aug 2026 17:07:13 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1786652811170_1",
+    "id": "rss_MIT_Tech_Review_1786656731327_2",
     "title": "Flock is tightening its rules in response to a growing surveillance backlash",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -147,10 +170,10 @@
       "AI"
     ],
     "date": "Thu, 13 Aug 2026 13:41:10 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1786652811170_2",
+    "id": "rss_MIT_Tech_Review_1786656731327_3",
     "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -160,10 +183,10 @@
       "AI"
     ],
     "date": "Thu, 13 Aug 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1786652811170_3",
+    "id": "rss_MIT_Tech_Review_1786656731327_4",
     "title": "What’s behind this summer’s heat, and why 2027 could be worse",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -171,23 +194,10 @@
     "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
     "tags": [],
     "date": "Thu, 13 Aug 2026 10:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1786652811170_4",
-    "title": "How kids feel about AI, in their own words",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they",
-    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 13 Aug 2026 09:00:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_Wired_1786652813439_0",
+    "id": "rss_Wired_1786656733874_1",
     "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
     "category": "ai-news",
     "source": "Wired",
@@ -200,7 +210,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1786652813439_1",
+    "id": "rss_Wired_1786656733874_2",
     "title": "The White House Is Going to Expand Its AI Policy",
     "category": "ai-news",
     "source": "Wired",
@@ -210,10 +220,10 @@
       "AI"
     ],
     "date": "Wed, 12 Aug 2026 21:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1786652813440_2",
+    "id": "rss_Wired_1786656733874_3",
     "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
     "category": "ai-news",
     "source": "Wired",
@@ -223,10 +233,10 @@
       "AI"
     ],
     "date": "Wed, 12 Aug 2026 18:45:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1786652813440_3",
+    "id": "rss_Wired_1786656733874_4",
     "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
     "category": "ai-news",
     "source": "Wired",
@@ -239,21 +249,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1786652813440_4",
-    "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
-    "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Wed, 12 Aug 2026 10:45:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1786652821069_0",
+    "id": "rss_Distill_1786656741795_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -266,7 +262,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1786652821070_1",
+    "id": "rss_Distill_1786656741795_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -279,7 +275,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1786652821070_2",
+    "id": "rss_Distill_1786656741795_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -287,10 +283,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1786652821070_3",
+    "id": "rss_Distill_1786656741795_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -300,10 +296,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1786652821070_4",
+    "id": "rss_Distill_1786656741795_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
