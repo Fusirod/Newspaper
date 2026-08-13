@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1786660083282_0",
+    "id": "arxiv_1786663706032_0",
     "name": "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
     "category": "computer-vision",
     "description": "Previsualization is an intermediate layer between ideas and production in film, games, architecture, and urban design. It lets creators iteratively refine scenes, actions, cameras, and spatial-tempora...",
@@ -14,23 +14,9 @@
     "source": "arXiv - Yuyang Yin, Zixiang Li, Longxuan Deng et al."
   },
   {
-    "id": "arxiv_1786660083282_1",
+    "id": "arxiv_1786663706032_1",
     "name": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
     "category": "computer-vision",
-    "description": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video repre...",
-    "link": "http://arxiv.org/abs/2608.12313v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-08-12T17:58:02Z",
-    "trending": true,
-    "source": "arXiv - Chuyue Li, Jinpeng Yu, Haozhe Wang et al."
-  },
-  {
-    "id": "arxiv_1786660083742_0",
-    "name": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
-    "category": "nlp",
     "description": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video repre...",
     "link": "http://arxiv.org/abs/2608.12313v1",
     "tags": [
@@ -42,7 +28,21 @@
     "source": "arXiv - Chuyue Li, Jinpeng Yu, Haozhe Wang et al."
   },
   {
-    "id": "arxiv_1786660083200_0",
+    "id": "arxiv_1786663706583_0",
+    "name": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+    "category": "nlp",
+    "description": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video repre...",
+    "link": "http://arxiv.org/abs/2608.12313v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-08-12T17:58:02Z",
+    "trending": true,
+    "source": "arXiv - Chuyue Li, Jinpeng Yu, Haozhe Wang et al."
+  },
+  {
+    "id": "arxiv_1786663706019_0",
     "name": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
     "category": "ai",
     "description": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observ...",
@@ -57,7 +57,7 @@
     "source": "arXiv - Yan Deng, Fei Xu"
   },
   {
-    "id": "arxiv_1786660083282_2",
+    "id": "arxiv_1786663706032_2",
     "name": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
     "category": "computer-vision",
     "description": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observ...",
@@ -72,7 +72,7 @@
     "source": "arXiv - Yan Deng, Fei Xu"
   },
   {
-    "id": "arxiv_1786660083200_1",
+    "id": "arxiv_1786663706019_1",
     "name": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
     "category": "ai",
     "description": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-...",
@@ -85,7 +85,7 @@
     "source": "arXiv - Cheng Qian, Wenting Zhao, Liangwei Yang et al."
   },
   {
-    "id": "arxiv_1786660083515_0",
+    "id": "arxiv_1786663706201_0",
     "name": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
     "category": "machine-learning",
     "description": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-...",
@@ -94,11 +94,11 @@
       "AI"
     ],
     "date": "2026-08-12T17:53:18Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Cheng Qian, Wenting Zhao, Liangwei Yang et al."
   },
   {
-    "id": "arxiv_1786660083742_1",
+    "id": "arxiv_1786663706583_1",
     "name": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
     "category": "nlp",
     "description": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-...",
@@ -107,11 +107,11 @@
       "AI"
     ],
     "date": "2026-08-12T17:53:18Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Cheng Qian, Wenting Zhao, Liangwei Yang et al."
   },
   {
-    "id": "arxiv_1786660083200_2",
+    "id": "arxiv_1786663706019_2",
     "name": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
     "category": "ai",
     "description": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, wi...",
@@ -124,7 +124,7 @@
     "source": "arXiv - Ebenezer Gelo, Geraud Nangue Tasse, Steven James et al."
   },
   {
-    "id": "arxiv_1786660083515_1",
+    "id": "arxiv_1786663706201_1",
     "name": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
     "category": "machine-learning",
     "description": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, wi...",
@@ -133,11 +133,11 @@
       "AI"
     ],
     "date": "2026-08-12T17:53:15Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ebenezer Gelo, Geraud Nangue Tasse, Steven James et al."
   },
   {
-    "id": "arxiv_1786660083200_3",
+    "id": "arxiv_1786663706019_3",
     "name": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
     "category": "ai",
     "description": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically re...",
@@ -150,7 +150,7 @@
     "source": "arXiv - Saman Marandi, Yu-Shu Hu, Mohammad Modarres"
   },
   {
-    "id": "arxiv_1786660083515_2",
+    "id": "arxiv_1786663706201_2",
     "name": "A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions",
     "category": "machine-learning",
     "description": "We present a formal process to enable non-experts to instantiate and iterate on human-aligned reward functions, i.e. reward functions that adhere to a given preference ordering over trajectories. Give...",
@@ -159,11 +159,11 @@
       "AI"
     ],
     "date": "2026-08-12T17:46:00Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Di Yang Shi, W. Bradley Knox"
   },
   {
-    "id": "arxiv_1786660083200_4",
+    "id": "arxiv_1786663706019_4",
     "name": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
     "category": "ai",
     "description": "Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpose is intuitive: it converts internal model evidence into a h...",
@@ -175,11 +175,11 @@
       "CNN"
     ],
     "date": "2026-08-12T17:45:03Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - AmirHossein Eshghi, Hamid Saadatfar, Seyyed Ali Hoseini et al."
   },
   {
-    "id": "arxiv_1786660083282_3",
+    "id": "arxiv_1786663706032_3",
     "name": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
     "category": "computer-vision",
     "description": "Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpose is intuitive: it converts internal model evidence into a h...",
@@ -191,11 +191,11 @@
       "CNN"
     ],
     "date": "2026-08-12T17:45:03Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - AmirHossein Eshghi, Hamid Saadatfar, Seyyed Ali Hoseini et al."
   },
   {
-    "id": "arxiv_1786660083282_4",
+    "id": "arxiv_1786663706032_4",
     "name": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
     "category": "computer-vision",
     "description": "Modern black-box Image-to-Video (I2V) models offer powerful capabilities in automated content creation, yet their lack of fine-grained control and reliability presents significant challenges in profes...",
@@ -206,11 +206,11 @@
       "Optimization"
     ],
     "date": "2026-08-12T17:35:16Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Aman Tyagi, Hemanth Boinpally, Jonathan Chen et al."
   },
   {
-    "id": "arxiv_1786660083742_2",
+    "id": "arxiv_1786663706583_2",
     "name": "Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals",
     "category": "nlp",
     "description": "Large language models can extract richer signals from financial news than fixed sentiment lexicons, and recent work has explored feeding such signals into portfolio construction. We study an uncertain...",
@@ -220,11 +220,11 @@
       "GPT"
     ],
     "date": "2026-08-12T17:28:03Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Alireza Kargarzadeh, Nariman Khaledian, Navid Parvini et al."
   },
   {
-    "id": "arxiv_1786660083742_3",
+    "id": "arxiv_1786663706583_3",
     "name": "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages",
     "category": "nlp",
     "description": "Artificial intelligence tools for education and language support are increasingly framed as scalable responses to access gaps in under-resourced communities. Yet the infrastructure underlying these to...",
@@ -237,7 +237,7 @@
     "source": "arXiv - Avijit Roy, Proma Roy"
   },
   {
-    "id": "arxiv_1786660083515_3",
+    "id": "arxiv_1786663706201_3",
     "name": "Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling",
     "category": "machine-learning",
     "description": "Global weather reanalyses and forecasts resolve the evolving atmospheric state on coarse grids, but site-specific applications require predictions at arbitrary locations where near-surface conditions ...",
@@ -247,11 +247,11 @@
       "Neural"
     ],
     "date": "2026-08-12T17:10:42Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Pedro Sousa, Will Tebbutt, Sadiq Jaffer et al."
   },
   {
-    "id": "arxiv_1786660083742_4",
+    "id": "arxiv_1786663706583_4",
     "name": "A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement",
     "category": "nlp",
     "description": "Public procurement involves the allocation of substantial financial resources; therefore, continuous oversight through audits, controls, and monitoring mechanisms is essential. However, stakeholder co...",
@@ -266,7 +266,7 @@
     "source": "arXiv - Bryan Torres, Daniel Riofrío, José Vega-Sánchez et al."
   },
   {
-    "id": "arxiv_1786660083515_4",
+    "id": "arxiv_1786663706201_4",
     "name": "Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting",
     "category": "machine-learning",
     "description": "Financial forecasting models are typically developed in full precision, yet production deployment often requires low-precision inference to reduce memory and computational cost. Post-training quantiza...",
