@@ -1,282 +1,277 @@
 [
   {
-    "id": "arxiv_1786668776769_0",
-    "name": "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
+    "id": "arxiv_1786677450584_0",
+    "name": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+    "category": "ai",
+    "description": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har...",
+    "link": "http://arxiv.org/abs/2608.13560v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-08-13T17:59:57Z",
+    "trending": false,
+    "source": "arXiv - Yaxin Luo, Haobin Jiang, Jialv Zou et al."
+  },
+  {
+    "id": "arxiv_1786677450642_0",
+    "name": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
     "category": "computer-vision",
-    "description": "Previsualization is an intermediate layer between ideas and production in film, games, architecture, and urban design. It lets creators iteratively refine scenes, actions, cameras, and spatial-tempora...",
-    "link": "http://arxiv.org/abs/2608.12314v1",
+    "description": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har...",
+    "link": "http://arxiv.org/abs/2608.13560v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-08-13T17:59:57Z",
+    "trending": false,
+    "source": "arXiv - Yaxin Luo, Haobin Jiang, Jialv Zou et al."
+  },
+  {
+    "id": "arxiv_1786677450756_0",
+    "name": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+    "category": "nlp",
+    "description": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har...",
+    "link": "http://arxiv.org/abs/2608.13560v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-08-13T17:59:57Z",
+    "trending": false,
+    "source": "arXiv - Yaxin Luo, Haobin Jiang, Jialv Zou et al."
+  },
+  {
+    "id": "arxiv_1786677450584_1",
+    "name": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+    "category": "ai",
+    "description": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workf...",
+    "link": "http://arxiv.org/abs/2608.13558v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-13T17:59:52Z",
+    "trending": true,
+    "source": "arXiv - Bobo Li, Hao Fei, Tianjie Ju et al."
+  },
+  {
+    "id": "arxiv_1786677450756_1",
+    "name": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+    "category": "nlp",
+    "description": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workf...",
+    "link": "http://arxiv.org/abs/2608.13558v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-13T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Bobo Li, Hao Fei, Tianjie Ju et al."
+  },
+  {
+    "id": "arxiv_1786677450643_1",
+    "name": "V-RAE: Rethinking Video Latent Spaces for Generation",
+    "category": "computer-vision",
+    "description": "Latent video generation relies on autoencoders to define a compact space in which generative models operate. Although video autoencoder architectures have evolved substantially, their latent spaces ar...",
+    "link": "http://arxiv.org/abs/2608.13556v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "GAN"
+    ],
+    "date": "2026-08-13T17:59:43Z",
+    "trending": false,
+    "source": "arXiv - Minghui Guo, Shengqiong Wu, Hao Fei"
+  },
+  {
+    "id": "arxiv_1786677450585_2",
+    "name": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+    "category": "ai",
+    "description": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences b...",
+    "link": "http://arxiv.org/abs/2608.13555v1",
     "tags": [
       "AI",
       "GAN"
     ],
-    "date": "2026-08-12T17:58:07Z",
+    "date": "2026-08-13T17:59:40Z",
     "trending": false,
-    "source": "arXiv - Yuyang Yin, Zixiang Li, Longxuan Deng et al."
+    "source": "arXiv - Dairu Liu, Zekun Qi, Jiayu Zeng et al."
   },
   {
-    "id": "arxiv_1786668776769_1",
-    "name": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+    "id": "arxiv_1786677450643_2",
+    "name": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
     "category": "computer-vision",
-    "description": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video repre...",
-    "link": "http://arxiv.org/abs/2608.12313v1",
+    "description": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences b...",
+    "link": "http://arxiv.org/abs/2608.13555v1",
     "tags": [
       "AI",
-      "Optimization"
+      "GAN"
     ],
-    "date": "2026-08-12T17:58:02Z",
+    "date": "2026-08-13T17:59:40Z",
     "trending": false,
-    "source": "arXiv - Chuyue Li, Jinpeng Yu, Haozhe Wang et al."
+    "source": "arXiv - Dairu Liu, Zekun Qi, Jiayu Zeng et al."
   },
   {
-    "id": "arxiv_1786668776808_0",
-    "name": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
-    "category": "nlp",
-    "description": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video repre...",
-    "link": "http://arxiv.org/abs/2608.12313v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-08-12T17:58:02Z",
-    "trending": false,
-    "source": "arXiv - Chuyue Li, Jinpeng Yu, Haozhe Wang et al."
-  },
-  {
-    "id": "arxiv_1786668776747_0",
-    "name": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
-    "category": "ai",
-    "description": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observ...",
-    "link": "http://arxiv.org/abs/2608.12308v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Diffusion"
-    ],
-    "date": "2026-08-12T17:54:33Z",
-    "trending": false,
-    "source": "arXiv - Yan Deng, Fei Xu"
-  },
-  {
-    "id": "arxiv_1786668776770_2",
-    "name": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
-    "category": "computer-vision",
-    "description": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observ...",
-    "link": "http://arxiv.org/abs/2608.12308v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Diffusion"
-    ],
-    "date": "2026-08-12T17:54:33Z",
-    "trending": false,
-    "source": "arXiv - Yan Deng, Fei Xu"
-  },
-  {
-    "id": "arxiv_1786668776748_1",
-    "name": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
-    "category": "ai",
-    "description": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-...",
-    "link": "http://arxiv.org/abs/2608.12307v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-12T17:53:18Z",
-    "trending": true,
-    "source": "arXiv - Cheng Qian, Wenting Zhao, Liangwei Yang et al."
-  },
-  {
-    "id": "arxiv_1786668776788_0",
-    "name": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+    "id": "arxiv_1786677450699_0",
+    "name": "Defensive Boosting for Online Probabilistic Forecasting",
     "category": "machine-learning",
-    "description": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-...",
-    "link": "http://arxiv.org/abs/2608.12307v1",
+    "description": "We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain tw...",
+    "link": "http://arxiv.org/abs/2608.13554v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-08-12T17:53:18Z",
-    "trending": true,
-    "source": "arXiv - Cheng Qian, Wenting Zhao, Liangwei Yang et al."
-  },
-  {
-    "id": "arxiv_1786668776808_1",
-    "name": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
-    "category": "nlp",
-    "description": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-...",
-    "link": "http://arxiv.org/abs/2608.12307v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-12T17:53:18Z",
-    "trending": true,
-    "source": "arXiv - Cheng Qian, Wenting Zhao, Liangwei Yang et al."
-  },
-  {
-    "id": "arxiv_1786668776748_2",
-    "name": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
-    "category": "ai",
-    "description": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, wi...",
-    "link": "http://arxiv.org/abs/2608.12306v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-12T17:53:15Z",
-    "trending": true,
-    "source": "arXiv - Ebenezer Gelo, Geraud Nangue Tasse, Steven James et al."
-  },
-  {
-    "id": "arxiv_1786668776788_1",
-    "name": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
-    "category": "machine-learning",
-    "description": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, wi...",
-    "link": "http://arxiv.org/abs/2608.12306v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-12T17:53:15Z",
+    "date": "2026-08-13T17:59:35Z",
     "trending": false,
-    "source": "arXiv - Ebenezer Gelo, Geraud Nangue Tasse, Steven James et al."
+    "source": "arXiv - Georgy Noarov, Aaron Roth"
   },
   {
-    "id": "arxiv_1786668776748_3",
-    "name": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
-    "category": "ai",
-    "description": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically re...",
-    "link": "http://arxiv.org/abs/2608.12304v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-12T17:50:39Z",
-    "trending": true,
-    "source": "arXiv - Saman Marandi, Yu-Shu Hu, Mohammad Modarres"
-  },
-  {
-    "id": "arxiv_1786668776789_2",
-    "name": "A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions",
-    "category": "machine-learning",
-    "description": "We present a formal process to enable non-experts to instantiate and iterate on human-aligned reward functions, i.e. reward functions that adhere to a given preference ordering over trajectories. Give...",
-    "link": "http://arxiv.org/abs/2608.12302v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-12T17:46:00Z",
-    "trending": false,
-    "source": "arXiv - Di Yang Shi, W. Bradley Knox"
-  },
-  {
-    "id": "arxiv_1786668776748_4",
-    "name": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
-    "category": "ai",
-    "description": "Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpose is intuitive: it converts internal model evidence into a h...",
-    "link": "http://arxiv.org/abs/2608.12299v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer",
-      "CNN"
-    ],
-    "date": "2026-08-12T17:45:03Z",
-    "trending": false,
-    "source": "arXiv - AmirHossein Eshghi, Hamid Saadatfar, Seyyed Ali Hoseini et al."
-  },
-  {
-    "id": "arxiv_1786668776770_3",
-    "name": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
+    "id": "arxiv_1786677450643_3",
+    "name": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
     "category": "computer-vision",
-    "description": "Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpose is intuitive: it converts internal model evidence into a h...",
-    "link": "http://arxiv.org/abs/2608.12299v1",
+    "description": "Video world models simulate future states conditioned on current observations and user actions. Recent systems have demonstrated impressive video consistency and action controllability over long seque...",
+    "link": "http://arxiv.org/abs/2608.13552v1",
     "tags": [
-      "AI",
-      "Vision",
-      "Transformer",
-      "CNN"
+      "AI"
     ],
-    "date": "2026-08-12T17:45:03Z",
+    "date": "2026-08-13T17:59:30Z",
     "trending": false,
-    "source": "arXiv - AmirHossein Eshghi, Hamid Saadatfar, Seyyed Ali Hoseini et al."
+    "source": "arXiv - Kaixin Ding, Xi Chen, Minghong Cai et al."
   },
   {
-    "id": "arxiv_1786668776770_4",
-    "name": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
-    "category": "computer-vision",
-    "description": "Modern black-box Image-to-Video (I2V) models offer powerful capabilities in automated content creation, yet their lack of fine-grained control and reliability presents significant challenges in profes...",
-    "link": "http://arxiv.org/abs/2608.12290v1",
+    "id": "arxiv_1786677450699_1",
+    "name": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure",
+    "category": "machine-learning",
+    "description": "The per-instance Jaccard score, or intersection over union (IoU), is standard in multi-label classification and binary segmentation. With $s$ labels, its loss matrix has $2^s$ outcomes and reports. Un...",
+    "link": "http://arxiv.org/abs/2608.13549v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-13T17:59:17Z",
+    "trending": false,
+    "source": "arXiv - Mingyuan Zhang"
+  },
+  {
+    "id": "arxiv_1786677450585_3",
+    "name": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+    "category": "ai",
+    "description": "LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures i...",
+    "link": "http://arxiv.org/abs/2608.13547v1",
     "tags": [
       "AI",
       "LLM",
-      "Optimization"
-    ],
-    "date": "2026-08-12T17:35:16Z",
-    "trending": true,
-    "source": "arXiv - Aman Tyagi, Hemanth Boinpally, Jonathan Chen et al."
-  },
-  {
-    "id": "arxiv_1786668776808_2",
-    "name": "Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals",
-    "category": "nlp",
-    "description": "Large language models can extract richer signals from financial news than fixed sentiment lexicons, and recent work has explored feeding such signals into portfolio construction. We study an uncertain...",
-    "link": "http://arxiv.org/abs/2608.12283v1",
-    "tags": [
-      "AI",
       "GPT"
     ],
-    "date": "2026-08-12T17:28:03Z",
-    "trending": true,
-    "source": "arXiv - Alireza Kargarzadeh, Nariman Khaledian, Navid Parvini et al."
+    "date": "2026-08-13T17:57:20Z",
+    "trending": false,
+    "source": "arXiv - Shangao Li, Yao Zhang, Volker Tresp et al."
   },
   {
-    "id": "arxiv_1786668776808_3",
-    "name": "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages",
+    "id": "arxiv_1786677450643_4",
+    "name": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+    "category": "computer-vision",
+    "description": "Interactive world models must support persistent memory, responsive interaction, and long-horizon generation, yet these requirements place conflicting demands on the model. Maintaining history in the ...",
+    "link": "http://arxiv.org/abs/2608.13546v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-08-13T17:57:00Z",
+    "trending": false,
+    "source": "arXiv - Yuanyang Yin, Gongxuan Wang, Yifan Zhan et al."
+  },
+  {
+    "id": "arxiv_1786677450585_4",
+    "name": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+    "category": "ai",
+    "description": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to charact...",
+    "link": "http://arxiv.org/abs/2608.13545v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-13T17:56:12Z",
+    "trending": false,
+    "source": "arXiv - Fanfei Li, Jana Zeller, Manuel Prada-Corral et al."
+  },
+  {
+    "id": "arxiv_1786677450699_2",
+    "name": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+    "category": "machine-learning",
+    "description": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to charact...",
+    "link": "http://arxiv.org/abs/2608.13545v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-13T17:56:12Z",
+    "trending": false,
+    "source": "arXiv - Fanfei Li, Jana Zeller, Manuel Prada-Corral et al."
+  },
+  {
+    "id": "arxiv_1786677450756_2",
+    "name": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
     "category": "nlp",
-    "description": "Artificial intelligence tools for education and language support are increasingly framed as scalable responses to access gaps in under-resourced communities. Yet the infrastructure underlying these to...",
-    "link": "http://arxiv.org/abs/2608.12278v1",
+    "description": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to charact...",
+    "link": "http://arxiv.org/abs/2608.13545v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-13T17:56:12Z",
+    "trending": false,
+    "source": "arXiv - Fanfei Li, Jana Zeller, Manuel Prada-Corral et al."
+  },
+  {
+    "id": "arxiv_1786677450756_3",
+    "name": "SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization",
+    "category": "nlp",
+    "description": "Sparse autoencoders (SAEs) are proposed to extract numerous features from large language model (LLM) representations, yet explaining these features still relies primarily on external observation. This...",
+    "link": "http://arxiv.org/abs/2608.13538v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-13T17:54:11Z",
+    "trending": false,
+    "source": "arXiv - Weihan Meng, Hongzhu Guo, Yi Jing et al."
+  },
+  {
+    "id": "arxiv_1786677450700_3",
+    "name": "DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees",
+    "category": "machine-learning",
+    "description": "Speculative decoding losslessly accelerates autoregressive language models by verifying multiple draft tokens in parallel. Diffusion-based drafters further reduce proposal latency by predicting an ent...",
+    "link": "http://arxiv.org/abs/2608.13524v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-08-13T17:43:44Z",
+    "trending": true,
+    "source": "arXiv - Tianyi Li, Yaxin Luo, Xinyi Shang et al."
+  },
+  {
+    "id": "arxiv_1786677450700_4",
+    "name": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+    "category": "machine-learning",
+    "description": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and ...",
+    "link": "http://arxiv.org/abs/2608.13522v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-08-12T17:17:25Z",
-    "trending": false,
-    "source": "arXiv - Avijit Roy, Proma Roy"
+    "date": "2026-08-13T17:41:27Z",
+    "trending": true,
+    "source": "arXiv - Zhe Ye, Hantao Lou, Yuechun Sun et al."
   },
   {
-    "id": "arxiv_1786668776789_3",
-    "name": "Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling",
-    "category": "machine-learning",
-    "description": "Global weather reanalyses and forecasts resolve the evolving atmospheric state on coarse grids, but site-specific applications require predictions at arbitrary locations where near-surface conditions ...",
-    "link": "http://arxiv.org/abs/2608.12271v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-08-12T17:10:42Z",
-    "trending": false,
-    "source": "arXiv - Pedro Sousa, Will Tebbutt, Sadiq Jaffer et al."
-  },
-  {
-    "id": "arxiv_1786668776808_4",
-    "name": "A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement",
+    "id": "arxiv_1786677450756_4",
+    "name": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
     "category": "nlp",
-    "description": "Public procurement involves the allocation of substantial financial resources; therefore, continuous oversight through audits, controls, and monitoring mechanisms is essential. However, stakeholder co...",
-    "link": "http://arxiv.org/abs/2608.12269v1",
+    "description": "Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mi...",
+    "link": "http://arxiv.org/abs/2608.13517v1",
     "tags": [
-      "AI",
-      "NLP",
-      "BERT"
+      "AI"
     ],
-    "date": "2026-08-12T17:09:14Z",
+    "date": "2026-08-13T17:37:53Z",
     "trending": false,
-    "source": "arXiv - Bryan Torres, Daniel Riofrío, José Vega-Sánchez et al."
-  },
-  {
-    "id": "arxiv_1786668776789_4",
-    "name": "Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting",
-    "category": "machine-learning",
-    "description": "Financial forecasting models are typically developed in full precision, yet production deployment often requires low-precision inference to reduce memory and computational cost. Post-training quantiza...",
-    "link": "http://arxiv.org/abs/2608.12259v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-08-12T17:02:06Z",
-    "trending": false,
-    "source": "arXiv - Junyi Ye, Ivy Gateri Wanjiku"
+    "source": "arXiv - Peter Schneider-Kamp, Jacob Nielsen, Gianluca Barmina et al."
   }
 ]
