@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1786846394794_0",
+    "id": "arxiv_1786851408451_0",
     "name": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
     "category": "ai",
     "description": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Yaxin Luo, Haobin Jiang, Jialv Zou et al."
   },
   {
-    "id": "arxiv_1786846394961_0",
+    "id": "arxiv_1786851408466_0",
     "name": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
     "category": "computer-vision",
     "description": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Yaxin Luo, Haobin Jiang, Jialv Zou et al."
   },
   {
-    "id": "arxiv_1786846395140_0",
+    "id": "arxiv_1786851408802_0",
     "name": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
     "category": "nlp",
     "description": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har...",
@@ -42,7 +42,7 @@
     "source": "arXiv - Yaxin Luo, Haobin Jiang, Jialv Zou et al."
   },
   {
-    "id": "arxiv_1786846394795_1",
+    "id": "arxiv_1786851408451_1",
     "name": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
     "category": "ai",
     "description": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workf...",
@@ -55,7 +55,7 @@
     "source": "arXiv - Bobo Li, Hao Fei, Tianjie Ju et al."
   },
   {
-    "id": "arxiv_1786846395140_1",
+    "id": "arxiv_1786851408802_1",
     "name": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
     "category": "nlp",
     "description": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workf...",
@@ -68,7 +68,7 @@
     "source": "arXiv - Bobo Li, Hao Fei, Tianjie Ju et al."
   },
   {
-    "id": "arxiv_1786846394961_1",
+    "id": "arxiv_1786851408466_1",
     "name": "V-RAE: Rethinking Video Latent Spaces for Generation",
     "category": "computer-vision",
     "description": "Latent video generation relies on autoencoders to define a compact space in which generative models operate. Although video autoencoder architectures have evolved substantially, their latent spaces ar...",
@@ -79,11 +79,11 @@
       "GAN"
     ],
     "date": "2026-08-13T17:59:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Minghui Guo, Shengqiong Wu, Hao Fei"
   },
   {
-    "id": "arxiv_1786846394795_2",
+    "id": "arxiv_1786851408452_2",
     "name": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
     "category": "ai",
     "description": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences b...",
@@ -97,7 +97,7 @@
     "source": "arXiv - Dairu Liu, Zekun Qi, Jiayu Zeng et al."
   },
   {
-    "id": "arxiv_1786846394961_2",
+    "id": "arxiv_1786851408467_2",
     "name": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
     "category": "computer-vision",
     "description": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences b...",
@@ -111,7 +111,7 @@
     "source": "arXiv - Dairu Liu, Zekun Qi, Jiayu Zeng et al."
   },
   {
-    "id": "arxiv_1786846394975_0",
+    "id": "arxiv_1786851408634_0",
     "name": "Defensive Boosting for Online Probabilistic Forecasting",
     "category": "machine-learning",
     "description": "We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain tw...",
@@ -124,7 +124,7 @@
     "source": "arXiv - Georgy Noarov, Aaron Roth"
   },
   {
-    "id": "arxiv_1786846394961_3",
+    "id": "arxiv_1786851408467_3",
     "name": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
     "category": "computer-vision",
     "description": "Video world models simulate future states conditioned on current observations and user actions. Recent systems have demonstrated impressive video consistency and action controllability over long seque...",
@@ -137,7 +137,7 @@
     "source": "arXiv - Kaixin Ding, Xi Chen, Minghong Cai et al."
   },
   {
-    "id": "arxiv_1786846394975_1",
+    "id": "arxiv_1786851408634_1",
     "name": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure",
     "category": "machine-learning",
     "description": "The per-instance Jaccard score, or intersection over union (IoU), is standard in multi-label classification and binary segmentation. With $s$ labels, its loss matrix has $2^s$ outcomes and reports. Un...",
@@ -150,7 +150,7 @@
     "source": "arXiv - Mingyuan Zhang"
   },
   {
-    "id": "arxiv_1786846394795_3",
+    "id": "arxiv_1786851408452_3",
     "name": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
     "category": "ai",
     "description": "LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures i...",
@@ -161,11 +161,11 @@
       "GPT"
     ],
     "date": "2026-08-13T17:57:20Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Shangao Li, Yao Zhang, Volker Tresp et al."
   },
   {
-    "id": "arxiv_1786846394961_4",
+    "id": "arxiv_1786851408467_4",
     "name": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
     "category": "computer-vision",
     "description": "Interactive world models must support persistent memory, responsive interaction, and long-horizon generation, yet these requirements place conflicting demands on the model. Maintaining history in the ...",
@@ -175,11 +175,11 @@
       "Vision"
     ],
     "date": "2026-08-13T17:57:00Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuanyang Yin, Gongxuan Wang, Yifan Zhan et al."
   },
   {
-    "id": "arxiv_1786846394795_4",
+    "id": "arxiv_1786851408452_4",
     "name": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
     "category": "ai",
     "description": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to charact...",
@@ -193,7 +193,7 @@
     "source": "arXiv - Fanfei Li, Jana Zeller, Manuel Prada-Corral et al."
   },
   {
-    "id": "arxiv_1786846394975_2",
+    "id": "arxiv_1786851408634_2",
     "name": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
     "category": "machine-learning",
     "description": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to charact...",
@@ -207,7 +207,7 @@
     "source": "arXiv - Fanfei Li, Jana Zeller, Manuel Prada-Corral et al."
   },
   {
-    "id": "arxiv_1786846395140_2",
+    "id": "arxiv_1786851408802_2",
     "name": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
     "category": "nlp",
     "description": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to charact...",
@@ -217,11 +217,11 @@
       "LLM"
     ],
     "date": "2026-08-13T17:56:12Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Fanfei Li, Jana Zeller, Manuel Prada-Corral et al."
   },
   {
-    "id": "arxiv_1786846395140_3",
+    "id": "arxiv_1786851408802_3",
     "name": "SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization",
     "category": "nlp",
     "description": "Sparse autoencoders (SAEs) are proposed to extract numerous features from large language model (LLM) representations, yet explaining these features still relies primarily on external observation. This...",
@@ -231,11 +231,11 @@
       "LLM"
     ],
     "date": "2026-08-13T17:54:11Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Weihan Meng, Hongzhu Guo, Yi Jing et al."
   },
   {
-    "id": "arxiv_1786846394975_3",
+    "id": "arxiv_1786851408634_3",
     "name": "DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees",
     "category": "machine-learning",
     "description": "Speculative decoding losslessly accelerates autoregressive language models by verifying multiple draft tokens in parallel. Diffusion-based drafters further reduce proposal latency by predicting an ent...",
@@ -249,7 +249,7 @@
     "source": "arXiv - Tianyi Li, Yaxin Luo, Xinyi Shang et al."
   },
   {
-    "id": "arxiv_1786846394975_4",
+    "id": "arxiv_1786851408634_4",
     "name": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
     "category": "machine-learning",
     "description": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and ...",
@@ -258,11 +258,11 @@
       "AI"
     ],
     "date": "2026-08-13T17:41:27Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhe Ye, Hantao Lou, Yuechun Sun et al."
   },
   {
-    "id": "arxiv_1786846395140_4",
+    "id": "arxiv_1786851408802_4",
     "name": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
     "category": "nlp",
     "description": "Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mi...",
@@ -271,7 +271,7 @@
       "AI"
     ],
     "date": "2026-08-13T17:37:53Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Peter Schneider-Kamp, Jacob Nielsen, Gianluca Barmina et al."
   }
 ]
