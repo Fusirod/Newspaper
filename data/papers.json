@@ -1,6 +1,36 @@
 [
   {
-    "id": "arxiv_1787018888250_0",
+    "id": "arxiv_1787024016315_0",
+    "name": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+    "category": "ai",
+    "description": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err...",
+    "link": "http://arxiv.org/abs/2608.16889v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-08-17T17:59:57Z",
+    "trending": false,
+    "source": "arXiv - Bingxin Xu, Yuzhang Shang, Emilio Ferrara"
+  },
+  {
+    "id": "arxiv_1787024016386_0",
+    "name": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+    "category": "computer-vision",
+    "description": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err...",
+    "link": "http://arxiv.org/abs/2608.16889v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-08-17T17:59:57Z",
+    "trending": false,
+    "source": "arXiv - Bingxin Xu, Yuzhang Shang, Emilio Ferrara"
+  },
+  {
+    "id": "arxiv_1787024016455_0",
     "name": "Q-based Variational Inverse Reinforcement Learning",
     "category": "machine-learning",
     "description": "The development of safe and beneficial AI requires that systems can learn and act in accordance with human preferences. However, explicitly specifying these preferences by hand is often infeasible. In...",
@@ -14,7 +44,36 @@
     "source": "arXiv - Ondrej Bajgar, Peter Tisnikar, Alessandro Abate et al."
   },
   {
-    "id": "arxiv_1787018888250_1",
+    "id": "arxiv_1787024016386_1",
+    "name": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
+    "category": "computer-vision",
+    "description": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although numerous studies have explored this topic, most focus on small-scale or class-con...",
+    "link": "http://arxiv.org/abs/2608.16887v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-08-17T17:59:25Z",
+    "trending": true,
+    "source": "arXiv - Dengyang Jiang, Ruoyi Du, Zhennan Chen et al."
+  },
+  {
+    "id": "arxiv_1787024016315_1",
+    "name": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+    "category": "ai",
+    "description": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alma...",
+    "link": "http://arxiv.org/abs/2608.16884v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Optimization"
+    ],
+    "date": "2026-08-17T17:59:05Z",
+    "trending": false,
+    "source": "arXiv - Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii et al."
+  },
+  {
+    "id": "arxiv_1787024016455_1",
     "name": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
     "category": "machine-learning",
     "description": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alma...",
@@ -29,7 +88,7 @@
     "source": "arXiv - Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii et al."
   },
   {
-    "id": "arxiv_1787018888250_2",
+    "id": "arxiv_1787024016456_2",
     "name": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run",
     "category": "machine-learning",
     "description": "For any convex body $\\mathcal{K}\\subset\\mathbb{R}^{n}$ containing a unit ball, the spectral gap of Hit-and-Run is $Ω(1/(n^2 C_{\\mathsf{PI}}))$, where $C_{\\mathsf{PI}}$ is the Poincaré constant of the ...",
@@ -38,11 +97,24 @@
       "AI"
     ],
     "date": "2026-08-17T17:57:11Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yunbum Kook, Santosh S. Vempala"
   },
   {
-    "id": "arxiv_1787018888251_3",
+    "id": "arxiv_1787024016315_2",
+    "name": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+    "category": "ai",
+    "description": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolate...",
+    "link": "http://arxiv.org/abs/2608.16876v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-17T17:55:26Z",
+    "trending": true,
+    "source": "arXiv - Kejia Zhang, Youran Sun, Xinyu Ren et al."
+  },
+  {
+    "id": "arxiv_1787024016456_3",
     "name": "AutoSR: Automatic Symbolic Regression by Searching Research States",
     "category": "machine-learning",
     "description": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolate...",
@@ -55,7 +127,7 @@
     "source": "arXiv - Kejia Zhang, Youran Sun, Xinyu Ren et al."
   },
   {
-    "id": "arxiv_1787018888251_4",
+    "id": "arxiv_1787024016456_4",
     "name": "An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators",
     "category": "machine-learning",
     "description": "High-fidelity finite-element simulations can provide accurate numerical predictions for side-branch resonators, but large simulation datasets are expensive to generate and purely data-driven surrogate...",
@@ -64,13 +136,13 @@
       "AI"
     ],
     "date": "2026-08-17T17:53:14Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jiaming Li"
   },
   {
-    "id": "arxiv_1787018895181_0",
+    "id": "arxiv_1787024016315_3",
     "name": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
-    "category": "nlp",
+    "category": "ai",
     "description": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable...",
     "link": "http://arxiv.org/abs/2608.16868v1",
     "tags": [
@@ -83,7 +155,76 @@
     "source": "arXiv - Benjamin Belay"
   },
   {
-    "id": "arxiv_1787018895181_1",
+    "id": "arxiv_1787024017163_0",
+    "name": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
+    "category": "nlp",
+    "description": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable...",
+    "link": "http://arxiv.org/abs/2608.16868v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Transformer"
+    ],
+    "date": "2026-08-17T17:50:04Z",
+    "trending": false,
+    "source": "arXiv - Benjamin Belay"
+  },
+  {
+    "id": "arxiv_1787024016387_2",
+    "name": "SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis",
+    "category": "computer-vision",
+    "description": "Generating photorealistic novel views from unposed images requires both 3D geometric understanding and the ability to synthesize unseen content. A natural strategy combines feed-forward 3DGS reconstru...",
+    "link": "http://arxiv.org/abs/2608.16863v1",
+    "tags": [
+      "Diffusion"
+    ],
+    "date": "2026-08-17T17:45:57Z",
+    "trending": false,
+    "source": "arXiv - Yejun Zhang, Zihan Wang, Xu Ji et al."
+  },
+  {
+    "id": "arxiv_1787024016387_3",
+    "name": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+    "category": "computer-vision",
+    "description": "A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollo...",
+    "link": "http://arxiv.org/abs/2608.16859v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-17T17:43:24Z",
+    "trending": false,
+    "source": "arXiv - Weiliang Chen, Haowen Sun, Jun Gao et al."
+  },
+  {
+    "id": "arxiv_1787024016387_4",
+    "name": "Can Unsupervised Methods Outperform Supervised Deep Learning When Ground Truth Is Sparse? A Case Study of Bronchovascular Bundle Segmentation in Low-Dose CT",
+    "category": "computer-vision",
+    "description": "Background\n  Lung cancer remains the deadliest cancer worldwide because it is often diagnosed too late. Effective treatment depends on detection at an early screening stage. However, the growing numbe...",
+    "link": "http://arxiv.org/abs/2608.16855v1",
+    "tags": [
+      "AI",
+      "Deep Learning"
+    ],
+    "date": "2026-08-17T17:38:22Z",
+    "trending": false,
+    "source": "arXiv - Anna Mrukwa, Marek Socha, Aleksandra Suwalska et al."
+  },
+  {
+    "id": "arxiv_1787024016316_4",
+    "name": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
+    "category": "ai",
+    "description": "Regulatory compliance monitoring in deployed language models is increasingly implemented as a legal and audit control, checking model outputs against written rules spanning data protection, healthcare...",
+    "link": "http://arxiv.org/abs/2608.16852v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-17T17:37:07Z",
+    "trending": true,
+    "source": "arXiv - Saisab Sadhu, Aadit Sengupta, Vinay Kumar Sankarapu et al."
+  },
+  {
+    "id": "arxiv_1787024017163_1",
     "name": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
     "category": "nlp",
     "description": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most ex...",
@@ -93,11 +234,11 @@
       "Neural"
     ],
     "date": "2026-08-17T17:30:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Reza Bayat, Ali Behrouz, Vahab Mirrokni et al."
   },
   {
-    "id": "arxiv_1787018895181_2",
+    "id": "arxiv_1787024017163_2",
     "name": "Model Hypnosis: Strong control of AI via additive subliminal effects",
     "category": "nlp",
     "description": "We demonstrate that AI models are broadly susceptible to a phenomenon we call model hypnosis, in which individually weak and seemingly irrelevant cues in the prompt can be systematically combined to s...",
@@ -110,7 +251,7 @@
     "source": "arXiv - Enric Boix-Adsera, Benedict Tessler"
   },
   {
-    "id": "arxiv_1787018895181_3",
+    "id": "arxiv_1787024017163_3",
     "name": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
     "category": "nlp",
     "description": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instruc...",
@@ -125,7 +266,7 @@
     "source": "arXiv - Minh-Ha Nguyen, Cathy Shyr"
   },
   {
-    "id": "arxiv_1787018895181_4",
+    "id": "arxiv_1787024017163_4",
     "name": "ClawGym II: Exploring Black-Box RL on Agent Harness",
     "category": "nlp",
     "description": "Agent harnesses have substantially improved performance on long-horizon tasks by coordinating agent interactions with the environment. However, reinforcement learning through complex harnesses remains...",
@@ -139,141 +280,5 @@
     "date": "2026-08-17T16:53:03Z",
     "trending": true,
     "source": "arXiv - Huatong Song, Fei Bai, Ming Yang et al."
-  },
-  {
-    "id": "arxiv_1787018838943_0",
-    "name": "The Authority Resolution Framework: A Five-Domain Ontology for Governing Who and What Decides, at Scale",
-    "category": "ai",
-    "description": "As AI systems become increasingly capable of autonomous action, determining whether an agent is technically capable of performing an action is insufficient: the system must also determine whether the ...",
-    "link": "http://arxiv.org/abs/2608.15832v1",
-    "tags": [
-      "AI",
-      "GAN"
-    ],
-    "date": "2026-08-16T16:05:50Z",
-    "trending": true,
-    "source": "arXiv - Parviz Shariff"
-  },
-  {
-    "id": "arxiv_1787018838943_1",
-    "name": "CardiacMamba: Fair and Robust RGB-RF Fusion for Remote Heart Rate Estimation via State Space Modeling",
-    "category": "ai",
-    "description": "Remote photoplethysmography (rPPG) enables non-contact heart rate (HR) monitoring from facial videos, but RGB-only methods are vulnerable to illumination changes, motion artifacts, and skin-tone-depen...",
-    "link": "http://arxiv.org/abs/2608.15831v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-16T16:05:24Z",
-    "trending": false,
-    "source": "arXiv - Bo Zhao, Zheng Wu, Yiping Xie et al."
-  },
-  {
-    "id": "arxiv_1787018839004_0",
-    "name": "CardiacMamba: Fair and Robust RGB-RF Fusion for Remote Heart Rate Estimation via State Space Modeling",
-    "category": "computer-vision",
-    "description": "Remote photoplethysmography (rPPG) enables non-contact heart rate (HR) monitoring from facial videos, but RGB-only methods are vulnerable to illumination changes, motion artifacts, and skin-tone-depen...",
-    "link": "http://arxiv.org/abs/2608.15831v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-16T16:05:24Z",
-    "trending": false,
-    "source": "arXiv - Bo Zhao, Zheng Wu, Yiping Xie et al."
-  },
-  {
-    "id": "arxiv_1787018839004_1",
-    "name": "MITE-Net: SWaP-Optimized 4K Video Tiny Target Perception for Embodied Edge SAR",
-    "category": "computer-vision",
-    "description": "Real-time tiny target perception in high-resolution imagery is critical for embodied Search-and-Rescue (SAR) missions. However, strict Size, Weight, and Power (SWaP) constraints on edge devices like U...",
-    "link": "http://arxiv.org/abs/2608.15830v1",
-    "tags": [
-      "AI",
-      "CNN"
-    ],
-    "date": "2026-08-16T16:02:56Z",
-    "trending": false,
-    "source": "arXiv - Mingshuo Xu, Mu Hua, Jigen Peng et al."
-  },
-  {
-    "id": "arxiv_1787018838943_2",
-    "name": "A Cognitively Motivated Multidimensional Framework for Evaluating Metaphor Explanations",
-    "category": "ai",
-    "description": "Current evaluation of metaphor explanations relies mainly on holistic quality ratings, revealing little about how explanation quality is structured or where human judgments agree and diverge. We intro...",
-    "link": "http://arxiv.org/abs/2608.15828v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-16T16:02:19Z",
-    "trending": false,
-    "source": "arXiv - Ana Naveriani, Jakob Suchan, Stefano Zoia et al."
-  },
-  {
-    "id": "arxiv_1787018839005_2",
-    "name": "FlowDance: Music-Driven Dance Video Generation with Parallel Pose and RGB Streams",
-    "category": "computer-vision",
-    "description": "Music-driven dance video synthesis aims to animate a reference person according to a given music clip. The task is challenging because it requires a model to jointly learn music-to-motion corresponden...",
-    "link": "http://arxiv.org/abs/2608.15818v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-16T15:48:53Z",
-    "trending": true,
-    "source": "arXiv - Genying Li, Boda Lin, Jiachen Li et al."
-  },
-  {
-    "id": "arxiv_1787018838944_3",
-    "name": "RLCascadeRouter: Quality-Estimator-Free Cascade Routing via Reinforcement Learning",
-    "category": "ai",
-    "description": "The growing ecosystem of large language models (LLMs) offers huge potential to optimize performance-cost trade-offs. However, their heterogeneous capabilities and inference costs make efficiently rout...",
-    "link": "http://arxiv.org/abs/2608.15817v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-08-16T15:47:04Z",
-    "trending": false,
-    "source": "arXiv - Shihong Huang, Shengjie Wang, Hong Ma et al."
-  },
-  {
-    "id": "arxiv_1787018839005_3",
-    "name": "From Generation to Matching: A Development Report on Personalized Chinese Handwriting",
-    "category": "computer-vision",
-    "description": "This paper documents a frozen engineering project on personalized Chinese handwriting. The project started from approximately 200 real handwriting images from one user, covering 197 unique Chinese cha...",
-    "link": "http://arxiv.org/abs/2608.15812v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-16T15:39:42Z",
-    "trending": true,
-    "source": "arXiv - Yiwei Liu"
-  },
-  {
-    "id": "arxiv_1787018838944_4",
-    "name": "Pricing the Risk of Runtime Compression: Anytime-Valid Admission and a Served-Output Law for Compressed Serving State",
-    "category": "ai",
-    "description": "Runtime compression of serving state trades quality for capacity with no priced guarantee: systems adapt precision on load signals with no soundness statement, and certified approaches budget request-...",
-    "link": "http://arxiv.org/abs/2608.15810v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-16T15:37:44Z",
-    "trending": false,
-    "source": "arXiv - Fanzhe Wei, Li Liu"
-  },
-  {
-    "id": "arxiv_1787018839005_4",
-    "name": "PWLR: Pairwise Witness Local Rejection for Boundary-Aware Out-of-Distribution Detection",
-    "category": "computer-vision",
-    "description": "Out-of-distribution (OOD) detection remains challenging for image classifiers, especially when near-OOD samples lie close to in-distribution (ID) class boundaries. Recent vision-language detectors imp...",
-    "link": "http://arxiv.org/abs/2608.15802v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-08-16T15:27:50Z",
-    "trending": false,
-    "source": "arXiv - Chengyao Jia, Ruixuan Wang"
   }
 ]
