@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1787083762912_0",
+    "id": "arxiv_1787087463492_0",
     "name": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
     "category": "ai",
     "description": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err...",
@@ -15,7 +15,7 @@
     "source": "arXiv - Bingxin Xu, Yuzhang Shang, Emilio Ferrara"
   },
   {
-    "id": "arxiv_1787083762933_0",
+    "id": "arxiv_1787087463569_0",
     "name": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
     "category": "computer-vision",
     "description": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err...",
@@ -30,7 +30,7 @@
     "source": "arXiv - Bingxin Xu, Yuzhang Shang, Emilio Ferrara"
   },
   {
-    "id": "arxiv_1787083762946_0",
+    "id": "arxiv_1787087463642_0",
     "name": "Q-based Variational Inverse Reinforcement Learning",
     "category": "machine-learning",
     "description": "The development of safe and beneficial AI requires that systems can learn and act in accordance with human preferences. However, explicitly specifying these preferences by hand is often infeasible. In...",
@@ -44,7 +44,7 @@
     "source": "arXiv - Ondrej Bajgar, Peter Tisnikar, Alessandro Abate et al."
   },
   {
-    "id": "arxiv_1787083762933_1",
+    "id": "arxiv_1787087463569_1",
     "name": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
     "category": "computer-vision",
     "description": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although numerous studies have explored this topic, most focus on small-scale or class-con...",
@@ -54,11 +54,11 @@
       "Diffusion"
     ],
     "date": "2026-08-17T17:59:25Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Dengyang Jiang, Ruoyi Du, Zhennan Chen et al."
   },
   {
-    "id": "arxiv_1787083762913_1",
+    "id": "arxiv_1787087463492_1",
     "name": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
     "category": "ai",
     "description": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alma...",
@@ -73,7 +73,7 @@
     "source": "arXiv - Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii et al."
   },
   {
-    "id": "arxiv_1787083762946_1",
+    "id": "arxiv_1787087463642_1",
     "name": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
     "category": "machine-learning",
     "description": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alma...",
@@ -84,11 +84,11 @@
       "Optimization"
     ],
     "date": "2026-08-17T17:59:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii et al."
   },
   {
-    "id": "arxiv_1787083762946_2",
+    "id": "arxiv_1787087463642_2",
     "name": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run",
     "category": "machine-learning",
     "description": "For any convex body $\\mathcal{K}\\subset\\mathbb{R}^{n}$ containing a unit ball, the spectral gap of Hit-and-Run is $Ω(1/(n^2 C_{\\mathsf{PI}}))$, where $C_{\\mathsf{PI}}$ is the Poincaré constant of the ...",
@@ -101,7 +101,7 @@
     "source": "arXiv - Yunbum Kook, Santosh S. Vempala"
   },
   {
-    "id": "arxiv_1787083762913_2",
+    "id": "arxiv_1787087463493_2",
     "name": "AutoSR: Automatic Symbolic Regression by Searching Research States",
     "category": "ai",
     "description": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolate...",
@@ -110,11 +110,11 @@
       "AI"
     ],
     "date": "2026-08-17T17:55:26Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Kejia Zhang, Youran Sun, Xinyu Ren et al."
   },
   {
-    "id": "arxiv_1787083762946_3",
+    "id": "arxiv_1787087463642_3",
     "name": "AutoSR: Automatic Symbolic Regression by Searching Research States",
     "category": "machine-learning",
     "description": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolate...",
@@ -127,7 +127,7 @@
     "source": "arXiv - Kejia Zhang, Youran Sun, Xinyu Ren et al."
   },
   {
-    "id": "arxiv_1787083762947_4",
+    "id": "arxiv_1787087463643_4",
     "name": "An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators",
     "category": "machine-learning",
     "description": "High-fidelity finite-element simulations can provide accurate numerical predictions for side-branch resonators, but large simulation datasets are expensive to generate and purely data-driven surrogate...",
@@ -140,7 +140,7 @@
     "source": "arXiv - Jiaming Li"
   },
   {
-    "id": "arxiv_1787083762913_3",
+    "id": "arxiv_1787087463493_3",
     "name": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
     "category": "ai",
     "description": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable...",
@@ -155,7 +155,7 @@
     "source": "arXiv - Benjamin Belay"
   },
   {
-    "id": "arxiv_1787083762961_0",
+    "id": "arxiv_1787087463715_0",
     "name": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
     "category": "nlp",
     "description": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable...",
@@ -170,7 +170,7 @@
     "source": "arXiv - Benjamin Belay"
   },
   {
-    "id": "arxiv_1787083762933_2",
+    "id": "arxiv_1787087463569_2",
     "name": "SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis",
     "category": "computer-vision",
     "description": "Generating photorealistic novel views from unposed images requires both 3D geometric understanding and the ability to synthesize unseen content. A natural strategy combines feed-forward 3DGS reconstru...",
@@ -179,11 +179,11 @@
       "Diffusion"
     ],
     "date": "2026-08-17T17:45:57Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yejun Zhang, Zihan Wang, Xu Ji et al."
   },
   {
-    "id": "arxiv_1787083762934_3",
+    "id": "arxiv_1787087463569_3",
     "name": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
     "category": "computer-vision",
     "description": "A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollo...",
@@ -193,11 +193,11 @@
       "LLM"
     ],
     "date": "2026-08-17T17:43:24Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Weiliang Chen, Haowen Sun, Jun Gao et al."
   },
   {
-    "id": "arxiv_1787083762934_4",
+    "id": "arxiv_1787087463569_4",
     "name": "Can Unsupervised Methods Outperform Supervised Deep Learning When Ground Truth Is Sparse? A Case Study of Bronchovascular Bundle Segmentation in Low-Dose CT",
     "category": "computer-vision",
     "description": "Background\n  Lung cancer remains the deadliest cancer worldwide because it is often diagnosed too late. Effective treatment depends on detection at an early screening stage. However, the growing numbe...",
@@ -207,11 +207,11 @@
       "Deep Learning"
     ],
     "date": "2026-08-17T17:38:22Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Anna Mrukwa, Marek Socha, Aleksandra Suwalska et al."
   },
   {
-    "id": "arxiv_1787083762913_4",
+    "id": "arxiv_1787087463494_4",
     "name": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
     "category": "ai",
     "description": "Regulatory compliance monitoring in deployed language models is increasingly implemented as a legal and audit control, checking model outputs against written rules spanning data protection, healthcare...",
@@ -224,7 +224,7 @@
     "source": "arXiv - Saisab Sadhu, Aadit Sengupta, Vinay Kumar Sankarapu et al."
   },
   {
-    "id": "arxiv_1787083762961_1",
+    "id": "arxiv_1787087463715_1",
     "name": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
     "category": "nlp",
     "description": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most ex...",
@@ -238,7 +238,7 @@
     "source": "arXiv - Reza Bayat, Ali Behrouz, Vahab Mirrokni et al."
   },
   {
-    "id": "arxiv_1787083762961_2",
+    "id": "arxiv_1787087463715_2",
     "name": "Model Hypnosis: Strong control of AI via additive subliminal effects",
     "category": "nlp",
     "description": "We demonstrate that AI models are broadly susceptible to a phenomenon we call model hypnosis, in which individually weak and seemingly irrelevant cues in the prompt can be systematically combined to s...",
@@ -251,7 +251,7 @@
     "source": "arXiv - Enric Boix-Adsera, Benedict Tessler"
   },
   {
-    "id": "arxiv_1787083762961_3",
+    "id": "arxiv_1787087463715_3",
     "name": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
     "category": "nlp",
     "description": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instruc...",
@@ -266,7 +266,7 @@
     "source": "arXiv - Minh-Ha Nguyen, Cathy Shyr"
   },
   {
-    "id": "arxiv_1787083762961_4",
+    "id": "arxiv_1787087463715_4",
     "name": "ClawGym II: Exploring Black-Box RL on Agent Harness",
     "category": "nlp",
     "description": "Agent harnesses have substantially improved performance on long-horizon tasks by coordinating agent interactions with the environment. However, reinforcement learning through complex harnesses remains...",
@@ -278,7 +278,7 @@
       "Optimization"
     ],
     "date": "2026-08-17T16:53:03Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Huatong Song, Fei Bai, Ming Yang et al."
   }
 ]
