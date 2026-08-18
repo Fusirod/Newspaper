@@ -1,286 +1,279 @@
 [
   {
-    "id": "arxiv_1787012910791_0",
-    "name": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
-    "category": "computer-vision",
-    "description": "With the rapid advancement of image editing models and their widespread application across various domains, there is an increasingly urgent need to deploy these model capabilities directly into real-w...",
-    "link": "http://arxiv.org/abs/2608.14546v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-08-14T17:59:01Z",
-    "trending": false,
-    "source": "arXiv - Qinye Zhou, Jun Zheng, Yongchao Du et al."
-  },
-  {
-    "id": "arxiv_1787012910791_1",
-    "name": "MagnifiQ: Patch-aware Text Guided Progressive Upscaling for High-Resolution Image Restoration",
-    "category": "computer-vision",
-    "description": "High-resolution image restoration from degraded inputs is challenging because it must preserve global structural consistency while recovering fine-grained local details, especially at 4K resolution wh...",
-    "link": "http://arxiv.org/abs/2608.14543v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-08-14T17:56:04Z",
-    "trending": false,
-    "source": "arXiv - Mahesh Reddy, Yashesh Savani, Antoine Mercier et al."
-  },
-  {
-    "id": "arxiv_1787012910770_0",
-    "name": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
-    "category": "ai",
-    "description": "Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contempor...",
-    "link": "http://arxiv.org/abs/2608.14539v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Deep Learning"
-    ],
-    "date": "2026-08-14T17:51:30Z",
-    "trending": false,
-    "source": "arXiv - Karel Becerra, Boris Mederos, Dean Snow et al."
-  },
-  {
-    "id": "arxiv_1787012910791_2",
-    "name": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
-    "category": "computer-vision",
-    "description": "Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contempor...",
-    "link": "http://arxiv.org/abs/2608.14539v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Deep Learning"
-    ],
-    "date": "2026-08-14T17:51:30Z",
-    "trending": false,
-    "source": "arXiv - Karel Becerra, Boris Mederos, Dean Snow et al."
-  },
-  {
-    "id": "arxiv_1787012910810_0",
-    "name": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+    "id": "arxiv_1787018888250_0",
+    "name": "Q-based Variational Inverse Reinforcement Learning",
     "category": "machine-learning",
-    "description": "Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contempor...",
-    "link": "http://arxiv.org/abs/2608.14539v1",
+    "description": "The development of safe and beneficial AI requires that systems can learn and act in accordance with human preferences. However, explicitly specifying these preferences by hand is often infeasible. In...",
+    "link": "http://arxiv.org/abs/2608.16888v1",
     "tags": [
       "AI",
-      "Neural",
-      "Deep Learning"
-    ],
-    "date": "2026-08-14T17:51:30Z",
-    "trending": false,
-    "source": "arXiv - Karel Becerra, Boris Mederos, Dean Snow et al."
-  },
-  {
-    "id": "arxiv_1787012910770_1",
-    "name": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
-    "category": "ai",
-    "description": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintain...",
-    "link": "http://arxiv.org/abs/2608.14530v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Diffusion"
-    ],
-    "date": "2026-08-14T17:48:16Z",
-    "trending": false,
-    "source": "arXiv - Zian Meng, Zhen Li, Chuanhao Li et al."
-  },
-  {
-    "id": "arxiv_1787012910791_3",
-    "name": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
-    "category": "computer-vision",
-    "description": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintain...",
-    "link": "http://arxiv.org/abs/2608.14530v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Diffusion"
-    ],
-    "date": "2026-08-14T17:48:16Z",
-    "trending": false,
-    "source": "arXiv - Zian Meng, Zhen Li, Chuanhao Li et al."
-  },
-  {
-    "id": "arxiv_1787012910770_2",
-    "name": "Handover of In-Context Learning State Across Session Boundaries",
-    "category": "ai",
-    "description": "This study investigates the methodological and theoretical properties of session handover in applications that use large language models. A task may continue in a new session when the context reaches ...",
-    "link": "http://arxiv.org/abs/2608.14528v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-14T17:47:13Z",
-    "trending": true,
-    "source": "arXiv - Masahiro Kato, Taka Kato"
-  },
-  {
-    "id": "arxiv_1787012910770_3",
-    "name": "Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers",
-    "category": "ai",
-    "description": "As AI systems make more morally loaded decisions across society, one response has been moral preference elicitation. In this approach, researchers poll participants on hypothetical dilemmas and use th...",
-    "link": "http://arxiv.org/abs/2608.14522v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-14T17:43:16Z",
-    "trending": false,
-    "source": "arXiv - Taenyun Kim, Edyta Bogucka, Daniele Quercia"
-  },
-  {
-    "id": "arxiv_1787012910770_4",
-    "name": "Learning-to-Transition for Large-scale and High-Order MIMO Detection",
-    "category": "ai",
-    "description": "High-order multiple-input multiple-output (MIMO) detection requires efficient search over a large discrete symbol space while producing reliable soft information for channel decoding. This paper devel...",
-    "link": "http://arxiv.org/abs/2608.14511v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-08-14T17:29:07Z",
-    "trending": false,
-    "source": "arXiv - Yubo Zhang, Yiyao Liu, Xiaodong Wang"
-  },
-  {
-    "id": "arxiv_1787012910811_1",
-    "name": "Split the Labor: Separating Evidence Interpretation from Decision Aggregation",
-    "category": "machine-learning",
-    "description": "Systems that ask a language model to reach a conclusion from many sources usually concatenate them into one prompt. This conflates two operations with different requirements. Interpreting a source rew...",
-    "link": "http://arxiv.org/abs/2608.14509v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-14T17:24:55Z",
-    "trending": false,
-    "source": "arXiv - Zhelun Wu"
-  },
-  {
-    "id": "arxiv_1787012911080_0",
-    "name": "Split the Labor: Separating Evidence Interpretation from Decision Aggregation",
-    "category": "nlp",
-    "description": "Systems that ask a language model to reach a conclusion from many sources usually concatenate them into one prompt. This conflates two operations with different requirements. Interpreting a source rew...",
-    "link": "http://arxiv.org/abs/2608.14509v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-14T17:24:55Z",
-    "trending": true,
-    "source": "arXiv - Zhelun Wu"
-  },
-  {
-    "id": "arxiv_1787012910811_2",
-    "name": "RecipeNet: A Hierarchical Transformer for Recipe Data",
-    "category": "machine-learning",
-    "description": "Recipe data arises in domains such as materials synthesis, pharmaceutical formulation, and industrial manufacturing, where procedures are represented as ordered sequences of steps containing heterogen...",
-    "link": "http://arxiv.org/abs/2608.14505v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-08-14T17:18:36Z",
-    "trending": false,
-    "source": "arXiv - Pin-Yen Huang, Sachin Chhabra, Prasanth Sai Gouripeddi et al."
-  },
-  {
-    "id": "arxiv_1787012910811_3",
-    "name": "Universal Thermodynamic Interatomic Potentials for Crystalline Materials",
-    "category": "machine-learning",
-    "description": "Free energies govern solid-state phase stability, yet computational materials discovery still relies largely on ground-state energies because free energy calculations require ensemble averages. We int...",
-    "link": "http://arxiv.org/abs/2608.14502v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-14T17:16:27Z",
-    "trending": true,
-    "source": "arXiv - Juno Nam, Bowen Deng, Xiaochen Du et al."
-  },
-  {
-    "id": "arxiv_1787012910811_4",
-    "name": "Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training",
-    "category": "machine-learning",
-    "description": "Vision-language models (VLMs) enable embodied agents to reason and act from visual observations and language instructions. Reinforcement learning (RL) post-training enhances these capabilities using t...",
-    "link": "http://arxiv.org/abs/2608.14498v1",
-    "tags": [
-      "AI",
-      "Vision",
       "Reinforcement Learning"
     ],
-    "date": "2026-08-14T17:13:34Z",
+    "date": "2026-08-17T17:59:55Z",
     "trending": false,
-    "source": "arXiv - Hanfeng Lu, Tianyu Feng, Suyi Li et al."
+    "source": "arXiv - Ondrej Bajgar, Peter Tisnikar, Alessandro Abate et al."
   },
   {
-    "id": "arxiv_1787012911081_1",
-    "name": "You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model",
-    "category": "nlp",
-    "description": "A frozen language model on reasoning tasks has two coupled weaknesses: it under-uses evidence its own residual stream already encodes, and it fails to detect when the input is insufficient to answer, ...",
-    "link": "http://arxiv.org/abs/2608.14465v1",
+    "id": "arxiv_1787018888250_1",
+    "name": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+    "category": "machine-learning",
+    "description": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alma...",
+    "link": "http://arxiv.org/abs/2608.16884v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Optimization"
+    ],
+    "date": "2026-08-17T17:59:05Z",
+    "trending": true,
+    "source": "arXiv - Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii et al."
+  },
+  {
+    "id": "arxiv_1787018888250_2",
+    "name": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run",
+    "category": "machine-learning",
+    "description": "For any convex body $\\mathcal{K}\\subset\\mathbb{R}^{n}$ containing a unit ball, the spectral gap of Hit-and-Run is $Ω(1/(n^2 C_{\\mathsf{PI}}))$, where $C_{\\mathsf{PI}}$ is the Poincaré constant of the ...",
+    "link": "http://arxiv.org/abs/2608.16878v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-08-14T16:44:35Z",
+    "date": "2026-08-17T17:57:11Z",
     "trending": false,
-    "source": "arXiv - Ziyang Luo, Zhongyao Chu, Xinjie He et al."
+    "source": "arXiv - Yunbum Kook, Santosh S. Vempala"
   },
   {
-    "id": "arxiv_1787012911081_2",
-    "name": "Information Satisfaction: A Reader-Centered Axis for Summarization Evaluation",
-    "category": "nlp",
-    "description": "The majority of work on summarization evaluation focuses on general summary quality (e.g., ROUGE, BERTScore) or specific desired properties (e.g., readability, factuality). However, these metrics fail...",
-    "link": "http://arxiv.org/abs/2608.14457v1",
+    "id": "arxiv_1787018888251_3",
+    "name": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+    "category": "machine-learning",
+    "description": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolate...",
+    "link": "http://arxiv.org/abs/2608.16876v1",
     "tags": [
-      "AI",
-      "LLM",
-      "BERT"
+      "AI"
     ],
-    "date": "2026-08-14T16:41:23Z",
-    "trending": true,
-    "source": "arXiv - Isabel Cachola, William Walden, Reno Kriz et al."
-  },
-  {
-    "id": "arxiv_1787012910791_4",
-    "name": "Style or Signature? Artist-Disjoint Evaluation of Style Classification in Frozen Vision Embeddings",
-    "category": "computer-vision",
-    "description": "Frozen image embeddings from models such as CLIP are increasingly used to classify paintings by art-historical style, with high reported accuracy. We ask whether this accuracy reflects an understandin...",
-    "link": "http://arxiv.org/abs/2608.14435v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-08-14T16:18:11Z",
-    "trending": true,
-    "source": "arXiv - Rory Ashton"
-  },
-  {
-    "id": "arxiv_1787012911081_3",
-    "name": "Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice",
-    "category": "nlp",
-    "description": "Patients increasingly ask large language model (LLM) assistants which doctor to see, making these systems AI infomediaries: algorithms that intermediate one person's choice among other people and ther...",
-    "link": "http://arxiv.org/abs/2608.14399v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT"
-    ],
-    "date": "2026-08-14T15:39:10Z",
+    "date": "2026-08-17T17:55:26Z",
     "trending": false,
-    "source": "arXiv - Syeda Anshrah Gillani, Mirza Samad Ahmed Baig"
+    "source": "arXiv - Kejia Zhang, Youran Sun, Xinyu Ren et al."
   },
   {
-    "id": "arxiv_1787012911081_4",
-    "name": "LLMs Don't Pay for the Jump",
+    "id": "arxiv_1787018888251_4",
+    "name": "An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators",
+    "category": "machine-learning",
+    "description": "High-fidelity finite-element simulations can provide accurate numerical predictions for side-branch resonators, but large simulation datasets are expensive to generate and purely data-driven surrogate...",
+    "link": "http://arxiv.org/abs/2608.16873v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-17T17:53:14Z",
+    "trending": true,
+    "source": "arXiv - Jiaming Li"
+  },
+  {
+    "id": "arxiv_1787018895181_0",
+    "name": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
     "category": "nlp",
-    "description": "Zahavy [2026] argues that Large Language Models, despite their capabilities in induction and deduction, cannot perform the abductive \"Jump\" that produced Einstein's equivalence principle, and attribut...",
-    "link": "http://arxiv.org/abs/2608.14397v1",
+    "description": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable...",
+    "link": "http://arxiv.org/abs/2608.16868v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Transformer"
+    ],
+    "date": "2026-08-17T17:50:04Z",
+    "trending": true,
+    "source": "arXiv - Benjamin Belay"
+  },
+  {
+    "id": "arxiv_1787018895181_1",
+    "name": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
+    "category": "nlp",
+    "description": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most ex...",
+    "link": "http://arxiv.org/abs/2608.16844v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-08-17T17:30:43Z",
+    "trending": true,
+    "source": "arXiv - Reza Bayat, Ali Behrouz, Vahab Mirrokni et al."
+  },
+  {
+    "id": "arxiv_1787018895181_2",
+    "name": "Model Hypnosis: Strong control of AI via additive subliminal effects",
+    "category": "nlp",
+    "description": "We demonstrate that AI models are broadly susceptible to a phenomenon we call model hypnosis, in which individually weak and seemingly irrelevant cues in the prompt can be systematically combined to s...",
+    "link": "http://arxiv.org/abs/2608.16834v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-17T17:20:10Z",
+    "trending": false,
+    "source": "arXiv - Enric Boix-Adsera, Benedict Tessler"
+  },
+  {
+    "id": "arxiv_1787018895181_3",
+    "name": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
+    "category": "nlp",
+    "description": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instruc...",
+    "link": "http://arxiv.org/abs/2608.16831v1",
     "tags": [
       "AI",
       "Vision",
-      "Transformer",
+      "GPT"
+    ],
+    "date": "2026-08-17T17:16:43Z",
+    "trending": false,
+    "source": "arXiv - Minh-Ha Nguyen, Cathy Shyr"
+  },
+  {
+    "id": "arxiv_1787018895181_4",
+    "name": "ClawGym II: Exploring Black-Box RL on Agent Harness",
+    "category": "nlp",
+    "description": "Agent harnesses have substantially improved performance on long-horizon tasks by coordinating agent interactions with the environment. However, reinforcement learning through complex harnesses remains...",
+    "link": "http://arxiv.org/abs/2608.16798v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-08-17T16:53:03Z",
+    "trending": true,
+    "source": "arXiv - Huatong Song, Fei Bai, Ming Yang et al."
+  },
+  {
+    "id": "arxiv_1787018838943_0",
+    "name": "The Authority Resolution Framework: A Five-Domain Ontology for Governing Who and What Decides, at Scale",
+    "category": "ai",
+    "description": "As AI systems become increasingly capable of autonomous action, determining whether an agent is technically capable of performing an action is insufficient: the system must also determine whether the ...",
+    "link": "http://arxiv.org/abs/2608.15832v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-08-16T16:05:50Z",
+    "trending": true,
+    "source": "arXiv - Parviz Shariff"
+  },
+  {
+    "id": "arxiv_1787018838943_1",
+    "name": "CardiacMamba: Fair and Robust RGB-RF Fusion for Remote Heart Rate Estimation via State Space Modeling",
+    "category": "ai",
+    "description": "Remote photoplethysmography (rPPG) enables non-contact heart rate (HR) monitoring from facial videos, but RGB-only methods are vulnerable to illumination changes, motion artifacts, and skin-tone-depen...",
+    "link": "http://arxiv.org/abs/2608.15831v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-16T16:05:24Z",
+    "trending": false,
+    "source": "arXiv - Bo Zhao, Zheng Wu, Yiping Xie et al."
+  },
+  {
+    "id": "arxiv_1787018839004_0",
+    "name": "CardiacMamba: Fair and Robust RGB-RF Fusion for Remote Heart Rate Estimation via State Space Modeling",
+    "category": "computer-vision",
+    "description": "Remote photoplethysmography (rPPG) enables non-contact heart rate (HR) monitoring from facial videos, but RGB-only methods are vulnerable to illumination changes, motion artifacts, and skin-tone-depen...",
+    "link": "http://arxiv.org/abs/2608.15831v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-16T16:05:24Z",
+    "trending": false,
+    "source": "arXiv - Bo Zhao, Zheng Wu, Yiping Xie et al."
+  },
+  {
+    "id": "arxiv_1787018839004_1",
+    "name": "MITE-Net: SWaP-Optimized 4K Video Tiny Target Perception for Embodied Edge SAR",
+    "category": "computer-vision",
+    "description": "Real-time tiny target perception in high-resolution imagery is critical for embodied Search-and-Rescue (SAR) missions. However, strict Size, Weight, and Power (SWaP) constraints on edge devices like U...",
+    "link": "http://arxiv.org/abs/2608.15830v1",
+    "tags": [
+      "AI",
+      "CNN"
+    ],
+    "date": "2026-08-16T16:02:56Z",
+    "trending": false,
+    "source": "arXiv - Mingshuo Xu, Mu Hua, Jigen Peng et al."
+  },
+  {
+    "id": "arxiv_1787018838943_2",
+    "name": "A Cognitively Motivated Multidimensional Framework for Evaluating Metaphor Explanations",
+    "category": "ai",
+    "description": "Current evaluation of metaphor explanations relies mainly on holistic quality ratings, revealing little about how explanation quality is structured or where human judgments agree and diverge. We intro...",
+    "link": "http://arxiv.org/abs/2608.15828v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-16T16:02:19Z",
+    "trending": false,
+    "source": "arXiv - Ana Naveriani, Jakob Suchan, Stefano Zoia et al."
+  },
+  {
+    "id": "arxiv_1787018839005_2",
+    "name": "FlowDance: Music-Driven Dance Video Generation with Parallel Pose and RGB Streams",
+    "category": "computer-vision",
+    "description": "Music-driven dance video synthesis aims to animate a reference person according to a given music clip. The task is challenging because it requires a model to jointly learn music-to-motion corresponden...",
+    "link": "http://arxiv.org/abs/2608.15818v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-16T15:48:53Z",
+    "trending": true,
+    "source": "arXiv - Genying Li, Boda Lin, Jiachen Li et al."
+  },
+  {
+    "id": "arxiv_1787018838944_3",
+    "name": "RLCascadeRouter: Quality-Estimator-Free Cascade Routing via Reinforcement Learning",
+    "category": "ai",
+    "description": "The growing ecosystem of large language models (LLMs) offers huge potential to optimize performance-cost trade-offs. However, their heterogeneous capabilities and inference costs make efficiently rout...",
+    "link": "http://arxiv.org/abs/2608.15817v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-08-16T15:47:04Z",
+    "trending": false,
+    "source": "arXiv - Shihong Huang, Shengjie Wang, Hong Ma et al."
+  },
+  {
+    "id": "arxiv_1787018839005_3",
+    "name": "From Generation to Matching: A Development Report on Personalized Chinese Handwriting",
+    "category": "computer-vision",
+    "description": "This paper documents a frozen engineering project on personalized Chinese handwriting. The project started from approximately 200 real handwriting images from one user, covering 197 unique Chinese cha...",
+    "link": "http://arxiv.org/abs/2608.15812v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-16T15:39:42Z",
+    "trending": true,
+    "source": "arXiv - Yiwei Liu"
+  },
+  {
+    "id": "arxiv_1787018838944_4",
+    "name": "Pricing the Risk of Runtime Compression: Anytime-Valid Admission and a Served-Output Law for Compressed Serving State",
+    "category": "ai",
+    "description": "Runtime compression of serving state trades quality for capacity with no priced guarantee: systems adapt precision on load signals with no soundness statement, and certified approaches budget request-...",
+    "link": "http://arxiv.org/abs/2608.15810v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-16T15:37:44Z",
+    "trending": false,
+    "source": "arXiv - Fanzhe Wei, Li Liu"
+  },
+  {
+    "id": "arxiv_1787018839005_4",
+    "name": "PWLR: Pairwise Witness Local Rejection for Boundary-Aware Out-of-Distribution Detection",
+    "category": "computer-vision",
+    "description": "Out-of-distribution (OOD) detection remains challenging for image classifiers, especially when near-OOD samples lie close to in-distribution (ID) class boundaries. Recent vision-language detectors imp...",
+    "link": "http://arxiv.org/abs/2608.15802v1",
+    "tags": [
+      "AI",
+      "Vision",
       "LLM"
     ],
-    "date": "2026-08-14T15:36:35Z",
+    "date": "2026-08-16T15:27:50Z",
     "trending": false,
-    "source": "arXiv - Paras Balani, Subhrakanta Panda"
+    "source": "arXiv - Chengyao Jia, Ruixuan Wang"
   }
 ]
