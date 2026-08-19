@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1787134516131_0",
+    "id": "arxiv_1787137988528_0",
     "name": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
     "category": "ai",
     "description": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen...",
@@ -16,23 +16,7 @@
     "source": "arXiv - Xingjian Wang, Zhao Wang, Taihang Hu et al."
   },
   {
-    "id": "arxiv_1787134543923_0",
-    "name": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
-    "category": "computer-vision",
-    "description": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen...",
-    "link": "http://arxiv.org/abs/2608.18076v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GAN",
-      "Diffusion"
-    ],
-    "date": "2026-08-18T17:59:01Z",
-    "trending": true,
-    "source": "arXiv - Xingjian Wang, Zhao Wang, Taihang Hu et al."
-  },
-  {
-    "id": "arxiv_1787134516131_1",
+    "id": "arxiv_1787137988528_1",
     "name": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
     "category": "ai",
     "description": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, ...",
@@ -41,11 +25,11 @@
       "AI"
     ],
     "date": "2026-08-18T17:55:07Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Qinyuan Ye, Yu Li, Yada Pruksachatkun et al."
   },
   {
-    "id": "arxiv_1787134559103_0",
+    "id": "arxiv_1787138049978_0",
     "name": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
     "category": "machine-learning",
     "description": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, ...",
@@ -54,25 +38,11 @@
       "AI"
     ],
     "date": "2026-08-18T17:55:07Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Qinyuan Ye, Yu Li, Yada Pruksachatkun et al."
   },
   {
-    "id": "arxiv_1787134543923_1",
-    "name": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
-    "category": "computer-vision",
-    "description": "High-resolution image editing is increasingly demanded in professional workflows, yet existing diffusion-based models remain constrained to resolutions below 1K due to quadratic attention complexity a...",
-    "link": "http://arxiv.org/abs/2608.18063v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-08-18T17:53:16Z",
-    "trending": false,
-    "source": "arXiv - Jiayi Song, Shijie Huang, Fangtai Wu et al."
-  },
-  {
-    "id": "arxiv_1787134559103_1",
+    "id": "arxiv_1787138049978_1",
     "name": "TokEval: A Tokenizer Evaluation Suite",
     "category": "machine-learning",
     "description": "Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited unde...",
@@ -85,7 +55,7 @@
     "source": "arXiv - Clara Meister"
   },
   {
-    "id": "arxiv_1787134559103_2",
+    "id": "arxiv_1787138049978_2",
     "name": "The concentration game: Bayesian updating, regret, and information",
     "category": "machine-learning",
     "description": "We give a two-player zero-sum repeated game between a learner and nature whose value identity generates Bayesian updating and an exact accounting of exponential-weights regret at once, and supplies th...",
@@ -99,7 +69,7 @@
     "source": "arXiv - Akshay Balsubramani"
   },
   {
-    "id": "arxiv_1787134516131_2",
+    "id": "arxiv_1787137988528_2",
     "name": "Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating",
     "category": "ai",
     "description": "Autonomous LLM agents that converse on a user's behalf are an emerging design pattern in matching platforms, yet their viability depends on a condition rarely examined: users must accept not only dele...",
@@ -113,7 +83,7 @@
     "source": "arXiv - Daria Leshchikova, Valentina V. Kuskova, Dmitry Zaytsev et al."
   },
   {
-    "id": "arxiv_1787134516132_3",
+    "id": "arxiv_1787137988529_3",
     "name": "HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance",
     "category": "ai",
     "description": "Urban traffic congestion reduces productivity and increases travel cost and emissions. Network-wide live travel-time shortest-path rerouting can be highly effective in simulation, but assumes that ess...",
@@ -126,9 +96,9 @@
     "source": "arXiv - Xiao Wang, Shun Ren Yang, Hui Nien Hung"
   },
   {
-    "id": "arxiv_1787134543924_2",
+    "id": "arxiv_1787138049978_3",
     "name": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
-    "category": "computer-vision",
+    "category": "machine-learning",
     "description": "Reliable quantitative analysis of dynamic contrast-enhanced MRI requires high-quality spatiotemporal reconstructions at high undersampling rates. Scan-specific reconstructions using Gaussian and Gabor...",
     "link": "http://arxiv.org/abs/2608.18055v1",
     "tags": [
@@ -139,20 +109,7 @@
     "source": "arXiv - Veronika Spieker, Wenqi Huang, Cemre Ariyurek et al."
   },
   {
-    "id": "arxiv_1787134559103_3",
-    "name": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
-    "category": "machine-learning",
-    "description": "Reliable quantitative analysis of dynamic contrast-enhanced MRI requires high-quality spatiotemporal reconstructions at high undersampling rates. Scan-specific reconstructions using Gaussian and Gabor...",
-    "link": "http://arxiv.org/abs/2608.18055v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-18T17:48:22Z",
-    "trending": true,
-    "source": "arXiv - Veronika Spieker, Wenqi Huang, Cemre Ariyurek et al."
-  },
-  {
-    "id": "arxiv_1787134516132_4",
+    "id": "arxiv_1787137988529_4",
     "name": "StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents",
     "category": "ai",
     "description": "AI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they sea...",
@@ -162,27 +119,11 @@
       "GPT"
     ],
     "date": "2026-08-18T17:44:18Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yining Hua, Hongbin Na, Yifan Zhou et al."
   },
   {
-    "id": "arxiv_1787134543924_3",
-    "name": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
-    "category": "computer-vision",
-    "description": "Sampling from a diffusion model typically requires many forward passes through a large neural network, making generation computationally expensive. While much work has focused on efficient solvers and...",
-    "link": "http://arxiv.org/abs/2608.18040v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Diffusion",
-      "Optimization"
-    ],
-    "date": "2026-08-18T17:33:00Z",
-    "trending": true,
-    "source": "arXiv - Travis Zhang, Christian Belardi, Justin Lovelace et al."
-  },
-  {
-    "id": "arxiv_1787134559103_4",
+    "id": "arxiv_1787138049978_4",
     "name": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
     "category": "machine-learning",
     "description": "Sampling from a diffusion model typically requires many forward passes through a large neural network, making generation computationally expensive. While much work has focused on efficient solvers and...",
@@ -194,22 +135,7 @@
       "Optimization"
     ],
     "date": "2026-08-18T17:33:00Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Travis Zhang, Christian Belardi, Justin Lovelace et al."
-  },
-  {
-    "id": "arxiv_1787134543924_4",
-    "name": "Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors",
-    "category": "computer-vision",
-    "description": "MRI reconstruction methods for undersampled k-space data naturally utilize complex-valued measurements. Parallel developments in sparse phase retrieval have shown that magnitude-only measurements may ...",
-    "link": "http://arxiv.org/abs/2608.18036v1",
-    "tags": [
-      "AI",
-      "Deep Learning",
-      "Optimization"
-    ],
-    "date": "2026-08-18T17:31:07Z",
-    "trending": false,
-    "source": "arXiv - Mahdi Saberi, Yaşar Utku Alçalar, Merve Gülle et al."
   }
 ]
