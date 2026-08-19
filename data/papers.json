@@ -1,163 +1,262 @@
 [
   {
-    "id": "arxiv_1787099347335_0",
-    "name": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
-    "category": "ai",
-    "description": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err...",
-    "link": "http://arxiv.org/abs/2608.16889v1",
+    "id": "arxiv_1787105414649_0",
+    "name": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+    "category": "computer-vision",
+    "description": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen...",
+    "link": "http://arxiv.org/abs/2608.18076v1",
     "tags": [
       "AI",
       "Vision",
-      "LLM"
-    ],
-    "date": "2026-08-17T17:59:57Z",
-    "trending": true,
-    "source": "arXiv - Bingxin Xu, Yuzhang Shang, Emilio Ferrara"
-  },
-  {
-    "id": "arxiv_1787099347393_0",
-    "name": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
-    "category": "computer-vision",
-    "description": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err...",
-    "link": "http://arxiv.org/abs/2608.16889v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-08-17T17:59:57Z",
-    "trending": false,
-    "source": "arXiv - Bingxin Xu, Yuzhang Shang, Emilio Ferrara"
-  },
-  {
-    "id": "arxiv_1787099347450_0",
-    "name": "Q-based Variational Inverse Reinforcement Learning",
-    "category": "machine-learning",
-    "description": "The development of safe and beneficial AI requires that systems can learn and act in accordance with human preferences. However, explicitly specifying these preferences by hand is often infeasible. In...",
-    "link": "http://arxiv.org/abs/2608.16888v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-08-17T17:59:55Z",
-    "trending": true,
-    "source": "arXiv - Ondrej Bajgar, Peter Tisnikar, Alessandro Abate et al."
-  },
-  {
-    "id": "arxiv_1787099347393_1",
-    "name": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
-    "category": "computer-vision",
-    "description": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although numerous studies have explored this topic, most focus on small-scale or class-con...",
-    "link": "http://arxiv.org/abs/2608.16887v1",
-    "tags": [
-      "AI",
+      "GAN",
       "Diffusion"
     ],
-    "date": "2026-08-17T17:59:25Z",
+    "date": "2026-08-18T17:59:01Z",
     "trending": false,
-    "source": "arXiv - Dengyang Jiang, Ruoyi Du, Zhennan Chen et al."
+    "source": "arXiv - Xingjian Wang, Zhao Wang, Taihang Hu et al."
   },
   {
-    "id": "arxiv_1787099347335_1",
-    "name": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
-    "category": "ai",
-    "description": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alma...",
-    "link": "http://arxiv.org/abs/2608.16884v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "Optimization"
-    ],
-    "date": "2026-08-17T17:59:05Z",
-    "trending": false,
-    "source": "arXiv - Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii et al."
-  },
-  {
-    "id": "arxiv_1787099347451_1",
-    "name": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
-    "category": "machine-learning",
-    "description": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alma...",
-    "link": "http://arxiv.org/abs/2608.16884v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "Optimization"
-    ],
-    "date": "2026-08-17T17:59:05Z",
-    "trending": false,
-    "source": "arXiv - Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii et al."
-  },
-  {
-    "id": "arxiv_1787099347451_2",
-    "name": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run",
-    "category": "machine-learning",
-    "description": "For any convex body $\\mathcal{K}\\subset\\mathbb{R}^{n}$ containing a unit ball, the spectral gap of Hit-and-Run is $Ω(1/(n^2 C_{\\mathsf{PI}}))$, where $C_{\\mathsf{PI}}$ is the Poincaré constant of the ...",
-    "link": "http://arxiv.org/abs/2608.16878v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-17T17:57:11Z",
-    "trending": false,
-    "source": "arXiv - Yunbum Kook, Santosh S. Vempala"
-  },
-  {
-    "id": "arxiv_1787099347335_2",
-    "name": "AutoSR: Automatic Symbolic Regression by Searching Research States",
-    "category": "ai",
-    "description": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolate...",
-    "link": "http://arxiv.org/abs/2608.16876v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-17T17:55:26Z",
-    "trending": false,
-    "source": "arXiv - Kejia Zhang, Youran Sun, Xinyu Ren et al."
-  },
-  {
-    "id": "arxiv_1787099347451_3",
-    "name": "AutoSR: Automatic Symbolic Regression by Searching Research States",
-    "category": "machine-learning",
-    "description": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolate...",
-    "link": "http://arxiv.org/abs/2608.16876v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-17T17:55:26Z",
-    "trending": false,
-    "source": "arXiv - Kejia Zhang, Youran Sun, Xinyu Ren et al."
-  },
-  {
-    "id": "arxiv_1787099347451_4",
-    "name": "An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators",
-    "category": "machine-learning",
-    "description": "High-fidelity finite-element simulations can provide accurate numerical predictions for side-branch resonators, but large simulation datasets are expensive to generate and purely data-driven surrogate...",
-    "link": "http://arxiv.org/abs/2608.16873v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-17T17:53:14Z",
-    "trending": false,
-    "source": "arXiv - Jiaming Li"
-  },
-  {
-    "id": "arxiv_1787099347335_3",
-    "name": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
-    "category": "ai",
-    "description": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable...",
-    "link": "http://arxiv.org/abs/2608.16868v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Transformer"
-    ],
-    "date": "2026-08-17T17:50:04Z",
-    "trending": true,
-    "source": "arXiv - Benjamin Belay"
-  },
-  {
-    "id": "arxiv_1787099347508_0",
-    "name": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
+    "id": "arxiv_1787105428502_0",
+    "name": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
     "category": "nlp",
+    "description": "Purpose: To develop and evaluate a locally deployed multi-agent AI system for radiology report structuring and quality assurance. Materials and Methods: This retrospective study included 638 radiology...",
+    "link": "http://arxiv.org/abs/2608.18072v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-18T17:57:08Z",
+    "trending": false,
+    "source": "arXiv - Iryna Hartsock, Cesar Lam, Christopher Otteni et al."
+  },
+  {
+    "id": "arxiv_1787105428430_0",
+    "name": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+    "category": "machine-learning",
+    "description": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, ...",
+    "link": "http://arxiv.org/abs/2608.18066v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-18T17:55:07Z",
+    "trending": true,
+    "source": "arXiv - Qinyuan Ye, Yu Li, Yada Pruksachatkun et al."
+  },
+  {
+    "id": "arxiv_1787105428502_1",
+    "name": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+    "category": "nlp",
+    "description": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, ...",
+    "link": "http://arxiv.org/abs/2608.18066v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-18T17:55:07Z",
+    "trending": true,
+    "source": "arXiv - Qinyuan Ye, Yu Li, Yada Pruksachatkun et al."
+  },
+  {
+    "id": "arxiv_1787105414650_1",
+    "name": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
+    "category": "computer-vision",
+    "description": "High-resolution image editing is increasingly demanded in professional workflows, yet existing diffusion-based models remain constrained to resolutions below 1K due to quadratic attention complexity a...",
+    "link": "http://arxiv.org/abs/2608.18063v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-08-18T17:53:16Z",
+    "trending": false,
+    "source": "arXiv - Jiayi Song, Shijie Huang, Fangtai Wu et al."
+  },
+  {
+    "id": "arxiv_1787105428430_1",
+    "name": "TokEval: A Tokenizer Evaluation Suite",
+    "category": "machine-learning",
+    "description": "Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited unde...",
+    "link": "http://arxiv.org/abs/2608.18062v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-18T17:52:52Z",
+    "trending": false,
+    "source": "arXiv - Clara Meister"
+  },
+  {
+    "id": "arxiv_1787105428502_2",
+    "name": "TokEval: A Tokenizer Evaluation Suite",
+    "category": "nlp",
+    "description": "Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited unde...",
+    "link": "http://arxiv.org/abs/2608.18062v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-18T17:52:52Z",
+    "trending": false,
+    "source": "arXiv - Clara Meister"
+  },
+  {
+    "id": "arxiv_1787105428430_2",
+    "name": "The concentration game: Bayesian updating, regret, and information",
+    "category": "machine-learning",
+    "description": "We give a two-player zero-sum repeated game between a learner and nature whose value identity generates Bayesian updating and an exact accounting of exponential-weights regret at once, and supplies th...",
+    "link": "http://arxiv.org/abs/2608.18061v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-18T17:52:26Z",
+    "trending": false,
+    "source": "arXiv - Akshay Balsubramani"
+  },
+  {
+    "id": "arxiv_1787105414650_2",
+    "name": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
+    "category": "computer-vision",
+    "description": "Reliable quantitative analysis of dynamic contrast-enhanced MRI requires high-quality spatiotemporal reconstructions at high undersampling rates. Scan-specific reconstructions using Gaussian and Gabor...",
+    "link": "http://arxiv.org/abs/2608.18055v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-18T17:48:22Z",
+    "trending": false,
+    "source": "arXiv - Veronika Spieker, Wenqi Huang, Cemre Ariyurek et al."
+  },
+  {
+    "id": "arxiv_1787105428430_3",
+    "name": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
+    "category": "machine-learning",
+    "description": "Reliable quantitative analysis of dynamic contrast-enhanced MRI requires high-quality spatiotemporal reconstructions at high undersampling rates. Scan-specific reconstructions using Gaussian and Gabor...",
+    "link": "http://arxiv.org/abs/2608.18055v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-18T17:48:22Z",
+    "trending": true,
+    "source": "arXiv - Veronika Spieker, Wenqi Huang, Cemre Ariyurek et al."
+  },
+  {
+    "id": "arxiv_1787105428502_3",
+    "name": "Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation",
+    "category": "nlp",
+    "description": "Language has two parameters. Count how often words occur together and you estimate amplitude, the strength of association. Word embeddings and attention weights refine that count, which sums every wri...",
+    "link": "http://arxiv.org/abs/2608.18041v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-08-18T17:34:25Z",
+    "trending": false,
+    "source": "arXiv - Hollis Robbins"
+  },
+  {
+    "id": "arxiv_1787105414651_3",
+    "name": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
+    "category": "computer-vision",
+    "description": "Sampling from a diffusion model typically requires many forward passes through a large neural network, making generation computationally expensive. While much work has focused on efficient solvers and...",
+    "link": "http://arxiv.org/abs/2608.18040v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Diffusion",
+      "Optimization"
+    ],
+    "date": "2026-08-18T17:33:00Z",
+    "trending": false,
+    "source": "arXiv - Travis Zhang, Christian Belardi, Justin Lovelace et al."
+  },
+  {
+    "id": "arxiv_1787105428430_4",
+    "name": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
+    "category": "machine-learning",
+    "description": "Sampling from a diffusion model typically requires many forward passes through a large neural network, making generation computationally expensive. While much work has focused on efficient solvers and...",
+    "link": "http://arxiv.org/abs/2608.18040v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Diffusion",
+      "Optimization"
+    ],
+    "date": "2026-08-18T17:33:00Z",
+    "trending": true,
+    "source": "arXiv - Travis Zhang, Christian Belardi, Justin Lovelace et al."
+  },
+  {
+    "id": "arxiv_1787105414651_4",
+    "name": "Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors",
+    "category": "computer-vision",
+    "description": "MRI reconstruction methods for undersampled k-space data naturally utilize complex-valued measurements. Parallel developments in sparse phase retrieval have shown that magnitude-only measurements may ...",
+    "link": "http://arxiv.org/abs/2608.18036v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Optimization"
+    ],
+    "date": "2026-08-18T17:31:07Z",
+    "trending": false,
+    "source": "arXiv - Mahdi Saberi, Yaşar Utku Alçalar, Merve Gülle et al."
+  },
+  {
+    "id": "arxiv_1787105428502_4",
+    "name": "Chain-of-Experience for Continual LLM Improvement",
+    "category": "nlp",
+    "description": "Humans continuously learn from experience, whereas conventional large language model (LLM) evaluations ignore the models' ability to improve through inference-time interaction. In this paper, we study...",
+    "link": "http://arxiv.org/abs/2608.18027v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "GPT"
+    ],
+    "date": "2026-08-18T17:22:54Z",
+    "trending": false,
+    "source": "arXiv - Haoqin Tu, Yunhao Fang, Yizhong Wang et al."
+  },
+  {
+    "id": "arxiv_1787105399251_0",
+    "name": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+    "category": "ai",
+    "description": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err...",
+    "link": "http://arxiv.org/abs/2608.16889v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-08-17T17:59:57Z",
+    "trending": false,
+    "source": "arXiv - Bingxin Xu, Yuzhang Shang, Emilio Ferrara"
+  },
+  {
+    "id": "arxiv_1787105399252_1",
+    "name": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+    "category": "ai",
+    "description": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alma...",
+    "link": "http://arxiv.org/abs/2608.16884v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Optimization"
+    ],
+    "date": "2026-08-17T17:59:05Z",
+    "trending": false,
+    "source": "arXiv - Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii et al."
+  },
+  {
+    "id": "arxiv_1787105399252_2",
+    "name": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+    "category": "ai",
+    "description": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolate...",
+    "link": "http://arxiv.org/abs/2608.16876v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-17T17:55:26Z",
+    "trending": false,
+    "source": "arXiv - Kejia Zhang, Youran Sun, Xinyu Ren et al."
+  },
+  {
+    "id": "arxiv_1787105399252_3",
+    "name": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
+    "category": "ai",
     "description": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable...",
     "link": "http://arxiv.org/abs/2608.16868v1",
     "tags": [
@@ -170,48 +269,7 @@
     "source": "arXiv - Benjamin Belay"
   },
   {
-    "id": "arxiv_1787099347393_2",
-    "name": "SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis",
-    "category": "computer-vision",
-    "description": "Generating photorealistic novel views from unposed images requires both 3D geometric understanding and the ability to synthesize unseen content. A natural strategy combines feed-forward 3DGS reconstru...",
-    "link": "http://arxiv.org/abs/2608.16863v1",
-    "tags": [
-      "Diffusion"
-    ],
-    "date": "2026-08-17T17:45:57Z",
-    "trending": true,
-    "source": "arXiv - Yejun Zhang, Zihan Wang, Xu Ji et al."
-  },
-  {
-    "id": "arxiv_1787099347394_3",
-    "name": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
-    "category": "computer-vision",
-    "description": "A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollo...",
-    "link": "http://arxiv.org/abs/2608.16859v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-08-17T17:43:24Z",
-    "trending": false,
-    "source": "arXiv - Weiliang Chen, Haowen Sun, Jun Gao et al."
-  },
-  {
-    "id": "arxiv_1787099347394_4",
-    "name": "Can Unsupervised Methods Outperform Supervised Deep Learning When Ground Truth Is Sparse? A Case Study of Bronchovascular Bundle Segmentation in Low-Dose CT",
-    "category": "computer-vision",
-    "description": "Background\n  Lung cancer remains the deadliest cancer worldwide because it is often diagnosed too late. Effective treatment depends on detection at an early screening stage. However, the growing numbe...",
-    "link": "http://arxiv.org/abs/2608.16855v1",
-    "tags": [
-      "AI",
-      "Deep Learning"
-    ],
-    "date": "2026-08-17T17:38:22Z",
-    "trending": false,
-    "source": "arXiv - Anna Mrukwa, Marek Socha, Aleksandra Suwalska et al."
-  },
-  {
-    "id": "arxiv_1787099347335_4",
+    "id": "arxiv_1787105399253_4",
     "name": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
     "category": "ai",
     "description": "Regulatory compliance monitoring in deployed language models is increasingly implemented as a legal and audit control, checking model outputs against written rules spanning data protection, healthcare...",
@@ -222,63 +280,5 @@
     "date": "2026-08-17T17:37:07Z",
     "trending": false,
     "source": "arXiv - Saisab Sadhu, Aadit Sengupta, Vinay Kumar Sankarapu et al."
-  },
-  {
-    "id": "arxiv_1787099347508_1",
-    "name": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
-    "category": "nlp",
-    "description": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most ex...",
-    "link": "http://arxiv.org/abs/2608.16844v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-08-17T17:30:43Z",
-    "trending": false,
-    "source": "arXiv - Reza Bayat, Ali Behrouz, Vahab Mirrokni et al."
-  },
-  {
-    "id": "arxiv_1787099347508_2",
-    "name": "Model Hypnosis: Strong control of AI via additive subliminal effects",
-    "category": "nlp",
-    "description": "We demonstrate that AI models are broadly susceptible to a phenomenon we call model hypnosis, in which individually weak and seemingly irrelevant cues in the prompt can be systematically combined to s...",
-    "link": "http://arxiv.org/abs/2608.16834v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-17T17:20:10Z",
-    "trending": true,
-    "source": "arXiv - Enric Boix-Adsera, Benedict Tessler"
-  },
-  {
-    "id": "arxiv_1787099347508_3",
-    "name": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
-    "category": "nlp",
-    "description": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instruc...",
-    "link": "http://arxiv.org/abs/2608.16831v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GPT"
-    ],
-    "date": "2026-08-17T17:16:43Z",
-    "trending": false,
-    "source": "arXiv - Minh-Ha Nguyen, Cathy Shyr"
-  },
-  {
-    "id": "arxiv_1787099347509_4",
-    "name": "ClawGym II: Exploring Black-Box RL on Agent Harness",
-    "category": "nlp",
-    "description": "Agent harnesses have substantially improved performance on long-horizon tasks by coordinating agent interactions with the environment. However, reinforcement learning through complex harnesses remains...",
-    "link": "http://arxiv.org/abs/2608.16798v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "Reinforcement Learning",
-      "Optimization"
-    ],
-    "date": "2026-08-17T16:53:03Z",
-    "trending": true,
-    "source": "arXiv - Huatong Song, Fei Bai, Ming Yang et al."
   }
 ]
