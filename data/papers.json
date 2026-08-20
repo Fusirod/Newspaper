@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1787214083234_0",
+    "id": "arxiv_1787217638698_0",
     "name": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
     "category": "ai",
     "description": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, ...",
@@ -10,11 +10,11 @@
       "LLM"
     ],
     "date": "2026-08-19T17:58:56Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Bo Liu, Simon Yu, Yiding Jiang et al."
   },
   {
-    "id": "arxiv_1787214083446_0",
+    "id": "arxiv_1787217638806_0",
     "name": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
     "category": "nlp",
     "description": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, ...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Bo Liu, Simon Yu, Yiding Jiang et al."
   },
   {
-    "id": "arxiv_1787214083234_1",
+    "id": "arxiv_1787217638699_1",
     "name": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning",
     "category": "ai",
     "description": "We introduce Accelerating Dexterity via Pre-Training (ADEPT), a large-scale reinforcement learning (RL) framework for learning sim-to-real transferable dexterity across high degree-of-freedom (DoF) ro...",
@@ -43,7 +43,7 @@
     "source": "arXiv - Jayjun Lee, Jessica Yin, Asif Rana et al."
   },
   {
-    "id": "arxiv_1787214083235_2",
+    "id": "arxiv_1787217638699_2",
     "name": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
     "category": "ai",
     "description": "On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor local...",
@@ -56,7 +56,7 @@
     "source": "arXiv - Zhu Zhang, Jixun Wang, Xiaoang Xu et al."
   },
   {
-    "id": "arxiv_1787214083374_0",
+    "id": "arxiv_1787217638769_0",
     "name": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
     "category": "machine-learning",
     "description": "On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor local...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Zhu Zhang, Jixun Wang, Xiaoang Xu et al."
   },
   {
-    "id": "arxiv_1787214083446_1",
+    "id": "arxiv_1787217638806_1",
     "name": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
     "category": "nlp",
     "description": "On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor local...",
@@ -78,11 +78,11 @@
       "AI"
     ],
     "date": "2026-08-19T17:54:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhu Zhang, Jixun Wang, Xiaoang Xu et al."
   },
   {
-    "id": "arxiv_1787214083305_0",
+    "id": "arxiv_1787217638735_0",
     "name": "Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture",
     "category": "computer-vision",
     "description": "Ground Penetrating Radar (GPR) is a widely adopted non-destructive sensing technology for subsurface inspection in civil and transportation engineering. Despite its potential for pavement condition as...",
@@ -98,7 +98,7 @@
     "source": "arXiv - Yuandong Pan, Linjun Lu, Mudan Wang et al."
   },
   {
-    "id": "arxiv_1787214083235_3",
+    "id": "arxiv_1787217638699_3",
     "name": "Finetuning Strategies for Querying Sounds by Vocal Imitation",
     "category": "ai",
     "description": "This technical report describes our winning submission to the AES AIMLA 2025 Challenge on querying sound effects by vocal imitation. We investigate two complementary fine-tuning strategies: contrastiv...",
@@ -111,7 +111,7 @@
     "source": "arXiv - Aditya Bhattacharjee, Christos Plachouras, Sungkyun Chang et al."
   },
   {
-    "id": "arxiv_1787214083374_1",
+    "id": "arxiv_1787217638770_1",
     "name": "Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention",
     "category": "machine-learning",
     "description": "Deep models for irregularly-sampled time series answer queries at arbitrary continuous timestamps, yet report nothing about how far each answer should be trusted. We show the attention layer itself ca...",
@@ -124,7 +124,7 @@
     "source": "arXiv - Sotirios P. Chatzis, Loukas Papadoulas"
   },
   {
-    "id": "arxiv_1787214083375_2",
+    "id": "arxiv_1787217638770_2",
     "name": "Learned, Then Lost: A Measured Single-Example Counterfactual in Pre-training",
     "category": "machine-learning",
     "description": "A single training example's contribution to a finished model is normally estimated rather than measured, because measuring it takes two expensive full pre-training runs that differ in one row of one b...",
@@ -138,7 +138,7 @@
     "source": "arXiv - Zachary Speck, Asa Shepard"
   },
   {
-    "id": "arxiv_1787214083446_2",
+    "id": "arxiv_1787217638806_2",
     "name": "ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos",
     "category": "nlp",
     "description": "ChildSafeAds is a shared task on commercial content in YouTube videos likely to reach children and teenagers. It contains 3,360 videos from 939 channels. Each instance begins with a segment submitted ...",
@@ -149,11 +149,11 @@
       "GPT"
     ],
     "date": "2026-08-19T17:44:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Thales Bertaglia, Catalina Goanta, Gerasimos Spanakis et al."
   },
   {
-    "id": "arxiv_1787214083235_4",
+    "id": "arxiv_1787217638699_4",
     "name": "Interpretable AI predicts a 2026 summer dry anomaly in central China",
     "category": "ai",
     "description": "Seasonal precipitation anomalies are largely regulated by atmospheric circulation, which dynamical models predict with greater reliability than precipitation itself. Here, we employ a deep learning mo...",
@@ -167,7 +167,7 @@
     "source": "arXiv - Anran Wang, Wen Shi, Yong Luo et al."
   },
   {
-    "id": "arxiv_1787214083375_3",
+    "id": "arxiv_1787217638770_3",
     "name": "Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions",
     "category": "machine-learning",
     "description": "We study stochastic control of multivariate Hawkes-driven stochastic differential equations with machine learning algorithms in a non-Markovian setting. Due to the path dependence of the memory of the...",
@@ -183,7 +183,7 @@
     "source": "arXiv - Tomasz R. Bielecki, Thibaut Mastrolia, Haoze Yan"
   },
   {
-    "id": "arxiv_1787214083375_4",
+    "id": "arxiv_1787217638770_4",
     "name": "Geometric Iterative Retrieval for Neural Audio Codec Resynthesis",
     "category": "machine-learning",
     "description": "Neural audio codecs based on Residual Vector Quantization (RVQ) have become the dominant discrete representation for token-based general audio generation, yet resynthesizing high-quality audio from co...",
@@ -193,11 +193,11 @@
       "Neural"
     ],
     "date": "2026-08-19T17:29:56Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Leo Schmidt-Traub, Frédéric Berdoz, Luca A. Lanzendörfer et al."
   },
   {
-    "id": "arxiv_1787214083446_3",
+    "id": "arxiv_1787217638806_3",
     "name": "Comment-level Topic Drift Analysis in the Reddit Corpus",
     "category": "nlp",
     "description": "We present a novel application of embedding-based dynamic topic modeling techniques to detect and quantify topic drift at the comment level in a massive corpus. By leveraging pretrained language model...",
@@ -210,7 +210,7 @@
     "source": "arXiv - Steven Morse, Daniel Runfola, Trenton W. Ford"
   },
   {
-    "id": "arxiv_1787214083446_4",
+    "id": "arxiv_1787217638807_4",
     "name": "Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation",
     "category": "nlp",
     "description": "Multi-teacher on-policy distillation (M-OPD) has emerged as a promising paradigm for consolidating domain-specialized reinforcement learning (RL) experts into a single generalist student via dense, to...",
@@ -226,7 +226,7 @@
     "source": "arXiv - Huan-ang Gao, Haohan Chi, Yong Yan et al."
   },
   {
-    "id": "arxiv_1787214083305_1",
+    "id": "arxiv_1787217638735_1",
     "name": "Detecting Backdoors in Object Detection via Pre-NMS Prediction Distribution Shift",
     "category": "computer-vision",
     "description": "Object detection models deployed in safety-critical applications remain vulnerable to backdoor attacks that cause targeted misbehaviors when a hidden trigger is present. Existing detection methods eit...",
@@ -239,7 +239,7 @@
     "source": "arXiv - Longtian Wang, Zhengyu Zhao, Chenhao Lin et al."
   },
   {
-    "id": "arxiv_1787214083305_2",
+    "id": "arxiv_1787217638735_2",
     "name": "SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection",
     "category": "computer-vision",
     "description": "Object detectors often produce over-confident predictions for objects outside their training categories, leading to so-called out-of-distribution (OoD) hallucinations. Existing approaches for detectin...",
@@ -254,7 +254,7 @@
     "source": "arXiv - Changshun Wu, Weicheng He, Xiaowei Huang et al."
   },
   {
-    "id": "arxiv_1787214083305_3",
+    "id": "arxiv_1787217638735_3",
     "name": "Subgroup performance analysis of adaptation strategies for chest X-ray foundation models",
     "category": "computer-vision",
     "description": "Foundation models are increasingly adapted for downstream medical imaging tasks, yet the influence of the chosen adaptation strategy on subgroup fairness remains poorly understood. We investigate how ...",
@@ -263,11 +263,11 @@
       "AI"
     ],
     "date": "2026-08-19T16:25:44Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Dhruv Gupta, Emma A. M. Stanley, Fabio De Sousa Ribeiro et al."
   },
   {
-    "id": "arxiv_1787214083305_4",
+    "id": "arxiv_1787217638736_4",
     "name": "ReWEIGH the Evidence: Calibrating Token-Level Ordinal Visual Evidence to Mitigate Hallucinations in Large Vision-Language Models",
     "category": "computer-vision",
     "description": "Large vision-language models (LVLMs) often hallucinate, generating content that the input image does not support. Preventing such content during decoding calls for a candidate-specific measure of how ...",
