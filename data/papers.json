@@ -1,283 +1,73 @@
 [
   {
-    "id": "arxiv_1787185731902_0",
-    "name": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
-    "category": "ai",
-    "description": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen...",
-    "link": "http://arxiv.org/abs/2608.18076v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GAN",
-      "Diffusion"
-    ],
-    "date": "2026-08-18T17:59:01Z",
-    "trending": true,
-    "source": "arXiv - Xingjian Wang, Zhao Wang, Taihang Hu et al."
-  },
-  {
-    "id": "arxiv_1787185731983_0",
-    "name": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
-    "category": "computer-vision",
-    "description": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen...",
-    "link": "http://arxiv.org/abs/2608.18076v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GAN",
-      "Diffusion"
-    ],
-    "date": "2026-08-18T17:59:01Z",
-    "trending": false,
-    "source": "arXiv - Xingjian Wang, Zhao Wang, Taihang Hu et al."
-  },
-  {
-    "id": "arxiv_1787185732142_0",
-    "name": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
+    "id": "arxiv_1787191740388_0",
+    "name": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
     "category": "nlp",
-    "description": "Purpose: To develop and evaluate a locally deployed multi-agent AI system for radiology report structuring and quality assurance. Materials and Methods: This retrospective study included 638 radiology...",
-    "link": "http://arxiv.org/abs/2608.18072v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-18T17:57:08Z",
-    "trending": false,
-    "source": "arXiv - Iryna Hartsock, Cesar Lam, Christopher Otteni et al."
-  },
-  {
-    "id": "arxiv_1787185731902_1",
-    "name": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
-    "category": "ai",
-    "description": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, ...",
-    "link": "http://arxiv.org/abs/2608.18066v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-18T17:55:07Z",
-    "trending": true,
-    "source": "arXiv - Qinyuan Ye, Yu Li, Yada Pruksachatkun et al."
-  },
-  {
-    "id": "arxiv_1787185732062_0",
-    "name": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
-    "category": "machine-learning",
-    "description": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, ...",
-    "link": "http://arxiv.org/abs/2608.18066v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-18T17:55:07Z",
-    "trending": true,
-    "source": "arXiv - Qinyuan Ye, Yu Li, Yada Pruksachatkun et al."
-  },
-  {
-    "id": "arxiv_1787185732142_1",
-    "name": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
-    "category": "nlp",
-    "description": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, ...",
-    "link": "http://arxiv.org/abs/2608.18066v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-18T17:55:07Z",
-    "trending": true,
-    "source": "arXiv - Qinyuan Ye, Yu Li, Yada Pruksachatkun et al."
-  },
-  {
-    "id": "arxiv_1787185731983_1",
-    "name": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
-    "category": "computer-vision",
-    "description": "High-resolution image editing is increasingly demanded in professional workflows, yet existing diffusion-based models remain constrained to resolutions below 1K due to quadratic attention complexity a...",
-    "link": "http://arxiv.org/abs/2608.18063v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-08-18T17:53:16Z",
-    "trending": false,
-    "source": "arXiv - Jiayi Song, Shijie Huang, Fangtai Wu et al."
-  },
-  {
-    "id": "arxiv_1787185732062_1",
-    "name": "TokEval: A Tokenizer Evaluation Suite",
-    "category": "machine-learning",
-    "description": "Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited unde...",
-    "link": "http://arxiv.org/abs/2608.18062v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-18T17:52:52Z",
-    "trending": false,
-    "source": "arXiv - Clara Meister"
-  },
-  {
-    "id": "arxiv_1787185732142_2",
-    "name": "TokEval: A Tokenizer Evaluation Suite",
-    "category": "nlp",
-    "description": "Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited unde...",
-    "link": "http://arxiv.org/abs/2608.18062v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-18T17:52:52Z",
-    "trending": true,
-    "source": "arXiv - Clara Meister"
-  },
-  {
-    "id": "arxiv_1787185732063_2",
-    "name": "The concentration game: Bayesian updating, regret, and information",
-    "category": "machine-learning",
-    "description": "We give a two-player zero-sum repeated game between a learner and nature whose value identity generates Bayesian updating and an exact accounting of exponential-weights regret at once, and supplies th...",
-    "link": "http://arxiv.org/abs/2608.18061v1",
+    "description": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, ...",
+    "link": "http://arxiv.org/abs/2608.19197v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-08-18T17:52:26Z",
-    "trending": false,
-    "source": "arXiv - Akshay Balsubramani"
+    "date": "2026-08-19T17:58:56Z",
+    "trending": true,
+    "source": "arXiv - Bo Liu, Simon Yu, Yiding Jiang et al."
   },
   {
-    "id": "arxiv_1787185731902_2",
-    "name": "Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating",
-    "category": "ai",
-    "description": "Autonomous LLM agents that converse on a user's behalf are an emerging design pattern in matching platforms, yet their viability depends on a condition rarely examined: users must accept not only dele...",
-    "link": "http://arxiv.org/abs/2608.18058v1",
+    "id": "arxiv_1787191740388_1",
+    "name": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
+    "category": "nlp",
+    "description": "On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor local...",
+    "link": "http://arxiv.org/abs/2608.19181v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-19T17:54:58Z",
+    "trending": false,
+    "source": "arXiv - Zhu Zhang, Jixun Wang, Xiaoang Xu et al."
+  },
+  {
+    "id": "arxiv_1787191740388_2",
+    "name": "ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos",
+    "category": "nlp",
+    "description": "ChildSafeAds is a shared task on commercial content in YouTube videos likely to reach children and teenagers. It contains 3,360 videos from 939 channels. Each instance begins with a segment submitted ...",
+    "link": "http://arxiv.org/abs/2608.19165v1",
     "tags": [
       "AI",
-      "LLM"
-    ],
-    "date": "2026-08-18T17:51:16Z",
-    "trending": true,
-    "source": "arXiv - Daria Leshchikova, Valentina V. Kuskova, Dmitry Zaytsev et al."
-  },
-  {
-    "id": "arxiv_1787185731903_3",
-    "name": "HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance",
-    "category": "ai",
-    "description": "Urban traffic congestion reduces productivity and increases travel cost and emissions. Network-wide live travel-time shortest-path rerouting can be highly effective in simulation, but assumes that ess...",
-    "link": "http://arxiv.org/abs/2608.18056v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-18T17:49:27Z",
-    "trending": true,
-    "source": "arXiv - Xiao Wang, Shun Ren Yang, Hui Nien Hung"
-  },
-  {
-    "id": "arxiv_1787185731983_2",
-    "name": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
-    "category": "computer-vision",
-    "description": "Reliable quantitative analysis of dynamic contrast-enhanced MRI requires high-quality spatiotemporal reconstructions at high undersampling rates. Scan-specific reconstructions using Gaussian and Gabor...",
-    "link": "http://arxiv.org/abs/2608.18055v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-18T17:48:22Z",
-    "trending": false,
-    "source": "arXiv - Veronika Spieker, Wenqi Huang, Cemre Ariyurek et al."
-  },
-  {
-    "id": "arxiv_1787185732063_3",
-    "name": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
-    "category": "machine-learning",
-    "description": "Reliable quantitative analysis of dynamic contrast-enhanced MRI requires high-quality spatiotemporal reconstructions at high undersampling rates. Scan-specific reconstructions using Gaussian and Gabor...",
-    "link": "http://arxiv.org/abs/2608.18055v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-18T17:48:22Z",
-    "trending": false,
-    "source": "arXiv - Veronika Spieker, Wenqi Huang, Cemre Ariyurek et al."
-  },
-  {
-    "id": "arxiv_1787185731903_4",
-    "name": "StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents",
-    "category": "ai",
-    "description": "AI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they sea...",
-    "link": "http://arxiv.org/abs/2608.18050v1",
-    "tags": [
-      "AI",
+      "GAN",
       "GPT"
     ],
-    "date": "2026-08-18T17:44:18Z",
+    "date": "2026-08-19T17:44:58Z",
     "trending": false,
-    "source": "arXiv - Yining Hua, Hongbin Na, Yifan Zhou et al."
+    "source": "arXiv - Thales Bertaglia, Catalina Goanta, Gerasimos Spanakis et al."
   },
   {
-    "id": "arxiv_1787185732142_3",
-    "name": "Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation",
+    "id": "arxiv_1787191740388_3",
+    "name": "Comment-level Topic Drift Analysis in the Reddit Corpus",
     "category": "nlp",
-    "description": "Language has two parameters. Count how often words occur together and you estimate amplitude, the strength of association. Word embeddings and attention weights refine that count, which sums every wri...",
-    "link": "http://arxiv.org/abs/2608.18041v1",
+    "description": "We present a novel application of embedding-based dynamic topic modeling techniques to detect and quantify topic drift at the comment level in a massive corpus. By leveraging pretrained language model...",
+    "link": "http://arxiv.org/abs/2608.19133v1",
     "tags": [
-      "AI",
-      "Transformer"
+      "AI"
     ],
-    "date": "2026-08-18T17:34:25Z",
-    "trending": false,
-    "source": "arXiv - Hollis Robbins"
-  },
-  {
-    "id": "arxiv_1787185731983_3",
-    "name": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
-    "category": "computer-vision",
-    "description": "Sampling from a diffusion model typically requires many forward passes through a large neural network, making generation computationally expensive. While much work has focused on efficient solvers and...",
-    "link": "http://arxiv.org/abs/2608.18040v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Diffusion",
-      "Optimization"
-    ],
-    "date": "2026-08-18T17:33:00Z",
+    "date": "2026-08-19T17:27:25Z",
     "trending": true,
-    "source": "arXiv - Travis Zhang, Christian Belardi, Justin Lovelace et al."
+    "source": "arXiv - Steven Morse, Daniel Runfola, Trenton W. Ford"
   },
   {
-    "id": "arxiv_1787185732063_4",
-    "name": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
-    "category": "machine-learning",
-    "description": "Sampling from a diffusion model typically requires many forward passes through a large neural network, making generation computationally expensive. While much work has focused on efficient solvers and...",
-    "link": "http://arxiv.org/abs/2608.18040v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Diffusion",
-      "Optimization"
-    ],
-    "date": "2026-08-18T17:33:00Z",
-    "trending": true,
-    "source": "arXiv - Travis Zhang, Christian Belardi, Justin Lovelace et al."
-  },
-  {
-    "id": "arxiv_1787185731983_4",
-    "name": "Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors",
-    "category": "computer-vision",
-    "description": "MRI reconstruction methods for undersampled k-space data naturally utilize complex-valued measurements. Parallel developments in sparse phase retrieval have shown that magnitude-only measurements may ...",
-    "link": "http://arxiv.org/abs/2608.18036v1",
-    "tags": [
-      "AI",
-      "Deep Learning",
-      "Optimization"
-    ],
-    "date": "2026-08-18T17:31:07Z",
-    "trending": false,
-    "source": "arXiv - Mahdi Saberi, Yaşar Utku Alçalar, Merve Gülle et al."
-  },
-  {
-    "id": "arxiv_1787185732142_4",
-    "name": "Chain-of-Experience for Continual LLM Improvement",
+    "id": "arxiv_1787191740388_4",
+    "name": "Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation",
     "category": "nlp",
-    "description": "Humans continuously learn from experience, whereas conventional large language model (LLM) evaluations ignore the models' ability to improve through inference-time interaction. In this paper, we study...",
-    "link": "http://arxiv.org/abs/2608.18027v1",
+    "description": "Multi-teacher on-policy distillation (M-OPD) has emerged as a promising paradigm for consolidating domain-specialized reinforcement learning (RL) experts into a single generalist student via dense, to...",
+    "link": "http://arxiv.org/abs/2608.19098v1",
     "tags": [
       "AI",
+      "Vision",
       "LLM",
-      "GPT"
+      "Reinforcement Learning"
     ],
-    "date": "2026-08-18T17:22:54Z",
+    "date": "2026-08-19T16:50:39Z",
     "trending": false,
-    "source": "arXiv - Haoqin Tu, Yunhao Fang, Yizhong Wang et al."
+    "source": "arXiv - Huan-ang Gao, Haohan Chi, Yong Yan et al."
   }
 ]
