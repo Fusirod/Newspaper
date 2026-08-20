@@ -1,6 +1,17 @@
 [
   {
-    "id": "rss_Ars_Technica_1787235784609_0",
+    "id": "rss_Ars_Technica_1787239268119_0",
+    "title": "Genesis joins the giant electric SUV club with new GV90",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.\n                    ",
+    "link": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
+    "tags": [],
+    "date": "Thu, 20 Aug 2026 14:35:58 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1787239268119_1",
     "title": "SpaceX’s orbital data centers would create a new category of e-waste",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -8,10 +19,10 @@
     "link": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
     "tags": [],
     "date": "Thu, 20 Aug 2026 13:59:50 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1787235784609_1",
+    "id": "rss_Ars_Technica_1787239268119_2",
     "title": "Reverse-lookup service exposed millions of photos of people’s faces",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -21,10 +32,10 @@
       "AI"
     ],
     "date": "Thu, 20 Aug 2026 13:29:54 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1787235784610_2",
+    "id": "rss_Ars_Technica_1787239268119_3",
     "title": "Grok exfiltrates user data when malicious instructions are encrypted",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -35,10 +46,10 @@
       "LLM"
     ],
     "date": "Thu, 20 Aug 2026 13:00:35 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1787235781062_0",
+    "id": "rss_TechCrunch_1787239264733_0",
     "title": "Meta AI’s new Mac app wants you to talk to your apps",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -52,7 +63,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1787235783330_0",
+    "id": "rss_MIT_Tech_Review_1787239266916_0",
     "title": "The Download: polycrisis support networks and a hydrogen gold rush",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -65,7 +76,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1787235783330_1",
+    "id": "rss_MIT_Tech_Review_1787239266916_1",
     "title": "The next big thing in hydrogen could be underground",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -75,10 +86,10 @@
       "AI"
     ],
     "date": "Thu, 20 Aug 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1787235783330_2",
+    "id": "rss_MIT_Tech_Review_1787239266917_2",
     "title": "Unlocking hidden revenue streams with market models",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -91,7 +102,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1787235781062_1",
+    "id": "rss_TechCrunch_1787239264733_1",
     "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -103,10 +114,10 @@
       "GPT"
     ],
     "date": "Thu, 20 Aug 2026 09:30:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1787235783330_3",
+    "id": "rss_MIT_Tech_Review_1787239266917_3",
     "title": "Support networks aim to help kids through the polycrisis",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -119,7 +130,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1787235784610_3",
+    "id": "rss_Ars_Technica_1787239268119_4",
     "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -127,10 +138,10 @@
     "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
     "tags": [],
     "date": "Thu, 20 Aug 2026 00:18:48 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1787235781062_2",
+    "id": "rss_TechCrunch_1787239264733_2",
     "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -144,7 +155,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1787235781062_3",
+    "id": "rss_TechCrunch_1787239264733_3",
     "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -158,20 +169,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1787235784610_4",
-    "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        US residents face trade-offs as delivery drone services such as Prime Air expand.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 19 Aug 2026 22:02:38 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1787235781062_4",
+    "id": "rss_TechCrunch_1787239264734_4",
     "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -186,7 +184,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1787235785721_0",
+    "id": "rss_Wired_1787239269165_0",
     "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
     "category": "ai-news",
     "source": "Wired",
@@ -197,10 +195,10 @@
       "Robot"
     ],
     "date": "Wed, 19 Aug 2026 19:30:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1787235785721_1",
+    "id": "rss_Wired_1787239269165_1",
     "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
     "category": "ai-news",
     "source": "Wired",
@@ -210,10 +208,10 @@
       "AI"
     ],
     "date": "Wed, 19 Aug 2026 16:44:07 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1787235783330_4",
+    "id": "rss_MIT_Tech_Review_1787239266917_4",
     "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -223,10 +221,10 @@
       "AI"
     ],
     "date": "Wed, 19 Aug 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1787235785721_2",
+    "id": "rss_Wired_1787239269165_2",
     "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
     "category": "ai-news",
     "source": "Wired",
@@ -239,7 +237,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1787235785721_3",
+    "id": "rss_Wired_1787239269165_3",
     "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
     "category": "ai-news",
     "source": "Wired",
@@ -252,10 +250,10 @@
       "GPT"
     ],
     "date": "Tue, 18 Aug 2026 18:33:11 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1787235785721_4",
+    "id": "rss_Wired_1787239269165_4",
     "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
     "category": "ai-news",
     "source": "Wired",
@@ -268,7 +266,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1787235794010_0",
+    "id": "rss_Distill_1787239277541_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -281,7 +279,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1787235794010_1",
+    "id": "rss_Distill_1787239277541_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -294,7 +292,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1787235794010_2",
+    "id": "rss_Distill_1787239277541_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -305,7 +303,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1787235794010_3",
+    "id": "rss_Distill_1787239277541_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -315,10 +313,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1787235794010_4",
+    "id": "rss_Distill_1787239277541_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
