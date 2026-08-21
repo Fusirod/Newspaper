@@ -1,6 +1,42 @@
 [
   {
-    "id": "rss_Ars_Technica_1787339834248_0",
+    "id": "rss_Ars_Technica_1787343053986_0",
+    "title": "Class action accuses brokers of hiding Zillow listings, driving up NYC rents",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Renters say hidden Zillow listings make it harder to afford living in New York City.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+    "tags": [],
+    "date": "Fri, 21 Aug 2026 20:10:50 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1787343050587_0",
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "tags": [
+      "AI",
+      "NVIDIA"
+    ],
+    "date": "Fri, 21 Aug 2026 19:43:39 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1787343053986_1",
+    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The private Android-based OS will expand beyond Pixels next year.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+    "tags": [],
+    "date": "Fri, 21 Aug 2026 19:32:29 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1787343053986_2",
     "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -8,10 +44,10 @@
     "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
     "tags": [],
     "date": "Fri, 21 Aug 2026 19:04:41 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1787339834248_1",
+    "id": "rss_Ars_Technica_1787343053986_3",
     "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -19,10 +55,10 @@
     "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
     "tags": [],
     "date": "Fri, 21 Aug 2026 18:07:15 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1787339834248_2",
+    "id": "rss_Ars_Technica_1787343053986_4",
     "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -30,21 +66,10 @@
     "link": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
     "tags": [],
     "date": "Fri, 21 Aug 2026 16:48:59 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1787339834248_3",
-    "title": "Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Some Americans fear the FTC may be thinking about personalized pricing all wrong.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
-    "tags": [],
-    "date": "Fri, 21 Aug 2026 16:38:25 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1787339830256_0",
+    "id": "rss_TechCrunch_1787343050587_1",
     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -54,10 +79,10 @@
       "AI"
     ],
     "date": "Fri, 21 Aug 2026 14:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1787339830256_1",
+    "id": "rss_TechCrunch_1787343050587_2",
     "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -70,20 +95,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1787339834248_4",
-    "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-    "tags": [
-      "Robot"
-    ],
-    "date": "Fri, 21 Aug 2026 13:11:35 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1787339832751_0",
+    "id": "rss_MIT_Tech_Review_1787343052708_0",
     "title": "The Download: threats from space mirrors and credit for AI drugs",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -93,10 +105,10 @@
       "AI"
     ],
     "date": "Fri, 21 Aug 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1787339832751_1",
+    "id": "rss_MIT_Tech_Review_1787343052708_1",
     "title": "Mother tongue",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -106,10 +118,10 @@
       "AI"
     ],
     "date": "Fri, 21 Aug 2026 09:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1787339832751_2",
+    "id": "rss_MIT_Tech_Review_1787343052708_2",
     "title": "When AI designs a drug, who gets the credit?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -122,7 +134,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1787339832751_3",
+    "id": "rss_MIT_Tech_Review_1787343052708_3",
     "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -130,10 +142,10 @@
     "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
     "tags": [],
     "date": "Fri, 21 Aug 2026 09:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1787339835387_0",
+    "id": "rss_Wired_1787343055067_0",
     "title": "The Single English County Saying No to Palantir",
     "category": "ai-news",
     "source": "Wired",
@@ -141,10 +153,10 @@
     "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
     "tags": [],
     "date": "Fri, 21 Aug 2026 06:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1787339830256_2",
+    "id": "rss_TechCrunch_1787343050587_3",
     "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -155,10 +167,10 @@
       "Startup"
     ],
     "date": "Fri, 21 Aug 2026 00:13:44 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1787339830256_3",
+    "id": "rss_TechCrunch_1787343050587_4",
     "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -172,21 +184,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1787339830256_4",
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration. ",
-    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "tags": [
-      "ChatGPT",
-      "GPT"
-    ],
-    "date": "Thu, 20 Aug 2026 22:09:51 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1787339835387_1",
+    "id": "rss_Wired_1787343055067_1",
     "title": "Silicon Valley Doesn't Get Why You Hate AI",
     "category": "ai-news",
     "source": "Wired",
@@ -199,7 +197,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1787339832751_4",
+    "id": "rss_MIT_Tech_Review_1787343052708_4",
     "title": "Debates over AI consciousness are a trap",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -212,7 +210,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1787339835387_2",
+    "id": "rss_Wired_1787343055067_2",
     "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
     "category": "ai-news",
     "source": "Wired",
@@ -223,10 +221,10 @@
       "Robot"
     ],
     "date": "Wed, 19 Aug 2026 19:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1787339835387_3",
+    "id": "rss_Wired_1787343055067_3",
     "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
     "category": "ai-news",
     "source": "Wired",
@@ -236,10 +234,10 @@
       "AI"
     ],
     "date": "Wed, 19 Aug 2026 16:44:07 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1787339835388_4",
+    "id": "rss_Wired_1787343055067_4",
     "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
     "category": "ai-news",
     "source": "Wired",
@@ -252,7 +250,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1787339844320_0",
+    "id": "rss_Distill_1787343063521_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -262,10 +260,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1787339844320_1",
+    "id": "rss_Distill_1787343063521_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -278,7 +276,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1787339844320_2",
+    "id": "rss_Distill_1787343063521_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -286,10 +284,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1787339844320_3",
+    "id": "rss_Distill_1787343063521_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -302,7 +300,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1787339844320_4",
+    "id": "rss_Distill_1787343063521_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
