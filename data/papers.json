@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1787278498932_0",
+    "id": "arxiv_1787283560320_0",
     "name": "Information on trajectories: martingales and random times",
     "category": "machine-learning",
     "description": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used ...",
@@ -13,7 +13,21 @@
     "source": "arXiv - Akshay Balsubramani"
   },
   {
-    "id": "arxiv_1787278498856_0",
+    "id": "arxiv_1787283560398_0",
+    "name": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
+    "category": "nlp",
+    "description": "Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability completel...",
+    "link": "http://arxiv.org/abs/2608.20338v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-20T17:59:57Z",
+    "trending": true,
+    "source": "arXiv - Sahil Kale, Ian Harris"
+  },
+  {
+    "id": "arxiv_1787283560235_0",
     "name": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
     "category": "computer-vision",
     "description": "We present 4DAnyone, a framework for reconstructing 4D humans from an uncalibrated monocular video by generating reconstruction-grade multiview-consistent videos and lifting them into 4D Gaussian Spla...",
@@ -27,7 +41,7 @@
     "source": "arXiv - Yudong Jin, Tao Xie, Qihang Zhang et al."
   },
   {
-    "id": "arxiv_1787278498857_1",
+    "id": "arxiv_1787283560235_1",
     "name": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
     "category": "computer-vision",
     "description": "Identity-preserving image generation becomes increasingly unreliable when a scene must contain many specified people. Beyond retaining each identity, the model must bind every reference to a distinct ...",
@@ -37,11 +51,11 @@
       "GPT"
     ],
     "date": "2026-08-20T17:59:53Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hengyuan Xu, Qixun Wang, Yiji Cheng et al."
   },
   {
-    "id": "arxiv_1787278498857_2",
+    "id": "arxiv_1787283560235_2",
     "name": "Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
     "category": "computer-vision",
     "description": "We present Swift-Image, a compact unified model for text-to-image generation, single-image editing, and multi-image editing. Our goal is to explore how far a relatively small visual generator can be p...",
@@ -56,7 +70,7 @@
     "source": "arXiv - Taihang Hu, Zhao Wang, Zuan Gao et al."
   },
   {
-    "id": "arxiv_1787278498611_0",
+    "id": "arxiv_1787283560153_0",
     "name": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
     "category": "ai",
     "description": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depende...",
@@ -71,7 +85,7 @@
     "source": "arXiv - Shiao Xie, Siyu Chen, Jianwei Lv et al."
   },
   {
-    "id": "arxiv_1787278498857_3",
+    "id": "arxiv_1787283560235_3",
     "name": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
     "category": "computer-vision",
     "description": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depende...",
@@ -86,7 +100,22 @@
     "source": "arXiv - Shiao Xie, Siyu Chen, Jianwei Lv et al."
   },
   {
-    "id": "arxiv_1787278498932_1",
+    "id": "arxiv_1787283560398_1",
+    "name": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+    "category": "nlp",
+    "description": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depende...",
+    "link": "http://arxiv.org/abs/2608.20331v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-08-20T17:59:46Z",
+    "trending": true,
+    "source": "arXiv - Shiao Xie, Siyu Chen, Jianwei Lv et al."
+  },
+  {
+    "id": "arxiv_1787283560320_1",
     "name": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
     "category": "machine-learning",
     "description": "Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-ho...",
@@ -96,11 +125,11 @@
       "Neural"
     ],
     "date": "2026-08-20T17:58:50Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Parampreet Singh, Anushka Singh, Sumit Kumar et al."
   },
   {
-    "id": "arxiv_1787278498932_2",
+    "id": "arxiv_1787283560320_2",
     "name": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
     "category": "machine-learning",
     "description": "Despite their growing importance for contact-free radio frequency (RF) based healthcare monitoring, different radio technologies such as frequency-modulated continuous wave (FMCW) radar, impulse radio...",
@@ -115,7 +144,7 @@
     "source": "arXiv - Anton Lambrecht, Reda El Hail, Xianjun Jiao et al."
   },
   {
-    "id": "arxiv_1787278498612_1",
+    "id": "arxiv_1787283560153_1",
     "name": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
     "category": "ai",
     "description": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workfl...",
@@ -131,7 +160,23 @@
     "source": "arXiv - Narges Ahmadi, Yubo Jiao, Jônatas Augusto Manzolli et al."
   },
   {
-    "id": "arxiv_1787278498612_2",
+    "id": "arxiv_1787283560398_2",
+    "name": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
+    "category": "nlp",
+    "description": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workfl...",
+    "link": "http://arxiv.org/abs/2608.20320v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-08-20T17:57:42Z",
+    "trending": false,
+    "source": "arXiv - Narges Ahmadi, Yubo Jiao, Jônatas Augusto Manzolli et al."
+  },
+  {
+    "id": "arxiv_1787283560153_2",
     "name": "Inducing Task Models from Computer-Use Traces",
     "category": "ai",
     "description": "Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is do...",
@@ -145,7 +190,21 @@
     "source": "arXiv - Yucheng Jiang, Zora Zhiruo Wang, Ruishi Chen et al."
   },
   {
-    "id": "arxiv_1787278498612_3",
+    "id": "arxiv_1787283560398_3",
+    "name": "Inducing Task Models from Computer-Use Traces",
+    "category": "nlp",
+    "description": "Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is do...",
+    "link": "http://arxiv.org/abs/2608.20319v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-08-20T17:57:00Z",
+    "trending": false,
+    "source": "arXiv - Yucheng Jiang, Zora Zhiruo Wang, Ruishi Chen et al."
+  },
+  {
+    "id": "arxiv_1787283560153_3",
     "name": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
     "category": "ai",
     "description": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a...",
@@ -159,7 +218,7 @@
     "source": "arXiv - Yizhe Chi, Wenyi Li, Deyao Hong et al."
   },
   {
-    "id": "arxiv_1787278498932_3",
+    "id": "arxiv_1787283560320_3",
     "name": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
     "category": "machine-learning",
     "description": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a...",
@@ -173,7 +232,21 @@
     "source": "arXiv - Yizhe Chi, Wenyi Li, Deyao Hong et al."
   },
   {
-    "id": "arxiv_1787278498612_4",
+    "id": "arxiv_1787283560398_4",
+    "name": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+    "category": "nlp",
+    "description": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a...",
+    "link": "http://arxiv.org/abs/2608.20318v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-20T17:56:59Z",
+    "trending": false,
+    "source": "arXiv - Yizhe Chi, Wenyi Li, Deyao Hong et al."
+  },
+  {
+    "id": "arxiv_1787283560153_4",
     "name": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
     "category": "ai",
     "description": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer most e...",
@@ -187,7 +260,7 @@
     "source": "arXiv - Adam Fisch, Shubhendu Trivedi, Fantine Huot et al."
   },
   {
-    "id": "arxiv_1787278498932_4",
+    "id": "arxiv_1787283560320_4",
     "name": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records",
     "category": "machine-learning",
     "description": "Predictive models over structured electronic health records (EHRs) remain central to machine learning for healthcare, but few have jointly emphasized quantitative laboratory information and interpreta...",
@@ -199,11 +272,11 @@
       "BERT"
     ],
     "date": "2026-08-20T17:54:17Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jun Ni Du, Lukas Adamek, Maxim Kryukov et al."
   },
   {
-    "id": "arxiv_1787278498857_4",
+    "id": "arxiv_1787283560235_4",
     "name": "Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis",
     "category": "computer-vision",
     "description": "The capability to perceive and synthesize human-human interactions is fundamental to developing intelligent digital human systems. However, existing datasets and modeling approaches are fundamentally ...",
@@ -214,78 +287,5 @@
     "date": "2026-08-20T17:51:48Z",
     "trending": false,
     "source": "arXiv - Liang Xu, Chengqun Yang, Zili Lin et al."
-  },
-  {
-    "id": "arxiv_1787278499005_0",
-    "name": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
-    "category": "nlp",
-    "description": "Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we fixed the target first, one user, one token at a time, 4-bit weights, ordinary ...",
-    "link": "http://arxiv.org/abs/2608.20210v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "LLM",
-      "GPT"
-    ],
-    "date": "2026-08-20T16:09:43Z",
-    "trending": false,
-    "source": "arXiv - Christos Koutsiaris"
-  },
-  {
-    "id": "arxiv_1787278499005_1",
-    "name": "ContractScrub: A benchmark for final review of legal contracts",
-    "category": "nlp",
-    "description": "Legal work, with its heavy reliance on processing large amounts of text, is often considered one of the domains most exposed to the use of LLMs. Contract ``scrubbing,'' the final review of transaction...",
-    "link": "http://arxiv.org/abs/2608.20204v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-08-20T16:01:42Z",
-    "trending": false,
-    "source": "arXiv - Yejin Bang, Kirsty Fielding, Brandan Oliver et al."
-  },
-  {
-    "id": "arxiv_1787278499005_2",
-    "name": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
-    "category": "nlp",
-    "description": "Memory has become a key component of large language models, enabling them to retain information and learn from long-term interactions. However, existing memory benchmarks mainly evaluate whether infor...",
-    "link": "http://arxiv.org/abs/2608.20202v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-08-20T16:00:17Z",
-    "trending": true,
-    "source": "arXiv - Mengru Wang, Haozhe Luo, Zhenqian Xu et al."
-  },
-  {
-    "id": "arxiv_1787278499005_3",
-    "name": "Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection",
-    "category": "nlp",
-    "description": "We present a novel approach to efficient LLM agent harness optimization through adaptive validation task selection. Harness optimization iteratively rewrites the harness code based on validation perfo...",
-    "link": "http://arxiv.org/abs/2608.20169v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-08-20T15:24:54Z",
-    "trending": false,
-    "source": "arXiv - Atsuyuki Miyai, Kiyoharu Aizawa, Toshihiko Yamasaki"
-  },
-  {
-    "id": "arxiv_1787278499005_4",
-    "name": "FormalTCS: Benchmarking End-to-End Frontier Formal Theoretical Computer Science Research of Large Language Models",
-    "category": "nlp",
-    "description": "Large language models (LLMs) have shown growing potential for automated theoretical computer science (TCS) research, yet existing benchmarks remain far from realistic research settings. We introduce \\...",
-    "link": "http://arxiv.org/abs/2608.20153v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-08-20T15:13:41Z",
-    "trending": false,
-    "source": "arXiv - Dingzirui Wang, Xuanliang Zhang, Keyan Xu et al."
   }
 ]
