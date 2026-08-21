@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1787289641517_0",
+    "id": "arxiv_1787293330992_0",
     "name": "Information on trajectories: martingales and random times",
     "category": "machine-learning",
     "description": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used ...",
@@ -9,11 +9,11 @@
       "AI"
     ],
     "date": "2026-08-20T17:59:57Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Akshay Balsubramani"
   },
   {
-    "id": "arxiv_1787289641532_0",
+    "id": "arxiv_1787293331055_0",
     "name": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
     "category": "nlp",
     "description": "Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability completel...",
@@ -27,7 +27,7 @@
     "source": "arXiv - Sahil Kale, Ian Harris"
   },
   {
-    "id": "arxiv_1787289641503_0",
+    "id": "arxiv_1787293330813_0",
     "name": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
     "category": "computer-vision",
     "description": "We present 4DAnyone, a framework for reconstructing 4D humans from an uncalibrated monocular video by generating reconstruction-grade multiview-consistent videos and lifting them into 4D Gaussian Spla...",
@@ -41,7 +41,7 @@
     "source": "arXiv - Yudong Jin, Tao Xie, Qihang Zhang et al."
   },
   {
-    "id": "arxiv_1787289641503_1",
+    "id": "arxiv_1787293330813_1",
     "name": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
     "category": "computer-vision",
     "description": "Identity-preserving image generation becomes increasingly unreliable when a scene must contain many specified people. Beyond retaining each identity, the model must bind every reference to a distinct ...",
@@ -55,7 +55,7 @@
     "source": "arXiv - Hengyuan Xu, Qixun Wang, Yiji Cheng et al."
   },
   {
-    "id": "arxiv_1787289641504_2",
+    "id": "arxiv_1787293330813_2",
     "name": "Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
     "category": "computer-vision",
     "description": "We present Swift-Image, a compact unified model for text-to-image generation, single-image editing, and multi-image editing. Our goal is to explore how far a relatively small visual generator can be p...",
@@ -70,7 +70,7 @@
     "source": "arXiv - Taihang Hu, Zhao Wang, Zuan Gao et al."
   },
   {
-    "id": "arxiv_1787289641486_0",
+    "id": "arxiv_1787293330749_0",
     "name": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
     "category": "ai",
     "description": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depende...",
@@ -85,7 +85,7 @@
     "source": "arXiv - Shiao Xie, Siyu Chen, Jianwei Lv et al."
   },
   {
-    "id": "arxiv_1787289641504_3",
+    "id": "arxiv_1787293330813_3",
     "name": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
     "category": "computer-vision",
     "description": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depende...",
@@ -100,7 +100,7 @@
     "source": "arXiv - Shiao Xie, Siyu Chen, Jianwei Lv et al."
   },
   {
-    "id": "arxiv_1787289641532_1",
+    "id": "arxiv_1787293331055_1",
     "name": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
     "category": "nlp",
     "description": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depende...",
@@ -115,7 +115,7 @@
     "source": "arXiv - Shiao Xie, Siyu Chen, Jianwei Lv et al."
   },
   {
-    "id": "arxiv_1787289641517_1",
+    "id": "arxiv_1787293330993_1",
     "name": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
     "category": "machine-learning",
     "description": "Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-ho...",
@@ -129,7 +129,7 @@
     "source": "arXiv - Parampreet Singh, Anushka Singh, Sumit Kumar et al."
   },
   {
-    "id": "arxiv_1787289641517_2",
+    "id": "arxiv_1787293330993_2",
     "name": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
     "category": "machine-learning",
     "description": "Despite their growing importance for contact-free radio frequency (RF) based healthcare monitoring, different radio technologies such as frequency-modulated continuous wave (FMCW) radar, impulse radio...",
@@ -144,7 +144,7 @@
     "source": "arXiv - Anton Lambrecht, Reda El Hail, Xianjun Jiao et al."
   },
   {
-    "id": "arxiv_1787289641487_1",
+    "id": "arxiv_1787293330749_1",
     "name": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
     "category": "ai",
     "description": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workfl...",
@@ -156,11 +156,11 @@
       "LLM"
     ],
     "date": "2026-08-20T17:57:42Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Narges Ahmadi, Yubo Jiao, Jônatas Augusto Manzolli et al."
   },
   {
-    "id": "arxiv_1787289641532_2",
+    "id": "arxiv_1787293331056_2",
     "name": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
     "category": "nlp",
     "description": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workfl...",
@@ -172,11 +172,11 @@
       "LLM"
     ],
     "date": "2026-08-20T17:57:42Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Narges Ahmadi, Yubo Jiao, Jônatas Augusto Manzolli et al."
   },
   {
-    "id": "arxiv_1787289641487_2",
+    "id": "arxiv_1787293330749_2",
     "name": "Inducing Task Models from Computer-Use Traces",
     "category": "ai",
     "description": "Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is do...",
@@ -186,11 +186,11 @@
       "GAN"
     ],
     "date": "2026-08-20T17:57:00Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yucheng Jiang, Zora Zhiruo Wang, Ruishi Chen et al."
   },
   {
-    "id": "arxiv_1787289641532_3",
+    "id": "arxiv_1787293331056_3",
     "name": "Inducing Task Models from Computer-Use Traces",
     "category": "nlp",
     "description": "Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is do...",
@@ -204,7 +204,7 @@
     "source": "arXiv - Yucheng Jiang, Zora Zhiruo Wang, Ruishi Chen et al."
   },
   {
-    "id": "arxiv_1787289641487_3",
+    "id": "arxiv_1787293330749_3",
     "name": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
     "category": "ai",
     "description": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a...",
@@ -218,7 +218,7 @@
     "source": "arXiv - Yizhe Chi, Wenyi Li, Deyao Hong et al."
   },
   {
-    "id": "arxiv_1787289641517_3",
+    "id": "arxiv_1787293330993_3",
     "name": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
     "category": "machine-learning",
     "description": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a...",
@@ -228,11 +228,11 @@
       "LLM"
     ],
     "date": "2026-08-20T17:56:59Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yizhe Chi, Wenyi Li, Deyao Hong et al."
   },
   {
-    "id": "arxiv_1787289641532_4",
+    "id": "arxiv_1787293331056_4",
     "name": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
     "category": "nlp",
     "description": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a...",
@@ -246,7 +246,7 @@
     "source": "arXiv - Yizhe Chi, Wenyi Li, Deyao Hong et al."
   },
   {
-    "id": "arxiv_1787289641487_4",
+    "id": "arxiv_1787293330750_4",
     "name": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
     "category": "ai",
     "description": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer most e...",
@@ -260,7 +260,7 @@
     "source": "arXiv - Adam Fisch, Shubhendu Trivedi, Fantine Huot et al."
   },
   {
-    "id": "arxiv_1787289641517_4",
+    "id": "arxiv_1787293330993_4",
     "name": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records",
     "category": "machine-learning",
     "description": "Predictive models over structured electronic health records (EHRs) remain central to machine learning for healthcare, but few have jointly emphasized quantitative laboratory information and interpreta...",
@@ -272,11 +272,11 @@
       "BERT"
     ],
     "date": "2026-08-20T17:54:17Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jun Ni Du, Lukas Adamek, Maxim Kryukov et al."
   },
   {
-    "id": "arxiv_1787289641504_4",
+    "id": "arxiv_1787293330814_4",
     "name": "Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis",
     "category": "computer-vision",
     "description": "The capability to perceive and synthesize human-human interactions is fundamental to developing intelligent digital human systems. However, existing datasets and modeling approaches are fundamentally ...",
@@ -285,7 +285,7 @@
       "AI"
     ],
     "date": "2026-08-20T17:51:48Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Liang Xu, Chengqun Yang, Zili Lin et al."
   }
 ]
