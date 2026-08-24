@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1787609533904_0",
+    "id": "arxiv_1787613099778_0",
     "name": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
     "category": "computer-vision",
     "description": "Recent omni-modal large language models (Omni-LLMs) show great potential as real-time video assistants, which continuously perceive environments and guide users to achieve specific goals. Unlike tradi...",
@@ -10,11 +10,11 @@
       "LLM"
     ],
     "date": "2026-08-21T17:59:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Xianyun Sun, Chaoyou Fu, Zhengye Zhang et al."
   },
   {
-    "id": "arxiv_1787609533831_0",
+    "id": "arxiv_1787613099753_0",
     "name": "Primal Acceleration of Newton's Method",
     "category": "ai",
     "description": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per ite...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Nikita Doikov"
   },
   {
-    "id": "arxiv_1787609533980_0",
+    "id": "arxiv_1787613099802_0",
     "name": "Primal Acceleration of Newton's Method",
     "category": "machine-learning",
     "description": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per ite...",
@@ -42,7 +42,7 @@
     "source": "arXiv - Nikita Doikov"
   },
   {
-    "id": "arxiv_1787609533831_1",
+    "id": "arxiv_1787613099753_1",
     "name": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
     "category": "ai",
     "description": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform researc...",
@@ -56,7 +56,7 @@
     "source": "arXiv - Elaine Lau, Thanuka Udumulla, Lee Izhaki-Tavor et al."
   },
   {
-    "id": "arxiv_1787609533832_2",
+    "id": "arxiv_1787613099753_2",
     "name": "AI with Authority, from Application to Silicon",
     "category": "ai",
     "description": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verif...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Jason Hickey"
   },
   {
-    "id": "arxiv_1787609533980_1",
+    "id": "arxiv_1787613099802_1",
     "name": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
     "category": "machine-learning",
     "description": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, withou...",
@@ -82,18 +82,18 @@
     "source": "arXiv - Yoshitaka Inoue, Minoh Jeong, Alfred Hero et al."
   },
   {
-    "id": "arxiv_1787609533980_2",
+    "id": "arxiv_1787613099802_2",
     "name": "Truthful Calibration Measures for Sequential Prediction",
     "category": "machine-learning",
     "description": "Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab e...",
     "link": "http://arxiv.org/abs/2608.21348v1",
     "tags": [],
     "date": "2026-08-21T17:54:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Anagha Gokul, Jason Hartline, Lunjia Hu et al."
   },
   {
-    "id": "arxiv_1787609533980_3",
+    "id": "arxiv_1787613099802_3",
     "name": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
     "category": "machine-learning",
     "description": "Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the thre...",
@@ -104,11 +104,11 @@
       "LLM"
     ],
     "date": "2026-08-21T17:52:17Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhuoyi Yang, Ian G. Harris, Salar Hashemitaheri et al."
   },
   {
-    "id": "arxiv_1787609533832_3",
+    "id": "arxiv_1787613099753_3",
     "name": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
     "category": "ai",
     "description": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many cont...",
@@ -121,7 +121,7 @@
     "source": "arXiv - Vladimir Bataev, Lilit Grigoryan, Andrei Andrusenko et al."
   },
   {
-    "id": "arxiv_1787609533980_4",
+    "id": "arxiv_1787613099802_4",
     "name": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
     "category": "machine-learning",
     "description": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many cont...",
@@ -130,11 +130,11 @@
       "AI"
     ],
     "date": "2026-08-21T17:50:00Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Vladimir Bataev, Lilit Grigoryan, Andrei Andrusenko et al."
   },
   {
-    "id": "arxiv_1787609534054_0",
+    "id": "arxiv_1787613099827_0",
     "name": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
     "category": "nlp",
     "description": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many cont...",
@@ -147,7 +147,7 @@
     "source": "arXiv - Vladimir Bataev, Lilit Grigoryan, Andrei Andrusenko et al."
   },
   {
-    "id": "arxiv_1787609533832_4",
+    "id": "arxiv_1787613099753_4",
     "name": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
     "category": "ai",
     "description": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduce Anatomy-Informed Neural Networks (AINN), in whic...",
@@ -162,7 +162,7 @@
     "source": "arXiv - David P. Stonko"
   },
   {
-    "id": "arxiv_1787609533904_1",
+    "id": "arxiv_1787613099778_1",
     "name": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
     "category": "computer-vision",
     "description": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduce Anatomy-Informed Neural Networks (AINN), in whic...",
@@ -173,11 +173,11 @@
       "Vision"
     ],
     "date": "2026-08-21T17:38:42Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - David P. Stonko"
   },
   {
-    "id": "arxiv_1787609534054_1",
+    "id": "arxiv_1787613099827_1",
     "name": "Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy",
     "category": "nlp",
     "description": "Users increasingly turn to large language models for emotional support, yet little is known about how these models actually conduct a psychotherapy interaction. We introduce an ontology of ten therape...",
@@ -191,7 +191,7 @@
     "source": "arXiv - Afonso Baldo, Hugo Pitorro, Areti Vassilopoulos et al."
   },
   {
-    "id": "arxiv_1787609534054_2",
+    "id": "arxiv_1787613099827_2",
     "name": "Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structural readout -- and the factorizations of it that failed",
     "category": "nlp",
     "description": "That a prompt's effect is not a property of the prompt is established: prompts optimised for one model degrade on another, and rankings reorder under neutral reformatting. That evidence is about task ...",
@@ -200,11 +200,11 @@
       "AI"
     ],
     "date": "2026-08-21T17:25:18Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Nicolás Vera Zúñiga"
   },
   {
-    "id": "arxiv_1787609533904_2",
+    "id": "arxiv_1787613099778_2",
     "name": "Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning",
     "category": "computer-vision",
     "description": "Reinforcement Learning (RL) has demonstrated significant gains in image captioning, yet it is still limited in encouraging Large Vision-Language Models (LVLMs) to explore novel reasoning strategies. T...",
@@ -219,7 +219,7 @@
     "source": "arXiv - Haonan Jia, Shichao Dong, Zenghui Sun et al."
   },
   {
-    "id": "arxiv_1787609533904_3",
+    "id": "arxiv_1787613099778_3",
     "name": "When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning",
     "category": "computer-vision",
     "description": "Foundation models for medical image segmentation, like prompt-based MedSAM, generalize well across domains and modalities, often in zero or few-shot setups. However, their performance depends on the q...",
@@ -232,7 +232,7 @@
     "source": "arXiv - Marko Haralović, Sounic Akkaraju, Carlo Baretta et al."
   },
   {
-    "id": "arxiv_1787609533905_4",
+    "id": "arxiv_1787613099779_4",
     "name": "VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation",
     "category": "computer-vision",
     "description": "We propose VT-MUSE, a Multimodal Unified SEquential representation learning framework for visuotactilemanipulation. Existing approaches often encode visual and tactile observations independently befor...",
@@ -242,11 +242,11 @@
       "Transformer"
     ],
     "date": "2026-08-21T16:50:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Congsheng Xu, Qiaochu Yang, Fangyuan Shi et al."
   },
   {
-    "id": "arxiv_1787609534054_3",
+    "id": "arxiv_1787613099827_3",
     "name": "Memory Augmentation Unlocks Efficient Chain-of-Thought Reasoning",
     "category": "nlp",
     "description": "Large language models often rely on Chain-of-Thought (CoT) reasoning to solve complex tasks, but verbose reasoning traces introduce substantial inference overhead. CoT compression shortens generation,...",
@@ -259,7 +259,7 @@
     "source": "arXiv - Simeng Zhang, Yilong Chen, Wenyuan Zhang et al."
   },
   {
-    "id": "arxiv_1787609534054_4",
+    "id": "arxiv_1787613099827_4",
     "name": "EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering",
     "category": "nlp",
     "description": "Question answering (QA) over long, connected documents remains challenging because relevant evidence may span multiple entities and their relationships. Existing retrieval-augmented generation (RAG) m...",
@@ -269,7 +269,7 @@
       "LLM"
     ],
     "date": "2026-08-21T16:05:00Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xuanyu Meng, Jiashuo Sun, Jash Rajesh Parekh et al."
   }
 ]
