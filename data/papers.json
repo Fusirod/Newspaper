@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1787638939568_0",
+    "id": "arxiv_1787643201419_0",
     "name": "How to Train a Critic Stably and Efficiently",
     "category": "ai",
     "description": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token...",
@@ -11,11 +11,11 @@
       "Optimization"
     ],
     "date": "2026-08-24T17:59:39Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Penghui Qi, Xiangxin Zhou, Wee Sun Lee"
   },
   {
-    "id": "arxiv_1787638939635_0",
+    "id": "arxiv_1787643201532_0",
     "name": "How to Train a Critic Stably and Efficiently",
     "category": "machine-learning",
     "description": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token...",
@@ -30,7 +30,7 @@
     "source": "arXiv - Penghui Qi, Xiangxin Zhou, Wee Sun Lee"
   },
   {
-    "id": "arxiv_1787638939669_0",
+    "id": "arxiv_1787643201589_0",
     "name": "How to Train a Critic Stably and Efficiently",
     "category": "nlp",
     "description": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token...",
@@ -45,7 +45,7 @@
     "source": "arXiv - Penghui Qi, Xiangxin Zhou, Wee Sun Lee"
   },
   {
-    "id": "arxiv_1787638939568_1",
+    "id": "arxiv_1787643201419_1",
     "name": "ReWorld: An Interactive World Model with Long-Horizon Memory",
     "category": "ai",
     "description": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounde...",
@@ -58,7 +58,7 @@
     "source": "arXiv - Zhifei Chen, Luozhou Wang, Guibao Shen et al."
   },
   {
-    "id": "arxiv_1787638939568_2",
+    "id": "arxiv_1787643201419_2",
     "name": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
     "category": "ai",
     "description": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they ...",
@@ -67,11 +67,11 @@
       "AI"
     ],
     "date": "2026-08-24T17:59:04Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Deyao Hong, Yizhe Chi, Wenyi Li et al."
   },
   {
-    "id": "arxiv_1787638939669_1",
+    "id": "arxiv_1787643201589_1",
     "name": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
     "category": "nlp",
     "description": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they ...",
@@ -84,23 +84,9 @@
     "source": "arXiv - Deyao Hong, Yizhe Chi, Wenyi Li et al."
   },
   {
-    "id": "arxiv_1787638939569_3",
+    "id": "arxiv_1787643201420_3",
     "name": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
     "category": "ai",
-    "description": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and th...",
-    "link": "http://arxiv.org/abs/2608.23563v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-08-24T17:58:41Z",
-    "trending": true,
-    "source": "arXiv - Md Thamed Bin Zaman Chowdhury, Moazzem Hossain"
-  },
-  {
-    "id": "arxiv_1787638939602_0",
-    "name": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
-    "category": "computer-vision",
     "description": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and th...",
     "link": "http://arxiv.org/abs/2608.23563v1",
     "tags": [
@@ -112,7 +98,21 @@
     "source": "arXiv - Md Thamed Bin Zaman Chowdhury, Moazzem Hossain"
   },
   {
-    "id": "arxiv_1787638939569_4",
+    "id": "arxiv_1787643201476_0",
+    "name": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+    "category": "computer-vision",
+    "description": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and th...",
+    "link": "http://arxiv.org/abs/2608.23563v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-08-24T17:58:41Z",
+    "trending": true,
+    "source": "arXiv - Md Thamed Bin Zaman Chowdhury, Moazzem Hossain"
+  },
+  {
+    "id": "arxiv_1787643201420_4",
     "name": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
     "category": "ai",
     "description": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed intera...",
@@ -126,7 +126,7 @@
     "source": "arXiv - Yuanyuan Zhang, Yida Zhang, Jiahui Li et al."
   },
   {
-    "id": "arxiv_1787638939635_1",
+    "id": "arxiv_1787643201532_1",
     "name": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
     "category": "machine-learning",
     "description": "Discrete diffusion models offer a promising alternative to autoregressive generation by enabling parallel updates, but their sampling efficiency can depend strongly on the choice of the forward proces...",
@@ -136,11 +136,11 @@
       "Diffusion"
     ],
     "date": "2026-08-24T17:54:51Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Daniil Dmitriev, Zhihan Huang, Yuting Wei"
   },
   {
-    "id": "arxiv_1787638939669_2",
+    "id": "arxiv_1787643201589_2",
     "name": "Prime Agent: A Self-Improving RLM Harness",
     "category": "nlp",
     "description": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long...",
@@ -154,7 +154,7 @@
     "source": "arXiv - Seth Karten, Alex L. Zhang, Kevin Thomas et al."
   },
   {
-    "id": "arxiv_1787638939635_2",
+    "id": "arxiv_1787643201532_2",
     "name": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
     "category": "machine-learning",
     "description": "Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders sup...",
@@ -168,7 +168,7 @@
     "source": "arXiv - Na Li, Yuchen Jiao, Changxiao Cai et al."
   },
   {
-    "id": "arxiv_1787638939669_3",
+    "id": "arxiv_1787643201589_3",
     "name": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
     "category": "nlp",
     "description": "Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders sup...",
@@ -178,11 +178,11 @@
       "Diffusion"
     ],
     "date": "2026-08-24T17:54:14Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Na Li, Yuchen Jiao, Changxiao Cai et al."
   },
   {
-    "id": "arxiv_1787638939602_1",
+    "id": "arxiv_1787643201476_1",
     "name": "FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors",
     "category": "computer-vision",
     "description": "Rendering views using 3D scene representations such as Gaussian Splatting (3DGS), Neural Radiance Fields (NeRF), meshes, or even point clouds produces artifacts when input views are sparse or target v...",
@@ -194,11 +194,11 @@
       "Optimization"
     ],
     "date": "2026-08-24T17:51:33Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Khiem Vuong, Deva Ramanan, Srinivasa Narasimhan"
   },
   {
-    "id": "arxiv_1787638939635_3",
+    "id": "arxiv_1787643201533_3",
     "name": "Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination",
     "category": "machine-learning",
     "description": "Machine-learning-based anomaly detection is increasingly used in industrial control systems (ICS), yet most studies assume that detector training data is trustworthy. In practice, training data may be...",
@@ -212,7 +212,7 @@
     "source": "arXiv - Mustafa Umut Ozbek, Taiwo Ojo, Pooria Madani et al."
   },
   {
-    "id": "arxiv_1787638939635_4",
+    "id": "arxiv_1787643201533_4",
     "name": "Inertial Manifold Neural Operator for Dissipative Time-Dependent Partial Differential Equations",
     "category": "machine-learning",
     "description": "In this paper, we introduce the Inertial Manifold Neural Operator (IMNO) for solving dissipative time-dependent partial differential equations (PDEs). The long-time dynamics of such systems often exhi...",
@@ -222,11 +222,11 @@
       "Neural"
     ],
     "date": "2026-08-24T17:49:30Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xiaoyang Xie, Clarence W. Rowley"
   },
   {
-    "id": "arxiv_1787638939602_2",
+    "id": "arxiv_1787643201476_2",
     "name": "Predicting Multiple Clinical Outcomes Related to Functional Recovery and Social Isolation Among Older Adults After Lower-Limb Fracture or Hip Replacement",
     "category": "computer-vision",
     "description": "Older adults recovering after lower-limb fracture or hip replacement may experience complex recovery trajectories. Most of the time, these clinical aspects are studied in isolation, masking their join...",
@@ -241,7 +241,7 @@
     "source": "arXiv - Santosh Ray, Pratik K. Mishra, Ali Abedi et al."
   },
   {
-    "id": "arxiv_1787638939602_3",
+    "id": "arxiv_1787643201476_3",
     "name": "Investigating Relational Reasoning in VLMs",
     "category": "computer-vision",
     "description": "Vision-Language Models (VLMs) achieve strong performance in visual reasoning tasks, but it remains unclear whether they understand visual relations, or simply employ shortcuts such as language cues or...",
@@ -251,11 +251,11 @@
       "Vision"
     ],
     "date": "2026-08-24T17:23:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Adhithya Laxman Ravi Shankar Geetha, Aulia Kharis Rakhmasari, Haleema Ramzan et al."
   },
   {
-    "id": "arxiv_1787638939669_4",
+    "id": "arxiv_1787643201589_4",
     "name": "When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World",
     "category": "nlp",
     "description": "Historical people may appear under different languages, scripts, and transcription traditions, while distinct individuals may share highly similar or even identical names. This makes historical identi...",
@@ -269,7 +269,7 @@
     "source": "arXiv - Xiang Chen, Zeyu Zhang"
   },
   {
-    "id": "arxiv_1787638939602_4",
+    "id": "arxiv_1787643201477_4",
     "name": "Action-Aligned Retrieval with Pairwise Multimodal Reranking for Text-Based Person Anomaly Search",
     "category": "computer-vision",
     "description": "Text-based person anomaly search requires distinguishing individuals based on fine-grained, context-dependent behaviors rather than mere appearance. Existing methods struggle to capture these context-...",
