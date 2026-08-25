@@ -1,6 +1,52 @@
 [
   {
-    "id": "rss_Ars_Technica_1787678446195_0",
+    "id": "rss_MIT_Tech_Review_1787681985024_0",
+    "title": "Art and algorithms at Sotheby’s",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "Do fine art and high tech ever converge? At Sotheby’s they do, thanks to Kelly Shen ’17. Shen works in the growing field of art intelligence for the New York auction house. Shen builds algorithms to predict prices, using factors like buying trends and artists’ popularity. She has also worked on such",
+    "link": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
+    "tags": [],
+    "date": "Tue, 25 Aug 2026 18:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1787681982875_0",
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 25 Aug 2026 17:50:33 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1787681986169_0",
+    "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\"\n                    ",
+    "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
+    "tags": [],
+    "date": "Tue, 25 Aug 2026 17:39:38 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1787681986169_1",
+    "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"This will be a project like no other.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+    "tags": [],
+    "date": "Tue, 25 Aug 2026 17:26:15 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1787681986169_2",
     "title": "Lab supply companies have been selling antibodies using manipulated images",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,7 +57,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1787678446196_1",
+    "id": "rss_Ars_Technica_1787681986169_3",
     "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -24,7 +70,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1787678446196_2",
+    "id": "rss_Ars_Technica_1787681986169_4",
     "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -37,7 +83,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1787678442539_0",
+    "id": "rss_TechCrunch_1787681982875_1",
     "title": "Gamma acquires Accel-backed design startup Lica",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -50,7 +96,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1787678442539_1",
+    "id": "rss_TechCrunch_1787681982875_2",
     "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -64,20 +110,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1787678446196_3",
-    "title": "Apple's new desktop computers are designed specifically for local AI development",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.\n                    ",
-    "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 25 Aug 2026 13:00:11 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1787678442540_2",
+    "id": "rss_TechCrunch_1787681982875_3",
     "title": "Accel-backed Keenable is indexing the web for AI agents",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -90,7 +123,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1787678444741_0",
+    "id": "rss_MIT_Tech_Review_1787681985024_1",
     "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -102,10 +135,10 @@
       "Robot"
     ],
     "date": "Tue, 25 Aug 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1787678442540_3",
+    "id": "rss_TechCrunch_1787681982875_4",
     "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -119,7 +152,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1787678447278_0",
+    "id": "rss_Wired_1787681987299_0",
     "title": "It Should Be Harder to Apply for a Job. No, Really",
     "category": "ai-news",
     "source": "Wired",
@@ -130,7 +163,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1787678447278_1",
+    "id": "rss_Wired_1787681987299_1",
     "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
     "category": "ai-news",
     "source": "Wired",
@@ -144,7 +177,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1787678444741_1",
+    "id": "rss_MIT_Tech_Review_1787681985025_2",
     "title": "Welcome to the spiderverse, a world measured through webs",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -155,7 +188,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1787678444741_2",
+    "id": "rss_MIT_Tech_Review_1787681985025_3",
     "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -166,36 +199,10 @@
       "Robot"
     ],
     "date": "Tue, 25 Aug 2026 09:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1787678442540_4",
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 25 Aug 2026 00:23:12 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1787678446196_4",
-    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 24 Aug 2026 21:45:53 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1787678444741_3",
+    "id": "rss_MIT_Tech_Review_1787681985025_4",
     "title": "How to encourage smarter AI use in the classroom",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -207,24 +214,10 @@
       "Chatbot"
     ],
     "date": "Mon, 24 Aug 2026 14:20:19 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1787678444742_4",
-    "title": "The Download: kids outlearning AI, and space travel agents",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn thr",
-    "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "Mon, 24 Aug 2026 12:10:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_Wired_1787678447278_2",
+    "id": "rss_Wired_1787681987299_2",
     "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
     "category": "ai-news",
     "source": "Wired",
@@ -237,7 +230,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1787678447278_3",
+    "id": "rss_Wired_1787681987299_3",
     "title": "The Unlikely Place at the Center of China’s AI Boom",
     "category": "ai-news",
     "source": "Wired",
@@ -250,7 +243,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1787678447278_4",
+    "id": "rss_Wired_1787681987299_4",
     "title": "The Single English County Saying No to Palantir",
     "category": "ai-news",
     "source": "Wired",
@@ -258,10 +251,10 @@
     "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
     "tags": [],
     "date": "Fri, 21 Aug 2026 06:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1787678456497_0",
+    "id": "rss_Distill_1787681995235_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -271,10 +264,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1787678456497_1",
+    "id": "rss_Distill_1787681995235_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -287,7 +280,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1787678456497_2",
+    "id": "rss_Distill_1787681995235_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -295,10 +288,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1787678456497_3",
+    "id": "rss_Distill_1787681995235_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -311,7 +304,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1787678456497_4",
+    "id": "rss_Distill_1787681995235_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
