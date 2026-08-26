@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1787718440283_0",
+    "id": "arxiv_1787721657137_0",
     "name": "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
     "category": "computer-vision",
     "description": "Action-conditioned world models are increasingly used as learned simulators for policy evaluation and improvement, yet their effectiveness rests on an unverified assumption: generated futures faithful...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Sixiang Chen, Jiaming Liu, Jixian Wu et al."
   },
   {
-    "id": "arxiv_1787718440351_0",
+    "id": "arxiv_1787721657163_0",
     "name": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
     "category": "machine-learning",
     "description": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported sc...",
@@ -22,11 +22,11 @@
       "AI"
     ],
     "date": "2026-08-25T17:58:46Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hao Chen"
   },
   {
-    "id": "arxiv_1787718440284_1",
+    "id": "arxiv_1787721657138_1",
     "name": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
     "category": "computer-vision",
     "description": "Smart glasses are evolving from capture and display accessories into first-person intelligence platforms that connect human perception, persistent context, and digital or physical action. Their on-bod...",
@@ -41,7 +41,7 @@
     "source": "arXiv - Jiangning Zhang, Haojun Chen, Yong Liu"
   },
   {
-    "id": "arxiv_1787718440214_0",
+    "id": "arxiv_1787721657113_0",
     "name": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
     "category": "ai",
     "description": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Workin...",
@@ -55,7 +55,7 @@
     "source": "arXiv - Zhaochen Yu, Yingcheng Wu, Zhenfei Yin et al."
   },
   {
-    "id": "arxiv_1787718440419_0",
+    "id": "arxiv_1787721657188_0",
     "name": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
     "category": "nlp",
     "description": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Workin...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Zhaochen Yu, Yingcheng Wu, Zhenfei Yin et al."
   },
   {
-    "id": "arxiv_1787718440214_1",
+    "id": "arxiv_1787721657113_1",
     "name": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
     "category": "ai",
     "description": "Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this d...",
@@ -85,7 +85,7 @@
     "source": "arXiv - Kai Ruan, Jinghao Lin, Qianshan Wei et al."
   },
   {
-    "id": "arxiv_1787718440351_1",
+    "id": "arxiv_1787721657163_1",
     "name": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes",
     "category": "machine-learning",
     "description": "Lipschitz constants are a standard way to quantify the sensitivity of neural networks to small input perturbations, but computing them is difficult even for shallow ReLU networks. We study this proble...",
@@ -97,11 +97,11 @@
       "LLM"
     ],
     "date": "2026-08-25T17:47:37Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Aritra Das, Vincent Froese, Moritz Grillo et al."
   },
   {
-    "id": "arxiv_1787718440352_2",
+    "id": "arxiv_1787721657163_2",
     "name": "Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement",
     "category": "machine-learning",
     "description": "Multi-task vehicle routing problem (VRP) solvers seek to handle multiple VRP variants within a single unified model, avoiding the need to train a separate model for every variant. In spite of recent p...",
@@ -117,7 +117,7 @@
     "source": "arXiv - Arthur Corrêa, Paulo Nascimento, Samuel Moniz"
   },
   {
-    "id": "arxiv_1787718440352_3",
+    "id": "arxiv_1787721657163_3",
     "name": "Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning",
     "category": "machine-learning",
     "description": "Marginalized importance weighting evaluates a target policy by reweighting offline state-action samples with its discounted occupancy ratio, characterized by an adjoint Bellman equation. Existing mini...",
@@ -133,7 +133,7 @@
     "source": "arXiv - Lars van der Laan, Nathan Kallus"
   },
   {
-    "id": "arxiv_1787718440284_2",
+    "id": "arxiv_1787721657138_2",
     "name": "LeFlow: Generative Latent Flow Planning for World Models",
     "category": "computer-vision",
     "description": "Latent world models are inherently strong encoders that transform image pixel to latent embedding, yet existing world models still rely on online trajectory optimization for action planning: for every...",
@@ -147,7 +147,7 @@
     "source": "arXiv - Hsiang-Wei Huang, Jianxu Shangguan, Junbin Lu et al."
   },
   {
-    "id": "arxiv_1787718440419_1",
+    "id": "arxiv_1787721657188_1",
     "name": "BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes",
     "category": "nlp",
     "description": "Web agents that act from rendered pixels avoid the fragility and heavy token cost of reading a page's HTML or accessibility tree, but training them depends on large amounts of high-quality interaction...",
@@ -160,7 +160,7 @@
     "source": "arXiv - Fei Tang, Huawen Shen, Zhiqiong Lu et al."
   },
   {
-    "id": "arxiv_1787718440214_2",
+    "id": "arxiv_1787721657113_2",
     "name": "FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs",
     "category": "ai",
     "description": "Real-world data for knowledge graph question answering is often distributed across different organizations due to governance and data sovereignty constraints. While centralized systems exist, they can...",
@@ -174,7 +174,7 @@
     "source": "arXiv - Md Saikat Islam Khan Bappy, Oshani Seneviratne"
   },
   {
-    "id": "arxiv_1787718440215_3",
+    "id": "arxiv_1787721657114_3",
     "name": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
     "category": "ai",
     "description": "We present LAION-BVD, a large-scale open video dataset for multimodal learning, which contains 1.3B platform-specific video URLs collected from CommonCrawl. From these, we download 80M videos with a t...",
@@ -183,11 +183,11 @@
       "AI"
     ],
     "date": "2026-08-25T17:34:19Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Andreas Hochlehnert, Marianna Nezhurina, Mehdi Cherti et al."
   },
   {
-    "id": "arxiv_1787718440284_3",
+    "id": "arxiv_1787721657139_3",
     "name": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
     "category": "computer-vision",
     "description": "We present LAION-BVD, a large-scale open video dataset for multimodal learning, which contains 1.3B platform-specific video URLs collected from CommonCrawl. From these, we download 80M videos with a t...",
@@ -200,7 +200,7 @@
     "source": "arXiv - Andreas Hochlehnert, Marianna Nezhurina, Mehdi Cherti et al."
   },
   {
-    "id": "arxiv_1787718440352_4",
+    "id": "arxiv_1787721657163_4",
     "name": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
     "category": "machine-learning",
     "description": "We present LAION-BVD, a large-scale open video dataset for multimodal learning, which contains 1.3B platform-specific video URLs collected from CommonCrawl. From these, we download 80M videos with a t...",
@@ -209,11 +209,11 @@
       "AI"
     ],
     "date": "2026-08-25T17:34:19Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Andreas Hochlehnert, Marianna Nezhurina, Mehdi Cherti et al."
   },
   {
-    "id": "arxiv_1787718440215_4",
+    "id": "arxiv_1787721657114_4",
     "name": "Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows",
     "category": "ai",
     "description": "Large language models (LLMs) are increasingly deployed as AI analysts to process financial disclosures and support AI-assisted investment decisions. Yet such systems are usually evaluated by what they...",
@@ -223,11 +223,11 @@
       "LLM"
     ],
     "date": "2026-08-25T17:31:25Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Miao Liu, Zhizhe Liu"
   },
   {
-    "id": "arxiv_1787718440420_2",
+    "id": "arxiv_1787721657189_2",
     "name": "Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows",
     "category": "nlp",
     "description": "Large language models (LLMs) are increasingly deployed as AI analysts to process financial disclosures and support AI-assisted investment decisions. Yet such systems are usually evaluated by what they...",
@@ -241,7 +241,7 @@
     "source": "arXiv - Miao Liu, Zhizhe Liu"
   },
   {
-    "id": "arxiv_1787718440420_3",
+    "id": "arxiv_1787721657189_3",
     "name": "Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch",
     "category": "nlp",
     "description": "We present Crase, a bounded and inspectable alternative to deep research agents for scholarly search. Instead of an open-ended search loop, Crase queries a search engine once for seed papers, expands ...",
@@ -254,7 +254,7 @@
     "source": "arXiv - Rima Hazra, Sayan Layek, Somnath Banerjee et al."
   },
   {
-    "id": "arxiv_1787718440284_4",
+    "id": "arxiv_1787721657139_4",
     "name": "EMFE: A lightweight, explainable machine learning framework for malaria cell classification",
     "category": "computer-vision",
     "description": "Automated malaria diagnosis from stained blood-smear microscopy is dominated by deep convolutional neural networks that are accurate but computationally expensive, poorly interpretable, and rarely val...",
@@ -270,7 +270,7 @@
     "source": "arXiv - Md Abdullah Al Kafi, Walayat Hussain, Mousumi Karmakar et al."
   },
   {
-    "id": "arxiv_1787718440420_4",
+    "id": "arxiv_1787721657189_4",
     "name": "Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text",
     "category": "nlp",
     "description": "Distinguishing machine-generated text (MGT) from human-written text (HWT) becomes increasingly important due to potential misuse. However, most supervised detectors often degrade out-of-domain (OOD) a...",
