@@ -1,285 +1,289 @@
 [
   {
-    "id": "arxiv_1787797153843_0",
-    "name": "Auditable CT Phenotyping Through Report-derived Radiological Observations",
-    "category": "computer-vision",
-    "description": "Medical image foundation models can predict clinical phenotypes from computed tomography (CT), but strong performance leaves open whether they read disease-specific findings or shortcuts that correlat...",
-    "link": "http://arxiv.org/abs/2608.25948v1",
+    "id": "arxiv_1787836345902_0",
+    "name": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+    "category": "ai",
+    "description": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c...",
+    "link": "http://arxiv.org/abs/2608.26105v1",
     "tags": [
       "AI",
-      "Vision"
-    ],
-    "date": "2026-08-26T16:03:59Z",
-    "trending": false,
-    "source": "arXiv - Riga Wu, Walter Witschey, Yicheng Li et al."
-  },
-  {
-    "id": "arxiv_1787797154003_0",
-    "name": "Unveiling Spectral Mechanisms in Training-Free LLM Text Detection",
-    "category": "nlp",
-    "description": "The rapid advancement of Large Language Models (LLMs) makes it increasingly difficult to distinguish human writing from machine-generated text. Training-free detection offers a scalable solution, yet ...",
-    "link": "http://arxiv.org/abs/2608.25944v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-08-26T16:01:17Z",
-    "trending": false,
-    "source": "arXiv - Haitong Luo, Xuying Meng, Weiyao Zhang et al."
-  },
-  {
-    "id": "arxiv_1787797153924_0",
-    "name": "When Pruning Meets Interpretability: Preserving Sparse Autoencoder Robustness in LLMs",
-    "category": "machine-learning",
-    "description": "Sparse autoencoders (SAEs) are widely used to interpret the internal representations of large language models (LLMs), yet their reliability under post-hoc model compression remains poorly understood. ...",
-    "link": "http://arxiv.org/abs/2608.25941v1",
-    "tags": [
-      "AI",
+      "Vision",
       "LLM",
-      "GPT"
+      "Reinforcement Learning"
     ],
-    "date": "2026-08-26T15:57:42Z",
+    "date": "2026-08-26T17:59:51Z",
     "trending": false,
-    "source": "arXiv - Suchit Gupte, Xueru Zhang, Mohammad Mahdi Khalili"
+    "source": "arXiv - Junxiang Xu, Ruisi Wang, Fanyi Pu et al."
   },
   {
-    "id": "arxiv_1787797153762_0",
-    "name": "A Statistical Audit of Physical AI Benchmark Redundancy",
-    "category": "ai",
-    "description": "Physical AI models are evaluated on suites of benchmarks that differ across model reports, leaving the model-by-benchmark matrix sparse and the relationship between benchmarks unmeasured. We construct...",
-    "link": "http://arxiv.org/abs/2608.25940v1",
+    "id": "arxiv_1787836345973_0",
+    "name": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+    "category": "computer-vision",
+    "description": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c...",
+    "link": "http://arxiv.org/abs/2608.26105v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-08-26T17:59:51Z",
+    "trending": false,
+    "source": "arXiv - Junxiang Xu, Ruisi Wang, Fanyi Pu et al."
+  },
+  {
+    "id": "arxiv_1787836346037_0",
+    "name": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+    "category": "machine-learning",
+    "description": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c...",
+    "link": "http://arxiv.org/abs/2608.26105v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-08-26T17:59:51Z",
+    "trending": false,
+    "source": "arXiv - Junxiang Xu, Ruisi Wang, Fanyi Pu et al."
+  },
+  {
+    "id": "arxiv_1787836345973_1",
+    "name": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
+    "category": "computer-vision",
+    "description": "Zero-shot cross-task generalization, where a policy must execute manipulation tasks never seen during training, remains a central challenge in robot learning. In large language models, a novel task ca...",
+    "link": "http://arxiv.org/abs/2608.26103v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-08-26T15:54:15Z",
-    "trending": true,
-    "source": "arXiv - Zaruhi Navasardyan, Hrant Davtyan"
-  },
-  {
-    "id": "arxiv_1787797153762_1",
-    "name": "Candidate supply and answer selection shape the value of LLM judging in multi-agent systems",
-    "category": "ai",
-    "description": "Multi-agent systems (MAS) sometimes already have the potential to answer correctly, but still report a wrong answer. Explaining this outcome is difficult because generation, communication and final an...",
-    "link": "http://arxiv.org/abs/2608.25937v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-08-26T15:52:20Z",
+    "date": "2026-08-26T17:59:34Z",
     "trending": false,
-    "source": "arXiv - Jia-Hao Ji, Sijie Li, Jiabei Cheng et al."
+    "source": "arXiv - Jiaming Zhou, Qihang Zhang, Gangwei Xu et al."
   },
   {
-    "id": "arxiv_1787797153762_2",
-    "name": "One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation",
-    "category": "ai",
-    "description": "On-policy distillation trains a language model on its own generations while a teacher scores them token by token. It combines the dense supervision of imitation learning with the on-policy sampling of...",
-    "link": "http://arxiv.org/abs/2608.25936v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-08-26T15:52:19Z",
-    "trending": true,
-    "source": "arXiv - Justin Robert, Raheel Qader"
-  },
-  {
-    "id": "arxiv_1787797153924_1",
-    "name": "One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation",
-    "category": "machine-learning",
-    "description": "On-policy distillation trains a language model on its own generations while a teacher scores them token by token. It combines the dense supervision of imitation learning with the on-policy sampling of...",
-    "link": "http://arxiv.org/abs/2608.25936v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-08-26T15:52:19Z",
-    "trending": false,
-    "source": "arXiv - Justin Robert, Raheel Qader"
-  },
-  {
-    "id": "arxiv_1787797154003_1",
-    "name": "One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation",
-    "category": "nlp",
-    "description": "On-policy distillation trains a language model on its own generations while a teacher scores them token by token. It combines the dense supervision of imitation learning with the on-policy sampling of...",
-    "link": "http://arxiv.org/abs/2608.25936v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-08-26T15:52:19Z",
-    "trending": false,
-    "source": "arXiv - Justin Robert, Raheel Qader"
-  },
-  {
-    "id": "arxiv_1787797153762_3",
-    "name": "TAU-Agent: An Agentic Retrieval-Augmented Framework for Traffic Anomaly Understanding",
-    "category": "ai",
-    "description": "Traffic Anomaly Understanding (TAU) requires models and systems to detect, reason about, and explain anomalous events in transportation videos. To address this challenge, we propose TAU-Agent, an agen...",
-    "link": "http://arxiv.org/abs/2608.25935v1",
+    "id": "arxiv_1787836345973_2",
+    "name": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
+    "category": "computer-vision",
+    "description": "Recent advances in video editing have been largely driven by large-scale instruction-based datasets. However, existing datasets still suffer from two critical limitations. First, target videos are com...",
+    "link": "http://arxiv.org/abs/2608.26101v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-08-26T15:50:38Z",
+    "date": "2026-08-26T17:59:19Z",
     "trending": false,
-    "source": "arXiv - Yuqiang Lin, Yan Shi, Sam Lockyer et al."
+    "source": "arXiv - Bojia Zi, Xiaoyan Yang, Yu Zhou et al."
   },
   {
-    "id": "arxiv_1787797153844_1",
-    "name": "TAU-Agent: An Agentic Retrieval-Augmented Framework for Traffic Anomaly Understanding",
-    "category": "computer-vision",
-    "description": "Traffic Anomaly Understanding (TAU) requires models and systems to detect, reason about, and explain anomalous events in transportation videos. To address this challenge, we propose TAU-Agent, an agen...",
-    "link": "http://arxiv.org/abs/2608.25935v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-08-26T15:50:38Z",
-    "trending": false,
-    "source": "arXiv - Yuqiang Lin, Yan Shi, Sam Lockyer et al."
-  },
-  {
-    "id": "arxiv_1787797153763_4",
-    "name": "How Robust Are Automated Fact-Checking Systems? A Cross-Benchmark Evaluation",
+    "id": "arxiv_1787836345902_1",
+    "name": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
     "category": "ai",
-    "description": "Automated fact-checking (AFC) systems retrieve evidence and predict claim veracity, yet evaluations omit simple baselines, systems are developed for a single benchmark and cannot be trusted to general...",
-    "link": "http://arxiv.org/abs/2608.25934v1",
+    "description": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised p...",
+    "link": "http://arxiv.org/abs/2608.26095v1",
     "tags": [
       "AI",
-      "Transformer",
       "LLM"
     ],
-    "date": "2026-08-26T15:50:10Z",
-    "trending": true,
-    "source": "arXiv - Aida Usmanova, Zangir Iklassov, Markus Leippold et al."
+    "date": "2026-08-26T17:57:04Z",
+    "trending": false,
+    "source": "arXiv - Kaichen Li, Zhilin Zhu, Jianhao Huang et al."
   },
   {
-    "id": "arxiv_1787797153924_2",
-    "name": "How Robust Are Automated Fact-Checking Systems? A Cross-Benchmark Evaluation",
-    "category": "machine-learning",
-    "description": "Automated fact-checking (AFC) systems retrieve evidence and predict claim veracity, yet evaluations omit simple baselines, systems are developed for a single benchmark and cannot be trusted to general...",
-    "link": "http://arxiv.org/abs/2608.25934v1",
+    "id": "arxiv_1787836345973_3",
+    "name": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
+    "category": "computer-vision",
+    "description": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised p...",
+    "link": "http://arxiv.org/abs/2608.26095v1",
     "tags": [
       "AI",
-      "Transformer",
       "LLM"
     ],
-    "date": "2026-08-26T15:50:10Z",
-    "trending": false,
-    "source": "arXiv - Aida Usmanova, Zangir Iklassov, Markus Leippold et al."
-  },
-  {
-    "id": "arxiv_1787797153845_2",
-    "name": "When Composition Doesn't Add Up: Humans Identifying Defects in AI-Generated Images",
-    "category": "computer-vision",
-    "description": "*Chulin Zhao and Ruoqi Hu contributed equally to this work.\n  State-of-the-art text-to-image (T2I) models exhibit pronounced and systematic defects when prompts involve intricate compositional factors...",
-    "link": "http://arxiv.org/abs/2608.25933v1",
-    "tags": [
-      "AI",
-      "GPT"
-    ],
-    "date": "2026-08-26T15:47:47Z",
-    "trending": false,
-    "source": "arXiv - Ruoqi Hu, Chulin Zhao, Jiashuo Chang et al."
-  },
-  {
-    "id": "arxiv_1787797153924_3",
-    "name": "Continually learning neural-operator surrogate for three-dimensional airborne electromagnetic Bayesian inversion",
-    "category": "machine-learning",
-    "description": "Three-dimensional probabilistic inversion of time-domain airborne electromagnetic (AEM) data is limited by the cost of the forward solve. Even though one simulation takes only tens of seconds, a Bayes...",
-    "link": "http://arxiv.org/abs/2608.25932v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-08-26T15:43:10Z",
-    "trending": false,
-    "source": "arXiv - Jaehong Chung, Andrew Lockwood, Jef Caers"
-  },
-  {
-    "id": "arxiv_1787797153845_3",
-    "name": "Controlling for Omitted Variable Bias in Deep Neural Networks",
-    "category": "computer-vision",
-    "description": "Control variables are widely used in statistical modelling to account for omitted variable bias of known confounders. However, they have largely been underexplored in deep learning. This is surprising...",
-    "link": "http://arxiv.org/abs/2608.25930v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Deep Learning"
-    ],
-    "date": "2026-08-26T15:42:12Z",
-    "trending": false,
-    "source": "arXiv - Manuel Pfeuffer, Roshan Prakash Rane, Kerstin Ritter et al."
-  },
-  {
-    "id": "arxiv_1787797153924_4",
-    "name": "Controlling for Omitted Variable Bias in Deep Neural Networks",
-    "category": "machine-learning",
-    "description": "Control variables are widely used in statistical modelling to account for omitted variable bias of known confounders. However, they have largely been underexplored in deep learning. This is surprising...",
-    "link": "http://arxiv.org/abs/2608.25930v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Deep Learning"
-    ],
-    "date": "2026-08-26T15:42:12Z",
-    "trending": false,
-    "source": "arXiv - Manuel Pfeuffer, Roshan Prakash Rane, Kerstin Ritter et al."
-  },
-  {
-    "id": "arxiv_1787797153845_4",
-    "name": "Code World Model: Coding Agent as World Brain",
-    "category": "computer-vision",
-    "description": "World models aim to simulate how complex environments evolve under actions and events, yet existing video-based world models primarily learn dynamics from visual observations, which reveal outcomes ra...",
-    "link": "http://arxiv.org/abs/2608.25927v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-26T15:37:33Z",
-    "trending": false,
-    "source": "arXiv - Yiwen Chen, Guosheng Lin, Chi Zhang"
-  },
-  {
-    "id": "arxiv_1787797154003_2",
-    "name": "Code World Model: Coding Agent as World Brain",
-    "category": "nlp",
-    "description": "World models aim to simulate how complex environments evolve under actions and events, yet existing video-based world models primarily learn dynamics from visual observations, which reveal outcomes ra...",
-    "link": "http://arxiv.org/abs/2608.25927v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-26T15:37:33Z",
-    "trending": false,
-    "source": "arXiv - Yiwen Chen, Guosheng Lin, Chi Zhang"
-  },
-  {
-    "id": "arxiv_1787797154003_3",
-    "name": "Formal, Executable and Explainable Runtime Monitoring of Spoken Air Traffic Control Operational Procedures",
-    "category": "nlp",
-    "description": "Air traffic control procedures are executed through spoken exchanges between controllers and pilots. These interactions are essential to the safety of air transportation: failures in their execution c...",
-    "link": "http://arxiv.org/abs/2608.25926v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-26T15:37:00Z",
+    "date": "2026-08-26T17:57:04Z",
     "trending": true,
-    "source": "arXiv - Roberto Luvini, Giacomo Longo, Alessandro Armando et al."
+    "source": "arXiv - Kaichen Li, Zhilin Zhu, Jianhao Huang et al."
   },
   {
-    "id": "arxiv_1787797154003_4",
-    "name": "Query-Side Attacks on GNN-Based KGQA: Tracing Failures from Entity Linking to Answer Generation",
+    "id": "arxiv_1787836345902_2",
+    "name": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+    "category": "ai",
+    "description": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actio...",
+    "link": "http://arxiv.org/abs/2608.26094v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "GAN"
+    ],
+    "date": "2026-08-26T17:56:33Z",
+    "trending": true,
+    "source": "arXiv - Hao Yin, Paritosh Parmar, Lijun Gu et al."
+  },
+  {
+    "id": "arxiv_1787836345973_4",
+    "name": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+    "category": "computer-vision",
+    "description": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actio...",
+    "link": "http://arxiv.org/abs/2608.26094v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "GAN"
+    ],
+    "date": "2026-08-26T17:56:33Z",
+    "trending": true,
+    "source": "arXiv - Hao Yin, Paritosh Parmar, Lijun Gu et al."
+  },
+  {
+    "id": "arxiv_1787836346037_1",
+    "name": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+    "category": "machine-learning",
+    "description": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actio...",
+    "link": "http://arxiv.org/abs/2608.26094v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "GAN"
+    ],
+    "date": "2026-08-26T17:56:33Z",
+    "trending": false,
+    "source": "arXiv - Hao Yin, Paritosh Parmar, Lijun Gu et al."
+  },
+  {
+    "id": "arxiv_1787836346038_2",
+    "name": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
+    "category": "machine-learning",
+    "description": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that t...",
+    "link": "http://arxiv.org/abs/2608.26093v1",
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ],
+    "date": "2026-08-26T17:56:00Z",
+    "trending": false,
+    "source": "arXiv - Ahmad Khan, Akram Bin Sediq, Sara Azadegi Naeini et al."
+  },
+  {
+    "id": "arxiv_1787836346252_0",
+    "name": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
     "category": "nlp",
-    "description": "GNN-based Knowledge Graph Question Answering (KGQA) pipelines process queries through four discrete stages: entity linking, subgraph retrieval, GNN reasoning, and answer generation. Standard robustnes...",
-    "link": "http://arxiv.org/abs/2608.25922v1",
+    "description": "Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting the...",
+    "link": "http://arxiv.org/abs/2608.26091v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-08-26T17:54:24Z",
+    "trending": true,
+    "source": "arXiv - Nabaraj Subedi, Shuvo Dip Datta, Ahmed Abdelaty et al."
+  },
+  {
+    "id": "arxiv_1787836345902_3",
+    "name": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
+    "category": "ai",
+    "description": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for directio...",
+    "link": "http://arxiv.org/abs/2608.26090v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-08-26T15:34:29Z",
+    "date": "2026-08-26T17:53:00Z",
+    "trending": true,
+    "source": "arXiv - Raphaël Bonnet-Guerrini, Johann Ioannou-Nikolaides, Inar Timiryasov et al."
+  },
+  {
+    "id": "arxiv_1787836346038_3",
+    "name": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
+    "category": "machine-learning",
+    "description": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for directio...",
+    "link": "http://arxiv.org/abs/2608.26090v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-26T17:53:00Z",
+    "trending": true,
+    "source": "arXiv - Raphaël Bonnet-Guerrini, Johann Ioannou-Nikolaides, Inar Timiryasov et al."
+  },
+  {
+    "id": "arxiv_1787836345903_4",
+    "name": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
+    "category": "ai",
+    "description": "Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predicti...",
+    "link": "http://arxiv.org/abs/2608.26088v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-08-26T17:50:52Z",
+    "trending": true,
+    "source": "arXiv - Evelyn Ma, Rama Kumar Pasumarthi, Kishwar Shafin et al."
+  },
+  {
+    "id": "arxiv_1787836346038_4",
+    "name": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
+    "category": "machine-learning",
+    "description": "Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predicti...",
+    "link": "http://arxiv.org/abs/2608.26088v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-08-26T17:50:52Z",
     "trending": false,
-    "source": "arXiv - Pankaj Kumar, Subhankar Mishra"
+    "source": "arXiv - Evelyn Ma, Rama Kumar Pasumarthi, Kishwar Shafin et al."
+  },
+  {
+    "id": "arxiv_1787836346252_1",
+    "name": "SwarmWorld: Stigmergic technological evolution in societies of language-model agents",
+    "category": "nlp",
+    "description": "Collective intelligence can emerge when individuals coordinate through a shared environment, allowing local actions to accumulate into durable social organization. Language-model agents offer a new su...",
+    "link": "http://arxiv.org/abs/2608.26081v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "LLM"
+    ],
+    "date": "2026-08-26T17:45:34Z",
+    "trending": false,
+    "source": "arXiv - Subhadeep Pal, Fiona Y. Wang, Markus J. Buehler"
+  },
+  {
+    "id": "arxiv_1787836346252_2",
+    "name": "Prefix Sliding for efficient test-time scaling",
+    "category": "nlp",
+    "description": "Test-time scaling uses extra test-time compute to improve performance, such as letting language models reason longer when solving a problem. As models keep the entire reasoning trace in memory via ful...",
+    "link": "http://arxiv.org/abs/2608.26070v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-08-26T17:37:15Z",
+    "trending": true,
+    "source": "arXiv - Niklas Muennighoff, Zhengyang Wang, Zeyi Chen et al."
+  },
+  {
+    "id": "arxiv_1787836346252_3",
+    "name": "Fine-Tuning Whisper for Automatic Speech Recognition in Baniwa: A Preliminary Study",
+    "category": "nlp",
+    "description": "Automatic Speech Recognition (ASR) technologies have achieved remarkable performance in recent years through the use of large multilingual foundation models. However, most advances remain concentrated...",
+    "link": "http://arxiv.org/abs/2608.26060v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-26T17:29:47Z",
+    "trending": false,
+    "source": "arXiv - Leonardo Duart, Tiago Fonseca, Thiago Chacón"
+  },
+  {
+    "id": "arxiv_1787836346252_4",
+    "name": "$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning",
+    "category": "nlp",
+    "description": "Reasoning in language allows foundation models to spend more test-time compute on hard problems, such as those requiring decomposition, constraint tracking, and prediction of future consequences. Whet...",
+    "link": "http://arxiv.org/abs/2608.26053v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-08-26T17:25:10Z",
+    "trending": false,
+    "source": "arXiv - Lehong Wu, Yuxiao Qu, Zheyuan Hu et al."
   }
 ]
