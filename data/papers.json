@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1787836345902_0",
+    "id": "arxiv_1787872619353_0",
     "name": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
     "category": "ai",
     "description": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c...",
@@ -12,11 +12,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-08-26T17:59:51Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Junxiang Xu, Ruisi Wang, Fanyi Pu et al."
   },
   {
-    "id": "arxiv_1787836345973_0",
+    "id": "arxiv_1787872619544_0",
     "name": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
     "category": "computer-vision",
     "description": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c...",
@@ -32,7 +32,7 @@
     "source": "arXiv - Junxiang Xu, Ruisi Wang, Fanyi Pu et al."
   },
   {
-    "id": "arxiv_1787836346037_0",
+    "id": "arxiv_1787872619581_0",
     "name": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
     "category": "machine-learning",
     "description": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c...",
@@ -48,7 +48,7 @@
     "source": "arXiv - Junxiang Xu, Ruisi Wang, Fanyi Pu et al."
   },
   {
-    "id": "arxiv_1787836345973_1",
+    "id": "arxiv_1787872619544_1",
     "name": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
     "category": "computer-vision",
     "description": "Zero-shot cross-task generalization, where a policy must execute manipulation tasks never seen during training, remains a central challenge in robot learning. In large language models, a novel task ca...",
@@ -57,11 +57,11 @@
       "AI"
     ],
     "date": "2026-08-26T17:59:34Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jiaming Zhou, Qihang Zhang, Gangwei Xu et al."
   },
   {
-    "id": "arxiv_1787836345973_2",
+    "id": "arxiv_1787872619544_2",
     "name": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
     "category": "computer-vision",
     "description": "Recent advances in video editing have been largely driven by large-scale instruction-based datasets. However, existing datasets still suffer from two critical limitations. First, target videos are com...",
@@ -71,11 +71,11 @@
       "Vision"
     ],
     "date": "2026-08-26T17:59:19Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Bojia Zi, Xiaoyan Yang, Yu Zhou et al."
   },
   {
-    "id": "arxiv_1787836345902_1",
+    "id": "arxiv_1787872619353_1",
     "name": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
     "category": "ai",
     "description": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised p...",
@@ -89,7 +89,7 @@
     "source": "arXiv - Kaichen Li, Zhilin Zhu, Jianhao Huang et al."
   },
   {
-    "id": "arxiv_1787836345973_3",
+    "id": "arxiv_1787872619544_3",
     "name": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
     "category": "computer-vision",
     "description": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised p...",
@@ -99,11 +99,11 @@
       "LLM"
     ],
     "date": "2026-08-26T17:57:04Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Kaichen Li, Zhilin Zhu, Jianhao Huang et al."
   },
   {
-    "id": "arxiv_1787836345902_2",
+    "id": "arxiv_1787872619353_2",
     "name": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
     "category": "ai",
     "description": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actio...",
@@ -114,11 +114,11 @@
       "GAN"
     ],
     "date": "2026-08-26T17:56:33Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hao Yin, Paritosh Parmar, Lijun Gu et al."
   },
   {
-    "id": "arxiv_1787836345973_4",
+    "id": "arxiv_1787872619545_4",
     "name": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
     "category": "computer-vision",
     "description": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actio...",
@@ -133,7 +133,7 @@
     "source": "arXiv - Hao Yin, Paritosh Parmar, Lijun Gu et al."
   },
   {
-    "id": "arxiv_1787836346037_1",
+    "id": "arxiv_1787872619581_1",
     "name": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
     "category": "machine-learning",
     "description": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actio...",
@@ -148,7 +148,7 @@
     "source": "arXiv - Hao Yin, Paritosh Parmar, Lijun Gu et al."
   },
   {
-    "id": "arxiv_1787836346038_2",
+    "id": "arxiv_1787872619582_2",
     "name": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
     "category": "machine-learning",
     "description": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that t...",
@@ -162,7 +162,7 @@
     "source": "arXiv - Ahmad Khan, Akram Bin Sediq, Sara Azadegi Naeini et al."
   },
   {
-    "id": "arxiv_1787836346252_0",
+    "id": "arxiv_1787872619617_0",
     "name": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
     "category": "nlp",
     "description": "Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting the...",
@@ -172,11 +172,11 @@
       "GAN"
     ],
     "date": "2026-08-26T17:54:24Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Nabaraj Subedi, Shuvo Dip Datta, Ahmed Abdelaty et al."
   },
   {
-    "id": "arxiv_1787836345902_3",
+    "id": "arxiv_1787872619353_3",
     "name": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
     "category": "ai",
     "description": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for directio...",
@@ -185,11 +185,11 @@
       "AI"
     ],
     "date": "2026-08-26T17:53:00Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Raphaël Bonnet-Guerrini, Johann Ioannou-Nikolaides, Inar Timiryasov et al."
   },
   {
-    "id": "arxiv_1787836346038_3",
+    "id": "arxiv_1787872619582_3",
     "name": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
     "category": "machine-learning",
     "description": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for directio...",
@@ -198,11 +198,11 @@
       "AI"
     ],
     "date": "2026-08-26T17:53:00Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Raphaël Bonnet-Guerrini, Johann Ioannou-Nikolaides, Inar Timiryasov et al."
   },
   {
-    "id": "arxiv_1787836345903_4",
+    "id": "arxiv_1787872619353_4",
     "name": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
     "category": "ai",
     "description": "Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predicti...",
@@ -216,7 +216,7 @@
     "source": "arXiv - Evelyn Ma, Rama Kumar Pasumarthi, Kishwar Shafin et al."
   },
   {
-    "id": "arxiv_1787836346038_4",
+    "id": "arxiv_1787872619582_4",
     "name": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
     "category": "machine-learning",
     "description": "Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predicti...",
@@ -230,7 +230,7 @@
     "source": "arXiv - Evelyn Ma, Rama Kumar Pasumarthi, Kishwar Shafin et al."
   },
   {
-    "id": "arxiv_1787836346252_1",
+    "id": "arxiv_1787872619617_1",
     "name": "SwarmWorld: Stigmergic technological evolution in societies of language-model agents",
     "category": "nlp",
     "description": "Collective intelligence can emerge when individuals coordinate through a shared environment, allowing local actions to accumulate into durable social organization. Language-model agents offer a new su...",
@@ -241,11 +241,11 @@
       "LLM"
     ],
     "date": "2026-08-26T17:45:34Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Subhadeep Pal, Fiona Y. Wang, Markus J. Buehler"
   },
   {
-    "id": "arxiv_1787836346252_2",
+    "id": "arxiv_1787872619617_2",
     "name": "Prefix Sliding for efficient test-time scaling",
     "category": "nlp",
     "description": "Test-time scaling uses extra test-time compute to improve performance, such as letting language models reason longer when solving a problem. As models keep the entire reasoning trace in memory via ful...",
@@ -255,11 +255,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-08-26T17:37:15Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Niklas Muennighoff, Zhengyang Wang, Zeyi Chen et al."
   },
   {
-    "id": "arxiv_1787836346252_3",
+    "id": "arxiv_1787872619617_3",
     "name": "Fine-Tuning Whisper for Automatic Speech Recognition in Baniwa: A Preliminary Study",
     "category": "nlp",
     "description": "Automatic Speech Recognition (ASR) technologies have achieved remarkable performance in recent years through the use of large multilingual foundation models. However, most advances remain concentrated...",
@@ -268,11 +268,11 @@
       "AI"
     ],
     "date": "2026-08-26T17:29:47Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Leonardo Duart, Tiago Fonseca, Thiago Chacón"
   },
   {
-    "id": "arxiv_1787836346252_4",
+    "id": "arxiv_1787872619617_4",
     "name": "$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning",
     "category": "nlp",
     "description": "Reasoning in language allows foundation models to spend more test-time compute on hard problems, such as those requiring decomposition, constraint tracking, and prediction of future consequences. Whet...",
