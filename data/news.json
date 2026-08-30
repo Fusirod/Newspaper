@@ -1,6 +1,19 @@
 [
   {
-    "id": "rss_Ars_Technica_1788088715976_0",
+    "id": "rss_TechCrunch_1788104074958_0",
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Sun, 30 Aug 2026 15:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1788104078629_0",
     "title": "Inside Meta’s push to put robots to work in data centers",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,10 +24,10 @@
       "Robot"
     ],
     "date": "Sun, 30 Aug 2026 11:03:47 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1788088717020_0",
+    "id": "rss_Wired_1788104079689_0",
     "title": "Why the Hottest New Wearables Want to Be Ignored",
     "category": "ai-news",
     "source": "Wired",
@@ -25,7 +38,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1788088712624_0",
+    "id": "rss_TechCrunch_1788104074958_1",
     "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -35,10 +48,10 @@
       "AI"
     ],
     "date": "Sat, 29 Aug 2026 18:41:59 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1788088712625_1",
+    "id": "rss_TechCrunch_1788104074959_2",
     "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -51,7 +64,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1788088712625_2",
+    "id": "rss_TechCrunch_1788104074959_3",
     "title": "Nvidia’s AI advantage is moving beyond the GPU",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -62,10 +75,10 @@
       "NVIDIA"
     ],
     "date": "Sat, 29 Aug 2026 13:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1788088715976_1",
+    "id": "rss_Ars_Technica_1788104078630_1",
     "title": "I asked 100 companies for my data. Some deleted it instead.",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -76,7 +89,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1788088717020_1",
+    "id": "rss_Wired_1788104079689_1",
     "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
     "category": "ai-news",
     "source": "Wired",
@@ -90,7 +103,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1788088717020_2",
+    "id": "rss_Wired_1788104079689_2",
     "title": "How to Run a Chatbot on Your Own Computer",
     "category": "ai-news",
     "source": "Wired",
@@ -103,7 +116,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1788088715976_2",
+    "id": "rss_Ars_Technica_1788104078630_2",
     "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -111,10 +124,10 @@
     "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
     "tags": [],
     "date": "Fri, 28 Aug 2026 22:14:52 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1788088715976_3",
+    "id": "rss_Ars_Technica_1788104078630_3",
     "title": "Cities terminate Flock contracts at record pace in August",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -125,7 +138,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1788088715976_4",
+    "id": "rss_Ars_Technica_1788104078630_4",
     "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -136,7 +149,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1788088712625_3",
+    "id": "rss_TechCrunch_1788104074959_4",
     "title": "Neocloud Lambda secures $1B in debt to buy more chips",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -148,23 +161,10 @@
       "NVIDIA"
     ],
     "date": "Fri, 28 Aug 2026 20:24:11 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1788088712625_4",
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 28 Aug 2026 19:30:38 +0000",
     "trending": false
   },
   {
-    "id": "rss_Wired_1788088717020_3",
+    "id": "rss_Wired_1788104079689_3",
     "title": "AI Has Human Doctors Asking: What’s Left for Us?",
     "category": "ai-news",
     "source": "Wired",
@@ -177,7 +177,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1788088714787_0",
+    "id": "rss_MIT_Tech_Review_1788104077126_0",
     "title": "The Download: a secretive antiaging drug and joining virtual power plants",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -191,7 +191,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1788088717020_4",
+    "id": "rss_Wired_1788104079689_4",
     "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
     "category": "ai-news",
     "source": "Wired",
@@ -204,7 +204,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1788088714788_1",
+    "id": "rss_MIT_Tech_Review_1788104077126_1",
     "title": "How to sign up for a virtual power plant—and decide whether you should",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -212,10 +212,10 @@
     "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
     "tags": [],
     "date": "Fri, 28 Aug 2026 09:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1788088714788_2",
+    "id": "rss_MIT_Tech_Review_1788104077126_2",
     "title": "A startup claims it’s found a drug to make your blood young",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -229,7 +229,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1788088714788_3",
+    "id": "rss_MIT_Tech_Review_1788104077126_3",
     "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -243,7 +243,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1788088714788_4",
+    "id": "rss_MIT_Tech_Review_1788104077126_4",
     "title": "Is Slate Auto’s new electric truck the EV Americans need?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -254,7 +254,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1788088724604_0",
+    "id": "rss_Distill_1788104087919_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -264,10 +264,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1788088724604_1",
+    "id": "rss_Distill_1788104087919_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -277,10 +277,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1788088724604_2",
+    "id": "rss_Distill_1788104087919_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -291,7 +291,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1788088724604_3",
+    "id": "rss_Distill_1788104087919_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -304,7 +304,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1788088724604_4",
+    "id": "rss_Distill_1788104087920_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
