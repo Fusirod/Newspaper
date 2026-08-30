@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1788126100784_0",
+    "id": "arxiv_1788134315819_0",
     "name": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
     "category": "computer-vision",
     "description": "Multimodal large language models (MLLMs) can interpret a street view, but urban agency depends on whether such local evidence remains useful after the agent starts to move. In this paper, we investiga...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Tianjie Ju, Zheng Wu, Yueqing Sun et al."
   },
   {
-    "id": "arxiv_1788126100826_0",
+    "id": "arxiv_1788134316119_0",
     "name": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
     "category": "nlp",
     "description": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or externa...",
@@ -24,11 +24,11 @@
       "LLM"
     ],
     "date": "2026-08-27T17:59:30Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yufan Wu, Yinghui He, Zhengyi Hu et al."
   },
   {
-    "id": "arxiv_1788126100764_0",
+    "id": "arxiv_1788134315800_0",
     "name": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
     "category": "ai",
     "description": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables...",
@@ -38,11 +38,11 @@
       "Optimization"
     ],
     "date": "2026-08-27T17:59:11Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Liyan Tang, Cyrus Rashtchian, Chun-Sung Ferng et al."
   },
   {
-    "id": "arxiv_1788126100826_1",
+    "id": "arxiv_1788134316119_1",
     "name": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
     "category": "nlp",
     "description": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables...",
@@ -52,11 +52,11 @@
       "Optimization"
     ],
     "date": "2026-08-27T17:59:11Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Liyan Tang, Cyrus Rashtchian, Chun-Sung Ferng et al."
   },
   {
-    "id": "arxiv_1788126100765_1",
+    "id": "arxiv_1788134315800_1",
     "name": "SWE-Prime: Fewer Trajectories, Better Performance",
     "category": "ai",
     "description": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT...",
@@ -70,7 +70,7 @@
     "source": "arXiv - Dewu Zheng, Ruizhe Ye, Yanlin Wang et al."
   },
   {
-    "id": "arxiv_1788126100826_2",
+    "id": "arxiv_1788134316119_2",
     "name": "SWE-Prime: Fewer Trajectories, Better Performance",
     "category": "nlp",
     "description": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT...",
@@ -84,7 +84,7 @@
     "source": "arXiv - Dewu Zheng, Ruizhe Ye, Yanlin Wang et al."
   },
   {
-    "id": "arxiv_1788126100827_3",
+    "id": "arxiv_1788134316119_3",
     "name": "TTPO: Test-Time Policy Optimization",
     "category": "nlp",
     "description": "Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet ...",
@@ -100,7 +100,7 @@
     "source": "arXiv - Aozhe Wang, Zhengxi Lu, Jianze Wang et al."
   },
   {
-    "id": "arxiv_1788126100765_2",
+    "id": "arxiv_1788134315800_2",
     "name": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
     "category": "ai",
     "description": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Al...",
@@ -114,7 +114,7 @@
     "source": "arXiv - Dewu Zheng, Yanlin Wang, Xiwen Wang et al."
   },
   {
-    "id": "arxiv_1788126100827_4",
+    "id": "arxiv_1788134316120_4",
     "name": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
     "category": "nlp",
     "description": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Al...",
@@ -124,11 +124,11 @@
       "LLM"
     ],
     "date": "2026-08-27T17:56:24Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Dewu Zheng, Yanlin Wang, Xiwen Wang et al."
   },
   {
-    "id": "arxiv_1788126100765_3",
+    "id": "arxiv_1788134315800_3",
     "name": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
     "category": "ai",
     "description": "LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text gen...",
@@ -142,7 +142,7 @@
     "source": "arXiv - Junjie Zhang, Hui Liu, Kecheng Chen et al."
   },
   {
-    "id": "arxiv_1788126100765_4",
+    "id": "arxiv_1788134315800_4",
     "name": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
     "category": "ai",
     "description": "Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through heuri...",
@@ -152,11 +152,11 @@
       "Machine Learning"
     ],
     "date": "2026-08-27T17:50:44Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Nguyen Xuan-Vu, Octavian Susanu, Daniel Armstrong et al."
   },
   {
-    "id": "arxiv_1788126100809_0",
+    "id": "arxiv_1788134315964_0",
     "name": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study",
     "category": "machine-learning",
     "description": "Currently used sepsis severity indices rely on fixed variables and weights established decades ago, which are coarsely discretized and calibrated to a cohort that no longer reflects contemporary criti...",
@@ -166,11 +166,11 @@
       "Vision"
     ],
     "date": "2026-08-27T17:46:21Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Kevin Zhu, Ryan Zhang, Baraa Abed et al."
   },
   {
-    "id": "arxiv_1788126100784_1",
+    "id": "arxiv_1788134315819_1",
     "name": "Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information",
     "category": "computer-vision",
     "description": "Vision-language models (VLMs) can locate an image region referred to by a text prompt and route the corresponding visual evidence to the output, yet the internal mechanism behind this behavior is not ...",
@@ -185,7 +185,7 @@
     "source": "arXiv - Chanho Park, Daehyeon Choi, Jihyun Lee et al."
   },
   {
-    "id": "arxiv_1788126100810_1",
+    "id": "arxiv_1788134315965_1",
     "name": "Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling",
     "category": "machine-learning",
     "description": "Friend recommendation is inherently graph-structured: the relevance of a potential connection depends on multi-hop social context rather than user attributes alone. However, deploying message-passing ...",
@@ -199,7 +199,7 @@
     "source": "arXiv - Maksim Utushkin, Andrei Ovsiannikov, Alexander D'yakonov"
   },
   {
-    "id": "arxiv_1788126100784_2",
+    "id": "arxiv_1788134315819_2",
     "name": "Reconstructing Humans and Objects in Interaction using Large Reconstruction Models",
     "category": "computer-vision",
     "description": "Estimation of Human-Object Interactions in 3D (3D HOI) is a fundamental problem in 3D computer vision with applications in AR/VR, robotics, and embodied AI. However, reconstructing these interactions ...",
@@ -214,7 +214,7 @@
     "source": "arXiv - Agniv Chatterjee, Georgios Pavlakos"
   },
   {
-    "id": "arxiv_1788126100784_3",
+    "id": "arxiv_1788134315820_3",
     "name": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators",
     "category": "computer-vision",
     "description": "State-of-the-art action-conditioned video models are typically restricted to a single robot embodiment, preventing them from leveraging the vast corpus of heterogeneous video data that contains rich s...",
@@ -227,7 +227,7 @@
     "source": "arXiv - Kechen Liu, Ola Shorinwa"
   },
   {
-    "id": "arxiv_1788126100810_2",
+    "id": "arxiv_1788134315965_2",
     "name": "How Language Models Organize and Structure Moral Knowledge",
     "category": "machine-learning",
     "description": "How do large language models (LLMs) organize moral knowledge? Models detect moral content broadly, but detection is a low bar. We ask whether they go further, distinguishing moral foundations from one...",
@@ -238,11 +238,11 @@
       "LLM"
     ],
     "date": "2026-08-27T17:30:30Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Orion Reblitz-Richardson"
   },
   {
-    "id": "arxiv_1788126100784_4",
+    "id": "arxiv_1788134315820_4",
     "name": "LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics",
     "category": "computer-vision",
     "description": "Video carries the temporal structure of the physical world, yet learning representations from it has remained computationally expensive: prevailing self-supervised methods either prevent representatio...",
@@ -255,7 +255,7 @@
     "source": "arXiv - Lukas Kuhn, Lucas Maes, Giuseppe Serra et al."
   },
   {
-    "id": "arxiv_1788126100810_3",
+    "id": "arxiv_1788134315965_3",
     "name": "CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases",
     "category": "machine-learning",
     "description": "LLMs are increasingly able to answer complex questions about enterprise-scale document collections. But evaluation is hard: companies don't want to share internal communications, and synthetic dataset...",
@@ -269,7 +269,7 @@
     "source": "arXiv - Sil Hamilton, Albert Yu Sun, Oscar J. Romero et al."
   },
   {
-    "id": "arxiv_1788126100810_4",
+    "id": "arxiv_1788134315965_4",
     "name": "Token-Level Advertising",
     "category": "machine-learning",
     "description": "Generative AI is transforming how people access information, challenging traditional advertising mechanisms built around predefined slots. Towards generation-native advertising, we propose the Latent ...",
@@ -278,7 +278,7 @@
       "AI"
     ],
     "date": "2026-08-27T17:18:27Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hanbing Liu, Bowei Zhang, Changyuan Yu et al."
   }
 ]
