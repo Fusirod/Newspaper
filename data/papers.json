@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1788198264340_0",
+    "id": "arxiv_1788213952889_0",
     "name": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
     "category": "machine-learning",
     "description": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a gen...",
@@ -10,11 +10,11 @@
       "Neural"
     ],
     "date": "2026-08-28T17:59:47Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Vaibhav Mehandiratta, Saket Ramchandra"
   },
   {
-    "id": "arxiv_1788198248985_0",
+    "id": "arxiv_1788213952734_0",
     "name": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
     "category": "ai",
     "description": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a c...",
@@ -24,11 +24,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-08-28T17:53:48Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Nan Wang, Mohit Yadav, Jonathan Wulff et al."
   },
   {
-    "id": "arxiv_1788198264340_1",
+    "id": "arxiv_1788213952889_1",
     "name": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
     "category": "machine-learning",
     "description": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a c...",
@@ -42,7 +42,7 @@
     "source": "arXiv - Nan Wang, Mohit Yadav, Jonathan Wulff et al."
   },
   {
-    "id": "arxiv_1788198248985_1",
+    "id": "arxiv_1788213952734_1",
     "name": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
     "category": "ai",
     "description": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a genera...",
@@ -51,11 +51,11 @@
       "AI"
     ],
     "date": "2026-08-28T17:52:33Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Chengpiao Huang, Kaizheng Wang"
   },
   {
-    "id": "arxiv_1788198264340_2",
+    "id": "arxiv_1788213952889_2",
     "name": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
     "category": "machine-learning",
     "description": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a genera...",
@@ -68,7 +68,7 @@
     "source": "arXiv - Chengpiao Huang, Kaizheng Wang"
   },
   {
-    "id": "arxiv_1788198264315_0",
+    "id": "arxiv_1788213952812_0",
     "name": "SignRR: Retrieve and Refine Real Motion for Sign Language Production",
     "category": "computer-vision",
     "description": "Sign language production (SLP) aims to generate continuous signing motion from spoken language, often through gloss-to-pose generation. Prior work mainly follows two paradigms. Generative models synth...",
@@ -77,11 +77,11 @@
       "AI"
     ],
     "date": "2026-08-28T17:45:14Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Fidel Omar Tito Cruz, Angie Sanchez Marquina, Summy Farfan et al."
   },
   {
-    "id": "arxiv_1788198264315_1",
+    "id": "arxiv_1788213952812_1",
     "name": "GeBDA: Building Damage Assessment as Text-Based Sequence Prediction",
     "category": "computer-vision",
     "description": "Conventionally, Building Damage Assessment (BDA) is tackled either with dedicated network architectures or by fine-tuning geospatial image foundation models. In this work, we ask whether a general-pur...",
@@ -94,7 +94,7 @@
     "source": "arXiv - Olivier Dietrich, Krishna Sapkota, Konrad Schindler et al."
   },
   {
-    "id": "arxiv_1788198264340_3",
+    "id": "arxiv_1788213952889_3",
     "name": "On two proofs of $d^2$ mixing of weighted Dikin walks",
     "category": "machine-learning",
     "description": "We study the mixing time of weighted Dikin walks for sampling from exponential distributions on polytopes and truncated positive-semidefinite (PSD) cones. Our first result gives a general total-variat...",
@@ -105,7 +105,7 @@
     "source": "arXiv - Yuansi Chen, Yunbum Kook"
   },
   {
-    "id": "arxiv_1788198264340_4",
+    "id": "arxiv_1788213952890_4",
     "name": "Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy",
     "category": "machine-learning",
     "description": "We study kernel ridge regression under anisotropic Gaussian data, where the input covariance decays as a power law with exponent $α\\geq 0$ for polynomial inner-product kernels. We derive asymptoticall...",
@@ -118,7 +118,7 @@
     "source": "arXiv - Lorenzo Rizzi, Arie Wortsman Zurich, Bruno Loureiro"
   },
   {
-    "id": "arxiv_1788198264542_0",
+    "id": "arxiv_1788213952965_0",
     "name": "A Formal Limitation on Learning Human Language From Textual Corpora",
     "category": "nlp",
     "description": "Can a listener recover what a speaker means from the form of an utterance alone? We answer this question information-theoretically, and for a listener given by any featurizer of text, including the hi...",
@@ -132,7 +132,7 @@
     "source": "arXiv - Emily Cheng, Ryan Cotterell"
   },
   {
-    "id": "arxiv_1788198248985_2",
+    "id": "arxiv_1788213952734_2",
     "name": "Blog: Survey of Optimizers",
     "category": "ai",
     "description": "Neural-network optimization in 2025-2026 is no longer well described as a succession of new Adam variants. The design space has expanded from coordinates to matrices and layers, from fixed training ho...",
@@ -148,7 +148,7 @@
     "source": "arXiv - Ruoran Xu"
   },
   {
-    "id": "arxiv_1788198248985_3",
+    "id": "arxiv_1788213952734_3",
     "name": "Logos: An Agent Harness on a Cross-Process Bus",
     "category": "ai",
     "description": "Modern agent systems assemble capabilities at runtime, and this dynamic composition has recently received a complete formal treat ment in the spatiotemporal-composability calculus, in which a capabili...",
@@ -157,11 +157,11 @@
       "AI"
     ],
     "date": "2026-08-28T17:30:10Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hanzhang Jia, Liheng Zeng, Hao Cheng et al."
   },
   {
-    "id": "arxiv_1788198248986_4",
+    "id": "arxiv_1788213952735_4",
     "name": "Video Generative Models as Geometry Learner",
     "category": "ai",
     "description": "Recent generative approaches to geometry estimation adapt pretrained image diffusion models and treat the task as image-conditioned generation. Leveraging off-the-shelf image diffusion models, they ei...",
@@ -171,11 +171,11 @@
       "Diffusion"
     ],
     "date": "2026-08-28T17:25:31Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Haosen Yang, Jifei Song, Zhensong Zhang et al."
   },
   {
-    "id": "arxiv_1788198264315_2",
+    "id": "arxiv_1788213952813_2",
     "name": "Video Generative Models as Geometry Learner",
     "category": "computer-vision",
     "description": "Recent generative approaches to geometry estimation adapt pretrained image diffusion models and treat the task as image-conditioned generation. Leveraging off-the-shelf image diffusion models, they ei...",
@@ -189,7 +189,7 @@
     "source": "arXiv - Haosen Yang, Jifei Song, Zhensong Zhang et al."
   },
   {
-    "id": "arxiv_1788198264315_3",
+    "id": "arxiv_1788213952813_3",
     "name": "Texture Image Classification Using DWT AlexNet Feature Fusion and Deep Neural Networks",
     "category": "computer-vision",
     "description": "Texture image classification plays a significant role in computer vision applications, including industrial inspection, medical image analysis, remote sensing, and object recognition. Handcrafted feat...",
@@ -205,7 +205,7 @@
     "source": "arXiv - Arun D. Kulkarni"
   },
   {
-    "id": "arxiv_1788198264542_1",
+    "id": "arxiv_1788213952965_1",
     "name": "When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI",
     "category": "nlp",
     "description": "We investigate whether automatic speech recognition (ASR) errors in user input can lead to unsafe outputs from Embodied AI (EAI) models. We find that ASR errors can lead to harmful instructions being ...",
@@ -218,7 +218,7 @@
     "source": "arXiv - Sihan Jia, Oliver Lemon"
   },
   {
-    "id": "arxiv_1788198264316_4",
+    "id": "arxiv_1788213952813_4",
     "name": "Learning the Target Priors Before Image Translation: A Decoupled Training Paradigm for Cross-Modal Image Translation in Remote Sensing",
     "category": "computer-vision",
     "description": "Cross-modal image translation in remote sensing must preserve source-observed content while matching the target-domain distribution. Existing methods jointly learn the target prior and cross-modal dep...",
@@ -227,11 +227,11 @@
       "AI"
     ],
     "date": "2026-08-28T16:54:19Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Keyan Hu, Mingtao Wang, Ziyu Zhou et al."
   },
   {
-    "id": "arxiv_1788198264543_2",
+    "id": "arxiv_1788213952965_2",
     "name": "Phoneme- and Word-Level Metrics Using Self-Supervised Speech Representations for Forced Alignment Evaluation",
     "category": "nlp",
     "description": "Forced alignment evaluation typically requires manually annotated timestamps, limiting large-scale and multilingual analysis. We introduce two corpus-level metrics based on self-supervised (SSL) speec...",
@@ -244,7 +244,7 @@
     "source": "arXiv - V. S. D. S. Mahesh Akavarapu, Michael Daniel, Gerhard Jäger"
   },
   {
-    "id": "arxiv_1788198264543_3",
+    "id": "arxiv_1788213952965_3",
     "name": "Ladders in Chaos: When, How, (and Perhaps Why) Does Test-Time Scaling Improve LLM Machine Translation",
     "category": "nlp",
     "description": "Two forms of test-time scaling for Large Language Models (LLMs) have emerged as effective and widely adopted paradigms: sequential, in which later answer attempts depend on earlier ones, and parallel,...",
@@ -253,11 +253,11 @@
       "LLM"
     ],
     "date": "2026-08-28T16:22:39Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Di Wu, Sergey Troshin, Christof Monz et al."
   },
   {
-    "id": "arxiv_1788198264543_4",
+    "id": "arxiv_1788213952965_4",
     "name": "NL2AGBench: Benchmarking LLM Auto-Formalization for AlphaGeometry",
     "category": "nlp",
     "description": "Recent advances in large language models (LLMs) have demonstrated strong capabilities in natural language understanding and mathematical reasoning. However, their ability to translate informal mathema...",
@@ -267,7 +267,7 @@
       "LLM"
     ],
     "date": "2026-08-28T16:07:16Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Samuel Xiao, Judy Song, Rory Hu et al."
   }
 ]
