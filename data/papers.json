@@ -1,74 +1,221 @@
 [
   {
-    "id": "arxiv_1788213952889_0",
-    "name": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
+    "id": "arxiv_1788226122413_0",
+    "name": "Reward-guided Fine-Tuning of One-Step Generative Models via Wasserstein Gradient Flow",
     "category": "machine-learning",
-    "description": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a gen...",
-    "link": "http://arxiv.org/abs/2608.28589v1",
+    "description": "To mitigate the time complexity of generative models, one-step generative models have recently emerged through direct mapping from noise to data in a single forward pass. However, the reward-guided fi...",
+    "link": "http://arxiv.org/abs/2608.29647v1",
     "tags": [
-      "AI",
-      "Neural"
+      "AI"
     ],
-    "date": "2026-08-28T17:59:47Z",
+    "date": "2026-08-30T08:18:30Z",
     "trending": true,
-    "source": "arXiv - Vaibhav Mehandiratta, Saket Ramchandra"
+    "source": "arXiv - Hoseong Hwang, Woorim Han, Joungin Chun et al."
   },
   {
-    "id": "arxiv_1788213952734_0",
-    "name": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
+    "id": "arxiv_1788226122365_0",
+    "name": "Detect Before You Attribute: Cascade Failure Attribution for Multi-Agent Systems",
     "category": "ai",
-    "description": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a c...",
-    "link": "http://arxiv.org/abs/2608.28578v1",
+    "description": "Large language model (LLM)-based agents have shown strong potential in solving complex tasks through multi-step reasoning, yet they remain vulnerable to execution failures. Accurate failure attributio...",
+    "link": "http://arxiv.org/abs/2608.29646v1",
     "tags": [
       "AI",
-      "Reinforcement Learning"
+      "LLM"
     ],
-    "date": "2026-08-28T17:53:48Z",
+    "date": "2026-08-30T08:17:42Z",
     "trending": true,
-    "source": "arXiv - Nan Wang, Mohit Yadav, Jonathan Wulff et al."
+    "source": "arXiv - Jiayi Zhang, Zexin Wang, Degang Sun et al."
   },
   {
-    "id": "arxiv_1788213952889_1",
-    "name": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
-    "category": "machine-learning",
-    "description": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a c...",
-    "link": "http://arxiv.org/abs/2608.28578v1",
+    "id": "arxiv_1788226122365_1",
+    "name": "Conducting Stylistic Analysis of Paintings through an Art-History Agent",
+    "category": "ai",
+    "description": "Attributing an artwork to an artist has traditionally relied on detailed visual observations and descriptions, known as stylistic analysis in art history. By contrast, current artificial intelligence ...",
+    "link": "http://arxiv.org/abs/2608.29644v1",
     "tags": [
       "AI",
-      "Reinforcement Learning"
+      "Vision",
+      "Transformer",
+      "LLM"
     ],
-    "date": "2026-08-28T17:53:48Z",
+    "date": "2026-08-30T08:10:58Z",
+    "trending": true,
+    "source": "arXiv - Marc S. Walton, Astrid Harth"
+  },
+  {
+    "id": "arxiv_1788226122438_0",
+    "name": "Conducting Stylistic Analysis of Paintings through an Art-History Agent",
+    "category": "nlp",
+    "description": "Attributing an artwork to an artist has traditionally relied on detailed visual observations and descriptions, known as stylistic analysis in art history. By contrast, current artificial intelligence ...",
+    "link": "http://arxiv.org/abs/2608.29644v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer",
+      "LLM"
+    ],
+    "date": "2026-08-30T08:10:58Z",
+    "trending": true,
+    "source": "arXiv - Marc S. Walton, Astrid Harth"
+  },
+  {
+    "id": "arxiv_1788226122365_2",
+    "name": "LLMODE: Aligning ODEs with LLMs via Gated Token Injection for Irregular Spatio-Temporal Forecasting",
+    "category": "ai",
+    "description": "Large language models (LLMs) have shown promise for spatio-temporal forecasting, but existing approaches often rely on regularly sampled token sequences and struggle with irregular observations becaus...",
+    "link": "http://arxiv.org/abs/2608.29640v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-30T08:02:20Z",
     "trending": false,
-    "source": "arXiv - Nan Wang, Mohit Yadav, Jonathan Wulff et al."
+    "source": "arXiv - Di Zhang, Jingyang Zhang, Ziqian Wang et al."
   },
   {
-    "id": "arxiv_1788213952734_1",
-    "name": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
-    "category": "ai",
-    "description": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a genera...",
-    "link": "http://arxiv.org/abs/2608.28576v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-28T17:52:33Z",
-    "trending": true,
-    "source": "arXiv - Chengpiao Huang, Kaizheng Wang"
-  },
-  {
-    "id": "arxiv_1788213952889_2",
-    "name": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
+    "id": "arxiv_1788226122413_1",
+    "name": "LLMODE: Aligning ODEs with LLMs via Gated Token Injection for Irregular Spatio-Temporal Forecasting",
     "category": "machine-learning",
-    "description": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a genera...",
-    "link": "http://arxiv.org/abs/2608.28576v1",
+    "description": "Large language models (LLMs) have shown promise for spatio-temporal forecasting, but existing approaches often rely on regularly sampled token sequences and struggle with irregular observations becaus...",
+    "link": "http://arxiv.org/abs/2608.29640v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-30T08:02:20Z",
+    "trending": false,
+    "source": "arXiv - Di Zhang, Jingyang Zhang, Ziqian Wang et al."
+  },
+  {
+    "id": "arxiv_1788226122413_2",
+    "name": "Unsupervised Multi-Scale Gromov-Wasserstein Hypergraph Alignment",
+    "category": "machine-learning",
+    "description": "We study unsupervised hypergraph alignment, where the goal is to infer node correspondences between two hypergraphs using only structural information, without node features, labels, seed matches, or s...",
+    "link": "http://arxiv.org/abs/2608.29635v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-08-28T17:52:33Z",
-    "trending": true,
-    "source": "arXiv - Chengpiao Huang, Kaizheng Wang"
+    "date": "2026-08-30T07:55:35Z",
+    "trending": false,
+    "source": "arXiv - Lutz Oettershagen, Honglian Wang, Aristides Gionis"
   },
   {
-    "id": "arxiv_1788213952812_0",
+    "id": "arxiv_1788226122438_1",
+    "name": "PrivBench: A Holistic and Modular Benchmarking Platform for Evaluating Text-to-Text Privatization",
+    "category": "nlp",
+    "description": "Natural Language Processing methods have enabled novel solutions and advances in the field of privacy, particularly in the sub-domain of text-to-text privatization, where the goal is to transform a se...",
+    "link": "http://arxiv.org/abs/2608.29624v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-08-30T07:33:08Z",
+    "trending": true,
+    "source": "arXiv - Stephen Meisenbacher, Andreea-Elena Bodea, Ahmet Bilal Akın et al."
+  },
+  {
+    "id": "arxiv_1788226122366_3",
+    "name": "MI-Distillation: Selecting from Model-Interpolated Instruct-Reasoning Data Spectrum for Chain-of-Thought Distillation",
+    "category": "ai",
+    "description": "Recent advances in large reasoning models (LRMs) have shown strong performance on complex problems through long chain-of-thought (Long CoT) reasoning. However, distilling such trajectories into smalle...",
+    "link": "http://arxiv.org/abs/2608.29623v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-08-30T07:32:22Z",
+    "trending": false,
+    "source": "arXiv - Yangsong Lan, Renkai Hu, HongKai Zheng et al."
+  },
+  {
+    "id": "arxiv_1788226122438_2",
+    "name": "MI-Distillation: Selecting from Model-Interpolated Instruct-Reasoning Data Spectrum for Chain-of-Thought Distillation",
+    "category": "nlp",
+    "description": "Recent advances in large reasoning models (LRMs) have shown strong performance on complex problems through long chain-of-thought (Long CoT) reasoning. However, distilling such trajectories into smalle...",
+    "link": "http://arxiv.org/abs/2608.29623v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-08-30T07:32:22Z",
+    "trending": false,
+    "source": "arXiv - Yangsong Lan, Renkai Hu, HongKai Zheng et al."
+  },
+  {
+    "id": "arxiv_1788226122366_4",
+    "name": "AgenticRag-R1: Agentic Reinforcement Learning with Stack Memory for Multi-Step Reasoning, Retrieval and Memorizing",
+    "category": "ai",
+    "description": "Retrieval-Augmented Generation (RAG) improves the factuality of large language models (LLMs), yet existing RAG systems often struggle with complex, multi-step reasoning that requires adaptive retrieva...",
+    "link": "http://arxiv.org/abs/2608.29622v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-08-30T07:31:19Z",
+    "trending": false,
+    "source": "arXiv - Xinke Jiang, Yue Fang, Zhibang Yang et al."
+  },
+  {
+    "id": "arxiv_1788226122438_3",
+    "name": "Memory-First Fact-Checking: A Knowledge-Graph-Grounded Multi-Agent System for Misinformation Detection",
+    "category": "nlp",
+    "description": "This paper introduces a hybrid fact-checking framework that integrates Knowledge Graph-based semantic memory with adversarial multi-agent reasoning for explainable misinformation detection. The propos...",
+    "link": "http://arxiv.org/abs/2608.29617v1",
+    "tags": [
+      "AI",
+      "BERT"
+    ],
+    "date": "2026-08-30T07:16:07Z",
+    "trending": false,
+    "source": "arXiv - Amelia Petrenciuc, Alexandru Lecu, Adrian Groza"
+  },
+  {
+    "id": "arxiv_1788226122438_4",
+    "name": "JPO: Juris Policy Optimization for Structured Legal Reasoning in Criminal Judgment Prediction",
+    "category": "nlp",
+    "description": "Criminal judgment prediction requires models to infer statutory articles, charges, and sentencing outcomes from case facts. Unlike standard classification tasks, it involves a structured reasoning pro...",
+    "link": "http://arxiv.org/abs/2608.29616v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-08-30T07:14:02Z",
+    "trending": false,
+    "source": "arXiv - Zhaolu Kang, Yantao Liu, Tailong Luo et al."
+  },
+  {
+    "id": "arxiv_1788226122413_3",
+    "name": "Forward-Deployed Full-Stack Engineering for Autonomous Cloud MLOps",
+    "category": "machine-learning",
+    "description": "Across industries, machine-learning systems support applications ranging from prediction and anomaly detection to forecasting, optimization, and scheduling, yet operationalizing these systems requires...",
+    "link": "http://arxiv.org/abs/2608.29615v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-08-30T07:13:10Z",
+    "trending": false,
+    "source": "arXiv - Sagar Srinivas Sakhinana, Venkataramana Runkana"
+  },
+  {
+    "id": "arxiv_1788226122413_4",
+    "name": "Cross-lingual Functional Vectors for Emotion Detection in Large Language Models",
+    "category": "machine-learning",
+    "description": "Function vectors (FVs) have recently emerged as a promising mechanism for steering the behavior of large language models (LLMs) by injecting task-specific latent direction representations derived from...",
+    "link": "http://arxiv.org/abs/2608.29613v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-30T07:08:36Z",
+    "trending": false,
+    "source": "arXiv - Jieying Xue, Phuong Minh Nguyen, Minh Le Nguyen et al."
+  },
+  {
+    "id": "arxiv_1788226122389_0",
     "name": "SignRR: Retrieve and Refine Real Motion for Sign Language Production",
     "category": "computer-vision",
     "description": "Sign language production (SLP) aims to generate continuous signing motion from spoken language, often through gloss-to-pose generation. Prior work mainly follows two paradigms. Generative models synth...",
@@ -77,11 +224,11 @@
       "AI"
     ],
     "date": "2026-08-28T17:45:14Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Fidel Omar Tito Cruz, Angie Sanchez Marquina, Summy Farfan et al."
   },
   {
-    "id": "arxiv_1788213952812_1",
+    "id": "arxiv_1788226122389_1",
     "name": "GeBDA: Building Damage Assessment as Text-Based Sequence Prediction",
     "category": "computer-vision",
     "description": "Conventionally, Building Damage Assessment (BDA) is tackled either with dedicated network architectures or by fine-tuning geospatial image foundation models. In this work, we ask whether a general-pur...",
@@ -94,88 +241,7 @@
     "source": "arXiv - Olivier Dietrich, Krishna Sapkota, Konrad Schindler et al."
   },
   {
-    "id": "arxiv_1788213952889_3",
-    "name": "On two proofs of $d^2$ mixing of weighted Dikin walks",
-    "category": "machine-learning",
-    "description": "We study the mixing time of weighted Dikin walks for sampling from exponential distributions on polytopes and truncated positive-semidefinite (PSD) cones. Our first result gives a general total-variat...",
-    "link": "http://arxiv.org/abs/2608.28566v1",
-    "tags": [],
-    "date": "2026-08-28T17:43:58Z",
-    "trending": false,
-    "source": "arXiv - Yuansi Chen, Yunbum Kook"
-  },
-  {
-    "id": "arxiv_1788213952890_4",
-    "name": "Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy",
-    "category": "machine-learning",
-    "description": "We study kernel ridge regression under anisotropic Gaussian data, where the input covariance decays as a power law with exponent $α\\geq 0$ for polynomial inner-product kernels. We derive asymptoticall...",
-    "link": "http://arxiv.org/abs/2608.28564v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-28T17:41:53Z",
-    "trending": true,
-    "source": "arXiv - Lorenzo Rizzi, Arie Wortsman Zurich, Bruno Loureiro"
-  },
-  {
-    "id": "arxiv_1788213952965_0",
-    "name": "A Formal Limitation on Learning Human Language From Textual Corpora",
-    "category": "nlp",
-    "description": "Can a listener recover what a speaker means from the form of an utterance alone? We answer this question information-theoretically, and for a listener given by any featurizer of text, including the hi...",
-    "link": "http://arxiv.org/abs/2608.28560v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-08-28T17:38:24Z",
-    "trending": false,
-    "source": "arXiv - Emily Cheng, Ryan Cotterell"
-  },
-  {
-    "id": "arxiv_1788213952734_2",
-    "name": "Blog: Survey of Optimizers",
-    "category": "ai",
-    "description": "Neural-network optimization in 2025-2026 is no longer well described as a succession of new Adam variants. The design space has expanded from coordinates to matrices and layers, from fixed training ho...",
-    "link": "http://arxiv.org/abs/2608.28557v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "GAN",
-      "Optimization"
-    ],
-    "date": "2026-08-28T17:35:11Z",
-    "trending": false,
-    "source": "arXiv - Ruoran Xu"
-  },
-  {
-    "id": "arxiv_1788213952734_3",
-    "name": "Logos: An Agent Harness on a Cross-Process Bus",
-    "category": "ai",
-    "description": "Modern agent systems assemble capabilities at runtime, and this dynamic composition has recently received a complete formal treat ment in the spatiotemporal-composability calculus, in which a capabili...",
-    "link": "http://arxiv.org/abs/2608.28553v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-28T17:30:10Z",
-    "trending": true,
-    "source": "arXiv - Hanzhang Jia, Liheng Zeng, Hao Cheng et al."
-  },
-  {
-    "id": "arxiv_1788213952735_4",
-    "name": "Video Generative Models as Geometry Learner",
-    "category": "ai",
-    "description": "Recent generative approaches to geometry estimation adapt pretrained image diffusion models and treat the task as image-conditioned generation. Leveraging off-the-shelf image diffusion models, they ei...",
-    "link": "http://arxiv.org/abs/2608.28549v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-08-28T17:25:31Z",
-    "trending": true,
-    "source": "arXiv - Haosen Yang, Jifei Song, Zhensong Zhang et al."
-  },
-  {
-    "id": "arxiv_1788213952813_2",
+    "id": "arxiv_1788226122389_2",
     "name": "Video Generative Models as Geometry Learner",
     "category": "computer-vision",
     "description": "Recent generative approaches to geometry estimation adapt pretrained image diffusion models and treat the task as image-conditioned generation. Leveraging off-the-shelf image diffusion models, they ei...",
@@ -185,11 +251,11 @@
       "Diffusion"
     ],
     "date": "2026-08-28T17:25:31Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Haosen Yang, Jifei Song, Zhensong Zhang et al."
   },
   {
-    "id": "arxiv_1788213952813_3",
+    "id": "arxiv_1788226122389_3",
     "name": "Texture Image Classification Using DWT AlexNet Feature Fusion and Deep Neural Networks",
     "category": "computer-vision",
     "description": "Texture image classification plays a significant role in computer vision applications, including industrial inspection, medical image analysis, remote sensing, and object recognition. Handcrafted feat...",
@@ -205,20 +271,7 @@
     "source": "arXiv - Arun D. Kulkarni"
   },
   {
-    "id": "arxiv_1788213952965_1",
-    "name": "When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI",
-    "category": "nlp",
-    "description": "We investigate whether automatic speech recognition (ASR) errors in user input can lead to unsafe outputs from Embodied AI (EAI) models. We find that ASR errors can lead to harmful instructions being ...",
-    "link": "http://arxiv.org/abs/2608.28518v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-28T16:55:32Z",
-    "trending": false,
-    "source": "arXiv - Sihan Jia, Oliver Lemon"
-  },
-  {
-    "id": "arxiv_1788213952813_4",
+    "id": "arxiv_1788226122389_4",
     "name": "Learning the Target Priors Before Image Translation: A Decoupled Training Paradigm for Cross-Modal Image Translation in Remote Sensing",
     "category": "computer-vision",
     "description": "Cross-modal image translation in remote sensing must preserve source-observed content while matching the target-domain distribution. Existing methods jointly learn the target prior and cross-modal dep...",
@@ -227,47 +280,7 @@
       "AI"
     ],
     "date": "2026-08-28T16:54:19Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Keyan Hu, Mingtao Wang, Ziyu Zhou et al."
-  },
-  {
-    "id": "arxiv_1788213952965_2",
-    "name": "Phoneme- and Word-Level Metrics Using Self-Supervised Speech Representations for Forced Alignment Evaluation",
-    "category": "nlp",
-    "description": "Forced alignment evaluation typically requires manually annotated timestamps, limiting large-scale and multilingual analysis. We introduce two corpus-level metrics based on self-supervised (SSL) speec...",
-    "link": "http://arxiv.org/abs/2608.28508v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-08-28T16:39:22Z",
-    "trending": true,
-    "source": "arXiv - V. S. D. S. Mahesh Akavarapu, Michael Daniel, Gerhard Jäger"
-  },
-  {
-    "id": "arxiv_1788213952965_3",
-    "name": "Ladders in Chaos: When, How, (and Perhaps Why) Does Test-Time Scaling Improve LLM Machine Translation",
-    "category": "nlp",
-    "description": "Two forms of test-time scaling for Large Language Models (LLMs) have emerged as effective and widely adopted paradigms: sequential, in which later answer attempts depend on earlier ones, and parallel,...",
-    "link": "http://arxiv.org/abs/2608.28496v1",
-    "tags": [
-      "LLM"
-    ],
-    "date": "2026-08-28T16:22:39Z",
-    "trending": true,
-    "source": "arXiv - Di Wu, Sergey Troshin, Christof Monz et al."
-  },
-  {
-    "id": "arxiv_1788213952965_4",
-    "name": "NL2AGBench: Benchmarking LLM Auto-Formalization for AlphaGeometry",
-    "category": "nlp",
-    "description": "Recent advances in large language models (LLMs) have demonstrated strong capabilities in natural language understanding and mathematical reasoning. However, their ability to translate informal mathema...",
-    "link": "http://arxiv.org/abs/2608.28481v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-08-28T16:07:16Z",
-    "trending": true,
-    "source": "arXiv - Samuel Xiao, Judy Song, Rory Hu et al."
   }
 ]
