@@ -1,20 +1,129 @@
 [
   {
-    "id": "rss_TechCrunch_1788360361984_0",
-    "title": "Adobe acquires Indian market intelligence startup Rilo",
+    "id": "rss_Ars_Technica_1788372650302_0",
+    "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 02 Sep 2026 17:58:33 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1788372646713_0",
+    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-    "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+    "description": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to fig",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
     "tags": [
       "AI",
       "Startup"
     ],
-    "date": "Wed, 02 Sep 2026 14:03:57 +0000",
+    "date": "Wed, 02 Sep 2026 17:18:13 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1788372646714_1",
+    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to fig",
+    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Wed, 02 Sep 2026 17:09:57 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1788360364304_0",
+    "id": "rss_TechCrunch_1788372646714_2",
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "LLM"
+    ],
+    "date": "Wed, 02 Sep 2026 17:09:06 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1788372650302_1",
+    "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+    "tags": [
+      "Google"
+    ],
+    "date": "Wed, 02 Sep 2026 16:30:11 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1788372646714_3",
+    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+    "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+    "tags": [
+      "AI",
+      "Funding"
+    ],
+    "date": "Wed, 02 Sep 2026 16:04:10 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1788372646714_4",
+    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+    "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 02 Sep 2026 16:01:48 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1788372651419_0",
+    "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+    "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "GPT",
+      "Robot"
+    ],
+    "date": "Wed, 02 Sep 2026 15:51:46 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1788372650302_2",
+    "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        He reported from space that only \"fat\" Japanese tree frogs enjoyed weightlessness.\n                    ",
+    "link": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
+    "tags": [],
+    "date": "Wed, 02 Sep 2026 14:47:42 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1788372648833_0",
     "title": "Facilitating AI integration with simplicity at scale",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -27,7 +136,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1788360365830_0",
+    "id": "rss_Ars_Technica_1788372650302_3",
     "title": "The Army just used a 20-kilowatt laser to take out three drones",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -38,7 +147,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1788360364304_1",
+    "id": "rss_MIT_Tech_Review_1788372648833_1",
     "title": "The Download: AI puzzles and a path to our nearest star system",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -52,21 +161,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1788360361985_1",
-    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-    "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Wed, 02 Sep 2026 12:09:42 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1788360365830_1",
+    "id": "rss_Ars_Technica_1788372650302_4",
     "title": "Is Russia's rival to Starlink failing? Here's what we know.",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -79,18 +174,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1788360365830_2",
-    "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        What can we learn from a BGP hijacking that poisoned production software? Plenty.\n                    ",
-    "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
-    "tags": [],
-    "date": "Wed, 02 Sep 2026 11:00:43 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1788360366953_0",
+    "id": "rss_Wired_1788372651419_1",
     "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
     "category": "ai-news",
     "source": "Wired",
@@ -100,63 +184,10 @@
       "AI"
     ],
     "date": "Wed, 02 Sep 2026 10:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1788360365830_3",
-    "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        333 miles of real-world range with uncompromised comfort and off-road ability.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
-    "tags": [],
-    "date": "Tue, 01 Sep 2026 23:01:52 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1788360361985_2",
-    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Tue, 01 Sep 2026 22:08:24 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1788360361985_3",
-    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "LLM"
-    ],
-    "date": "Tue, 01 Sep 2026 21:06:24 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1788360361985_4",
-    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-    "tags": [
-      "Google"
-    ],
-    "date": "Tue, 01 Sep 2026 20:53:05 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1788360366953_1",
+    "id": "rss_Wired_1788372651419_2",
     "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
     "category": "ai-news",
     "source": "Wired",
@@ -167,10 +198,10 @@
       "OpenAI"
     ],
     "date": "Tue, 01 Sep 2026 20:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1788360364305_2",
+    "id": "rss_MIT_Tech_Review_1788372648833_2",
     "title": "How AI plotted an interstellar journey to Alpha Centauri",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -180,21 +211,10 @@
       "AI"
     ],
     "date": "Tue, 01 Sep 2026 19:10:36 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1788360365830_4",
-    "title": "Research roundup: 7 cool science stories we almost missed",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        \"Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more.\n                    ",
-    "link": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
-    "tags": [],
-    "date": "Tue, 01 Sep 2026 19:06:10 +0000",
     "trending": false
   },
   {
-    "id": "rss_Wired_1788360366953_2",
+    "id": "rss_Wired_1788372651419_3",
     "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
     "category": "ai-news",
     "source": "Wired",
@@ -208,7 +228,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1788360364305_3",
+    "id": "rss_MIT_Tech_Review_1788372648833_3",
     "title": "Making the AI-powered case for legacy modernization",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -221,7 +241,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1788360364305_4",
+    "id": "rss_MIT_Tech_Review_1788372648834_4",
     "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -235,7 +255,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1788360366953_3",
+    "id": "rss_Wired_1788372651419_4",
     "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
     "category": "ai-news",
     "source": "Wired",
@@ -248,18 +268,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1788360366953_4",
-    "title": "Why the Hottest New Wearables Want to Be Ignored",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
-    "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-    "tags": [],
-    "date": "Sun, 30 Aug 2026 10:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1788360375028_0",
+    "id": "rss_Distill_1788372659591_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -272,7 +281,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1788360375028_1",
+    "id": "rss_Distill_1788372659592_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -282,10 +291,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1788360375028_2",
+    "id": "rss_Distill_1788372659592_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -296,7 +305,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1788360375028_3",
+    "id": "rss_Distill_1788372659592_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -306,10 +315,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1788360375028_4",
+    "id": "rss_Distill_1788372659592_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -317,6 +326,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
