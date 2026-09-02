@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1788384210519_0",
+    "id": "arxiv_1788392313861_0",
     "name": "Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System",
     "category": "computer-vision",
     "description": "While unified multimodal models (UMMs) jointly perform visual understanding and generation within a single model, functional unification does not guarantee learning synergy: the two objectives may rei...",
@@ -11,11 +11,11 @@
       "Optimization"
     ],
     "date": "2026-09-01T17:59:59Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Penghao Wu, Haiwen Diao, Weichen Fan et al."
   },
   {
-    "id": "arxiv_1788384210556_0",
+    "id": "arxiv_1788392314095_0",
     "name": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
     "category": "machine-learning",
     "description": "LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remai...",
@@ -29,7 +29,7 @@
     "source": "arXiv - Himil Vasava, Ming Jiang"
   },
   {
-    "id": "arxiv_1788384210595_0",
+    "id": "arxiv_1788392314169_0",
     "name": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
     "category": "nlp",
     "description": "LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remai...",
@@ -39,11 +39,11 @@
       "LLM"
     ],
     "date": "2026-09-01T17:59:49Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Himil Vasava, Ming Jiang"
   },
   {
-    "id": "arxiv_1788384210483_0",
+    "id": "arxiv_1788392313787_0",
     "name": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
     "category": "ai",
     "description": "Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation metho...",
@@ -56,7 +56,7 @@
     "source": "arXiv - Kefeng Duan, Dewu Zheng, Yanlin Wang et al."
   },
   {
-    "id": "arxiv_1788384210595_1",
+    "id": "arxiv_1788392314169_1",
     "name": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
     "category": "nlp",
     "description": "Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation metho...",
@@ -69,23 +69,9 @@
     "source": "arXiv - Kefeng Duan, Dewu Zheng, Yanlin Wang et al."
   },
   {
-    "id": "arxiv_1788384210483_1",
+    "id": "arxiv_1788392313788_1",
     "name": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
     "category": "ai",
-    "description": "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often...",
-    "link": "http://arxiv.org/abs/2609.01601v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-01T17:59:39Z",
-    "trending": false,
-    "source": "arXiv - Kefeng Duan, Dewu Zheng, Yanlin Wang et al."
-  },
-  {
-    "id": "arxiv_1788384210595_2",
-    "name": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
-    "category": "nlp",
     "description": "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often...",
     "link": "http://arxiv.org/abs/2609.01601v1",
     "tags": [
@@ -97,7 +83,21 @@
     "source": "arXiv - Kefeng Duan, Dewu Zheng, Yanlin Wang et al."
   },
   {
-    "id": "arxiv_1788384210483_2",
+    "id": "arxiv_1788392314169_2",
+    "name": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
+    "category": "nlp",
+    "description": "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often...",
+    "link": "http://arxiv.org/abs/2609.01601v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-01T17:59:39Z",
+    "trending": false,
+    "source": "arXiv - Kefeng Duan, Dewu Zheng, Yanlin Wang et al."
+  },
+  {
+    "id": "arxiv_1788392313788_2",
     "name": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
     "category": "ai",
     "description": "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencie...",
@@ -107,11 +107,11 @@
       "GPT"
     ],
     "date": "2026-09-01T17:59:13Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Damien Sileo, Dimitri Kachler"
   },
   {
-    "id": "arxiv_1788384210595_3",
+    "id": "arxiv_1788392314169_3",
     "name": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
     "category": "nlp",
     "description": "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencie...",
@@ -121,11 +121,11 @@
       "GPT"
     ],
     "date": "2026-09-01T17:59:13Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Damien Sileo, Dimitri Kachler"
   },
   {
-    "id": "arxiv_1788384210520_1",
+    "id": "arxiv_1788392313861_1",
     "name": "UI-VISA: U-Net Initialized Vascular Image Segmentation Architecture",
     "category": "computer-vision",
     "description": "Accurate segmentation of vascular structures in digital subtraction angiography (DSA) images remains challenging due to the thin, elongated, and branching nature of blood vessels. Pixel-wise deep lear...",
@@ -140,24 +140,9 @@
     "source": "arXiv - Asees Kaur, Suzanne S. Sindi, Erica M. Rutter"
   },
   {
-    "id": "arxiv_1788384210483_3",
+    "id": "arxiv_1788392313788_3",
     "name": "The Rise of Verbal Reinforcement Learning",
     "category": "ai",
-    "description": "Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and moder...",
-    "link": "http://arxiv.org/abs/2609.01597v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-09-01T17:58:18Z",
-    "trending": true,
-    "source": "arXiv - Kshitij Tayal, Arun Sharma, Genta Indra Winata et al."
-  },
-  {
-    "id": "arxiv_1788384210595_4",
-    "name": "The Rise of Verbal Reinforcement Learning",
-    "category": "nlp",
     "description": "Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and moder...",
     "link": "http://arxiv.org/abs/2609.01597v1",
     "tags": [
@@ -170,7 +155,22 @@
     "source": "arXiv - Kshitij Tayal, Arun Sharma, Genta Indra Winata et al."
   },
   {
-    "id": "arxiv_1788384210556_1",
+    "id": "arxiv_1788392314169_4",
+    "name": "The Rise of Verbal Reinforcement Learning",
+    "category": "nlp",
+    "description": "Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and moder...",
+    "link": "http://arxiv.org/abs/2609.01597v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-09-01T17:58:18Z",
+    "trending": true,
+    "source": "arXiv - Kshitij Tayal, Arun Sharma, Genta Indra Winata et al."
+  },
+  {
+    "id": "arxiv_1788392314095_1",
     "name": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
     "category": "machine-learning",
     "description": "Real-world robotic assembly at sub-millimeter tolerances demands spatial precision, compliant interaction, and robustness to contact failures. We present Facet-0, a robotic foundation model that predi...",
@@ -185,7 +185,7 @@
     "source": "arXiv - Haoyuan Deng, Haichao Liu, Wenkai Guo et al."
   },
   {
-    "id": "arxiv_1788384210483_4",
+    "id": "arxiv_1788392313788_4",
     "name": "Mechanism Design for Alignment and Control",
     "category": "ai",
     "description": "We develop a framework for mechanism design with AI agents whose alignment (preferences) and capabilities (feasible actions and information) are unknown. We want such agents to act on our behalf so me...",
@@ -194,11 +194,11 @@
       "AI"
     ],
     "date": "2026-09-01T17:57:50Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Dirk Bergemann, Andrew Koh, Stephen Morris"
   },
   {
-    "id": "arxiv_1788384210556_2",
+    "id": "arxiv_1788392314095_2",
     "name": "The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally",
     "category": "machine-learning",
     "description": "Post-training quantization (PTQ) is widely used to reduce the cost of serving large language models (LLMs), but its accuracy cost is uneven and is often tuned per model. We study where quantization da...",
@@ -213,7 +213,7 @@
     "source": "arXiv - Jundong Hu, Shekar Ramachandran"
   },
   {
-    "id": "arxiv_1788384210520_2",
+    "id": "arxiv_1788392313862_2",
     "name": "A Benchmark for Vehicle Attribute Classification in Cross-Domain Surveillance Scenarios",
     "category": "computer-vision",
     "description": "Vehicle attribute analysis is a key component of Intelligent Transportation Systems (ITS), supporting applications such as vehicle identification, traffic monitoring, and forensic investigation. Howev...",
@@ -226,7 +226,7 @@
     "source": "arXiv - Sergio M. Silva, Otavio T. Remer, Gabriel E. Lima et al."
   },
   {
-    "id": "arxiv_1788384210520_3",
+    "id": "arxiv_1788392313862_3",
     "name": "SpatialGuard: Harness-Guided Verifiable Spatial Reasoning for Text-to-Image Generation",
     "category": "computer-vision",
     "description": "Complex 3D spatial text to image generation requires models to convert natural language into stable visual geometry, not merely semantic appearance. Existing prompt-driven or layout-conditioned method...",
@@ -236,11 +236,11 @@
       "GAN"
     ],
     "date": "2026-09-01T17:47:00Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ziyun Qian, Zizhi Chen, Yizhou Liu et al."
   },
   {
-    "id": "arxiv_1788384210556_3",
+    "id": "arxiv_1788392314095_3",
     "name": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
     "category": "machine-learning",
     "description": "How to divide a fixed annotation budget between supervised fine-tuning (SFT) and reinforcement learning (RL) during LLM post-training remains an open problem. Existing work characterizes only broad tr...",
@@ -252,11 +252,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-09-01T17:39:55Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jingtan Wang, Arun Verma, Xiaoqiang Lin et al."
   },
   {
-    "id": "arxiv_1788384210556_4",
+    "id": "arxiv_1788392314096_4",
     "name": "Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers",
     "category": "machine-learning",
     "description": "Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve fr...",
@@ -267,11 +267,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-09-01T17:33:41Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Matteo Merler, Giovanni Bonetta, Davide Zago et al."
   },
   {
-    "id": "arxiv_1788384210520_4",
+    "id": "arxiv_1788392313862_4",
     "name": "H3-World: Turning Language Understanding into World Control",
     "category": "computer-vision",
     "description": "We present H3-World, an efficient framework that turns the 33B MiniMax-H3 video generator into an interactive world model. Our key finding is that, as large video generators become more capable, langu...",
@@ -281,7 +281,7 @@
       "Optimization"
     ],
     "date": "2026-09-01T17:21:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Danze Chen, Zeqing Wang, Ziyue Lin et al."
   }
 ]

@@ -1,7 +1,50 @@
 [
   {
-    "id": "rss_Ars_Technica_1788384214512_0",
-    "title": "Budget deal puts political control of grants on hold until December",
+    "id": "rss_TechCrunch_1788392314338_0",
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "tags": [
+      "Startup"
+    ],
+    "date": "Wed, 02 Sep 2026 23:01:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1788392314338_1",
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "tags": [
+      "AI",
+      "Automation",
+      "Startup"
+    ],
+    "date": "Wed, 02 Sep 2026 22:44:56 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1788392314338_2",
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals ",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "tags": [
+      "AI",
+      "NVIDIA",
+      "Robot"
+    ],
+    "date": "Wed, 02 Sep 2026 22:24:09 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1788392317919_0",
+    "title": "Spending deal comes with a bonus: Blocking political control of grants",
     "category": "ai-news",
     "source": "Ars Technica",
     "description": "\n                        Congress pauses the OMB's attempt to rewrite how research is funded.\n                    ",
@@ -11,7 +54,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1788384214512_1",
+    "id": "rss_Ars_Technica_1788392317919_1",
     "title": "I rented a car, and within hours, my driver's license was for sale",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -19,10 +62,10 @@
     "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
     "tags": [],
     "date": "Wed, 02 Sep 2026 20:32:02 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1788384210814_0",
+    "id": "rss_TechCrunch_1788392314338_3",
     "title": "OpenAI’s new reasoning technique alarms AI safety experts",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -33,10 +76,10 @@
       "OpenAI"
     ],
     "date": "Wed, 02 Sep 2026 20:19:14 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1788384214512_2",
+    "id": "rss_Ars_Technica_1788392317919_2",
     "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -49,7 +92,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1788384214512_3",
+    "id": "rss_Ars_Technica_1788392317919_3",
     "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -60,7 +103,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1788384215647_0",
+    "id": "rss_Wired_1788392318967_0",
     "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
     "category": "ai-news",
     "source": "Wired",
@@ -74,7 +117,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1788384215647_1",
+    "id": "rss_Wired_1788392318967_1",
     "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
     "category": "ai-news",
     "source": "Wired",
@@ -85,10 +128,10 @@
       "Startup"
     ],
     "date": "Wed, 02 Sep 2026 18:20:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1788384214512_4",
+    "id": "rss_Ars_Technica_1788392317919_4",
     "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -101,7 +144,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1788384210814_1",
+    "id": "rss_TechCrunch_1788392314338_4",
     "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -115,50 +158,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1788384210814_2",
-    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to fig",
-    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Wed, 02 Sep 2026 17:09:57 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1788384210814_3",
-    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
-    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "LLM"
-    ],
-    "date": "Wed, 02 Sep 2026 17:09:06 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1788384210814_4",
-    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-    "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-    "tags": [
-      "AI",
-      "Funding"
-    ],
-    "date": "Wed, 02 Sep 2026 16:04:10 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1788384215647_2",
+    "id": "rss_Wired_1788392318967_2",
     "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
     "category": "ai-news",
     "source": "Wired",
@@ -174,7 +174,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1788384213109_0",
+    "id": "rss_MIT_Tech_Review_1788392316471_0",
     "title": "Facilitating AI integration with simplicity at scale",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -184,10 +184,10 @@
       "AI"
     ],
     "date": "Wed, 02 Sep 2026 14:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1788384213110_1",
+    "id": "rss_MIT_Tech_Review_1788392316471_1",
     "title": "The Download: AI puzzles and a path to our nearest star system",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -201,7 +201,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1788384215647_3",
+    "id": "rss_Wired_1788392318967_3",
     "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
     "category": "ai-news",
     "source": "Wired",
@@ -211,10 +211,10 @@
       "AI"
     ],
     "date": "Wed, 02 Sep 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1788384215647_4",
+    "id": "rss_Wired_1788392318967_4",
     "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
     "category": "ai-news",
     "source": "Wired",
@@ -225,10 +225,10 @@
       "OpenAI"
     ],
     "date": "Tue, 01 Sep 2026 20:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1788384213110_2",
+    "id": "rss_MIT_Tech_Review_1788392316471_2",
     "title": "How AI plotted an interstellar journey to Alpha Centauri",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -238,10 +238,10 @@
       "AI"
     ],
     "date": "Tue, 01 Sep 2026 19:10:36 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1788384213110_3",
+    "id": "rss_MIT_Tech_Review_1788392316471_3",
     "title": "Making the AI-powered case for legacy modernization",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -251,10 +251,10 @@
       "AI"
     ],
     "date": "Tue, 01 Sep 2026 14:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1788384213110_4",
+    "id": "rss_MIT_Tech_Review_1788392316471_4",
     "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -268,7 +268,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1788384223757_0",
+    "id": "rss_Distill_1788392327638_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -281,7 +281,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1788384223757_1",
+    "id": "rss_Distill_1788392327638_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -294,7 +294,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1788384223757_2",
+    "id": "rss_Distill_1788392327638_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -305,7 +305,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1788384223757_3",
+    "id": "rss_Distill_1788392327638_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -315,10 +315,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1788384223757_4",
+    "id": "rss_Distill_1788392327638_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -326,6 +326,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
