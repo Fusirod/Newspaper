@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1788471031467_0",
+    "id": "arxiv_1788478570850_0",
     "name": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
     "category": "machine-learning",
     "description": "Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natu...",
@@ -10,11 +10,11 @@
       "Neural"
     ],
     "date": "2026-09-02T17:59:46Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Dulhan Jayalath, Benjamin Ballyk, Oiwi Parker Jones"
   },
   {
-    "id": "arxiv_1788471031394_0",
+    "id": "arxiv_1788478570034_0",
     "name": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
     "category": "computer-vision",
     "description": "We introduce SolarWM, a fully open foundation for building interactive video world models from data preparation through long-horizon inference. Training across heterogeneous data sources and video bac...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Junchao Huang, Guian Fang, Shengju Qian et al."
   },
   {
-    "id": "arxiv_1788471031321_0",
+    "id": "arxiv_1788478569960_0",
     "name": "Discriminative World Models for Web Agents",
     "category": "ai",
     "description": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PR...",
@@ -37,11 +37,11 @@
       "AI"
     ],
     "date": "2026-09-02T17:59:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Kelvin Li, Dhruv Pendharkar, Anish Pahilajani et al."
   },
   {
-    "id": "arxiv_1788471031467_1",
+    "id": "arxiv_1788478570850_1",
     "name": "Discriminative World Models for Web Agents",
     "category": "machine-learning",
     "description": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PR...",
@@ -50,11 +50,11 @@
       "AI"
     ],
     "date": "2026-09-02T17:59:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Kelvin Li, Dhruv Pendharkar, Anish Pahilajani et al."
   },
   {
-    "id": "arxiv_1788471031467_2",
+    "id": "arxiv_1788478570850_2",
     "name": "Graph Machine: Towards Better Pretraining via Edges",
     "category": "machine-learning",
     "description": "We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static ro...",
@@ -68,7 +68,7 @@
     "source": "arXiv - Lintai Hou"
   },
   {
-    "id": "arxiv_1788471031467_3",
+    "id": "arxiv_1788478570850_3",
     "name": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
     "category": "machine-learning",
     "description": "Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajec...",
@@ -81,7 +81,7 @@
     "source": "arXiv - Alessio Spurio Mancini"
   },
   {
-    "id": "arxiv_1788471031394_1",
+    "id": "arxiv_1788478570034_1",
     "name": "Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation",
     "category": "computer-vision",
     "description": "Recent advancements in unified generative models (UGMs) and world simulators have achieved unprecedented results in visual perception and synthesis. However, these models primarily rely on surface-lev...",
@@ -94,7 +94,7 @@
     "source": "arXiv - Yutong Liu, Nan Huang, Xu Cao et al."
   },
   {
-    "id": "arxiv_1788471031322_1",
+    "id": "arxiv_1788478569960_1",
     "name": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
     "category": "ai",
     "description": "Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents...",
@@ -106,11 +106,11 @@
       "GAN"
     ],
     "date": "2026-09-02T17:44:25Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Cagri Temel"
   },
   {
-    "id": "arxiv_1788471031394_2",
+    "id": "arxiv_1788478570034_2",
     "name": "PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation",
     "category": "computer-vision",
     "description": "Modern crop breeding demands precise organ-level analysis for trait quantification, making plant point cloud segmentation (PPCS) increasingly important. However, conventional deep learning approaches ...",
@@ -126,7 +126,7 @@
     "source": "arXiv - Yu Tian, Xintong Jiang, Jan Franklin Adamowski et al."
   },
   {
-    "id": "arxiv_1788471031536_0",
+    "id": "arxiv_1788478570921_0",
     "name": "User Feedback Provides a Unique Signal that LLMs Can not Detect",
     "category": "nlp",
     "description": "Harnessing naturally occurring feedback from user interactions offers a promising learning signal for Large Language Models (LLMs). However, recent studies suggest this feedback is inherently noisy an...",
@@ -141,7 +141,7 @@
     "source": "arXiv - Shachar Don-Yehiya, Leshem Choshen, Omri Abend"
   },
   {
-    "id": "arxiv_1788471031468_4",
+    "id": "arxiv_1788478570850_4",
     "name": "Improved Gradient Descent Lower Bounds Beyond Nesterov",
     "category": "machine-learning",
     "description": "We study how far gradient descent (GD) can be accelerated by predetermined stepsizes in smooth convex optimization. Going beyond the classical $Ω(n^{-2})$ first-order oracle lower bound of Nemirovsky ...",
@@ -151,11 +151,11 @@
       "Optimization"
     ],
     "date": "2026-09-02T17:39:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuhan Ye, Kaizhao Liu"
   },
   {
-    "id": "arxiv_1788471031394_3",
+    "id": "arxiv_1788478570034_3",
     "name": "MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion",
     "category": "computer-vision",
     "description": "The 3D center of mass (CoM) is a primary quantity in the biomechanical analysis of sport, rehabilitation, and clinical movement, yet existing 3D pose tracking, mesh recovery, and multi-view triangulat...",
@@ -165,11 +165,11 @@
       "Vision"
     ],
     "date": "2026-09-02T17:38:36Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Aidan Bradshaw, Marco Giordano, David Rode et al."
   },
   {
-    "id": "arxiv_1788471031322_2",
+    "id": "arxiv_1788478569960_2",
     "name": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
     "category": "ai",
     "description": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-e...",
@@ -179,11 +179,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-09-02T17:33:37Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Aleksander Ficek, Sean Narenthiran, Mehrzad Samadi et al."
   },
   {
-    "id": "arxiv_1788471031536_1",
+    "id": "arxiv_1788478570921_1",
     "name": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
     "category": "nlp",
     "description": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-e...",
@@ -197,7 +197,7 @@
     "source": "arXiv - Aleksander Ficek, Sean Narenthiran, Mehrzad Samadi et al."
   },
   {
-    "id": "arxiv_1788471031394_4",
+    "id": "arxiv_1788478570034_4",
     "name": "RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation",
     "category": "computer-vision",
     "description": "Novel view synthesis from sparse inputs requires both geometric grounding from the observed views and generative priors of unobserved regions, motivating recent hybrid methods that combine reconstruct...",
@@ -207,11 +207,11 @@
       "Diffusion"
     ],
     "date": "2026-09-02T17:32:35Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xiaolei Lang, Ze Kang, Zehao Huang et al."
   },
   {
-    "id": "arxiv_1788471031322_3",
+    "id": "arxiv_1788478569960_3",
     "name": "AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application",
     "category": "ai",
     "description": "Researchers increasingly use artificial intelligence to construct measures of social, organizational, and occupational characteristics that are absent from conventional surveys. We propose AICOME, AI ...",
@@ -221,11 +221,11 @@
       "GAN"
     ],
     "date": "2026-09-02T17:09:30Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Wenxin Jiang, Xuyang Wang, Yuxiao Wu"
   },
   {
-    "id": "arxiv_1788471031322_4",
+    "id": "arxiv_1788478569961_4",
     "name": "Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis",
     "category": "ai",
     "description": "Root cause analysis (RCA) is a critical task in telecom network operations, but diagnosing performance degradations in modern 5G and emerging 6G networks remains challenging due to complex cross-layer...",
@@ -241,7 +241,7 @@
     "source": "arXiv - Hao Zhou, Mandar Kulkarni, Hao Chen et al."
   },
   {
-    "id": "arxiv_1788471031536_2",
+    "id": "arxiv_1788478570921_2",
     "name": "Dutch Books for Language Models",
     "category": "nlp",
     "description": "People increasingly use language models to support life decisions. Many such decisions involve a probabilistic forecast: How likely is a major life event, a natural disaster, or an economic outcome? U...",
@@ -254,7 +254,7 @@
     "source": "arXiv - Isaiah Andrews, Suproteem Sarkar"
   },
   {
-    "id": "arxiv_1788471031537_3",
+    "id": "arxiv_1788478570921_3",
     "name": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
     "category": "nlp",
     "description": "Sign language processing systems have traditionally operated at the sentence level, ignoring critical discourse phenomena fundamental to sign language comprehension. We introduce DiscoSign, a computat...",
@@ -268,7 +268,7 @@
     "source": "arXiv - Vasileios Baltatzis, Mert Inan, Connor Gillis et al."
   },
   {
-    "id": "arxiv_1788471031537_4",
+    "id": "arxiv_1788478570921_4",
     "name": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
     "category": "nlp",
     "description": "Evaluating LLM agents is essential for guiding their development, yet it has grown prohibitively expensive: a single pass of a frontier model over an agentic benchmark can cost hundreds to thousands o...",
