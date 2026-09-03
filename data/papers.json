@@ -1,277 +1,284 @@
 [
   {
-    "id": "arxiv_1788399741646_0",
-    "name": "Automated Vulnerability Injection in Smart Contracts Using Large Language Models",
-    "category": "ai",
-    "description": "Assessing vulnerability detection tools for smart contracts requires datasets with known ground truth, yet such datasets are scarce and difficult to build by hand. We propose an approach that uses Lar...",
-    "link": "http://arxiv.org/abs/2609.02624v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-02T14:03:09Z",
-    "trending": true,
-    "source": "arXiv - Luca Migliaccio, Roberto Natella, Naghmeh Ivaki et al."
-  },
-  {
-    "id": "arxiv_1788399742093_0",
-    "name": "Scalable Direction-Following TTS via Voice Impression-Guided Pseudo Triplet Construction",
+    "id": "arxiv_1788417291342_0",
+    "name": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
     "category": "machine-learning",
-    "description": "Voice actors often re-read the same script while modifying their delivery in response to performance directions. We study this setting as direction-following TTS, where a system generates a new uttera...",
-    "link": "http://arxiv.org/abs/2609.02623v1",
+    "description": "Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natu...",
+    "link": "http://arxiv.org/abs/2609.02887v1",
     "tags": [
       "AI",
-      "LLM"
+      "Neural"
     ],
-    "date": "2026-09-02T14:02:15Z",
-    "trending": true,
-    "source": "arXiv - Kenichi Fujita, Yusuke Ijima"
-  },
-  {
-    "id": "arxiv_1788399742167_0",
-    "name": "Scalable Direction-Following TTS via Voice Impression-Guided Pseudo Triplet Construction",
-    "category": "nlp",
-    "description": "Voice actors often re-read the same script while modifying their delivery in response to performance directions. We study this setting as direction-following TTS, where a system generates a new uttera...",
-    "link": "http://arxiv.org/abs/2609.02623v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-02T14:02:15Z",
-    "trending": true,
-    "source": "arXiv - Kenichi Fujita, Yusuke Ijima"
-  },
-  {
-    "id": "arxiv_1788399742093_1",
-    "name": "Source Distribution Estimation by Posterior Averaging",
-    "category": "machine-learning",
-    "description": "Simulation-based science often requires a distribution over simulator parameters whose push-forward reproduces a set of real observations: this is the source distribution estimation (SDE) problem. Exi...",
-    "link": "http://arxiv.org/abs/2609.02622v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-02T14:01:54Z",
+    "date": "2026-09-02T17:59:46Z",
     "trending": false,
-    "source": "arXiv - Trung-Dung Hoang, Lisa M. Koch"
+    "source": "arXiv - Dulhan Jayalath, Benjamin Ballyk, Oiwi Parker Jones"
   },
   {
-    "id": "arxiv_1788399741646_1",
-    "name": "Collective creativity in hybrid societies",
-    "category": "ai",
-    "description": "Generative AI is changing how cultural artifacts are created and circulated, and with it our understanding of creativity itself. Researchers disagree about whether these tools enrich or impoverish cul...",
-    "link": "http://arxiv.org/abs/2609.02620v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-02T13:59:08Z",
-    "trending": false,
-    "source": "arXiv - Mason Youngblood, Katie Mudd, Manuel Anglada-Tort et al."
-  },
-  {
-    "id": "arxiv_1788399741860_0",
-    "name": "AffectDelta: Beyond Emotion Labels for Image Editing",
+    "id": "arxiv_1788417291312_0",
+    "name": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
     "category": "computer-vision",
-    "description": "Emotion-driven image editing aims to evoke a specified target emotion by modifying emotion-relevant visual cues in a source image, while preserving the overall composition and semantic-structural cohe...",
-    "link": "http://arxiv.org/abs/2609.02616v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-09-02T13:56:59Z",
-    "trending": false,
-    "source": "arXiv - Xingzu Zhan, Lin Gu, Ruogu Fang"
-  },
-  {
-    "id": "arxiv_1788399742167_1",
-    "name": "Predictors of Loneliness in Older Adults Using Multimodal Analysis of Speech and Language",
-    "category": "nlp",
-    "description": "Loneliness is a critical public health issue among older adults, linked to higher risks of depression, cognitive decline, and mortality. Scalable, objective methods for its detection remain limited, p...",
-    "link": "http://arxiv.org/abs/2609.02606v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-02T13:48:14Z",
-    "trending": false,
-    "source": "arXiv - Vinmay Khandode, Sai Karthik Kosuri, Neil K. R. Sehgal et al."
-  },
-  {
-    "id": "arxiv_1788399741860_1",
-    "name": "Generalizable Brain Tumor Segmentation with Self-Training and Tumor-Aware Deformations",
-    "category": "computer-vision",
-    "description": "This work presents an approach to the Generalizability Across Tumors (BraTS-GoAT) task of the BraTS 2026 Challenge, which focuses on robust segmentation of brain tumor sub-regions across a heterogeneo...",
-    "link": "http://arxiv.org/abs/2609.02600v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-02T13:43:53Z",
-    "trending": false,
-    "source": "arXiv - Henrique Zan Grande, Jeovane Honorio Alves, Rayson Laroca et al."
-  },
-  {
-    "id": "arxiv_1788399741647_2",
-    "name": "Competitive Market Behavior of LLMs",
-    "category": "ai",
-    "description": "Large language models (LLMs) are increasingly deployed as economic agents, yet there is little evidence whether LLM agents are suited for participating in market mechanisms designed for humans, and wh...",
-    "link": "http://arxiv.org/abs/2609.02580v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-02T13:24:42Z",
-    "trending": false,
-    "source": "arXiv - Pawel Struski, Jakub Swistak, Inez Okulska et al."
-  },
-  {
-    "id": "arxiv_1788399741860_2",
-    "name": "Deeply Interleaved Text-Image Contexts for Multimodal LLMs Assessment",
-    "category": "computer-vision",
-    "description": "Current evaluations and training of multimodal models predominantly focus on multi-image tasks, largely overlooking interleaved text-image scenarios. In such multi-image tasks, text typically serves m...",
-    "link": "http://arxiv.org/abs/2609.02573v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-02T13:19:51Z",
-    "trending": false,
-    "source": "arXiv - Zihao Wang, Xi Xiang, Yuwen Sun et al."
-  },
-  {
-    "id": "arxiv_1788399742093_2",
-    "name": "Learning-Based Reconstruction Attacks on Coordinate-Obfuscated Point Clouds",
-    "category": "machine-learning",
-    "description": "Volumetric video based on point cloud representations enables immersive virtual and augmented reality applications but introduces significant challenges for efficient and secure content delivery. Prio...",
-    "link": "http://arxiv.org/abs/2609.02568v1",
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "date": "2026-09-02T13:17:38Z",
-    "trending": true,
-    "source": "arXiv - Mohammad Waquas Usmani, Susmit Shannigrahi, Michael Zink"
-  },
-  {
-    "id": "arxiv_1788399742093_3",
-    "name": "Online Reinforcement Learning in the Met Office Unified Model through Distributed Model-Agent Coupling",
-    "category": "machine-learning",
-    "description": "Machine-learnt corrections can complement numerical weather prediction only if they adapt to the evolving model state while preserving dynamical consistency and numerical stability. To test this withi...",
-    "link": "http://arxiv.org/abs/2609.02566v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-09-02T13:17:10Z",
-    "trending": false,
-    "source": "arXiv - Pritthijit Nath, Sebastian Schemm, Peter Haynes et al."
-  },
-  {
-    "id": "arxiv_1788399741860_3",
-    "name": "MARS: What Retrieval Signals Are Hidden in Multimodal Large Language Models for Text-Video Retrieval?",
-    "category": "computer-vision",
-    "description": "Text-video retrieval requires representations that can distinguish videos with similar scenes, actions, and temporal patterns. Recent multimodal large language models have been adapted as embedding mo...",
-    "link": "http://arxiv.org/abs/2609.02565v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-02T13:16:06Z",
-    "trending": true,
-    "source": "arXiv - Uicheol Jung, Juyoung Hong, Geuntaek Lim et al."
-  },
-  {
-    "id": "arxiv_1788399741860_4",
-    "name": "Stereo 4D Radar for 3D Object Detection: Integrating Geometric Alignment and Absolute Velocity Estimation",
-    "category": "computer-vision",
-    "description": "Four-dimensional (4D) Radar is a powerful sensing modality capable of detecting surrounding three-dimensional (3D) objects under diverse weather conditions and providing Doppler-based motion informati...",
-    "link": "http://arxiv.org/abs/2609.02560v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-02T13:13:08Z",
-    "trending": true,
-    "source": "arXiv - Seung-Hyun Song, Dong-Hee Paek, Woong-Chan Byun et al."
-  },
-  {
-    "id": "arxiv_1788399741647_3",
-    "name": "ProbeMatchDTI: Probe-Driven Multi-Scale Biochemical Pattern Matching for Drug-Target Interaction Prediction",
-    "category": "ai",
-    "description": "Drug-target interaction (DTI) prediction is an important task in AI-driven drug discovery. Although recent biochemical representation learning methods have improved DTI prediction, their passive featu...",
-    "link": "http://arxiv.org/abs/2609.02549v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-02T13:00:50Z",
-    "trending": true,
-    "source": "arXiv - Quan Hao, Mengyue Fan, Zifan Dong et al."
-  },
-  {
-    "id": "arxiv_1788399742093_4",
-    "name": "ProbeMatchDTI: Probe-Driven Multi-Scale Biochemical Pattern Matching for Drug-Target Interaction Prediction",
-    "category": "machine-learning",
-    "description": "Drug-target interaction (DTI) prediction is an important task in AI-driven drug discovery. Although recent biochemical representation learning methods have improved DTI prediction, their passive featu...",
-    "link": "http://arxiv.org/abs/2609.02549v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-02T13:00:50Z",
-    "trending": true,
-    "source": "arXiv - Quan Hao, Mengyue Fan, Zifan Dong et al."
-  },
-  {
-    "id": "arxiv_1788399741647_4",
-    "name": "Learn from Whoever Is Right: Answer-Verified Multi-Teacher Distillation for Multi-Domain LLMs",
-    "category": "ai",
-    "description": "Modern large language models (LLMs) rely on reinforcement learning to build strong capabilities in individual domains, but integrating those capabilities into a single deployable model remains challen...",
-    "link": "http://arxiv.org/abs/2609.02548v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-09-02T13:00:45Z",
-    "trending": true,
-    "source": "arXiv - Xixiang He, Xingming Li, Baiqi Wu et al."
-  },
-  {
-    "id": "arxiv_1788399742167_2",
-    "name": "When Persona Attributes Improve Population Alignment in Large Language Models",
-    "category": "nlp",
-    "description": "Large Language Models (LLMs) are increasingly used to predict the responses of human participants in survey panels. Towards that goal, persona prompting has recently emerged as a technique to inform a...",
-    "link": "http://arxiv.org/abs/2609.02526v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-02T12:30:56Z",
-    "trending": true,
-    "source": "arXiv - Leon Fröhling, Jens Rupprecht, Markus Strohmaier et al."
-  },
-  {
-    "id": "arxiv_1788399742168_3",
-    "name": "Debias-SparseGPT: Bias-Aware Pruning for Large Language Models",
-    "category": "nlp",
-    "description": "Model compression techniques such as pruning and quantization facilitate the efficient deployment and acceleration of Large Language Models (LLMs). However, recent studies show that weight sparsificat...",
-    "link": "http://arxiv.org/abs/2609.02496v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT"
-    ],
-    "date": "2026-09-02T12:01:54Z",
-    "trending": false,
-    "source": "arXiv - Irina Proskurina, Guillaume Metzler, Antoine Gourru et al."
-  },
-  {
-    "id": "arxiv_1788399742168_4",
-    "name": "ViSAR: Training-Free Adaptive-$k$ Retrieval for Visual Document Question Answering",
-    "category": "nlp",
-    "description": "Document Visual Question Answering (DocVQA) often leverages Retrieval-Augmented Generation (RAG), where late-interaction encoders are commonly used to identify document pages relevant to a user query,...",
-    "link": "http://arxiv.org/abs/2609.02486v1",
+    "description": "We introduce SolarWM, a fully open foundation for building interactive video world models from data preparation through long-horizon inference. Training across heterogeneous data sources and video bac...",
+    "link": "http://arxiv.org/abs/2609.02886v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-09-02T11:54:58Z",
+    "date": "2026-09-02T17:59:41Z",
     "trending": false,
-    "source": "arXiv - Adrien Mialland, Marc Plantevit, Julien Gallois et al."
+    "source": "arXiv - Junchao Huang, Guian Fang, Shengju Qian et al."
+  },
+  {
+    "id": "arxiv_1788417291281_0",
+    "name": "Discriminative World Models for Web Agents",
+    "category": "ai",
+    "description": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PR...",
+    "link": "http://arxiv.org/abs/2609.02885v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-02T17:59:40Z",
+    "trending": false,
+    "source": "arXiv - Kelvin Li, Dhruv Pendharkar, Anish Pahilajani et al."
+  },
+  {
+    "id": "arxiv_1788417291343_1",
+    "name": "Discriminative World Models for Web Agents",
+    "category": "machine-learning",
+    "description": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PR...",
+    "link": "http://arxiv.org/abs/2609.02885v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-02T17:59:40Z",
+    "trending": false,
+    "source": "arXiv - Kelvin Li, Dhruv Pendharkar, Anish Pahilajani et al."
+  },
+  {
+    "id": "arxiv_1788417291343_2",
+    "name": "Graph Machine: Towards Better Pretraining via Edges",
+    "category": "machine-learning",
+    "description": "We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static ro...",
+    "link": "http://arxiv.org/abs/2609.02881v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-09-02T17:56:41Z",
+    "trending": false,
+    "source": "arXiv - Lintai Hou"
+  },
+  {
+    "id": "arxiv_1788417291343_3",
+    "name": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
+    "category": "machine-learning",
+    "description": "Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajec...",
+    "link": "http://arxiv.org/abs/2609.02876v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-02T17:56:10Z",
+    "trending": false,
+    "source": "arXiv - Alessio Spurio Mancini"
+  },
+  {
+    "id": "arxiv_1788417291312_1",
+    "name": "Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation",
+    "category": "computer-vision",
+    "description": "Recent advancements in unified generative models (UGMs) and world simulators have achieved unprecedented results in visual perception and synthesis. However, these models primarily rely on surface-lev...",
+    "link": "http://arxiv.org/abs/2609.02864v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-02T17:48:02Z",
+    "trending": false,
+    "source": "arXiv - Yutong Liu, Nan Huang, Xu Cao et al."
+  },
+  {
+    "id": "arxiv_1788417291281_1",
+    "name": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
+    "category": "ai",
+    "description": "Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents...",
+    "link": "http://arxiv.org/abs/2609.02861v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Transformer",
+      "GAN"
+    ],
+    "date": "2026-09-02T17:44:25Z",
+    "trending": true,
+    "source": "arXiv - Cagri Temel"
+  },
+  {
+    "id": "arxiv_1788417291313_2",
+    "name": "PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation",
+    "category": "computer-vision",
+    "description": "Modern crop breeding demands precise organ-level analysis for trait quantification, making plant point cloud segmentation (PPCS) increasingly important. However, conventional deep learning approaches ...",
+    "link": "http://arxiv.org/abs/2609.02860v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Vision",
+      "GAN"
+    ],
+    "date": "2026-09-02T17:43:56Z",
+    "trending": false,
+    "source": "arXiv - Yu Tian, Xintong Jiang, Jan Franklin Adamowski et al."
+  },
+  {
+    "id": "arxiv_1788417291374_0",
+    "name": "User Feedback Provides a Unique Signal that LLMs Can not Detect",
+    "category": "nlp",
+    "description": "Harnessing naturally occurring feedback from user interactions offers a promising learning signal for Large Language Models (LLMs). However, recent studies suggest this feedback is inherently noisy an...",
+    "link": "http://arxiv.org/abs/2609.02859v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-09-02T17:42:44Z",
+    "trending": true,
+    "source": "arXiv - Shachar Don-Yehiya, Leshem Choshen, Omri Abend"
+  },
+  {
+    "id": "arxiv_1788417291343_4",
+    "name": "Improved Gradient Descent Lower Bounds Beyond Nesterov",
+    "category": "machine-learning",
+    "description": "We study how far gradient descent (GD) can be accelerated by predetermined stepsizes in smooth convex optimization. Going beyond the classical $Ω(n^{-2})$ first-order oracle lower bound of Nemirovsky ...",
+    "link": "http://arxiv.org/abs/2609.02855v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-09-02T17:39:52Z",
+    "trending": false,
+    "source": "arXiv - Yuhan Ye, Kaizhao Liu"
+  },
+  {
+    "id": "arxiv_1788417291313_3",
+    "name": "MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion",
+    "category": "computer-vision",
+    "description": "The 3D center of mass (CoM) is a primary quantity in the biomechanical analysis of sport, rehabilitation, and clinical movement, yet existing 3D pose tracking, mesh recovery, and multi-view triangulat...",
+    "link": "http://arxiv.org/abs/2609.02854v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-09-02T17:38:36Z",
+    "trending": false,
+    "source": "arXiv - Aidan Bradshaw, Marco Giordano, David Rode et al."
+  },
+  {
+    "id": "arxiv_1788417291282_2",
+    "name": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+    "category": "ai",
+    "description": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-e...",
+    "link": "http://arxiv.org/abs/2609.02849v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-09-02T17:33:37Z",
+    "trending": false,
+    "source": "arXiv - Aleksander Ficek, Sean Narenthiran, Mehrzad Samadi et al."
+  },
+  {
+    "id": "arxiv_1788417291374_1",
+    "name": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+    "category": "nlp",
+    "description": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-e...",
+    "link": "http://arxiv.org/abs/2609.02849v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-09-02T17:33:37Z",
+    "trending": false,
+    "source": "arXiv - Aleksander Ficek, Sean Narenthiran, Mehrzad Samadi et al."
+  },
+  {
+    "id": "arxiv_1788417291313_4",
+    "name": "RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation",
+    "category": "computer-vision",
+    "description": "Novel view synthesis from sparse inputs requires both geometric grounding from the observed views and generative priors of unobserved regions, motivating recent hybrid methods that combine reconstruct...",
+    "link": "http://arxiv.org/abs/2609.02847v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-09-02T17:32:35Z",
+    "trending": false,
+    "source": "arXiv - Xiaolei Lang, Ze Kang, Zehao Huang et al."
+  },
+  {
+    "id": "arxiv_1788417291282_3",
+    "name": "AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application",
+    "category": "ai",
+    "description": "Researchers increasingly use artificial intelligence to construct measures of social, organizational, and occupational characteristics that are absent from conventional surveys. We propose AICOME, AI ...",
+    "link": "http://arxiv.org/abs/2609.02821v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-09-02T17:09:30Z",
+    "trending": false,
+    "source": "arXiv - Wenxin Jiang, Xuyang Wang, Yuxiao Wu"
+  },
+  {
+    "id": "arxiv_1788417291282_4",
+    "name": "Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis",
+    "category": "ai",
+    "description": "Root cause analysis (RCA) is a critical task in telecom network operations, but diagnosing performance degradations in modern 5G and emerging 6G networks remains challenging due to complex cross-layer...",
+    "link": "http://arxiv.org/abs/2609.02805v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "GAN",
+      "LLM"
+    ],
+    "date": "2026-09-02T16:43:22Z",
+    "trending": false,
+    "source": "arXiv - Hao Zhou, Mandar Kulkarni, Hao Chen et al."
+  },
+  {
+    "id": "arxiv_1788417291374_2",
+    "name": "Dutch Books for Language Models",
+    "category": "nlp",
+    "description": "People increasingly use language models to support life decisions. Many such decisions involve a probabilistic forecast: How likely is a major life event, a natural disaster, or an economic outcome? U...",
+    "link": "http://arxiv.org/abs/2609.02797v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-02T16:31:47Z",
+    "trending": false,
+    "source": "arXiv - Isaiah Andrews, Suproteem Sarkar"
+  },
+  {
+    "id": "arxiv_1788417291375_3",
+    "name": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
+    "category": "nlp",
+    "description": "Sign language processing systems have traditionally operated at the sentence level, ignoring critical discourse phenomena fundamental to sign language comprehension. We introduce DiscoSign, a computat...",
+    "link": "http://arxiv.org/abs/2609.02796v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-02T16:31:39Z",
+    "trending": false,
+    "source": "arXiv - Vasileios Baltatzis, Mert Inan, Connor Gillis et al."
+  },
+  {
+    "id": "arxiv_1788417291375_4",
+    "name": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
+    "category": "nlp",
+    "description": "Evaluating LLM agents is essential for guiding their development, yet it has grown prohibitively expensive: a single pass of a frontier model over an agentic benchmark can cost hundreds to thousands o...",
+    "link": "http://arxiv.org/abs/2609.02783v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-02T16:15:18Z",
+    "trending": false,
+    "source": "arXiv - Yuling Shi, Zhensu Sun, Junsen Dong et al."
   }
 ]
