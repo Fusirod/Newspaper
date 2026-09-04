@@ -1,6 +1,108 @@
 [
   {
-    "id": "rss_Wired_1788534912545_0",
+    "id": "rss_Ars_Technica_1788547024487_0",
+    "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Broadcom admits it put “too big a focus on VCF.”\n                    ",
+    "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+    "tags": [],
+    "date": "Fri, 04 Sep 2026 17:35:02 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1788547024487_1",
+    "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.\n                    ",
+    "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 04 Sep 2026 17:18:12 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1788547021117_0",
+    "title": "What will Apple’s John Ternus era look like?",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#",
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 04 Sep 2026 17:18:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1788547024487_2",
+    "title": "Pentagon rescinds new testosterone screening policy without explanation",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The Pentagon says the guidance is being updated after being online for one day.\n                    ",
+    "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+    "tags": [],
+    "date": "Fri, 04 Sep 2026 16:57:24 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1788547024487_3",
+    "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"I think we can't get in trouble for that now. It's like 20 years ago.\"\n                    ",
+    "link": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 04 Sep 2026 16:42:53 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1788547024487_4",
+    "title": "Second complete map of a fruit fly brain completed",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Every neuron and connection in the brain of a fly has been mapped—twice.\n                    ",
+    "link": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 04 Sep 2026 16:24:24 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1788547021117_1",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Fri, 04 Sep 2026 16:21:11 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1788547021117_2",
+    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#",
+    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "tags": [
+      "AI",
+      "NVIDIA"
+    ],
+    "date": "Fri, 04 Sep 2026 16:04:08 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1788547025593_0",
     "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
     "category": "ai-news",
     "source": "Wired",
@@ -10,10 +112,10 @@
       "AI"
     ],
     "date": "Fri, 04 Sep 2026 15:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1788534907761_0",
+    "id": "rss_TechCrunch_1788547021118_3",
     "title": "Google’s Gemini Spark can now manage your Google Photos library",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -27,7 +129,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1788534907761_1",
+    "id": "rss_TechCrunch_1788547021118_4",
     "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -35,24 +137,10 @@
     "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
     "tags": [],
     "date": "Fri, 04 Sep 2026 14:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1788534911431_0",
-    "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Two of Europe's leading launch startups announced new fundraising this week.\n                    ",
-    "link": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Fri, 04 Sep 2026 12:48:36 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1788534909926_0",
+    "id": "rss_MIT_Tech_Review_1788547023266_0",
     "title": "The Download: selling battlefield drone data and AI reshaping language",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -65,20 +153,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1788534911431_1",
-    "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+.",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 04 Sep 2026 11:00:05 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1788534912546_1",
+    "id": "rss_Wired_1788547025593_1",
     "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
     "category": "ai-news",
     "source": "Wired",
@@ -88,10 +163,10 @@
       "AI"
     ],
     "date": "Fri, 04 Sep 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1788534909926_1",
+    "id": "rss_MIT_Tech_Review_1788547023266_1",
     "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -104,44 +179,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1788534907761_2",
-    "title": "The sameness problem behind those unappetizing AI-generated menus",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 04 Sep 2026 04:21:03 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1788534907761_3",
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 04 Sep 2026 00:48:42 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1788534911431_2",
-    "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        CDC staff had already accepted the measles death reports when RFK Jr. meddled.\n                    ",
-    "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
-    "tags": [],
-    "date": "Thu, 03 Sep 2026 22:13:50 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1788534912546_2",
+    "id": "rss_Wired_1788547025593_2",
     "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
     "category": "ai-news",
     "source": "Wired",
@@ -157,7 +195,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1788534912546_3",
+    "id": "rss_Wired_1788547025593_3",
     "title": "Prediction Market Betting Is Getting People Banned and Arrested",
     "category": "ai-news",
     "source": "Wired",
@@ -167,45 +205,10 @@
       "AI"
     ],
     "date": "Thu, 03 Sep 2026 21:48:24 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1788534911431_3",
-    "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.\n                    ",
-    "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
-    "tags": [],
-    "date": "Thu, 03 Sep 2026 21:10:59 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1788534911431_4",
-    "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Researchers now have clear new targets and insights for developing a Shigella vaccine.\n                    ",
-    "link": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
-    "tags": [],
-    "date": "Thu, 03 Sep 2026 20:14:48 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1788534907761_4",
-    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-    "tags": [
-      "Startup"
-    ],
-    "date": "Thu, 03 Sep 2026 19:36:29 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1788534912546_4",
+    "id": "rss_Wired_1788547025593_4",
     "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
     "category": "ai-news",
     "source": "Wired",
@@ -217,10 +220,10 @@
       "GPT"
     ],
     "date": "Thu, 03 Sep 2026 18:06:24 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1788534909926_2",
+    "id": "rss_MIT_Tech_Review_1788547023266_2",
     "title": "The Download: rethinking child safety and fossil-fueled farming",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -233,7 +236,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1788534909927_3",
+    "id": "rss_MIT_Tech_Review_1788547023266_3",
     "title": "Agriculture relies on fossil fuels. It’s costing us.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -244,7 +247,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1788534909927_4",
+    "id": "rss_MIT_Tech_Review_1788547023267_4",
     "title": "Scaling agentic AI pilots across the enterprise",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -257,7 +260,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1788534921637_0",
+    "id": "rss_Distill_1788547033346_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -267,10 +270,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1788534921637_1",
+    "id": "rss_Distill_1788547033346_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -283,7 +286,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1788534921637_2",
+    "id": "rss_Distill_1788547033346_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -291,10 +294,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1788534921637_3",
+    "id": "rss_Distill_1788547033346_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -307,7 +310,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1788534921637_4",
+    "id": "rss_Distill_1788547033346_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -315,6 +318,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
