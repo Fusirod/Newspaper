@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1788733775034_0",
+    "id": "arxiv_1788740689912_0",
     "name": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
     "category": "computer-vision",
     "description": "We introduce S$^3$T (Self-Supervised Self-Distillation over Time), which, to the best of our knowledge, is the first fully self-contained framework for continuous video state tracking. Our method trea...",
@@ -10,11 +10,11 @@
       "Vision"
     ],
     "date": "2026-09-03T17:59:55Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shravan Venkatraman, Wenshuai Zhao, Mohammad Hassan Vali et al."
   },
   {
-    "id": "arxiv_1788733775034_1",
+    "id": "arxiv_1788740689912_1",
     "name": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
     "category": "computer-vision",
     "description": "While data-driven 3D shape correspondence estimation has recently seen substantial progress, robust matching under partial observations and strong non-isometric deformations remains challenging. Exist...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Adeela Islam, Zorah Lähner, Vittorio Murino et al."
   },
   {
-    "id": "arxiv_1788733775035_2",
+    "id": "arxiv_1788740689912_2",
     "name": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
     "category": "computer-vision",
     "description": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed first-frame anchor forces extrapolation far beyond the training distribution. S...",
@@ -42,7 +42,7 @@
     "source": "arXiv - Chin-Yang Lin, Yang-Che Sun, Cheng Sun et al."
   },
   {
-    "id": "arxiv_1788733775035_3",
+    "id": "arxiv_1788740689912_3",
     "name": "Principia: Relational Physics Tests for Video Models",
     "category": "computer-vision",
     "description": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavaila...",
@@ -52,11 +52,11 @@
       "Vision"
     ],
     "date": "2026-09-03T17:59:50Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Varun Varma Thozhiyoor, Shivam Tripathi, Venkatesh Babu Radhakrishnan et al."
   },
   {
-    "id": "arxiv_1788733775019_0",
+    "id": "arxiv_1788740689899_0",
     "name": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
     "category": "ai",
     "description": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov...",
@@ -70,7 +70,7 @@
     "source": "arXiv - Yuntian Deng, Pengyu Nie, Stuart Shieber"
   },
   {
-    "id": "arxiv_1788733775047_0",
+    "id": "arxiv_1788740689988_0",
     "name": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
     "category": "machine-learning",
     "description": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov...",
@@ -80,11 +80,11 @@
       "Neural"
     ],
     "date": "2026-09-03T17:59:49Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuntian Deng, Pengyu Nie, Stuart Shieber"
   },
   {
-    "id": "arxiv_1788733775063_0",
+    "id": "arxiv_1788740690004_0",
     "name": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
     "category": "nlp",
     "description": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov...",
@@ -98,7 +98,7 @@
     "source": "arXiv - Yuntian Deng, Pengyu Nie, Stuart Shieber"
   },
   {
-    "id": "arxiv_1788733775019_1",
+    "id": "arxiv_1788740689900_1",
     "name": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
     "category": "ai",
     "description": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to ...",
@@ -108,11 +108,11 @@
       "LLM"
     ],
     "date": "2026-09-03T17:59:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Haoyaun Zhu, Jie Zhang"
   },
   {
-    "id": "arxiv_1788733775047_1",
+    "id": "arxiv_1788740689989_1",
     "name": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
     "category": "machine-learning",
     "description": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to ...",
@@ -126,7 +126,7 @@
     "source": "arXiv - Haoyaun Zhu, Jie Zhang"
   },
   {
-    "id": "arxiv_1788733775019_2",
+    "id": "arxiv_1788740689900_2",
     "name": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
     "category": "ai",
     "description": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three de...",
@@ -141,7 +141,7 @@
     "source": "arXiv - Lihao Liu, Peng Tang, Kunwar Yashraj Singh et al."
   },
   {
-    "id": "arxiv_1788733775063_1",
+    "id": "arxiv_1788740690004_1",
     "name": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
     "category": "nlp",
     "description": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three de...",
@@ -152,11 +152,11 @@
       "Optimization"
     ],
     "date": "2026-09-03T17:59:37Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Lihao Liu, Peng Tang, Kunwar Yashraj Singh et al."
   },
   {
-    "id": "arxiv_1788733775035_4",
+    "id": "arxiv_1788740689912_4",
     "name": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
     "category": "computer-vision",
     "description": "We propose Puffin-World, a unified multimodal architecture that integrates physical understanding, spatial simulation, and 3D world generation and reconstruction without relying on external offline mo...",
@@ -169,7 +169,7 @@
     "source": "arXiv - Kang Liao, Yihang Luo, Xiao-Ming Wu et al."
   },
   {
-    "id": "arxiv_1788733775047_2",
+    "id": "arxiv_1788740689989_2",
     "name": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
     "category": "machine-learning",
     "description": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, ...",
@@ -180,11 +180,11 @@
       "LLM"
     ],
     "date": "2026-09-03T17:59:08Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Kevin Du, Alexander Hoyle, Laura Ruis et al."
   },
   {
-    "id": "arxiv_1788733775063_2",
+    "id": "arxiv_1788740690005_2",
     "name": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
     "category": "nlp",
     "description": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, ...",
@@ -199,7 +199,7 @@
     "source": "arXiv - Kevin Du, Alexander Hoyle, Laura Ruis et al."
   },
   {
-    "id": "arxiv_1788733775019_3",
+    "id": "arxiv_1788740689900_3",
     "name": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
     "category": "ai",
     "description": "Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a t...",
@@ -208,11 +208,11 @@
       "AI"
     ],
     "date": "2026-09-03T17:59:01Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Adheesh Sunil Juvekar, Onkar Kishor Susladkar, Kiet A. Nguyen et al."
   },
   {
-    "id": "arxiv_1788733775047_3",
+    "id": "arxiv_1788740689989_3",
     "name": "Robust PAC Learning of Concurrent Stochastic Games",
     "category": "machine-learning",
     "description": "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash eq...",
@@ -221,11 +221,11 @@
       "AI"
     ],
     "date": "2026-09-03T17:58:57Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Angel Y. He, David Parker"
   },
   {
-    "id": "arxiv_1788733775020_4",
+    "id": "arxiv_1788740689900_4",
     "name": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
     "category": "ai",
     "description": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliar...",
@@ -240,7 +240,7 @@
     "source": "arXiv - Ye-Chan Kim, Seunghee Choi, SeungJu Cha et al."
   },
   {
-    "id": "arxiv_1788733775063_3",
+    "id": "arxiv_1788740690005_3",
     "name": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
     "category": "nlp",
     "description": "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learnin...",
@@ -250,11 +250,11 @@
       "LLM"
     ],
     "date": "2026-09-03T17:57:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Joseph Lee, Yidi Huang, Dokyoon Kim et al."
   },
   {
-    "id": "arxiv_1788733775064_4",
+    "id": "arxiv_1788740690005_4",
     "name": "Last Translation Benchmark",
     "category": "nlp",
     "description": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for ...",
@@ -267,7 +267,7 @@
     "source": "arXiv - Vilém Zouhar, Niyati Bafna, Mukund Choudhary et al."
   },
   {
-    "id": "arxiv_1788733775047_4",
+    "id": "arxiv_1788740689989_4",
     "name": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
     "category": "machine-learning",
     "description": "As edge-based deep learning applications become more complex, optimizing performance on heterogeneous System-on-Chips (SoCs) presents unique challenges. Traditional pipelining techniques distributing ...",
