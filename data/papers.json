@@ -1,36 +1,6 @@
 [
   {
-    "id": "arxiv_1788811982884_0",
-    "name": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
-    "category": "computer-vision",
-    "description": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes...",
-    "link": "http://arxiv.org/abs/2609.05416v1",
-    "tags": [
-      "AI",
-      "Robotics"
-    ],
-    "date": "2026-09-04T17:59:35Z",
-    "trending": false,
-    "source": "arXiv - Muyao Niu, Jixuan He, Ruihan Yu et al."
-  },
-  {
-    "id": "arxiv_1788811982885_1",
-    "name": "UniMate: One Unified Model to Animate Diverse Skeletons",
-    "category": "computer-vision",
-    "description": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: ...",
-    "link": "http://arxiv.org/abs/2609.05415v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "Diffusion",
-      "Optimization"
-    ],
-    "date": "2026-09-04T17:59:00Z",
-    "trending": true,
-    "source": "arXiv - Linzhan Mou, Jiahui Lei, Zhiyang Dou et al."
-  },
-  {
-    "id": "arxiv_1788811982955_0",
+    "id": "arxiv_1788822340220_0",
     "name": "UniMate: One Unified Model to Animate Diverse Skeletons",
     "category": "machine-learning",
     "description": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: ...",
@@ -46,7 +16,7 @@
     "source": "arXiv - Linzhan Mou, Jiahui Lei, Zhiyang Dou et al."
   },
   {
-    "id": "arxiv_1788811983023_0",
+    "id": "arxiv_1788822342947_0",
     "name": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
     "category": "nlp",
     "description": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longi...",
@@ -61,7 +31,7 @@
     "source": "arXiv - Ji Soo Lee, Xilun Chen, Pierce Chuang et al."
   },
   {
-    "id": "arxiv_1788811982635_0",
+    "id": "arxiv_1788822329529_0",
     "name": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
     "category": "ai",
     "description": "Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences ...",
@@ -75,7 +45,7 @@
     "source": "arXiv - Sihwa Park"
   },
   {
-    "id": "arxiv_1788811982636_1",
+    "id": "arxiv_1788822329529_1",
     "name": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
     "category": "ai",
     "description": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserv...",
@@ -87,11 +57,11 @@
       "BERT"
     ],
     "date": "2026-09-04T17:50:10Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Quoc H. Nguyen, Ali Lafzi, Abhijeet Phatak et al."
   },
   {
-    "id": "arxiv_1788811982955_1",
+    "id": "arxiv_1788822340220_1",
     "name": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
     "category": "machine-learning",
     "description": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserv...",
@@ -107,7 +77,7 @@
     "source": "arXiv - Quoc H. Nguyen, Ali Lafzi, Abhijeet Phatak et al."
   },
   {
-    "id": "arxiv_1788811983023_1",
+    "id": "arxiv_1788822342947_1",
     "name": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
     "category": "nlp",
     "description": "Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantical...",
@@ -118,53 +88,11 @@
       "Robotics"
     ],
     "date": "2026-09-04T17:47:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Wonje Jeung, Sangyeon Yoon, Hyesoo Hong et al."
   },
   {
-    "id": "arxiv_1788811982885_2",
-    "name": "A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks",
-    "category": "computer-vision",
-    "description": "When there is not enough labeled data to properly train deep learning models, transfer learning can help. We still do not fully understand how effective it is in neuroimaging, especially for Alzheimer...",
-    "link": "http://arxiv.org/abs/2609.05400v1",
-    "tags": [
-      "AI",
-      "Deep Learning",
-      "CNN"
-    ],
-    "date": "2026-09-04T17:47:28Z",
-    "trending": true,
-    "source": "arXiv - Reza Rajabli, D. Louis Collins"
-  },
-  {
-    "id": "arxiv_1788811982885_3",
-    "name": "From Interpretability Methods to Interpretable Models",
-    "category": "computer-vision",
-    "description": "More than a decade in, explainable AI (XAI) for computer vision has assembled a mature toolbox: attribution, feature visualization, concept-based, and circuit-based methods. Yet almost all of the fiel...",
-    "link": "http://arxiv.org/abs/2609.05399v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-04T17:46:33Z",
-    "trending": false,
-    "source": "arXiv - Julien Colin, Nuria Oliver, Thomas Serre"
-  },
-  {
-    "id": "arxiv_1788811982885_4",
-    "name": "CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation",
-    "category": "computer-vision",
-    "description": "Reliable 3D understanding of the surrounding environment is a core requirement for autonomous driving. Multi-view surround camera rigs provide broad scene coverage, but the spatially adjacent images t...",
-    "link": "http://arxiv.org/abs/2609.05397v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-04T17:45:06Z",
-    "trending": false,
-    "source": "arXiv - Samer Abualhanud, Max Mehltretter"
-  },
-  {
-    "id": "arxiv_1788811982636_2",
+    "id": "arxiv_1788822329529_2",
     "name": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
     "category": "ai",
     "description": "Wireless signals with position-related labels are pivotal for both performance evaluation and model training in the realm of wireless sensing. However, acquiring real-world datasets is often challenge...",
@@ -179,7 +107,7 @@
     "source": "arXiv - Yuxiao Li, Keke Hu, Santiago Mazuelas et al."
   },
   {
-    "id": "arxiv_1788811982636_3",
+    "id": "arxiv_1788822329530_3",
     "name": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
     "category": "ai",
     "description": "Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source mode...",
@@ -193,7 +121,7 @@
     "source": "arXiv - Dain Kim, Eungi Cho, Kyumin Kim et al."
   },
   {
-    "id": "arxiv_1788811983023_2",
+    "id": "arxiv_1788822342947_2",
     "name": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
     "category": "nlp",
     "description": "Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source mode...",
@@ -207,7 +135,7 @@
     "source": "arXiv - Dain Kim, Eungi Cho, Kyumin Kim et al."
   },
   {
-    "id": "arxiv_1788811982636_4",
+    "id": "arxiv_1788822329530_4",
     "name": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
     "category": "ai",
     "description": "LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor a...",
@@ -218,11 +146,11 @@
       "GPT"
     ],
     "date": "2026-09-04T17:37:17Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Urja Pawar, Rajitha Ramanayake, Nabeel Kemal et al."
   },
   {
-    "id": "arxiv_1788811982955_2",
+    "id": "arxiv_1788822340220_2",
     "name": "Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation",
     "category": "machine-learning",
     "description": "Trade-up recommendation identifies higher-quality alternatives that preserve a customer's purchase intent while offering upgraded benefits. Large language models (LLMs) can reason about such distincti...",
@@ -232,11 +160,11 @@
       "LLM"
     ],
     "date": "2026-09-04T17:08:50Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Siliang Liu, Mohammad Ghasemi, Sapan Patel et al."
   },
   {
-    "id": "arxiv_1788811983023_3",
+    "id": "arxiv_1788822342947_3",
     "name": "Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability",
     "category": "nlp",
     "description": "Model upgrades are routine; memory migrations are not. An agent can keep the same memory store and still forget: a new model may interpret old notes differently, mixed embedding versions may break ret...",
@@ -245,11 +173,11 @@
       "AI"
     ],
     "date": "2026-09-04T16:44:17Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ankit Goyal, Jaideep Ray"
   },
   {
-    "id": "arxiv_1788811982955_3",
+    "id": "arxiv_1788822340221_3",
     "name": "Variational Continuation for Double Pendulum Periodic Orbits",
     "category": "machine-learning",
     "description": "We present a Hessian-based approach to numerically continue periodic orbits in dynamical systems. A loop (periodic orbit candidate) is parametrized as a Fourier series; a loss function is defined base...",
@@ -258,11 +186,11 @@
       "Machine Learning"
     ],
     "date": "2026-09-04T16:42:51Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Leo Yao, Ziming Liu, Max Tegmark"
   },
   {
-    "id": "arxiv_1788811982955_4",
+    "id": "arxiv_1788822340222_4",
     "name": "Lightweight Vision Transformer Compression for On-Device Plant Disease Detection in Resource-Constrained Agricultural Field Conditions",
     "category": "machine-learning",
     "description": "Chilli (Capsicum annuum) is one of India's most economically significant crops, yet its productivity is persistently threatened by diseases that are difficult to identify without expert intervention. ...",
@@ -277,7 +205,7 @@
     "source": "arXiv - Mahadev Sunil Kumar, Bhavika Gondi, Desaisetty Venkata Satya Sai Swapnith et al."
   },
   {
-    "id": "arxiv_1788811983024_4",
+    "id": "arxiv_1788822342948_4",
     "name": "Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models",
     "category": "nlp",
     "description": "A transformer language model assigns a single, context-independent vector to a word type at its embedding layer, yet is widely believed to individuate that word's occurrences by context in its later l...",
