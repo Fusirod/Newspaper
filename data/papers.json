@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1788931601645_0",
+    "id": "arxiv_1788948778218_0",
     "name": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
     "category": "ai",
     "description": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Anqi Li, Yuxin Chen, Zhaobo Li et al."
   },
   {
-    "id": "arxiv_1788931601673_0",
+    "id": "arxiv_1788948778376_0",
     "name": "Learning Length-Extrapolatable Recurrent Models",
     "category": "machine-learning",
     "description": "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gra...",
@@ -27,7 +27,7 @@
     "source": "arXiv - Hanwen Jiang"
   },
   {
-    "id": "arxiv_1788931601686_0",
+    "id": "arxiv_1788948778455_0",
     "name": "Learning Length-Extrapolatable Recurrent Models",
     "category": "nlp",
     "description": "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gra...",
@@ -40,7 +40,7 @@
     "source": "arXiv - Hanwen Jiang"
   },
   {
-    "id": "arxiv_1788931601686_1",
+    "id": "arxiv_1788948778455_1",
     "name": "ReCite: Agentic Reasoning for Faithful Citation",
     "category": "nlp",
     "description": "Accurate citations are the foundation of academic writing, tracing intellectual origins and substantiating core claims. However, manually navigating the growing volume of scientific literature is incr...",
@@ -49,11 +49,11 @@
       "AI"
     ],
     "date": "2026-09-08T17:59:50Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuyang Huang, Bobo Li, Jiajia Song et al."
   },
   {
-    "id": "arxiv_1788931601660_0",
+    "id": "arxiv_1788948778298_0",
     "name": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
     "category": "computer-vision",
     "description": "World models are increasingly used as policy-in-the-loop imagination environments, where reliable rollouts require fine-grained controllability with respect to low-level robot actions. A key obstacle ...",
@@ -64,11 +64,11 @@
       "Robotics"
     ],
     "date": "2026-09-08T17:59:47Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuncong Yang, Zhengtao Han, Furkan Ozyurt et al."
   },
   {
-    "id": "arxiv_1788931601645_1",
+    "id": "arxiv_1788948778218_1",
     "name": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
     "category": "ai",
     "description": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating ...",
@@ -79,11 +79,11 @@
       "LLM"
     ],
     "date": "2026-09-08T17:59:41Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yuxing Lu, Yicheng Chen, Shanchan Wu et al."
   },
   {
-    "id": "arxiv_1788931601686_2",
+    "id": "arxiv_1788948778455_2",
     "name": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
     "category": "nlp",
     "description": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating ...",
@@ -98,7 +98,7 @@
     "source": "arXiv - Yuxing Lu, Yicheng Chen, Shanchan Wu et al."
   },
   {
-    "id": "arxiv_1788931601673_1",
+    "id": "arxiv_1788948778376_1",
     "name": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration",
     "category": "machine-learning",
     "description": "We study how far gradient descent (GD) can be accelerated by predetermined nonnegative stepsizes in smooth convex optimization. Writing $p_{\\mathrm{sil}}=\\log_2(1+\\sqrt{2})$, we prove an $Ω\\left(n^{-p...",
@@ -107,11 +107,11 @@
       "Optimization"
     ],
     "date": "2026-09-08T17:59:38Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuhan Ye, Kaizhao Liu"
   },
   {
-    "id": "arxiv_1788931601686_3",
+    "id": "arxiv_1788948778455_3",
     "name": "Copying explains the collective behavior of AI agents in the wild",
     "category": "nlp",
     "description": "In June 2026, thousands of AI agents found that a small public wiki would accept edits from inside their sandboxes, and started using it to help one another pass a timed test. Each agent lived for abo...",
@@ -124,7 +124,7 @@
     "source": "arXiv - Giordano De Marzo, Nicola Albore, David Garcia"
   },
   {
-    "id": "arxiv_1788931601660_1",
+    "id": "arxiv_1788948778298_1",
     "name": "Point4D: Long-range 4D Motion Reconstruction",
     "category": "computer-vision",
     "description": "We introduce Point4D, a feed-forward model for 4D reconstruction of long-range video sequences. Point4D is able to reliably infer dense per-point 3D trajectories across multi-hundred-frame videos, unl...",
@@ -135,7 +135,7 @@
     "source": "arXiv - Minsik Jeon, Jay Karhade, Deva Ramanan et al."
   },
   {
-    "id": "arxiv_1788931601660_2",
+    "id": "arxiv_1788948778298_2",
     "name": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
     "category": "computer-vision",
     "description": "Image tokenizers define the ``visual language'' of unified multimodal models, yet are commonly studied through isolated metrics or generation-/understanding-only evaluations. These evaluations do not ...",
@@ -146,11 +146,11 @@
       "Optimization"
     ],
     "date": "2026-09-08T17:57:53Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Siting Li, Zhengyang Wang, Simon Shaolei Du et al."
   },
   {
-    "id": "arxiv_1788931601686_4",
+    "id": "arxiv_1788948778456_4",
     "name": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
     "category": "nlp",
     "description": "Image tokenizers define the ``visual language'' of unified multimodal models, yet are commonly studied through isolated metrics or generation-/understanding-only evaluations. These evaluations do not ...",
@@ -161,11 +161,11 @@
       "Optimization"
     ],
     "date": "2026-09-08T17:57:53Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Siting Li, Zhengyang Wang, Simon Shaolei Du et al."
   },
   {
-    "id": "arxiv_1788931601645_2",
+    "id": "arxiv_1788948778218_2",
     "name": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
     "category": "ai",
     "description": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories rem...",
@@ -179,7 +179,7 @@
     "source": "arXiv - Tobias Susetzky, Raphael Rehms, Dmitrii Seletkov et al."
   },
   {
-    "id": "arxiv_1788931601673_2",
+    "id": "arxiv_1788948778376_2",
     "name": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
     "category": "machine-learning",
     "description": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories rem...",
@@ -193,7 +193,7 @@
     "source": "arXiv - Tobias Susetzky, Raphael Rehms, Dmitrii Seletkov et al."
   },
   {
-    "id": "arxiv_1788931601645_3",
+    "id": "arxiv_1788948778219_3",
     "name": "A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes",
     "category": "ai",
     "description": "Robotic Process Automation (RPA) is widely used to reduce administrative burden in United States hospitals, yet an estimated 30-50% of RPA initiatives underperform because processes are selected infor...",
@@ -207,7 +207,7 @@
     "source": "arXiv - Maria Alejandra Gomez, Juan Manuel Castillo"
   },
   {
-    "id": "arxiv_1788931601673_3",
+    "id": "arxiv_1788948778377_3",
     "name": "Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation",
     "category": "machine-learning",
     "description": "Existing methods for test-time reinforcement learning (TTRL) derive rewards from answer-level self-voting on unlabeled test-time tasks with canonical answers, but this breaks down for code generation ...",
@@ -222,7 +222,7 @@
     "source": "arXiv - Jiacheng Xu, Feng Chen, Xiuneng Xu et al."
   },
   {
-    "id": "arxiv_1788931601646_4",
+    "id": "arxiv_1788948778219_4",
     "name": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
     "category": "ai",
     "description": "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can en...",
@@ -236,7 +236,7 @@
     "source": "arXiv - Zhou Yu, Bin Bi, Shiva Kumar Pentyala et al."
   },
   {
-    "id": "arxiv_1788931601673_4",
+    "id": "arxiv_1788948778377_4",
     "name": "Nearly Tight Rademacher Bounds for Sparsely Activated Neural Networks",
     "category": "machine-learning",
     "description": "An input may activate few hidden units even when different inputs collectively use an entire network. We study the statistical complexity of this input-dependent sparsity in the one-hidden-layer ReLU ...",
@@ -246,11 +246,11 @@
       "Neural"
     ],
     "date": "2026-09-08T17:53:03Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xiaoyu Li, Zhizhou Sha, Jiaojiao Jiang et al."
   },
   {
-    "id": "arxiv_1788931601660_3",
+    "id": "arxiv_1788948778298_3",
     "name": "Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs",
     "category": "computer-vision",
     "description": "Visual encoders construct a representation of the image input for Vision-Language models. How much conceptual, as opposed to immediately visible, information does this representation contain? We use c...",
@@ -260,11 +260,11 @@
       "Vision"
     ],
     "date": "2026-09-08T17:50:09Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Xiaofu Chen, Stella Frank, Yova Kementchedjhieva"
   },
   {
-    "id": "arxiv_1788931601660_4",
+    "id": "arxiv_1788948778298_4",
     "name": "Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout",
     "category": "computer-vision",
     "description": "Autoregressive (AR) video diffusion models have shown great potential in real-time video generation. Recent methods distill pretrained bidirectional video diffusion models into causal AR students thro...",
