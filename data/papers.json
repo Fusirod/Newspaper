@@ -1,285 +1,278 @@
 [
   {
-    "id": "arxiv_1789004555594_0",
-    "name": "Beyond Weak Labels: Prompt-Guided Local Refinement for Weakly Supervised Water Segmentation in High-Resolution Multispectral Imagery",
+    "id": "arxiv_1789022610634_0",
+    "name": "Programmable World Model",
     "category": "computer-vision",
-    "description": "High-resolution water mapping supports environmental monitoring and related applications, but accurate pixel-level labels are difficult and costly to produce. Official hydrographic vectors provide sca...",
-    "link": "http://arxiv.org/abs/2609.10371v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-09T16:01:45Z",
-    "trending": false,
-    "source": "arXiv - Muhammad Farhan Humayun, Mohammad Imangholiloo, Afifah Shah et al."
-  },
-  {
-    "id": "arxiv_1789004555594_1",
-    "name": "AVSRBench: A Multi-Condition AVSR Benchmark",
-    "category": "computer-vision",
-    "description": "While AVSR has achieved sub-1% word error rates on the standard LRS3 benchmark, its reliance on broadcast speech obscures whether this reflects true generalization or just domain adaptation. To invest...",
-    "link": "http://arxiv.org/abs/2609.10366v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-09T15:58:44Z",
-    "trending": false,
-    "source": "arXiv - Rishabh Jain, Naomi Harte"
-  },
-  {
-    "id": "arxiv_1789004555367_0",
-    "name": "OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis",
-    "category": "ai",
-    "description": "Simultaneous assessment of medical imaging and patient records is often required in clinical diagnosis. However, standard machine learning algorithms cannot analyze these data types together. Meanwhil...",
-    "link": "http://arxiv.org/abs/2609.10364v1",
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "date": "2026-09-09T15:56:26Z",
-    "trending": true,
-    "source": "arXiv - Ayush Debnath, Ruelia Saha, Sudip Misra"
-  },
-  {
-    "id": "arxiv_1789004555821_0",
-    "name": "OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis",
-    "category": "machine-learning",
-    "description": "Simultaneous assessment of medical imaging and patient records is often required in clinical diagnosis. However, standard machine learning algorithms cannot analyze these data types together. Meanwhil...",
-    "link": "http://arxiv.org/abs/2609.10364v1",
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "date": "2026-09-09T15:56:26Z",
-    "trending": true,
-    "source": "arXiv - Ayush Debnath, Ruelia Saha, Sudip Misra"
-  },
-  {
-    "id": "arxiv_1789004555594_2",
-    "name": "SceneHI: High-Resolution 3D-Consistent Scene Texturing with Controllable Illumination",
-    "category": "computer-vision",
-    "description": "SceneHI is a framework that lifts high-resolution, illumination-aware priors from 2D diffusion models to perform 3D texture synthesis. It is the first to demonstrate that high-resolution textures, pre...",
-    "link": "http://arxiv.org/abs/2609.10363v1",
-    "tags": [
-      "Diffusion",
-      "Optimization"
-    ],
-    "date": "2026-09-09T15:56:02Z",
-    "trending": false,
-    "source": "arXiv - Athanasios Tragakis, Marco Aversa, Daniela Ivanova et al."
-  },
-  {
-    "id": "arxiv_1789004555821_1",
-    "name": "A Later Test Set Is Not a New Domain: Pretraining Familiarity Survives a Contamination-Free Hold-Out",
-    "category": "machine-learning",
-    "description": "Time-series foundation models are evaluated almost exclusively on public archives that predate them, so a strong score cannot be separated from having seen the test set during pretraining. The obvious...",
-    "link": "http://arxiv.org/abs/2609.10357v1",
+    "description": "Recent video world models generate increasingly realistic and interactive visual experiences, yet lack reliable mechanisms for maintaining persistent world state and enforcing programmable rules over ...",
+    "link": "http://arxiv.org/abs/2609.10540v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-09-09T15:52:55Z",
-    "trending": false,
-    "source": "arXiv - Mahdi Naser Moghadasi, Faezeh Ghaderi"
-  },
-  {
-    "id": "arxiv_1789004555594_3",
-    "name": "Spot-the-shift: Evaluating Grounded Image Difference Captioning of Long-term Changes",
-    "category": "computer-vision",
-    "description": "Long-term change understanding from images of the same place revisited over time is a challenging task with applications in map maintenance and urban infrastructure monitoring. Prior work addresses it...",
-    "link": "http://arxiv.org/abs/2609.10356v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-09T15:52:04Z",
-    "trending": false,
-    "source": "arXiv - Benedetta Liberatori, Nermin Samet, Paolo Rota et al."
-  },
-  {
-    "id": "arxiv_1789004555595_4",
-    "name": "Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs",
-    "category": "computer-vision",
-    "description": "Video understanding has rapidly evolved toward video large language models (VideoLLMs): systems that couple video representations with pretrained large language models and condition generation on a te...",
-    "link": "http://arxiv.org/abs/2609.10355v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GAN",
-      "LLM"
-    ],
-    "date": "2026-09-09T15:50:39Z",
-    "trending": false,
-    "source": "arXiv - Killian Steunou, Yannis Tevissen, Mounîm A. El Yacoubi"
-  },
-  {
-    "id": "arxiv_1789004555888_0",
-    "name": "Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs",
-    "category": "nlp",
-    "description": "Video understanding has rapidly evolved toward video large language models (VideoLLMs): systems that couple video representations with pretrained large language models and condition generation on a te...",
-    "link": "http://arxiv.org/abs/2609.10355v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GAN",
-      "LLM"
-    ],
-    "date": "2026-09-09T15:50:39Z",
-    "trending": false,
-    "source": "arXiv - Killian Steunou, Yannis Tevissen, Mounîm A. El Yacoubi"
-  },
-  {
-    "id": "arxiv_1789004555367_1",
-    "name": "Cyber-Financial Contagion: Modeling the Propagation of an AI Vendor Compromise Through the Banking System",
-    "category": "ai",
-    "description": "The banking system now depends on a small set of shared artificial intelligence vendors for fraud screening, credit decisioning, anti-money-laundering triage, customer analytics, and internal decision...",
-    "link": "http://arxiv.org/abs/2609.10350v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-09T15:46:16Z",
+    "date": "2026-09-09T17:59:32Z",
     "trending": true,
-    "source": "arXiv - Alex Leytes"
+    "source": "arXiv - Zheng-Hui Huang, Guixu Lin, Jiacheng Lin et al."
   },
   {
-    "id": "arxiv_1789004555821_2",
-    "name": "Cyber-Financial Contagion: Modeling the Propagation of an AI Vendor Compromise Through the Banking System",
-    "category": "machine-learning",
-    "description": "The banking system now depends on a small set of shared artificial intelligence vendors for fraud screening, credit decisioning, anti-money-laundering triage, customer analytics, and internal decision...",
-    "link": "http://arxiv.org/abs/2609.10350v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-09T15:46:16Z",
-    "trending": false,
-    "source": "arXiv - Alex Leytes"
-  },
-  {
-    "id": "arxiv_1789004555367_2",
-    "name": "Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs",
-    "category": "ai",
-    "description": "Multimodal large language models (MLLMs) process hundreds or thousands of visual tokens per image, incurring prohibitive inference costs. While existing vision token pruning methods mitigate this over...",
-    "link": "http://arxiv.org/abs/2609.10346v1",
+    "id": "arxiv_1789022610770_0",
+    "name": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
+    "category": "nlp",
+    "description": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of im...",
+    "link": "http://arxiv.org/abs/2609.10539v1",
     "tags": [
       "AI",
-      "Vision",
       "LLM"
     ],
-    "date": "2026-09-09T15:44:32Z",
+    "date": "2026-09-09T17:59:04Z",
     "trending": false,
-    "source": "arXiv - Haiji Liang, Pengfei Zhou, Zhenglin Wan et al."
+    "source": "arXiv - Yiling Ma, Yilun Zhao, Sihong Wu et al."
   },
   {
-    "id": "arxiv_1789004555821_3",
-    "name": "TimeCues Studio: A Workspace for Music Annotation and Algorithm Prototyping",
+    "id": "arxiv_1789022610702_0",
+    "name": "Likelihood-free inference with nuisance parameters through normalizing flows",
     "category": "machine-learning",
-    "description": "Multimedia applications require precise music annotation-labeled positions, segments, or loops-placed by hand or algorithmically. Machine-learning algorithms are scalable and effective but need annota...",
-    "link": "http://arxiv.org/abs/2609.10338v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-09T15:35:36Z",
-    "trending": false,
-    "source": "arXiv - Sapir Caduri, Yoav Goldberg"
-  },
-  {
-    "id": "arxiv_1789004555367_3",
-    "name": "From Symbolic Perception to Logical Deduction: A Framework for Guiding Language Models in Geometric Reasoning",
-    "category": "ai",
-    "description": "Plane geometry remains a significant challenge in AI, requiring the integration of visual perception and mathematical reasoning. While Large Multimodal Models (LMMs) naturally handle visuo-linguistic ...",
-    "link": "http://arxiv.org/abs/2609.10335v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-09-09T15:33:25Z",
-    "trending": false,
-    "source": "arXiv - Weichen Dai, Rafael Medeiros Cabral, Ziyi Shou et al."
-  },
-  {
-    "id": "arxiv_1789004555888_1",
-    "name": "From Symbolic Perception to Logical Deduction: A Framework for Guiding Language Models in Geometric Reasoning",
-    "category": "nlp",
-    "description": "Plane geometry remains a significant challenge in AI, requiring the integration of visual perception and mathematical reasoning. While Large Multimodal Models (LMMs) naturally handle visuo-linguistic ...",
-    "link": "http://arxiv.org/abs/2609.10335v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-09-09T15:33:25Z",
-    "trending": false,
-    "source": "arXiv - Weichen Dai, Rafael Medeiros Cabral, Ziyi Shou et al."
-  },
-  {
-    "id": "arxiv_1789004555888_2",
-    "name": "On-Policy Distillation for Vision-Language Model Adaptation, an Effective Paradigm on Low-Quality Multimodal Data",
-    "category": "nlp",
-    "description": "Knowledge distillation offers an efficient route to transfer a task-adapted vision-language teacher to a compact student. The training target in current vision-language distillation methods is typical...",
-    "link": "http://arxiv.org/abs/2609.10321v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-09T15:26:28Z",
-    "trending": false,
-    "source": "arXiv - Hongyuan Zhang, Xianda Guo, Yanlun Peng et al."
-  },
-  {
-    "id": "arxiv_1789004555368_4",
-    "name": "TRACE: Training Reasoning Agents for Causal Exploration with Synthesized Rewards",
-    "category": "ai",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) has advanced language-model reasoning in domains such as mathematics and code, where objective answers are inexpensive to check. Diagnostic reason...",
-    "link": "http://arxiv.org/abs/2609.10315v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-09-09T15:21:47Z",
-    "trending": false,
-    "source": "arXiv - Rui Sun, Zhan Shi, Bing He"
-  },
-  {
-    "id": "arxiv_1789004555821_4",
-    "name": "TRACE: Training Reasoning Agents for Causal Exploration with Synthesized Rewards",
-    "category": "machine-learning",
-    "description": "Reinforcement learning with verifiable rewards (RLVR) has advanced language-model reasoning in domains such as mathematics and code, where objective answers are inexpensive to check. Diagnostic reason...",
-    "link": "http://arxiv.org/abs/2609.10315v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-09-09T15:21:47Z",
-    "trending": true,
-    "source": "arXiv - Rui Sun, Zhan Shi, Bing He"
-  },
-  {
-    "id": "arxiv_1789004555888_3",
-    "name": "RiLM: Parameter-Efficient Language Modeling via Geodesic Decoding",
-    "category": "nlp",
-    "description": "Language models under one million parameters matter for edge deployment, domain adaptation, and reproducible research, yet a two-layer LSTM or Transformer at embedding width d = 128 still spends rough...",
-    "link": "http://arxiv.org/abs/2609.10305v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-09-09T15:16:31Z",
-    "trending": true,
-    "source": "arXiv - Fang Li"
-  },
-  {
-    "id": "arxiv_1789004555888_4",
-    "name": "The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Speech Decoding",
-    "category": "nlp",
-    "description": "Non-invasive speech decoding remains constrained by the low signal-to-noise ratio of neural recordings, which makes fine-grained reconstruction of phonemes or individual words difficult. Motivated by ...",
-    "link": "http://arxiv.org/abs/2609.10296v1",
+    "description": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sa...",
+    "link": "http://arxiv.org/abs/2609.10534v1",
     "tags": [
       "AI",
       "Neural"
     ],
-    "date": "2026-09-09T15:11:57Z",
+    "date": "2026-09-09T17:58:15Z",
+    "trending": false,
+    "source": "arXiv - Phil Assheton"
+  },
+  {
+    "id": "arxiv_1789022610634_1",
+    "name": "Guiding Image-to-3D Generation with Test-Time Partial Observations",
+    "category": "computer-vision",
+    "description": "Image-to-3D models can generate visually compelling 3D assets from a single RGB image, but their geometry is often only loosely constrained by the available observations, limiting their use in applica...",
+    "link": "http://arxiv.org/abs/2609.10531v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-09T17:58:04Z",
+    "trending": false,
+    "source": "arXiv - Jerred Chen, Simon Weber, Ronald Clark"
+  },
+  {
+    "id": "arxiv_1789022610702_1",
+    "name": "A positive resolution of the gap-entropy conjecture",
+    "category": "machine-learning",
+    "description": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, ...",
+    "link": "http://arxiv.org/abs/2609.10529v1",
+    "tags": [],
+    "date": "2026-09-09T17:57:11Z",
+    "trending": false,
+    "source": "arXiv - P. M. Aronow, Nathan Kallus, Patrick Lopatto"
+  },
+  {
+    "id": "arxiv_1789022610702_2",
+    "name": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
+    "category": "machine-learning",
+    "description": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a cou...",
+    "link": "http://arxiv.org/abs/2609.10525v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-09T17:54:30Z",
+    "trending": false,
+    "source": "arXiv - Xiaoyu Li, Andi Han, Jiaojiao Jiang et al."
+  },
+  {
+    "id": "arxiv_1789022610634_2",
+    "name": "Precision in Rice Variety Classification using Stacking-Based Ensemble Learning",
+    "category": "computer-vision",
+    "description": "Rice, a staple food for a significant portion of the global population, exhibits remarkable diversity in its varieties, presenting substantial challenges for accurate identification by consumers, trad...",
+    "link": "http://arxiv.org/abs/2609.10524v1",
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ],
+    "date": "2026-09-09T17:53:50Z",
+    "trending": false,
+    "source": "arXiv - Md. Masudul Islam, Galib Muhammad Shahriar Himel, Md. Golam Moazzam et al."
+  },
+  {
+    "id": "arxiv_1789022610565_0",
+    "name": "Show-Harness: Just a VLM Agent Can Play Robots",
+    "category": "ai",
+    "description": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harn...",
+    "link": "http://arxiv.org/abs/2609.10522v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-09-09T17:53:38Z",
     "trending": true,
-    "source": "arXiv - Gilad D. Landau, Dulhan Jayalath, Oiwi Parker Jones"
+    "source": "arXiv - Yanzhe Chen, Zechen Bai, Zhijun Cao et al."
+  },
+  {
+    "id": "arxiv_1789022610634_3",
+    "name": "Show-Harness: Just a VLM Agent Can Play Robots",
+    "category": "computer-vision",
+    "description": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harn...",
+    "link": "http://arxiv.org/abs/2609.10522v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-09-09T17:53:38Z",
+    "trending": false,
+    "source": "arXiv - Yanzhe Chen, Zechen Bai, Zhijun Cao et al."
+  },
+  {
+    "id": "arxiv_1789022610634_4",
+    "name": "BrainTaskonomy: Learning How to Pretrain and What to Transfer in fMRI Foundation Models",
+    "category": "computer-vision",
+    "description": "fMRI foundation models increasingly aggregate heterogeneous data across brain states, cohorts, and acquisition settings, yet pretraining domains are commonly treated as a flat mixture and downstream t...",
+    "link": "http://arxiv.org/abs/2609.10518v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-09-09T17:50:39Z",
+    "trending": true,
+    "source": "arXiv - Junfeng Xia, Wenhao Ye, Junxiang Zhang et al."
+  },
+  {
+    "id": "arxiv_1789022610702_3",
+    "name": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements",
+    "category": "machine-learning",
+    "description": "We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $\\varepsilon$, estimating an unknow...",
+    "link": "http://arxiv.org/abs/2609.10514v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-09T17:48:41Z",
+    "trending": true,
+    "source": "arXiv - Ashwin Nayak, Xingyu Zhou"
+  },
+  {
+    "id": "arxiv_1789022610703_4",
+    "name": "Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circuits Help Linear Classifiers",
+    "category": "machine-learning",
+    "description": "Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP)...",
+    "link": "http://arxiv.org/abs/2609.10505v1",
+    "tags": [
+      "AI",
+      "BERT"
+    ],
+    "date": "2026-09-09T17:41:27Z",
+    "trending": false,
+    "source": "arXiv - Menachem Finkelstein, Diana Legziel Levy, Zohar Yakhini et al."
+  },
+  {
+    "id": "arxiv_1789022610565_1",
+    "name": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
+    "category": "ai",
+    "description": "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model ...",
+    "link": "http://arxiv.org/abs/2609.10494v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-09-09T17:31:29Z",
+    "trending": false,
+    "source": "arXiv - Blake Stenstrom, Charangan Vasantharajan, Brian Sathianathan"
+  },
+  {
+    "id": "arxiv_1789022610770_1",
+    "name": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
+    "category": "nlp",
+    "description": "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model ...",
+    "link": "http://arxiv.org/abs/2609.10494v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-09-09T17:31:29Z",
+    "trending": false,
+    "source": "arXiv - Blake Stenstrom, Charangan Vasantharajan, Brian Sathianathan"
+  },
+  {
+    "id": "arxiv_1789022610565_2",
+    "name": "Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization",
+    "category": "ai",
+    "description": "Joint-Embedding Predictive Architecture (JEPA) world models learn a compact latent representation of the world that supports prediction and planning, but their capability to learn physics and generate...",
+    "link": "http://arxiv.org/abs/2609.10464v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-09-09T17:08:13Z",
+    "trending": false,
+    "source": "arXiv - Andy Zeyi Liu, Haoran Sun, Lucas Baker et al."
+  },
+  {
+    "id": "arxiv_1789022610566_3",
+    "name": "JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition",
+    "category": "ai",
+    "description": "Real-world GUI usage frequently involves workflows that span multiple devices and platforms, requiring the transfer of intermediate results, maintenance of shared state, and coordination across hetero...",
+    "link": "http://arxiv.org/abs/2609.10451v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-09T16:59:59Z",
+    "trending": false,
+    "source": "arXiv - Zixiang Chen, Yuheng Lu, Zihao Cheng et al."
+  },
+  {
+    "id": "arxiv_1789022610770_2",
+    "name": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
+    "category": "nlp",
+    "description": "Reasoning language models have made substantial advances on a variety of complex tasks, yet their capabilities remain overwhelmingly English-centric: models primarily reason in English regardless of t...",
+    "link": "http://arxiv.org/abs/2609.10445v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-09-09T16:56:25Z",
+    "trending": true,
+    "source": "arXiv - Mehrnaz Mofakhami, Ananya Sahu, Alejandro R. Salamanca et al."
+  },
+  {
+    "id": "arxiv_1789022610566_4",
+    "name": "ConvMem: Convolutional Memory for Long-Context Reasoning",
+    "category": "ai",
+    "description": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like ...",
+    "link": "http://arxiv.org/abs/2609.10441v1",
+    "tags": [
+      "AI",
+      "CNN",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-09-09T16:53:02Z",
+    "trending": false,
+    "source": "arXiv - Hongming Zhang, Zhaozhen Gu, Fengshuo Bai et al."
+  },
+  {
+    "id": "arxiv_1789022610771_3",
+    "name": "ConvMem: Convolutional Memory for Long-Context Reasoning",
+    "category": "nlp",
+    "description": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like ...",
+    "link": "http://arxiv.org/abs/2609.10441v1",
+    "tags": [
+      "AI",
+      "CNN",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-09-09T16:53:02Z",
+    "trending": true,
+    "source": "arXiv - Hongming Zhang, Zhaozhen Gu, Fengshuo Bai et al."
+  },
+  {
+    "id": "arxiv_1789022610771_4",
+    "name": "Do speech foundation models really learn words?",
+    "category": "nlp",
+    "description": "Self-supervised speech foundation models are now used in a wide array of downstream applications, including traditional speech recognition and as the basis for tokens in speech-aware language models. ...",
+    "link": "http://arxiv.org/abs/2609.10434v1",
+    "tags": [
+      "AI",
+      "BERT"
+    ],
+    "date": "2026-09-09T16:47:59Z",
+    "trending": false,
+    "source": "arXiv - Robin Huo, Ewan Dunbar"
   }
 ]
