@@ -1,6 +1,217 @@
 [
   {
-    "id": "arxiv_1789082934899_0",
+    "id": "arxiv_1789090896268_0",
+    "name": "RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation",
+    "category": "machine-learning",
+    "description": "Multivariate time series imputation (MTSI) aims to recover missing values in temporal data composed of multiple interdependent variables. This problem is central to real-world applications such as hea...",
+    "link": "http://arxiv.org/abs/2609.11648v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-09-10T14:53:38Z",
+    "trending": false,
+    "source": "arXiv - Ramiro Valdes Jara, David Chapman, Adam Meyers"
+  },
+  {
+    "id": "arxiv_1789090896092_0",
+    "name": "ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding",
+    "category": "ai",
+    "description": "Neural audio codecs are a fundamental component of modern speech generation systems. While recent codecs achieve increasingly low bitrates, reducing frame rate remains challenging, as each token must ...",
+    "link": "http://arxiv.org/abs/2609.11642v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Transformer"
+    ],
+    "date": "2026-09-10T14:49:54Z",
+    "trending": false,
+    "source": "arXiv - Luca Della Libera, Cem Subakan, Mirco Ravanelli"
+  },
+  {
+    "id": "arxiv_1789090896268_1",
+    "name": "ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding",
+    "category": "machine-learning",
+    "description": "Neural audio codecs are a fundamental component of modern speech generation systems. While recent codecs achieve increasingly low bitrates, reducing frame rate remains challenging, as each token must ...",
+    "link": "http://arxiv.org/abs/2609.11642v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Transformer"
+    ],
+    "date": "2026-09-10T14:49:54Z",
+    "trending": false,
+    "source": "arXiv - Luca Della Libera, Cem Subakan, Mirco Ravanelli"
+  },
+  {
+    "id": "arxiv_1789090896092_1",
+    "name": "LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics",
+    "category": "ai",
+    "description": "The energy transition is reshaping residential electricity consumption through the increasing adoption of distributed generation, electrified appliances, and demand-response programs. Understanding th...",
+    "link": "http://arxiv.org/abs/2609.11639v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-09-10T14:46:30Z",
+    "trending": false,
+    "source": "arXiv - Mariia Baranova, Adrien Petralia, Etienne Le Naour et al."
+  },
+  {
+    "id": "arxiv_1789090896268_2",
+    "name": "LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics",
+    "category": "machine-learning",
+    "description": "The energy transition is reshaping residential electricity consumption through the increasing adoption of distributed generation, electrified appliances, and demand-response programs. Understanding th...",
+    "link": "http://arxiv.org/abs/2609.11639v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-09-10T14:46:30Z",
+    "trending": true,
+    "source": "arXiv - Mariia Baranova, Adrien Petralia, Etienne Le Naour et al."
+  },
+  {
+    "id": "arxiv_1789090896268_3",
+    "name": "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation",
+    "category": "machine-learning",
+    "description": "We present Vidu S2, which comprises Vidu S2-Avatar, a real-time interactive digital-character model, and Vidu S2-Editing, a real-time video editing model. Moreover, we explore the feasibility of real-...",
+    "link": "http://arxiv.org/abs/2609.11638v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-10T14:46:07Z",
+    "trending": true,
+    "source": "arXiv - Jintao Zhang, Kai Jiang, Jintao Chen et al."
+  },
+  {
+    "id": "arxiv_1789090896092_2",
+    "name": "MAPLE: Memory-Augmented Planning with Language and Evolution",
+    "category": "ai",
+    "description": "Domain practitioners understand their business constraints but may lack operations-research expertise or dedicated support. LLM-based optimization agents translate natural-language requirements into m...",
+    "link": "http://arxiv.org/abs/2609.11636v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-09-10T14:44:50Z",
+    "trending": false,
+    "source": "arXiv - Kesheng Chen, Yamin Hu, Wenjian Luo"
+  },
+  {
+    "id": "arxiv_1789090896092_3",
+    "name": "Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices",
+    "category": "ai",
+    "description": "In this work, we develop an inverse Physics-Informed Neural Network (PINN) framework to infer the dependence of the scrape-off layer (SOL) perpendicular heat conductivity on plasma density and tempera...",
+    "link": "http://arxiv.org/abs/2609.11628v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-09-10T14:40:32Z",
+    "trending": true,
+    "source": "arXiv - J. Gallego, P. Protopapas, A. Bustos et al."
+  },
+  {
+    "id": "arxiv_1789090896292_0",
+    "name": "A Training-Free, Alignment-Free Approach to Corporate Intelligence: Application to SEC Filings",
+    "category": "nlp",
+    "description": "High-dimensional dense text embeddings and large language models face real obstacles in financial-disclosure analysis: context-window limits, hallucination risk, high computational cost, and the arbit...",
+    "link": "http://arxiv.org/abs/2609.11620v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-10T14:32:35Z",
+    "trending": false,
+    "source": "arXiv - Jean-François Delpech"
+  },
+  {
+    "id": "arxiv_1789090896092_4",
+    "name": "Distributed Optimization of Modular Production Systems using Model-based Reinforcement Learning with Inverse Models",
+    "category": "ai",
+    "description": "This paper presents a novel approach for data-driven self-learning control of highly flexible, modular manufacturing systems. Specifically, we employ a novel framework for model-based reinforcement le...",
+    "link": "http://arxiv.org/abs/2609.11615v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-09-10T14:30:52Z",
+    "trending": false,
+    "source": "arXiv - Andreas Schwung, Steve Yuwono, Sofiene Lassoued et al."
+  },
+  {
+    "id": "arxiv_1789090896268_4",
+    "name": "Distributed Optimization of Modular Production Systems using Model-based Reinforcement Learning with Inverse Models",
+    "category": "machine-learning",
+    "description": "This paper presents a novel approach for data-driven self-learning control of highly flexible, modular manufacturing systems. Specifically, we employ a novel framework for model-based reinforcement le...",
+    "link": "http://arxiv.org/abs/2609.11615v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-09-10T14:30:52Z",
+    "trending": false,
+    "source": "arXiv - Andreas Schwung, Steve Yuwono, Sofiene Lassoued et al."
+  },
+  {
+    "id": "arxiv_1789090896293_1",
+    "name": "Complex-Text Robustness Evaluation and Failure Diagnosis for Low-Resource Multilingual Text-to-Speech",
+    "category": "nlp",
+    "description": "Low-resource multilingual text-to-speech (TTS) systems have expanded language coverage, but their robustness under complex text inputs remains insufficiently diagnosed. Existing evaluations mainly foc...",
+    "link": "http://arxiv.org/abs/2609.11545v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-10T13:41:22Z",
+    "trending": false,
+    "source": "arXiv - Tianlun Zuo, Ziyu Zhang, Tingzhi Mao et al."
+  },
+  {
+    "id": "arxiv_1789090896293_2",
+    "name": "Structural priors for data-efficient language learning",
+    "category": "nlp",
+    "description": "Efficient language learning requires methods to reduce the reliance on large data and computational resources. We investigate structural transfer: First training models on non-language data to induce ...",
+    "link": "http://arxiv.org/abs/2609.11505v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-10T13:12:48Z",
+    "trending": false,
+    "source": "arXiv - Yana Veitsman, Jonas Mayer Martins, Jonathan Lautenschlager et al."
+  },
+  {
+    "id": "arxiv_1789090896293_3",
+    "name": "ReGround: Grounding Reviewer Comments in Multimodal Evidence",
+    "category": "nlp",
+    "description": "Reviewer comments naturally relate to specific parts of the reviewed paper, yet grounding these comments to the underlying evidence is difficult due to long multimodal documents. Existing benchmarks d...",
+    "link": "http://arxiv.org/abs/2609.11460v1",
+    "tags": [],
+    "date": "2026-09-10T12:32:58Z",
+    "trending": false,
+    "source": "arXiv - Serwar Basch, Lizhen Qu, Iryna Gurevych"
+  },
+  {
+    "id": "arxiv_1789090896293_4",
+    "name": "Cross-Lingual Clinical Annotation Projection as Constrained Text Generation: A Six-Language Study",
+    "category": "nlp",
+    "description": "Background: To determine whether cross-lingual clinical annotation projection can be formulated as a text-preserving, document-level generative task that produces verifiable character-level annotation...",
+    "link": "http://arxiv.org/abs/2609.11450v1",
+    "tags": [
+      "AI",
+      "NLP",
+      "LLM"
+    ],
+    "date": "2026-09-10T12:17:52Z",
+    "trending": false,
+    "source": "arXiv - Álvaro Rey-Blanes, Francisco J. Moreno-Barea, Francisco J. Veredas"
+  },
+  {
+    "id": "arxiv_1789090896115_0",
     "name": "Programmable World Model",
     "category": "computer-vision",
     "description": "Recent video world models generate increasingly realistic and interactive visual experiences, yet lack reliable mechanisms for maintaining persistent world state and enforcing programmable rules over ...",
@@ -13,35 +224,7 @@
     "source": "arXiv - Zheng-Hui Huang, Guixu Lin, Jiacheng Lin et al."
   },
   {
-    "id": "arxiv_1789082935058_0",
-    "name": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
-    "category": "nlp",
-    "description": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of im...",
-    "link": "http://arxiv.org/abs/2609.10539v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-09T17:59:04Z",
-    "trending": false,
-    "source": "arXiv - Yiling Ma, Yilun Zhao, Sihong Wu et al."
-  },
-  {
-    "id": "arxiv_1789082934979_0",
-    "name": "Likelihood-free inference with nuisance parameters through normalizing flows",
-    "category": "machine-learning",
-    "description": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sa...",
-    "link": "http://arxiv.org/abs/2609.10534v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-09-09T17:58:15Z",
-    "trending": false,
-    "source": "arXiv - Phil Assheton"
-  },
-  {
-    "id": "arxiv_1789082934899_1",
+    "id": "arxiv_1789090896115_1",
     "name": "Guiding Image-to-3D Generation with Test-Time Partial Observations",
     "category": "computer-vision",
     "description": "Image-to-3D models can generate visually compelling 3D assets from a single RGB image, but their geometry is often only loosely constrained by the available observations, limiting their use in applica...",
@@ -50,35 +233,11 @@
       "AI"
     ],
     "date": "2026-09-09T17:58:04Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jerred Chen, Simon Weber, Ronald Clark"
   },
   {
-    "id": "arxiv_1789082934979_1",
-    "name": "A positive resolution of the gap-entropy conjecture",
-    "category": "machine-learning",
-    "description": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, ...",
-    "link": "http://arxiv.org/abs/2609.10529v1",
-    "tags": [],
-    "date": "2026-09-09T17:57:11Z",
-    "trending": false,
-    "source": "arXiv - P. M. Aronow, Nathan Kallus, Patrick Lopatto"
-  },
-  {
-    "id": "arxiv_1789082934979_2",
-    "name": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
-    "category": "machine-learning",
-    "description": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a cou...",
-    "link": "http://arxiv.org/abs/2609.10525v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-09T17:54:30Z",
-    "trending": false,
-    "source": "arXiv - Xiaoyu Li, Andi Han, Jiaojiao Jiang et al."
-  },
-  {
-    "id": "arxiv_1789082934900_2",
+    "id": "arxiv_1789090896115_2",
     "name": "Precision in Rice Variety Classification using Stacking-Based Ensemble Learning",
     "category": "computer-vision",
     "description": "Rice, a staple food for a significant portion of the global population, exhibits remarkable diversity in its varieties, presenting substantial challenges for accurate identification by consumers, trad...",
@@ -92,21 +251,7 @@
     "source": "arXiv - Md. Masudul Islam, Galib Muhammad Shahriar Himel, Md. Golam Moazzam et al."
   },
   {
-    "id": "arxiv_1789082934818_0",
-    "name": "Show-Harness: Just a VLM Agent Can Play Robots",
-    "category": "ai",
-    "description": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harn...",
-    "link": "http://arxiv.org/abs/2609.10522v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-09T17:53:38Z",
-    "trending": false,
-    "source": "arXiv - Yanzhe Chen, Zechen Bai, Zhijun Cao et al."
-  },
-  {
-    "id": "arxiv_1789082934900_3",
+    "id": "arxiv_1789090896115_3",
     "name": "Show-Harness: Just a VLM Agent Can Play Robots",
     "category": "computer-vision",
     "description": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harn...",
@@ -120,7 +265,7 @@
     "source": "arXiv - Yanzhe Chen, Zechen Bai, Zhijun Cao et al."
   },
   {
-    "id": "arxiv_1789082934900_4",
+    "id": "arxiv_1789090896115_4",
     "name": "BrainTaskonomy: Learning How to Pretrain and What to Transfer in fMRI Foundation Models",
     "category": "computer-vision",
     "description": "fMRI foundation models increasingly aggregate heterogeneous data across brain states, cohorts, and acquisition settings, yet pretraining domains are commonly treated as a flat mixture and downstream t...",
@@ -130,149 +275,7 @@
       "GAN"
     ],
     "date": "2026-09-09T17:50:39Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Junfeng Xia, Wenhao Ye, Junxiang Zhang et al."
-  },
-  {
-    "id": "arxiv_1789082934979_3",
-    "name": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements",
-    "category": "machine-learning",
-    "description": "We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $\\varepsilon$, estimating an unknow...",
-    "link": "http://arxiv.org/abs/2609.10514v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-09T17:48:41Z",
-    "trending": false,
-    "source": "arXiv - Ashwin Nayak, Xingyu Zhou"
-  },
-  {
-    "id": "arxiv_1789082934980_4",
-    "name": "Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circuits Help Linear Classifiers",
-    "category": "machine-learning",
-    "description": "Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP)...",
-    "link": "http://arxiv.org/abs/2609.10505v1",
-    "tags": [
-      "AI",
-      "BERT"
-    ],
-    "date": "2026-09-09T17:41:27Z",
-    "trending": false,
-    "source": "arXiv - Menachem Finkelstein, Diana Legziel Levy, Zohar Yakhini et al."
-  },
-  {
-    "id": "arxiv_1789082934818_1",
-    "name": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
-    "category": "ai",
-    "description": "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model ...",
-    "link": "http://arxiv.org/abs/2609.10494v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-09T17:31:29Z",
-    "trending": false,
-    "source": "arXiv - Blake Stenstrom, Charangan Vasantharajan, Brian Sathianathan"
-  },
-  {
-    "id": "arxiv_1789082935058_1",
-    "name": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
-    "category": "nlp",
-    "description": "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model ...",
-    "link": "http://arxiv.org/abs/2609.10494v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-09T17:31:29Z",
-    "trending": false,
-    "source": "arXiv - Blake Stenstrom, Charangan Vasantharajan, Brian Sathianathan"
-  },
-  {
-    "id": "arxiv_1789082934818_2",
-    "name": "Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization",
-    "category": "ai",
-    "description": "Joint-Embedding Predictive Architecture (JEPA) world models learn a compact latent representation of the world that supports prediction and planning, but their capability to learn physics and generate...",
-    "link": "http://arxiv.org/abs/2609.10464v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-09-09T17:08:13Z",
-    "trending": false,
-    "source": "arXiv - Andy Zeyi Liu, Haoran Sun, Lucas Baker et al."
-  },
-  {
-    "id": "arxiv_1789082934818_3",
-    "name": "JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition",
-    "category": "ai",
-    "description": "Real-world GUI usage frequently involves workflows that span multiple devices and platforms, requiring the transfer of intermediate results, maintenance of shared state, and coordination across hetero...",
-    "link": "http://arxiv.org/abs/2609.10451v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-09T16:59:59Z",
-    "trending": false,
-    "source": "arXiv - Zixiang Chen, Yuheng Lu, Zihao Cheng et al."
-  },
-  {
-    "id": "arxiv_1789082935058_2",
-    "name": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
-    "category": "nlp",
-    "description": "Reasoning language models have made substantial advances on a variety of complex tasks, yet their capabilities remain overwhelmingly English-centric: models primarily reason in English regardless of t...",
-    "link": "http://arxiv.org/abs/2609.10445v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-09T16:56:25Z",
-    "trending": false,
-    "source": "arXiv - Mehrnaz Mofakhami, Ananya Sahu, Alejandro R. Salamanca et al."
-  },
-  {
-    "id": "arxiv_1789082934818_4",
-    "name": "ConvMem: Convolutional Memory for Long-Context Reasoning",
-    "category": "ai",
-    "description": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like ...",
-    "link": "http://arxiv.org/abs/2609.10441v1",
-    "tags": [
-      "AI",
-      "CNN",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-09-09T16:53:02Z",
-    "trending": false,
-    "source": "arXiv - Hongming Zhang, Zhaozhen Gu, Fengshuo Bai et al."
-  },
-  {
-    "id": "arxiv_1789082935059_3",
-    "name": "ConvMem: Convolutional Memory for Long-Context Reasoning",
-    "category": "nlp",
-    "description": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like ...",
-    "link": "http://arxiv.org/abs/2609.10441v1",
-    "tags": [
-      "AI",
-      "CNN",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-09-09T16:53:02Z",
-    "trending": true,
-    "source": "arXiv - Hongming Zhang, Zhaozhen Gu, Fengshuo Bai et al."
-  },
-  {
-    "id": "arxiv_1789082935059_4",
-    "name": "Do speech foundation models really learn words?",
-    "category": "nlp",
-    "description": "Self-supervised speech foundation models are now used in a wide array of downstream applications, including traditional speech recognition and as the basis for tokens in speech-aware language models. ...",
-    "link": "http://arxiv.org/abs/2609.10434v1",
-    "tags": [
-      "AI",
-      "BERT"
-    ],
-    "date": "2026-09-09T16:47:59Z",
-    "trending": true,
-    "source": "arXiv - Robin Huo, Ewan Dunbar"
   }
 ]
