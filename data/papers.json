@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1789169801321_0",
+    "id": "arxiv_1789177673880_0",
     "name": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
     "category": "ai",
     "description": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in mil...",
@@ -9,11 +9,11 @@
       "AI"
     ],
     "date": "2026-09-10T17:58:14Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Boning Li, Longbo Huang"
   },
   {
-    "id": "arxiv_1789169801321_1",
+    "id": "arxiv_1789177673880_1",
     "name": "General Quantification of Covariate and Concept Shifts",
     "category": "ai",
     "description": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from sampl...",
@@ -23,11 +23,11 @@
       "Machine Learning"
     ],
     "date": "2026-09-10T17:57:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hongbo Chen, Li Charlie Xia"
   },
   {
-    "id": "arxiv_1789169801602_0",
+    "id": "arxiv_1789177689359_0",
     "name": "General Quantification of Covariate and Concept Shifts",
     "category": "machine-learning",
     "description": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from sampl...",
@@ -41,7 +41,7 @@
     "source": "arXiv - Hongbo Chen, Li Charlie Xia"
   },
   {
-    "id": "arxiv_1789169801603_1",
+    "id": "arxiv_1789177689359_1",
     "name": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
     "category": "machine-learning",
     "description": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but...",
@@ -51,11 +51,11 @@
       "Transformer"
     ],
     "date": "2026-09-10T17:57:33Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Atindra Jha, Margaret Li, Jure Leskovec et al."
   },
   {
-    "id": "arxiv_1789169801686_0",
+    "id": "arxiv_1789177689399_0",
     "name": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
     "category": "nlp",
     "description": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but...",
@@ -65,11 +65,11 @@
       "Transformer"
     ],
     "date": "2026-09-10T17:57:33Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Atindra Jha, Margaret Li, Jure Leskovec et al."
   },
   {
-    "id": "arxiv_1789169801321_2",
+    "id": "arxiv_1789177673880_2",
     "name": "Can Edge-Deployable Vision-Language Models Identify Species?",
     "category": "ai",
     "description": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relev...",
@@ -83,7 +83,7 @@
     "source": "arXiv - William Zhou, Mayukha Siripuram, Xiao Yan et al."
   },
   {
-    "id": "arxiv_1789169801321_3",
+    "id": "arxiv_1789177673880_3",
     "name": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
     "category": "ai",
     "description": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative...",
@@ -93,11 +93,11 @@
       "Optimization"
     ],
     "date": "2026-09-10T17:57:28Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Masahiro Kato, Daiki Honma, Taka Kato"
   },
   {
-    "id": "arxiv_1789169801603_2",
+    "id": "arxiv_1789177689360_2",
     "name": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
     "category": "machine-learning",
     "description": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative...",
@@ -111,7 +111,7 @@
     "source": "arXiv - Masahiro Kato, Daiki Honma, Taka Kato"
   },
   {
-    "id": "arxiv_1789169801686_1",
+    "id": "arxiv_1789177689399_1",
     "name": "Distance generalization in transformers: why bother with positional encoding?",
     "category": "nlp",
     "description": "Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which pro...",
@@ -121,11 +121,11 @@
       "Transformer"
     ],
     "date": "2026-09-10T17:57:19Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Daniel Henrik Nevermann, Claudius Gros"
   },
   {
-    "id": "arxiv_1789169801321_4",
+    "id": "arxiv_1789177673880_4",
     "name": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
     "category": "ai",
     "description": "Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current ...",
@@ -134,11 +134,11 @@
       "AI"
     ],
     "date": "2026-09-10T17:56:41Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yakov Pyotr Shkolnikov"
   },
   {
-    "id": "arxiv_1789169801604_3",
+    "id": "arxiv_1789177689360_3",
     "name": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good",
     "category": "machine-learning",
     "description": "Artificial Intelligence does more than create a governance problem. It can also reveal where institutions have already failed to provide responsiveness, belonging, care, and accountability. Once deplo...",
@@ -151,7 +151,7 @@
     "source": "arXiv - Nitesh V. Chawla, Paulo Benanti"
   },
   {
-    "id": "arxiv_1789169801604_4",
+    "id": "arxiv_1789177689360_4",
     "name": "TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription",
     "category": "machine-learning",
     "description": "Automatic Music Transcription (AMT) for guitar remains limited by three challenges: existing systems often fail to capture expressive techniques such as slides, bends, and percussive hits; they often ...",
@@ -160,11 +160,11 @@
       "AI"
     ],
     "date": "2026-09-10T17:55:12Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Akshaj Gupta, Hwi Joo Park, Andrea Guzman et al."
   },
   {
-    "id": "arxiv_1789169801686_2",
+    "id": "arxiv_1789177689400_2",
     "name": "MindTopo: Can Foundation Models Reason in Topological Space?",
     "category": "nlp",
     "description": "Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also on topological relations that remain invariant under continuous deformation. Cognitive science iden...",
@@ -179,7 +179,7 @@
     "source": "arXiv - Yunfei Ge, Anbang Liu, Qineng Wang et al."
   },
   {
-    "id": "arxiv_1789169801686_3",
+    "id": "arxiv_1789177689400_3",
     "name": "Nuha-Speech: Building General-Purpose Arabic Speech-LLMs",
     "category": "nlp",
     "description": "As Speech Large Language Models (speech-LLMs) become increasingly multilingual, Arabic remains significantly underrepresented, highlighting the need for dedicated infrastructure to train and evaluate ...",
@@ -189,11 +189,11 @@
       "LLM"
     ],
     "date": "2026-09-10T17:50:35Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yingzhi Wang, Reem Alhazzani, Muhammad Alqurishi"
   },
   {
-    "id": "arxiv_1789169801686_4",
+    "id": "arxiv_1789177689400_4",
     "name": "Domain-Specific Hallucination Detection in Large Language Models",
     "category": "nlp",
     "description": "Large language models generate fluent text that can contain unfaithful claims -- a phenomenon known as hallucination. We present a multi-signal detection pipeline combining fine-tuned DeBERTa-v3 class...",
@@ -205,7 +205,7 @@
       "Optimization"
     ],
     "date": "2026-09-10T17:45:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Varun Teja Chundru, Debasmita Biswas"
   }
 ]
