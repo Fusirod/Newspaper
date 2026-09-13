@@ -1,1 +1,75 @@
-[]
+[
+  {
+    "id": "arxiv_1789326146380_0",
+    "name": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+    "category": "nlp",
+    "description": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but...",
+    "link": "http://arxiv.org/abs/2609.11917v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-09-10T17:57:33Z",
+    "trending": false,
+    "source": "arXiv - Atindra Jha, Margaret Li, Jure Leskovec et al."
+  },
+  {
+    "id": "arxiv_1789326146380_1",
+    "name": "Distance generalization in transformers: why bother with positional encoding?",
+    "category": "nlp",
+    "description": "Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which pro...",
+    "link": "http://arxiv.org/abs/2609.11913v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-09-10T17:57:19Z",
+    "trending": false,
+    "source": "arXiv - Daniel Henrik Nevermann, Claudius Gros"
+  },
+  {
+    "id": "arxiv_1789326146380_2",
+    "name": "MindTopo: Can Foundation Models Reason in Topological Space?",
+    "category": "nlp",
+    "description": "Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also on topological relations that remain invariant under continuous deformation. Cognitive science iden...",
+    "link": "http://arxiv.org/abs/2609.11900v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-09-10T17:54:32Z",
+    "trending": true,
+    "source": "arXiv - Yunfei Ge, Anbang Liu, Qineng Wang et al."
+  },
+  {
+    "id": "arxiv_1789326146380_3",
+    "name": "Nuha-Speech: Building General-Purpose Arabic Speech-LLMs",
+    "category": "nlp",
+    "description": "As Speech Large Language Models (speech-LLMs) become increasingly multilingual, Arabic remains significantly underrepresented, highlighting the need for dedicated infrastructure to train and evaluate ...",
+    "link": "http://arxiv.org/abs/2609.11892v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-10T17:50:35Z",
+    "trending": true,
+    "source": "arXiv - Yingzhi Wang, Reem Alhazzani, Muhammad Alqurishi"
+  },
+  {
+    "id": "arxiv_1789326146381_4",
+    "name": "Domain-Specific Hallucination Detection in Large Language Models",
+    "category": "nlp",
+    "description": "Large language models generate fluent text that can contain unfaithful claims -- a phenomenon known as hallucination. We present a multi-signal detection pipeline combining fine-tuned DeBERTa-v3 class...",
+    "link": "http://arxiv.org/abs/2609.11878v1",
+    "tags": [
+      "AI",
+      "NLP",
+      "BERT",
+      "Optimization"
+    ],
+    "date": "2026-09-10T17:45:36Z",
+    "trending": false,
+    "source": "arXiv - Varun Teja Chundru, Debasmita Biswas"
+  }
+]
