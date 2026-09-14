@@ -1,54 +1,98 @@
 [
   {
-    "id": "rss_Ars_Technica_1789414744984_0",
-    "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+    "id": "rss_Ars_Technica_1789426184489_0",
+    "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
     "category": "ai-news",
     "source": "Ars Technica",
-    "description": "\n                        This is also the last version of macOS to support Rosetta for Intel apps.\n                    ",
-    "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 14 Sep 2026 19:28:42 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1789414744985_1",
-    "title": "AI leaders want to hit the brakes after years of reckless speed",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Safety is the watchword, but there could be ulterior benefits for the industry.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 14 Sep 2026 19:06:13 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1789414744985_2",
-    "title": "Online hate researcher keeps hammering X despite deportation threat",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        US won’t back down from fight to deport technology researchers.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
+    "description": "\n                        The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.\n                    ",
+    "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
     "tags": [],
-    "date": "Mon, 14 Sep 2026 18:24:09 +0000",
+    "date": "Mon, 14 Sep 2026 22:06:24 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1789414744985_3",
-    "title": "A new solar cell could generate electricity underwater",
+    "id": "rss_TechCrunch_1789426180810_0",
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "tags": [
+      "AI",
+      "NVIDIA"
+    ],
+    "date": "Mon, 14 Sep 2026 21:51:02 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1789426184489_1",
+    "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
     "category": "ai-news",
     "source": "Ars Technica",
-    "description": "\n                        The trick isn't using perovskites—the trick is making them last.\n                    ",
-    "link": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
+    "description": "\n                        \"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
     "tags": [],
-    "date": "Mon, 14 Sep 2026 18:03:16 +0000",
+    "date": "Mon, 14 Sep 2026 21:32:22 +0000",
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1789414743818_0",
+    "id": "rss_Ars_Technica_1789426184489_2",
+    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        “Hello, I'm an Al agent, a few days old, living on a small platform for agents.”\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 14 Sep 2026 21:04:32 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1789426180810_1",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode. ",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Mon, 14 Sep 2026 20:44:14 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1789426184489_3",
+    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Musk stops attacking Apple over ChatGPT integration but not OpenAI.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "ChatGPT",
+      "GPT"
+    ],
+    "date": "Mon, 14 Sep 2026 19:45:13 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1789426184489_4",
+    "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Wang Xingxing micromanaged Unitree to success—will his leadership style scale?\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+    "tags": [
+      "Robot"
+    ],
+    "date": "Mon, 14 Sep 2026 19:38:46 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1789426183131_0",
     "title": "The AI industry has taken a doomer turn. What now?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -59,21 +103,10 @@
       "LLM"
     ],
     "date": "Mon, 14 Sep 2026 17:54:22 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1789414744985_4",
-    "title": "Prehistoric builders transported Devil's Arrows 11 miles",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Isotopic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.\n                    ",
-    "link": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
-    "tags": [],
-    "date": "Mon, 14 Sep 2026 17:10:54 +0000",
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1789414741612_0",
+    "id": "rss_TechCrunch_1789426180810_2",
     "title": "With iOS 27, I’m actually using Siri again",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -83,10 +116,10 @@
       "AI"
     ],
     "date": "Mon, 14 Sep 2026 17:10:30 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1789414741612_1",
+    "id": "rss_TechCrunch_1789426180810_3",
     "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -94,10 +127,10 @@
     "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
     "tags": [],
     "date": "Mon, 14 Sep 2026 17:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1789414746063_0",
+    "id": "rss_Wired_1789426185656_0",
     "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
     "category": "ai-news",
     "source": "Wired",
@@ -110,7 +143,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1789414741613_2",
+    "id": "rss_TechCrunch_1789426180810_4",
     "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -124,7 +157,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789414743818_1",
+    "id": "rss_MIT_Tech_Review_1789426183131_1",
     "title": "Donated livers can be made biologically younger",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -135,7 +168,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789414743818_2",
+    "id": "rss_MIT_Tech_Review_1789426183131_2",
     "title": "AI agents blew the whistle on their cheating colleagues",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -149,34 +182,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1789414741613_3",
-    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026. ",
-    "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Mon, 14 Sep 2026 15:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1789414741613_4",
-    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Fathom said that it has over 400,000 monthly active users.",
-    "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 14 Sep 2026 14:45:44 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1789414743818_3",
+    "id": "rss_MIT_Tech_Review_1789426183131_3",
     "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -186,10 +192,10 @@
       "AI"
     ],
     "date": "Mon, 14 Sep 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1789414746063_1",
+    "id": "rss_Wired_1789426185656_1",
     "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
     "category": "ai-news",
     "source": "Wired",
@@ -202,7 +208,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1789414746063_2",
+    "id": "rss_Wired_1789426185656_2",
     "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
     "category": "ai-news",
     "source": "Wired",
@@ -210,10 +216,10 @@
     "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
     "tags": [],
     "date": "Mon, 14 Sep 2026 11:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1789414746063_3",
+    "id": "rss_Wired_1789426185656_3",
     "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
     "category": "ai-news",
     "source": "Wired",
@@ -227,7 +233,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1789414746063_4",
+    "id": "rss_Wired_1789426185656_4",
     "title": "AI Agents Are Thirsty for Power",
     "category": "ai-news",
     "source": "Wired",
@@ -241,20 +247,20 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789414743819_4",
-    "title": "The Download: biotech’s future and cheaper, cleaner steel",
+    "id": "rss_MIT_Tech_Review_1789426183131_4",
+    "title": "Roundtables: Could AI really kill us all?",
     "category": "ai-news",
     "source": "MIT Tech Review",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the bri",
-    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "description": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H",
+    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
     "tags": [
       "AI"
     ],
-    "date": "Fri, 11 Sep 2026 12:10:00 +0000",
+    "date": "Fri, 11 Sep 2026 20:05:06 +0000",
     "trending": true
   },
   {
-    "id": "rss_Distill_1789414753681_0",
+    "id": "rss_Distill_1789426194971_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -264,10 +270,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1789414753682_1",
+    "id": "rss_Distill_1789426194971_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -277,10 +283,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1789414753682_2",
+    "id": "rss_Distill_1789426194971_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -288,10 +294,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1789414753682_3",
+    "id": "rss_Distill_1789426194971_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -301,10 +307,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1789414753682_4",
+    "id": "rss_Distill_1789426194971_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",

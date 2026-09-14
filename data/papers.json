@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1789414741414_0",
+    "id": "arxiv_1789426119134_0",
     "name": "SNAP3D: Physically Grounded 3D Parts for Assembly from a Single Image",
     "category": "computer-vision",
     "description": "Part-aware 3D asset generation enables applications such as editing, articulation, simulation, and fabrication, yet existing methods can generate visually complete individual parts without ensuring th...",
@@ -13,36 +13,7 @@
     "source": "arXiv - Yu-Rou Tuan, Hao-Tang Tsui, Nicolas Ugrinovic et al."
   },
   {
-    "id": "arxiv_1789414741459_0",
-    "name": "Type Diversity Enables Transformers to Generalise Compositionally",
-    "category": "nlp",
-    "description": "Compositional generalisation has been divided into lexical and structural generalisation. Previous work has found that structural generalisation is harder than lexical for Transformers. We propose tha...",
-    "link": "http://arxiv.org/abs/2609.13144v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-09-11T17:59:07Z",
-    "trending": false,
-    "source": "arXiv - Anssi Moisio, Mathias Creutz, Mikko Kurimo"
-  },
-  {
-    "id": "arxiv_1789414741459_1",
-    "name": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
-    "category": "nlp",
-    "description": "Post-training attention sparsification reduces the quadratic cumulative attention cost of pretrained Transformers by selecting a small set of context units (tokens or blocks) for each query. Existing ...",
-    "link": "http://arxiv.org/abs/2609.13141v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "Optimization"
-    ],
-    "date": "2026-09-11T17:58:06Z",
-    "trending": false,
-    "source": "arXiv - Zhiwei Li, Lei Zhu, Hao Gu et al."
-  },
-  {
-    "id": "arxiv_1789414741414_1",
+    "id": "arxiv_1789426119134_1",
     "name": "Recurrent Dynamic Range Extension",
     "category": "computer-vision",
     "description": "We present an approach to progressively extend the highlights of an image. Instead of reconstructing the full dynamic range of a complex scene directly, we learn a simpler task first: We extend the dy...",
@@ -55,7 +26,7 @@
     "source": "arXiv - Sebastian Dille, Keru Fu, S. Mahdi H. Miangoleh et al."
   },
   {
-    "id": "arxiv_1789414741392_0",
+    "id": "arxiv_1789426119069_0",
     "name": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention",
     "category": "ai",
     "description": "Frontier language models are more aggressively using subquadratic attention to reduce the memory footprint and compute requirements during inference while still delivering frontier accuracy. While exi...",
@@ -70,7 +41,7 @@
     "source": "arXiv - Arya Tschand, Yaosheng Fu, Vikram Sharma Mailthody et al."
   },
   {
-    "id": "arxiv_1789414741392_1",
+    "id": "arxiv_1789426119069_1",
     "name": "A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios",
     "category": "ai",
     "description": "Accurate prediction of equity returns remains a major challenge in computational finance due to the non-stationary, nonlinear, and low signal-to-noise ratio nature of financial time series. This paper...",
@@ -79,11 +50,11 @@
       "AI"
     ],
     "date": "2026-09-11T17:51:47Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Seif ElDein Mostafa, Yahia Ahmed, Farah Datwish et al."
   },
   {
-    "id": "arxiv_1789414741392_2",
+    "id": "arxiv_1789426119069_2",
     "name": "CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation",
     "category": "ai",
     "description": "Dance-to-music (D2M) generation aims to synthesize music that is rhythmically and stylistically aligned with dance videos. A key challenge arises from the semantic mismatch between sparse dance cues, ...",
@@ -97,32 +68,7 @@
     "source": "arXiv - Jinting Wang, Chenxing Li, Dong Yu et al."
   },
   {
-    "id": "arxiv_1789414741459_2",
-    "name": "Continue, Adapt, or Yield: In-Turn Adaptation to Overlapping Speech in Full-Duplex Agents",
-    "category": "nlp",
-    "description": "Full-duplex evaluation often emphasizes whether an agent keeps speaking or stops. That binary cannot express a third response humans use routinely: continuing to speak while incorporating what the lis...",
-    "link": "http://arxiv.org/abs/2609.13117v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-11T17:46:10Z",
-    "trending": false,
-    "source": "arXiv - Yunqi Lu, Tyler Baumgartner, Nikhil Johri et al."
-  },
-  {
-    "id": "arxiv_1789414741442_0",
-    "name": "A Ranking Approach for Measuring Calibration",
-    "category": "machine-learning",
-    "description": "When providing forecasted probabilities with a predictive model, the ideal model offers perfect calibration: the true probability of the outcome (i.e., the probability that $Y=1$) exactly matches the ...",
-    "link": "http://arxiv.org/abs/2609.13100v1",
-    "tags": [],
-    "date": "2026-09-11T17:34:25Z",
-    "trending": false,
-    "source": "arXiv - Anirban Chatterjee, Rina Foygel Barber"
-  },
-  {
-    "id": "arxiv_1789414741393_3",
+    "id": "arxiv_1789426119069_3",
     "name": "ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC",
     "category": "ai",
     "description": "In urban search and rescue, articulated tracked robots (ATRs) must traverse structured but contact-rich environments such as stairwells and cluttered building interiors. Reliable autonomy remains chal...",
@@ -138,7 +84,7 @@
     "source": "arXiv - Zhenfeng Gan, Yanbo Chen, Lirong Che et al."
   },
   {
-    "id": "arxiv_1789414741393_4",
+    "id": "arxiv_1789426119070_4",
     "name": "Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction",
     "category": "ai",
     "description": "Agentic systems offer a promising way to automate embodied benchmark construction, but existing approaches typically cover isolated stages or remain specialized to predefined environments and task fam...",
@@ -152,91 +98,7 @@
     "source": "arXiv - Baoyang Jiang, Fengchun Zhang, Leyuan Wang et al."
   },
   {
-    "id": "arxiv_1789414741459_3",
-    "name": "MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant",
-    "category": "nlp",
-    "description": "Conversational voice agents have advanced significantly, offering increasingly natural human-machine interactions through both cascaded and end-to-end architectures. However, while recent benchmarks e...",
-    "link": "http://arxiv.org/abs/2609.13076v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-11T17:11:55Z",
-    "trending": false,
-    "source": "arXiv - Yi-Jen Shih, Shih-Yun Shan Kuan, Guan-Ting Lin et al."
-  },
-  {
-    "id": "arxiv_1789414741442_1",
-    "name": "Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval",
-    "category": "machine-learning",
-    "description": "Recent breakthroughs in LLM-based systems and their abilities in problem solving and coding have allowed progress in the AI for Science paradigm, potentially replacing human roles in machine learning ...",
-    "link": "http://arxiv.org/abs/2609.13073v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-09-11T17:09:15Z",
-    "trending": false,
-    "source": "arXiv - Junghyun Min, Huseyin Uzunalioglu, Mohamed Trabelsi"
-  },
-  {
-    "id": "arxiv_1789414741442_2",
-    "name": "MAxBench: A Multinomial Concept Recovery Benchmark",
-    "category": "machine-learning",
-    "description": "Fine-grained control of language model behaviors (e.g., steering) is among the more actionable outcomes of interpretability research. For binary concepts such as refusal, a single direction in activat...",
-    "link": "http://arxiv.org/abs/2609.13072v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-11T17:08:57Z",
-    "trending": false,
-    "source": "arXiv - Divya Appapogu, Freya Behrens, Yonatan Belinkov et al."
-  },
-  {
-    "id": "arxiv_1789414741459_4",
-    "name": "MAxBench: A Multinomial Concept Recovery Benchmark",
-    "category": "nlp",
-    "description": "Fine-grained control of language model behaviors (e.g., steering) is among the more actionable outcomes of interpretability research. For binary concepts such as refusal, a single direction in activat...",
-    "link": "http://arxiv.org/abs/2609.13072v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-11T17:08:57Z",
-    "trending": true,
-    "source": "arXiv - Divya Appapogu, Freya Behrens, Yonatan Belinkov et al."
-  },
-  {
-    "id": "arxiv_1789414741442_3",
-    "name": "CanvasAnneal: Curriculum Reinforcement Learning for Diffusion Language Models",
-    "category": "machine-learning",
-    "description": "Diffusion Language Models (DLMs) offer promising parallel generation capabilities but lag behind autoregressive models in complex reasoning and tool-use tasks. While Reinforcement Learning (RL) has re...",
-    "link": "http://arxiv.org/abs/2609.13060v1",
-    "tags": [
-      "AI",
-      "Diffusion",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-09-11T16:59:52Z",
-    "trending": true,
-    "source": "arXiv - Blake Olson, Yuhang Song, Emmett McQuinn et al."
-  },
-  {
-    "id": "arxiv_1789414741442_4",
-    "name": "Benign Loss Landscapes Can Coexist with Worst-Case Hardness",
-    "category": "machine-learning",
-    "description": "Deep neural networks are expressive enough to contain worst-case targets that can be evaluated in polynomial time but cannot be learned in polynomial time by gradient descent. For practical tasks they...",
-    "link": "http://arxiv.org/abs/2609.13057v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-09-11T16:57:02Z",
-    "trending": false,
-    "source": "arXiv - Zach Furman, Stephan Wäldchen, Yangda Bei et al."
-  },
-  {
-    "id": "arxiv_1789414741414_2",
+    "id": "arxiv_1789426119134_2",
     "name": "Unified CT and MRI Pancreas Segmentation for Label-Efficient Cross-Modality Subregion Transfer",
     "category": "computer-vision",
     "description": "Robust medical image segmentation across imaging modalities is challenging because of large differences in appearance and intensity distributions. Models trained on a single modality often show substa...",
@@ -245,11 +107,11 @@
       "AI"
     ],
     "date": "2026-09-11T16:40:25Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ziliang Hong, Hongyi Pan, Halil Ertugrul Aktas et al."
   },
   {
-    "id": "arxiv_1789414741414_3",
+    "id": "arxiv_1789426119135_3",
     "name": "Label-Guided Knowledge Distillation for 3D-CNNs in Action Recognition",
     "category": "computer-vision",
     "description": "As a key model compression technique, knowledge distillation aims to transfer knowledge from a high-capacity teacher model to a lightweight student model for enhancing the latter's performance. In thi...",
@@ -259,11 +121,11 @@
       "CNN"
     ],
     "date": "2026-09-11T16:21:21Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yanjiang Shi, Peng Zhao, Nan Qi et al."
   },
   {
-    "id": "arxiv_1789414741414_4",
+    "id": "arxiv_1789426119135_4",
     "name": "TileNet: Tile-Based CNN-SVM Architecture for Autonomous Unmanned Aerial Systems Inspection of Flat Roofs",
     "category": "computer-vision",
     "description": "Flat roofs are among the most influential components of the building envelope, governing both structural performance and thermal efficiency, and thereby contributing directly to household energy consu...",
@@ -275,7 +137,7 @@
       "CNN"
     ],
     "date": "2026-09-11T16:11:35Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Samuel Dunthorne, Hashim A. Hashim"
   }
 ]
