@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1789542007471_0",
+    "id": "arxiv_1789561615455_0",
     "name": "Agentic Societies Need a Social Harness",
     "category": "ai",
     "description": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentall...",
@@ -9,11 +9,11 @@
       "AI"
     ],
     "date": "2026-09-15T17:57:27Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Tapan Chugh, Vidushi Singh, Krish Jain et al."
   },
   {
-    "id": "arxiv_1789542007471_1",
+    "id": "arxiv_1789561615455_1",
     "name": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
     "category": "ai",
     "description": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports rese...",
@@ -23,11 +23,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-09-15T17:55:28Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Shuhan Xue, Jianyuan Zhong, Ziyuan Nan et al."
   },
   {
-    "id": "arxiv_1789542008045_0",
+    "id": "arxiv_1789561615511_0",
     "name": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
     "category": "nlp",
     "description": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports rese...",
@@ -37,11 +37,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-09-15T17:55:28Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Shuhan Xue, Jianyuan Zhong, Ziyuan Nan et al."
   },
   {
-    "id": "arxiv_1789542007471_2",
+    "id": "arxiv_1789561615456_2",
     "name": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
     "category": "ai",
     "description": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the f...",
@@ -50,11 +50,11 @@
       "AI"
     ],
     "date": "2026-09-15T17:55:13Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Chuhao Chen, Peter Wonka, Chaoyang Wang et al."
   },
   {
-    "id": "arxiv_1789542007696_0",
+    "id": "arxiv_1789561615476_0",
     "name": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
     "category": "computer-vision",
     "description": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the f...",
@@ -63,13 +63,27 @@
       "AI"
     ],
     "date": "2026-09-15T17:55:13Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Chuhao Chen, Peter Wonka, Chaoyang Wang et al."
   },
   {
-    "id": "arxiv_1789542007471_3",
+    "id": "arxiv_1789561615456_3",
     "name": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
     "category": "ai",
+    "description": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment condit...",
+    "link": "http://arxiv.org/abs/2609.17516v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-15T17:52:24Z",
+    "trending": true,
+    "source": "arXiv - Ali Şenol"
+  },
+  {
+    "id": "arxiv_1789561615511_1",
+    "name": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+    "category": "nlp",
     "description": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment condit...",
     "link": "http://arxiv.org/abs/2609.17516v1",
     "tags": [
@@ -81,21 +95,7 @@
     "source": "arXiv - Ali Şenol"
   },
   {
-    "id": "arxiv_1789542008045_1",
-    "name": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
-    "category": "nlp",
-    "description": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment condit...",
-    "link": "http://arxiv.org/abs/2609.17516v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-15T17:52:24Z",
-    "trending": true,
-    "source": "arXiv - Ali Şenol"
-  },
-  {
-    "id": "arxiv_1789542008045_2",
+    "id": "arxiv_1789561615511_2",
     "name": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
     "category": "nlp",
     "description": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation i...",
@@ -110,7 +110,7 @@
     "source": "arXiv - Congjing Zhang, Vashishtha Patil, Henning Lange et al."
   },
   {
-    "id": "arxiv_1789542007471_4",
+    "id": "arxiv_1789561615456_4",
     "name": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
     "category": "ai",
     "description": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate t...",
@@ -120,11 +120,11 @@
       "Neural"
     ],
     "date": "2026-09-15T17:46:51Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Thanapat Trachu, Samuele Cornell, William Chen et al."
   },
   {
-    "id": "arxiv_1789542008045_3",
+    "id": "arxiv_1789561615511_3",
     "name": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
     "category": "nlp",
     "description": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate t...",
@@ -138,7 +138,7 @@
     "source": "arXiv - Thanapat Trachu, Samuele Cornell, William Chen et al."
   },
   {
-    "id": "arxiv_1789542007775_0",
+    "id": "arxiv_1789561615493_0",
     "name": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
     "category": "machine-learning",
     "description": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decision...",
@@ -148,11 +148,11 @@
       "Vision"
     ],
     "date": "2026-09-15T17:42:15Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Vicky Feliren, A. Taufiq Asyhari, Muhamad Risqi U. Saputra"
   },
   {
-    "id": "arxiv_1789542008045_4",
+    "id": "arxiv_1789561615511_4",
     "name": "Verifiable Social Reasoning for LLM Assistants",
     "category": "nlp",
     "description": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns ...",
@@ -166,7 +166,7 @@
     "source": "arXiv - Amir Taubenfeld, Zorik Gekhman, Avigail Grinstein-Dabush et al."
   },
   {
-    "id": "arxiv_1789542007775_1",
+    "id": "arxiv_1789561615494_1",
     "name": "FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection",
     "category": "machine-learning",
     "description": "Unauthorized hardware replacement can preserve a wireless device's logical identity while altering its physical implementation, posing a challenge to hardware integrity verification. Spatio-frequency ...",
@@ -179,7 +179,7 @@
     "source": "arXiv - Xiaoxuan Huang, Jinlong Xu, YiZhe Wang et al."
   },
   {
-    "id": "arxiv_1789542007776_2",
+    "id": "arxiv_1789561615494_2",
     "name": "Bridging the Gap Between Homogeneous and Heterogeneous Asynchronous Optimization Is Surprisingly Difficult",
     "category": "machine-learning",
     "description": "Modern large-scale machine learning tasks often require multiple workers, devices, CPUs, or GPUs to compute stochastic gradients in parallel and asynchronously to train model weights. Theoretical resu...",
@@ -190,11 +190,11 @@
       "Optimization"
     ],
     "date": "2026-09-15T17:24:09Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Alexander Tyurin"
   },
   {
-    "id": "arxiv_1789542007696_1",
+    "id": "arxiv_1789561615476_1",
     "name": "Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection",
     "category": "computer-vision",
     "description": "Despite the rapid uptake of black-box object detectors in marine mammal research and monitoring, explainability techniques are rarely integrated into conservation workflows. Furthermore, most classifi...",
@@ -208,7 +208,7 @@
     "source": "arXiv - Jiayi Zhou, David W. Johnston, Brinnae Bent"
   },
   {
-    "id": "arxiv_1789542007776_3",
+    "id": "arxiv_1789561615494_3",
     "name": "Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory",
     "category": "machine-learning",
     "description": "The absolute capacity of dense associative memory has mainly been analyzed for unbiased patterns. Here we examine the effect of bias in centered binary patterns under the Krotov-Hopfield single-site c...",
@@ -221,7 +221,7 @@
     "source": "arXiv - Yuto Sakurai, Takeaki Shimokawa, Kazunori Iwata et al."
   },
   {
-    "id": "arxiv_1789542007776_4",
+    "id": "arxiv_1789561615494_4",
     "name": "Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
     "category": "machine-learning",
     "description": "Large language model (LLM) distillation aims to transfer the capabilities of a powerful teacher to a smaller student. Direct imitation, however, can also transfer the teacher's systematic bias and err...",
@@ -235,7 +235,7 @@
     "source": "arXiv - Haichen Hu, Yuheng Zhang, David Simchi-Levi"
   },
   {
-    "id": "arxiv_1789542007697_2",
+    "id": "arxiv_1789561615476_2",
     "name": "Tables Decoded: DELTA for Structure, TARQA for Understanding",
     "category": "computer-vision",
     "description": "Table understanding is a core task in document intelligence, encompassing two key subtasks: table reconstruction and table visual question answering (TabVQA). While recent approaches predominantly rel...",
@@ -250,7 +250,7 @@
     "source": "arXiv - Jahanvi Rajput, Dhruv Kudale, Saikiran Kasturi et al."
   },
   {
-    "id": "arxiv_1789542007697_3",
+    "id": "arxiv_1789561615476_3",
     "name": "ORCA: Occlusion-Aware Refinement and Completion for Novel View Synthesis",
     "category": "computer-vision",
     "description": "Novel-view synthesis from a single image is a fundamentally ambiguous problem. As the camera moves away from the input viewpoint, previously hidden regions become visible, exposing missing geometry an...",
@@ -259,11 +259,11 @@
       "AI"
     ],
     "date": "2026-09-15T16:53:54Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Weronika Jakubowska, Maciej Zięba, Przemysław Spurek"
   },
   {
-    "id": "arxiv_1789542007697_4",
+    "id": "arxiv_1789561615477_4",
     "name": "BrainFocus: EEG-Guided ROI Selection for Efficient Vision-Language Models",
     "category": "computer-vision",
     "description": "Vision-language models (VLMs) achieve strong visual question answering (VQA) performance, but processing large cluttered images is computationally expensive when only a small region is relevant. Elect...",
@@ -274,7 +274,7 @@
       "Vision"
     ],
     "date": "2026-09-15T16:51:13Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yihui Peng, Guorui Lu, Qinyu Chen"
   }
 ]
