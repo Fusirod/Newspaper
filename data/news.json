@@ -1,6 +1,95 @@
 [
   {
-    "id": "rss_Ars_Technica_1789590655735_0",
+    "id": "rss_Wired_1789600741591_0",
+    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+    "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 16 Sep 2026 22:07:24 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1789600740453_0",
+    "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Planned 2029 debut could make this Apple’s first enterprise server in decades.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 16 Sep 2026 22:02:46 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1789600740453_1",
+    "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
+    "tags": [],
+    "date": "Wed, 16 Sep 2026 21:42:09 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1789600740453_2",
+    "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Group plans to be largely out of commission for several weeks.\n                    ",
+    "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+    "tags": [],
+    "date": "Wed, 16 Sep 2026 21:08:14 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1789600737127_0",
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 16 Sep 2026 21:07:24 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1789600741591_1",
+    "title": "Washington Won’t Be Regulating AI Anytime Soon",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+    "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 16 Sep 2026 21:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1789600740453_3",
+    "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood. \n                    ",
+    "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 16 Sep 2026 20:44:41 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1789600740453_4",
     "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -8,10 +97,10 @@
     "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
     "tags": [],
     "date": "Wed, 16 Sep 2026 20:23:16 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1789590652070_0",
+    "id": "rss_TechCrunch_1789600737127_1",
     "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -25,31 +114,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1789590655735_1",
-    "title": "California may gut state net neutrality law to comply with Trump admin demand",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Trump admin broadband grants forbid states from enforcing net neutrality laws.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
-    "tags": [],
-    "date": "Wed, 16 Sep 2026 19:36:44 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1789590655735_2",
-    "title": "Researchers swap in human brain cells for a mouse's cortex",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The results are only a slight improvement over missing the entire brain structure.\n                    ",
-    "link": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 16 Sep 2026 19:08:34 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1789590656899_0",
+    "id": "rss_Wired_1789600741591_2",
     "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
     "category": "ai-news",
     "source": "Wired",
@@ -59,21 +124,10 @@
       "AI"
     ],
     "date": "Wed, 16 Sep 2026 19:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1789590655735_3",
-    "title": "Scientists develop new method for deciphering ancient scrolls",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Even a handheld XRF scanner is sufficient to determine most promising scrolls for further analysis.\n                    ",
-    "link": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
-    "tags": [],
-    "date": "Wed, 16 Sep 2026 18:43:23 +0000",
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1789590652070_1",
+    "id": "rss_TechCrunch_1789600737127_2",
     "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -83,21 +137,10 @@
       "AI"
     ],
     "date": "Wed, 16 Sep 2026 18:25:25 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1789590655735_4",
-    "title": "The Specialized Diverge Pro 4 makes rough gravel your playground",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The Diverge Pro 4 is happiest when the road gets ugly.\n                    ",
-    "link": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
-    "tags": [],
-    "date": "Wed, 16 Sep 2026 18:11:53 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1789590652070_2",
+    "id": "rss_TechCrunch_1789600737127_3",
     "title": "Your AI agents can now control your Google Home devices",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -110,10 +153,10 @@
       "GPT"
     ],
     "date": "Wed, 16 Sep 2026 17:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1789590652070_3",
+    "id": "rss_TechCrunch_1789600737127_4",
     "title": "Anthropic merges Claude chat and Cowork in one interface",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -124,23 +167,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1789590652070_4",
-    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
-    "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-    "tags": [
-      "AI",
-      "NVIDIA",
-      "ChatGPT",
-      "GPT"
-    ],
-    "date": "Wed, 16 Sep 2026 15:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1789590654374_0",
+    "id": "rss_MIT_Tech_Review_1789600739255_0",
     "title": "Meet a mouse whose brain cortex is made up of human cells",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -153,7 +180,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789590654374_1",
+    "id": "rss_MIT_Tech_Review_1789600739256_1",
     "title": "Building the materials foundation for AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -163,10 +190,10 @@
       "AI"
     ],
     "date": "Wed, 16 Sep 2026 12:47:34 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1789590654374_2",
+    "id": "rss_MIT_Tech_Review_1789600739256_2",
     "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -180,7 +207,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1789590656899_1",
+    "id": "rss_Wired_1789600741591_3",
     "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
     "category": "ai-news",
     "source": "Wired",
@@ -193,7 +220,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1789590656899_2",
+    "id": "rss_Wired_1789600741591_4",
     "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
     "category": "ai-news",
     "source": "Wired",
@@ -206,7 +233,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789590654374_3",
+    "id": "rss_MIT_Tech_Review_1789600739256_3",
     "title": "Roundtables: Could AI really kill us all?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -219,7 +246,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789590654374_4",
+    "id": "rss_MIT_Tech_Review_1789600739256_4",
     "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -233,33 +260,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1789590656899_3",
-    "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims.",
-    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 14 Sep 2026 16:50:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1789590656899_4",
-    "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
-    "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 14 Sep 2026 11:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1789590666399_0",
+    "id": "rss_Distill_1789600749338_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -272,7 +273,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1789590666399_1",
+    "id": "rss_Distill_1789600749338_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -285,7 +286,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1789590666399_2",
+    "id": "rss_Distill_1789600749338_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -296,7 +297,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1789590666399_3",
+    "id": "rss_Distill_1789600749338_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -306,10 +307,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1789590666399_4",
+    "id": "rss_Distill_1789600749338_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
