@@ -1,19 +1,83 @@
 [
   {
-    "id": "rss_TechCrunch_1789677488615_0",
+    "id": "rss_TechCrunch_1789686613356_0",
+    "title": "PrismML hopes its tiny LLM will change how we all use AI",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "If AI lab PrismML isn't on your radar yet, it should be.",
+    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "Thu, 17 Sep 2026 22:34:09 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1789686617051_0",
+    "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The USPSTF sets insurance coverage from preventive services, like colonoscopies.\n                    ",
+    "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+    "tags": [],
+    "date": "Thu, 17 Sep 2026 22:31:28 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1789686618189_0",
+    "title": "Here’s What the AI Apocalypse Could Look Like",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 17 Sep 2026 22:20:21 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1789686613356_1",
+    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.  ",
+    "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 17 Sep 2026 22:14:59 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1789686617051_1",
+    "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Scaleout deploys decentralized AI-driven learning to military bases and drones.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 17 Sep 2026 22:12:58 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1789686613356_2",
     "title": "The fix for rogue AI agents could be more AI",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "Y Combinator has funded 106 companies related to AI observability in recent years",
+    "description": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review. ",
     "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
     "tags": [
       "AI"
     ],
     "date": "Thu, 17 Sep 2026 20:34:47 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1789677488616_1",
+    "id": "rss_TechCrunch_1789686613356_3",
     "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -28,7 +92,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1789677492351_0",
+    "id": "rss_Ars_Technica_1789686617051_2",
     "title": "Google announces new experimental \"CC\" AI agent for families",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -42,7 +106,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1789677488616_2",
+    "id": "rss_TechCrunch_1789686613356_4",
     "title": "Is the AI safety debate about safety or control?",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -55,7 +119,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1789677492351_1",
+    "id": "rss_Ars_Technica_1789686617051_3",
     "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -70,21 +134,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1789677488616_3",
-    "title": "UN turns to Google to make its global data ready for AI agents",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-    "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Thu, 17 Sep 2026 20:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1789677493453_0",
+    "id": "rss_Wired_1789686618189_1",
     "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
     "category": "ai-news",
     "source": "Wired",
@@ -94,25 +144,10 @@
       "AI"
     ],
     "date": "Thu, 17 Sep 2026 19:58:28 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1789677488616_4",
-    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
-    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "Microsoft"
-    ],
-    "date": "Thu, 17 Sep 2026 19:46:08 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1789677492351_2",
+    "id": "rss_Ars_Technica_1789686617051_4",
     "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -125,7 +160,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1789677493453_1",
+    "id": "rss_Wired_1789686618189_2",
     "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
     "category": "ai-news",
     "source": "Wired",
@@ -140,32 +175,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1789677492351_3",
-    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        SynthID can cause models to follow harmful instructions they would otherwise refuse.\n                    ",
-    "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "Thu, 17 Sep 2026 18:33:13 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1789677492351_4",
-    "title": "IV drips used for \"detoxification\" actually filled with toxins; dozens poisoned",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The IV drips included glutathione, which was not made to be injected.\n                    ",
-    "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
-    "tags": [],
-    "date": "Thu, 17 Sep 2026 17:43:50 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1789677490978_0",
+    "id": "rss_MIT_Tech_Review_1789686615771_0",
     "title": "The Download: mice with part-human brains and climate tech innovators",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -178,7 +188,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789677490978_1",
+    "id": "rss_MIT_Tech_Review_1789686615771_1",
     "title": "Meet the innovators under 35 shaping climate tech",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -189,7 +199,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1789677493453_2",
+    "id": "rss_Wired_1789686618189_3",
     "title": "An OpenAI Agent Tried to Jailbreak Itself",
     "category": "ai-news",
     "source": "Wired",
@@ -200,10 +210,10 @@
       "OpenAI"
     ],
     "date": "Wed, 16 Sep 2026 22:07:24 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1789677493453_3",
+    "id": "rss_Wired_1789686618189_4",
     "title": "Washington Won’t Be Regulating AI Anytime Soon",
     "category": "ai-news",
     "source": "Wired",
@@ -216,20 +226,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1789677493453_4",
-    "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
-    "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 16 Sep 2026 19:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1789677490978_2",
+    "id": "rss_MIT_Tech_Review_1789686615771_2",
     "title": "Meet a mouse whose brain cortex is made up of human cells",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -239,10 +236,10 @@
       "AI"
     ],
     "date": "Wed, 16 Sep 2026 15:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1789677490978_3",
+    "id": "rss_MIT_Tech_Review_1789686615771_3",
     "title": "Building the materials foundation for AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -252,10 +249,10 @@
       "AI"
     ],
     "date": "Wed, 16 Sep 2026 12:47:34 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789677490978_4",
+    "id": "rss_MIT_Tech_Review_1789686615771_4",
     "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -266,10 +263,10 @@
       "OpenAI"
     ],
     "date": "Wed, 16 Sep 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1789677502593_0",
+    "id": "rss_Distill_1789686627195_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -282,7 +279,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1789677502593_1",
+    "id": "rss_Distill_1789686627195_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -292,10 +289,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1789677502593_2",
+    "id": "rss_Distill_1789686627195_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -306,7 +303,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1789677502593_3",
+    "id": "rss_Distill_1789686627195_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -319,7 +316,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1789677502593_4",
+    "id": "rss_Distill_1789686627195_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",

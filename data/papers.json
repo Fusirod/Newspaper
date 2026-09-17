@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1789677488263_0",
+    "id": "arxiv_1789686612966_0",
     "name": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
     "category": "ai",
     "description": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. l...",
@@ -9,11 +9,11 @@
       "AI"
     ],
     "date": "2026-09-16T17:59:45Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ahmetcan Yavuz, Clara Meister, Tiago Pimentel"
   },
   {
-    "id": "arxiv_1789677488479_0",
+    "id": "arxiv_1789686613138_0",
     "name": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
     "category": "nlp",
     "description": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. l...",
@@ -26,7 +26,7 @@
     "source": "arXiv - Ahmetcan Yavuz, Clara Meister, Tiago Pimentel"
   },
   {
-    "id": "arxiv_1789677488263_1",
+    "id": "arxiv_1789686612966_1",
     "name": "A Zeroth-Order Paradigm for LLM Preference Alignment",
     "category": "ai",
     "description": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement ...",
@@ -41,7 +41,7 @@
     "source": "arXiv - Peter Chen, Xi Chen, Wotao Yin et al."
   },
   {
-    "id": "arxiv_1789677488407_0",
+    "id": "arxiv_1789686613081_0",
     "name": "A Zeroth-Order Paradigm for LLM Preference Alignment",
     "category": "machine-learning",
     "description": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement ...",
@@ -52,11 +52,11 @@
       "Optimization"
     ],
     "date": "2026-09-16T17:59:35Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Peter Chen, Xi Chen, Wotao Yin et al."
   },
   {
-    "id": "arxiv_1789677488479_1",
+    "id": "arxiv_1789686613138_1",
     "name": "A Zeroth-Order Paradigm for LLM Preference Alignment",
     "category": "nlp",
     "description": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement ...",
@@ -71,7 +71,7 @@
     "source": "arXiv - Peter Chen, Xi Chen, Wotao Yin et al."
   },
   {
-    "id": "arxiv_1789677488335_0",
+    "id": "arxiv_1789686613024_0",
     "name": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
     "category": "computer-vision",
     "description": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image ca...",
@@ -81,11 +81,11 @@
       "Vision"
     ],
     "date": "2026-09-16T17:59:30Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Sara Pieri, Evangelos Kazakos, Shizhe Chen et al."
   },
   {
-    "id": "arxiv_1789677488335_1",
+    "id": "arxiv_1789686613025_1",
     "name": "PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics",
     "category": "computer-vision",
     "description": "World models endow perceptual systems with the ability to predict how scenes evolve under interaction. They are most beneficial when trained on diverse volumes of data, to instill a rich prior into do...",
@@ -95,11 +95,11 @@
       "Transformer"
     ],
     "date": "2026-09-16T17:59:30Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Bardienus P. Duisterhof, Kaifeng Zhang, Adam Hung et al."
   },
   {
-    "id": "arxiv_1789677488479_2",
+    "id": "arxiv_1789686613138_2",
     "name": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
     "category": "nlp",
     "description": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image ca...",
@@ -109,11 +109,11 @@
       "Vision"
     ],
     "date": "2026-09-16T17:59:30Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Sara Pieri, Evangelos Kazakos, Shizhe Chen et al."
   },
   {
-    "id": "arxiv_1789677488335_2",
+    "id": "arxiv_1789686613025_2",
     "name": "In-Context Robot Learning with VLM Agents",
     "category": "computer-vision",
     "description": "Enabling robots to adapt to unfamiliar environments as readily as humans remains a moonshot goal of embodied AI. No finite collection of demonstrations can cover every task and situation a robot will ...",
@@ -124,11 +124,11 @@
       "GPT"
     ],
     "date": "2026-09-16T17:58:35Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Dongzhou Cheng, Taoran Yi, Ye Fang et al."
   },
   {
-    "id": "arxiv_1789677488263_2",
+    "id": "arxiv_1789686612967_2",
     "name": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
     "category": "ai",
     "description": "Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, ...",
@@ -137,11 +137,11 @@
       "AI"
     ],
     "date": "2026-09-16T17:56:44Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Guanhua Ji, Tianyu Li, Dayoon Suh et al."
   },
   {
-    "id": "arxiv_1789677488407_1",
+    "id": "arxiv_1789686613081_1",
     "name": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
     "category": "machine-learning",
     "description": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horiz...",
@@ -150,11 +150,11 @@
       "AI"
     ],
     "date": "2026-09-16T17:56:12Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Pranaya Jajoo"
   },
   {
-    "id": "arxiv_1789677488480_3",
+    "id": "arxiv_1789686613139_3",
     "name": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
     "category": "nlp",
     "description": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria ma...",
@@ -168,7 +168,7 @@
     "source": "arXiv - Hejia Geng, Zesen Huang, Haoyang Li et al."
   },
   {
-    "id": "arxiv_1789677488263_3",
+    "id": "arxiv_1789686612967_3",
     "name": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
     "category": "ai",
     "description": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-proc...",
@@ -177,11 +177,11 @@
       "AI"
     ],
     "date": "2026-09-16T17:50:42Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - João Meneses dos Santos, Arlindo L. Oliveira"
   },
   {
-    "id": "arxiv_1789677488407_2",
+    "id": "arxiv_1789686613081_2",
     "name": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
     "category": "machine-learning",
     "description": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-proc...",
@@ -194,7 +194,7 @@
     "source": "arXiv - João Meneses dos Santos, Arlindo L. Oliveira"
   },
   {
-    "id": "arxiv_1789677488263_4",
+    "id": "arxiv_1789686612967_4",
     "name": "Affora: A Design System for Agent-Friendly Interfaces",
     "category": "ai",
     "description": "Computer-use agents increasingly operate software designed for people, but interfaces often leave actions or task state unclear to machine readers. We present Affora, a design system that supports bot...",
@@ -207,7 +207,7 @@
     "source": "arXiv - Jin Gao"
   },
   {
-    "id": "arxiv_1789677488335_3",
+    "id": "arxiv_1789686613025_3",
     "name": "Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Signal Representation",
     "category": "computer-vision",
     "description": "Visual signals require compact yet sufficient representations for robust downstream prediction. Convolutional sparse coding (CSC) provides an explicit mechanism for suppressing redundant components wh...",
@@ -221,7 +221,7 @@
     "source": "arXiv - Meng'en Qin, Yinchen Liu, Mingxuan Cui et al."
   },
   {
-    "id": "arxiv_1789677488335_4",
+    "id": "arxiv_1789686613025_4",
     "name": "Track, Articulate, Act: Generating Articulation from Casual Human Videos",
     "category": "computer-vision",
     "description": "Human videos contain rich causal evidence for robot manipulation: they reveal how hand motion induces object motion and produces task-relevant changes in object state. In this work, we study articulat...",
@@ -231,11 +231,11 @@
       "Vision"
     ],
     "date": "2026-09-16T17:43:12Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jiaming Zhang, Homanga Bharadhwaj"
   },
   {
-    "id": "arxiv_1789677488480_4",
+    "id": "arxiv_1789686613139_4",
     "name": "Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models",
     "category": "nlp",
     "description": "We evaluate six frontier language models on the two-agent $\\log(N)$-Questions game. A questioner sees $N$ Wikipedia lead paragraphs and must identify a secretly chosen target using exactly $\\log_2 N$ ...",
@@ -249,7 +249,7 @@
     "source": "arXiv - Peter Potash"
   },
   {
-    "id": "arxiv_1789677488408_3",
+    "id": "arxiv_1789686613082_3",
     "name": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
     "category": "machine-learning",
     "description": "Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading ...",
@@ -264,7 +264,7 @@
     "source": "arXiv - Zixi Chen, Akshay Vegesna, Samip Dahal et al."
   },
   {
-    "id": "arxiv_1789677488408_4",
+    "id": "arxiv_1789686613082_4",
     "name": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
     "category": "machine-learning",
     "description": "As models scale, reward hacking becomes more frequent, more sophisticated, and more consequential. Does it leave a telltale signature in model representations? This work analyzes how reward hacking is...",
@@ -274,7 +274,7 @@
       "LLM"
     ],
     "date": "2026-09-16T17:31:52Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Leon Bergen, Usha Bhalla, Andrew Lee et al."
   }
 ]
