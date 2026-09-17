@@ -1,280 +1,288 @@
 [
   {
-    "id": "arxiv_1789600736787_0",
-    "name": "Agentic Societies Need a Social Harness",
-    "category": "ai",
-    "description": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentall...",
-    "link": "http://arxiv.org/abs/2609.17527v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-15T17:57:27Z",
-    "trending": false,
-    "source": "arXiv - Tapan Chugh, Vidushi Singh, Krish Jain et al."
-  },
-  {
-    "id": "arxiv_1789600736787_1",
-    "name": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-    "category": "ai",
-    "description": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports rese...",
-    "link": "http://arxiv.org/abs/2609.17523v1",
+    "id": "arxiv_1789610429400_0",
+    "name": "Revisiting Distributed Sign-Based Variance Reduction",
+    "category": "machine-learning",
+    "description": "Sign-based methods reduce communication costs in distributed environments, but aggregating local signs can introduce bias when data are heterogeneous. As a result, existing sign-based variance reducti...",
+    "link": "http://arxiv.org/abs/2609.18656v1",
     "tags": [
       "AI",
-      "Reinforcement Learning"
+      "Optimization"
     ],
-    "date": "2026-09-15T17:55:28Z",
-    "trending": true,
-    "source": "arXiv - Shuhan Xue, Jianyuan Zhong, Ziyuan Nan et al."
+    "date": "2026-09-16T13:35:52Z",
+    "trending": false,
+    "source": "arXiv - Wei Jiang, Zechao Li, Lijun Zhang"
   },
   {
-    "id": "arxiv_1789600736973_0",
-    "name": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+    "id": "arxiv_1789610429400_1",
+    "name": "Learning to Program Adaptive Non-Local Observables for Machine Learning",
+    "category": "machine-learning",
+    "description": "Quantum neural networks (QNNs) are typically built from variational quantum circuits (VQCs), which are limited by local measurements. Adaptive non-local observables (ANO) address this by jointly optim...",
+    "link": "http://arxiv.org/abs/2609.18655v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Machine Learning",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-09-16T13:35:31Z",
+    "trending": false,
+    "source": "arXiv - Yu-Ting Lee, Samuel Yen-Chi Chen, Huan-Hsin Tseng"
+  },
+  {
+    "id": "arxiv_1789610429474_0",
+    "name": "DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in User-LLM Interactions",
     "category": "nlp",
-    "description": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports rese...",
-    "link": "http://arxiv.org/abs/2609.17523v1",
+    "description": "Warning: This paper contains examples of stereotypes and social bias. LLMs are increasingly used in interactive settings by the general public, making the evaluation of model behavior in multi-turn co...",
+    "link": "http://arxiv.org/abs/2609.18649v1",
     "tags": [
       "AI",
-      "Reinforcement Learning"
+      "LLM"
     ],
-    "date": "2026-09-15T17:55:28Z",
-    "trending": true,
-    "source": "arXiv - Shuhan Xue, Jianyuan Zhong, Ziyuan Nan et al."
+    "date": "2026-09-16T13:32:46Z",
+    "trending": false,
+    "source": "arXiv - Rem Hida, Masahiro Kaneko, Daisuke Oba et al."
   },
   {
-    "id": "arxiv_1789600736787_2",
-    "name": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+    "id": "arxiv_1789610429401_2",
+    "name": "Fallacy Benchmarks Measure Scheme Recognition, Not Fallacy Detection",
+    "category": "machine-learning",
+    "description": "Fallacy-detection benchmarks pair fallacy classes with a single \"valid\" or \"none\" class that takes everything data collection did not label as a fallacy. This construction is misleading: a classifier ...",
+    "link": "http://arxiv.org/abs/2609.18644v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-16T13:28:39Z",
+    "trending": true,
+    "source": "arXiv - Navyansh Singh, Animesh Pathak, Aarav Singh"
+  },
+  {
+    "id": "arxiv_1789610429474_1",
+    "name": "Fallacy Benchmarks Measure Scheme Recognition, Not Fallacy Detection",
+    "category": "nlp",
+    "description": "Fallacy-detection benchmarks pair fallacy classes with a single \"valid\" or \"none\" class that takes everything data collection did not label as a fallacy. This construction is misleading: a classifier ...",
+    "link": "http://arxiv.org/abs/2609.18644v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-16T13:28:39Z",
+    "trending": false,
+    "source": "arXiv - Navyansh Singh, Animesh Pathak, Aarav Singh"
+  },
+  {
+    "id": "arxiv_1789610429474_2",
+    "name": "STRETCH the Boundaries: A Unified Self-Taught Framework for Progressive LLM Evolution",
+    "category": "nlp",
+    "description": "Large language models (LLMs) often suffer from capability stagnation in self-improvement training because fixed difficulty levels fail to adapt to their evolving proficiency. To address this issue, we...",
+    "link": "http://arxiv.org/abs/2609.18642v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-09-16T13:27:16Z",
+    "trending": false,
+    "source": "arXiv - Yajie Yu, Mark Lee, Yue Feng"
+  },
+  {
+    "id": "arxiv_1789610429256_0",
+    "name": "CoRe-MARL: Cooperative Redistribution Under Unknown Dynamics Using Recurrent Multi-Agent Reinforcement Learning",
     "category": "ai",
-    "description": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the f...",
-    "link": "http://arxiv.org/abs/2609.17521v1",
+    "description": "Emergency management assistance programs, such as relief distribution, are essential for delivering necessary supplies to affected communities. However, these programs operate in a decentralized netwo...",
+    "link": "http://arxiv.org/abs/2609.18639v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-09-16T13:25:05Z",
+    "trending": false,
+    "source": "arXiv - Naimur Rahman Chowdhury, Shatabdi Sen Prapti, Md. Salehin Seyam et al."
+  },
+  {
+    "id": "arxiv_1789610429401_3",
+    "name": "CoRe-MARL: Cooperative Redistribution Under Unknown Dynamics Using Recurrent Multi-Agent Reinforcement Learning",
+    "category": "machine-learning",
+    "description": "Emergency management assistance programs, such as relief distribution, are essential for delivering necessary supplies to affected communities. However, these programs operate in a decentralized netwo...",
+    "link": "http://arxiv.org/abs/2609.18639v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-09-16T13:25:05Z",
+    "trending": false,
+    "source": "arXiv - Naimur Rahman Chowdhury, Shatabdi Sen Prapti, Md. Salehin Seyam et al."
+  },
+  {
+    "id": "arxiv_1789610429256_1",
+    "name": "GenStream: Semantic Streaming Framework for Generative Reconstruction of Human-centric Media",
+    "category": "ai",
+    "description": "Video streaming dominates global internet traffic, yet conventional pipelines remain inefficient for structured, human-centric content such as sports, performance, or interactive media. Standard codec...",
+    "link": "http://arxiv.org/abs/2609.18634v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-09-15T17:55:13Z",
+    "date": "2026-09-16T13:20:36Z",
     "trending": false,
-    "source": "arXiv - Chuhao Chen, Peter Wonka, Chaoyang Wang et al."
+    "source": "arXiv - Emanuele Artioli, Daniele Lorenzi, Shivi Vats et al."
   },
   {
-    "id": "arxiv_1789600736810_0",
-    "name": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+    "id": "arxiv_1789610429328_0",
+    "name": "GenStream: Semantic Streaming Framework for Generative Reconstruction of Human-centric Media",
     "category": "computer-vision",
-    "description": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the f...",
-    "link": "http://arxiv.org/abs/2609.17521v1",
+    "description": "Video streaming dominates global internet traffic, yet conventional pipelines remain inefficient for structured, human-centric content such as sports, performance, or interactive media. Standard codec...",
+    "link": "http://arxiv.org/abs/2609.18634v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-09-15T17:55:13Z",
-    "trending": true,
-    "source": "arXiv - Chuhao Chen, Peter Wonka, Chaoyang Wang et al."
-  },
-  {
-    "id": "arxiv_1789600736787_3",
-    "name": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
-    "category": "ai",
-    "description": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment condit...",
-    "link": "http://arxiv.org/abs/2609.17516v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-15T17:52:24Z",
-    "trending": true,
-    "source": "arXiv - Ali Şenol"
-  },
-  {
-    "id": "arxiv_1789600736974_1",
-    "name": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
-    "category": "nlp",
-    "description": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment condit...",
-    "link": "http://arxiv.org/abs/2609.17516v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-15T17:52:24Z",
+    "date": "2026-09-16T13:20:36Z",
     "trending": false,
-    "source": "arXiv - Ali Şenol"
+    "source": "arXiv - Emanuele Artioli, Daniele Lorenzi, Shivi Vats et al."
   },
   {
-    "id": "arxiv_1789600736974_2",
-    "name": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+    "id": "arxiv_1789610429328_1",
+    "name": "VibeAvatar: Aligning Phonetic Kinematics and Human Aesthetics for High-Fidelity Talking Avatar Synthesis",
+    "category": "computer-vision",
+    "description": "Multi-modal talking avatar synthesis aims to generate realistic talking videos from a reference portrait and speech. Despite rapid progress in diffusion-based methods, existing approaches still strugg...",
+    "link": "http://arxiv.org/abs/2609.18632v1",
+    "tags": [
+      "AI",
+      "Diffusion",
+      "Optimization"
+    ],
+    "date": "2026-09-16T13:20:07Z",
+    "trending": true,
+    "source": "arXiv - Qilin Wang, Mingyu Li, Hao Tang"
+  },
+  {
+    "id": "arxiv_1789610429329_2",
+    "name": "FIVE-VLA: Fast and EffectIVE Autonomous Driving with Recurrent Action Memory",
+    "category": "computer-vision",
+    "description": "State-of-the-art vision-language-action models (VLA) for autonomous driving face critical limitations: excessive parameter counts, inefficient high-resolution image processing, and lack of temporal me...",
+    "link": "http://arxiv.org/abs/2609.18623v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-09-16T13:13:18Z",
+    "trending": true,
+    "source": "arXiv - Kemal Oksuz, Alexandru Buburuzan, Yuhan Yao et al."
+  },
+  {
+    "id": "arxiv_1789610429401_4",
+    "name": "How Many Labels Does Model Choice Need? Certificates and Budgets for Selective Prediction",
+    "category": "machine-learning",
+    "description": "Classifiers can make identical predictions yet require labels to compare their selective performance: confidence ranks weight the same errors differently. We quantify this requirement for the area und...",
+    "link": "http://arxiv.org/abs/2609.18622v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-16T13:10:59Z",
+    "trending": false,
+    "source": "arXiv - Tetsuji Kuboyama"
+  },
+  {
+    "id": "arxiv_1789610429475_3",
+    "name": "Weakening Neurons: An Input-Output Functionality in Transformers with Outsize Influence",
     "category": "nlp",
-    "description": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation i...",
-    "link": "http://arxiv.org/abs/2609.17515v1",
+    "description": "We analyze the learned input-output behavior of GLU-based neurons in large language models (LLMs). We propose a simple analysis method: For each neuron, we compute the cosine similarities between its ...",
+    "link": "http://arxiv.org/abs/2609.18612v1",
     "tags": [
       "AI",
       "Transformer",
       "LLM"
     ],
-    "date": "2026-09-15T17:51:48Z",
+    "date": "2026-09-16T13:03:12Z",
     "trending": false,
-    "source": "arXiv - Congjing Zhang, Vashishtha Patil, Henning Lange et al."
+    "source": "arXiv - Sebastian Gerstner, Hilal AlQuabeh, Kentaro Inui et al."
   },
   {
-    "id": "arxiv_1789600736788_4",
-    "name": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
+    "id": "arxiv_1789610429257_2",
+    "name": "PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?",
     "category": "ai",
-    "description": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate t...",
-    "link": "http://arxiv.org/abs/2609.17509v1",
+    "description": "As corporate AI adoption continues to grow, enterprise-grade LLM agents are being deployed into sensitive contexts such as hiring, healthcare, and finance. In these contexts, compliance with rules spe...",
+    "link": "http://arxiv.org/abs/2609.18605v1",
     "tags": [
       "AI",
-      "Neural"
+      "LLM"
     ],
-    "date": "2026-09-15T17:46:51Z",
+    "date": "2026-09-16T12:57:15Z",
     "trending": false,
-    "source": "arXiv - Thanapat Trachu, Samuele Cornell, William Chen et al."
+    "source": "arXiv - Mika Okamoto, Ansel Kaplan Erol"
   },
   {
-    "id": "arxiv_1789600736974_3",
-    "name": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
+    "id": "arxiv_1789610429475_4",
+    "name": "PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?",
     "category": "nlp",
-    "description": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate t...",
-    "link": "http://arxiv.org/abs/2609.17509v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-09-15T17:46:51Z",
-    "trending": false,
-    "source": "arXiv - Thanapat Trachu, Samuele Cornell, William Chen et al."
-  },
-  {
-    "id": "arxiv_1789600736828_0",
-    "name": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
-    "category": "machine-learning",
-    "description": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decision...",
-    "link": "http://arxiv.org/abs/2609.17499v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-15T17:42:15Z",
-    "trending": true,
-    "source": "arXiv - Vicky Feliren, A. Taufiq Asyhari, Muhamad Risqi U. Saputra"
-  },
-  {
-    "id": "arxiv_1789600736974_4",
-    "name": "Verifiable Social Reasoning for LLM Assistants",
-    "category": "nlp",
-    "description": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns ...",
-    "link": "http://arxiv.org/abs/2609.17496v1",
+    "description": "As corporate AI adoption continues to grow, enterprise-grade LLM agents are being deployed into sensitive contexts such as hiring, healthcare, and finance. In these contexts, compliance with rules spe...",
+    "link": "http://arxiv.org/abs/2609.18605v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-09-15T17:37:29Z",
-    "trending": false,
-    "source": "arXiv - Amir Taubenfeld, Zorik Gekhman, Avigail Grinstein-Dabush et al."
-  },
-  {
-    "id": "arxiv_1789600736828_1",
-    "name": "FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection",
-    "category": "machine-learning",
-    "description": "Unauthorized hardware replacement can preserve a wireless device's logical identity while altering its physical implementation, posing a challenge to hardware integrity verification. Spatio-frequency ...",
-    "link": "http://arxiv.org/abs/2609.17491v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-15T17:32:12Z",
+    "date": "2026-09-16T12:57:15Z",
     "trending": true,
-    "source": "arXiv - Xiaoxuan Huang, Jinlong Xu, YiZhe Wang et al."
+    "source": "arXiv - Mika Okamoto, Ansel Kaplan Erol"
   },
   {
-    "id": "arxiv_1789600736829_2",
-    "name": "Bridging the Gap Between Homogeneous and Heterogeneous Asynchronous Optimization Is Surprisingly Difficult",
-    "category": "machine-learning",
-    "description": "Modern large-scale machine learning tasks often require multiple workers, devices, CPUs, or GPUs to compute stochastic gradients in parallel and asynchronously to train model weights. Theoretical resu...",
-    "link": "http://arxiv.org/abs/2609.17483v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "Optimization"
-    ],
-    "date": "2026-09-15T17:24:09Z",
-    "trending": false,
-    "source": "arXiv - Alexander Tyurin"
-  },
-  {
-    "id": "arxiv_1789600736810_1",
-    "name": "Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection",
+    "id": "arxiv_1789610429329_3",
+    "name": "PULSE: Unlocking Practical Image Compression on Single-Thread CPU",
     "category": "computer-vision",
-    "description": "Despite the rapid uptake of black-box object detectors in marine mammal research and monitoring, explainability techniques are rarely integrated into conservation workflows. Furthermore, most classifi...",
-    "link": "http://arxiv.org/abs/2609.17479v1",
-    "tags": [
-      "AI",
-      "GAN"
-    ],
-    "date": "2026-09-15T17:20:16Z",
-    "trending": false,
-    "source": "arXiv - Jiayi Zhou, David W. Johnston, Brinnae Bent"
-  },
-  {
-    "id": "arxiv_1789600736829_3",
-    "name": "Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory",
-    "category": "machine-learning",
-    "description": "The absolute capacity of dense associative memory has mainly been analyzed for unbiased patterns. Here we examine the effect of bias in centered binary patterns under the Krotov-Hopfield single-site c...",
-    "link": "http://arxiv.org/abs/2609.17477v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-15T17:16:38Z",
-    "trending": true,
-    "source": "arXiv - Yuto Sakurai, Takeaki Shimokawa, Kazunori Iwata et al."
-  },
-  {
-    "id": "arxiv_1789600736829_4",
-    "name": "Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
-    "category": "machine-learning",
-    "description": "Large language model (LLM) distillation aims to transfer the capabilities of a powerful teacher to a smaller student. Direct imitation, however, can also transfer the teacher's systematic bias and err...",
-    "link": "http://arxiv.org/abs/2609.17474v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-15T17:15:40Z",
-    "trending": false,
-    "source": "arXiv - Haichen Hu, Yuheng Zhang, David Simchi-Levi"
-  },
-  {
-    "id": "arxiv_1789600736810_2",
-    "name": "Tables Decoded: DELTA for Structure, TARQA for Understanding",
-    "category": "computer-vision",
-    "description": "Table understanding is a core task in document intelligence, encompassing two key subtasks: table reconstruction and table visual question answering (TabVQA). While recent approaches predominantly rel...",
-    "link": "http://arxiv.org/abs/2609.17458v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-09-15T16:59:42Z",
-    "trending": false,
-    "source": "arXiv - Jahanvi Rajput, Dhruv Kudale, Saikiran Kasturi et al."
-  },
-  {
-    "id": "arxiv_1789600736811_3",
-    "name": "ORCA: Occlusion-Aware Refinement and Completion for Novel View Synthesis",
-    "category": "computer-vision",
-    "description": "Novel-view synthesis from a single image is a fundamentally ambiguous problem. As the camera moves away from the input viewpoint, previously hidden regions become visible, exposing missing geometry an...",
-    "link": "http://arxiv.org/abs/2609.17450v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-15T16:53:54Z",
-    "trending": true,
-    "source": "arXiv - Weronika Jakubowska, Maciej Zięba, Przemysław Spurek"
-  },
-  {
-    "id": "arxiv_1789600736811_4",
-    "name": "BrainFocus: EEG-Guided ROI Selection for Efficient Vision-Language Models",
-    "category": "computer-vision",
-    "description": "Vision-language models (VLMs) achieve strong visual question answering (VQA) performance, but processing large cluttered images is computationally expensive when only a small region is relevant. Elect...",
-    "link": "http://arxiv.org/abs/2609.17443v1",
+    "description": "Despite recent progress in learned image compression, existing methods remain computationally expensive on resource-constrained hardware, particularly CPUs. We introduce PULSE, a practical codec that ...",
+    "link": "http://arxiv.org/abs/2609.18602v1",
     "tags": [
       "AI",
       "Neural",
-      "Vision"
+      "LLM",
+      "Optimization"
     ],
-    "date": "2026-09-15T16:51:13Z",
+    "date": "2026-09-16T12:55:36Z",
+    "trending": false,
+    "source": "arXiv - Zhaoyang Jia, Tianyu Zhang, Zihan Zheng et al."
+  },
+  {
+    "id": "arxiv_1789610429257_3",
+    "name": "Online Robust Reinforcement Learning Through Monte-Carlo Planning",
+    "category": "ai",
+    "description": "Monte Carlo Tree Search (MCTS) is a powerful framework for solving complex decision-making problems, yet it often relies on the assumption that the simulator and the real-world dynamics are identical....",
+    "link": "http://arxiv.org/abs/2609.18599v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-09-16T12:52:13Z",
     "trending": true,
-    "source": "arXiv - Yihui Peng, Guorui Lu, Qinyu Chen"
+    "source": "arXiv - Tuan Dam, Kishan Panaganti, Brahim Driss et al."
+  },
+  {
+    "id": "arxiv_1789610429257_4",
+    "name": "Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents",
+    "category": "ai",
+    "description": "Self-driving laboratories can explore synthesis conditions autonomously, but their decision-making layer is typically a black-box optimizer, and the output is a set of optimized samples, with the meas...",
+    "link": "http://arxiv.org/abs/2609.18598v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-16T12:52:10Z",
+    "trending": true,
+    "source": "arXiv - Izumi Takahara, Kazunori Nishio, Akira Aiba et al."
+  },
+  {
+    "id": "arxiv_1789610429329_4",
+    "name": "On-the-Fly Homographies Calibration for Multi-Camera Tracking",
+    "category": "computer-vision",
+    "description": "Precise multi-camera tracking traditionally relies on rigorous 3D site calibration, yet this requirement is often operationally impossible in large-scale deployments. Privacy regulations frequently pr...",
+    "link": "http://arxiv.org/abs/2609.18582v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-09-16T12:41:55Z",
+    "trending": true,
+    "source": "arXiv - David Voihanski, Mor Sinai, Ben Zion Bobrovsky"
   }
 ]
