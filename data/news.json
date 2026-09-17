@@ -1,35 +1,135 @@
 [
   {
-    "id": "rss_TechCrunch_1789653064228_0",
+    "id": "rss_Ars_Technica_1789667179496_0",
+    "title": "Sketchy IV drips at wellness clinics have poisoned dozens, CDC and FDA warn",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The IV drips included glutathione, which was not made to be injected.\n                    ",
+    "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
+    "tags": [],
+    "date": "Thu, 17 Sep 2026 17:43:50 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1789667179496_1",
+    "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        It’s spacious, efficient, and charges very quickly. But what about reliability concerns?\n                    ",
+    "link": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 17 Sep 2026 17:30:30 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1789667176029_0",
+    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+    "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 17 Sep 2026 17:15:59 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1789667176029_1",
+    "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+    "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 17 Sep 2026 17:15:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1789667179496_2",
+    "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Model maker commits to new framework for reporting misaligned models.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Thu, 17 Sep 2026 16:18:34 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1789667179496_3",
+    "title": "EPA immediately sued over plans to repeal climate rules for power plants",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Public health groups warn EPA rule will cost Americans billions in health bills.\n                    ",
+    "link": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
+    "tags": [],
+    "date": "Thu, 17 Sep 2026 15:38:04 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1789667179496_4",
+    "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"They should fly their capsule. The government paid a lot of money for that.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 17 Sep 2026 14:37:37 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1789667176029_2",
+    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+    "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+    "tags": [
+      "AI",
+      "NVIDIA"
+    ],
+    "date": "Thu, 17 Sep 2026 14:06:14 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1789667176029_3",
+    "title": "2 days left to exhibit at TechCrunch Disrupt 2026 ",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+    "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "tags": [
+      "Startup"
+    ],
+    "date": "Thu, 17 Sep 2026 14:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1789667176029_4",
     "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "People can use these assistants to make restaurant reservations and cancel subscriptions ",
+    "description": "People can use these assistants to make restaurant reservations and cancel subscriptions. ",
     "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
     "tags": [
       "AI",
       "Meta"
     ],
     "date": "Thu, 17 Sep 2026 13:46:16 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1789653064228_1",
-    "title": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "A new coalition that includes Google, Nvidia, Anthropic and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-    "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-    "tags": [
-      "AI",
-      "Google",
-      "NVIDIA"
-    ],
-    "date": "Thu, 17 Sep 2026 13:38:33 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789653066526_0",
+    "id": "rss_MIT_Tech_Review_1789667178278_0",
     "title": "The Download: mice with part-human brains and climate tech innovators",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -39,10 +139,10 @@
       "AI"
     ],
     "date": "Thu, 17 Sep 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789653066526_1",
+    "id": "rss_MIT_Tech_Review_1789667178278_1",
     "title": "Meet the innovators under 35 shaping climate tech",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -53,59 +153,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1789653067858_0",
-    "title": "Hackers reveal how Flock cameras really track cars and people",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        One hacked camera captured 1.6 million images and could detect people as well as cars.\n                    ",
-    "link": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
-    "tags": [],
-    "date": "Thu, 17 Sep 2026 09:43:46 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1789653064228_2",
-    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-    "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-    "tags": [
-      "AI",
-      "Robot"
-    ],
-    "date": "Thu, 17 Sep 2026 05:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1789653064228_3",
-    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
-    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Thu, 17 Sep 2026 03:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1789653064228_4",
-    "title": "Snap tries to make the case again for its $2,200 smart glasses",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 17 Sep 2026 00:58:49 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1789653068994_0",
+    "id": "rss_Wired_1789667180625_0",
     "title": "An OpenAI Agent Tried to Jailbreak Itself",
     "category": "ai-news",
     "source": "Wired",
@@ -116,45 +164,10 @@
       "OpenAI"
     ],
     "date": "Wed, 16 Sep 2026 22:07:24 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1789653067858_1",
-    "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Planned 2029 debut could make this Apple’s first enterprise server in decades.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 16 Sep 2026 22:02:46 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1789653067858_2",
-    "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-    "tags": [],
-    "date": "Wed, 16 Sep 2026 21:42:09 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1789653067858_3",
-    "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Group plans to be largely out of commission for several weeks.\n                    ",
-    "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-    "tags": [],
-    "date": "Wed, 16 Sep 2026 21:08:14 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1789653068995_1",
+    "id": "rss_Wired_1789667180625_1",
     "title": "Washington Won’t Be Regulating AI Anytime Soon",
     "category": "ai-news",
     "source": "Wired",
@@ -167,20 +180,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1789653067858_4",
-    "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood. \n                    ",
-    "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 16 Sep 2026 20:44:41 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1789653068995_2",
+    "id": "rss_Wired_1789667180625_2",
     "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
     "category": "ai-news",
     "source": "Wired",
@@ -193,7 +193,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789653066526_2",
+    "id": "rss_MIT_Tech_Review_1789667178278_2",
     "title": "Meet a mouse whose brain cortex is made up of human cells",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -203,10 +203,10 @@
       "AI"
     ],
     "date": "Wed, 16 Sep 2026 15:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789653066527_3",
+    "id": "rss_MIT_Tech_Review_1789667178278_3",
     "title": "Building the materials foundation for AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -216,10 +216,10 @@
       "AI"
     ],
     "date": "Wed, 16 Sep 2026 12:47:34 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1789653066527_4",
+    "id": "rss_MIT_Tech_Review_1789667178278_4",
     "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -233,8 +233,8 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1789653068995_3",
-    "title": "China Isn���t Buying Silicon Valley’s Call for an AI Slowdown",
+    "id": "rss_Wired_1789667180625_3",
+    "title": "China Isn��t Buying Silicon Valley’s Call for an AI Slowdown",
     "category": "ai-news",
     "source": "Wired",
     "description": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
@@ -246,7 +246,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1789653068995_4",
+    "id": "rss_Wired_1789667180625_4",
     "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
     "category": "ai-news",
     "source": "Wired",
@@ -259,7 +259,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1789653077901_0",
+    "id": "rss_Distill_1789667189213_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -269,10 +269,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1789653077901_1",
+    "id": "rss_Distill_1789667189213_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -282,10 +282,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1789653077901_2",
+    "id": "rss_Distill_1789667189213_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -293,10 +293,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1789653077901_3",
+    "id": "rss_Distill_1789667189213_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -306,10 +306,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1789653077901_4",
+    "id": "rss_Distill_1789667189213_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -317,6 +317,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
