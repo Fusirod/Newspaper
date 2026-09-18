@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1789713969189_0",
+    "id": "arxiv_1789732545232_0",
     "name": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
     "category": "ai",
     "description": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-spec...",
@@ -9,11 +9,11 @@
       "AI"
     ],
     "date": "2026-09-17T17:59:58Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Bingxin Xu, Yuzhang Shang, Zhen Dong et al."
   },
   {
-    "id": "arxiv_1789713969218_0",
+    "id": "arxiv_1789732545286_0",
     "name": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
     "category": "computer-vision",
     "description": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-spec...",
@@ -26,7 +26,7 @@
     "source": "arXiv - Bingxin Xu, Yuzhang Shang, Zhen Dong et al."
   },
   {
-    "id": "arxiv_1789713969250_0",
+    "id": "arxiv_1789732545514_0",
     "name": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
     "category": "nlp",
     "description": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-spec...",
@@ -39,7 +39,7 @@
     "source": "arXiv - Bingxin Xu, Yuzhang Shang, Zhen Dong et al."
   },
   {
-    "id": "arxiv_1789713969234_0",
+    "id": "arxiv_1789732545339_0",
     "name": "Embedding Models Measure in Peculiar Ways",
     "category": "machine-learning",
     "description": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective...",
@@ -50,7 +50,7 @@
     "source": "arXiv - Juri Opitz, Andrianos Michail"
   },
   {
-    "id": "arxiv_1789713969250_1",
+    "id": "arxiv_1789732545514_1",
     "name": "Embedding Models Measure in Peculiar Ways",
     "category": "nlp",
     "description": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective...",
@@ -61,7 +61,7 @@
     "source": "arXiv - Juri Opitz, Andrianos Michail"
   },
   {
-    "id": "arxiv_1789713969189_1",
+    "id": "arxiv_1789732545232_1",
     "name": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
     "category": "ai",
     "description": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades perf...",
@@ -75,7 +75,7 @@
     "source": "arXiv - Nitish Dashora, Douglas Chen, Idan Shenfeld et al."
   },
   {
-    "id": "arxiv_1789713969218_1",
+    "id": "arxiv_1789732545287_1",
     "name": "Can 4D Foundation Models Remember?",
     "category": "computer-vision",
     "description": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstructi...",
@@ -88,7 +88,7 @@
     "source": "arXiv - Guangzhao He, Hadar Averbuch-Elor, Wei-Chiu Ma"
   },
   {
-    "id": "arxiv_1789713969219_2",
+    "id": "arxiv_1789732545287_2",
     "name": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
     "category": "computer-vision",
     "description": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless, and little persists long enough to track. Reconstruction resear...",
@@ -102,7 +102,7 @@
     "source": "arXiv - Peiyu Liu, Dingxi Zhang, Federico Tombari et al."
   },
   {
-    "id": "arxiv_1789713969189_2",
+    "id": "arxiv_1789732545232_2",
     "name": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
     "category": "ai",
     "description": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a ...",
@@ -113,11 +113,11 @@
       "Optimization"
     ],
     "date": "2026-09-17T17:59:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Kevin Qu, Tao Sun, Massimiliano Viola et al."
   },
   {
-    "id": "arxiv_1789713969219_3",
+    "id": "arxiv_1789732545287_3",
     "name": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
     "category": "computer-vision",
     "description": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a ...",
@@ -128,11 +128,11 @@
       "Optimization"
     ],
     "date": "2026-09-17T17:59:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Kevin Qu, Tao Sun, Massimiliano Viola et al."
   },
   {
-    "id": "arxiv_1789713969189_3",
+    "id": "arxiv_1789732545233_3",
     "name": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
     "category": "ai",
     "description": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, ed...",
@@ -142,11 +142,11 @@
       "Vision"
     ],
     "date": "2026-09-17T17:59:30Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ji Xie, Dewei Zhou, Xinyu Huang et al."
   },
   {
-    "id": "arxiv_1789713969219_4",
+    "id": "arxiv_1789732545287_4",
     "name": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
     "category": "computer-vision",
     "description": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, ed...",
@@ -156,11 +156,11 @@
       "Vision"
     ],
     "date": "2026-09-17T17:59:30Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ji Xie, Dewei Zhou, Xinyu Huang et al."
   },
   {
-    "id": "arxiv_1789713969234_1",
+    "id": "arxiv_1789732545339_1",
     "name": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
     "category": "machine-learning",
     "description": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, ed...",
@@ -174,7 +174,7 @@
     "source": "arXiv - Ji Xie, Dewei Zhou, Xinyu Huang et al."
   },
   {
-    "id": "arxiv_1789713969189_4",
+    "id": "arxiv_1789732545233_4",
     "name": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
     "category": "ai",
     "description": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these ...",
@@ -188,7 +188,7 @@
     "source": "arXiv - Zahra Ghaffari, Massih Bahar, Mojgan Forootan et al."
   },
   {
-    "id": "arxiv_1789713969234_2",
+    "id": "arxiv_1789732545340_2",
     "name": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
     "category": "machine-learning",
     "description": "Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift aff...",
@@ -199,11 +199,11 @@
       "LLM"
     ],
     "date": "2026-09-17T17:59:24Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Pochinapeddi Sai Bhargav, Nithin Somasekharan, Rohit Sunil Kanchi et al."
   },
   {
-    "id": "arxiv_1789713969234_3",
+    "id": "arxiv_1789732545340_3",
     "name": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
     "category": "machine-learning",
     "description": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of f...",
@@ -213,11 +213,11 @@
       "LLM"
     ],
     "date": "2026-09-17T17:59:04Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Nolan Smyth, Yorguin-Jose Mantilla-Ramos, Pascal Jr Tikeng Notsawo et al."
   },
   {
-    "id": "arxiv_1789713969250_2",
+    "id": "arxiv_1789732545514_2",
     "name": "Unifying Models of Intergroup Hostility in Online Discourse",
     "category": "nlp",
     "description": "Hostile rhetoric toward social groups can normalize exclusion and justify mistreatment, as well as contribute to rising polarization and political violence. Efforts to moderate hostile rhetoric in onl...",
@@ -232,7 +232,7 @@
     "source": "arXiv - Patrick Gerard, Julia Mendelsohn, Kristina Lerman"
   },
   {
-    "id": "arxiv_1789713969234_4",
+    "id": "arxiv_1789732545340_4",
     "name": "Score Centering Stabilizes Off-policy Reinforcement Learning",
     "category": "machine-learning",
     "description": "Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference mismatch (TIM). H...",
@@ -242,11 +242,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-09-17T17:58:17Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Martin Marek, Max Ryabinin"
   },
   {
-    "id": "arxiv_1789713969250_3",
+    "id": "arxiv_1789732545514_3",
     "name": "An Empirical Study of Harness Design for Coding Agents",
     "category": "nlp",
     "description": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic syste...",
@@ -260,7 +260,7 @@
     "source": "arXiv - Run-Ze Fan, Zihao Zhang, Simin Ma et al."
   },
   {
-    "id": "arxiv_1789713969250_4",
+    "id": "arxiv_1789732545514_4",
     "name": "JEPA-Anything: Learning Predictive Models across Different Worlds",
     "category": "nlp",
     "description": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support w...",
