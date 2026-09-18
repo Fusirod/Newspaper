@@ -1,6 +1,71 @@
 [
   {
-    "id": "rss_TechCrunch_1789756866200_0",
+    "id": "rss_Ars_Technica_1789766328386_0",
+    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        But the military's overall use of AI seems to be accelerating.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 18 Sep 2026 20:26:33 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1789766325031_0",
+    "title": "World model companies are keeping a lot of secrets",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.\n",
+    "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "tags": [],
+    "date": "Fri, 18 Sep 2026 20:18:14 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1789766329490_0",
+    "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+    "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 18 Sep 2026 19:21:09 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1789766328386_1",
+    "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 18 Sep 2026 19:20:50 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1789766325031_1",
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence. ",
+    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "GPT"
+    ],
+    "date": "Fri, 18 Sep 2026 18:49:30 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1789766325031_2",
     "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -14,7 +79,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1789756869991_0",
+    "id": "rss_Ars_Technica_1789766328386_2",
     "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -22,10 +87,10 @@
     "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
     "tags": [],
     "date": "Fri, 18 Sep 2026 17:57:41 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1789756869991_1",
+    "id": "rss_Ars_Technica_1789766328386_3",
     "title": "Finding the cells that put our brain to sleep",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -38,7 +103,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1789756866200_1",
+    "id": "rss_TechCrunch_1789766325031_3",
     "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -49,10 +114,10 @@
       "Google"
     ],
     "date": "Fri, 18 Sep 2026 17:33:50 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1789756869992_2",
+    "id": "rss_Ars_Technica_1789766328386_4",
     "title": "US government website used Chinese model the FBI called \"malicious\"",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -62,10 +127,10 @@
       "AI"
     ],
     "date": "Fri, 18 Sep 2026 17:28:50 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1789756866200_2",
+    "id": "rss_TechCrunch_1789766325031_4",
     "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -76,38 +141,10 @@
       "NVIDIA"
     ],
     "date": "Fri, 18 Sep 2026 17:09:56 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1789756866200_3",
-    "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countr",
-    "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-    "tags": [
-      "AI",
-      "NVIDIA"
-    ],
-    "date": "Fri, 18 Sep 2026 17:06:32 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1789756866200_4",
-    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-    "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Fri, 18 Sep 2026 16:35:49 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1789756871118_0",
+    "id": "rss_Wired_1789766329490_1",
     "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
     "category": "ai-news",
     "source": "Wired",
@@ -120,7 +157,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1789756871118_1",
+    "id": "rss_Wired_1789766329490_2",
     "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
     "category": "ai-news",
     "source": "Wired",
@@ -133,34 +170,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1789756869992_3",
-    "title": "Meet the winner of Nikon's Small World in Motion video contest",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.\n                    ",
-    "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 18 Sep 2026 13:56:57 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1789756869992_4",
-    "title": "Researchers used Claude to hack OpenAI",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Fri, 18 Sep 2026 13:30:12 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1789756871118_2",
+    "id": "rss_Wired_1789766329490_3",
     "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
     "category": "ai-news",
     "source": "Wired",
@@ -171,7 +181,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789756868419_0",
+    "id": "rss_MIT_Tech_Review_1789766327135_0",
     "title": "The Download: AI’s extinction risk and bioweapons threat",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -184,7 +194,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1789756868419_1",
+    "id": "rss_MIT_Tech_Review_1789766327135_1",
     "title": "Could AI really kill us all? Your questions, answered.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -194,10 +204,10 @@
       "AI"
     ],
     "date": "Fri, 18 Sep 2026 11:29:22 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1789756871118_3",
+    "id": "rss_Wired_1789766329490_4",
     "title": "The Leftist Split Over AI Doom",
     "category": "ai-news",
     "source": "Wired",
@@ -207,23 +217,10 @@
       "AI"
     ],
     "date": "Fri, 18 Sep 2026 10:15:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1789756871118_4",
-    "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
-    "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 18 Sep 2026 09:15:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1789756868419_2",
+    "id": "rss_MIT_Tech_Review_1789766327135_2",
     "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -234,10 +231,10 @@
       "OpenAI"
     ],
     "date": "Fri, 18 Sep 2026 09:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1789756868419_3",
+    "id": "rss_MIT_Tech_Review_1789766327135_3",
     "title": "The Download: mice with part-human brains and climate tech innovators",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -247,10 +244,10 @@
       "AI"
     ],
     "date": "Thu, 17 Sep 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1789756868420_4",
+    "id": "rss_MIT_Tech_Review_1789766327136_4",
     "title": "Meet the innovators under 35 shaping climate tech",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -261,7 +258,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1789756880321_0",
+    "id": "rss_Distill_1789766337381_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -274,7 +271,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1789756880321_1",
+    "id": "rss_Distill_1789766337381_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -284,10 +281,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1789756880321_2",
+    "id": "rss_Distill_1789766337381_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -295,10 +292,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1789756880321_3",
+    "id": "rss_Distill_1789766337381_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -311,7 +308,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1789756880321_4",
+    "id": "rss_Distill_1789766337381_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
