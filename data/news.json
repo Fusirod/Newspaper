@@ -1,6 +1,101 @@
 [
   {
-    "id": "rss_TechCrunch_1790060155880_0",
+    "id": "rss_MIT_Tech_Review_1790079093667_0",
+    "title": "Don’t be fooled by this summer of AI hype ",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclose",
+    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Meta"
+    ],
+    "date": "Tue, 22 Sep 2026 11:04:51 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1790079094910_0",
+    "title": "NASA chief: I'm only interested in \"good deals\" from international partners",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"There was absolutely a time where we were trying to make everyone happy.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
+    "tags": [],
+    "date": "Tue, 22 Sep 2026 11:00:37 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1790079095996_0",
+    "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work.",
+    "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 22 Sep 2026 10:30:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1790079095996_1",
+    "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.",
+    "link": "https://www.wired.com/story/big-interview-patti-harrison/",
+    "tags": [
+      "AI",
+      "Robot"
+    ],
+    "date": "Tue, 22 Sep 2026 10:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1790079095996_2",
+    "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual.",
+    "link": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+    "tags": [
+      "AI",
+      "Chatbot"
+    ],
+    "date": "Tue, 22 Sep 2026 10:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1790079095996_3",
+    "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
+    "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+    "tags": [
+      "AI",
+      "Chatbot"
+    ],
+    "date": "Tue, 22 Sep 2026 09:30:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1790079095996_4",
+    "title": "How to Use AI With Your Privacy Intact",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
+    "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+    "tags": [
+      "AI",
+      "Chatbot"
+    ],
+    "date": "Tue, 22 Sep 2026 09:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1790079091373_0",
     "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -10,10 +105,10 @@
       "AI"
     ],
     "date": "Mon, 21 Sep 2026 23:44:28 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1790060159762_0",
+    "id": "rss_Ars_Technica_1790079094910_1",
     "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -24,10 +119,10 @@
       "Meta"
     ],
     "date": "Mon, 21 Sep 2026 22:24:38 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1790060159762_1",
+    "id": "rss_Ars_Technica_1790079094910_2",
     "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -40,7 +135,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1790060159762_2",
+    "id": "rss_Ars_Technica_1790079094910_3",
     "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -51,7 +146,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1790060155880_1",
+    "id": "rss_TechCrunch_1790079091373_1",
     "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -65,7 +160,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1790060155880_2",
+    "id": "rss_TechCrunch_1790079091373_2",
     "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -73,10 +168,10 @@
     "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
     "tags": [],
     "date": "Mon, 21 Sep 2026 19:25:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1790060155880_3",
+    "id": "rss_TechCrunch_1790079091373_3",
     "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -92,20 +187,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1790060161026_0",
-    "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
-    "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 21 Sep 2026 18:33:02 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1790060155880_4",
+    "id": "rss_TechCrunch_1790079091373_4",
     "title": "Meta’s AI agent has been blocked from using Amazon.com",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -119,7 +201,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1790060159762_3",
+    "id": "rss_Ars_Technica_1790079094910_4",
     "title": "Google confirms Gemini models hacked three companies in May 2026",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -132,31 +214,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1790060159762_4",
-    "title": "Russel Vought will reportedly be given veto power over all NIH grants",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Pending move comes over the objections of the NIH director.\n                    ",
-    "link": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
-    "tags": [],
-    "date": "Mon, 21 Sep 2026 16:40:26 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1790060161026_1",
-    "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
-    "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
-    "tags": [
-      "Google"
-    ],
-    "date": "Mon, 21 Sep 2026 13:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1790060158264_0",
+    "id": "rss_MIT_Tech_Review_1790079093667_1",
     "title": "The Download: investigating deaths at the US border’s “virtual wall”",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -169,7 +227,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1790060158264_1",
+    "id": "rss_MIT_Tech_Review_1790079093667_2",
     "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -177,10 +235,10 @@
     "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
     "tags": [],
     "date": "Mon, 21 Sep 2026 12:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1790060158264_2",
+    "id": "rss_MIT_Tech_Review_1790079093667_3",
     "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -190,10 +248,10 @@
       "AI"
     ],
     "date": "Mon, 21 Sep 2026 12:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1790060158264_3",
+    "id": "rss_MIT_Tech_Review_1790079093668_4",
     "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -206,60 +264,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1790060158264_4",
-    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&",
-    "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 21 Sep 2026 12:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1790060161026_2",
-    "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
-    "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 21 Sep 2026 10:34:43 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1790060161026_3",
-    "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
-    "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Sun, 20 Sep 2026 10:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1790060161026_4",
-    "title": "It’s Donald Trump Versus MAGA on Data Centers",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
-    "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Sun, 20 Sep 2026 10:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1790060170504_0",
+    "id": "rss_Distill_1790079104540_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -269,10 +274,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1790060170504_1",
+    "id": "rss_Distill_1790079104541_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -282,10 +287,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1790060170504_2",
+    "id": "rss_Distill_1790079104541_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -293,10 +298,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1790060170504_3",
+    "id": "rss_Distill_1790079104541_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -309,7 +314,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1790060170504_4",
+    "id": "rss_Distill_1790079104541_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -317,6 +322,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]
