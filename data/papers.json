@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1790079091107_0",
+    "id": "arxiv_1790097810234_0",
     "name": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
     "category": "ai",
     "description": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal ...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Yiran Wang, Xingyilang Yin, Junfu Pu et al."
   },
   {
-    "id": "arxiv_1790079091142_0",
+    "id": "arxiv_1790097810392_0",
     "name": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
     "category": "computer-vision",
     "description": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal ...",
@@ -24,11 +24,11 @@
       "GAN"
     ],
     "date": "2026-09-21T17:59:33Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yiran Wang, Xingyilang Yin, Junfu Pu et al."
   },
   {
-    "id": "arxiv_1790079091142_1",
+    "id": "arxiv_1790097810393_1",
     "name": "VideoGen-Agent: Reinforcing Video Generation Agents",
     "category": "computer-vision",
     "description": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation. However, these models often struggle to satisfy prompts requiring specialized knowledge, sp...",
@@ -38,11 +38,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-09-21T17:58:56Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Binxu Li, Haoyi Duan, Yuhui Zhang et al."
   },
   {
-    "id": "arxiv_1790079091158_0",
+    "id": "arxiv_1790097810408_0",
     "name": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use",
     "category": "machine-learning",
     "description": "Multi-turn tool-use failures can hinge on a single model call, yet reward variation alone does not reveal which call would benefit from training. When rewards depend on later interactions, their varia...",
@@ -51,11 +51,11 @@
       "AI"
     ],
     "date": "2026-09-21T17:57:20Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zixiang Chen, Wenting Zhao, Zhepeng Cen et al."
   },
   {
-    "id": "arxiv_1790079091194_0",
+    "id": "arxiv_1790097810424_0",
     "name": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use",
     "category": "nlp",
     "description": "Multi-turn tool-use failures can hinge on a single model call, yet reward variation alone does not reveal which call would benefit from training. When rewards depend on later interactions, their varia...",
@@ -68,7 +68,7 @@
     "source": "arXiv - Zixiang Chen, Wenting Zhao, Zhepeng Cen et al."
   },
   {
-    "id": "arxiv_1790079091108_1",
+    "id": "arxiv_1790097810235_1",
     "name": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
     "category": "ai",
     "description": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world m...",
@@ -81,7 +81,7 @@
     "source": "arXiv - Wangbo Yu, Kunhao Liu, Wenbo Hu et al."
   },
   {
-    "id": "arxiv_1790079091142_2",
+    "id": "arxiv_1790097810393_2",
     "name": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
     "category": "computer-vision",
     "description": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world m...",
@@ -90,11 +90,11 @@
       "AI"
     ],
     "date": "2026-09-21T17:57:06Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Wangbo Yu, Kunhao Liu, Wenbo Hu et al."
   },
   {
-    "id": "arxiv_1790079091158_1",
+    "id": "arxiv_1790097810408_1",
     "name": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
     "category": "machine-learning",
     "description": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model respo...",
@@ -109,7 +109,7 @@
     "source": "arXiv - Lei Yang, Mengyin Liu, Jia Wang et al."
   },
   {
-    "id": "arxiv_1790079091194_1",
+    "id": "arxiv_1790097810424_1",
     "name": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
     "category": "nlp",
     "description": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model respo...",
@@ -120,11 +120,11 @@
       "LLM"
     ],
     "date": "2026-09-21T17:56:53Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Lei Yang, Mengyin Liu, Jia Wang et al."
   },
   {
-    "id": "arxiv_1790079091142_3",
+    "id": "arxiv_1790097810393_3",
     "name": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
     "category": "computer-vision",
     "description": "We present a compact geometry-native latent space as a shared foundation for perception and generation. Visual generators can produce photorealistic frames without preserving a consistent 3D scene. We...",
@@ -137,7 +137,7 @@
     "source": "arXiv - Jiahao Lu, Minghao Yin, Wenbo Hu et al."
   },
   {
-    "id": "arxiv_1790079091158_2",
+    "id": "arxiv_1790097810409_2",
     "name": "LoRA-generating hypernetworks for efficient on-device LLM generative personalization",
     "category": "machine-learning",
     "description": "On-device large language models (`LLMs'), e.g. running on mobile phones, are ripe for improvement via personalization. The limited compute resources of mobile devices impose limits on model scale and ...",
@@ -148,11 +148,11 @@
       "LLM"
     ],
     "date": "2026-09-21T17:55:48Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sean Augenstein, Li Ding, Jihwan Lee et al."
   },
   {
-    "id": "arxiv_1790079091108_2",
+    "id": "arxiv_1790097810235_2",
     "name": "DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation",
     "category": "ai",
     "description": "Dexterous manipulation depends on contact dynamics that are often only partially observable from vision. Recent World-Action Models (WAMs) couple predictive video world modeling with action generation...",
@@ -163,11 +163,11 @@
       "Diffusion"
     ],
     "date": "2026-09-21T17:55:24Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Haoran Yuan, Zekai Wang, Boning Shao et al."
   },
   {
-    "id": "arxiv_1790079091142_4",
+    "id": "arxiv_1790097810393_4",
     "name": "DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation",
     "category": "computer-vision",
     "description": "Dexterous manipulation depends on contact dynamics that are often only partially observable from vision. Recent World-Action Models (WAMs) couple predictive video world modeling with action generation...",
@@ -178,11 +178,11 @@
       "Diffusion"
     ],
     "date": "2026-09-21T17:55:24Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Haoran Yuan, Zekai Wang, Boning Shao et al."
   },
   {
-    "id": "arxiv_1790079091108_3",
+    "id": "arxiv_1790097810235_3",
     "name": "Harness-Zero: Harness Distillation via Agent-as-Harness",
     "category": "ai",
     "description": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the bes...",
@@ -197,7 +197,7 @@
     "source": "arXiv - Haoran Ye, Yuxing Lu, Haonan Dong et al."
   },
   {
-    "id": "arxiv_1790079091194_2",
+    "id": "arxiv_1790097810424_2",
     "name": "Harness-Zero: Harness Distillation via Agent-as-Harness",
     "category": "nlp",
     "description": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the bes...",
@@ -212,7 +212,7 @@
     "source": "arXiv - Haoran Ye, Yuxing Lu, Haonan Dong et al."
   },
   {
-    "id": "arxiv_1790079091108_4",
+    "id": "arxiv_1790097810235_4",
     "name": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
     "category": "ai",
     "description": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasin...",
@@ -222,11 +222,11 @@
       "LLM"
     ],
     "date": "2026-09-21T17:54:49Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Peng Xia, Rujun Han, Zifeng Wang et al."
   },
   {
-    "id": "arxiv_1790079091158_3",
+    "id": "arxiv_1790097810409_3",
     "name": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
     "category": "machine-learning",
     "description": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasin...",
@@ -236,11 +236,11 @@
       "LLM"
     ],
     "date": "2026-09-21T17:54:49Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Peng Xia, Rujun Han, Zifeng Wang et al."
   },
   {
-    "id": "arxiv_1790079091195_3",
+    "id": "arxiv_1790097810424_3",
     "name": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
     "category": "nlp",
     "description": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasin...",
@@ -250,11 +250,11 @@
       "LLM"
     ],
     "date": "2026-09-21T17:54:49Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Peng Xia, Rujun Han, Zifeng Wang et al."
   },
   {
-    "id": "arxiv_1790079091195_4",
+    "id": "arxiv_1790097810424_4",
     "name": "DolphinBench: Mapping the Pareto Frontier of Agent Memory",
     "category": "nlp",
     "description": "Agents today often take real-world actions that depend on long-term memory and context recall over time. However, most current memory benchmarks are built for a conversational question-answer format, ...",
@@ -267,7 +267,7 @@
     "source": "arXiv - Soumil Rathi, Deshraj Yadav, Taranjeet Singh"
   },
   {
-    "id": "arxiv_1790079091158_4",
+    "id": "arxiv_1790097810409_4",
     "name": "Rare Event Estimation via Iterative Unalignment",
     "category": "machine-learning",
     "description": "As agents are deployed with increased autonomy, even extremely rare events along their stochastic output trajectories can occur and prove catastrophic. Safe deployment therefore does not depend on whe...",
