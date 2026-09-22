@@ -1,6 +1,115 @@
 [
   {
-    "id": "rss_Ars_Technica_1790097813871_0",
+    "id": "rss_TechCrunch_1790109196667_0",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 22 Sep 2026 20:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1790109200362_0",
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.\n                    ",
+    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "tags": [
+      "AI",
+      "Microsoft"
+    ],
+    "date": "Tue, 22 Sep 2026 19:45:47 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1790109200362_1",
+    "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "ChatGPT",
+      "GPT"
+    ],
+    "date": "Tue, 22 Sep 2026 19:28:23 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1790109196667_1",
+    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+    "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "date": "Tue, 22 Sep 2026 19:09:11 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1790109200362_2",
+    "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        You don't even need a Creative Cloud login to edit clips, but AI features cost extra.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 22 Sep 2026 19:08:58 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1790109201454_0",
+    "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
+    "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 22 Sep 2026 18:19:13 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1790109196668_2",
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra. ",
+    "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "GPT"
+    ],
+    "date": "Tue, 22 Sep 2026 18:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1790109200362_3",
+    "title": "Review: Resident Evil might just be the best gaming adaptation yet",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.\n                    ",
+    "link": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
+    "tags": [],
+    "date": "Tue, 22 Sep 2026 17:30:07 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1790109200362_4",
     "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -14,18 +123,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1790097813871_1",
-    "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        The English hospitals recovered patient care data only. \n                    ",
-    "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-    "tags": [],
-    "date": "Tue, 22 Sep 2026 16:55:40 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1790097810559_0",
+    "id": "rss_TechCrunch_1790109196668_3",
     "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -36,18 +134,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1790097813871_2",
-    "title": "Effort begins to fill the void left by terminated US climate report",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        First paper added to community collection is a roadmap for research.\n                    ",
-    "link": "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
-    "tags": [],
-    "date": "Tue, 22 Sep 2026 16:26:30 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1790097814923_0",
+    "id": "rss_Wired_1790109201454_1",
     "title": "Rabbit Is Back, This Time With an AI Agent App",
     "category": "ai-news",
     "source": "Wired",
@@ -60,21 +147,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1790097813872_3",
-    "title": "Shuffling the deck chairs: Xbox continues its \"reset\" with dramatic restructuring",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Activision gets Halo, Obsidian becomes part of Bethesda, and more internal shake-ups.\n                    ",
-    "link": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "Tue, 22 Sep 2026 15:30:53 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1790097810559_1",
+    "id": "rss_TechCrunch_1790109196668_4",
     "title": "AstroForge is putting AI in command of its next spacecraft",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -84,62 +157,10 @@
       "AI"
     ],
     "date": "Tue, 22 Sep 2026 15:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1790097810559_2",
-    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
-    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "tags": [
-      "AI",
-      "NVIDIA"
-    ],
-    "date": "Tue, 22 Sep 2026 15:00:00 +0000",
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1790097813872_4",
-    "title": "Protests for Germany’s car industry as job losses loom",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        A combination of Chinese competition and US tariffs is causing problems in Germany.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/",
-    "tags": [],
-    "date": "Tue, 22 Sep 2026 14:40:47 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1790097810559_3",
-    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
-    "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-    "tags": [
-      "AI",
-      "Robot"
-    ],
-    "date": "Tue, 22 Sep 2026 14:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1790097810559_4",
-    "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
-    "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-    "tags": [
-      "Startup"
-    ],
-    "date": "Tue, 22 Sep 2026 14:15:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1790097812701_0",
+    "id": "rss_MIT_Tech_Review_1790109198930_0",
     "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -149,10 +170,10 @@
       "AI"
     ],
     "date": "Tue, 22 Sep 2026 13:42:05 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1790097814923_1",
+    "id": "rss_Wired_1790109201454_2",
     "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
     "category": "ai-news",
     "source": "Wired",
@@ -162,10 +183,10 @@
       "AI"
     ],
     "date": "Tue, 22 Sep 2026 13:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1790097814923_2",
+    "id": "rss_Wired_1790109201454_3",
     "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
     "category": "ai-news",
     "source": "Wired",
@@ -178,7 +199,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1790097812702_1",
+    "id": "rss_MIT_Tech_Review_1790109198930_1",
     "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -188,10 +209,10 @@
       "AI"
     ],
     "date": "Tue, 22 Sep 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1790097812702_2",
+    "id": "rss_MIT_Tech_Review_1790109198930_2",
     "title": "Don’t be fooled by this summer of AI hype ",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -206,34 +227,20 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1790097814923_3",
+    "id": "rss_Wired_1790109201454_4",
     "title": "I Built AI Clones of My Coworkers. Things Got Weird",
     "category": "ai-news",
     "source": "Wired",
-    "description": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work.",
+    "description": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.�� Welcome to the future of work.",
     "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
     "tags": [
       "AI"
     ],
     "date": "Tue, 22 Sep 2026 10:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1790097814923_4",
-    "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.",
-    "link": "https://www.wired.com/story/big-interview-patti-harrison/",
-    "tags": [
-      "AI",
-      "Robot"
-    ],
-    "date": "Tue, 22 Sep 2026 10:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1790097812702_3",
+    "id": "rss_MIT_Tech_Review_1790109198931_3",
     "title": "The Download: investigating deaths at the US border’s “virtual wall”",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -246,7 +253,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1790097812702_4",
+    "id": "rss_MIT_Tech_Review_1790109198931_4",
     "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -254,10 +261,10 @@
     "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
     "tags": [],
     "date": "Mon, 21 Sep 2026 12:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1790097822520_0",
+    "id": "rss_Distill_1790109209667_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -270,7 +277,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1790097822520_1",
+    "id": "rss_Distill_1790109209668_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -283,7 +290,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1790097822520_2",
+    "id": "rss_Distill_1790109209668_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -291,10 +298,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1790097822520_3",
+    "id": "rss_Distill_1790109209668_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -307,7 +314,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1790097822520_4",
+    "id": "rss_Distill_1790109209668_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
