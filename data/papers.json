@@ -1,281 +1,282 @@
 [
   {
-    "id": "arxiv_1790039944428_0",
-    "name": "Blind Thermodynamic Ontology Discovery from Anonymous Experiments",
-    "category": "machine-learning",
-    "description": "Before a machine learning model can learn a thermodynamic equation of state, it must discover what its measurements represent: which channels scale with system size, which are intensive conjugates, ho...",
-    "link": "http://arxiv.org/abs/2609.23387v1",
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "date": "2026-09-20T06:11:40Z",
-    "trending": false,
-    "source": "arXiv - Linzhe Zhang, Changming Xu"
-  },
-  {
-    "id": "arxiv_1790039944409_0",
-    "name": "ProxyBuild: Text-Guided Structured 3D Building Generation with Mesh-Anchored Procedural Proxies",
-    "category": "computer-vision",
-    "description": "Text-guided 3D building generation holds tremendous application potential, yet existing generative models typically output inseparable single meshes or non-interactive rendered representations. While ...",
-    "link": "http://arxiv.org/abs/2609.23386v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-20T06:11:13Z",
-    "trending": false,
-    "source": "arXiv - Xiang Tang, Ruotong Li, Xiaopeng Fan"
-  },
-  {
-    "id": "arxiv_1790039944428_1",
-    "name": "Leveraging Industrial Foundation Models at the Edge of Particle Physics Detectors via Distillation Learning and Hardware Co-design",
-    "category": "machine-learning",
-    "description": "Data acquisition (DAQ) systems at future particle physics experiments stand to benefit from the extremes of AI/ML development: large-scale foundation models can enhance the performance of feature extr...",
-    "link": "http://arxiv.org/abs/2609.23385v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-20T06:10:58Z",
-    "trending": false,
-    "source": "arXiv - Gia Ancone, Qibin Liu, Liangyu Wu et al."
-  },
-  {
-    "id": "arxiv_1790039944428_2",
-    "name": "Bayesian Filtering in Physical Systems via Test-time Trained Flow Matching",
-    "category": "machine-learning",
-    "description": "Bayesian filtering provides a principled framework for online state estimation under uncertainty, yet its application to systems with high-dimensional states and complicated posterior distributions re...",
-    "link": "http://arxiv.org/abs/2609.23383v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-20T06:03:12Z",
-    "trending": false,
-    "source": "arXiv - Ruiqi Feng, Chongyi Wang, Tao Zhang et al."
-  },
-  {
-    "id": "arxiv_1790039944428_3",
-    "name": "Discovering Physical Representation Languages",
-    "category": "machine-learning",
-    "description": "Before a machine can discover a physical law, it must discover what its measurements are: which observations live on cells, which are intensive or extensive, which sectors are dual, and which distinct...",
-    "link": "http://arxiv.org/abs/2609.23381v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-20T06:02:32Z",
-    "trending": false,
-    "source": "arXiv - Linzhe Zhang, Changming Xu"
-  },
-  {
-    "id": "arxiv_1790039944409_1",
-    "name": "LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting",
-    "category": "computer-vision",
-    "description": "Gaussian Splatting has enabled real-time novel view synthesis, but its tightly coupled geometry and appearance representation often require a large number of primitives to reproduce high-frequency tex...",
-    "link": "http://arxiv.org/abs/2609.23380v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-09-20T06:00:47Z",
-    "trending": true,
-    "source": "arXiv - Zhiwei Li, Yijia Guo, Yishi Lu et al."
-  },
-  {
-    "id": "arxiv_1790039944428_4",
-    "name": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents",
-    "category": "machine-learning",
-    "description": "Repository-level software engineering (SWE) comprises heterogeneous task categories, whose progress under pooled agentic reinforcement learning can be uneven: gains in some categories coincide with re...",
-    "link": "http://arxiv.org/abs/2609.23377v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-09-20T05:58:21Z",
-    "trending": false,
-    "source": "arXiv - Jie Zhao, Ziyu Jiang, Suhang Zheng et al."
-  },
-  {
-    "id": "arxiv_1790039944410_2",
-    "name": "If You Hear It, Help Find It: Orthogonal Knowledge Distillation for Open-Vocabulary Audio-Visual Event Localization",
-    "category": "computer-vision",
-    "description": "Open-vocabulary audio-visual event localization (OV-AVEL) grounds a text-queried event in time from video, audio, and language. The supervision sources available to this task can differ in temporal-bo...",
-    "link": "http://arxiv.org/abs/2609.23376v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-20T05:57:07Z",
-    "trending": true,
-    "source": "arXiv - Yi Xu, Cheng Chen, Wenzhuo Lei"
-  },
-  {
-    "id": "arxiv_1790039944410_3",
-    "name": "Vision-Wireless Fusion for Multi-User Localization: A Cross-Modal Transformer Approach",
-    "category": "computer-vision",
-    "description": "Accurate multi-user localization is challenging in complex urban environments, where wireless measurements can become ambiguous under noise, blockage, and multipath, while visual observations provide ...",
-    "link": "http://arxiv.org/abs/2609.23372v1",
-    "tags": [
-      "Vision",
-      "Transformer"
-    ],
-    "date": "2026-09-20T05:46:38Z",
-    "trending": true,
-    "source": "arXiv - Can Zheng, Jiguang He, Guofa Cai et al."
-  },
-  {
-    "id": "arxiv_1790039944410_4",
-    "name": "The Right Future for Action: Learning Action-Relevant Predictive States in World Action Models",
-    "category": "computer-vision",
-    "description": "Generation-free world action models (WAMs) retain future-video prediction during training but act from internal video features at inference, leaving unclear what these features should preserve for con...",
-    "link": "http://arxiv.org/abs/2609.23369v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-20T05:37:10Z",
-    "trending": true,
-    "source": "arXiv - Qiwen Gu, Jifan Li, Bingjie Gao et al."
-  },
-  {
-    "id": "arxiv_1790039944381_0",
-    "name": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+    "id": "arxiv_1790060155391_0",
+    "name": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
     "category": "ai",
-    "description": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We intro...",
-    "link": "http://arxiv.org/abs/2609.22086v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-18T17:59:56Z",
-    "trending": false,
-    "source": "arXiv - Hongyang Du, Lan Yan, Christian Flores et al."
-  },
-  {
-    "id": "arxiv_1790039944455_0",
-    "name": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
-    "category": "nlp",
-    "description": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can fa...",
-    "link": "http://arxiv.org/abs/2609.22081v1",
+    "description": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal ...",
+    "link": "http://arxiv.org/abs/2609.25001v1",
     "tags": [
       "AI",
       "GAN"
     ],
-    "date": "2026-09-18T17:59:10Z",
+    "date": "2026-09-21T17:59:33Z",
     "trending": false,
-    "source": "arXiv - Aho Yapi, Pierre Latouche, Arnaud Guillin et al."
+    "source": "arXiv - Yiran Wang, Xingyilang Yin, Junfu Pu et al."
   },
   {
-    "id": "arxiv_1790039944381_1",
-    "name": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
-    "category": "ai",
-    "description": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically...",
-    "link": "http://arxiv.org/abs/2609.22068v1",
+    "id": "arxiv_1790060155464_0",
+    "name": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+    "category": "computer-vision",
+    "description": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal ...",
+    "link": "http://arxiv.org/abs/2609.25001v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-09-21T17:59:33Z",
+    "trending": false,
+    "source": "arXiv - Yiran Wang, Xingyilang Yin, Junfu Pu et al."
+  },
+  {
+    "id": "arxiv_1790060155464_1",
+    "name": "VideoGen-Agent: Reinforcing Video Generation Agents",
+    "category": "computer-vision",
+    "description": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation. However, these models often struggle to satisfy prompts requiring specialized knowledge, sp...",
+    "link": "http://arxiv.org/abs/2609.24997v1",
     "tags": [
       "AI",
       "Reinforcement Learning"
     ],
-    "date": "2026-09-18T17:55:17Z",
-    "trending": false,
-    "source": "arXiv - Bowen Ye, Lei Li, Shicheng Li et al."
+    "date": "2026-09-21T17:58:56Z",
+    "trending": true,
+    "source": "arXiv - Binxu Li, Haoyi Duan, Yuhui Zhang et al."
   },
   {
-    "id": "arxiv_1790039944382_2",
-    "name": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
-    "category": "ai",
-    "description": "Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM...",
-    "link": "http://arxiv.org/abs/2609.22067v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-18T17:55:09Z",
-    "trending": false,
-    "source": "arXiv - Renkai Ma, Ruyuan Wan, Xuan Lu et al."
-  },
-  {
-    "id": "arxiv_1790039944456_1",
-    "name": "Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention",
-    "category": "nlp",
-    "description": "Multi-hop retrieval failures are not uniformly distributed across queries: they cluster in structurally predictable subpopulations. We prove two results formalizing this structure. First (CWAR Reducib...",
-    "link": "http://arxiv.org/abs/2609.22056v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-18T17:48:15Z",
-    "trending": false,
-    "source": "arXiv - Andre Bacellar"
-  },
-  {
-    "id": "arxiv_1790039944456_2",
-    "name": "An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency",
-    "category": "nlp",
-    "description": "Memory systems for large language models have focused predominantly on efficient retrieval, whereas the decision of whether retrieved memories should be trusted has received comparatively little atten...",
-    "link": "http://arxiv.org/abs/2609.22043v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-18T17:34:13Z",
-    "trending": false,
-    "source": "arXiv - Yiming Zhang, Jinghong Zhang, Haoran Zhao et al."
-  },
-  {
-    "id": "arxiv_1790039944382_3",
-    "name": "Gricea: An Open Science Platform for Conversational AI Research",
-    "category": "ai",
-    "description": "We need studies on conversational AI (CAI) at scale to understand human behavior and shape CAI design. However, fragmented reporting of systems and study configurations hinders replication, extension,...",
-    "link": "http://arxiv.org/abs/2609.22039v1",
+    "id": "arxiv_1790060155532_0",
+    "name": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use",
+    "category": "machine-learning",
+    "description": "Multi-turn tool-use failures can hinge on a single model call, yet reward variation alone does not reveal which call would benefit from training. When rewards depend on later interactions, their varia...",
+    "link": "http://arxiv.org/abs/2609.24985v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-09-18T17:31:05Z",
-    "trending": false,
-    "source": "arXiv - Nikhil Sharma, Yunlin Gong, Xinyang Cheng et al."
+    "date": "2026-09-21T17:57:20Z",
+    "trending": true,
+    "source": "arXiv - Zixiang Chen, Wenting Zhao, Zhepeng Cen et al."
   },
   {
-    "id": "arxiv_1790039944456_3",
-    "name": "QuranicMMLU: A Cognitively-Aware Benchmark for Evaluating Generative AI Solutions on Quranic Linguistic Knowledge",
+    "id": "arxiv_1790060155603_0",
+    "name": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use",
     "category": "nlp",
-    "description": "We introduce QuranicMMLU, a benchmark for evaluating generative AI on Quranic Arabic across multiple dimensions of linguistic complexity. Existing Quranic benchmarks center on general question answeri...",
-    "link": "http://arxiv.org/abs/2609.22038v1",
+    "description": "Multi-turn tool-use failures can hinge on a single model call, yet reward variation alone does not reveal which call would benefit from training. When rewards depend on later interactions, their varia...",
+    "link": "http://arxiv.org/abs/2609.24985v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-21T17:57:20Z",
+    "trending": false,
+    "source": "arXiv - Zixiang Chen, Wenting Zhao, Zhepeng Cen et al."
+  },
+  {
+    "id": "arxiv_1790060155392_1",
+    "name": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+    "category": "ai",
+    "description": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world m...",
+    "link": "http://arxiv.org/abs/2609.24984v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-21T17:57:06Z",
+    "trending": false,
+    "source": "arXiv - Wangbo Yu, Kunhao Liu, Wenbo Hu et al."
+  },
+  {
+    "id": "arxiv_1790060155464_2",
+    "name": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+    "category": "computer-vision",
+    "description": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world m...",
+    "link": "http://arxiv.org/abs/2609.24984v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-21T17:57:06Z",
+    "trending": false,
+    "source": "arXiv - Wangbo Yu, Kunhao Liu, Wenbo Hu et al."
+  },
+  {
+    "id": "arxiv_1790060155532_1",
+    "name": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+    "category": "machine-learning",
+    "description": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model respo...",
+    "link": "http://arxiv.org/abs/2609.24983v1",
     "tags": [
       "AI",
-      "NLP",
+      "Vision",
       "LLM"
     ],
-    "date": "2026-09-18T17:30:27Z",
-    "trending": false,
-    "source": "arXiv - Rawan El Ghali, Umm Kulsoom, Anas Madkoor et al."
-  },
-  {
-    "id": "arxiv_1790039944382_4",
-    "name": "DiaVLo: Diagnosing Behaviours of Vision-Language Models",
-    "category": "ai",
-    "description": "Vision-language models (VLMs) rely on storing and transferring appropriate information across their sub-components. Verifying that the VLMs exhibit desired behaviours, while avoiding harmful ones, is ...",
-    "link": "http://arxiv.org/abs/2609.22008v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GAN"
-    ],
-    "date": "2026-09-18T17:06:44Z",
+    "date": "2026-09-21T17:56:53Z",
     "trending": true,
-    "source": "arXiv - Lorenzo Corti, Jie Yang"
+    "source": "arXiv - Lei Yang, Mengyin Liu, Jia Wang et al."
   },
   {
-    "id": "arxiv_1790039944456_4",
-    "name": "DiaVLo: Diagnosing Behaviours of Vision-Language Models",
+    "id": "arxiv_1790060155604_1",
+    "name": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
     "category": "nlp",
-    "description": "Vision-language models (VLMs) rely on storing and transferring appropriate information across their sub-components. Verifying that the VLMs exhibit desired behaviours, while avoiding harmful ones, is ...",
-    "link": "http://arxiv.org/abs/2609.22008v1",
+    "description": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model respo...",
+    "link": "http://arxiv.org/abs/2609.24983v1",
     "tags": [
       "AI",
       "Vision",
-      "GAN"
+      "LLM"
     ],
-    "date": "2026-09-18T17:06:44Z",
+    "date": "2026-09-21T17:56:53Z",
     "trending": false,
-    "source": "arXiv - Lorenzo Corti, Jie Yang"
+    "source": "arXiv - Lei Yang, Mengyin Liu, Jia Wang et al."
+  },
+  {
+    "id": "arxiv_1790060155464_3",
+    "name": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
+    "category": "computer-vision",
+    "description": "We present a compact geometry-native latent space as a shared foundation for perception and generation. Visual generators can produce photorealistic frames without preserving a consistent 3D scene. We...",
+    "link": "http://arxiv.org/abs/2609.24981v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-21T17:56:25Z",
+    "trending": false,
+    "source": "arXiv - Jiahao Lu, Minghao Yin, Wenbo Hu et al."
+  },
+  {
+    "id": "arxiv_1790060155532_2",
+    "name": "LoRA-generating hypernetworks for efficient on-device LLM generative personalization",
+    "category": "machine-learning",
+    "description": "On-device large language models (`LLMs'), e.g. running on mobile phones, are ripe for improvement via personalization. The limited compute resources of mobile devices impose limits on model scale and ...",
+    "link": "http://arxiv.org/abs/2609.24979v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "LLM"
+    ],
+    "date": "2026-09-21T17:55:48Z",
+    "trending": true,
+    "source": "arXiv - Sean Augenstein, Li Ding, Jihwan Lee et al."
+  },
+  {
+    "id": "arxiv_1790060155392_2",
+    "name": "DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation",
+    "category": "ai",
+    "description": "Dexterous manipulation depends on contact dynamics that are often only partially observable from vision. Recent World-Action Models (WAMs) couple predictive video world modeling with action generation...",
+    "link": "http://arxiv.org/abs/2609.24976v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion"
+    ],
+    "date": "2026-09-21T17:55:24Z",
+    "trending": true,
+    "source": "arXiv - Haoran Yuan, Zekai Wang, Boning Shao et al."
+  },
+  {
+    "id": "arxiv_1790060155464_4",
+    "name": "DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation",
+    "category": "computer-vision",
+    "description": "Dexterous manipulation depends on contact dynamics that are often only partially observable from vision. Recent World-Action Models (WAMs) couple predictive video world modeling with action generation...",
+    "link": "http://arxiv.org/abs/2609.24976v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion"
+    ],
+    "date": "2026-09-21T17:55:24Z",
+    "trending": false,
+    "source": "arXiv - Haoran Yuan, Zekai Wang, Boning Shao et al."
+  },
+  {
+    "id": "arxiv_1790060155392_3",
+    "name": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+    "category": "ai",
+    "description": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the bes...",
+    "link": "http://arxiv.org/abs/2609.24974v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-09-21T17:55:20Z",
+    "trending": false,
+    "source": "arXiv - Haoran Ye, Yuxing Lu, Haonan Dong et al."
+  },
+  {
+    "id": "arxiv_1790060155604_2",
+    "name": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+    "category": "nlp",
+    "description": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the bes...",
+    "link": "http://arxiv.org/abs/2609.24974v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-09-21T17:55:20Z",
+    "trending": false,
+    "source": "arXiv - Haoran Ye, Yuxing Lu, Haonan Dong et al."
+  },
+  {
+    "id": "arxiv_1790060155392_4",
+    "name": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+    "category": "ai",
+    "description": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasin...",
+    "link": "http://arxiv.org/abs/2609.24972v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-21T17:54:49Z",
+    "trending": false,
+    "source": "arXiv - Peng Xia, Rujun Han, Zifeng Wang et al."
+  },
+  {
+    "id": "arxiv_1790060155532_3",
+    "name": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+    "category": "machine-learning",
+    "description": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasin...",
+    "link": "http://arxiv.org/abs/2609.24972v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-21T17:54:49Z",
+    "trending": false,
+    "source": "arXiv - Peng Xia, Rujun Han, Zifeng Wang et al."
+  },
+  {
+    "id": "arxiv_1790060155604_3",
+    "name": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+    "category": "nlp",
+    "description": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasin...",
+    "link": "http://arxiv.org/abs/2609.24972v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-21T17:54:49Z",
+    "trending": true,
+    "source": "arXiv - Peng Xia, Rujun Han, Zifeng Wang et al."
+  },
+  {
+    "id": "arxiv_1790060155604_4",
+    "name": "DolphinBench: Mapping the Pareto Frontier of Agent Memory",
+    "category": "nlp",
+    "description": "Agents today often take real-world actions that depend on long-term memory and context recall over time. However, most current memory benchmarks are built for a conversational question-answer format, ...",
+    "link": "http://arxiv.org/abs/2609.24971v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-21T17:54:35Z",
+    "trending": false,
+    "source": "arXiv - Soumil Rathi, Deshraj Yadav, Taranjeet Singh"
+  },
+  {
+    "id": "arxiv_1790060155532_4",
+    "name": "Rare Event Estimation via Iterative Unalignment",
+    "category": "machine-learning",
+    "description": "As agents are deployed with increased autonomy, even extremely rare events along their stochastic output trajectories can occur and prove catastrophic. Safe deployment therefore does not depend on whe...",
+    "link": "http://arxiv.org/abs/2609.24969v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-21T17:53:38Z",
+    "trending": false,
+    "source": "arXiv - Hanming Yang, Daksh Mittal, Jing Dong et al."
   }
 ]
