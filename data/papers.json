@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1790200280222_0",
+    "id": "arxiv_1790208229455_0",
     "name": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
     "category": "nlp",
     "description": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment rema...",
@@ -11,11 +11,11 @@
       "Diffusion"
     ],
     "date": "2026-09-22T17:59:57Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Quan Nguyen-Tri, Mukul Ranjan, Zhiqiang Shen"
   },
   {
-    "id": "arxiv_1790200280104_0",
+    "id": "arxiv_1790208229427_0",
     "name": "φ-RIE: From Photorealistic Reconstruction to Interactive Environments",
     "category": "computer-vision",
     "description": "3D Gaussian Splatting (3DGS) can reconstruct a captured scene photorealistically, but the resulting representation does not by itself support physical interaction. Robot simulation instead requires ob...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Runyi Yang, Deheng Zhang, Xiaoye Wang et al."
   },
   {
-    "id": "arxiv_1790200280104_1",
+    "id": "arxiv_1790208229428_1",
     "name": "HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis",
     "category": "computer-vision",
     "description": "Compositional 3D scene reconstruction has recently been explored from two directions: agentic reasoning that provides semantic understanding of spatial relationships but lacks precise alignment with i...",
@@ -38,11 +38,11 @@
       "GPT"
     ],
     "date": "2026-09-22T17:59:47Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Shufan Sun, Chen Wang, Enxin Song et al."
   },
   {
-    "id": "arxiv_1790200280104_2",
+    "id": "arxiv_1790208229428_2",
     "name": "DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving",
     "category": "computer-vision",
     "description": "Faithfully evaluating end-to-end driving policies in simulation requires observations that are not merely photo-realistic, but preserve the scene features a policy relies on to make decisions. Existin...",
@@ -55,7 +55,7 @@
     "source": "arXiv - Ziyang Leng, Sicheng Mo, Seth Z. Zhao et al."
   },
   {
-    "id": "arxiv_1790200280162_0",
+    "id": "arxiv_1790208229442_0",
     "name": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing",
     "category": "machine-learning",
     "description": "We study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank mod...",
@@ -64,11 +64,11 @@
       "AI"
     ],
     "date": "2026-09-22T17:56:46Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xiaoxing Ren, Thomas Parisini, Andreas A. Malikopoulos"
   },
   {
-    "id": "arxiv_1790200280222_1",
+    "id": "arxiv_1790208229455_1",
     "name": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
     "category": "nlp",
     "description": "A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent systems. However, the scalability of current multi-ag...",
@@ -83,7 +83,7 @@
     "source": "arXiv - Zhihao Zhan, Ting Song, Li Dong et al."
   },
   {
-    "id": "arxiv_1790200280045_0",
+    "id": "arxiv_1790208229410_0",
     "name": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
     "category": "ai",
     "description": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, ho...",
@@ -98,7 +98,7 @@
     "source": "arXiv - Haobo Zheng, Tan Tang, Yan Chen et al."
   },
   {
-    "id": "arxiv_1790200280162_1",
+    "id": "arxiv_1790208229442_1",
     "name": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
     "category": "machine-learning",
     "description": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, ho...",
@@ -109,11 +109,11 @@
       "LLM"
     ],
     "date": "2026-09-22T17:56:12Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Haobo Zheng, Tan Tang, Yan Chen et al."
   },
   {
-    "id": "arxiv_1790200280222_2",
+    "id": "arxiv_1790208229455_2",
     "name": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
     "category": "nlp",
     "description": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, ho...",
@@ -124,11 +124,11 @@
       "LLM"
     ],
     "date": "2026-09-22T17:56:12Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Haobo Zheng, Tan Tang, Yan Chen et al."
   },
   {
-    "id": "arxiv_1790200280045_1",
+    "id": "arxiv_1790208229410_1",
     "name": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
     "category": "ai",
     "description": "Agents often work on complex problems that require millions of tokens of context, which necessitates compacting across sessions due to limited context windows. We develop CliffCompaction, an autocompa...",
@@ -138,11 +138,11 @@
       "GPT"
     ],
     "date": "2026-09-22T17:55:59Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Trang Nguyen, Eulrang Cho, Bingqing Chen et al."
   },
   {
-    "id": "arxiv_1790200280162_2",
+    "id": "arxiv_1790208229442_2",
     "name": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
     "category": "machine-learning",
     "description": "Agents often work on complex problems that require millions of tokens of context, which necessitates compacting across sessions due to limited context windows. We develop CliffCompaction, an autocompa...",
@@ -156,7 +156,7 @@
     "source": "arXiv - Trang Nguyen, Eulrang Cho, Bingqing Chen et al."
   },
   {
-    "id": "arxiv_1790200280045_2",
+    "id": "arxiv_1790208229410_2",
     "name": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving",
     "category": "ai",
     "description": "We introduce SWE-Serve, a benchmark for evaluating agents on production inference engineering tasks. Implementing an inference feature can require coordinating multiple changes across the serving stac...",
@@ -166,11 +166,11 @@
       "Optimization"
     ],
     "date": "2026-09-22T17:54:59Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jennifer Williams, Dave Farris, Jeff Farris et al."
   },
   {
-    "id": "arxiv_1790200280104_3",
+    "id": "arxiv_1790208229428_3",
     "name": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
     "category": "computer-vision",
     "description": "Vector Quantization (VQ) is fundamental to discrete visual tokenizers that power modern autoregressive and masked image generation models. While recent shared-projection codebook methods have substant...",
@@ -184,7 +184,7 @@
     "source": "arXiv - Bao Tang, Jiahao Guo, Haoxiang Cao et al."
   },
   {
-    "id": "arxiv_1790200280045_3",
+    "id": "arxiv_1790208229410_3",
     "name": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem",
     "category": "ai",
     "description": "Agents using the Model Context Protocol (MCP) rely on semantic matching to select tools from third-party servers, exposing a semantic supply-chain risk through attacker-controlled metadata and outputs...",
@@ -198,7 +198,7 @@
     "source": "arXiv - Laizhen Li, Xuan Wang, Peicheng Zhao et al."
   },
   {
-    "id": "arxiv_1790200280045_4",
+    "id": "arxiv_1790208229411_4",
     "name": "Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents",
     "category": "ai",
     "description": "Large language model (LLM) agents often handle streams of related tasks, yet standard harnesses repeatedly ask the model to reconstruct the same control decisions inside each task's context. We study ...",
@@ -212,7 +212,7 @@
     "source": "arXiv - Laizhen Li, Jiarui Li, Juanjuan Zhao et al."
   },
   {
-    "id": "arxiv_1790200280105_4",
+    "id": "arxiv_1790208229428_4",
     "name": "FleXray: Universal Clinical X-ray Segmentation",
     "category": "computer-vision",
     "description": "X-ray is medicine's most widely used imaging modality, yet remains among its least quantitative. Unlike volumetric modalities like CT or MRI, X-ray collapses 3D anatomy into a 2D projection, causing s...",
@@ -221,11 +221,11 @@
       "AI"
     ],
     "date": "2026-09-22T17:37:55Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Victor Ion Butoi, Vivek Gopalakrishnan, John V. Guttag et al."
   },
   {
-    "id": "arxiv_1790200280163_3",
+    "id": "arxiv_1790208229442_3",
     "name": "EquivSVA: A Formally Verified Dataset of Behavioral Assertions Across Equivalent RTL Implementations",
     "category": "machine-learning",
     "description": "Large language models are increasingly used to generate SystemVerilog Assertions from natural-language specifica- tions and register-transfer-level designs. Existing datasets and benchmarks support im...",
@@ -235,22 +235,22 @@
       "GAN"
     ],
     "date": "2026-09-22T17:33:09Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - FNU Aditi"
   },
   {
-    "id": "arxiv_1790200280163_4",
+    "id": "arxiv_1790208229442_4",
     "name": "Automatic depth-based local center clustering via $β$-integrated local depth and adaptive grouping",
     "category": "machine-learning",
     "description": "Clustering is an unsupervised learning technique that partitions unlabeled data into groups. Most existing methods require user-specified parameters, such as the number of clusters or neighborhood siz...",
     "link": "http://arxiv.org/abs/2609.26748v1",
     "tags": [],
     "date": "2026-09-22T17:31:28Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Siyi Wang, Alexandre Leblanc, Paul D. McNicholas"
   },
   {
-    "id": "arxiv_1790200280222_3",
+    "id": "arxiv_1790208229455_3",
     "name": "Beyond Repeated Sampling: Learning Search Policies for LLM Reasoning",
     "category": "nlp",
     "description": "Large language models increasingly tackle hard reasoning problems by spending more test-time compute, yet the dominant strategy remains naive repeated sampling: draw many independent solutions and hop...",
@@ -265,7 +265,7 @@
     "source": "arXiv - Ismail Labiad, Matthieu Kowalski, Marc Schoenauer et al."
   },
   {
-    "id": "arxiv_1790200280222_4",
+    "id": "arxiv_1790208229455_4",
     "name": "Measuring the Serving Stack Instead of the Model: Hidden Confounds in Local Tool-Use Evaluation",
     "category": "nlp",
     "description": "A coding agent must emit a valid tool call--a parseable invocation of a tool in the provided schema--before the harness can execute its chosen action. We study how local serving stacks affect this pro...",
@@ -275,7 +275,7 @@
       "LLM"
     ],
     "date": "2026-09-22T16:48:17Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Lijuan Tang, Yuemeng Zheng"
   }
 ]
