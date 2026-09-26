@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1790418223230_0",
+    "id": "arxiv_1790434046846_0",
     "name": "LLM Agents Can Easily Tamper With Their Own Traces",
     "category": "ai",
     "description": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own ...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Jeremy Qin, David Schmotz, Derck Prinzhorn et al."
   },
   {
-    "id": "arxiv_1790418223230_1",
+    "id": "arxiv_1790434046847_1",
     "name": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
     "category": "ai",
     "description": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low...",
@@ -23,11 +23,11 @@
       "AI"
     ],
     "date": "2026-09-24T17:59:41Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jiabin Qiu, Zixuan Chen, Hongye Cao et al."
   },
   {
-    "id": "arxiv_1790418223287_0",
+    "id": "arxiv_1790434046891_0",
     "name": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
     "category": "machine-learning",
     "description": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal stru...",
@@ -43,7 +43,7 @@
     "source": "arXiv - Sudip Bhujel, Shanghao Shi, Ruiquan Huang et al."
   },
   {
-    "id": "arxiv_1790418223287_1",
+    "id": "arxiv_1790434046891_1",
     "name": "Agentic Detection of Online Conspiracies",
     "category": "machine-learning",
     "description": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, sa...",
@@ -52,11 +52,11 @@
       "AI"
     ],
     "date": "2026-09-24T17:58:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Lior Biton, Oren Tsur"
   },
   {
-    "id": "arxiv_1790418223318_0",
+    "id": "arxiv_1790434046914_0",
     "name": "Agentic Detection of Online Conspiracies",
     "category": "nlp",
     "description": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, sa...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Lior Biton, Oren Tsur"
   },
   {
-    "id": "arxiv_1790418223230_2",
+    "id": "arxiv_1790434046847_2",
     "name": "RAPID: Robot Agentic Programming from Demonstrations",
     "category": "ai",
     "description": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrati...",
@@ -83,7 +83,7 @@
     "source": "arXiv - Yuyao Liu, Jiayuan Mao, David Hsu et al."
   },
   {
-    "id": "arxiv_1790418223259_0",
+    "id": "arxiv_1790434046868_0",
     "name": "RAPID: Robot Agentic Programming from Demonstrations",
     "category": "computer-vision",
     "description": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrati...",
@@ -93,11 +93,11 @@
       "Optimization"
     ],
     "date": "2026-09-24T17:58:21Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yuyao Liu, Jiayuan Mao, David Hsu et al."
   },
   {
-    "id": "arxiv_1790418223230_3",
+    "id": "arxiv_1790434046847_3",
     "name": "Rolling-WAM: World Action Models with Rolling Imagination",
     "category": "ai",
     "description": "World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle incurs...",
@@ -110,7 +110,7 @@
     "source": "arXiv - Yinghua Zhou, Junjie Ye, Yiqi Zhao et al."
   },
   {
-    "id": "arxiv_1790418223259_1",
+    "id": "arxiv_1790434046869_1",
     "name": "Rolling-WAM: World Action Models with Rolling Imagination",
     "category": "computer-vision",
     "description": "World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle incurs...",
@@ -123,7 +123,7 @@
     "source": "arXiv - Yinghua Zhou, Junjie Ye, Yiqi Zhao et al."
   },
   {
-    "id": "arxiv_1790418223259_2",
+    "id": "arxiv_1790434046869_2",
     "name": "Towards Practical Compression of 3D Gaussian Splatting",
     "category": "computer-vision",
     "description": "3D Gaussian Splatting (3DGS) enables high-quality novel-view synthesis but requires substantial storage. Existing compression methods often rely on spatial context modeling over irregular 3D represent...",
@@ -133,11 +133,11 @@
       "Optimization"
     ],
     "date": "2026-09-24T17:57:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Pengpeng Yu, Yueru Chen, Fei Song et al."
   },
   {
-    "id": "arxiv_1790418223318_1",
+    "id": "arxiv_1790434046914_1",
     "name": "JevOut: Natural Context Can Flip Decision Models",
     "category": "nlp",
     "description": "Dedicated decision models such as Jev map unstructured language to probability distributions over finite choices, allowing their outputs to directly route requests, select tools, and trigger actions. ...",
@@ -150,7 +150,7 @@
     "source": "arXiv - Zixiang Xu"
   },
   {
-    "id": "arxiv_1790418223259_3",
+    "id": "arxiv_1790434046869_3",
     "name": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
     "category": "computer-vision",
     "description": "Recent research on Multimodal Sentiment Analysis (MSA) has focused on learning from language, visual, and acoustic modalities with incomplete data to infer human sentiment. Most studies typically comp...",
@@ -160,11 +160,11 @@
       "LLM"
     ],
     "date": "2026-09-24T17:55:31Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Wenhao Li, Zhibin Wu, Chong Xiao et al."
   },
   {
-    "id": "arxiv_1790418223318_2",
+    "id": "arxiv_1790434046914_2",
     "name": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
     "category": "nlp",
     "description": "Recent research on Multimodal Sentiment Analysis (MSA) has focused on learning from language, visual, and acoustic modalities with incomplete data to infer human sentiment. Most studies typically comp...",
@@ -178,7 +178,7 @@
     "source": "arXiv - Wenhao Li, Zhibin Wu, Chong Xiao et al."
   },
   {
-    "id": "arxiv_1790418223259_4",
+    "id": "arxiv_1790434046869_4",
     "name": "OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction",
     "category": "computer-vision",
     "description": "Automated generation of production-ready 3D garment assets from a single image is a central challenge in digital content creation. While recent generative models have significantly advanced 3D geometr...",
@@ -194,7 +194,7 @@
     "source": "arXiv - Ding-Jiun Huang, Yuanhao Wang, Cheng Zhang et al."
   },
   {
-    "id": "arxiv_1790418223230_4",
+    "id": "arxiv_1790434046847_4",
     "name": "Coding Agents for Generalized Task and Motion Planning Problems",
     "category": "ai",
     "description": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic con...",
@@ -209,7 +209,7 @@
     "source": "arXiv - Matteo Merler, Bowen Li, Josh Roy et al."
   },
   {
-    "id": "arxiv_1790418223288_2",
+    "id": "arxiv_1790434046891_2",
     "name": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
     "category": "machine-learning",
     "description": "Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can v...",
@@ -222,7 +222,7 @@
     "source": "arXiv - Debajyoti Mazumder,  Mamta, Abhirama Subramanyam Penamakuri"
   },
   {
-    "id": "arxiv_1790418223318_3",
+    "id": "arxiv_1790434046914_3",
     "name": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
     "category": "nlp",
     "description": "Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can v...",
@@ -235,7 +235,7 @@
     "source": "arXiv - Debajyoti Mazumder,  Mamta, Abhirama Subramanyam Penamakuri"
   },
   {
-    "id": "arxiv_1790418223288_3",
+    "id": "arxiv_1790434046891_3",
     "name": "PoEM: Predicting RL Outcomes from Existing Policies",
     "category": "machine-learning",
     "description": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computat...",
@@ -249,7 +249,7 @@
     "source": "arXiv - Kimia Hamidieh, Giannis Daras, Antonio Torralba"
   },
   {
-    "id": "arxiv_1790418223318_4",
+    "id": "arxiv_1790434046915_4",
     "name": "PoEM: Predicting RL Outcomes from Existing Policies",
     "category": "nlp",
     "description": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computat...",
@@ -263,7 +263,7 @@
     "source": "arXiv - Kimia Hamidieh, Giannis Daras, Antonio Torralba"
   },
   {
-    "id": "arxiv_1790418223288_4",
+    "id": "arxiv_1790434046891_4",
     "name": "Minimally Invasive Steering of Language Models",
     "category": "machine-learning",
     "description": "Pre-logit steering adapts a frozen language model to a test-time reward by adding vectors to its final hidden states. Unregularized reward optimization can substantially alter the output distribution ...",
