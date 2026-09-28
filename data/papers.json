@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1790575269921_0",
+    "id": "arxiv_1790606233276_0",
     "name": "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders",
     "category": "computer-vision",
     "description": "Representation autoencoders (RAEs) reuse features from a pretrained visual encoder as reconstruction and diffusion latents, integrating strong visual representations into image generation. However, RA...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Hongyang Du, Yunfei Xie, Junjie Ye et al."
   },
   {
-    "id": "arxiv_1790575269907_0",
+    "id": "arxiv_1790606233199_0",
     "name": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
     "category": "ai",
     "description": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me...",
@@ -26,11 +26,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-09-25T17:59:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe et al."
   },
   {
-    "id": "arxiv_1790575269935_0",
+    "id": "arxiv_1790606233353_0",
     "name": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
     "category": "machine-learning",
     "description": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me...",
@@ -46,7 +46,7 @@
     "source": "arXiv - Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe et al."
   },
   {
-    "id": "arxiv_1790575269948_0",
+    "id": "arxiv_1790606233423_0",
     "name": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
     "category": "nlp",
     "description": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me...",
@@ -58,22 +58,22 @@
       "Reinforcement Learning"
     ],
     "date": "2026-09-25T17:59:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe et al."
   },
   {
-    "id": "arxiv_1790575269935_1",
+    "id": "arxiv_1790606233353_1",
     "name": "Gap-free Differentially Private PCA for Gaussian Data",
     "category": "machine-learning",
     "description": "We give a gap-free differentially private algorithm for the principal component analysis (PCA) problem with Gaussian data.",
     "link": "http://arxiv.org/abs/2609.31614v1",
     "tags": [],
     "date": "2026-09-25T17:58:38Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Alina Ene, Huy L. Nguyen"
   },
   {
-    "id": "arxiv_1790575269935_2",
+    "id": "arxiv_1790606233354_2",
     "name": "First-Order Stationarity of Reverse Diffusions",
     "category": "machine-learning",
     "description": "Recent literature has shown a strong connection between optimization and sampling. We develop the corresponding first-order theory for diffusion models. First, the SDE-based reverse-time flows of over...",
@@ -83,11 +83,11 @@
       "Optimization"
     ],
     "date": "2026-09-25T17:57:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zhifeng Chen, Chenyang Jiang, Yazhen Wang"
   },
   {
-    "id": "arxiv_1790575269907_1",
+    "id": "arxiv_1790606233199_1",
     "name": "Statistical attribute alignment for black-box generative AI via output post-processing",
     "category": "ai",
     "description": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-gener...",
@@ -100,7 +100,7 @@
     "source": "arXiv - Kevin Jiang, Morgane Austern, Edgar Dobriban et al."
   },
   {
-    "id": "arxiv_1790575269935_3",
+    "id": "arxiv_1790606233354_3",
     "name": "Statistical attribute alignment for black-box generative AI via output post-processing",
     "category": "machine-learning",
     "description": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-gener...",
@@ -113,7 +113,7 @@
     "source": "arXiv - Kevin Jiang, Morgane Austern, Edgar Dobriban et al."
   },
   {
-    "id": "arxiv_1790575269935_4",
+    "id": "arxiv_1790606233354_4",
     "name": "User Model Extraction via Belief Self-Distillation",
     "category": "machine-learning",
     "description": "Large language models (LLMs) implicitly infer attributes of their users and adapt their behavior accordingly, yet these beliefs remain difficult to inspect and causally manipulate. We introduce Belief...",
@@ -127,7 +127,7 @@
     "source": "arXiv - Ali Holmov, Yiran Huang, Kirill Bykov et al."
   },
   {
-    "id": "arxiv_1790575269948_1",
+    "id": "arxiv_1790606233423_1",
     "name": "User Model Extraction via Belief Self-Distillation",
     "category": "nlp",
     "description": "Large language models (LLMs) implicitly infer attributes of their users and adapt their behavior accordingly, yet these beliefs remain difficult to inspect and causally manipulate. We introduce Belief...",
@@ -141,7 +141,7 @@
     "source": "arXiv - Ali Holmov, Yiran Huang, Kirill Bykov et al."
   },
   {
-    "id": "arxiv_1790575269922_1",
+    "id": "arxiv_1790606233276_1",
     "name": "GraphWrit3R: End-to-End 3D Scene Graph Writing",
     "category": "computer-vision",
     "description": "3D scene graphs provide a structured representation of complex environments by encoding objects, their semantic attributes, and the spatial and functional relationships between them. Current approache...",
@@ -150,11 +150,11 @@
       "LLM"
     ],
     "date": "2026-09-25T17:52:39Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Luka Milivojevic, Nikola Popovic, Sayan Deb Sarkar et al."
   },
   {
-    "id": "arxiv_1790575269908_2",
+    "id": "arxiv_1790606233199_2",
     "name": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
     "category": "ai",
     "description": "We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores c...",
@@ -168,7 +168,7 @@
     "source": "arXiv - Md Shohel Arman, Igor Molybog"
   },
   {
-    "id": "arxiv_1790575269948_2",
+    "id": "arxiv_1790606233424_2",
     "name": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
     "category": "nlp",
     "description": "We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores c...",
@@ -178,11 +178,11 @@
       "Optimization"
     ],
     "date": "2026-09-25T17:42:22Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Md Shohel Arman, Igor Molybog"
   },
   {
-    "id": "arxiv_1790575269922_2",
+    "id": "arxiv_1790606233276_2",
     "name": "How Far Can INRs Go? Cross-Domain Parameter-efficient INR-Based Semantic Segmentation for Brain MRI",
     "category": "computer-vision",
     "description": "Biomedical image segmentation is central to medical image analysis, but practical deployment often faces limited annotations, memory constraints, and cross-site distribution shifts. Implicit Neural Re...",
@@ -196,7 +196,7 @@
     "source": "arXiv - Ziyao Shang, Pouya Sadeghi, Letian Jiang et al."
   },
   {
-    "id": "arxiv_1790575269908_3",
+    "id": "arxiv_1790606233199_3",
     "name": "OC-GS: Gaussian Splatting for Irregular Turntable Capture",
     "category": "ai",
     "description": "Uneven rotation and dropped frames make equal-angle assumptions unreliable for turntable reconstruction. We present OC-GS, an object-centric Gaussian splatting that refines each image's angle while ma...",
@@ -209,7 +209,7 @@
     "source": "arXiv - Jae Joong Lee, Bedrich Benes"
   },
   {
-    "id": "arxiv_1790575269922_3",
+    "id": "arxiv_1790606233276_3",
     "name": "OC-GS: Gaussian Splatting for Irregular Turntable Capture",
     "category": "computer-vision",
     "description": "Uneven rotation and dropped frames make equal-angle assumptions unreliable for turntable reconstruction. We present OC-GS, an object-centric Gaussian splatting that refines each image's angle while ma...",
@@ -218,11 +218,11 @@
       "AI"
     ],
     "date": "2026-09-25T17:35:05Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jae Joong Lee, Bedrich Benes"
   },
   {
-    "id": "arxiv_1790575269948_3",
+    "id": "arxiv_1790606233424_3",
     "name": "Strategically Diverse Sampling for Self-Training",
     "category": "nlp",
     "description": "Many LLM training and inference methods, including RL and test-time scaling, depend on repeated sampling, but benefit only when the responses meaningfully differ. Self-training faces the same challeng...",
@@ -232,11 +232,11 @@
       "LLM"
     ],
     "date": "2026-09-25T17:35:05Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Alexander Gurung, Esmeralda S. Whitammer, Mirella Lapata"
   },
   {
-    "id": "arxiv_1790575269908_4",
+    "id": "arxiv_1790606233199_4",
     "name": "Adapting for AI: How elementary teachers adjust their practices for an AI-integrated curriculum",
     "category": "ai",
     "description": "Conversational AI tools are entering children's everyday experiences, and schools are interested in adopting them. However, successful classroom integration depends not only on the technology but also...",
@@ -249,7 +249,7 @@
     "source": "arXiv - Fasika Melese, Ruiyang Wu, Xinyue Cui et al."
   },
   {
-    "id": "arxiv_1790575269922_4",
+    "id": "arxiv_1790606233276_4",
     "name": "Region-Level Black-Box Defense Against Stealthy Embedding-Space Backdoors in CLIP",
     "category": "computer-vision",
     "description": "Contrastive Language--Image Pretraining (CLIP) has emerged as a dominant vision backbone due to its strong transferability and zero-shot capabilities. However, recent studies reveal a critical vulnera...",
@@ -259,11 +259,11 @@
       "Vision"
     ],
     "date": "2026-09-25T17:26:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ahmed Abdelnaby, Mohamed Elmahallawy"
   },
   {
-    "id": "arxiv_1790575269948_4",
+    "id": "arxiv_1790606233424_4",
     "name": "MexHat: A Dataset for Hate Speech Detection in Mexican Spanish Videos",
     "category": "nlp",
     "description": "Ensuring online safety through content monitoring had raised Hate Speech Detection as a crucial task to be addressed. By essence the task demands the capture of contextual cues, which are essential fo...",
