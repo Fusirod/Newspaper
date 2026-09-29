@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1790688501947_0",
+    "id": "arxiv_1790708180612_0",
     "name": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
     "category": "ai",
     "description": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Srinjay Sarkar, Prakhar Kaushik, Soumava Paul et al."
   },
   {
-    "id": "arxiv_1790688501964_0",
+    "id": "arxiv_1790708180632_0",
     "name": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
     "category": "computer-vision",
     "description": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets...",
@@ -24,11 +24,11 @@
       "Optimization"
     ],
     "date": "2026-09-28T17:59:58Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Srinjay Sarkar, Prakhar Kaushik, Soumava Paul et al."
   },
   {
-    "id": "arxiv_1790688501947_1",
+    "id": "arxiv_1790708180613_1",
     "name": "Telescopic Language Models",
     "category": "ai",
     "description": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to b...",
@@ -39,11 +39,11 @@
       "Transformer"
     ],
     "date": "2026-09-28T17:59:53Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhilin Guo, Boqiao Zhang, Hakan Aktas et al."
   },
   {
-    "id": "arxiv_1790688501996_0",
+    "id": "arxiv_1790708180670_0",
     "name": "Telescopic Language Models",
     "category": "nlp",
     "description": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to b...",
@@ -54,11 +54,11 @@
       "Transformer"
     ],
     "date": "2026-09-28T17:59:53Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zhilin Guo, Boqiao Zhang, Hakan Aktas et al."
   },
   {
-    "id": "arxiv_1790688501964_1",
+    "id": "arxiv_1790708180632_1",
     "name": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
     "category": "computer-vision",
     "description": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) ...",
@@ -72,7 +72,7 @@
     "source": "arXiv - Zimo Wang, Junkun Yuan, Angtian Wang et al."
   },
   {
-    "id": "arxiv_1790688501980_0",
+    "id": "arxiv_1790708180651_0",
     "name": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
     "category": "machine-learning",
     "description": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) ...",
@@ -82,11 +82,11 @@
       "Diffusion"
     ],
     "date": "2026-09-28T17:59:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zimo Wang, Junkun Yuan, Angtian Wang et al."
   },
   {
-    "id": "arxiv_1790688501947_2",
+    "id": "arxiv_1790708180613_2",
     "name": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
     "category": "ai",
     "description": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose agai...",
@@ -97,11 +97,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-09-28T17:59:36Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yijia Fan, Ziqi Huang, Zhongang Cai et al."
   },
   {
-    "id": "arxiv_1790688501965_2",
+    "id": "arxiv_1790708180632_2",
     "name": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
     "category": "computer-vision",
     "description": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose agai...",
@@ -116,7 +116,7 @@
     "source": "arXiv - Yijia Fan, Ziqi Huang, Zhongang Cai et al."
   },
   {
-    "id": "arxiv_1790688501997_1",
+    "id": "arxiv_1790708180671_1",
     "name": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
     "category": "nlp",
     "description": "Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and transla...",
@@ -129,7 +129,7 @@
     "source": "arXiv - András Kovács, Alexander Conroy, Daniel Hershcovich et al."
   },
   {
-    "id": "arxiv_1790688501965_3",
+    "id": "arxiv_1790708180632_3",
     "name": "Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose",
     "category": "computer-vision",
     "description": "Sparse inertial pose estimation promises camera-free motion capture from consumer devices, but consumer sensors are unreliable: firmware-fused orientations are biased, mounting varies between sessions...",
@@ -139,11 +139,11 @@
       "Vision"
     ],
     "date": "2026-09-28T17:59:22Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zhilin Guo, Boqiao Zhang, Oszkár Urbán et al."
   },
   {
-    "id": "arxiv_1790688501980_1",
+    "id": "arxiv_1790708180651_1",
     "name": "Unifying Distributional Training for One-Step Visual Generation",
     "category": "machine-learning",
     "description": "\\emph{Distributional training} provides collective supervision for one-step visual generation by matching real and generated features in frozen representation spaces. We introduce \\emph{a unified theo...",
@@ -153,27 +153,13 @@
       "Vision"
     ],
     "date": "2026-09-28T17:59:14Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Chi Zhang, Haoyang Shi, Yueyi Liu et al."
   },
   {
-    "id": "arxiv_1790688501948_3",
+    "id": "arxiv_1790708180613_3",
     "name": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
     "category": "ai",
-    "description": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and interm...",
-    "link": "http://arxiv.org/abs/2609.35760v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-28T17:59:09Z",
-    "trending": true,
-    "source": "arXiv - Chaoqian Ouyang, Ling Yue, Libin Zheng et al."
-  },
-  {
-    "id": "arxiv_1790688501980_2",
-    "name": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
-    "category": "machine-learning",
     "description": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and interm...",
     "link": "http://arxiv.org/abs/2609.35760v1",
     "tags": [
@@ -185,7 +171,21 @@
     "source": "arXiv - Chaoqian Ouyang, Ling Yue, Libin Zheng et al."
   },
   {
-    "id": "arxiv_1790688501997_2",
+    "id": "arxiv_1790708180651_2",
+    "name": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+    "category": "machine-learning",
+    "description": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and interm...",
+    "link": "http://arxiv.org/abs/2609.35760v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-28T17:59:09Z",
+    "trending": true,
+    "source": "arXiv - Chaoqian Ouyang, Ling Yue, Libin Zheng et al."
+  },
+  {
+    "id": "arxiv_1790708180671_2",
     "name": "Scaling Long-Form Story Generation via Narrative State Tracking",
     "category": "nlp",
     "description": "LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult. Ex...",
@@ -199,18 +199,18 @@
     "source": "arXiv - Zhennan Wan, Jianfei Chen"
   },
   {
-    "id": "arxiv_1790688501981_3",
+    "id": "arxiv_1790708180651_3",
     "name": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
     "category": "machine-learning",
     "description": "We present a representation-learning framework for composite adaptive tracking control under dynamically coupled disturbances. The framework connects classical disturbance-accommodating control (DAC) ...",
     "link": "http://arxiv.org/abs/2609.35758v1",
     "tags": [],
     "date": "2026-09-28T17:59:07Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Min Kim, José Leonardo Brenes, Fred Hadaegh et al."
   },
   {
-    "id": "arxiv_1790688501981_4",
+    "id": "arxiv_1790708180651_4",
     "name": "Neural Harmonic Measure Operator",
     "category": "machine-learning",
     "description": "We introduce Neural Harmonic Measure Operator (NHMO), a neural solver for elliptic PDE problems on variable-shape domains. The harmonic measure of a domain is the boundary probability distribution tha...",
@@ -225,7 +225,7 @@
     "source": "arXiv - Jinjin He, Sinan Wang, Yuchen Sun et al."
   },
   {
-    "id": "arxiv_1790688501948_4",
+    "id": "arxiv_1790708180613_4",
     "name": "How to Loop MoE: Flatten the Experts, Untie the Attention",
     "category": "ai",
     "description": "Looped Transformers reuse one block of layers several times: by spending extra computation they push a model of fixed size further, and so use its parameters more fully; while sparse mixture-of-expert...",
@@ -235,11 +235,11 @@
       "Transformer"
     ],
     "date": "2026-09-28T17:58:03Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shouren Wang, Chuang Ma, Mohsen Hariri et al."
   },
   {
-    "id": "arxiv_1790688501997_3",
+    "id": "arxiv_1790708180671_3",
     "name": "How to Loop MoE: Flatten the Experts, Untie the Attention",
     "category": "nlp",
     "description": "Looped Transformers reuse one block of layers several times: by spending extra computation they push a model of fixed size further, and so use its parameters more fully; while sparse mixture-of-expert...",
@@ -249,11 +249,11 @@
       "Transformer"
     ],
     "date": "2026-09-28T17:58:03Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shouren Wang, Chuang Ma, Mohsen Hariri et al."
   },
   {
-    "id": "arxiv_1790688501997_4",
+    "id": "arxiv_1790708180671_4",
     "name": "Towards Communication-Efficient Social Intelligence in Language Agents",
     "category": "nlp",
     "description": "Socially intelligent language agents must negotiate, coordinate, and resolve conflicting preferences while respecting the time and attention of both participants. Balancing these demands is challengin...",
@@ -267,7 +267,7 @@
     "source": "arXiv - Linxiao Gong, Yijie Xu, Tianfu Wang et al."
   },
   {
-    "id": "arxiv_1790688501965_4",
+    "id": "arxiv_1790708180632_4",
     "name": "Copy the Same, Distill the Difference: Initializing Linear Vision Transformers",
     "category": "computer-vision",
     "description": "Linear Vision Transformers (ViTs) are designed to replace the attention in Softmax ViTs with the linear-complexity attention operator for more efficient token routing, but they require from-scratch pr...",
