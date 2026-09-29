@@ -1,278 +1,284 @@
 [
   {
-    "id": "arxiv_1790642419373_0",
-    "name": "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders",
+    "id": "arxiv_1790662778987_0",
+    "name": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+    "category": "ai",
+    "description": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets...",
+    "link": "http://arxiv.org/abs/2609.35770v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-09-28T17:59:58Z",
+    "trending": true,
+    "source": "arXiv - Srinjay Sarkar, Prakhar Kaushik, Soumava Paul et al."
+  },
+  {
+    "id": "arxiv_1790662779050_0",
+    "name": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
     "category": "computer-vision",
-    "description": "Representation autoencoders (RAEs) reuse features from a pretrained visual encoder as reconstruction and diffusion latents, integrating strong visual representations into image generation. However, RA...",
-    "link": "http://arxiv.org/abs/2609.31620v1",
+    "description": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets...",
+    "link": "http://arxiv.org/abs/2609.35770v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-09-28T17:59:58Z",
+    "trending": false,
+    "source": "arXiv - Srinjay Sarkar, Prakhar Kaushik, Soumava Paul et al."
+  },
+  {
+    "id": "arxiv_1790662778987_1",
+    "name": "Telescopic Language Models",
+    "category": "ai",
+    "description": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to b...",
+    "link": "http://arxiv.org/abs/2609.35769v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-09-28T17:59:53Z",
+    "trending": false,
+    "source": "arXiv - Zhilin Guo, Boqiao Zhang, Hakan Aktas et al."
+  },
+  {
+    "id": "arxiv_1790662779171_0",
+    "name": "Telescopic Language Models",
+    "category": "nlp",
+    "description": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to b...",
+    "link": "http://arxiv.org/abs/2609.35769v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-09-28T17:59:53Z",
+    "trending": true,
+    "source": "arXiv - Zhilin Guo, Boqiao Zhang, Hakan Aktas et al."
+  },
+  {
+    "id": "arxiv_1790662779050_1",
+    "name": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+    "category": "computer-vision",
+    "description": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) ...",
+    "link": "http://arxiv.org/abs/2609.35768v1",
     "tags": [
       "AI",
       "Diffusion"
     ],
-    "date": "2026-09-25T17:59:59Z",
-    "trending": true,
-    "source": "arXiv - Hongyang Du, Yunfei Xie, Junjie Ye et al."
+    "date": "2026-09-28T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Zimo Wang, Junkun Yuan, Angtian Wang et al."
   },
   {
-    "id": "arxiv_1790642419294_0",
-    "name": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
+    "id": "arxiv_1790662779110_0",
+    "name": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+    "category": "machine-learning",
+    "description": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) ...",
+    "link": "http://arxiv.org/abs/2609.35768v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-09-28T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Zimo Wang, Junkun Yuan, Angtian Wang et al."
+  },
+  {
+    "id": "arxiv_1790662778987_2",
+    "name": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
     "category": "ai",
-    "description": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me...",
-    "link": "http://arxiv.org/abs/2609.31619v1",
+    "description": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose agai...",
+    "link": "http://arxiv.org/abs/2609.35767v1",
     "tags": [
       "AI",
       "Vision",
-      "GPT",
       "Reinforcement Learning"
     ],
-    "date": "2026-09-25T17:59:52Z",
+    "date": "2026-09-28T17:59:36Z",
     "trending": false,
-    "source": "arXiv - Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe et al."
+    "source": "arXiv - Yijia Fan, Ziqi Huang, Zhongang Cai et al."
   },
   {
-    "id": "arxiv_1790642419450_0",
-    "name": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
-    "category": "machine-learning",
-    "description": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me...",
-    "link": "http://arxiv.org/abs/2609.31619v1",
+    "id": "arxiv_1790662779050_2",
+    "name": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+    "category": "computer-vision",
+    "description": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose agai...",
+    "link": "http://arxiv.org/abs/2609.35767v1",
     "tags": [
       "AI",
       "Vision",
-      "GPT",
       "Reinforcement Learning"
     ],
-    "date": "2026-09-25T17:59:52Z",
+    "date": "2026-09-28T17:59:36Z",
     "trending": false,
-    "source": "arXiv - Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe et al."
+    "source": "arXiv - Yijia Fan, Ziqi Huang, Zhongang Cai et al."
   },
   {
-    "id": "arxiv_1790642419521_0",
-    "name": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
+    "id": "arxiv_1790662779171_1",
+    "name": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
     "category": "nlp",
-    "description": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me...",
-    "link": "http://arxiv.org/abs/2609.31619v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GPT",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-09-25T17:59:52Z",
-    "trending": false,
-    "source": "arXiv - Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe et al."
-  },
-  {
-    "id": "arxiv_1790642419450_1",
-    "name": "Gap-free Differentially Private PCA for Gaussian Data",
-    "category": "machine-learning",
-    "description": "We give a gap-free differentially private algorithm for the principal component analysis (PCA) problem with Gaussian data.",
-    "link": "http://arxiv.org/abs/2609.31614v1",
-    "tags": [],
-    "date": "2026-09-25T17:58:38Z",
-    "trending": true,
-    "source": "arXiv - Alina Ene, Huy L. Nguyen"
-  },
-  {
-    "id": "arxiv_1790642419450_2",
-    "name": "First-Order Stationarity of Reverse Diffusions",
-    "category": "machine-learning",
-    "description": "Recent literature has shown a strong connection between optimization and sampling. We develop the corresponding first-order theory for diffusion models. First, the SDE-based reverse-time flows of over...",
-    "link": "http://arxiv.org/abs/2609.31612v1",
-    "tags": [
-      "Diffusion",
-      "Optimization"
-    ],
-    "date": "2026-09-25T17:57:43Z",
-    "trending": false,
-    "source": "arXiv - Zhifeng Chen, Chenyang Jiang, Yazhen Wang"
-  },
-  {
-    "id": "arxiv_1790642419295_1",
-    "name": "Statistical attribute alignment for black-box generative AI via output post-processing",
-    "category": "ai",
-    "description": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-gener...",
-    "link": "http://arxiv.org/abs/2609.31607v1",
+    "description": "Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and transla...",
+    "link": "http://arxiv.org/abs/2609.35765v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-09-25T17:55:49Z",
-    "trending": true,
-    "source": "arXiv - Kevin Jiang, Morgane Austern, Edgar Dobriban et al."
-  },
-  {
-    "id": "arxiv_1790642419450_3",
-    "name": "Statistical attribute alignment for black-box generative AI via output post-processing",
-    "category": "machine-learning",
-    "description": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-gener...",
-    "link": "http://arxiv.org/abs/2609.31607v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-25T17:55:49Z",
+    "date": "2026-09-28T17:59:27Z",
     "trending": false,
-    "source": "arXiv - Kevin Jiang, Morgane Austern, Edgar Dobriban et al."
+    "source": "arXiv - András Kovács, Alexander Conroy, Daniel Hershcovich et al."
   },
   {
-    "id": "arxiv_1790642419450_4",
-    "name": "User Model Extraction via Belief Self-Distillation",
-    "category": "machine-learning",
-    "description": "Large language models (LLMs) implicitly infer attributes of their users and adapt their behavior accordingly, yet these beliefs remain difficult to inspect and causally manipulate. We introduce Belief...",
-    "link": "http://arxiv.org/abs/2609.31603v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-25T17:54:32Z",
-    "trending": false,
-    "source": "arXiv - Ali Holmov, Yiran Huang, Kirill Bykov et al."
-  },
-  {
-    "id": "arxiv_1790642419521_1",
-    "name": "User Model Extraction via Belief Self-Distillation",
-    "category": "nlp",
-    "description": "Large language models (LLMs) implicitly infer attributes of their users and adapt their behavior accordingly, yet these beliefs remain difficult to inspect and causally manipulate. We introduce Belief...",
-    "link": "http://arxiv.org/abs/2609.31603v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-25T17:54:32Z",
-    "trending": false,
-    "source": "arXiv - Ali Holmov, Yiran Huang, Kirill Bykov et al."
-  },
-  {
-    "id": "arxiv_1790642419373_1",
-    "name": "GraphWrit3R: End-to-End 3D Scene Graph Writing",
+    "id": "arxiv_1790662779050_3",
+    "name": "Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose",
     "category": "computer-vision",
-    "description": "3D scene graphs provide a structured representation of complex environments by encoding objects, their semantic attributes, and the spatial and functional relationships between them. Current approache...",
-    "link": "http://arxiv.org/abs/2609.31595v1",
-    "tags": [
-      "LLM"
-    ],
-    "date": "2026-09-25T17:52:39Z",
-    "trending": true,
-    "source": "arXiv - Luka Milivojevic, Nikola Popovic, Sayan Deb Sarkar et al."
-  },
-  {
-    "id": "arxiv_1790642419295_2",
-    "name": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
-    "category": "ai",
-    "description": "We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores c...",
-    "link": "http://arxiv.org/abs/2609.31587v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-09-25T17:42:22Z",
-    "trending": false,
-    "source": "arXiv - Md Shohel Arman, Igor Molybog"
-  },
-  {
-    "id": "arxiv_1790642419521_2",
-    "name": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
-    "category": "nlp",
-    "description": "We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores c...",
-    "link": "http://arxiv.org/abs/2609.31587v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-09-25T17:42:22Z",
-    "trending": true,
-    "source": "arXiv - Md Shohel Arman, Igor Molybog"
-  },
-  {
-    "id": "arxiv_1790642419374_2",
-    "name": "How Far Can INRs Go? Cross-Domain Parameter-efficient INR-Based Semantic Segmentation for Brain MRI",
-    "category": "computer-vision",
-    "description": "Biomedical image segmentation is central to medical image analysis, but practical deployment often faces limited annotations, memory constraints, and cross-site distribution shifts. Implicit Neural Re...",
-    "link": "http://arxiv.org/abs/2609.31573v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-09-25T17:35:07Z",
-    "trending": true,
-    "source": "arXiv - Ziyao Shang, Pouya Sadeghi, Letian Jiang et al."
-  },
-  {
-    "id": "arxiv_1790642419295_3",
-    "name": "OC-GS: Gaussian Splatting for Irregular Turntable Capture",
-    "category": "ai",
-    "description": "Uneven rotation and dropped frames make equal-angle assumptions unreliable for turntable reconstruction. We present OC-GS, an object-centric Gaussian splatting that refines each image's angle while ma...",
-    "link": "http://arxiv.org/abs/2609.31572v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-25T17:35:05Z",
-    "trending": true,
-    "source": "arXiv - Jae Joong Lee, Bedrich Benes"
-  },
-  {
-    "id": "arxiv_1790642419374_3",
-    "name": "OC-GS: Gaussian Splatting for Irregular Turntable Capture",
-    "category": "computer-vision",
-    "description": "Uneven rotation and dropped frames make equal-angle assumptions unreliable for turntable reconstruction. We present OC-GS, an object-centric Gaussian splatting that refines each image's angle while ma...",
-    "link": "http://arxiv.org/abs/2609.31572v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-25T17:35:05Z",
-    "trending": true,
-    "source": "arXiv - Jae Joong Lee, Bedrich Benes"
-  },
-  {
-    "id": "arxiv_1790642419521_3",
-    "name": "Strategically Diverse Sampling for Self-Training",
-    "category": "nlp",
-    "description": "Many LLM training and inference methods, including RL and test-time scaling, depend on repeated sampling, but benefit only when the responses meaningfully differ. Self-training faces the same challeng...",
-    "link": "http://arxiv.org/abs/2609.31571v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-25T17:35:05Z",
-    "trending": false,
-    "source": "arXiv - Alexander Gurung, Esmeralda S. Whitammer, Mirella Lapata"
-  },
-  {
-    "id": "arxiv_1790642419295_4",
-    "name": "Adapting for AI: How elementary teachers adjust their practices for an AI-integrated curriculum",
-    "category": "ai",
-    "description": "Conversational AI tools are entering children's everyday experiences, and schools are interested in adopting them. However, successful classroom integration depends not only on the technology but also...",
-    "link": "http://arxiv.org/abs/2609.31569v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-25T17:33:47Z",
-    "trending": true,
-    "source": "arXiv - Fasika Melese, Ruiyang Wu, Xinyue Cui et al."
-  },
-  {
-    "id": "arxiv_1790642419374_4",
-    "name": "Region-Level Black-Box Defense Against Stealthy Embedding-Space Backdoors in CLIP",
-    "category": "computer-vision",
-    "description": "Contrastive Language--Image Pretraining (CLIP) has emerged as a dominant vision backbone due to its strong transferability and zero-shot capabilities. However, recent studies reveal a critical vulnera...",
-    "link": "http://arxiv.org/abs/2609.31558v1",
+    "description": "Sparse inertial pose estimation promises camera-free motion capture from consumer devices, but consumer sensors are unreliable: firmware-fused orientations are biased, mounting varies between sessions...",
+    "link": "http://arxiv.org/abs/2609.35764v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-09-25T17:26:02Z",
-    "trending": true,
-    "source": "arXiv - Ahmed Abdelnaby, Mohamed Elmahallawy"
+    "date": "2026-09-28T17:59:22Z",
+    "trending": false,
+    "source": "arXiv - Zhilin Guo, Boqiao Zhang, Oszkár Urbán et al."
   },
   {
-    "id": "arxiv_1790642419521_4",
-    "name": "MexHat: A Dataset for Hate Speech Detection in Mexican Spanish Videos",
-    "category": "nlp",
-    "description": "Ensuring online safety through content monitoring had raised Hate Speech Detection as a crucial task to be addressed. By essence the task demands the capture of contextual cues, which are essential fo...",
-    "link": "http://arxiv.org/abs/2609.31553v1",
+    "id": "arxiv_1790662779110_1",
+    "name": "Unifying Distributional Training for One-Step Visual Generation",
+    "category": "machine-learning",
+    "description": "\\emph{Distributional training} provides collective supervision for one-step visual generation by matching real and generated features in frozen representation spaces. We introduce \\emph{a unified theo...",
+    "link": "http://arxiv.org/abs/2609.35763v1",
     "tags": [
-      "AI"
+      "AI",
+      "Vision"
     ],
-    "date": "2026-09-25T17:23:36Z",
+    "date": "2026-09-28T17:59:14Z",
+    "trending": true,
+    "source": "arXiv - Chi Zhang, Haoyang Shi, Yueyi Liu et al."
+  },
+  {
+    "id": "arxiv_1790662778987_3",
+    "name": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+    "category": "ai",
+    "description": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and interm...",
+    "link": "http://arxiv.org/abs/2609.35760v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-28T17:59:09Z",
+    "trending": true,
+    "source": "arXiv - Chaoqian Ouyang, Ling Yue, Libin Zheng et al."
+  },
+  {
+    "id": "arxiv_1790662779111_2",
+    "name": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+    "category": "machine-learning",
+    "description": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and interm...",
+    "link": "http://arxiv.org/abs/2609.35760v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-28T17:59:09Z",
     "trending": false,
-    "source": "arXiv - Itzel Tlelo-Coyotecatl, Hugo Jair Escalante"
+    "source": "arXiv - Chaoqian Ouyang, Ling Yue, Libin Zheng et al."
+  },
+  {
+    "id": "arxiv_1790662779171_2",
+    "name": "Scaling Long-Form Story Generation via Narrative State Tracking",
+    "category": "nlp",
+    "description": "LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult. Ex...",
+    "link": "http://arxiv.org/abs/2609.35759v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-28T17:59:09Z",
+    "trending": false,
+    "source": "arXiv - Zhennan Wan, Jianfei Chen"
+  },
+  {
+    "id": "arxiv_1790662779111_3",
+    "name": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
+    "category": "machine-learning",
+    "description": "We present a representation-learning framework for composite adaptive tracking control under dynamically coupled disturbances. The framework connects classical disturbance-accommodating control (DAC) ...",
+    "link": "http://arxiv.org/abs/2609.35758v1",
+    "tags": [],
+    "date": "2026-09-28T17:59:07Z",
+    "trending": true,
+    "source": "arXiv - Min Kim, José Leonardo Brenes, Fred Hadaegh et al."
+  },
+  {
+    "id": "arxiv_1790662779111_4",
+    "name": "Neural Harmonic Measure Operator",
+    "category": "machine-learning",
+    "description": "We introduce Neural Harmonic Measure Operator (NHMO), a neural solver for elliptic PDE problems on variable-shape domains. The harmonic measure of a domain is the boundary probability distribution tha...",
+    "link": "http://arxiv.org/abs/2609.35752v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Transformer"
+    ],
+    "date": "2026-09-28T17:58:13Z",
+    "trending": true,
+    "source": "arXiv - Jinjin He, Sinan Wang, Yuchen Sun et al."
+  },
+  {
+    "id": "arxiv_1790662778987_4",
+    "name": "How to Loop MoE: Flatten the Experts, Untie the Attention",
+    "category": "ai",
+    "description": "Looped Transformers reuse one block of layers several times: by spending extra computation they push a model of fixed size further, and so use its parameters more fully; while sparse mixture-of-expert...",
+    "link": "http://arxiv.org/abs/2609.35751v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-09-28T17:58:03Z",
+    "trending": false,
+    "source": "arXiv - Shouren Wang, Chuang Ma, Mohsen Hariri et al."
+  },
+  {
+    "id": "arxiv_1790662779172_3",
+    "name": "How to Loop MoE: Flatten the Experts, Untie the Attention",
+    "category": "nlp",
+    "description": "Looped Transformers reuse one block of layers several times: by spending extra computation they push a model of fixed size further, and so use its parameters more fully; while sparse mixture-of-expert...",
+    "link": "http://arxiv.org/abs/2609.35751v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-09-28T17:58:03Z",
+    "trending": false,
+    "source": "arXiv - Shouren Wang, Chuang Ma, Mohsen Hariri et al."
+  },
+  {
+    "id": "arxiv_1790662779172_4",
+    "name": "Towards Communication-Efficient Social Intelligence in Language Agents",
+    "category": "nlp",
+    "description": "Socially intelligent language agents must negotiate, coordinate, and resolve conflicting preferences while respecting the time and attention of both participants. Balancing these demands is challengin...",
+    "link": "http://arxiv.org/abs/2609.35749v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-09-28T17:57:16Z",
+    "trending": false,
+    "source": "arXiv - Linxiao Gong, Yijie Xu, Tianfu Wang et al."
+  },
+  {
+    "id": "arxiv_1790662779050_4",
+    "name": "Copy the Same, Distill the Difference: Initializing Linear Vision Transformers",
+    "category": "computer-vision",
+    "description": "Linear Vision Transformers (ViTs) are designed to replace the attention in Softmax ViTs with the linear-complexity attention operator for more efficient token routing, but they require from-scratch pr...",
+    "link": "http://arxiv.org/abs/2609.35745v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-09-28T17:55:21Z",
+    "trending": true,
+    "source": "arXiv - Huaiyuan Qin, Muli Yang, Gabriel James Goenawan et al."
   }
 ]
