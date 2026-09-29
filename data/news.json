@@ -1,7 +1,99 @@
 [
   {
-    "id": "rss_Ars_Technica_1790628772364_0",
-    "title": "Florida asks court to put the brakes on OpenAI’s frontier AI development",
+    "id": "rss_TechCrunch_1790642419773_0",
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "tags": [
+      "Startup"
+    ],
+    "date": "Tue, 29 Sep 2026 00:30:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1790642419773_1",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.  ",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Mon, 28 Sep 2026 23:39:20 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1790642423619_0",
+    "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"We couldn't provide detailed pricing to the CLD suppliers.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 28 Sep 2026 22:24:33 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1790642422172_0",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review ",
+    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 28 Sep 2026 22:17:07 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1790642423619_1",
+    "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+    "tags": [
+      "AI",
+      "NVIDIA"
+    ],
+    "date": "Mon, 28 Sep 2026 21:49:10 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1790642419773_2",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Mon, 28 Sep 2026 21:29:18 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1790642423619_2",
+    "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.\n                    ",
+    "link": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+    "tags": [],
+    "date": "Mon, 28 Sep 2026 21:26:19 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1790642423619_3",
+    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
     "category": "ai-news",
     "source": "Ars Technica",
     "description": "\n                        State says LLMs threaten civilization as \"the greatest public nuisance ever created.\" \n                    ",
@@ -12,10 +104,10 @@
       "LLM"
     ],
     "date": "Mon, 28 Sep 2026 20:49:39 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1790628768726_0",
+    "id": "rss_TechCrunch_1790642419773_3",
     "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -26,7 +118,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1790628772364_1",
+    "id": "rss_Ars_Technica_1790642423620_4",
     "title": "New device captures carbon dioxide by pumping it across a battery",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -37,31 +129,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1790628772365_2",
-    "title": "To keep drug prices high, pharma has been piling up the patents",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Add-on patents have increased drug patent periods from two years to over six.\n                    ",
-    "link": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
-    "tags": [],
-    "date": "Mon, 28 Sep 2026 19:53:37 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1790628772365_3",
-    "title": "Trump cuts fuel economy standards back to 2014 levels",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        In 2020, Trump cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg. \n                    ",
-    "link": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 28 Sep 2026 19:35:51 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1790628768726_1",
+    "id": "rss_TechCrunch_1790642419773_4",
     "title": "Shopify opens checkout to browser-based AI agents",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -74,60 +142,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1790628772365_4",
-    "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Kalshi's defiance of state gambling laws may be headed to Supreme Court.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 28 Sep 2026 19:04:09 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1790628768726_2",
-    "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security l",
-    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "tags": [
-      "AI",
-      "NVIDIA"
-    ],
-    "date": "Mon, 28 Sep 2026 18:31:23 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1790628768726_3",
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn. ",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "tags": [],
-    "date": "Mon, 28 Sep 2026 18:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1790628768726_4",
-    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
-    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "tags": [
-      "AI",
-      "Google",
-      "Meta"
-    ],
-    "date": "Mon, 28 Sep 2026 17:29:50 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1790628770975_0",
+    "id": "rss_MIT_Tech_Review_1790642422173_1",
     "title": "When can we say AI made a scientific discovery?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -140,7 +155,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1790628770975_1",
+    "id": "rss_MIT_Tech_Review_1790642422173_2",
     "title": "The Download: rogue agent liability and the AI Hype Index",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -154,7 +169,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1790628773446_0",
+    "id": "rss_Wired_1790642424715_0",
     "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
     "category": "ai-news",
     "source": "Wired",
@@ -165,10 +180,10 @@
       "OpenAI"
     ],
     "date": "Mon, 28 Sep 2026 11:32:19 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1790628773446_1",
+    "id": "rss_Wired_1790642424716_1",
     "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
     "category": "ai-news",
     "source": "Wired",
@@ -181,7 +196,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1790628773446_2",
+    "id": "rss_Wired_1790642424716_2",
     "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
     "category": "ai-news",
     "source": "Wired",
@@ -191,10 +206,10 @@
       "AI"
     ],
     "date": "Mon, 28 Sep 2026 09:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1790628773446_3",
+    "id": "rss_Wired_1790642424716_3",
     "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
     "category": "ai-news",
     "source": "Wired",
@@ -205,10 +220,10 @@
       "Startup"
     ],
     "date": "Mon, 28 Sep 2026 09:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1790628773446_4",
+    "id": "rss_Wired_1790642424716_4",
     "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
     "category": "ai-news",
     "source": "Wired",
@@ -222,7 +237,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1790628770975_2",
+    "id": "rss_MIT_Tech_Review_1790642422173_3",
     "title": "Who’s liable when AI agents go rogue?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -236,7 +251,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1790628770975_3",
+    "id": "rss_MIT_Tech_Review_1790642422173_4",
     "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -246,24 +261,10 @@
       "AI"
     ],
     "date": "Fri, 25 Sep 2026 12:10:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1790628770976_4",
-    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning a",
-    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "date": "Fri, 25 Sep 2026 09:16:25 +0000",
     "trending": true
   },
   {
-    "id": "rss_Distill_1790628782217_0",
+    "id": "rss_Distill_1790642433481_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -276,7 +277,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1790628782217_1",
+    "id": "rss_Distill_1790642433481_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -289,7 +290,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1790628782217_2",
+    "id": "rss_Distill_1790642433481_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -297,10 +298,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1790628782217_3",
+    "id": "rss_Distill_1790642433481_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -313,7 +314,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1790628782217_4",
+    "id": "rss_Distill_1790642433481_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -321,6 +322,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   }
 ]
