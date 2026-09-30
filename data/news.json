@@ -1,6 +1,72 @@
 [
   {
-    "id": "rss_TechCrunch_1790753705476_0",
+    "id": "rss_Ars_Technica_1790777934287_0",
+    "title": "OpenAI delays IPO over AI safety concerns",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        OpenAI is seeking another $30 billion privately as its IPO plans slip.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 30 Sep 2026 14:06:15 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1790777933031_0",
+    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into ",
+    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 30 Sep 2026 12:10:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1790777930813_0",
+    "title": "Airbnb adds AI search, more social features",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+    "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 30 Sep 2026 12:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1790777934287_1",
+    "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The move will be part of a major overhaul of the ecosystem for website authentication.\n                    ",
+    "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+    "tags": [],
+    "date": "Wed, 30 Sep 2026 11:15:14 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1790777933031_1",
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised s",
+    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 30 Sep 2026 10:40:30 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1790777930813_1",
     "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -8,10 +74,10 @@
     "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
     "tags": [],
     "date": "Tue, 29 Sep 2026 23:30:55 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1790753708984_0",
+    "id": "rss_Ars_Technica_1790777934287_2",
     "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -22,7 +88,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1790753705476_1",
+    "id": "rss_TechCrunch_1790777930813_2",
     "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -34,10 +100,10 @@
       "Chatbot"
     ],
     "date": "Tue, 29 Sep 2026 22:20:59 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1790753708984_1",
+    "id": "rss_Ars_Technica_1790777934287_3",
     "title": "Protests against OpenAI get increasingly creative",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -48,10 +114,10 @@
       "OpenAI"
     ],
     "date": "Tue, 29 Sep 2026 21:52:58 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1790753708984_2",
+    "id": "rss_Ars_Technica_1790777934287_4",
     "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -66,20 +132,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1790753708984_3",
-    "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 29 Sep 2026 20:23:40 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1790753705476_2",
+    "id": "rss_TechCrunch_1790777930813_3",
     "title": "OpenAI’s latest features take direct aim at the app store model",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -92,10 +145,10 @@
       "GPT"
     ],
     "date": "Tue, 29 Sep 2026 20:15:47 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1790753705476_3",
+    "id": "rss_TechCrunch_1790777930813_4",
     "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -106,10 +159,10 @@
       "OpenAI"
     ],
     "date": "Tue, 29 Sep 2026 19:52:37 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1790753710140_0",
+    "id": "rss_Wired_1790777935373_0",
     "title": "OpenAI Gets Sued Over the Hugging Face Hack",
     "category": "ai-news",
     "source": "Wired",
@@ -120,36 +173,10 @@
       "OpenAI"
     ],
     "date": "Tue, 29 Sep 2026 19:05:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1790753705476_4",
-    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-    "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "NVIDIA"
-    ],
-    "date": "Tue, 29 Sep 2026 18:35:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1790753708984_4",
-    "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        So is SpaceX just being selfish or what?\n                    ",
-    "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
-    "tags": [],
-    "date": "Tue, 29 Sep 2026 18:34:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1790753710140_1",
+    "id": "rss_Wired_1790777935373_1",
     "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
     "category": "ai-news",
     "source": "Wired",
@@ -160,7 +187,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1790753710140_2",
+    "id": "rss_Wired_1790777935373_2",
     "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
     "category": "ai-news",
     "source": "Wired",
@@ -172,10 +199,10 @@
       "Meta"
     ],
     "date": "Tue, 29 Sep 2026 17:15:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1790753707773_0",
+    "id": "rss_MIT_Tech_Review_1790777933031_2",
     "title": "The Download: climate tech companies to watch and AI’s discovery problem",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -185,10 +212,10 @@
       "AI"
     ],
     "date": "Tue, 29 Sep 2026 12:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1790753707773_1",
+    "id": "rss_MIT_Tech_Review_1790777933031_3",
     "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -196,10 +223,10 @@
     "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
     "tags": [],
     "date": "Tue, 29 Sep 2026 11:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1790753707774_2",
+    "id": "rss_MIT_Tech_Review_1790777933031_4",
     "title": "Making AI an asset, not an expense",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -212,7 +239,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1790753710140_3",
+    "id": "rss_Wired_1790777935373_3",
     "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
     "category": "ai-news",
     "source": "Wired",
@@ -226,7 +253,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1790753710140_4",
+    "id": "rss_Wired_1790777935373_4",
     "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
     "category": "ai-news",
     "source": "Wired",
@@ -236,36 +263,10 @@
       "AI"
     ],
     "date": "Tue, 29 Sep 2026 10:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1790753707774_3",
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review ",
-    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 28 Sep 2026 22:17:07 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1790753707774_4",
-    "title": "When can we say AI made a scientific discovery?",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro",
-    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 28 Sep 2026 17:03:16 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1790753718878_0",
+    "id": "rss_Distill_1790777944290_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -275,10 +276,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1790753718878_1",
+    "id": "rss_Distill_1790777944290_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -288,10 +289,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1790753718878_2",
+    "id": "rss_Distill_1790777944290_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -302,7 +303,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1790753718878_3",
+    "id": "rss_Distill_1790777944290_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -312,10 +313,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1790753718878_4",
+    "id": "rss_Distill_1790777944290_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",

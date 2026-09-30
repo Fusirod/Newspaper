@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1790753705169_0",
+    "id": "arxiv_1790777930531_0",
     "name": "Point2Part: Unified 3D Partitioning from Point Prompts",
     "category": "computer-vision",
     "description": "Existing 3D part decomposition methods do not necessarily partition the original shape into non-overlapping parts that collectively cover the entire shape, allowing overlaps or gaps that hinder downst...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Hao-Tang Tsui, Yu-Rou Tuan, Xiaoxuan Ma et al."
   },
   {
-    "id": "arxiv_1790753705134_0",
+    "id": "arxiv_1790777930507_0",
     "name": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
     "category": "ai",
     "description": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effe...",
@@ -23,11 +23,11 @@
       "Vision"
     ],
     "date": "2026-09-29T17:59:55Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zihang Rui, Renhao Wang, Haoxu Huang et al."
   },
   {
-    "id": "arxiv_1790753705204_0",
+    "id": "arxiv_1790777930556_0",
     "name": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
     "category": "machine-learning",
     "description": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effe...",
@@ -41,7 +41,7 @@
     "source": "arXiv - Zihang Rui, Renhao Wang, Haoxu Huang et al."
   },
   {
-    "id": "arxiv_1790753705169_1",
+    "id": "arxiv_1790777930531_1",
     "name": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
     "category": "computer-vision",
     "description": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they strugg...",
@@ -56,7 +56,7 @@
     "source": "arXiv - Jaewoo Jung, Hyeonseo Yu, Honggyu An et al."
   },
   {
-    "id": "arxiv_1790753705239_0",
+    "id": "arxiv_1790777930580_0",
     "name": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
     "category": "nlp",
     "description": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they strugg...",
@@ -71,7 +71,7 @@
     "source": "arXiv - Jaewoo Jung, Hyeonseo Yu, Honggyu An et al."
   },
   {
-    "id": "arxiv_1790753705204_1",
+    "id": "arxiv_1790777930556_1",
     "name": "Breakdown of Local Denoising as Semantic Speciation",
     "category": "machine-learning",
     "description": "The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context...",
@@ -80,11 +80,11 @@
       "AI"
     ],
     "date": "2026-09-29T17:59:50Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Guangkuo Liu, Mert Okyay, Yifan F. Zhang et al."
   },
   {
-    "id": "arxiv_1790753705169_2",
+    "id": "arxiv_1790777930532_2",
     "name": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
     "category": "computer-vision",
     "description": "Teaching humanoids loco-manipulation skills, such as carrying diverse objects, via visual imitation is a promising path toward generalist robots. However, collecting diverse, high-quality interaction ...",
@@ -97,7 +97,7 @@
     "source": "arXiv - Zihan Wang, Zhen Wu, Pieter Abbeel et al."
   },
   {
-    "id": "arxiv_1790753705169_3",
+    "id": "arxiv_1790777930532_3",
     "name": "Adversarial Training for Pixel Diffusion",
     "category": "computer-vision",
     "description": "Pixel diffusion models generate RGB images directly, avoiding the bottleneck of an autoencoder, yet their outputs still systematically underrepresent fine-scale natural-image statistics. We show that ...",
@@ -113,7 +113,7 @@
     "source": "arXiv - Xin Lin, Zhifei Zhang, Yuqian Zhou et al."
   },
   {
-    "id": "arxiv_1790753705135_1",
+    "id": "arxiv_1790777930507_1",
     "name": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
     "category": "ai",
     "description": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recur...",
@@ -126,7 +126,7 @@
     "source": "arXiv - Bingchen Yao, Haobo Xu, Haokun Lin et al."
   },
   {
-    "id": "arxiv_1790753705204_2",
+    "id": "arxiv_1790777930556_2",
     "name": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
     "category": "machine-learning",
     "description": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recur...",
@@ -135,11 +135,11 @@
       "AI"
     ],
     "date": "2026-09-29T17:59:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Bingchen Yao, Haobo Xu, Haokun Lin et al."
   },
   {
-    "id": "arxiv_1790753705239_1",
+    "id": "arxiv_1790777930580_1",
     "name": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
     "category": "nlp",
     "description": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recur...",
@@ -152,7 +152,7 @@
     "source": "arXiv - Bingchen Yao, Haobo Xu, Haokun Lin et al."
   },
   {
-    "id": "arxiv_1790753705135_2",
+    "id": "arxiv_1790777930508_2",
     "name": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
     "category": "ai",
     "description": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context int...",
@@ -162,11 +162,11 @@
       "LLM"
     ],
     "date": "2026-09-29T17:59:34Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yi Pan, Haocheng Xi, Kan Zhu et al."
   },
   {
-    "id": "arxiv_1790753705204_3",
+    "id": "arxiv_1790777930556_3",
     "name": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
     "category": "machine-learning",
     "description": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context int...",
@@ -180,7 +180,7 @@
     "source": "arXiv - Yi Pan, Haocheng Xi, Kan Zhu et al."
   },
   {
-    "id": "arxiv_1790753705170_4",
+    "id": "arxiv_1790777930532_4",
     "name": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
     "category": "computer-vision",
     "description": "The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being misse...",
@@ -194,7 +194,7 @@
     "source": "arXiv - Joseph Metcalfe, Sara Sharifzadeh, Fabio Caraffini"
   },
   {
-    "id": "arxiv_1790753705204_4",
+    "id": "arxiv_1790777930557_4",
     "name": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
     "category": "machine-learning",
     "description": "The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being misse...",
@@ -204,11 +204,11 @@
       "Transformer"
     ],
     "date": "2026-09-29T17:59:29Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Joseph Metcalfe, Sara Sharifzadeh, Fabio Caraffini"
   },
   {
-    "id": "arxiv_1790753705239_2",
+    "id": "arxiv_1790777930581_2",
     "name": "EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation",
     "category": "nlp",
     "description": "Emotion-conditioned text-to-speech (TTS) models may fail to express the requested emotion reliably, and improving controllability by additional training is costly in both computation and emotion-label...",
@@ -217,11 +217,11 @@
       "AI"
     ],
     "date": "2026-09-29T17:59:05Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Kuan-Po Huang, Haohe Liu, Puyuan Peng et al."
   },
   {
-    "id": "arxiv_1790753705135_3",
+    "id": "arxiv_1790777930508_3",
     "name": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
     "category": "ai",
     "description": "Answering questions about long videos often requires connecting events involving the same objects across hours or days. Chronological descriptions and text-derived entities can leave physical identity...",
@@ -230,11 +230,11 @@
       "AI"
     ],
     "date": "2026-09-29T17:59:01Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hui Ren, Lei Fan, Henry Pao et al."
   },
   {
-    "id": "arxiv_1790753705240_3",
+    "id": "arxiv_1790777930581_3",
     "name": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
     "category": "nlp",
     "description": "Answering questions about long videos often requires connecting events involving the same objects across hours or days. Chronological descriptions and text-derived entities can leave physical identity...",
@@ -247,7 +247,7 @@
     "source": "arXiv - Hui Ren, Lei Fan, Henry Pao et al."
   },
   {
-    "id": "arxiv_1790753705240_4",
+    "id": "arxiv_1790777930581_4",
     "name": "Pretraining Latent Information Feedback Transformers with Teacher Supervision",
     "category": "nlp",
     "description": "Transformer language models (LMs) are feed-forward: deep-layer representations are never fed back to shallower layers, and the only pathway for information to flow downward across generation steps is ...",
@@ -262,7 +262,7 @@
     "source": "arXiv - Dor Tirosh, Ido Amos, Mor Geva"
   },
   {
-    "id": "arxiv_1790753705136_4",
+    "id": "arxiv_1790777930508_4",
     "name": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
     "category": "ai",
     "description": "As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whe...",
