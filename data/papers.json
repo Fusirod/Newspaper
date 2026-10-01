@@ -1,278 +1,298 @@
 [
   {
-    "id": "arxiv_1790810134985_0",
-    "name": "Point2Part: Unified 3D Partitioning from Point Prompts",
+    "id": "arxiv_1790822539071_0",
+    "name": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
     "category": "computer-vision",
-    "description": "Existing 3D part decomposition methods do not necessarily partition the original shape into non-overlapping parts that collectively cover the entire shape, allowing overlaps or gaps that hinder downst...",
-    "link": "http://arxiv.org/abs/2609.38180v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-29T17:59:58Z",
-    "trending": true,
-    "source": "arXiv - Hao-Tang Tsui, Yu-Rou Tuan, Xiaoxuan Ma et al."
-  },
-  {
-    "id": "arxiv_1790810134972_0",
-    "name": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
-    "category": "ai",
-    "description": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effe...",
-    "link": "http://arxiv.org/abs/2609.38178v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-29T17:59:55Z",
-    "trending": false,
-    "source": "arXiv - Zihang Rui, Renhao Wang, Haoxu Huang et al."
-  },
-  {
-    "id": "arxiv_1790810134997_0",
-    "name": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
-    "category": "machine-learning",
-    "description": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effe...",
-    "link": "http://arxiv.org/abs/2609.38178v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-29T17:59:55Z",
-    "trending": false,
-    "source": "arXiv - Zihang Rui, Renhao Wang, Haoxu Huang et al."
-  },
-  {
-    "id": "arxiv_1790810134985_1",
-    "name": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
-    "category": "computer-vision",
-    "description": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they strugg...",
-    "link": "http://arxiv.org/abs/2609.38177v1",
+    "description": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine dis...",
+    "link": "http://arxiv.org/abs/2609.40362v1",
     "tags": [
       "AI",
       "Vision",
-      "LLM"
-    ],
-    "date": "2026-09-29T17:59:52Z",
-    "trending": true,
-    "source": "arXiv - Jaewoo Jung, Hyeonseo Yu, Honggyu An et al."
-  },
-  {
-    "id": "arxiv_1790810135009_0",
-    "name": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
-    "category": "nlp",
-    "description": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they strugg...",
-    "link": "http://arxiv.org/abs/2609.38177v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-09-29T17:59:52Z",
-    "trending": true,
-    "source": "arXiv - Jaewoo Jung, Hyeonseo Yu, Honggyu An et al."
-  },
-  {
-    "id": "arxiv_1790810134997_1",
-    "name": "Breakdown of Local Denoising as Semantic Speciation",
-    "category": "machine-learning",
-    "description": "The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context...",
-    "link": "http://arxiv.org/abs/2609.38176v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-29T17:59:50Z",
-    "trending": true,
-    "source": "arXiv - Guangkuo Liu, Mert Okyay, Yifan F. Zhang et al."
-  },
-  {
-    "id": "arxiv_1790810134985_2",
-    "name": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
-    "category": "computer-vision",
-    "description": "Teaching humanoids loco-manipulation skills, such as carrying diverse objects, via visual imitation is a promising path toward generalist robots. However, collecting diverse, high-quality interaction ...",
-    "link": "http://arxiv.org/abs/2609.38172v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-29T17:59:45Z",
-    "trending": true,
-    "source": "arXiv - Zihan Wang, Zhen Wu, Pieter Abbeel et al."
-  },
-  {
-    "id": "arxiv_1790810134985_3",
-    "name": "Adversarial Training for Pixel Diffusion",
-    "category": "computer-vision",
-    "description": "Pixel diffusion models generate RGB images directly, avoiding the bottleneck of an autoencoder, yet their outputs still systematically underrepresent fine-scale natural-image statistics. We show that ...",
-    "link": "http://arxiv.org/abs/2609.38170v1",
-    "tags": [
-      "AI",
       "GAN",
-      "Diffusion",
       "Optimization"
     ],
-    "date": "2026-09-29T17:59:41Z",
+    "date": "2026-09-30T17:59:57Z",
     "trending": true,
-    "source": "arXiv - Xin Lin, Zhifei Zhang, Yuqian Zhou et al."
+    "source": "arXiv - Hongyuan Tao, Xinggang Wang, Lianghui Zhu et al."
   },
   {
-    "id": "arxiv_1790810134972_1",
-    "name": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
-    "category": "ai",
-    "description": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recur...",
-    "link": "http://arxiv.org/abs/2609.38169v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-29T17:59:40Z",
-    "trending": false,
-    "source": "arXiv - Bingchen Yao, Haobo Xu, Haokun Lin et al."
-  },
-  {
-    "id": "arxiv_1790810134997_2",
-    "name": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
-    "category": "machine-learning",
-    "description": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recur...",
-    "link": "http://arxiv.org/abs/2609.38169v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-29T17:59:40Z",
-    "trending": false,
-    "source": "arXiv - Bingchen Yao, Haobo Xu, Haokun Lin et al."
-  },
-  {
-    "id": "arxiv_1790810135009_1",
-    "name": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
-    "category": "nlp",
-    "description": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recur...",
-    "link": "http://arxiv.org/abs/2609.38169v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-29T17:59:40Z",
-    "trending": false,
-    "source": "arXiv - Bingchen Yao, Haobo Xu, Haokun Lin et al."
-  },
-  {
-    "id": "arxiv_1790810134972_2",
-    "name": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
-    "category": "ai",
-    "description": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context int...",
-    "link": "http://arxiv.org/abs/2609.38166v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-29T17:59:34Z",
-    "trending": false,
-    "source": "arXiv - Yi Pan, Haocheng Xi, Kan Zhu et al."
-  },
-  {
-    "id": "arxiv_1790810134997_3",
-    "name": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
-    "category": "machine-learning",
-    "description": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context int...",
-    "link": "http://arxiv.org/abs/2609.38166v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-29T17:59:34Z",
-    "trending": false,
-    "source": "arXiv - Yi Pan, Haocheng Xi, Kan Zhu et al."
-  },
-  {
-    "id": "arxiv_1790810134985_4",
-    "name": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
+    "id": "arxiv_1790822539071_1",
+    "name": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
     "category": "computer-vision",
-    "description": "The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being misse...",
-    "link": "http://arxiv.org/abs/2609.38165v1",
+    "description": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc...",
+    "link": "http://arxiv.org/abs/2609.40361v1",
     "tags": [
       "AI",
-      "Transformer"
+      "Vision",
+      "LLM",
+      "Optimization"
     ],
-    "date": "2026-09-29T17:59:29Z",
+    "date": "2026-09-30T17:59:56Z",
     "trending": true,
-    "source": "arXiv - Joseph Metcalfe, Sara Sharifzadeh, Fabio Caraffini"
+    "source": "arXiv - Tian Xia, Minghao Liu, Yiqing Liang et al."
   },
   {
-    "id": "arxiv_1790810134997_4",
-    "name": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
+    "id": "arxiv_1790822539150_0",
+    "name": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
     "category": "machine-learning",
-    "description": "The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being misse...",
-    "link": "http://arxiv.org/abs/2609.38165v1",
+    "description": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc...",
+    "link": "http://arxiv.org/abs/2609.40361v1",
     "tags": [
       "AI",
-      "Transformer"
+      "Vision",
+      "LLM",
+      "Optimization"
     ],
-    "date": "2026-09-29T17:59:29Z",
+    "date": "2026-09-30T17:59:56Z",
     "trending": false,
-    "source": "arXiv - Joseph Metcalfe, Sara Sharifzadeh, Fabio Caraffini"
+    "source": "arXiv - Tian Xia, Minghao Liu, Yiqing Liang et al."
   },
   {
-    "id": "arxiv_1790810135009_2",
-    "name": "EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation",
-    "category": "nlp",
-    "description": "Emotion-conditioned text-to-speech (TTS) models may fail to express the requested emotion reliably, and improving controllability by additional training is costly in both computation and emotion-label...",
-    "link": "http://arxiv.org/abs/2609.38157v1",
+    "id": "arxiv_1790822539150_1",
+    "name": "Semifactual Credit-Augmented Policy Optimization",
+    "category": "machine-learning",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features...",
+    "link": "http://arxiv.org/abs/2609.40360v1",
     "tags": [
-      "AI"
+      "AI",
+      "LLM",
+      "Reinforcement Learning",
+      "Optimization"
     ],
-    "date": "2026-09-29T17:59:05Z",
-    "trending": false,
-    "source": "arXiv - Kuan-Po Huang, Haohe Liu, Puyuan Peng et al."
-  },
-  {
-    "id": "arxiv_1790810134972_3",
-    "name": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
-    "category": "ai",
-    "description": "Answering questions about long videos often requires connecting events involving the same objects across hours or days. Chronological descriptions and text-derived entities can leave physical identity...",
-    "link": "http://arxiv.org/abs/2609.38155v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-29T17:59:01Z",
-    "trending": false,
-    "source": "arXiv - Hui Ren, Lei Fan, Henry Pao et al."
-  },
-  {
-    "id": "arxiv_1790810135010_3",
-    "name": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
-    "category": "nlp",
-    "description": "Answering questions about long videos often requires connecting events involving the same objects across hours or days. Chronological descriptions and text-derived entities can leave physical identity...",
-    "link": "http://arxiv.org/abs/2609.38155v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-29T17:59:01Z",
+    "date": "2026-09-30T17:59:56Z",
     "trending": true,
-    "source": "arXiv - Hui Ren, Lei Fan, Henry Pao et al."
+    "source": "arXiv - Junshu Pan, Zhizhang Fu, Shulin Huang et al."
   },
   {
-    "id": "arxiv_1790810135010_4",
-    "name": "Pretraining Latent Information Feedback Transformers with Teacher Supervision",
+    "id": "arxiv_1790822539229_0",
+    "name": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
     "category": "nlp",
-    "description": "Transformer language models (LMs) are feed-forward: deep-layer representations are never fed back to shallower layers, and the only pathway for information to flow downward across generation steps is ...",
-    "link": "http://arxiv.org/abs/2609.38149v1",
+    "description": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc...",
+    "link": "http://arxiv.org/abs/2609.40361v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-09-30T17:59:56Z",
+    "trending": false,
+    "source": "arXiv - Tian Xia, Minghao Liu, Yiqing Liang et al."
+  },
+  {
+    "id": "arxiv_1790822539229_1",
+    "name": "Semifactual Credit-Augmented Policy Optimization",
+    "category": "nlp",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features...",
+    "link": "http://arxiv.org/abs/2609.40360v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-09-30T17:59:56Z",
+    "trending": true,
+    "source": "arXiv - Junshu Pan, Zhizhang Fu, Shulin Huang et al."
+  },
+  {
+    "id": "arxiv_1790822539150_2",
+    "name": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+    "category": "machine-learning",
+    "description": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time s...",
+    "link": "http://arxiv.org/abs/2609.40359v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "LLM"
+    ],
+    "date": "2026-09-30T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Dulhan Jayalath, Oiwi Parker Jones"
+  },
+  {
+    "id": "arxiv_1790822539071_2",
+    "name": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+    "category": "computer-vision",
+    "description": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physical principles. Existing approaches commonly assume ...",
+    "link": "http://arxiv.org/abs/2609.40358v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-30T17:59:51Z",
+    "trending": false,
+    "source": "arXiv - Liming Lu, Xianzheng Ma, Wenkun He et al."
+  },
+  {
+    "id": "arxiv_1790822539071_3",
+    "name": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+    "category": "computer-vision",
+    "description": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video...",
+    "link": "http://arxiv.org/abs/2609.40356v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-30T17:59:33Z",
+    "trending": false,
+    "source": "arXiv - Xinghao Chen, Xiangbo Gao, Jiongze Yu et al."
+  },
+  {
+    "id": "arxiv_1790822539071_4",
+    "name": "AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents",
+    "category": "computer-vision",
+    "description": "The task of 3D assembly requires translating an understanding of parts and their relationships into precise spatial arrangements. Can pretrained general-purpose agents assemble objects through visual ...",
+    "link": "http://arxiv.org/abs/2609.40353v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-30T17:59:14Z",
+    "trending": false,
+    "source": "arXiv - Jiahao Zhang, Yeying Fan, Moitreya Chatterjee et al."
+  },
+  {
+    "id": "arxiv_1790822539150_3",
+    "name": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+    "category": "machine-learning",
+    "description": "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstructio...",
+    "link": "http://arxiv.org/abs/2609.40347v1",
     "tags": [
       "AI",
       "Vision",
       "Transformer"
     ],
-    "date": "2026-09-29T17:57:40Z",
+    "date": "2026-09-30T17:59:03Z",
     "trending": false,
-    "source": "arXiv - Dor Tirosh, Ido Amos, Mor Geva"
+    "source": "arXiv - Owais Iqbal, Sudipta Sarkar, Shyam Marjit et al."
   },
   {
-    "id": "arxiv_1790810134972_4",
-    "name": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
-    "category": "ai",
-    "description": "As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whe...",
-    "link": "http://arxiv.org/abs/2609.38147v1",
+    "id": "arxiv_1790822539229_2",
+    "name": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+    "category": "nlp",
+    "description": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can kee...",
+    "link": "http://arxiv.org/abs/2609.40340v1",
     "tags": [
       "AI",
+      "LLM",
+      "GPT",
+      "Optimization"
+    ],
+    "date": "2026-09-30T17:58:28Z",
+    "trending": true,
+    "source": "arXiv - Young-Jun Lee, Jinheon Baek, Soyeong Jeong et al."
+  },
+  {
+    "id": "arxiv_1790822539150_4",
+    "name": "Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
+    "category": "machine-learning",
+    "description": "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between...",
+    "link": "http://arxiv.org/abs/2609.40335v1",
+    "tags": [
+      "AI",
+      "LLM",
       "GPT"
     ],
-    "date": "2026-09-29T17:57:25Z",
+    "date": "2026-09-30T17:57:43Z",
+    "trending": false,
+    "source": "arXiv - Razan El Mais, Ali Chehab, Ibrahim Issa et al."
+  },
+  {
+    "id": "arxiv_1790822539229_3",
+    "name": "MatLoom: Layered Text-to-Material Generation in a Compact Program Space",
+    "category": "nlp",
+    "description": "Material generation should produce not only an appearance, but also the rules that construct it. We introduce MatLoom, a compact, layer-oriented language for text-to-material generation with pretraine...",
+    "link": "http://arxiv.org/abs/2609.40322v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-09-30T17:55:06Z",
+    "trending": false,
+    "source": "arXiv - Anson Y. Lam, Shuqing Li, Michael R. Lyu"
+  },
+  {
+    "id": "arxiv_1790822539229_4",
+    "name": "Scaling Laws for Looped Mixture of Experts",
+    "category": "nlp",
+    "description": "Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacit...",
+    "link": "http://arxiv.org/abs/2609.40316v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-09-30T17:53:47Z",
+    "trending": false,
+    "source": "arXiv - Yanbei Chen, Anirudh Goyal, Raghuraman Krishnamoorthi"
+  },
+  {
+    "id": "arxiv_1790822538990_0",
+    "name": "In a Streaming World, Should You Stand Still? A Comprehensive Benchmark of Anomaly Detection in Streams",
+    "category": "ai",
+    "description": "Time series anomaly detection (TSAD) is increasingly deployed in streaming settings, where data arrive sequentially and may exhibit non-stationarity. As a result, several works from the recent literat...",
+    "link": "http://arxiv.org/abs/2609.39215v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-30T07:56:52Z",
+    "trending": false,
+    "source": "arXiv - Magali Parrino, Antoine Ajenjo, Emmanuel Remy et al."
+  },
+  {
+    "id": "arxiv_1790822538990_1",
+    "name": "UniAE-MoE: A Unified Audio Encoder via Mixture of Experts",
+    "category": "ai",
+    "description": "Large Audio Language Models (LALMs) rely on effective audio encoders for multi-task performance. We introduce UniAE-MoE, a unified audio encoder designed to model cross-domain audio representations an...",
+    "link": "http://arxiv.org/abs/2609.39199v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-30T07:49:18Z",
     "trending": true,
-    "source": "arXiv - Paras Dahal, Anton Bakhtin, Taco Cohen et al."
+    "source": "arXiv - Shengbo Cai, Zhisheng Zhang, Zichao Nie et al."
+  },
+  {
+    "id": "arxiv_1790822538990_2",
+    "name": "MEND: Label-Free Detection, Localisation, and Correction of Latent Hallucination in World Models",
+    "category": "ai",
+    "description": "World Models are appearing as the next major frontier in computer vision. However, their robustness is currently largely unexplored. We identify the phenomenon of hallucination in latent World Models:...",
+    "link": "http://arxiv.org/abs/2609.39182v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Vision"
+    ],
+    "date": "2026-09-30T07:38:49Z",
+    "trending": true,
+    "source": "arXiv - Ali J Alrasheed, Aryan Yazdan Parast, Basim Azam et al."
+  },
+  {
+    "id": "arxiv_1790822538990_3",
+    "name": "Reinforcing Multimodal Reasoning via Token-Level Perception-Grounded Advantage Estimation",
+    "category": "ai",
+    "description": "Reinforcement Learning with Verifiable Rewards (RLVR) has improved the reasoning capabilities of Multimodal Large Language Models (MLLMs), yet existing frameworks rely on coarse, sequence-level reward...",
+    "link": "http://arxiv.org/abs/2609.39168v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-09-30T07:29:00Z",
+    "trending": false,
+    "source": "arXiv - Zhihan Zhang, Lizi Liao"
+  },
+  {
+    "id": "arxiv_1790822538991_4",
+    "name": "Beyond the Remembered World: Predictive 4D Belief for Persistent Navigation in Evolving Worlds",
+    "category": "ai",
+    "description": "Persistent spatial memory enables embodied agents to navigate familiar environments across repeated visits. However, targets may move while unobserved, including during navigation, making remembered l...",
+    "link": "http://arxiv.org/abs/2609.39166v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-09-30T07:26:36Z",
+    "trending": true,
+    "source": "arXiv - Mingjian Gao, Zhaocheng Li, Haoyang Huang et al."
   }
 ]
