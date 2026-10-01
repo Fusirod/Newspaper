@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1790822539071_0",
+    "id": "arxiv_1790846989185_0",
     "name": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
     "category": "computer-vision",
     "description": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine dis...",
@@ -12,11 +12,27 @@
       "Optimization"
     ],
     "date": "2026-09-30T17:59:57Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hongyuan Tao, Xinggang Wang, Lianghui Zhu et al."
   },
   {
-    "id": "arxiv_1790822539071_1",
+    "id": "arxiv_1790846989171_0",
+    "name": "Semifactual Credit-Augmented Policy Optimization",
+    "category": "ai",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features...",
+    "link": "http://arxiv.org/abs/2609.40360v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-09-30T17:59:56Z",
+    "trending": false,
+    "source": "arXiv - Junshu Pan, Zhizhang Fu, Shulin Huang et al."
+  },
+  {
+    "id": "arxiv_1790846989185_1",
     "name": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
     "category": "computer-vision",
     "description": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc...",
@@ -28,11 +44,11 @@
       "Optimization"
     ],
     "date": "2026-09-30T17:59:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Tian Xia, Minghao Liu, Yiqing Liang et al."
   },
   {
-    "id": "arxiv_1790822539150_0",
+    "id": "arxiv_1790846989191_0",
     "name": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
     "category": "machine-learning",
     "description": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc...",
@@ -48,7 +64,7 @@
     "source": "arXiv - Tian Xia, Minghao Liu, Yiqing Liang et al."
   },
   {
-    "id": "arxiv_1790822539150_1",
+    "id": "arxiv_1790846989191_1",
     "name": "Semifactual Credit-Augmented Policy Optimization",
     "category": "machine-learning",
     "description": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features...",
@@ -60,11 +76,11 @@
       "Optimization"
     ],
     "date": "2026-09-30T17:59:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Junshu Pan, Zhizhang Fu, Shulin Huang et al."
   },
   {
-    "id": "arxiv_1790822539229_0",
+    "id": "arxiv_1790846989204_0",
     "name": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
     "category": "nlp",
     "description": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc...",
@@ -80,7 +96,7 @@
     "source": "arXiv - Tian Xia, Minghao Liu, Yiqing Liang et al."
   },
   {
-    "id": "arxiv_1790822539229_1",
+    "id": "arxiv_1790846989204_1",
     "name": "Semifactual Credit-Augmented Policy Optimization",
     "category": "nlp",
     "description": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features...",
@@ -92,11 +108,11 @@
       "Optimization"
     ],
     "date": "2026-09-30T17:59:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Junshu Pan, Zhizhang Fu, Shulin Huang et al."
   },
   {
-    "id": "arxiv_1790822539150_2",
+    "id": "arxiv_1790846989191_2",
     "name": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
     "category": "machine-learning",
     "description": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time s...",
@@ -107,11 +123,11 @@
       "LLM"
     ],
     "date": "2026-09-30T17:59:52Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Dulhan Jayalath, Oiwi Parker Jones"
   },
   {
-    "id": "arxiv_1790822539071_2",
+    "id": "arxiv_1790846989185_2",
     "name": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
     "category": "computer-vision",
     "description": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physical principles. Existing approaches commonly assume ...",
@@ -124,7 +140,20 @@
     "source": "arXiv - Liming Lu, Xianzheng Ma, Wenkun He et al."
   },
   {
-    "id": "arxiv_1790822539071_3",
+    "id": "arxiv_1790846989171_1",
+    "name": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+    "category": "ai",
+    "description": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video...",
+    "link": "http://arxiv.org/abs/2609.40356v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-30T17:59:33Z",
+    "trending": true,
+    "source": "arXiv - Xinghao Chen, Xiangbo Gao, Jiongze Yu et al."
+  },
+  {
+    "id": "arxiv_1790846989185_3",
     "name": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
     "category": "computer-vision",
     "description": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video...",
@@ -137,7 +166,7 @@
     "source": "arXiv - Xinghao Chen, Xiangbo Gao, Jiongze Yu et al."
   },
   {
-    "id": "arxiv_1790822539071_4",
+    "id": "arxiv_1790846989185_4",
     "name": "AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents",
     "category": "computer-vision",
     "description": "The task of 3D assembly requires translating an understanding of parts and their relationships into precise spatial arrangements. Can pretrained general-purpose agents assemble objects through visual ...",
@@ -146,11 +175,11 @@
       "AI"
     ],
     "date": "2026-09-30T17:59:14Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jiahao Zhang, Yeying Fan, Moitreya Chatterjee et al."
   },
   {
-    "id": "arxiv_1790822539150_3",
+    "id": "arxiv_1790846989191_3",
     "name": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
     "category": "machine-learning",
     "description": "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstructio...",
@@ -161,11 +190,11 @@
       "Transformer"
     ],
     "date": "2026-09-30T17:59:03Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Owais Iqbal, Sudipta Sarkar, Shyam Marjit et al."
   },
   {
-    "id": "arxiv_1790822539229_2",
+    "id": "arxiv_1790846989204_2",
     "name": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
     "category": "nlp",
     "description": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can kee...",
@@ -181,7 +210,7 @@
     "source": "arXiv - Young-Jun Lee, Jinheon Baek, Soyeong Jeong et al."
   },
   {
-    "id": "arxiv_1790822539150_4",
+    "id": "arxiv_1790846989191_4",
     "name": "Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
     "category": "machine-learning",
     "description": "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between...",
@@ -196,7 +225,48 @@
     "source": "arXiv - Razan El Mais, Ali Chehab, Ibrahim Issa et al."
   },
   {
-    "id": "arxiv_1790822539229_3",
+    "id": "arxiv_1790846989171_2",
+    "name": "Turbo Harness: Instance-Adaptive Harness Optimization",
+    "category": "ai",
+    "description": "Automating the search for effective harnesses is an important step toward enabling agents to recursively self-improve. Existing harness optimizations typically produce a single global harness that is ...",
+    "link": "http://arxiv.org/abs/2609.40330v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-09-30T17:56:09Z",
+    "trending": false,
+    "source": "arXiv - Tunyu Zhang, Hao Wang, Kai Xu et al."
+  },
+  {
+    "id": "arxiv_1790846989172_3",
+    "name": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
+    "category": "ai",
+    "description": "As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient pipelines for identifying anomalies in these simulated environments, such as flo...",
+    "link": "http://arxiv.org/abs/2609.40325v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-09-30T17:55:29Z",
+    "trending": true,
+    "source": "arXiv - Ziyan Jiang, Jingbo Yang, Jiabao Ji et al."
+  },
+  {
+    "id": "arxiv_1790846989172_4",
+    "name": "Cogentic: Multi-Agent Orchestration for Automated Proof Discovery",
+    "category": "ai",
+    "description": "We present Cogentic, a multi-agent harness for automated proof discovery on open research problems. While frontier language models can generate strong mathematical ideas in a single shot, single-shot ...",
+    "link": "http://arxiv.org/abs/2609.40324v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-09-30T17:55:22Z",
+    "trending": false,
+    "source": "arXiv - Yang Cai, Vineet Gupta, Yanchen Jiang et al."
+  },
+  {
+    "id": "arxiv_1790846989204_3",
     "name": "MatLoom: Layered Text-to-Material Generation in a Compact Program Space",
     "category": "nlp",
     "description": "Material generation should produce not only an appearance, but also the rules that construct it. We introduce MatLoom, a compact, layer-oriented language for text-to-material generation with pretraine...",
@@ -206,11 +276,11 @@
       "Diffusion"
     ],
     "date": "2026-09-30T17:55:06Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Anson Y. Lam, Shuqing Li, Michael R. Lyu"
   },
   {
-    "id": "arxiv_1790822539229_4",
+    "id": "arxiv_1790846989204_4",
     "name": "Scaling Laws for Looped Mixture of Experts",
     "category": "nlp",
     "description": "Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacit...",
@@ -222,77 +292,5 @@
     "date": "2026-09-30T17:53:47Z",
     "trending": false,
     "source": "arXiv - Yanbei Chen, Anirudh Goyal, Raghuraman Krishnamoorthi"
-  },
-  {
-    "id": "arxiv_1790822538990_0",
-    "name": "In a Streaming World, Should You Stand Still? A Comprehensive Benchmark of Anomaly Detection in Streams",
-    "category": "ai",
-    "description": "Time series anomaly detection (TSAD) is increasingly deployed in streaming settings, where data arrive sequentially and may exhibit non-stationarity. As a result, several works from the recent literat...",
-    "link": "http://arxiv.org/abs/2609.39215v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-09-30T07:56:52Z",
-    "trending": false,
-    "source": "arXiv - Magali Parrino, Antoine Ajenjo, Emmanuel Remy et al."
-  },
-  {
-    "id": "arxiv_1790822538990_1",
-    "name": "UniAE-MoE: A Unified Audio Encoder via Mixture of Experts",
-    "category": "ai",
-    "description": "Large Audio Language Models (LALMs) rely on effective audio encoders for multi-task performance. We introduce UniAE-MoE, a unified audio encoder designed to model cross-domain audio representations an...",
-    "link": "http://arxiv.org/abs/2609.39199v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-30T07:49:18Z",
-    "trending": true,
-    "source": "arXiv - Shengbo Cai, Zhisheng Zhang, Zichao Nie et al."
-  },
-  {
-    "id": "arxiv_1790822538990_2",
-    "name": "MEND: Label-Free Detection, Localisation, and Correction of Latent Hallucination in World Models",
-    "category": "ai",
-    "description": "World Models are appearing as the next major frontier in computer vision. However, their robustness is currently largely unexplored. We identify the phenomenon of hallucination in latent World Models:...",
-    "link": "http://arxiv.org/abs/2609.39182v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Vision"
-    ],
-    "date": "2026-09-30T07:38:49Z",
-    "trending": true,
-    "source": "arXiv - Ali J Alrasheed, Aryan Yazdan Parast, Basim Azam et al."
-  },
-  {
-    "id": "arxiv_1790822538990_3",
-    "name": "Reinforcing Multimodal Reasoning via Token-Level Perception-Grounded Advantage Estimation",
-    "category": "ai",
-    "description": "Reinforcement Learning with Verifiable Rewards (RLVR) has improved the reasoning capabilities of Multimodal Large Language Models (MLLMs), yet existing frameworks rely on coarse, sequence-level reward...",
-    "link": "http://arxiv.org/abs/2609.39168v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-09-30T07:29:00Z",
-    "trending": false,
-    "source": "arXiv - Zhihan Zhang, Lizi Liao"
-  },
-  {
-    "id": "arxiv_1790822538991_4",
-    "name": "Beyond the Remembered World: Predictive 4D Belief for Persistent Navigation in Evolving Worlds",
-    "category": "ai",
-    "description": "Persistent spatial memory enables embodied agents to navigate familiar environments across repeated visits. However, targets may move while unobserved, including during navigation, making remembered l...",
-    "link": "http://arxiv.org/abs/2609.39166v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-09-30T07:26:36Z",
-    "trending": true,
-    "source": "arXiv - Mingjian Gao, Zhaocheng Li, Haoyang Huang et al."
   }
 ]
