@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1790890020238_0",
+    "id": "arxiv_1790903305205_0",
     "name": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
     "category": "computer-vision",
     "description": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine dis...",
@@ -12,11 +12,11 @@
       "Optimization"
     ],
     "date": "2026-09-30T17:59:57Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hongyuan Tao, Xinggang Wang, Lianghui Zhu et al."
   },
   {
-    "id": "arxiv_1790890020221_0",
+    "id": "arxiv_1790903305173_0",
     "name": "Semifactual Credit-Augmented Policy Optimization",
     "category": "ai",
     "description": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features...",
@@ -32,7 +32,7 @@
     "source": "arXiv - Junshu Pan, Zhizhang Fu, Shulin Huang et al."
   },
   {
-    "id": "arxiv_1790890020238_1",
+    "id": "arxiv_1790903305205_1",
     "name": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
     "category": "computer-vision",
     "description": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc...",
@@ -48,7 +48,7 @@
     "source": "arXiv - Tian Xia, Minghao Liu, Yiqing Liang et al."
   },
   {
-    "id": "arxiv_1790890020252_0",
+    "id": "arxiv_1790903305237_0",
     "name": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
     "category": "machine-learning",
     "description": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc...",
@@ -60,11 +60,11 @@
       "Optimization"
     ],
     "date": "2026-09-30T17:59:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Tian Xia, Minghao Liu, Yiqing Liang et al."
   },
   {
-    "id": "arxiv_1790890020252_1",
+    "id": "arxiv_1790903305237_1",
     "name": "Semifactual Credit-Augmented Policy Optimization",
     "category": "machine-learning",
     "description": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features...",
@@ -76,11 +76,11 @@
       "Optimization"
     ],
     "date": "2026-09-30T17:59:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Junshu Pan, Zhizhang Fu, Shulin Huang et al."
   },
   {
-    "id": "arxiv_1790890020270_0",
+    "id": "arxiv_1790903305272_0",
     "name": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
     "category": "nlp",
     "description": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc...",
@@ -96,7 +96,7 @@
     "source": "arXiv - Tian Xia, Minghao Liu, Yiqing Liang et al."
   },
   {
-    "id": "arxiv_1790890020270_1",
+    "id": "arxiv_1790903305272_1",
     "name": "Semifactual Credit-Augmented Policy Optimization",
     "category": "nlp",
     "description": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features...",
@@ -108,11 +108,11 @@
       "Optimization"
     ],
     "date": "2026-09-30T17:59:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Junshu Pan, Zhizhang Fu, Shulin Huang et al."
   },
   {
-    "id": "arxiv_1790890020252_2",
+    "id": "arxiv_1790903305238_2",
     "name": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
     "category": "machine-learning",
     "description": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time s...",
@@ -123,11 +123,11 @@
       "LLM"
     ],
     "date": "2026-09-30T17:59:52Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Dulhan Jayalath, Oiwi Parker Jones"
   },
   {
-    "id": "arxiv_1790890020238_2",
+    "id": "arxiv_1790903305206_2",
     "name": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
     "category": "computer-vision",
     "description": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physical principles. Existing approaches commonly assume ...",
@@ -140,7 +140,7 @@
     "source": "arXiv - Liming Lu, Xianzheng Ma, Wenkun He et al."
   },
   {
-    "id": "arxiv_1790890020221_1",
+    "id": "arxiv_1790903305174_1",
     "name": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
     "category": "ai",
     "description": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video...",
@@ -153,7 +153,7 @@
     "source": "arXiv - Xinghao Chen, Xiangbo Gao, Jiongze Yu et al."
   },
   {
-    "id": "arxiv_1790890020238_3",
+    "id": "arxiv_1790903305206_3",
     "name": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
     "category": "computer-vision",
     "description": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video...",
@@ -166,7 +166,7 @@
     "source": "arXiv - Xinghao Chen, Xiangbo Gao, Jiongze Yu et al."
   },
   {
-    "id": "arxiv_1790890020238_4",
+    "id": "arxiv_1790903305206_4",
     "name": "AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents",
     "category": "computer-vision",
     "description": "The task of 3D assembly requires translating an understanding of parts and their relationships into precise spatial arrangements. Can pretrained general-purpose agents assemble objects through visual ...",
@@ -175,11 +175,11 @@
       "AI"
     ],
     "date": "2026-09-30T17:59:14Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jiahao Zhang, Yeying Fan, Moitreya Chatterjee et al."
   },
   {
-    "id": "arxiv_1790890020252_3",
+    "id": "arxiv_1790903305238_3",
     "name": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
     "category": "machine-learning",
     "description": "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstructio...",
@@ -190,11 +190,11 @@
       "Transformer"
     ],
     "date": "2026-09-30T17:59:03Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Owais Iqbal, Sudipta Sarkar, Shyam Marjit et al."
   },
   {
-    "id": "arxiv_1790890020271_2",
+    "id": "arxiv_1790903305272_2",
     "name": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
     "category": "nlp",
     "description": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can kee...",
@@ -206,11 +206,11 @@
       "Optimization"
     ],
     "date": "2026-09-30T17:58:28Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Young-Jun Lee, Jinheon Baek, Soyeong Jeong et al."
   },
   {
-    "id": "arxiv_1790890020252_4",
+    "id": "arxiv_1790903305238_4",
     "name": "Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
     "category": "machine-learning",
     "description": "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between...",
@@ -221,11 +221,11 @@
       "GPT"
     ],
     "date": "2026-09-30T17:57:43Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Razan El Mais, Ali Chehab, Ibrahim Issa et al."
   },
   {
-    "id": "arxiv_1790890020221_2",
+    "id": "arxiv_1790903305174_2",
     "name": "Turbo Harness: Instance-Adaptive Harness Optimization",
     "category": "ai",
     "description": "Automating the search for effective harnesses is an important step toward enabling agents to recursively self-improve. Existing harness optimizations typically produce a single global harness that is ...",
@@ -239,7 +239,7 @@
     "source": "arXiv - Tunyu Zhang, Hao Wang, Kai Xu et al."
   },
   {
-    "id": "arxiv_1790890020222_3",
+    "id": "arxiv_1790903305174_3",
     "name": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
     "category": "ai",
     "description": "As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient pipelines for identifying anomalies in these simulated environments, such as flo...",
@@ -249,11 +249,11 @@
       "Vision"
     ],
     "date": "2026-09-30T17:55:29Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ziyan Jiang, Jingbo Yang, Jiabao Ji et al."
   },
   {
-    "id": "arxiv_1790890020222_4",
+    "id": "arxiv_1790903305174_4",
     "name": "Cogentic: Multi-Agent Orchestration for Automated Proof Discovery",
     "category": "ai",
     "description": "We present Cogentic, a multi-agent harness for automated proof discovery on open research problems. While frontier language models can generate strong mathematical ideas in a single shot, single-shot ...",
@@ -262,11 +262,11 @@
       "AI"
     ],
     "date": "2026-09-30T17:55:22Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yang Cai, Vineet Gupta, Yanchen Jiang et al."
   },
   {
-    "id": "arxiv_1790890020271_3",
+    "id": "arxiv_1790903305272_3",
     "name": "MatLoom: Layered Text-to-Material Generation in a Compact Program Space",
     "category": "nlp",
     "description": "Material generation should produce not only an appearance, but also the rules that construct it. We introduce MatLoom, a compact, layer-oriented language for text-to-material generation with pretraine...",
@@ -280,7 +280,7 @@
     "source": "arXiv - Anson Y. Lam, Shuqing Li, Michael R. Lyu"
   },
   {
-    "id": "arxiv_1790890020271_4",
+    "id": "arxiv_1790903305272_4",
     "name": "Scaling Laws for Looped Mixture of Experts",
     "category": "nlp",
     "description": "Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacit...",
