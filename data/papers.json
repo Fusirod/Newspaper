@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1791069888917_0",
+    "id": "arxiv_1791083026079_0",
     "name": "Moore, Escher, Penrose: A Conformal Golden Braid",
     "category": "computer-vision",
     "description": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can th...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Sophia Feldman, Assaf Shocher"
   },
   {
-    "id": "arxiv_1791069888902_0",
+    "id": "arxiv_1791083026023_0",
     "name": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
     "category": "ai",
     "description": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev"
   },
   {
-    "id": "arxiv_1791069888917_1",
+    "id": "arxiv_1791083026079_1",
     "name": "Sphere Encoder 2",
     "category": "computer-vision",
     "description": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generati...",
@@ -37,11 +37,11 @@
       "AI"
     ],
     "date": "2026-10-01T17:59:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Kaiyu Yue, Sean McLeish, Ruchit Rawal et al."
   },
   {
-    "id": "arxiv_1791069888917_2",
+    "id": "arxiv_1791083026079_2",
     "name": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
     "category": "computer-vision",
     "description": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ...",
@@ -51,11 +51,11 @@
       "Neural"
     ],
     "date": "2026-10-01T17:59:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev"
   },
   {
-    "id": "arxiv_1791069888931_0",
+    "id": "arxiv_1791083026136_0",
     "name": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
     "category": "machine-learning",
     "description": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev"
   },
   {
-    "id": "arxiv_1791069888902_1",
+    "id": "arxiv_1791083026023_1",
     "name": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
     "category": "ai",
     "description": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment...",
@@ -84,7 +84,7 @@
     "source": "arXiv - Pengfei Li, Naufal Suryanto, Sicheng Zhang et al."
   },
   {
-    "id": "arxiv_1791069888948_0",
+    "id": "arxiv_1791083026192_0",
     "name": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
     "category": "nlp",
     "description": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment...",
@@ -99,7 +99,7 @@
     "source": "arXiv - Pengfei Li, Naufal Suryanto, Sicheng Zhang et al."
   },
   {
-    "id": "arxiv_1791069888918_3",
+    "id": "arxiv_1791083026080_3",
     "name": "ROWBench: Do Video Models Render What the Program Specifies?",
     "category": "computer-vision",
     "description": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and i...",
@@ -112,7 +112,7 @@
     "source": "arXiv - Zheng-Hui Huang, Guixu Lin, Yu-Ju Tsai et al."
   },
   {
-    "id": "arxiv_1791069888902_2",
+    "id": "arxiv_1791083026023_2",
     "name": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
     "category": "ai",
     "description": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruc...",
@@ -128,7 +128,7 @@
     "source": "arXiv - Yen-Jen Wang, Haozhe Jiang, Shuying Deng et al."
   },
   {
-    "id": "arxiv_1791069888918_4",
+    "id": "arxiv_1791083026080_4",
     "name": "Embedding Prediction Helps Image Generation",
     "category": "computer-vision",
     "description": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition in...",
@@ -143,7 +143,7 @@
     "source": "arXiv - Sihan Xu, Ji Xie, Zilin Wang et al."
   },
   {
-    "id": "arxiv_1791069888931_1",
+    "id": "arxiv_1791083026136_1",
     "name": "Embedding Prediction Helps Image Generation",
     "category": "machine-learning",
     "description": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition in...",
@@ -158,7 +158,7 @@
     "source": "arXiv - Sihan Xu, Ji Xie, Zilin Wang et al."
   },
   {
-    "id": "arxiv_1791069888902_3",
+    "id": "arxiv_1791083026023_3",
     "name": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
     "category": "ai",
     "description": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of res...",
@@ -173,7 +173,7 @@
     "source": "arXiv - Sohyeon Kim, Yoonho Lee, Bo Liu et al."
   },
   {
-    "id": "arxiv_1791069888949_1",
+    "id": "arxiv_1791083026193_1",
     "name": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
     "category": "nlp",
     "description": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of res...",
@@ -188,23 +188,9 @@
     "source": "arXiv - Sohyeon Kim, Yoonho Lee, Bo Liu et al."
   },
   {
-    "id": "arxiv_1791069888902_4",
+    "id": "arxiv_1791083026023_4",
     "name": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
     "category": "ai",
-    "description": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragme...",
-    "link": "http://arxiv.org/abs/2610.02201v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-01T17:59:46Z",
-    "trending": true,
-    "source": "arXiv - Tianjiao Yu, Xinzhuo Li, Yifan Shen et al."
-  },
-  {
-    "id": "arxiv_1791069888931_2",
-    "name": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-    "category": "machine-learning",
     "description": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragme...",
     "link": "http://arxiv.org/abs/2610.02201v1",
     "tags": [
@@ -216,7 +202,21 @@
     "source": "arXiv - Tianjiao Yu, Xinzhuo Li, Yifan Shen et al."
   },
   {
-    "id": "arxiv_1791069888931_3",
+    "id": "arxiv_1791083026136_2",
+    "name": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+    "category": "machine-learning",
+    "description": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragme...",
+    "link": "http://arxiv.org/abs/2610.02201v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-01T17:59:46Z",
+    "trending": true,
+    "source": "arXiv - Tianjiao Yu, Xinzhuo Li, Yifan Shen et al."
+  },
+  {
+    "id": "arxiv_1791083026136_3",
     "name": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
     "category": "machine-learning",
     "description": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress opt...",
@@ -226,11 +226,11 @@
       "LLM"
     ],
     "date": "2026-10-01T17:59:42Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jichao Jiang, Cristian McGee, El Houcine Bergou et al."
   },
   {
-    "id": "arxiv_1791069888931_4",
+    "id": "arxiv_1791083026136_4",
     "name": "FERPO: Forward Entropy-Regularized Policy Optimization",
     "category": "machine-learning",
     "description": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict ...",
@@ -245,7 +245,7 @@
     "source": "arXiv - Sebastian Sanokowski, Alireza Sarmadi, Majid Khadiv"
   },
   {
-    "id": "arxiv_1791069888949_2",
+    "id": "arxiv_1791083026193_2",
     "name": "Hierarchical Continuous Diffusion Language Models",
     "category": "nlp",
     "description": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structur...",
@@ -259,7 +259,7 @@
     "source": "arXiv - Hui Ren, Zihan Li, Chang Liu et al."
   },
   {
-    "id": "arxiv_1791069888949_3",
+    "id": "arxiv_1791083026193_3",
     "name": "Every Ablation Is a Dose: Counterweights and the Semblance of Self-Repair",
     "category": "nlp",
     "description": "Ablate a component of a language model, and other components often appear to adjust and compensate. This phenomenon, termed self-repair, has been observed repeatedly, but its mechanism remains unclear...",
@@ -273,7 +273,7 @@
     "source": "arXiv - Areeb Ahmad, Pratinav Seth, Vinay Kumar Sankarapu"
   },
   {
-    "id": "arxiv_1791069888949_4",
+    "id": "arxiv_1791083026193_4",
     "name": "AutoCompact: Learning When to Compact Context in Long-Horizon Coding Agents",
     "category": "nlp",
     "description": "Coding agents solve repository-level software engineering tasks through long trajectories of code inspection, search, editing, and testing. As a task progresses, earlier exploration becomes stale, so ...",
