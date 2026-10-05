@@ -1,292 +1,282 @@
 [
   {
-    "id": "arxiv_1791163247317_0",
-    "name": "S$^{2}$-PINN: Stochastic Separable Physics-Informed Neural Networks",
-    "category": "machine-learning",
-    "description": "Uncertainty quantification (UQ) for random partial differential equations (PDEs) is ubiquitous in computational science and engineering. However, classical spectral solvers for this class of problems ...",
-    "link": "http://arxiv.org/abs/2610.03303v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Diffusion"
-    ],
-    "date": "2026-10-02T13:43:57Z",
-    "trending": false,
-    "source": "arXiv - Zhendong Li, Akwum Onwunta"
-  },
-  {
-    "id": "arxiv_1791163247317_1",
-    "name": "JOVE: Joint Execution and Verification for Resource-Aware LLM Task Graphs",
-    "category": "machine-learning",
-    "description": "Complex reasoning queries can be decomposed into directed acyclic task graphs and distributed across heterogeneous LLMs, reducing latency through parallelism and enabling smaller models to solve compl...",
-    "link": "http://arxiv.org/abs/2610.03296v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-02T13:37:59Z",
-    "trending": false,
-    "source": "arXiv - Haoran Zhang, Dongjun Kim, Seohyeon Cha et al."
-  },
-  {
-    "id": "arxiv_1791163247294_0",
-    "name": "Wrong Organ, Right Physics: Transferring Echocardiography Pretraining to Lung Ultrasound for Tuberculosis Screening",
-    "category": "computer-vision",
-    "description": "Lung ultrasound (LUS) is attractive for tuberculosis (TB) screening at primary-care level, but labelled cohorts are small. Echocardiography carries no such constraint, while sharing the same underlyin...",
-    "link": "http://arxiv.org/abs/2610.03290v1",
-    "tags": [
-      "AI",
-      "GAN"
-    ],
-    "date": "2026-10-02T13:33:18Z",
-    "trending": false,
-    "source": "arXiv - Christiaan M. Geldenhuys, Joshua M. Jansen van Vüren, Véronique Suttels et al."
-  },
-  {
-    "id": "arxiv_1791163247317_2",
-    "name": "Wrong Organ, Right Physics: Transferring Echocardiography Pretraining to Lung Ultrasound for Tuberculosis Screening",
-    "category": "machine-learning",
-    "description": "Lung ultrasound (LUS) is attractive for tuberculosis (TB) screening at primary-care level, but labelled cohorts are small. Echocardiography carries no such constraint, while sharing the same underlyin...",
-    "link": "http://arxiv.org/abs/2610.03290v1",
-    "tags": [
-      "AI",
-      "GAN"
-    ],
-    "date": "2026-10-02T13:33:18Z",
-    "trending": true,
-    "source": "arXiv - Christiaan M. Geldenhuys, Joshua M. Jansen van Vüren, Véronique Suttels et al."
-  },
-  {
-    "id": "arxiv_1791163247317_3",
-    "name": "Architecture-Dependent Fusion Pathways in MLLMs",
-    "category": "machine-learning",
-    "description": "Multimodal Large Language Models (MLLMs) achieve strong performance across vision-language tasks, yet the internal mechanisms by which visual and textual information are fused across layers remain ins...",
-    "link": "http://arxiv.org/abs/2610.03289v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GAN",
-      "LLM"
-    ],
-    "date": "2026-10-02T13:32:45Z",
-    "trending": true,
-    "source": "arXiv - Hebao Zhu, Dongxia Wu"
-  },
-  {
-    "id": "arxiv_1791163247294_1",
-    "name": "HexVIO: Towards All-Day Stereo-Inertial Tracking Through Commodity DSPs",
-    "category": "computer-vision",
-    "description": "The ability of a device to localize itself within its surroundings is a fundamental prerequisite for spatial computing. Visual-inertial odometry (VIO) has proven to be a cost-effective and accurate so...",
-    "link": "http://arxiv.org/abs/2610.03283v1",
-    "tags": [
-      "AI",
-      "Robotics"
-    ],
-    "date": "2026-10-02T13:26:38Z",
-    "trending": false,
-    "source": "arXiv - Patrick Wolf, Mateo de Mayo, Daniel Cremers"
-  },
-  {
-    "id": "arxiv_1791163247294_2",
-    "name": "Moving Forward with Video Saliency: A New Dataset and Benchmark where Motion Matters",
-    "category": "computer-vision",
-    "description": "Video saliency prediction is inherently harder to model than static image saliency due to the additional temporal dimension. Video saliency benchmarks rest on the premise that predicting gaze on video...",
-    "link": "http://arxiv.org/abs/2610.03276v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-02T13:17:52Z",
-    "trending": true,
-    "source": "arXiv - Susmit Agrawal, Rebecca Wanner, Juliane Verwiebe et al."
-  },
-  {
-    "id": "arxiv_1791163247344_0",
-    "name": "Shrome at Touché: Soft-Vote Ensembling and Counter-Causal Augmentation for Causality Extraction",
-    "category": "nlp",
-    "description": "Touché 2026 extends causality extraction to counter-causal claims: news sentences whose surface form appears causal but whose meaning denies the causation, as in \"It is falsely believed that X caused ...",
-    "link": "http://arxiv.org/abs/2610.03268v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "BERT"
-    ],
-    "date": "2026-10-02T13:11:27Z",
-    "trending": false,
-    "source": "arXiv - Roham Zendehdel Nobari, Shayan Sooratgar"
-  },
-  {
-    "id": "arxiv_1791163247317_4",
-    "name": "SPEAR: A Spectral-Disentangled MoE Neural Operator with Knowledge-Guided Expert Aggregation for Large-Scale PDE Pretraining",
-    "category": "machine-learning",
-    "description": "Large-scale pre-training has improved the generalization of neural operators across diverse PDEs. However, existing PDE foundation models still struggle with heterogeneous dynamics, where shared repre...",
-    "link": "http://arxiv.org/abs/2610.03265v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-10-02T13:10:09Z",
-    "trending": false,
-    "source": "arXiv - Dengdi Sun, Xiaoya Zhou, Xiao Wang et al."
-  },
-  {
-    "id": "arxiv_1791163247294_3",
-    "name": "Consecutive Posterior Fusion for Diffusive Recovery of Unobservable Image Structures",
-    "category": "computer-vision",
-    "description": "Solving severely ill-posed imaging inverse problems requires recovering image structures that are unobservable or weakly constrained by the measurements. Diffusion models provide expressive learned pr...",
-    "link": "http://arxiv.org/abs/2610.03261v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-10-02T13:05:36Z",
-    "trending": true,
-    "source": "arXiv - Elena Morotti, Davide Evangelista, Elena Loli Piccolomini"
-  },
-  {
-    "id": "arxiv_1791163247294_4",
-    "name": "COSMI: COmpositional Synthesis of Multi-object Interactions",
-    "category": "computer-vision",
-    "description": "Generative models of human-object interaction are bounded by the data that exists: everyday activities involve several objects, but most captured datasets record one at a time, as multi-object capture...",
-    "link": "http://arxiv.org/abs/2610.03252v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-10-02T12:59:59Z",
-    "trending": false,
-    "source": "arXiv - Daniel Eskandar, Ilya A. Petrov, Gerard Pons-Moll"
-  },
-  {
-    "id": "arxiv_1791163247344_1",
-    "name": "Collective Bias Mitigation via Model Routing and Collaboration",
-    "category": "nlp",
-    "description": "Large language models (LLMs) are increasingly deployed in public health, finance, and governance, requiring both accuracy and societal value alignment. Despite recent advances, LLMs often perpetuate o...",
-    "link": "http://arxiv.org/abs/2610.03240v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "LLM"
-    ],
-    "date": "2026-10-02T12:49:44Z",
-    "trending": false,
-    "source": "arXiv - Mingzhe Du, Luu Anh Tuan, Xiaobao Wu et al."
-  },
-  {
-    "id": "arxiv_1791163247344_2",
-    "name": "AdaStep: Adaptive Step Credit Weighting for Agentic Reinforcement Learning",
-    "category": "nlp",
-    "description": "Long-horizon LLM agents are typically trained with sparse outcome rewards, making trajectory-level objectives too coarse to distinguish the contribution of individual decisions. Step-level credit assi...",
-    "link": "http://arxiv.org/abs/2610.03223v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-10-02T12:38:53Z",
-    "trending": false,
-    "source": "arXiv - Xin Wang, Wenhao Wu, Menghao Zhang et al."
-  },
-  {
-    "id": "arxiv_1791163247344_3",
-    "name": "StanceEval 2026: The Second Stance Detection Shared Task",
-    "category": "nlp",
-    "description": "StanceEval 2026 is the second edition of the StanceEval shared task series on stance detection in Arabic social media text. Stance detection aims to identify a writer's stance toward a given topic. Gi...",
-    "link": "http://arxiv.org/abs/2610.03215v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-02T12:32:11Z",
-    "trending": false,
-    "source": "arXiv - Rasha Albalawi, Nuha Albadi, Hamzah Luqman et al."
-  },
-  {
-    "id": "arxiv_1791163247344_4",
-    "name": "Predicting and Repairing Merge Collapse in Large Language Models",
-    "category": "nlp",
-    "description": "Large language models fine-tuned from a shared base can be merged by averaging their task vectors, but some merges collapse far below the base model, and common merge operators give no warning before ...",
-    "link": "http://arxiv.org/abs/2610.03199v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-02T12:11:43Z",
-    "trending": true,
-    "source": "arXiv - Jungseob Lee, Seungyoon Lee, Sugyeong Eo et al."
-  },
-  {
-    "id": "arxiv_1791163247266_0",
-    "name": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+    "id": "arxiv_1791186473186_0",
+    "name": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
     "category": "ai",
-    "description": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ...",
-    "link": "http://arxiv.org/abs/2610.02207v1",
+    "description": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geom...",
+    "link": "http://arxiv.org/abs/2610.03717v1",
     "tags": [
       "AI",
-      "Neural"
+      "Transformer"
     ],
-    "date": "2026-10-01T17:59:58Z",
-    "trending": true,
-    "source": "arXiv - Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev"
-  },
-  {
-    "id": "arxiv_1791163247267_1",
-    "name": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-    "category": "ai",
-    "description": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment...",
-    "link": "http://arxiv.org/abs/2610.02206v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-10-01T17:59:55Z",
+    "date": "2026-10-02T17:59:14Z",
     "trending": false,
-    "source": "arXiv - Pengfei Li, Naufal Suryanto, Sicheng Zhang et al."
+    "source": "arXiv - Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan et al."
   },
   {
-    "id": "arxiv_1791163247267_2",
-    "name": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-    "category": "ai",
-    "description": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruc...",
-    "link": "http://arxiv.org/abs/2610.02204v1",
+    "id": "arxiv_1791186473326_0",
+    "name": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+    "category": "computer-vision",
+    "description": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geom...",
+    "link": "http://arxiv.org/abs/2610.03717v1",
     "tags": [
       "AI",
-      "Vision",
-      "LLM",
-      "GPT"
+      "Transformer"
     ],
-    "date": "2026-10-01T17:59:50Z",
+    "date": "2026-10-02T17:59:14Z",
     "trending": false,
-    "source": "arXiv - Yen-Jen Wang, Haozhe Jiang, Shuying Deng et al."
+    "source": "arXiv - Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan et al."
   },
   {
-    "id": "arxiv_1791163247267_3",
-    "name": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-    "category": "ai",
-    "description": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of res...",
-    "link": "http://arxiv.org/abs/2610.02202v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GAN"
-    ],
-    "date": "2026-10-01T17:59:47Z",
-    "trending": true,
-    "source": "arXiv - Sohyeon Kim, Yoonho Lee, Bo Liu et al."
-  },
-  {
-    "id": "arxiv_1791163247267_4",
-    "name": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-    "category": "ai",
-    "description": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragme...",
-    "link": "http://arxiv.org/abs/2610.02201v1",
+    "id": "arxiv_1791186473326_1",
+    "name": "MoSE3: Learning World-Space SE(3) at Every Pixel",
+    "category": "computer-vision",
+    "description": "Dense 3D point tracking has been a prominent paradigm for modeling motion in dynamic scenes, but a point track is just a 3-DoF translation curve per pixel: it captures where pixels go, not the rotatio...",
+    "link": "http://arxiv.org/abs/2610.03716v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-10-01T17:59:46Z",
+    "date": "2026-10-02T17:58:52Z",
+    "trending": false,
+    "source": "arXiv - Jiahuan Cheng, Zhiyi Li, Tian Xia et al."
+  },
+  {
+    "id": "arxiv_1791186473186_1",
+    "name": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+    "category": "ai",
+    "description": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents...",
+    "link": "http://arxiv.org/abs/2610.03715v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-02T17:58:49Z",
     "trending": true,
-    "source": "arXiv - Tianjiao Yu, Xinzhuo Li, Yifan Shen et al."
+    "source": "arXiv - Ruihong Shen, Žiga Kovačič, Peter Kulits et al."
+  },
+  {
+    "id": "arxiv_1791186473326_2",
+    "name": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+    "category": "computer-vision",
+    "description": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents...",
+    "link": "http://arxiv.org/abs/2610.03715v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-02T17:58:49Z",
+    "trending": false,
+    "source": "arXiv - Ruihong Shen, Žiga Kovačič, Peter Kulits et al."
+  },
+  {
+    "id": "arxiv_1791186473186_2",
+    "name": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+    "category": "ai",
+    "description": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct in...",
+    "link": "http://arxiv.org/abs/2610.03713v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-02T17:58:14Z",
+    "trending": false,
+    "source": "arXiv - Nishit Anand, Ramani Duraiswami, Dinesh Manocha"
+  },
+  {
+    "id": "arxiv_1791186473326_3",
+    "name": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+    "category": "computer-vision",
+    "description": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct in...",
+    "link": "http://arxiv.org/abs/2610.03713v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-02T17:58:14Z",
+    "trending": false,
+    "source": "arXiv - Nishit Anand, Ramani Duraiswami, Dinesh Manocha"
+  },
+  {
+    "id": "arxiv_1791186473342_0",
+    "name": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+    "category": "machine-learning",
+    "description": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct in...",
+    "link": "http://arxiv.org/abs/2610.03713v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-02T17:58:14Z",
+    "trending": false,
+    "source": "arXiv - Nishit Anand, Ramani Duraiswami, Dinesh Manocha"
+  },
+  {
+    "id": "arxiv_1791186473342_1",
+    "name": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+    "category": "machine-learning",
+    "description": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing appro...",
+    "link": "http://arxiv.org/abs/2610.03712v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-02T17:58:08Z",
+    "trending": false,
+    "source": "arXiv - Yiming Huang, Lennart Bastian, Hanqun Cao et al."
+  },
+  {
+    "id": "arxiv_1791186473187_3",
+    "name": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+    "category": "ai",
+    "description": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation poi...",
+    "link": "http://arxiv.org/abs/2610.03710v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-02T17:57:51Z",
+    "trending": false,
+    "source": "arXiv - Kush Hari, Justin Kerr, Nidhya Shivakumar et al."
+  },
+  {
+    "id": "arxiv_1791186473342_2",
+    "name": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+    "category": "machine-learning",
+    "description": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing dece...",
+    "link": "http://arxiv.org/abs/2610.03709v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-10-02T17:57:50Z",
+    "trending": false,
+    "source": "arXiv - Kuangyu Ding, Gesualdo Scutari"
+  },
+  {
+    "id": "arxiv_1791186473342_3",
+    "name": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
+    "category": "machine-learning",
+    "description": "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their ...",
+    "link": "http://arxiv.org/abs/2610.03702v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-02T17:55:42Z",
+    "trending": true,
+    "source": "arXiv - Lyuxin David Zhang, Eric Wong, Surbhi Goel et al."
+  },
+  {
+    "id": "arxiv_1791186473326_4",
+    "name": "Decoding the Functional Roles of Register and High-Norm Patch Tokens in Vision Transformers",
+    "category": "computer-vision",
+    "description": "Self-supervised Vision Transformers (ViTs), such as DINOv2, learn rich visual representations, but the functions of their internal tokens remain poorly understood. Recent architectures introduce dedic...",
+    "link": "http://arxiv.org/abs/2610.03698v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-10-02T17:55:06Z",
+    "trending": false,
+    "source": "arXiv - Neel Varma, Andrew Rufail, Dipika Khullar et al."
+  },
+  {
+    "id": "arxiv_1791186473501_0",
+    "name": "Language Models that Play Chess and Explain Their Moves",
+    "category": "nlp",
+    "description": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explana...",
+    "link": "http://arxiv.org/abs/2610.03695v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "GPT",
+      "Robotics"
+    ],
+    "date": "2026-10-02T17:54:22Z",
+    "trending": true,
+    "source": "arXiv - Adithya Bhaskar, Jeffrey Cheng, Danqi Chen"
+  },
+  {
+    "id": "arxiv_1791186473187_4",
+    "name": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
+    "category": "ai",
+    "description": "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast ca...",
+    "link": "http://arxiv.org/abs/2610.03693v1",
+    "tags": [
+      "AI",
+      "Deep Learning"
+    ],
+    "date": "2026-10-02T17:52:57Z",
+    "trending": false,
+    "source": "arXiv - Jungkyu Park, Dhruva Biswas, Joseph Cappadona et al."
+  },
+  {
+    "id": "arxiv_1791186473342_4",
+    "name": "Simulation-Free Learning of Population Dynamics with Wasserstein Lagrangian Residuals",
+    "category": "machine-learning",
+    "description": "The dynamics of cells, organisms, and fluids are often modeled as probability distributions evolving over time. Reconstructing and extrapolating this evolution from unpaired snapshots requires assumpt...",
+    "link": "http://arxiv.org/abs/2610.03679v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-10-02T17:46:52Z",
+    "trending": false,
+    "source": "arXiv - Fedor Sergeev, Markus Heinonen, Daniel Waxman et al."
+  },
+  {
+    "id": "arxiv_1791186473501_1",
+    "name": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+    "category": "nlp",
+    "description": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically opt...",
+    "link": "http://arxiv.org/abs/2610.03675v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "GPT",
+      "Optimization"
+    ],
+    "date": "2026-10-02T17:44:05Z",
+    "trending": false,
+    "source": "arXiv - Hui Chen, Xuan Qi, James Xu Zhao et al."
+  },
+  {
+    "id": "arxiv_1791186473501_2",
+    "name": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
+    "category": "nlp",
+    "description": "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few co...",
+    "link": "http://arxiv.org/abs/2610.03665v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-10-02T17:37:51Z",
+    "trending": true,
+    "source": "arXiv - Seo Hyun Kim, Sunwoo Hong, Younwoo Choi et al."
+  },
+  {
+    "id": "arxiv_1791186473501_3",
+    "name": "World Embedding Benchmark",
+    "category": "nlp",
+    "description": "Physical fidelity has received increasing attention in world models and video generation, yet how video representations encode physical information remains less understood. We introduce the World Embe...",
+    "link": "http://arxiv.org/abs/2610.03632v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-02T17:24:25Z",
+    "trending": true,
+    "source": "arXiv - Yiqi Liu, Ruifeng Yuan, Yang Wang et al."
+  },
+  {
+    "id": "arxiv_1791186473501_4",
+    "name": "FALCON: A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL Pairs",
+    "category": "nlp",
+    "description": "Relational databases are among the most widely deployed forms of structured knowledge, and natural language access to them requires grounding language onto schema entities and relations while handling...",
+    "link": "http://arxiv.org/abs/2610.03625v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-10-02T17:19:50Z",
+    "trending": false,
+    "source": "arXiv - Darian Lee, Shannon Rumsey, Jack St. Clair et al."
   }
 ]
