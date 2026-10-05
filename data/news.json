@@ -1,19 +1,131 @@
 [
   {
-    "id": "rss_Ars_Technica_1791217781168_0",
-    "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
+    "id": "rss_Ars_Technica_1791241060619_0",
+    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
     "category": "ai-news",
     "source": "Ars Technica",
-    "description": "\n                        A software bug waylaid half the field and required a race reboot.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 05 Oct 2026 16:09:07 +0000",
+    "description": "\n                        Trust gaps in the new protocol spread malicious prompts from one agent to another.\n                    ",
+    "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "tags": [],
+    "date": "Mon, 05 Oct 2026 22:26:35 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1791241060619_1",
+    "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+    "tags": [],
+    "date": "Mon, 05 Oct 2026 20:47:48 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1791217780031_0",
+    "id": "rss_TechCrunch_1791241057111_0",
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "ChatGPT",
+      "GPT"
+    ],
+    "date": "Mon, 05 Oct 2026 20:36:48 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1791241060619_2",
+    "title": "Texas city demands $2M for public records on Flock usage",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Prices of public records tracking cops' use of Flock go up as backlash swells.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+    "tags": [],
+    "date": "Mon, 05 Oct 2026 20:31:12 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1791241057111_1",
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 05 Oct 2026 19:33:53 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1791241060619_3",
+    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The tool can free up over 12GB of storage. \n                    ",
+    "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "tags": [],
+    "date": "Mon, 05 Oct 2026 19:14:44 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1791241057111_2",
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 05 Oct 2026 18:54:30 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1791241057111_3",
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+    "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 05 Oct 2026 18:29:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1791241060619_4",
+    "title": "Controlling the brain with light earns a physiology Nobel",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The entire field of optogenetics traces back to light-seeking algae.\n                    ",
+    "link": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 05 Oct 2026 17:59:27 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1791241057111_4",
+    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+    "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 05 Oct 2026 17:29:22 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1791241059255_0",
     "title": "Connecting AI agents to enterprise knowledge",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -26,97 +138,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1791217777913_0",
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now. ",
-    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Mon, 05 Oct 2026 15:14:24 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1791217781168_1",
-    "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Unconfirmed reports have suggested there was a laboratory accident.\n                    ",
-    "link": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 05 Oct 2026 15:12:17 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1791217777913_1",
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 05 Oct 2026 15:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1791217777913_2",
-    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-    "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 05 Oct 2026 14:35:09 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1791217777913_3",
-    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-    "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-    "tags": [
-      "Startup"
-    ],
-    "date": "Mon, 05 Oct 2026 14:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1791217777913_4",
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-    "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "tags": [],
-    "date": "Mon, 05 Oct 2026 14:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1791217781168_2",
-    "title": "AI glasses face their first major government crackdown",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Norway wants time to write permanent rules for glasses that can record bystanders.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 05 Oct 2026 13:39:30 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1791217780032_1",
+    "id": "rss_MIT_Tech_Review_1791241059255_1",
     "title": "Bringing predictive analytics to the agentic AI era ",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -129,7 +151,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1791217780032_2",
+    "id": "rss_MIT_Tech_Review_1791241059255_2",
     "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -144,20 +166,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1791217781169_3",
-    "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Ars Technica's guide to new keyboard sensing technologies. \n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 05 Oct 2026 11:00:41 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1791217780032_3",
+    "id": "rss_MIT_Tech_Review_1791241059255_3",
     "title": "People really hate AI, so why can’t they get enough?",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -172,20 +181,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1791217781169_4",
-    "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls.\n                    ",
-    "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 05 Oct 2026 04:00:52 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1791217780032_4",
+    "id": "rss_MIT_Tech_Review_1791241059255_4",
     "title": "EmTech Future 2026: When AI Meets Everything",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -196,10 +192,10 @@
       "Google"
     ],
     "date": "Mon, 05 Oct 2026 04:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1791217782359_0",
+    "id": "rss_Wired_1791241061675_0",
     "title": "Rural Data Centers Are in for a Big Federal Tax Break",
     "category": "ai-news",
     "source": "Wired",
@@ -207,10 +203,10 @@
     "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
     "tags": [],
     "date": "Sun, 04 Oct 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1791217782359_1",
+    "id": "rss_Wired_1791241061675_1",
     "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
     "category": "ai-news",
     "source": "Wired",
@@ -224,7 +220,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1791217782360_2",
+    "id": "rss_Wired_1791241061675_2",
     "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
     "category": "ai-news",
     "source": "Wired",
@@ -238,7 +234,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1791217782360_3",
+    "id": "rss_Wired_1791241061675_3",
     "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
     "category": "ai-news",
     "source": "Wired",
@@ -248,10 +244,10 @@
       "AI"
     ],
     "date": "Fri, 02 Oct 2026 16:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Wired_1791217782360_4",
+    "id": "rss_Wired_1791241061675_4",
     "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
     "category": "ai-news",
     "source": "Wired",
@@ -261,10 +257,10 @@
       "AI"
     ],
     "date": "Fri, 02 Oct 2026 15:00:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1791217790030_0",
+    "id": "rss_Distill_1791241070025_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -277,7 +273,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1791217790030_1",
+    "id": "rss_Distill_1791241070025_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -287,10 +283,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1791217790030_2",
+    "id": "rss_Distill_1791241070025_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -301,7 +297,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1791217790030_3",
+    "id": "rss_Distill_1791241070025_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -314,7 +310,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1791217790030_4",
+    "id": "rss_Distill_1791241070025_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
