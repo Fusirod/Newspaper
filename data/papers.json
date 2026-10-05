@@ -1,118 +1,251 @@
 [
   {
-    "id": "arxiv_1791151324963_0",
-    "name": "Moore, Escher, Penrose: A Conformal Golden Braid",
+    "id": "arxiv_1791163247317_0",
+    "name": "S$^{2}$-PINN: Stochastic Separable Physics-Informed Neural Networks",
+    "category": "machine-learning",
+    "description": "Uncertainty quantification (UQ) for random partial differential equations (PDEs) is ubiquitous in computational science and engineering. However, classical spectral solvers for this class of problems ...",
+    "link": "http://arxiv.org/abs/2610.03303v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Diffusion"
+    ],
+    "date": "2026-10-02T13:43:57Z",
+    "trending": false,
+    "source": "arXiv - Zhendong Li, Akwum Onwunta"
+  },
+  {
+    "id": "arxiv_1791163247317_1",
+    "name": "JOVE: Joint Execution and Verification for Resource-Aware LLM Task Graphs",
+    "category": "machine-learning",
+    "description": "Complex reasoning queries can be decomposed into directed acyclic task graphs and distributed across heterogeneous LLMs, reducing latency through parallelism and enabling smaller models to solve compl...",
+    "link": "http://arxiv.org/abs/2610.03296v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-02T13:37:59Z",
+    "trending": false,
+    "source": "arXiv - Haoran Zhang, Dongjun Kim, Seohyeon Cha et al."
+  },
+  {
+    "id": "arxiv_1791163247294_0",
+    "name": "Wrong Organ, Right Physics: Transferring Echocardiography Pretraining to Lung Ultrasound for Tuberculosis Screening",
     "category": "computer-vision",
-    "description": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can th...",
-    "link": "http://arxiv.org/abs/2610.02210v1",
+    "description": "Lung ultrasound (LUS) is attractive for tuberculosis (TB) screening at primary-care level, but labelled cohorts are small. Echocardiography carries no such constraint, while sharing the same underlyin...",
+    "link": "http://arxiv.org/abs/2610.03290v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-10-02T13:33:18Z",
+    "trending": false,
+    "source": "arXiv - Christiaan M. Geldenhuys, Joshua M. Jansen van Vüren, Véronique Suttels et al."
+  },
+  {
+    "id": "arxiv_1791163247317_2",
+    "name": "Wrong Organ, Right Physics: Transferring Echocardiography Pretraining to Lung Ultrasound for Tuberculosis Screening",
+    "category": "machine-learning",
+    "description": "Lung ultrasound (LUS) is attractive for tuberculosis (TB) screening at primary-care level, but labelled cohorts are small. Echocardiography carries no such constraint, while sharing the same underlyin...",
+    "link": "http://arxiv.org/abs/2610.03290v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-10-02T13:33:18Z",
+    "trending": true,
+    "source": "arXiv - Christiaan M. Geldenhuys, Joshua M. Jansen van Vüren, Véronique Suttels et al."
+  },
+  {
+    "id": "arxiv_1791163247317_3",
+    "name": "Architecture-Dependent Fusion Pathways in MLLMs",
+    "category": "machine-learning",
+    "description": "Multimodal Large Language Models (MLLMs) achieve strong performance across vision-language tasks, yet the internal mechanisms by which visual and textual information are fused across layers remain ins...",
+    "link": "http://arxiv.org/abs/2610.03289v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "GAN",
+      "LLM"
+    ],
+    "date": "2026-10-02T13:32:45Z",
+    "trending": true,
+    "source": "arXiv - Hebao Zhu, Dongxia Wu"
+  },
+  {
+    "id": "arxiv_1791163247294_1",
+    "name": "HexVIO: Towards All-Day Stereo-Inertial Tracking Through Commodity DSPs",
+    "category": "computer-vision",
+    "description": "The ability of a device to localize itself within its surroundings is a fundamental prerequisite for spatial computing. Visual-inertial odometry (VIO) has proven to be a cost-effective and accurate so...",
+    "link": "http://arxiv.org/abs/2610.03283v1",
+    "tags": [
+      "AI",
+      "Robotics"
+    ],
+    "date": "2026-10-02T13:26:38Z",
+    "trending": false,
+    "source": "arXiv - Patrick Wolf, Mateo de Mayo, Daniel Cremers"
+  },
+  {
+    "id": "arxiv_1791163247294_2",
+    "name": "Moving Forward with Video Saliency: A New Dataset and Benchmark where Motion Matters",
+    "category": "computer-vision",
+    "description": "Video saliency prediction is inherently harder to model than static image saliency due to the additional temporal dimension. Video saliency benchmarks rest on the premise that predicting gaze on video...",
+    "link": "http://arxiv.org/abs/2610.03276v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-02T13:17:52Z",
+    "trending": true,
+    "source": "arXiv - Susmit Agrawal, Rebecca Wanner, Juliane Verwiebe et al."
+  },
+  {
+    "id": "arxiv_1791163247344_0",
+    "name": "Shrome at Touché: Soft-Vote Ensembling and Counter-Causal Augmentation for Causality Extraction",
+    "category": "nlp",
+    "description": "Touché 2026 extends causality extraction to counter-causal claims: news sentences whose surface form appears causal but whose meaning denies the causation, as in \"It is falsely believed that X caused ...",
+    "link": "http://arxiv.org/abs/2610.03268v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "BERT"
+    ],
+    "date": "2026-10-02T13:11:27Z",
+    "trending": false,
+    "source": "arXiv - Roham Zendehdel Nobari, Shayan Sooratgar"
+  },
+  {
+    "id": "arxiv_1791163247317_4",
+    "name": "SPEAR: A Spectral-Disentangled MoE Neural Operator with Knowledge-Guided Expert Aggregation for Large-Scale PDE Pretraining",
+    "category": "machine-learning",
+    "description": "Large-scale pre-training has improved the generalization of neural operators across diverse PDEs. However, existing PDE foundation models still struggle with heterogeneous dynamics, where shared repre...",
+    "link": "http://arxiv.org/abs/2610.03265v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-10-02T13:10:09Z",
+    "trending": false,
+    "source": "arXiv - Dengdi Sun, Xiaoya Zhou, Xiao Wang et al."
+  },
+  {
+    "id": "arxiv_1791163247294_3",
+    "name": "Consecutive Posterior Fusion for Diffusive Recovery of Unobservable Image Structures",
+    "category": "computer-vision",
+    "description": "Solving severely ill-posed imaging inverse problems requires recovering image structures that are unobservable or weakly constrained by the measurements. Diffusion models provide expressive learned pr...",
+    "link": "http://arxiv.org/abs/2610.03261v1",
     "tags": [
       "AI",
       "Diffusion"
     ],
-    "date": "2026-10-01T17:59:59Z",
-    "trending": false,
-    "source": "arXiv - Sophia Feldman, Assaf Shocher"
-  },
-  {
-    "id": "arxiv_1791151324943_0",
-    "name": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-    "category": "ai",
-    "description": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ...",
-    "link": "http://arxiv.org/abs/2610.02207v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-10-01T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev"
-  },
-  {
-    "id": "arxiv_1791151324963_1",
-    "name": "Sphere Encoder 2",
-    "category": "computer-vision",
-    "description": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generati...",
-    "link": "http://arxiv.org/abs/2610.02208v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-01T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Kaiyu Yue, Sean McLeish, Ruchit Rawal et al."
-  },
-  {
-    "id": "arxiv_1791151324963_2",
-    "name": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-    "category": "computer-vision",
-    "description": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ...",
-    "link": "http://arxiv.org/abs/2610.02207v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-10-01T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev"
-  },
-  {
-    "id": "arxiv_1791151324982_0",
-    "name": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-    "category": "machine-learning",
-    "description": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ...",
-    "link": "http://arxiv.org/abs/2610.02207v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-10-01T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev"
-  },
-  {
-    "id": "arxiv_1791151324944_1",
-    "name": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-    "category": "ai",
-    "description": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment...",
-    "link": "http://arxiv.org/abs/2610.02206v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-10-01T17:59:55Z",
-    "trending": false,
-    "source": "arXiv - Pengfei Li, Naufal Suryanto, Sicheng Zhang et al."
-  },
-  {
-    "id": "arxiv_1791151324999_0",
-    "name": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-    "category": "nlp",
-    "description": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment...",
-    "link": "http://arxiv.org/abs/2610.02206v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-10-01T17:59:55Z",
+    "date": "2026-10-02T13:05:36Z",
     "trending": true,
-    "source": "arXiv - Pengfei Li, Naufal Suryanto, Sicheng Zhang et al."
+    "source": "arXiv - Elena Morotti, Davide Evangelista, Elena Loli Piccolomini"
   },
   {
-    "id": "arxiv_1791151324963_3",
-    "name": "ROWBench: Do Video Models Render What the Program Specifies?",
+    "id": "arxiv_1791163247294_4",
+    "name": "COSMI: COmpositional Synthesis of Multi-object Interactions",
     "category": "computer-vision",
-    "description": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and i...",
-    "link": "http://arxiv.org/abs/2610.02205v1",
+    "description": "Generative models of human-object interaction are bounded by the data that exists: everyday activities involve several objects, but most captured datasets record one at a time, as multi-object capture...",
+    "link": "http://arxiv.org/abs/2610.03252v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "Diffusion"
+    ],
+    "date": "2026-10-02T12:59:59Z",
+    "trending": false,
+    "source": "arXiv - Daniel Eskandar, Ilya A. Petrov, Gerard Pons-Moll"
+  },
+  {
+    "id": "arxiv_1791163247344_1",
+    "name": "Collective Bias Mitigation via Model Routing and Collaboration",
+    "category": "nlp",
+    "description": "Large language models (LLMs) are increasingly deployed in public health, finance, and governance, requiring both accuracy and societal value alignment. Despite recent advances, LLMs often perpetuate o...",
+    "link": "http://arxiv.org/abs/2610.03240v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "LLM"
+    ],
+    "date": "2026-10-02T12:49:44Z",
+    "trending": false,
+    "source": "arXiv - Mingzhe Du, Luu Anh Tuan, Xiaobao Wu et al."
+  },
+  {
+    "id": "arxiv_1791163247344_2",
+    "name": "AdaStep: Adaptive Step Credit Weighting for Agentic Reinforcement Learning",
+    "category": "nlp",
+    "description": "Long-horizon LLM agents are typically trained with sparse outcome rewards, making trajectory-level objectives too coarse to distinguish the contribution of individual decisions. Step-level credit assi...",
+    "link": "http://arxiv.org/abs/2610.03223v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-10-02T12:38:53Z",
+    "trending": false,
+    "source": "arXiv - Xin Wang, Wenhao Wu, Menghao Zhang et al."
+  },
+  {
+    "id": "arxiv_1791163247344_3",
+    "name": "StanceEval 2026: The Second Stance Detection Shared Task",
+    "category": "nlp",
+    "description": "StanceEval 2026 is the second edition of the StanceEval shared task series on stance detection in Arabic social media text. Stance detection aims to identify a writer's stance toward a given topic. Gi...",
+    "link": "http://arxiv.org/abs/2610.03215v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-02T12:32:11Z",
+    "trending": false,
+    "source": "arXiv - Rasha Albalawi, Nuha Albadi, Hamzah Luqman et al."
+  },
+  {
+    "id": "arxiv_1791163247344_4",
+    "name": "Predicting and Repairing Merge Collapse in Large Language Models",
+    "category": "nlp",
+    "description": "Large language models fine-tuned from a shared base can be merged by averaging their task vectors, but some merges collapse far below the base model, and common merge operators give no warning before ...",
+    "link": "http://arxiv.org/abs/2610.03199v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-01T17:59:53Z",
-    "trending": false,
-    "source": "arXiv - Zheng-Hui Huang, Guixu Lin, Yu-Ju Tsai et al."
+    "date": "2026-10-02T12:11:43Z",
+    "trending": true,
+    "source": "arXiv - Jungseob Lee, Seungyoon Lee, Sugyeong Eo et al."
   },
   {
-    "id": "arxiv_1791151324944_2",
+    "id": "arxiv_1791163247266_0",
+    "name": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+    "category": "ai",
+    "description": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ...",
+    "link": "http://arxiv.org/abs/2610.02207v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-10-01T17:59:58Z",
+    "trending": true,
+    "source": "arXiv - Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev"
+  },
+  {
+    "id": "arxiv_1791163247267_1",
+    "name": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+    "category": "ai",
+    "description": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment...",
+    "link": "http://arxiv.org/abs/2610.02206v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-10-01T17:59:55Z",
+    "trending": false,
+    "source": "arXiv - Pengfei Li, Naufal Suryanto, Sicheng Zhang et al."
+  },
+  {
+    "id": "arxiv_1791163247267_2",
     "name": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
     "category": "ai",
     "description": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruc...",
@@ -128,37 +261,7 @@
     "source": "arXiv - Yen-Jen Wang, Haozhe Jiang, Shuying Deng et al."
   },
   {
-    "id": "arxiv_1791151324964_4",
-    "name": "Embedding Prediction Helps Image Generation",
-    "category": "computer-vision",
-    "description": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition in...",
-    "link": "http://arxiv.org/abs/2610.02203v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-10-01T17:59:49Z",
-    "trending": false,
-    "source": "arXiv - Sihan Xu, Ji Xie, Zilin Wang et al."
-  },
-  {
-    "id": "arxiv_1791151324982_1",
-    "name": "Embedding Prediction Helps Image Generation",
-    "category": "machine-learning",
-    "description": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition in...",
-    "link": "http://arxiv.org/abs/2610.02203v1",
-    "tags": [
-      "AI",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-10-01T17:59:49Z",
-    "trending": false,
-    "source": "arXiv - Sihan Xu, Ji Xie, Zilin Wang et al."
-  },
-  {
-    "id": "arxiv_1791151324944_3",
+    "id": "arxiv_1791163247267_3",
     "name": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
     "category": "ai",
     "description": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of res...",
@@ -169,121 +272,21 @@
       "GAN"
     ],
     "date": "2026-10-01T17:59:47Z",
-    "trending": false,
-    "source": "arXiv - Sohyeon Kim, Yoonho Lee, Bo Liu et al."
-  },
-  {
-    "id": "arxiv_1791151325000_1",
-    "name": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-    "category": "nlp",
-    "description": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of res...",
-    "link": "http://arxiv.org/abs/2610.02202v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GAN"
-    ],
-    "date": "2026-10-01T17:59:47Z",
-    "trending": false,
-    "source": "arXiv - Sohyeon Kim, Yoonho Lee, Bo Liu et al."
-  },
-  {
-    "id": "arxiv_1791151324944_4",
-    "name": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-    "category": "ai",
-    "description": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragme...",
-    "link": "http://arxiv.org/abs/2610.02201v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-01T17:59:46Z",
-    "trending": false,
-    "source": "arXiv - Tianjiao Yu, Xinzhuo Li, Yifan Shen et al."
-  },
-  {
-    "id": "arxiv_1791151324982_2",
-    "name": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-    "category": "machine-learning",
-    "description": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragme...",
-    "link": "http://arxiv.org/abs/2610.02201v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-01T17:59:46Z",
-    "trending": false,
-    "source": "arXiv - Tianjiao Yu, Xinzhuo Li, Yifan Shen et al."
-  },
-  {
-    "id": "arxiv_1791151324982_3",
-    "name": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
-    "category": "machine-learning",
-    "description": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress opt...",
-    "link": "http://arxiv.org/abs/2610.02199v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-01T17:59:42Z",
-    "trending": false,
-    "source": "arXiv - Jichao Jiang, Cristian McGee, El Houcine Bergou et al."
-  },
-  {
-    "id": "arxiv_1791151324982_4",
-    "name": "FERPO: Forward Entropy-Regularized Policy Optimization",
-    "category": "machine-learning",
-    "description": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict ...",
-    "link": "http://arxiv.org/abs/2610.02198v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning",
-      "Optimization"
-    ],
-    "date": "2026-10-01T17:59:41Z",
-    "trending": false,
-    "source": "arXiv - Sebastian Sanokowski, Alireza Sarmadi, Majid Khadiv"
-  },
-  {
-    "id": "arxiv_1791151325001_2",
-    "name": "Hierarchical Continuous Diffusion Language Models",
-    "category": "nlp",
-    "description": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structur...",
-    "link": "http://arxiv.org/abs/2610.02193v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-10-01T17:59:39Z",
-    "trending": false,
-    "source": "arXiv - Hui Ren, Zihan Li, Chang Liu et al."
-  },
-  {
-    "id": "arxiv_1791151325001_3",
-    "name": "Every Ablation Is a Dose: Counterweights and the Semblance of Self-Repair",
-    "category": "nlp",
-    "description": "Ablate a component of a language model, and other components often appear to adjust and compensate. This phenomenon, termed self-repair, has been observed repeatedly, but its mechanism remains unclear...",
-    "link": "http://arxiv.org/abs/2610.02173v1",
-    "tags": [
-      "AI",
-      "GPT"
-    ],
-    "date": "2026-10-01T17:57:04Z",
     "trending": true,
-    "source": "arXiv - Areeb Ahmad, Pratinav Seth, Vinay Kumar Sankarapu"
+    "source": "arXiv - Sohyeon Kim, Yoonho Lee, Bo Liu et al."
   },
   {
-    "id": "arxiv_1791151325001_4",
-    "name": "AutoCompact: Learning When to Compact Context in Long-Horizon Coding Agents",
-    "category": "nlp",
-    "description": "Coding agents solve repository-level software engineering tasks through long trajectories of code inspection, search, editing, and testing. As a task progresses, earlier exploration becomes stale, so ...",
-    "link": "http://arxiv.org/abs/2610.02163v1",
+    "id": "arxiv_1791163247267_4",
+    "name": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+    "category": "ai",
+    "description": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragme...",
+    "link": "http://arxiv.org/abs/2610.02201v1",
     "tags": [
       "AI",
-      "Reinforcement Learning"
+      "Vision"
     ],
-    "date": "2026-10-01T17:54:34Z",
-    "trending": false,
-    "source": "arXiv - Xuan Zhang, Longtao Zheng, Cunxiao Du et al."
+    "date": "2026-10-01T17:59:46Z",
+    "trending": true,
+    "source": "arXiv - Tianjiao Yu, Xinzhuo Li, Yifan Shen et al."
   }
 ]
