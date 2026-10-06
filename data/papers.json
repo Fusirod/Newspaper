@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1791279026300_0",
+    "id": "arxiv_1791303593614_0",
     "name": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
     "category": "ai",
     "description": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different ...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Shih-Chen Tseng, Chih-Hsuan Chen, Ryan Yang et al."
   },
   {
-    "id": "arxiv_1791279026371_0",
+    "id": "arxiv_1791303593685_0",
     "name": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
     "category": "computer-vision",
     "description": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different ...",
@@ -26,7 +26,7 @@
     "source": "arXiv - Shih-Chen Tseng, Chih-Hsuan Chen, Ryan Yang et al."
   },
   {
-    "id": "arxiv_1791279026300_1",
+    "id": "arxiv_1791303593614_1",
     "name": "Base Models Can Reason By Taking a Cue From Training Data",
     "category": "ai",
     "description": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing par...",
@@ -40,7 +40,7 @@
     "source": "arXiv - Sophie L. Wang, Amil Dravid, Rulin Shao et al."
   },
   {
-    "id": "arxiv_1791279026439_0",
+    "id": "arxiv_1791303593757_0",
     "name": "Base Models Can Reason By Taking a Cue From Training Data",
     "category": "machine-learning",
     "description": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing par...",
@@ -54,7 +54,7 @@
     "source": "arXiv - Sophie L. Wang, Amil Dravid, Rulin Shao et al."
   },
   {
-    "id": "arxiv_1791279026509_0",
+    "id": "arxiv_1791303593828_0",
     "name": "Base Models Can Reason By Taking a Cue From Training Data",
     "category": "nlp",
     "description": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing par...",
@@ -64,11 +64,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-10-05T17:59:52Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sophie L. Wang, Amil Dravid, Rulin Shao et al."
   },
   {
-    "id": "arxiv_1791279026371_1",
+    "id": "arxiv_1791303593685_1",
     "name": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
     "category": "computer-vision",
     "description": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a sel...",
@@ -82,7 +82,7 @@
     "source": "arXiv - Yucheng Zhang, Sirui Xu, Jinhong Li et al."
   },
   {
-    "id": "arxiv_1791279026371_2",
+    "id": "arxiv_1791303593685_2",
     "name": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
     "category": "computer-vision",
     "description": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and...",
@@ -97,7 +97,7 @@
     "source": "arXiv - Jeffrey Hu, Daniel Olmeda Reino, Ayush Tewari"
   },
   {
-    "id": "arxiv_1791279026300_2",
+    "id": "arxiv_1791303593614_2",
     "name": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
     "category": "ai",
     "description": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitorin...",
@@ -110,7 +110,7 @@
     "source": "arXiv - Haojin Deng, Zhiping Lin, Yimin Yang"
   },
   {
-    "id": "arxiv_1791279026300_3",
+    "id": "arxiv_1791303593614_3",
     "name": "Learning to Read the Contextual Tokens in Diffusion Transformers",
     "category": "ai",
     "description": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, formi...",
@@ -122,11 +122,11 @@
       "Diffusion"
     ],
     "date": "2026-10-05T17:59:17Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Omer Dahary, Etai Sella, Hadar Averbuch-Elor et al."
   },
   {
-    "id": "arxiv_1791279026371_3",
+    "id": "arxiv_1791303593686_3",
     "name": "Learning to Read the Contextual Tokens in Diffusion Transformers",
     "category": "computer-vision",
     "description": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, formi...",
@@ -138,11 +138,11 @@
       "Diffusion"
     ],
     "date": "2026-10-05T17:59:17Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Omer Dahary, Etai Sella, Hadar Averbuch-Elor et al."
   },
   {
-    "id": "arxiv_1791279026439_1",
+    "id": "arxiv_1791303593757_1",
     "name": "Learning to Read the Contextual Tokens in Diffusion Transformers",
     "category": "machine-learning",
     "description": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, formi...",
@@ -158,7 +158,7 @@
     "source": "arXiv - Omer Dahary, Etai Sella, Hadar Averbuch-Elor et al."
   },
   {
-    "id": "arxiv_1791279026301_4",
+    "id": "arxiv_1791303593614_4",
     "name": "Recursive Video In-Context Learning for Agentic Robot",
     "category": "ai",
     "description": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration vid...",
@@ -173,7 +173,7 @@
     "source": "arXiv - Wenrui Bao, Xinxin Liu, Bingxin Xu et al."
   },
   {
-    "id": "arxiv_1791279026510_1",
+    "id": "arxiv_1791303593828_1",
     "name": "Recursive Video In-Context Learning for Agentic Robot",
     "category": "nlp",
     "description": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration vid...",
@@ -184,11 +184,11 @@
       "LLM"
     ],
     "date": "2026-10-05T17:59:11Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Wenrui Bao, Xinxin Liu, Bingxin Xu et al."
   },
   {
-    "id": "arxiv_1791279026371_4",
+    "id": "arxiv_1791303593686_4",
     "name": "Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report",
     "category": "computer-vision",
     "description": "Accurate T-staging is crucial for guiding personalized treatment strategies for laryngopharyngeal cancer. However, current clinical practice relies on invasive biopsy procedures, whereas CT-based stag...",
@@ -198,11 +198,11 @@
       "GAN"
     ],
     "date": "2026-10-05T17:58:28Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xingyue Zhao, Yanzhou Su, Fang Zhang et al."
   },
   {
-    "id": "arxiv_1791279026439_2",
+    "id": "arxiv_1791303593757_2",
     "name": "Direct Intermediate Initialization for Tilted Diffusion Samplers",
     "category": "machine-learning",
     "description": "Some diffusion posterior samplers construct Gaussian-tilted intermediate distributions along the reverse process. We observe that these targets can be pulled back to clean-space posteriors with weaker...",
@@ -212,11 +212,11 @@
       "Diffusion"
     ],
     "date": "2026-10-05T17:58:18Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Gregory D. Bellchambers"
   },
   {
-    "id": "arxiv_1791279026439_3",
+    "id": "arxiv_1791303593757_3",
     "name": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
     "category": "machine-learning",
     "description": "Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matter...",
@@ -231,25 +231,9 @@
     "source": "arXiv - Benhao Huang, Chufan Shi, Junlin Chen et al."
   },
   {
-    "id": "arxiv_1791279026440_4",
+    "id": "arxiv_1791303593757_4",
     "name": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
     "category": "machine-learning",
-    "description": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic ...",
-    "link": "http://arxiv.org/abs/2610.06830v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Reinforcement Learning",
-      "Optimization"
-    ],
-    "date": "2026-10-05T17:58:06Z",
-    "trending": false,
-    "source": "arXiv - Haozhen Zhang, Haodong Yue, Quanyu Long et al."
-  },
-  {
-    "id": "arxiv_1791279026510_2",
-    "name": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
-    "category": "nlp",
     "description": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic ...",
     "link": "http://arxiv.org/abs/2610.06830v1",
     "tags": [
@@ -263,7 +247,23 @@
     "source": "arXiv - Haozhen Zhang, Haodong Yue, Quanyu Long et al."
   },
   {
-    "id": "arxiv_1791279026510_3",
+    "id": "arxiv_1791303593828_2",
+    "name": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+    "category": "nlp",
+    "description": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic ...",
+    "link": "http://arxiv.org/abs/2610.06830v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-10-05T17:58:06Z",
+    "trending": false,
+    "source": "arXiv - Haozhen Zhang, Haodong Yue, Quanyu Long et al."
+  },
+  {
+    "id": "arxiv_1791303593828_3",
     "name": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
     "category": "nlp",
     "description": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for ...",
@@ -279,7 +279,7 @@
     "source": "arXiv - Yifan Zhang, Yutong Dai, Viraj Prabhu et al."
   },
   {
-    "id": "arxiv_1791279026510_4",
+    "id": "arxiv_1791303593828_4",
     "name": "PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data",
     "category": "nlp",
     "description": "Scientific figures often encode quantitative results that are not readily available in machine-readable form, making accurate plot digitization important for verifying and reusing published findings. ...",
