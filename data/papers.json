@@ -1,282 +1,278 @@
 [
   {
-    "id": "arxiv_1791241056722_0",
-    "name": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+    "id": "arxiv_1791254283979_0",
+    "name": "Off-Policy Merging Beats On-Policy Self-Distillation for Continual Learning",
     "category": "ai",
-    "description": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geom...",
-    "link": "http://arxiv.org/abs/2610.03717v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-10-02T17:59:14Z",
-    "trending": true,
-    "source": "arXiv - Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan et al."
-  },
-  {
-    "id": "arxiv_1791241056800_0",
-    "name": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
-    "category": "computer-vision",
-    "description": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geom...",
-    "link": "http://arxiv.org/abs/2610.03717v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-10-02T17:59:14Z",
-    "trending": false,
-    "source": "arXiv - Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan et al."
-  },
-  {
-    "id": "arxiv_1791241056800_1",
-    "name": "MoSE3: Learning World-Space SE(3) at Every Pixel",
-    "category": "computer-vision",
-    "description": "Dense 3D point tracking has been a prominent paradigm for modeling motion in dynamic scenes, but a point track is just a 3-DoF translation curve per pixel: it captures where pixels go, not the rotatio...",
-    "link": "http://arxiv.org/abs/2610.03716v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-02T17:58:52Z",
-    "trending": true,
-    "source": "arXiv - Jiahuan Cheng, Zhiyi Li, Tian Xia et al."
-  },
-  {
-    "id": "arxiv_1791241056722_1",
-    "name": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
-    "category": "ai",
-    "description": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents...",
-    "link": "http://arxiv.org/abs/2610.03715v1",
+    "description": "A long-standing goal of AI is a model that can continually learn and improve itself. On post-trained models, supervised finetuning (SFT) on new data often causes poor generalization and catastrophic f...",
+    "link": "http://arxiv.org/abs/2610.05872v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-02T17:58:49Z",
+    "date": "2026-10-05T06:40:34Z",
     "trending": false,
-    "source": "arXiv - Ruihong Shen, Žiga Kovačič, Peter Kulits et al."
+    "source": "arXiv - Chen Henry Wu, Thomas Zhang, Aditi Raghunathan"
   },
   {
-    "id": "arxiv_1791241056800_2",
-    "name": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
-    "category": "computer-vision",
-    "description": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents...",
-    "link": "http://arxiv.org/abs/2610.03715v1",
+    "id": "arxiv_1791254284043_0",
+    "name": "Off-Policy Merging Beats On-Policy Self-Distillation for Continual Learning",
+    "category": "nlp",
+    "description": "A long-standing goal of AI is a model that can continually learn and improve itself. On post-trained models, supervised finetuning (SFT) on new data often causes poor generalization and catastrophic f...",
+    "link": "http://arxiv.org/abs/2610.05872v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-02T17:58:49Z",
-    "trending": true,
-    "source": "arXiv - Ruihong Shen, Žiga Kovačič, Peter Kulits et al."
+    "date": "2026-10-05T06:40:34Z",
+    "trending": false,
+    "source": "arXiv - Chen Henry Wu, Thomas Zhang, Aditi Raghunathan"
   },
   {
-    "id": "arxiv_1791241056722_2",
-    "name": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+    "id": "arxiv_1791254283996_0",
+    "name": "Certification of Real Images through Calibrated Content Authentication",
+    "category": "computer-vision",
+    "description": "Generative models can synthesize high-quality inauthentic multimedia content that is already being misused at scale. We evaluate twenty deepfake detectors against ten generators released in the last f...",
+    "link": "http://arxiv.org/abs/2610.05870v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-05T06:36:03Z",
+    "trending": false,
+    "source": "arXiv - Sarim Hashmi, Abdelrahman Elsayed, Mohammed Talha Alam et al."
+  },
+  {
+    "id": "arxiv_1791254283979_1",
+    "name": "Weave Mamba Fusion: Global Cross-Scale Interaction for Lightweight Face Detection",
     "category": "ai",
-    "description": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct in...",
-    "link": "http://arxiv.org/abs/2610.03713v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-02T17:58:14Z",
-    "trending": false,
-    "source": "arXiv - Nishit Anand, Ramani Duraiswami, Dinesh Manocha"
-  },
-  {
-    "id": "arxiv_1791241056801_3",
-    "name": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
-    "category": "computer-vision",
-    "description": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct in...",
-    "link": "http://arxiv.org/abs/2610.03713v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-02T17:58:14Z",
-    "trending": false,
-    "source": "arXiv - Nishit Anand, Ramani Duraiswami, Dinesh Manocha"
-  },
-  {
-    "id": "arxiv_1791241056877_0",
-    "name": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
-    "category": "machine-learning",
-    "description": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct in...",
-    "link": "http://arxiv.org/abs/2610.03713v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-02T17:58:14Z",
-    "trending": true,
-    "source": "arXiv - Nishit Anand, Ramani Duraiswami, Dinesh Manocha"
-  },
-  {
-    "id": "arxiv_1791241056877_1",
-    "name": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
-    "category": "machine-learning",
-    "description": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing appro...",
-    "link": "http://arxiv.org/abs/2610.03712v1",
+    "description": "Feature pyramid methods, from FPN to BiFPN, have achieved strong performance in face detection by fusing multi-scale features. However, detecting faces under unconstrained conditions, such as small sc...",
+    "link": "http://arxiv.org/abs/2610.05865v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-02T17:58:08Z",
+    "date": "2026-10-05T06:31:38Z",
     "trending": false,
-    "source": "arXiv - Yiming Huang, Lennart Bastian, Hanqun Cao et al."
+    "source": "arXiv - Dohun Kim, Jinmyung Jung"
   },
   {
-    "id": "arxiv_1791241056722_3",
-    "name": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+    "id": "arxiv_1791254283996_1",
+    "name": "Weave Mamba Fusion: Global Cross-Scale Interaction for Lightweight Face Detection",
+    "category": "computer-vision",
+    "description": "Feature pyramid methods, from FPN to BiFPN, have achieved strong performance in face detection by fusing multi-scale features. However, detecting faces under unconstrained conditions, such as small sc...",
+    "link": "http://arxiv.org/abs/2610.05865v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-05T06:31:38Z",
+    "trending": false,
+    "source": "arXiv - Dohun Kim, Jinmyung Jung"
+  },
+  {
+    "id": "arxiv_1791254283979_2",
+    "name": "CCQ: A Multi-State Child Care Quality Dataset to Support AI for Children's Health Research",
     "category": "ai",
-    "description": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation poi...",
-    "link": "http://arxiv.org/abs/2610.03710v1",
+    "description": "High-quality child care in early life is a critical determinant of children's growth and development. Research on child care quality has been constrained by fragmented, non-research-friendly, and priv...",
+    "link": "http://arxiv.org/abs/2610.05863v1",
     "tags": [
       "AI",
-      "Vision"
-    ],
-    "date": "2026-10-02T17:57:51Z",
-    "trending": true,
-    "source": "arXiv - Kush Hari, Justin Kerr, Nidhya Shivakumar et al."
-  },
-  {
-    "id": "arxiv_1791241056877_2",
-    "name": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
-    "category": "machine-learning",
-    "description": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing dece...",
-    "link": "http://arxiv.org/abs/2610.03709v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-10-02T17:57:50Z",
-    "trending": true,
-    "source": "arXiv - Kuangyu Ding, Gesualdo Scutari"
-  },
-  {
-    "id": "arxiv_1791241056877_3",
-    "name": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
-    "category": "machine-learning",
-    "description": "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their ...",
-    "link": "http://arxiv.org/abs/2610.03702v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-02T17:55:42Z",
-    "trending": false,
-    "source": "arXiv - Lyuxin David Zhang, Eric Wong, Surbhi Goel et al."
-  },
-  {
-    "id": "arxiv_1791241056801_4",
-    "name": "Decoding the Functional Roles of Register and High-Norm Patch Tokens in Vision Transformers",
-    "category": "computer-vision",
-    "description": "Self-supervised Vision Transformers (ViTs), such as DINOv2, learn rich visual representations, but the functions of their internal tokens remain poorly understood. Recent architectures introduce dedic...",
-    "link": "http://arxiv.org/abs/2610.03698v1",
-    "tags": [
-      "AI",
+      "Machine Learning",
       "Vision",
-      "Transformer"
+      "LLM"
     ],
-    "date": "2026-10-02T17:55:06Z",
+    "date": "2026-10-05T06:30:09Z",
     "trending": false,
-    "source": "arXiv - Neel Varma, Andrew Rufail, Dipika Khullar et al."
+    "source": "arXiv - Victor Li, Yuzhang Xie, Ziwei Dong et al."
   },
   {
-    "id": "arxiv_1791241056954_0",
-    "name": "Language Models that Play Chess and Explain Their Moves",
-    "category": "nlp",
-    "description": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explana...",
-    "link": "http://arxiv.org/abs/2610.03695v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT",
-      "Robotics"
-    ],
-    "date": "2026-10-02T17:54:22Z",
-    "trending": false,
-    "source": "arXiv - Adithya Bhaskar, Jeffrey Cheng, Danqi Chen"
-  },
-  {
-    "id": "arxiv_1791241056722_4",
-    "name": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
+    "id": "arxiv_1791254283979_3",
+    "name": "Imagine to Act: High-Fidelity Data Synthesis via Image Editing World Model for Scalable GUI Agent Training",
     "category": "ai",
-    "description": "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast ca...",
-    "link": "http://arxiv.org/abs/2610.03693v1",
+    "description": "Graphical User Interface (GUI) agents have emerged as a promising paradigm for automating complex digital workflows across diverse applications. However, training highly capable and generalizable agen...",
+    "link": "http://arxiv.org/abs/2610.05861v1",
     "tags": [
       "AI",
-      "Deep Learning"
+      "Vision"
     ],
-    "date": "2026-10-02T17:52:57Z",
+    "date": "2026-10-05T06:28:58Z",
     "trending": false,
-    "source": "arXiv - Jungkyu Park, Dhruva Biswas, Joseph Cappadona et al."
+    "source": "arXiv - Yongxin Ning, Runliang Niu, Qianli Xing et al."
   },
   {
-    "id": "arxiv_1791241056877_4",
-    "name": "Simulation-Free Learning of Population Dynamics with Wasserstein Lagrangian Residuals",
-    "category": "machine-learning",
-    "description": "The dynamics of cells, organisms, and fluids are often modeled as probability distributions evolving over time. Reconstructing and extrapolating this evolution from unpaired snapshots requires assumpt...",
-    "link": "http://arxiv.org/abs/2610.03679v1",
+    "id": "arxiv_1791254283996_2",
+    "name": "Imagine to Act: High-Fidelity Data Synthesis via Image Editing World Model for Scalable GUI Agent Training",
+    "category": "computer-vision",
+    "description": "Graphical User Interface (GUI) agents have emerged as a promising paradigm for automating complex digital workflows across diverse applications. However, training highly capable and generalizable agen...",
+    "link": "http://arxiv.org/abs/2610.05861v1",
     "tags": [
       "AI",
-      "GAN"
+      "Vision"
     ],
-    "date": "2026-10-02T17:46:52Z",
+    "date": "2026-10-05T06:28:58Z",
     "trending": false,
-    "source": "arXiv - Fedor Sergeev, Markus Heinonen, Daniel Waxman et al."
+    "source": "arXiv - Yongxin Ning, Runliang Niu, Qianli Xing et al."
   },
   {
-    "id": "arxiv_1791241056954_1",
-    "name": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+    "id": "arxiv_1791254283979_4",
+    "name": "Curriculum Brain: Constructing Curriculum Knowledge Graphs as a Substrate for Cognitive Diagnosis",
+    "category": "ai",
+    "description": "Cognitive Diagnostic Models (CDMs) identify which specific skills a student has and has not mastered, the signal a personalized learning path needs and a single aggregate score cannot give. Yet they a...",
+    "link": "http://arxiv.org/abs/2610.05860v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-05T06:26:22Z",
+    "trending": false,
+    "source": "arXiv - Shrideep Tamboli, Chiranjeevi Maddala, Eshal Minhaj"
+  },
+  {
+    "id": "arxiv_1791254284043_1",
+    "name": "HLA: Expressive Hybrid Linear Attention via Chunk-Wise Dynamic Mixing",
     "category": "nlp",
-    "description": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically opt...",
-    "link": "http://arxiv.org/abs/2610.03675v1",
+    "description": "Linear attention enables efficient long-context autoregressive decoding by compressing history into recurrent states, but this compression can make selective access to sparse and distant information d...",
+    "link": "http://arxiv.org/abs/2610.05842v1",
     "tags": [
-      "AI",
-      "LLM",
-      "GPT",
-      "Optimization"
+      "AI"
     ],
-    "date": "2026-10-02T17:44:05Z",
+    "date": "2026-10-05T05:49:31Z",
     "trending": false,
-    "source": "arXiv - Hui Chen, Xuan Qi, James Xu Zhao et al."
+    "source": "arXiv - Zhuokun Chen, Xi Lin, Xiyu Wu et al."
   },
   {
-    "id": "arxiv_1791241056954_2",
-    "name": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
+    "id": "arxiv_1791254283996_3",
+    "name": "Dual-Rate Force-Image Control with Model-Based Orientation Limits for Robotic Ultrasound",
+    "category": "computer-vision",
+    "description": "Robotic ultrasound couples a high-rate contact-force loop with slower, delayed image feedback, so image-guided ultrasound probe rotation can perturb contact force before the resulting image response i...",
+    "link": "http://arxiv.org/abs/2610.05839v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-05T05:46:49Z",
+    "trending": true,
+    "source": "arXiv - Tyler Foster, Qiang Zhang, A B M Tahidul Haque et al."
+  },
+  {
+    "id": "arxiv_1791254284043_2",
+    "name": "Selecting Long-Horizon Trajectories for Reliable and Efficient Terminal-Agent Training",
     "category": "nlp",
-    "description": "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few co...",
-    "link": "http://arxiv.org/abs/2610.03665v1",
+    "description": "Terminal agents are commonly trained by imitating long teacher trajectories, yet how much of each trajectory to supervise remains unexplored. We study the \\emph{supervision horizon}, the number of tra...",
+    "link": "http://arxiv.org/abs/2610.05831v1",
     "tags": [
       "AI",
+      "Vision"
+    ],
+    "date": "2026-10-05T05:35:28Z",
+    "trending": false,
+    "source": "arXiv - Cuong Dang, Hoang Anh Just, Ruoxi Jia"
+  },
+  {
+    "id": "arxiv_1791254284043_3",
+    "name": "Nash Equilibrium Text: A Game-Theoretic Decoding Framework for Text Generation",
+    "category": "nlp",
+    "description": "Text revision has become an integral component of large language models. This paper formulates revision such that it admits a Nash equilibrium: Token positions are players, vocabulary items are action...",
+    "link": "http://arxiv.org/abs/2610.05817v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-05T05:11:42Z",
+    "trending": false,
+    "source": "arXiv - Alireza Jafari, Arman Adibi, Mohammad Ghavamzadeh et al."
+  },
+  {
+    "id": "arxiv_1791254283996_4",
+    "name": "Level-of-Token Diffusion",
+    "category": "computer-vision",
+    "description": "Image and video diffusion models allocate equal computation to every region, even when the intended scene calls for varying levels of detail. The spatial distribution of detail can often be anticipate...",
+    "link": "http://arxiv.org/abs/2610.05816v1",
+    "tags": [
+      "AI",
+      "Transformer",
       "Diffusion"
     ],
-    "date": "2026-10-02T17:37:51Z",
-    "trending": true,
-    "source": "arXiv - Seo Hyun Kim, Sunwoo Hong, Younwoo Choi et al."
+    "date": "2026-10-05T05:11:12Z",
+    "trending": false,
+    "source": "arXiv - Kiyohiro Nakayama, Brian Chao, Jan Ackermann et al."
   },
   {
-    "id": "arxiv_1791241056954_3",
-    "name": "World Embedding Benchmark",
+    "id": "arxiv_1791254284043_4",
+    "name": "Plan Canvas: Fixed Reasoning Regions for Continuous Language Flows",
     "category": "nlp",
-    "description": "Physical fidelity has received increasing attention in world models and video generation, yet how video representations encode physical information remains less understood. We introduce the World Embe...",
-    "link": "http://arxiv.org/abs/2610.03632v1",
+    "description": "Continuous language flows generate text by denoising all positions of a target canvas together. The natural way to add reasoning to such a model is to write a trace ahead of the answer, but the trace ...",
+    "link": "http://arxiv.org/abs/2610.05815v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-02T17:24:25Z",
+    "date": "2026-10-05T05:11:04Z",
     "trending": false,
-    "source": "arXiv - Yiqi Liu, Ruifeng Yuan, Yang Wang et al."
+    "source": "arXiv - Miaohe Niu, Pengxiang Li, Jingbo Zhu et al."
   },
   {
-    "id": "arxiv_1791241056954_4",
-    "name": "FALCON: A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL Pairs",
-    "category": "nlp",
-    "description": "Relational databases are among the most widely deployed forms of structured knowledge, and natural language access to them requires grounding language onto schema entities and relations while handling...",
-    "link": "http://arxiv.org/abs/2610.03625v1",
+    "id": "arxiv_1791254284011_0",
+    "name": "PyINE: A Framework for Scalable Elicitation and Oversight via Code Execution",
+    "category": "machine-learning",
+    "description": "Reasoning models can remain capable of solving a task while still defaulting to cheaper but misleading shortcuts. This creates a central oversight problem: when a model gives an answer with plausible ...",
+    "link": "http://arxiv.org/abs/2610.04737v1",
     "tags": [
       "AI",
-      "GAN"
+      "LLM"
     ],
-    "date": "2026-10-02T17:19:50Z",
+    "date": "2026-10-03T20:03:43Z",
     "trending": false,
-    "source": "arXiv - Darian Lee, Shannon Rumsey, Jack St. Clair et al."
+    "source": "arXiv - Pierre-Luc St-Charles, Alessandro Palmas, Damiano Fornasiere et al."
+  },
+  {
+    "id": "arxiv_1791254284011_1",
+    "name": "Latent-Lagrangian Neural Networks for Reduced Order Modeling of Non-autonomous Nonlinear Dynamical Systems",
+    "category": "machine-learning",
+    "description": "This work proposes a latent Lagrangian-based framework for reduced-order modelling of forced nonlinear dynamical systems. In contrast with conventional Lagrangian or Hamiltonian neural networks, our a...",
+    "link": "http://arxiv.org/abs/2610.04723v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Vision"
+    ],
+    "date": "2026-10-03T19:23:41Z",
+    "trending": true,
+    "source": "arXiv - Anand Kumar Agrawal, Anders Thorin"
+  },
+  {
+    "id": "arxiv_1791254284011_2",
+    "name": "GPU-Accelerated Bregman Douglas-Rachford Splitting for Discrete Optimal Transport",
+    "category": "machine-learning",
+    "description": "We present GPU-accelerated Bregman Douglas--Rachford splitting algorithm (BDRS) for discrete optimal transport problem in three input formats: an explicit cost matrix, a point cloud with a ground cost...",
+    "link": "http://arxiv.org/abs/2610.04715v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-03T19:08:01Z",
+    "trending": true,
+    "source": "arXiv - Yifan Xu, Shiqian Ma"
+  },
+  {
+    "id": "arxiv_1791254284011_3",
+    "name": "Localized Operator Learning with Adaptive Partition-of-Unity Mixture-of-Expert Networks",
+    "category": "machine-learning",
+    "description": "Operator learning methods such as DeepONets and FNOs often struggle with PDE families featuring sharp interfaces, heterogeneous coefficients, and localized multiscale structures. We introduce a partit...",
+    "link": "http://arxiv.org/abs/2610.04708v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "GAN",
+      "Diffusion"
+    ],
+    "date": "2026-10-03T18:48:14Z",
+    "trending": false,
+    "source": "arXiv - Madison Cooley, Ramansh Sharma, Shandian Zhe et al."
+  },
+  {
+    "id": "arxiv_1791254284011_4",
+    "name": "Learning Discriminative Geometry for Drifting Models",
+    "category": "machine-learning",
+    "description": "Recently proposed Drifting Models shift iterative distribution refinement from inference to training, enabling effective one-step generation. However, their performance on complex image datasets depen...",
+    "link": "http://arxiv.org/abs/2610.04703v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-10-03T18:36:52Z",
+    "trending": true,
+    "source": "arXiv - Doudou Zhang, Wenwen Hou, Yilin Chen et al."
   }
 ]
