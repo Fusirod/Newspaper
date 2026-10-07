@@ -1,125 +1,178 @@
 [
   {
-    "id": "rss_TechCrunch_1791359280401_0",
-    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "id": "rss_TechCrunch_1791384535408_0",
+    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "description": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+    "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
     "tags": [
       "AI"
     ],
-    "date": "Tue, 06 Oct 2026 22:34:03 +0000",
+    "date": "Wed, 07 Oct 2026 14:41:38 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1791359283798_0",
-    "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 06 Oct 2026 21:31:10 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1791359283798_1",
-    "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Like other solutions, it is not especially reliable, and it's easy to circumvent.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "ChatGPT",
-      "GPT"
-    ],
-    "date": "Tue, 06 Oct 2026 20:50:32 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1791359280402_1",
-    "title": "How AI decision models could change content moderation",
+    "id": "rss_TechCrunch_1791384535408_1",
+    "title": "Google experiments with an AI-powered gaming platform",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights. ",
-    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 06 Oct 2026 20:35:20 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1791359283798_2",
-    "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        A combined service could lead to higher prices. \n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
-    "tags": [],
-    "date": "Tue, 06 Oct 2026 20:32:12 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1791359280402_2",
-    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-    "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-    "tags": [
-      "AI",
-      "NVIDIA",
-      "Startup"
-    ],
-    "date": "Tue, 06 Oct 2026 20:00:30 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1791359280402_3",
-    "title": "The next hurdle for AI agents: getting websites to let them in",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help. ",
-    "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 06 Oct 2026 19:56:50 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1791359283798_3",
-    "title": "It looks like the Atlantic storm season may finally produce a hurricane",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        To date, this Atlantic tropics year has been exceptionally quiet.\n                    ",
-    "link": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/",
-    "tags": [],
-    "date": "Tue, 06 Oct 2026 19:55:50 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1791359283798_4",
-    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.\n                    ",
-    "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+    "description": "Google Labs is working on a  new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+    "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
     "tags": [
       "AI",
       "Google"
     ],
-    "date": "Tue, 06 Oct 2026 19:21:14 +0000",
+    "date": "Wed, 07 Oct 2026 14:36:23 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1791384535408_2",
+    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+    "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 07 Oct 2026 14:30:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_Wired_1791359285016_0",
+    "id": "rss_TechCrunch_1791384535408_3",
+    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+    "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "date": "Wed, 07 Oct 2026 14:15:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1791384538739_0",
+    "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Mistral says Le Chonk can rival top closed models while remaining open-weight.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 07 Oct 2026 14:12:37 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1791384538739_1",
+    "title": "Google rolls out improved SynthID AI content detector, now available globally",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The new SynthID website can now identify AI content from Google, OpenAI, and more.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Google"
+    ],
+    "date": "Wed, 07 Oct 2026 14:00:08 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1791384535408_4",
+    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the door. Save up to $100 on your pass, plus ",
+    "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Wed, 07 Oct 2026 14:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1791384538739_2",
+    "title": "AI/ML is becoming a performance factor in motorsport",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        More than just a sponsor: OpenAI has been helping Ganassi with setups.\n                    ",
+    "link": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 07 Oct 2026 13:56:38 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1791384538739_3",
+    "title": "Review: Fine, let's talk about Digger",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Its excesses may try one’s patience at times, but the film sticks the landing with a savagely moving finale.\n                    ",
+    "link": "https://arstechnica.com/culture/2026/10/review-digger-is-both-frustrating-and-brilliant-by-design/",
+    "tags": [],
+    "date": "Wed, 07 Oct 2026 13:01:28 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1791384537518_0",
+    "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They migh",
+    "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 07 Oct 2026 12:10:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1791384538739_4",
+    "title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
+    "tags": [],
+    "date": "Wed, 07 Oct 2026 11:00:40 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1791384539819_0",
+    "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
+    "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Wed, 07 Oct 2026 11:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1791384539819_1",
+    "title": "Your Next Great Read Might Be Certified ‘Organic’",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+    "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Wed, 07 Oct 2026 08:30:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1791384539819_2",
     "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
     "category": "ai-news",
     "source": "Wired",
@@ -130,23 +183,10 @@
       "OpenAI"
     ],
     "date": "Tue, 06 Oct 2026 18:45:39 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1791359280402_4",
-    "title": "Hark releases an AI personal assistant with a focus on privacy",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct. ",
-    "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 06 Oct 2026 18:22:45 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1791359285016_1",
+    "id": "rss_Wired_1791384539819_3",
     "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
     "category": "ai-news",
     "source": "Wired",
@@ -160,7 +200,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1791359282624_0",
+    "id": "rss_MIT_Tech_Review_1791384537518_1",
     "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -171,7 +211,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1791359285016_2",
+    "id": "rss_Wired_1791384539820_4",
     "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
     "category": "ai-news",
     "source": "Wired",
@@ -184,7 +224,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1791359282624_1",
+    "id": "rss_MIT_Tech_Review_1791384537518_2",
     "title": "The Download: 10 climate tech companies to watch",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -197,7 +237,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1791359282624_2",
+    "id": "rss_MIT_Tech_Review_1791384537519_3",
     "title": "2026 Climate Tech Companies to Watch",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -205,10 +245,10 @@
     "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
     "tags": [],
     "date": "Tue, 06 Oct 2026 10:35:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1791359282624_3",
+    "id": "rss_MIT_Tech_Review_1791384537519_4",
     "title": "Here’s how our climate team picked 10 promising companies to watch",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -219,42 +259,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1791359282624_4",
-    "title": "WeLion New Energy and its semi-solid-state batteries",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods a",
-    "link": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
-    "tags": [],
-    "date": "Tue, 06 Oct 2026 10:35:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1791359285016_3",
-    "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 06 Oct 2026 10:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1791359285016_4",
-    "title": "Rural Data Centers Are in for a Big Federal Tax Break",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Under the One Big Beautiful Bill Act,  data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-    "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-    "tags": [],
-    "date": "Sun, 04 Oct 2026 10:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Distill_1791359293014_0",
+    "id": "rss_Distill_1791384547416_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -264,10 +269,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1791359293014_1",
+    "id": "rss_Distill_1791384547416_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -277,10 +282,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1791359293014_2",
+    "id": "rss_Distill_1791384547416_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -291,7 +296,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1791359293014_3",
+    "id": "rss_Distill_1791384547416_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -304,7 +309,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1791359293014_4",
+    "id": "rss_Distill_1791384547416_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
