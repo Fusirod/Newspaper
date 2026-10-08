@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1791441885875_0",
+    "id": "arxiv_1791468477042_0",
     "name": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
     "category": "computer-vision",
     "description": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate o...",
@@ -9,11 +9,11 @@
       "AI"
     ],
     "date": "2026-10-07T17:59:48Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jaeyeong Kim, Jinhyuk Jang, Jongmin Lee et al."
   },
   {
-    "id": "arxiv_1791441885857_0",
+    "id": "arxiv_1791468476720_0",
     "name": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
     "category": "ai",
     "description": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container,...",
@@ -26,7 +26,7 @@
     "source": "arXiv - Shravan Chaudhari, William Paul, Suchi Saria et al."
   },
   {
-    "id": "arxiv_1791441885875_1",
+    "id": "arxiv_1791468477042_1",
     "name": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
     "category": "computer-vision",
     "description": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container,...",
@@ -39,7 +39,7 @@
     "source": "arXiv - Shravan Chaudhari, William Paul, Suchi Saria et al."
   },
   {
-    "id": "arxiv_1791441885858_1",
+    "id": "arxiv_1791468476720_1",
     "name": "Decoupling Exploration from Optimization in RLVR",
     "category": "ai",
     "description": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In princ...",
@@ -50,11 +50,11 @@
       "Optimization"
     ],
     "date": "2026-10-07T17:59:26Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Saif Punjwani, Micah Goldblum"
   },
   {
-    "id": "arxiv_1791441885891_0",
+    "id": "arxiv_1791468477055_0",
     "name": "Decoupling Exploration from Optimization in RLVR",
     "category": "machine-learning",
     "description": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In princ...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Saif Punjwani, Micah Goldblum"
   },
   {
-    "id": "arxiv_1791441885908_0",
+    "id": "arxiv_1791468477068_0",
     "name": "Decoupling Exploration from Optimization in RLVR",
     "category": "nlp",
     "description": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In princ...",
@@ -84,7 +84,7 @@
     "source": "arXiv - Saif Punjwani, Micah Goldblum"
   },
   {
-    "id": "arxiv_1791441885908_1",
+    "id": "arxiv_1791468477069_1",
     "name": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
     "category": "nlp",
     "description": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Be...",
@@ -99,7 +99,7 @@
     "source": "arXiv - Hongru Cai, Ran Wei, Wenjie Wang et al."
   },
   {
-    "id": "arxiv_1791441885858_2",
+    "id": "arxiv_1791468476720_2",
     "name": "Long-WAM: Scaling the Context of World-Action Models",
     "category": "ai",
     "description": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con...",
@@ -108,11 +108,11 @@
       "AI"
     ],
     "date": "2026-10-07T17:58:04Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Wei Huang, Bohan Zhang, Chenzhi Liu et al."
   },
   {
-    "id": "arxiv_1791441885875_2",
+    "id": "arxiv_1791468477042_2",
     "name": "Long-WAM: Scaling the Context of World-Action Models",
     "category": "computer-vision",
     "description": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con...",
@@ -121,11 +121,11 @@
       "AI"
     ],
     "date": "2026-10-07T17:58:04Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Wei Huang, Bohan Zhang, Chenzhi Liu et al."
   },
   {
-    "id": "arxiv_1791441885892_1",
+    "id": "arxiv_1791468477055_1",
     "name": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
     "category": "machine-learning",
     "description": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized s...",
@@ -136,11 +136,11 @@
       "Optimization"
     ],
     "date": "2026-10-07T17:57:58Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Aleksandar Armacki, Haoyuan Cai, Ali H. Sayed"
   },
   {
-    "id": "arxiv_1791441885892_2",
+    "id": "arxiv_1791468477055_2",
     "name": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
     "category": "machine-learning",
     "description": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can mo...",
@@ -154,7 +154,7 @@
     "source": "arXiv - Mikey Watts, Yuchen Cui"
   },
   {
-    "id": "arxiv_1791441885908_2",
+    "id": "arxiv_1791468477069_2",
     "name": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
     "category": "nlp",
     "description": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can mo...",
@@ -168,7 +168,7 @@
     "source": "arXiv - Mikey Watts, Yuchen Cui"
   },
   {
-    "id": "arxiv_1791441885876_3",
+    "id": "arxiv_1791468477042_3",
     "name": "GRACE: Generation-aware latent compression for efficient video generation",
     "category": "computer-vision",
     "description": "Highly compressed video autoencoders offer an effective way to accelerate video diffusion models, as the Diffusion Transformer (DiT) operates on far fewer tokens. However, such autoencoders are challe...",
@@ -183,7 +183,7 @@
     "source": "arXiv - Jiyoung Kim, Paul Hyunbin Cho, Jisu Nam et al."
   },
   {
-    "id": "arxiv_1791441885892_3",
+    "id": "arxiv_1791468477055_3",
     "name": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
     "category": "machine-learning",
     "description": "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use...",
@@ -194,11 +194,11 @@
       "Transformer"
     ],
     "date": "2026-10-07T17:56:01Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zhewei Chen, Hao Zhu, Jiaojiao Jiang et al."
   },
   {
-    "id": "arxiv_1791441885892_4",
+    "id": "arxiv_1791468477056_4",
     "name": "Why Forget-Only Unlearning Needs Memorization",
     "category": "machine-learning",
     "description": "Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletio...",
@@ -207,11 +207,11 @@
       "AI"
     ],
     "date": "2026-10-07T17:55:46Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Luka Radić, Vikrant Singhal, Amartya Sanyal"
   },
   {
-    "id": "arxiv_1791441885858_3",
+    "id": "arxiv_1791468476720_3",
     "name": "RoboJEPA: Scaling Robotic Latent World Models",
     "category": "ai",
     "description": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with...",
@@ -220,11 +220,11 @@
       "AI"
     ],
     "date": "2026-10-07T17:54:42Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Artem Zholus, Nicolas Beltran-Velez, Jianhao Yuan et al."
   },
   {
-    "id": "arxiv_1791441885858_4",
+    "id": "arxiv_1791468476720_4",
     "name": "SciExam for ENSO: Can AI Agents Build Climate Models?",
     "category": "ai",
     "description": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of w...",
@@ -237,7 +237,7 @@
     "source": "arXiv - Yinling Zhang, Langchen Liu, Dongbin Xiu et al."
   },
   {
-    "id": "arxiv_1791441885876_4",
+    "id": "arxiv_1791468477043_4",
     "name": "Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery",
     "category": "computer-vision",
     "description": "Recovering faithful 3D hand motion from video remains challenging due to frequent occlusions and incomplete visual observations, which make frame-wise pose estimates unreliable and temporally inconsis...",
@@ -250,7 +250,7 @@
     "source": "arXiv - Chen Xu, Yunqi Li, Binbin Huang et al."
   },
   {
-    "id": "arxiv_1791441885908_3",
+    "id": "arxiv_1791468477069_3",
     "name": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
     "category": "nlp",
     "description": "Prompted embedding models have recently received increasing attention, particularly for retrieval, where detailed retrieval instructions are provided as part of the retrieval prompt. Several new datas...",
@@ -263,7 +263,7 @@
     "source": "arXiv - Amanda Myntti, Jenna Kanerva, Veronika Laippala et al."
   },
   {
-    "id": "arxiv_1791441885908_4",
+    "id": "arxiv_1791468477069_4",
     "name": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
     "category": "nlp",
     "description": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-prefere...",
@@ -273,7 +273,7 @@
       "LLM"
     ],
     "date": "2026-10-07T17:51:07Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Daniel Robert Kling Alexander, Catherine Louise Kling"
   }
 ]
