@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1791646601690_0",
+    "id": "arxiv_1791660937340_0",
     "name": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
     "category": "computer-vision",
     "description": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such stri...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Jusuk Lee, Sungha Kim, Yeonsoo Park et al."
   },
   {
-    "id": "arxiv_1791646601691_1",
+    "id": "arxiv_1791660937341_1",
     "name": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
     "category": "computer-vision",
     "description": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Ritesh Thawkar, Shubham Patle, Shravan Venkatraman et al."
   },
   {
-    "id": "arxiv_1791646601691_2",
+    "id": "arxiv_1791660937341_2",
     "name": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
     "category": "computer-vision",
     "description": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacl...",
@@ -41,7 +41,7 @@
     "source": "arXiv - Junyan Li, Ruizhi Li, Yu Liu et al."
   },
   {
-    "id": "arxiv_1791646601617_0",
+    "id": "arxiv_1791660937265_0",
     "name": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
     "category": "ai",
     "description": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and...",
@@ -54,7 +54,7 @@
     "source": "arXiv - Drew T. Nguyen, William Fithian"
   },
   {
-    "id": "arxiv_1791646601763_0",
+    "id": "arxiv_1791660937415_0",
     "name": "CSF: Contextual Safety Filtering for Motion Generators",
     "category": "machine-learning",
     "description": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ...",
@@ -67,7 +67,7 @@
     "source": "arXiv - Lizhi Yang, Yiling Hou, Yao Tang et al."
   },
   {
-    "id": "arxiv_1791646601763_1",
+    "id": "arxiv_1791660937415_1",
     "name": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
     "category": "machine-learning",
     "description": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c...",
@@ -77,11 +77,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-10-08T17:59:50Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Octi Zhang, Mateo Guaman Castro, Patrick Yin et al."
   },
   {
-    "id": "arxiv_1791646601618_1",
+    "id": "arxiv_1791660937265_1",
     "name": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
     "category": "ai",
     "description": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research i...",
@@ -96,7 +96,7 @@
     "source": "arXiv - Abbas Raftari"
   },
   {
-    "id": "arxiv_1791646601691_3",
+    "id": "arxiv_1791660937341_3",
     "name": "What 30,000 Hours of Ego-centric Video Does Not Teach",
     "category": "computer-vision",
     "description": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 h...",
@@ -110,7 +110,7 @@
     "source": "arXiv - Jiahua Dong, Anurag Bagchi, Yash Jangir et al."
   },
   {
-    "id": "arxiv_1791646601691_4",
+    "id": "arxiv_1791660937342_4",
     "name": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
     "category": "computer-vision",
     "description": "Recent 3D world models generate photorealistic, explorable scenes that remain frozen in time. OuroWorld is a mask-free framework that turns any static 3D Gaussian Splatting scene into a 3D cinemagraph...",
@@ -120,11 +120,11 @@
       "Vision"
     ],
     "date": "2026-10-08T17:59:46Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - You-Zhe Xie, Ting-Wei Chou, Yu-Hsuan Li et al."
   },
   {
-    "id": "arxiv_1791646601618_2",
+    "id": "arxiv_1791660937265_2",
     "name": "BrickBench: Evaluating Agentic Brick Design",
     "category": "ai",
     "description": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but...",
@@ -137,38 +137,9 @@
     "source": "arXiv - Peter Kulits, Yiqing Xu, R. Kenny Jones et al."
   },
   {
-    "id": "arxiv_1791646601618_3",
+    "id": "arxiv_1791660937265_3",
     "name": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
     "category": "ai",
-    "description": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a sing...",
-    "link": "http://arxiv.org/abs/2610.12449v1",
-    "tags": [
-      "AI",
-      "Deep Learning"
-    ],
-    "date": "2026-10-08T17:58:36Z",
-    "trending": false,
-    "source": "arXiv - Anna Zimmel, Fleur Hendriks, Markus Holzleitner et al."
-  },
-  {
-    "id": "arxiv_1791646601763_2",
-    "name": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
-    "category": "machine-learning",
-    "description": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillatio...",
-    "link": "http://arxiv.org/abs/2610.12448v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer"
-    ],
-    "date": "2026-10-08T17:58:36Z",
-    "trending": false,
-    "source": "arXiv - Adrian Bulat, Yassine Ouali, Georgios Tzimiropoulos"
-  },
-  {
-    "id": "arxiv_1791646601763_3",
-    "name": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
-    "category": "machine-learning",
     "description": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a sing...",
     "link": "http://arxiv.org/abs/2610.12449v1",
     "tags": [
@@ -180,7 +151,36 @@
     "source": "arXiv - Anna Zimmel, Fleur Hendriks, Markus Holzleitner et al."
   },
   {
-    "id": "arxiv_1791646601618_4",
+    "id": "arxiv_1791660937415_2",
+    "name": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+    "category": "machine-learning",
+    "description": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillatio...",
+    "link": "http://arxiv.org/abs/2610.12448v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-10-08T17:58:36Z",
+    "trending": true,
+    "source": "arXiv - Adrian Bulat, Yassine Ouali, Georgios Tzimiropoulos"
+  },
+  {
+    "id": "arxiv_1791660937415_3",
+    "name": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+    "category": "machine-learning",
+    "description": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a sing...",
+    "link": "http://arxiv.org/abs/2610.12449v1",
+    "tags": [
+      "AI",
+      "Deep Learning"
+    ],
+    "date": "2026-10-08T17:58:36Z",
+    "trending": false,
+    "source": "arXiv - Anna Zimmel, Fleur Hendriks, Markus Holzleitner et al."
+  },
+  {
+    "id": "arxiv_1791660937266_4",
     "name": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
     "category": "ai",
     "description": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier m...",
@@ -194,7 +194,7 @@
     "source": "arXiv - Oskar J. Hollinsworth, Alex F. Spies, Tigist Diriba et al."
   },
   {
-    "id": "arxiv_1791646601763_4",
+    "id": "arxiv_1791660937415_4",
     "name": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
     "category": "machine-learning",
     "description": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier m...",
@@ -208,7 +208,7 @@
     "source": "arXiv - Oskar J. Hollinsworth, Alex F. Spies, Tigist Diriba et al."
   },
   {
-    "id": "arxiv_1791646601835_0",
+    "id": "arxiv_1791660937487_0",
     "name": "FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?",
     "category": "nlp",
     "description": "Streaming Video Large Language Models (VLMs) enable continuous video understanding, yet existing benchmarks focus on low-dynamic scenarios. Under bounded context budgets, models must balance temporal ...",
@@ -221,7 +221,7 @@
     "source": "arXiv - Yuxuan Hu, Weikang Shi, Yang Bo et al."
   },
   {
-    "id": "arxiv_1791646601835_1",
+    "id": "arxiv_1791660937487_1",
     "name": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
     "category": "nlp",
     "description": "Multimodal large language models (MLLMs) struggle with spatial, embodied, physical, and temporal reasoning. We hypothesize that these failures reflect a shared deficit in visual transition reasoning, ...",
@@ -237,7 +237,7 @@
     "source": "arXiv - Zheyu Fan, Yue Zhang, Mingkai Deng et al."
   },
   {
-    "id": "arxiv_1791646601835_2",
+    "id": "arxiv_1791660937487_2",
     "name": "Predicting Alignment Generalization with Value Representations",
     "category": "nlp",
     "description": "LLM developers post-train their models to exhibit prosocial values and behavioral traits, which are enumerated in an alignment target. However, while recent post-training developments have yielded mod...",
@@ -247,11 +247,11 @@
       "LLM"
     ],
     "date": "2026-10-08T17:47:26Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Andy Liu, Mehar Bhatia, Karolina Stanczak et al."
   },
   {
-    "id": "arxiv_1791646601835_3",
+    "id": "arxiv_1791660937487_3",
     "name": "ViSkill: Reinforcing VLM Agents with Evolving Visual-Native Skills",
     "category": "nlp",
     "description": "Skill-augmented agents improve sample efficiency by distilling successful trajectories into reusable strategies. Yet most existing approaches remain text-centric, linearizing spatial layouts and actio...",
@@ -265,7 +265,7 @@
     "source": "arXiv - Hongxing Li, Dingming Li, Yixin Li et al."
   },
   {
-    "id": "arxiv_1791646601835_4",
+    "id": "arxiv_1791660937487_4",
     "name": "SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models",
     "category": "nlp",
     "description": "Existing spatial reasoning benchmarks mainly test spatial perception: reading off relations already visible in the input. Yet real-world spatial intelligence demands predictive spatial reasoning: cons...",
@@ -275,7 +275,7 @@
       "Vision"
     ],
     "date": "2026-10-08T17:44:17Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hongxing Li, Jinyue Su, Dingming Li et al."
   }
 ]
