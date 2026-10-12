@@ -1,281 +1,285 @@
 [
   {
-    "id": "arxiv_1791760637846_0",
-    "name": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
-    "category": "computer-vision",
-    "description": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such stri...",
-    "link": "http://arxiv.org/abs/2610.12470v1",
+    "id": "arxiv_1791773550497_0",
+    "name": "Can Language Models Play the Wikipedia Game?",
+    "category": "ai",
+    "description": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowled...",
+    "link": "http://arxiv.org/abs/2610.13948v1",
     "tags": [
       "AI",
-      "Reinforcement Learning"
+      "LLM",
+      "GPT"
     ],
-    "date": "2026-10-08T17:59:58Z",
-    "trending": true,
-    "source": "arXiv - Jusuk Lee, Sungha Kim, Yeonsoo Park et al."
+    "date": "2026-10-09T17:59:56Z",
+    "trending": false,
+    "source": "arXiv - Alexander Hickey, Joanna Knight, James Bishop"
   },
   {
-    "id": "arxiv_1791760637847_1",
-    "name": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
+    "id": "arxiv_1791773550578_0",
+    "name": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
     "category": "computer-vision",
-    "description": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and...",
-    "link": "http://arxiv.org/abs/2610.12469v1",
+    "description": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they move and function. Inspired by the literature on p...",
+    "link": "http://arxiv.org/abs/2610.13947v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-09T17:59:41Z",
+    "trending": false,
+    "source": "arXiv - Xudong Cai, Ruijie Zhu, Haoliang Shang et al."
+  },
+  {
+    "id": "arxiv_1791773550578_1",
+    "name": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
+    "category": "computer-vision",
+    "description": "A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from their shelves, counters, and tables. Yet even a strong generalist like $π_{0.5}$ ach...",
+    "link": "http://arxiv.org/abs/2610.13945v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-10-08T17:59:58Z",
-    "trending": true,
-    "source": "arXiv - Ritesh Thawkar, Shubham Patle, Shravan Venkatraman et al."
+    "date": "2026-10-09T17:59:06Z",
+    "trending": false,
+    "source": "arXiv - Xiaomeng Ye, Krishna Jaganathan, Gyubeum Lim et al."
   },
   {
-    "id": "arxiv_1791760637847_2",
-    "name": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "id": "arxiv_1791773550578_2",
+    "name": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
     "category": "computer-vision",
-    "description": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacl...",
-    "link": "http://arxiv.org/abs/2610.12468v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-08T17:59:51Z",
-    "trending": false,
-    "source": "arXiv - Junyan Li, Ruizhi Li, Yu Liu et al."
-  },
-  {
-    "id": "arxiv_1791760637827_0",
-    "name": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
-    "category": "ai",
-    "description": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and...",
-    "link": "http://arxiv.org/abs/2610.12466v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-08T17:59:50Z",
-    "trending": true,
-    "source": "arXiv - Drew T. Nguyen, William Fithian"
-  },
-  {
-    "id": "arxiv_1791760637867_0",
-    "name": "CSF: Contextual Safety Filtering for Motion Generators",
-    "category": "machine-learning",
-    "description": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ...",
-    "link": "http://arxiv.org/abs/2610.12467v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-08T17:59:50Z",
-    "trending": false,
-    "source": "arXiv - Lizhi Yang, Yiling Hou, Yao Tang et al."
-  },
-  {
-    "id": "arxiv_1791760637868_1",
-    "name": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
-    "category": "machine-learning",
-    "description": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c...",
-    "link": "http://arxiv.org/abs/2610.12465v1",
+    "description": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of modern generators with increasingly heterogeneous architectures and representation...",
+    "link": "http://arxiv.org/abs/2610.13944v1",
     "tags": [
       "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-10-08T17:59:50Z",
-    "trending": false,
-    "source": "arXiv - Octi Zhang, Mateo Guaman Castro, Patrick Yin et al."
-  },
-  {
-    "id": "arxiv_1791760637828_1",
-    "name": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-    "category": "ai",
-    "description": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research i...",
-    "link": "http://arxiv.org/abs/2610.12463v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GAN"
-    ],
-    "date": "2026-10-08T17:59:49Z",
-    "trending": true,
-    "source": "arXiv - Abbas Raftari"
-  },
-  {
-    "id": "arxiv_1791760637847_3",
-    "name": "What 30,000 Hours of Ego-centric Video Does Not Teach",
-    "category": "computer-vision",
-    "description": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 h...",
-    "link": "http://arxiv.org/abs/2610.12464v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-08T17:59:49Z",
-    "trending": false,
-    "source": "arXiv - Jiahua Dong, Anurag Bagchi, Yash Jangir et al."
-  },
-  {
-    "id": "arxiv_1791760637848_4",
-    "name": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
-    "category": "computer-vision",
-    "description": "Recent 3D world models generate photorealistic, explorable scenes that remain frozen in time. OuroWorld is a mask-free framework that turns any static 3D Gaussian Splatting scene into a 3D cinemagraph...",
-    "link": "http://arxiv.org/abs/2610.12461v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-08T17:59:46Z",
-    "trending": false,
-    "source": "arXiv - You-Zhe Xie, Ting-Wei Chou, Yu-Hsuan Li et al."
-  },
-  {
-    "id": "arxiv_1791760637828_2",
-    "name": "BrickBench: Evaluating Agentic Brick Design",
-    "category": "ai",
-    "description": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but...",
-    "link": "http://arxiv.org/abs/2610.12452v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-08T17:58:56Z",
-    "trending": false,
-    "source": "arXiv - Peter Kulits, Yiqing Xu, R. Kenny Jones et al."
-  },
-  {
-    "id": "arxiv_1791760637828_3",
-    "name": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
-    "category": "ai",
-    "description": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a sing...",
-    "link": "http://arxiv.org/abs/2610.12449v1",
-    "tags": [
-      "AI",
-      "Deep Learning"
-    ],
-    "date": "2026-10-08T17:58:36Z",
-    "trending": false,
-    "source": "arXiv - Anna Zimmel, Fleur Hendriks, Markus Holzleitner et al."
-  },
-  {
-    "id": "arxiv_1791760637868_2",
-    "name": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
-    "category": "machine-learning",
-    "description": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillatio...",
-    "link": "http://arxiv.org/abs/2610.12448v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer"
-    ],
-    "date": "2026-10-08T17:58:36Z",
-    "trending": false,
-    "source": "arXiv - Adrian Bulat, Yassine Ouali, Georgios Tzimiropoulos"
-  },
-  {
-    "id": "arxiv_1791760637868_3",
-    "name": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
-    "category": "machine-learning",
-    "description": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a sing...",
-    "link": "http://arxiv.org/abs/2610.12449v1",
-    "tags": [
-      "AI",
-      "Deep Learning"
-    ],
-    "date": "2026-10-08T17:58:36Z",
-    "trending": false,
-    "source": "arXiv - Anna Zimmel, Fleur Hendriks, Markus Holzleitner et al."
-  },
-  {
-    "id": "arxiv_1791760637828_4",
-    "name": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
-    "category": "ai",
-    "description": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier m...",
-    "link": "http://arxiv.org/abs/2610.12445v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-08T17:58:13Z",
-    "trending": true,
-    "source": "arXiv - Oskar J. Hollinsworth, Alex F. Spies, Tigist Diriba et al."
-  },
-  {
-    "id": "arxiv_1791760637868_4",
-    "name": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
-    "category": "machine-learning",
-    "description": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier m...",
-    "link": "http://arxiv.org/abs/2610.12445v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-08T17:58:13Z",
-    "trending": false,
-    "source": "arXiv - Oskar J. Hollinsworth, Alex F. Spies, Tigist Diriba et al."
-  },
-  {
-    "id": "arxiv_1791760637886_0",
-    "name": "FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?",
-    "category": "nlp",
-    "description": "Streaming Video Large Language Models (VLMs) enable continuous video understanding, yet existing benchmarks focus on low-dynamic scenarios. Under bounded context budgets, models must balance temporal ...",
-    "link": "http://arxiv.org/abs/2610.12427v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-08T17:55:20Z",
-    "trending": false,
-    "source": "arXiv - Yuxuan Hu, Weikang Shi, Yang Bo et al."
-  },
-  {
-    "id": "arxiv_1791760637886_1",
-    "name": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
-    "category": "nlp",
-    "description": "Multimodal large language models (MLLMs) struggle with spatial, embodied, physical, and temporal reasoning. We hypothesize that these failures reflect a shared deficit in visual transition reasoning, ...",
-    "link": "http://arxiv.org/abs/2610.12417v1",
-    "tags": [
-      "AI",
-      "Vision",
       "GAN",
-      "LLM"
+      "Diffusion"
     ],
-    "date": "2026-10-08T17:52:03Z",
+    "date": "2026-10-09T17:59:04Z",
     "trending": false,
-    "source": "arXiv - Zheyu Fan, Yue Zhang, Mingkai Deng et al."
+    "source": "arXiv - Xuanlang Dai, Jiazi Bu, Yujie Zhou et al."
   },
   {
-    "id": "arxiv_1791760637886_2",
-    "name": "Predicting Alignment Generalization with Value Representations",
-    "category": "nlp",
-    "description": "LLM developers post-train their models to exhibit prosocial values and behavioral traits, which are enumerated in an alignment target. However, while recent post-training developments have yielded mod...",
-    "link": "http://arxiv.org/abs/2610.12410v1",
+    "id": "arxiv_1791773550578_3",
+    "name": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
+    "category": "computer-vision",
+    "description": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through joint attention. These representations then guide subsequent image updates, raising ...",
+    "link": "http://arxiv.org/abs/2610.13941v1",
     "tags": [
       "AI",
-      "LLM"
+      "Transformer",
+      "Diffusion"
     ],
-    "date": "2026-10-08T17:47:26Z",
+    "date": "2026-10-09T17:58:15Z",
     "trending": false,
-    "source": "arXiv - Andy Liu, Mehar Bhatia, Karolina Stanczak et al."
+    "source": "arXiv - Yucheng Yang, Xiaoxiao Sun, Shusheng Yang et al."
   },
   {
-    "id": "arxiv_1791760637886_3",
-    "name": "ViSkill: Reinforcing VLM Agents with Evolving Visual-Native Skills",
+    "id": "arxiv_1791773550497_1",
+    "name": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+    "category": "ai",
+    "description": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts...",
+    "link": "http://arxiv.org/abs/2610.13935v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Vision"
+    ],
+    "date": "2026-10-09T17:56:59Z",
+    "trending": false,
+    "source": "arXiv - Bhanu Tokas, Rahul Nair, Rockwell Jackson et al."
+  },
+  {
+    "id": "arxiv_1791773550578_4",
+    "name": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+    "category": "computer-vision",
+    "description": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts...",
+    "link": "http://arxiv.org/abs/2610.13935v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Vision"
+    ],
+    "date": "2026-10-09T17:56:59Z",
+    "trending": false,
+    "source": "arXiv - Bhanu Tokas, Rahul Nair, Rockwell Jackson et al."
+  },
+  {
+    "id": "arxiv_1791773550658_0",
+    "name": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+    "category": "machine-learning",
+    "description": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts...",
+    "link": "http://arxiv.org/abs/2610.13935v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Vision"
+    ],
+    "date": "2026-10-09T17:56:59Z",
+    "trending": false,
+    "source": "arXiv - Bhanu Tokas, Rahul Nair, Rockwell Jackson et al."
+  },
+  {
+    "id": "arxiv_1791773550658_1",
+    "name": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+    "category": "machine-learning",
+    "description": "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand...",
+    "link": "http://arxiv.org/abs/2610.13931v1",
+    "tags": [
+      "Neural"
+    ],
+    "date": "2026-10-09T17:55:33Z",
+    "trending": false,
+    "source": "arXiv - Kosio Beshkov"
+  },
+  {
+    "id": "arxiv_1791773550658_2",
+    "name": "AI Models Can Provably Hide Arbitrary Capabilities",
+    "category": "machine-learning",
+    "description": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption doe...",
+    "link": "http://arxiv.org/abs/2610.13928v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-10-09T17:55:06Z",
+    "trending": false,
+    "source": "arXiv - Andis Draguns, Sumeet Ramesh Motwani, Raymond Douglas et al."
+  },
+  {
+    "id": "arxiv_1791773550658_3",
+    "name": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+    "category": "machine-learning",
+    "description": "A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averag...",
+    "link": "http://arxiv.org/abs/2610.13924v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-09T17:54:16Z",
+    "trending": false,
+    "source": "arXiv - Tianyi Wu"
+  },
+  {
+    "id": "arxiv_1791773550659_4",
+    "name": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning",
+    "category": "machine-learning",
+    "description": "Deep-space communications operate under intermittent connectivity, long propagation delays, and relay storage constraints. In such networks, the Bundle Protocol enables store-carry-forward communicati...",
+    "link": "http://arxiv.org/abs/2610.13923v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
+      "Optimization"
+    ],
+    "date": "2026-10-09T17:53:46Z",
+    "trending": true,
+    "source": "arXiv - Sajjad Baghaeea, Aimin Lib, Shanmugarajan Balasubramanian et al."
+  },
+  {
+    "id": "arxiv_1791773550738_0",
+    "name": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
     "category": "nlp",
-    "description": "Skill-augmented agents improve sample efficiency by distilling successful trajectories into reusable strategies. Yet most existing approaches remain text-centric, linearizing spatial layouts and actio...",
-    "link": "http://arxiv.org/abs/2610.12403v1",
+    "description": "Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external feedback is costly and world-model predictions may become unreliable as policies ev...",
+    "link": "http://arxiv.org/abs/2610.13912v1",
     "tags": [
       "AI",
       "Optimization"
     ],
-    "date": "2026-10-08T17:44:19Z",
+    "date": "2026-10-09T17:50:30Z",
     "trending": false,
-    "source": "arXiv - Hongxing Li, Dingming Li, Yixin Li et al."
+    "source": "arXiv - Taoyong Cui, Pinxian Zeng, Wanghan Xu et al."
   },
   {
-    "id": "arxiv_1791760637886_4",
-    "name": "SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models",
+    "id": "arxiv_1791773550739_1",
+    "name": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
     "category": "nlp",
-    "description": "Existing spatial reasoning benchmarks mainly test spatial perception: reading off relations already visible in the input. Yet real-world spatial intelligence demands predictive spatial reasoning: cons...",
-    "link": "http://arxiv.org/abs/2610.12402v1",
+    "description": "Vision-Language Models (VLMs) increasingly analyze and reason about images, yet it remains unclear whether their internal representations faithfully encode the structured relations required for such r...",
+    "link": "http://arxiv.org/abs/2610.13910v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-10-08T17:44:17Z",
+    "date": "2026-10-09T17:50:03Z",
+    "trending": false,
+    "source": "arXiv - Shubh Garg, Chen Shani"
+  },
+  {
+    "id": "arxiv_1791773550497_2",
+    "name": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
+    "category": "ai",
+    "description": "While deep learning models for tabular data have recently received significant research attention, the choice of objective functions for regression tasks remains an understudied degree of freedom. Sev...",
+    "link": "http://arxiv.org/abs/2610.13909v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Deep Learning"
+    ],
+    "date": "2026-10-09T17:49:32Z",
     "trending": true,
-    "source": "arXiv - Hongxing Li, Jinyue Su, Dingming Li et al."
+    "source": "arXiv - Danil Rudenko, Georgii Bulgakov, Nikolay Kartashev et al."
+  },
+  {
+    "id": "arxiv_1791773550739_2",
+    "name": "Structural Automata for Neural Semantic Parsing",
+    "category": "nlp",
+    "description": "Neural semantic parsers generate meaning representations token by token, yet well-formedness depends on references, scope, and graph relations that unfold during generation. Constrained decoding preve...",
+    "link": "http://arxiv.org/abs/2610.13896v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-10-09T17:42:14Z",
+    "trending": true,
+    "source": "arXiv - Xiao Zhang"
+  },
+  {
+    "id": "arxiv_1791773550497_3",
+    "name": "Task Context Shapes Component Roles in Language Models",
+    "category": "ai",
+    "description": "Large language models reuse the same attention heads across tasks, but identifying these shared heads does not explain what they do differently in each task. A natural source of inspiration is task-de...",
+    "link": "http://arxiv.org/abs/2610.13895v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-09T17:40:53Z",
+    "trending": false,
+    "source": "arXiv - Sovesh Mohapatra, Dani S Bassett"
+  },
+  {
+    "id": "arxiv_1791773550739_3",
+    "name": "Task Context Shapes Component Roles in Language Models",
+    "category": "nlp",
+    "description": "Large language models reuse the same attention heads across tasks, but identifying these shared heads does not explain what they do differently in each task. A natural source of inspiration is task-de...",
+    "link": "http://arxiv.org/abs/2610.13895v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-09T17:40:53Z",
+    "trending": false,
+    "source": "arXiv - Sovesh Mohapatra, Dani S Bassett"
+  },
+  {
+    "id": "arxiv_1791773550497_4",
+    "name": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
+    "category": "ai",
+    "description": "As AI agents increasingly rely on external tools, accurate retrieval is essential for reliable behavior. Existing methods optimize semantic relevance but largely ignore tool availability during execut...",
+    "link": "http://arxiv.org/abs/2610.13889v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-09T17:38:11Z",
+    "trending": false,
+    "source": "arXiv - Weiliang Chen, Song Liao"
+  },
+  {
+    "id": "arxiv_1791773550739_4",
+    "name": "Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Studies of American Comics and Japanese Manga",
+    "category": "nlp",
+    "description": "Comics are one of the great visual records of the twentieth century: hundreds of thousands of pages in which a mass readership saw its leaders, its wars and its heroes. Most of this record has never b...",
+    "link": "http://arxiv.org/abs/2610.13840v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-09T16:49:29Z",
+    "trending": false,
+    "source": "arXiv - Emilio Ferrara"
   }
 ]
