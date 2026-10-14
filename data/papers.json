@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1791974577144_0",
+    "id": "arxiv_1791992071913_0",
     "name": "ChunkAct: Action Chunking for Agentic Robotics",
     "category": "ai",
     "description": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th...",
@@ -16,25 +16,9 @@
     "source": "arXiv - Bingxin Xu, Wenrui Bao, Xinxin Liu et al."
   },
   {
-    "id": "arxiv_1791974577213_0",
+    "id": "arxiv_1791992071933_0",
     "name": "ChunkAct: Action Chunking for Agentic Robotics",
     "category": "computer-vision",
-    "description": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th...",
-    "link": "http://arxiv.org/abs/2610.18874v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Robotics"
-    ],
-    "date": "2026-10-13T17:59:57Z",
-    "trending": false,
-    "source": "arXiv - Bingxin Xu, Wenrui Bao, Xinxin Liu et al."
-  },
-  {
-    "id": "arxiv_1791974577350_0",
-    "name": "ChunkAct: Action Chunking for Agentic Robotics",
-    "category": "nlp",
     "description": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th...",
     "link": "http://arxiv.org/abs/2610.18874v1",
     "tags": [
@@ -48,7 +32,23 @@
     "source": "arXiv - Bingxin Xu, Wenrui Bao, Xinxin Liu et al."
   },
   {
-    "id": "arxiv_1791974577213_1",
+    "id": "arxiv_1791992071970_0",
+    "name": "ChunkAct: Action Chunking for Agentic Robotics",
+    "category": "nlp",
+    "description": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th...",
+    "link": "http://arxiv.org/abs/2610.18874v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Robotics"
+    ],
+    "date": "2026-10-13T17:59:57Z",
+    "trending": false,
+    "source": "arXiv - Bingxin Xu, Wenrui Bao, Xinxin Liu et al."
+  },
+  {
+    "id": "arxiv_1791992071933_1",
     "name": "LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts",
     "category": "computer-vision",
     "description": "Scaling expert demonstrations alone does not enable generalist robot policies to improve from deployment. Real-world rollouts contain successes, suboptimal behavior, and failures: imitating every reco...",
@@ -62,7 +62,7 @@
     "source": "arXiv - Wenxuan Guo, Yingping Liang, Zhaoguo Wang et al."
   },
   {
-    "id": "arxiv_1791974577213_2",
+    "id": "arxiv_1791992071934_2",
     "name": "EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ",
     "category": "computer-vision",
     "description": "Learning humanoid loco-manipulation from human demonstrations rests on observing how locomotion, posture, and object interaction evolve together as tasks unfold. Scaling collection across diverse envi...",
@@ -76,7 +76,7 @@
     "source": "arXiv - Yunsong Zhou, Xuekun Jiang, Haiqi Shen et al."
   },
   {
-    "id": "arxiv_1791974577213_3",
+    "id": "arxiv_1791992071934_3",
     "name": "Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs",
     "category": "computer-vision",
     "description": "We generally perceive that training text-to-image diffusion models requires heavy compute: it is true if we aim at a comprehensive frontier model. This understanding prevents people from training thei...",
@@ -91,7 +91,7 @@
     "source": "arXiv - Reyhaneh Esmailizadeh, Xingjian Leng, Zhanhao Liang et al."
   },
   {
-    "id": "arxiv_1791974577214_4",
+    "id": "arxiv_1791992071934_4",
     "name": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
     "category": "computer-vision",
     "description": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension ...",
@@ -104,7 +104,7 @@
     "source": "arXiv - Chih-Hai Su, Tsung-Wei Ke, Yu-Lun Liu"
   },
   {
-    "id": "arxiv_1791974577280_0",
+    "id": "arxiv_1791992071951_0",
     "name": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
     "category": "machine-learning",
     "description": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension ...",
@@ -117,7 +117,7 @@
     "source": "arXiv - Chih-Hai Su, Tsung-Wei Ke, Yu-Lun Liu"
   },
   {
-    "id": "arxiv_1791974577145_1",
+    "id": "arxiv_1791992071913_1",
     "name": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
     "category": "ai",
     "description": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across ...",
@@ -131,7 +131,7 @@
     "source": "arXiv - Mingxuan Yan, Litian Gong, Dihong Huang et al."
   },
   {
-    "id": "arxiv_1791974577280_1",
+    "id": "arxiv_1791992071951_1",
     "name": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
     "category": "machine-learning",
     "description": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across ...",
@@ -145,7 +145,7 @@
     "source": "arXiv - Mingxuan Yan, Litian Gong, Dihong Huang et al."
   },
   {
-    "id": "arxiv_1791974577145_2",
+    "id": "arxiv_1791992071913_2",
     "name": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
     "category": "ai",
     "description": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur...",
@@ -159,7 +159,7 @@
     "source": "arXiv - Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh et al."
   },
   {
-    "id": "arxiv_1791974577280_2",
+    "id": "arxiv_1791992071951_2",
     "name": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
     "category": "machine-learning",
     "description": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur...",
@@ -169,11 +169,11 @@
       "GPT"
     ],
     "date": "2026-10-13T17:59:51Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh et al."
   },
   {
-    "id": "arxiv_1791974577350_1",
+    "id": "arxiv_1791992071971_1",
     "name": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
     "category": "nlp",
     "description": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur...",
@@ -187,7 +187,7 @@
     "source": "arXiv - Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh et al."
   },
   {
-    "id": "arxiv_1791974577280_3",
+    "id": "arxiv_1791992071951_3",
     "name": "Data Free Training of Diffusion Models for Lattice Field Theories",
     "category": "machine-learning",
     "description": "Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configuration...",
@@ -201,7 +201,7 @@
     "source": "arXiv - Dennis Grinwald, Ankur Singha, Khaled Kahouli et al."
   },
   {
-    "id": "arxiv_1791974577145_3",
+    "id": "arxiv_1791992071914_3",
     "name": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
     "category": "ai",
     "description": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional traini...",
@@ -214,22 +214,9 @@
     "source": "arXiv - Minghao Luo, Liang Chen"
   },
   {
-    "id": "arxiv_1791974577280_4",
+    "id": "arxiv_1791992071951_4",
     "name": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
     "category": "machine-learning",
-    "description": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional traini...",
-    "link": "http://arxiv.org/abs/2610.18862v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-13T17:59:32Z",
-    "trending": false,
-    "source": "arXiv - Minghao Luo, Liang Chen"
-  },
-  {
-    "id": "arxiv_1791974577350_2",
-    "name": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
-    "category": "nlp",
     "description": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional traini...",
     "link": "http://arxiv.org/abs/2610.18862v1",
     "tags": [
@@ -240,7 +227,20 @@
     "source": "arXiv - Minghao Luo, Liang Chen"
   },
   {
-    "id": "arxiv_1791974577145_4",
+    "id": "arxiv_1791992071971_2",
+    "name": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+    "category": "nlp",
+    "description": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional traini...",
+    "link": "http://arxiv.org/abs/2610.18862v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-13T17:59:32Z",
+    "trending": false,
+    "source": "arXiv - Minghao Luo, Liang Chen"
+  },
+  {
+    "id": "arxiv_1791992071914_4",
     "name": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
     "category": "ai",
     "description": "Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how t...",
@@ -255,7 +255,7 @@
     "source": "arXiv - Xin Gao, Yifan Yang, Xin Li et al."
   },
   {
-    "id": "arxiv_1791974577350_3",
+    "id": "arxiv_1791992071971_3",
     "name": "Hybrid Reasoning Agents",
     "category": "nlp",
     "description": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning off...",
@@ -265,11 +265,11 @@
       "LLM"
     ],
     "date": "2026-10-13T17:59:31Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jiaru Zou, Yunzhe Qi, Sirui Chen et al."
   },
   {
-    "id": "arxiv_1791974577350_4",
+    "id": "arxiv_1791992071971_4",
     "name": "The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Recursive Self-Improvement",
     "category": "nlp",
     "description": "Earth observation (EO) models are still built by hand. For each new task, experts design a training recipe and tune it against a benchmark. We show that this loop can be handed to an agent. Any verifi...",
@@ -278,7 +278,7 @@
       "AI"
     ],
     "date": "2026-10-13T17:57:51Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sijie Zhao, Zeqi Zhou, Heli Qi et al."
   }
 ]
