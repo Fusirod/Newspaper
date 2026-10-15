@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1792046141285_0",
+    "id": "arxiv_1792066334847_0",
     "name": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
     "category": "computer-vision",
     "description": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not e...",
@@ -15,7 +15,7 @@
     "source": "arXiv - Jahyeok Koo, Hyeonseo Yu, Seungho Jang et al."
   },
   {
-    "id": "arxiv_1792046141257_0",
+    "id": "arxiv_1792066334808_0",
     "name": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
     "category": "ai",
     "description": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr...",
@@ -31,7 +31,7 @@
     "source": "arXiv - Huixuan Cheng, Bike Zhang, Shankar Sastry et al."
   },
   {
-    "id": "arxiv_1792046141257_1",
+    "id": "arxiv_1792066334808_1",
     "name": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
     "category": "ai",
     "description": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling be...",
@@ -44,7 +44,7 @@
     "source": "arXiv - Zhefei Gong, Hefeifei Jiang, Zehao Wang et al."
   },
   {
-    "id": "arxiv_1792046141285_1",
+    "id": "arxiv_1792066334847_1",
     "name": "Representation Conditioning for Generation",
     "category": "computer-vision",
     "description": "Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projec...",
@@ -60,7 +60,7 @@
     "source": "arXiv - Saeed Razavi, Xingjian Leng, Liang Zheng"
   },
   {
-    "id": "arxiv_1792046141300_0",
+    "id": "arxiv_1792066334867_0",
     "name": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
     "category": "machine-learning",
     "description": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr...",
@@ -76,7 +76,7 @@
     "source": "arXiv - Huixuan Cheng, Bike Zhang, Shankar Sastry et al."
   },
   {
-    "id": "arxiv_1792046141300_1",
+    "id": "arxiv_1792066334867_1",
     "name": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
     "category": "machine-learning",
     "description": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling be...",
@@ -89,7 +89,7 @@
     "source": "arXiv - Zhefei Gong, Hefeifei Jiang, Zehao Wang et al."
   },
   {
-    "id": "arxiv_1792046141286_2",
+    "id": "arxiv_1792066334847_2",
     "name": "VITAL: From Visual Motion to Precise Action",
     "category": "computer-vision",
     "description": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates de...",
@@ -103,7 +103,7 @@
     "source": "arXiv - Ao Liang, Youquan Liu, Mingxiao Li et al."
   },
   {
-    "id": "arxiv_1792046141286_3",
+    "id": "arxiv_1792066334847_3",
     "name": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
     "category": "computer-vision",
     "description": "We present CommerceGen-Studio, an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs). Our framework is organized along a three-stage pipeline of...",
@@ -115,11 +115,11 @@
       "Optimization"
     ],
     "date": "2026-10-14T17:59:48Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Xiaoli Xu, Zhengtao Wu, Zhengze Xu et al."
   },
   {
-    "id": "arxiv_1792046141286_4",
+    "id": "arxiv_1792066334847_4",
     "name": "DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning",
     "category": "computer-vision",
     "description": "Achieving general spatial intelligence requires a unified understanding of both static 3D and dynamic 4D. However, we find that existing models struggle to excel at both: 3D post-training can weaken d...",
@@ -132,7 +132,7 @@
     "source": "arXiv - Qihang Cao, Haoyuan Li, Zihan Guo et al."
   },
   {
-    "id": "arxiv_1792046141257_2",
+    "id": "arxiv_1792066334808_2",
     "name": "Co-Evolving Acting and Forecasting for Language Agents",
     "category": "ai",
     "description": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision ...",
@@ -147,7 +147,7 @@
     "source": "arXiv - Haofei Yu, Yixing Chen, Yining Zhao et al."
   },
   {
-    "id": "arxiv_1792046141300_2",
+    "id": "arxiv_1792066334867_2",
     "name": "Co-Evolving Acting and Forecasting for Language Agents",
     "category": "machine-learning",
     "description": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision ...",
@@ -162,7 +162,7 @@
     "source": "arXiv - Haofei Yu, Yixing Chen, Yining Zhao et al."
   },
   {
-    "id": "arxiv_1792046141258_3",
+    "id": "arxiv_1792066334808_3",
     "name": "Your Transformer Is Secretly Elastic",
     "category": "ai",
     "description": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),...",
@@ -177,7 +177,7 @@
     "source": "arXiv - Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts et al."
   },
   {
-    "id": "arxiv_1792046141301_3",
+    "id": "arxiv_1792066334868_3",
     "name": "Your Transformer Is Secretly Elastic",
     "category": "machine-learning",
     "description": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),...",
@@ -188,39 +188,39 @@
       "Transformer"
     ],
     "date": "2026-10-14T17:58:08Z",
+    "trending": false,
+    "source": "arXiv - Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts et al."
+  },
+  {
+    "id": "arxiv_1792066334809_4",
+    "name": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+    "category": "ai",
+    "description": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the re...",
+    "link": "http://arxiv.org/abs/2610.20587v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-14T17:57:57Z",
+    "trending": false,
+    "source": "arXiv - Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal et al."
+  },
+  {
+    "id": "arxiv_1792066334868_4",
+    "name": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+    "category": "machine-learning",
+    "description": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the re...",
+    "link": "http://arxiv.org/abs/2610.20587v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-14T17:57:57Z",
     "trending": true,
-    "source": "arXiv - Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts et al."
-  },
-  {
-    "id": "arxiv_1792046141259_4",
-    "name": "Price of Anarchy of First-Price Auctions in Agentic Markets",
-    "category": "ai",
-    "description": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the re...",
-    "link": "http://arxiv.org/abs/2610.20587v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-14T17:57:57Z",
-    "trending": false,
     "source": "arXiv - Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal et al."
   },
   {
-    "id": "arxiv_1792046141301_4",
-    "name": "Price of Anarchy of First-Price Auctions in Agentic Markets",
-    "category": "machine-learning",
-    "description": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the re...",
-    "link": "http://arxiv.org/abs/2610.20587v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-14T17:57:57Z",
-    "trending": false,
-    "source": "arXiv - Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal et al."
-  },
-  {
-    "id": "arxiv_1792046141313_0",
+    "id": "arxiv_1792066334906_0",
     "name": "Latent Compaction with Test-Time Training",
     "category": "nlp",
     "description": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Laten...",
@@ -235,7 +235,7 @@
     "source": "arXiv - Yingfa Chen, Xingyu Shen, Chaojun Xiao et al."
   },
   {
-    "id": "arxiv_1792046141313_1",
+    "id": "arxiv_1792066334906_1",
     "name": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
     "category": "nlp",
     "description": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave ...",
@@ -245,11 +245,11 @@
       "LLM"
     ],
     "date": "2026-10-14T17:56:06Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Artin Tajdini, Manpreet Kaur, Peng Qi"
   },
   {
-    "id": "arxiv_1792046141314_2",
+    "id": "arxiv_1792066334906_2",
     "name": "Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge",
     "category": "nlp",
     "description": "Brazilian Portuguese remains underserved by open-source language models, and the few that are safety-aligned rarely document what did not work or validate comparisons with statistical significance. We...",
@@ -259,11 +259,11 @@
       "LLM"
     ],
     "date": "2026-10-14T17:53:46Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Bruno Leonardo Santos Menezes, Carlos Leonardo Souza Cardoso, Fabio André Machado Porto"
   },
   {
-    "id": "arxiv_1792046141314_3",
+    "id": "arxiv_1792066334907_3",
     "name": "Scaling Discovery Requires Forgetting",
     "category": "nlp",
     "description": "Automated research with LLM agents has shown promising results in various domains. Through iterative refinement and scored verifiers, LLM agents are capable of discovering new ideas. There are differe...",
@@ -274,11 +274,11 @@
       "Optimization"
     ],
     "date": "2026-10-14T17:49:37Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Shangyin Tan, Ben Zhou, Lakshya A Agrawal et al."
   },
   {
-    "id": "arxiv_1792046141314_4",
+    "id": "arxiv_1792066334907_4",
     "name": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
     "category": "nlp",
     "description": "Understanding the social intelligence of large language models (LLMs) is increasingly important for applications involving human-AI interaction and multi-agent environments. Social intelligence compri...",
