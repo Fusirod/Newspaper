@@ -1,284 +1,294 @@
 [
   {
-    "id": "arxiv_1792026051650_0",
-    "name": "ChunkAct: Action Chunking for Agentic Robotics",
+    "id": "arxiv_1792046141285_0",
+    "name": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
+    "category": "computer-vision",
+    "description": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not e...",
+    "link": "http://arxiv.org/abs/2610.20610v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-10-14T17:59:58Z",
+    "trending": false,
+    "source": "arXiv - Jahyeok Koo, Hyeonseo Yu, Seungho Jang et al."
+  },
+  {
+    "id": "arxiv_1792046141257_0",
+    "name": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
     "category": "ai",
-    "description": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th...",
-    "link": "http://arxiv.org/abs/2610.18874v1",
+    "description": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr...",
+    "link": "http://arxiv.org/abs/2610.20606v1",
     "tags": [
       "AI",
-      "Vision",
-      "LLM",
-      "Robotics"
-    ],
-    "date": "2026-10-13T17:59:57Z",
-    "trending": false,
-    "source": "arXiv - Bingxin Xu, Wenrui Bao, Xinxin Liu et al."
-  },
-  {
-    "id": "arxiv_1792026051670_0",
-    "name": "ChunkAct: Action Chunking for Agentic Robotics",
-    "category": "computer-vision",
-    "description": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th...",
-    "link": "http://arxiv.org/abs/2610.18874v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Robotics"
-    ],
-    "date": "2026-10-13T17:59:57Z",
-    "trending": false,
-    "source": "arXiv - Bingxin Xu, Wenrui Bao, Xinxin Liu et al."
-  },
-  {
-    "id": "arxiv_1792026051710_0",
-    "name": "ChunkAct: Action Chunking for Agentic Robotics",
-    "category": "nlp",
-    "description": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th...",
-    "link": "http://arxiv.org/abs/2610.18874v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Robotics"
-    ],
-    "date": "2026-10-13T17:59:57Z",
-    "trending": true,
-    "source": "arXiv - Bingxin Xu, Wenrui Bao, Xinxin Liu et al."
-  },
-  {
-    "id": "arxiv_1792026051670_1",
-    "name": "LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts",
-    "category": "computer-vision",
-    "description": "Scaling expert demonstrations alone does not enable generalist robot policies to improve from deployment. Real-world rollouts contain successes, suboptimal behavior, and failures: imitating every reco...",
-    "link": "http://arxiv.org/abs/2610.18873v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-13T17:59:56Z",
-    "trending": false,
-    "source": "arXiv - Wenxuan Guo, Yingping Liang, Zhaoguo Wang et al."
-  },
-  {
-    "id": "arxiv_1792026051670_2",
-    "name": "EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ",
-    "category": "computer-vision",
-    "description": "Learning humanoid loco-manipulation from human demonstrations rests on observing how locomotion, posture, and object interaction evolve together as tasks unfold. Scaling collection across diverse envi...",
-    "link": "http://arxiv.org/abs/2610.18872v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-13T17:59:55Z",
-    "trending": false,
-    "source": "arXiv - Yunsong Zhou, Xuekun Jiang, Haiqi Shen et al."
-  },
-  {
-    "id": "arxiv_1792026051670_3",
-    "name": "Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs",
-    "category": "computer-vision",
-    "description": "We generally perceive that training text-to-image diffusion models requires heavy compute: it is true if we aim at a comprehensive frontier model. This understanding prevents people from training thei...",
-    "link": "http://arxiv.org/abs/2610.18870v1",
-    "tags": [
-      "AI",
+      "Neural",
       "Transformer",
       "Diffusion"
     ],
-    "date": "2026-10-13T17:59:53Z",
-    "trending": true,
-    "source": "arXiv - Reyhaneh Esmailizadeh, Xingjian Leng, Zhanhao Liang et al."
+    "date": "2026-10-14T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Huixuan Cheng, Bike Zhang, Shankar Sastry et al."
   },
   {
-    "id": "arxiv_1792026051670_4",
-    "name": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
+    "id": "arxiv_1792046141257_1",
+    "name": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+    "category": "ai",
+    "description": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling be...",
+    "link": "http://arxiv.org/abs/2610.20607v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-14T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Zhefei Gong, Hefeifei Jiang, Zehao Wang et al."
+  },
+  {
+    "id": "arxiv_1792046141285_1",
+    "name": "Representation Conditioning for Generation",
     "category": "computer-vision",
-    "description": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension ...",
-    "link": "http://arxiv.org/abs/2610.18871v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-13T17:59:53Z",
-    "trending": false,
-    "source": "arXiv - Chih-Hai Su, Tsung-Wei Ke, Yu-Lun Liu"
-  },
-  {
-    "id": "arxiv_1792026051689_0",
-    "name": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
-    "category": "machine-learning",
-    "description": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension ...",
-    "link": "http://arxiv.org/abs/2610.18871v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-13T17:59:53Z",
-    "trending": false,
-    "source": "arXiv - Chih-Hai Su, Tsung-Wei Ke, Yu-Lun Liu"
-  },
-  {
-    "id": "arxiv_1792026051650_1",
-    "name": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
-    "category": "ai",
-    "description": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across ...",
-    "link": "http://arxiv.org/abs/2610.18869v1",
+    "description": "Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projec...",
+    "link": "http://arxiv.org/abs/2610.20608v1",
     "tags": [
       "AI",
-      "Vision"
-    ],
-    "date": "2026-10-13T17:59:52Z",
-    "trending": false,
-    "source": "arXiv - Mingxuan Yan, Litian Gong, Dihong Huang et al."
-  },
-  {
-    "id": "arxiv_1792026051689_1",
-    "name": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
-    "category": "machine-learning",
-    "description": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across ...",
-    "link": "http://arxiv.org/abs/2610.18869v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-13T17:59:52Z",
-    "trending": false,
-    "source": "arXiv - Mingxuan Yan, Litian Gong, Dihong Huang et al."
-  },
-  {
-    "id": "arxiv_1792026051650_2",
-    "name": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
-    "category": "ai",
-    "description": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur...",
-    "link": "http://arxiv.org/abs/2610.18868v1",
-    "tags": [
-      "AI",
-      "GPT"
-    ],
-    "date": "2026-10-13T17:59:51Z",
-    "trending": true,
-    "source": "arXiv - Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh et al."
-  },
-  {
-    "id": "arxiv_1792026051690_2",
-    "name": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
-    "category": "machine-learning",
-    "description": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur...",
-    "link": "http://arxiv.org/abs/2610.18868v1",
-    "tags": [
-      "AI",
-      "GPT"
-    ],
-    "date": "2026-10-13T17:59:51Z",
-    "trending": false,
-    "source": "arXiv - Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh et al."
-  },
-  {
-    "id": "arxiv_1792026051710_1",
-    "name": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
-    "category": "nlp",
-    "description": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur...",
-    "link": "http://arxiv.org/abs/2610.18868v1",
-    "tags": [
-      "AI",
-      "GPT"
-    ],
-    "date": "2026-10-13T17:59:51Z",
-    "trending": true,
-    "source": "arXiv - Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh et al."
-  },
-  {
-    "id": "arxiv_1792026051690_3",
-    "name": "Data Free Training of Diffusion Models for Lattice Field Theories",
-    "category": "machine-learning",
-    "description": "Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configuration...",
-    "link": "http://arxiv.org/abs/2610.18863v1",
-    "tags": [
-      "AI",
+      "Vision",
+      "Transformer",
       "Diffusion"
     ],
-    "date": "2026-10-13T17:59:33Z",
-    "trending": true,
-    "source": "arXiv - Dennis Grinwald, Ankur Singha, Khaled Kahouli et al."
-  },
-  {
-    "id": "arxiv_1792026051650_3",
-    "name": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
-    "category": "ai",
-    "description": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional traini...",
-    "link": "http://arxiv.org/abs/2610.18862v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-13T17:59:32Z",
+    "date": "2026-10-14T17:59:52Z",
     "trending": false,
-    "source": "arXiv - Minghao Luo, Liang Chen"
+    "source": "arXiv - Saeed Razavi, Xingjian Leng, Liang Zheng"
   },
   {
-    "id": "arxiv_1792026051690_4",
-    "name": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+    "id": "arxiv_1792046141300_0",
+    "name": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
     "category": "machine-learning",
-    "description": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional traini...",
-    "link": "http://arxiv.org/abs/2610.18862v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-13T17:59:32Z",
-    "trending": false,
-    "source": "arXiv - Minghao Luo, Liang Chen"
-  },
-  {
-    "id": "arxiv_1792026051711_2",
-    "name": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
-    "category": "nlp",
-    "description": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional traini...",
-    "link": "http://arxiv.org/abs/2610.18862v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-13T17:59:32Z",
-    "trending": false,
-    "source": "arXiv - Minghao Luo, Liang Chen"
-  },
-  {
-    "id": "arxiv_1792026051650_4",
-    "name": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
-    "category": "ai",
-    "description": "Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how t...",
-    "link": "http://arxiv.org/abs/2610.18860v1",
+    "description": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr...",
+    "link": "http://arxiv.org/abs/2610.20606v1",
     "tags": [
       "AI",
-      "GPT",
-      "Reinforcement Learning"
+      "Neural",
+      "Transformer",
+      "Diffusion"
     ],
-    "date": "2026-10-13T17:59:31Z",
-    "trending": true,
-    "source": "arXiv - Xin Gao, Yifan Yang, Xin Li et al."
+    "date": "2026-10-14T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Huixuan Cheng, Bike Zhang, Shankar Sastry et al."
   },
   {
-    "id": "arxiv_1792026051711_3",
-    "name": "Hybrid Reasoning Agents",
-    "category": "nlp",
-    "description": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning off...",
-    "link": "http://arxiv.org/abs/2610.18861v1",
+    "id": "arxiv_1792046141300_1",
+    "name": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+    "category": "machine-learning",
+    "description": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling be...",
+    "link": "http://arxiv.org/abs/2610.20607v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-14T17:59:52Z",
+    "trending": false,
+    "source": "arXiv - Zhefei Gong, Hefeifei Jiang, Zehao Wang et al."
+  },
+  {
+    "id": "arxiv_1792046141286_2",
+    "name": "VITAL: From Visual Motion to Precise Action",
+    "category": "computer-vision",
+    "description": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates de...",
+    "link": "http://arxiv.org/abs/2610.20604v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-14T17:59:49Z",
+    "trending": false,
+    "source": "arXiv - Ao Liang, Youquan Liu, Mingxiao Li et al."
+  },
+  {
+    "id": "arxiv_1792046141286_3",
+    "name": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
+    "category": "computer-vision",
+    "description": "We present CommerceGen-Studio, an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs). Our framework is organized along a three-stage pipeline of...",
+    "link": "http://arxiv.org/abs/2610.20603v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-10-14T17:59:48Z",
+    "trending": true,
+    "source": "arXiv - Xiaoli Xu, Zhengtao Wu, Zhengze Xu et al."
+  },
+  {
+    "id": "arxiv_1792046141286_4",
+    "name": "DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning",
+    "category": "computer-vision",
+    "description": "Achieving general spatial intelligence requires a unified understanding of both static 3D and dynamic 4D. However, we find that existing models struggle to excel at both: 3D post-training can weaken d...",
+    "link": "http://arxiv.org/abs/2610.20598v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-14T17:59:31Z",
+    "trending": false,
+    "source": "arXiv - Qihang Cao, Haoyuan Li, Zihan Guo et al."
+  },
+  {
+    "id": "arxiv_1792046141257_2",
+    "name": "Co-Evolving Acting and Forecasting for Language Agents",
+    "category": "ai",
+    "description": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision ...",
+    "link": "http://arxiv.org/abs/2610.20597v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-10-14T17:59:28Z",
+    "trending": false,
+    "source": "arXiv - Haofei Yu, Yixing Chen, Yining Zhao et al."
+  },
+  {
+    "id": "arxiv_1792046141300_2",
+    "name": "Co-Evolving Acting and Forecasting for Language Agents",
+    "category": "machine-learning",
+    "description": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision ...",
+    "link": "http://arxiv.org/abs/2610.20597v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-10-14T17:59:28Z",
+    "trending": false,
+    "source": "arXiv - Haofei Yu, Yixing Chen, Yining Zhao et al."
+  },
+  {
+    "id": "arxiv_1792046141258_3",
+    "name": "Your Transformer Is Secretly Elastic",
+    "category": "ai",
+    "description": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),...",
+    "link": "http://arxiv.org/abs/2610.20588v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-10-14T17:58:08Z",
+    "trending": false,
+    "source": "arXiv - Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts et al."
+  },
+  {
+    "id": "arxiv_1792046141301_3",
+    "name": "Your Transformer Is Secretly Elastic",
+    "category": "machine-learning",
+    "description": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),...",
+    "link": "http://arxiv.org/abs/2610.20588v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-10-14T17:58:08Z",
+    "trending": true,
+    "source": "arXiv - Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts et al."
+  },
+  {
+    "id": "arxiv_1792046141259_4",
+    "name": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+    "category": "ai",
+    "description": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the re...",
+    "link": "http://arxiv.org/abs/2610.20587v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-10-13T17:59:31Z",
-    "trending": true,
-    "source": "arXiv - Jiaru Zou, Yunzhe Qi, Sirui Chen et al."
+    "date": "2026-10-14T17:57:57Z",
+    "trending": false,
+    "source": "arXiv - Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal et al."
   },
   {
-    "id": "arxiv_1792026051711_4",
-    "name": "The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Recursive Self-Improvement",
-    "category": "nlp",
-    "description": "Earth observation (EO) models are still built by hand. For each new task, experts design a training recipe and tune it against a benchmark. We show that this loop can be handed to an agent. Any verifi...",
-    "link": "http://arxiv.org/abs/2610.18845v1",
+    "id": "arxiv_1792046141301_4",
+    "name": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+    "category": "machine-learning",
+    "description": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the re...",
+    "link": "http://arxiv.org/abs/2610.20587v1",
     "tags": [
-      "AI"
+      "AI",
+      "LLM"
     ],
-    "date": "2026-10-13T17:57:51Z",
+    "date": "2026-10-14T17:57:57Z",
     "trending": false,
-    "source": "arXiv - Sijie Zhao, Zeqi Zhou, Heli Qi et al."
+    "source": "arXiv - Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal et al."
+  },
+  {
+    "id": "arxiv_1792046141313_0",
+    "name": "Latent Compaction with Test-Time Training",
+    "category": "nlp",
+    "description": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Laten...",
+    "link": "http://arxiv.org/abs/2610.20582v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "NLP"
+    ],
+    "date": "2026-10-14T17:57:01Z",
+    "trending": false,
+    "source": "arXiv - Yingfa Chen, Xingyu Shen, Chaojun Xiao et al."
+  },
+  {
+    "id": "arxiv_1792046141313_1",
+    "name": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+    "category": "nlp",
+    "description": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave ...",
+    "link": "http://arxiv.org/abs/2610.20576v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-14T17:56:06Z",
+    "trending": true,
+    "source": "arXiv - Artin Tajdini, Manpreet Kaur, Peng Qi"
+  },
+  {
+    "id": "arxiv_1792046141314_2",
+    "name": "Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge",
+    "category": "nlp",
+    "description": "Brazilian Portuguese remains underserved by open-source language models, and the few that are safety-aligned rarely document what did not work or validate comparisons with statistical significance. We...",
+    "link": "http://arxiv.org/abs/2610.20570v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-14T17:53:46Z",
+    "trending": false,
+    "source": "arXiv - Bruno Leonardo Santos Menezes, Carlos Leonardo Souza Cardoso, Fabio André Machado Porto"
+  },
+  {
+    "id": "arxiv_1792046141314_3",
+    "name": "Scaling Discovery Requires Forgetting",
+    "category": "nlp",
+    "description": "Automated research with LLM agents has shown promising results in various domains. Through iterative refinement and scored verifiers, LLM agents are capable of discovering new ideas. There are differe...",
+    "link": "http://arxiv.org/abs/2610.20563v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-10-14T17:49:37Z",
+    "trending": true,
+    "source": "arXiv - Shangyin Tan, Ben Zhou, Lakshya A Agrawal et al."
+  },
+  {
+    "id": "arxiv_1792046141314_4",
+    "name": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
+    "category": "nlp",
+    "description": "Understanding the social intelligence of large language models (LLMs) is increasingly important for applications involving human-AI interaction and multi-agent environments. Social intelligence compri...",
+    "link": "http://arxiv.org/abs/2610.20548v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-14T17:39:35Z",
+    "trending": false,
+    "source": "arXiv - Ali Zamani, Soroush Esfahanian, Erfan Shahabi et al."
   }
 ]
