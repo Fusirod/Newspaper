@@ -1,6 +1,77 @@
 [
   {
-    "id": "rss_Ars_Technica_1792166194578_0",
+    "id": "rss_TechCrunch_1792177742412_0",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 16 Oct 2026 17:52:24 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1792177746065_0",
+    "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        FDA scientists said none of the popular drugs have been proven safe or effective.\n                    ",
+    "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Fri, 16 Oct 2026 17:05:59 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1792177742412_1",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho",
+    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "tags": [
+      "NVIDIA",
+      "ChatGPT",
+      "GPT",
+      "Robot"
+    ],
+    "date": "Fri, 16 Oct 2026 16:30:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1792177742413_2",
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho",
+    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "tags": [
+      "AI",
+      "NVIDIA",
+      "Robot"
+    ],
+    "date": "Fri, 16 Oct 2026 16:30:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1792177742413_3",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks. ",
+    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "tags": [
+      "AI",
+      "GPT"
+    ],
+    "date": "Fri, 16 Oct 2026 16:01:37 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1792177746065_1",
     "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,10 +82,10 @@
       "Meta"
     ],
     "date": "Fri, 16 Oct 2026 15:41:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_TechCrunch_1792166191248_0",
+    "id": "rss_TechCrunch_1792177742413_4",
     "title": "Jev is Vercel’s fastest-adopted AI model ever",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -27,7 +98,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1792166195648_0",
+    "id": "rss_Wired_1792177747163_0",
     "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
     "category": "ai-news",
     "source": "Wired",
@@ -40,20 +111,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1792166191249_1",
-    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\" ",
-    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 16 Oct 2026 14:26:51 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1792166194578_1",
+    "id": "rss_Ars_Technica_1792177746065_2",
     "title": "Polymarket saw $600 million in election trades after the elections were over",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -64,7 +122,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1792166194578_2",
+    "id": "rss_Ars_Technica_1792177746065_3",
     "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -77,7 +135,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1792166194578_3",
+    "id": "rss_Ars_Technica_1792177746065_4",
     "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -85,37 +143,10 @@
     "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
     "tags": [],
     "date": "Fri, 16 Oct 2026 14:00:59 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1792166191249_2",
-    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-    "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-    "tags": [
-      "Startup"
-    ],
-    "date": "Fri, 16 Oct 2026 14:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1792166191249_3",
-    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "Fri, 16 Oct 2026 12:55:09 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1792166193358_0",
+    "id": "rss_MIT_Tech_Review_1792177744650_0",
     "title": "The Download: failed social media bans, and extending pets’ lives",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -128,21 +159,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1792166194578_4",
-    "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.\n                    ",
-    "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
-    "tags": [
-      "AI",
-      "Microsoft"
-    ],
-    "date": "Fri, 16 Oct 2026 12:00:05 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1792166195648_1",
+    "id": "rss_Wired_1792177747163_1",
     "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
     "category": "ai-news",
     "source": "Wired",
@@ -155,21 +172,21 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1792166193358_1",
+    "id": "rss_MIT_Tech_Review_1792177744650_1",
     "title": "This implant can restore sight for patients with macular degeneration",
     "category": "ai-news",
     "source": "MIT Tech Review",
-    "description": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-",
+    "description": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-",
     "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
     "tags": [
       "AI",
       "Vision"
     ],
     "date": "Fri, 16 Oct 2026 09:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1792166193358_2",
+    "id": "rss_MIT_Tech_Review_1792177744650_2",
     "title": "Love is infrastructure",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -182,7 +199,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1792166193359_3",
+    "id": "rss_MIT_Tech_Review_1792177744650_3",
     "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -193,7 +210,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1792166193359_4",
+    "id": "rss_MIT_Tech_Review_1792177744650_4",
     "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -203,23 +220,10 @@
       "AI"
     ],
     "date": "Fri, 16 Oct 2026 07:56:32 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1792166191249_4",
-    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Thu, 15 Oct 2026 23:44:56 +0000",
     "trending": false
   },
   {
-    "id": "rss_Wired_1792166195648_2",
+    "id": "rss_Wired_1792177747163_2",
     "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
     "category": "ai-news",
     "source": "Wired",
@@ -233,7 +237,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1792166195648_3",
+    "id": "rss_Wired_1792177747163_3",
     "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
     "category": "ai-news",
     "source": "Wired",
@@ -246,7 +250,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1792166195648_4",
+    "id": "rss_Wired_1792177747163_4",
     "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
     "category": "ai-news",
     "source": "Wired",
@@ -259,7 +263,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1792166203576_0",
+    "id": "rss_Distill_1792177755712_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -272,7 +276,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1792166203577_1",
+    "id": "rss_Distill_1792177755712_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -285,7 +289,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1792166203577_2",
+    "id": "rss_Distill_1792177755712_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -296,7 +300,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1792166203577_3",
+    "id": "rss_Distill_1792177755712_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -306,10 +310,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1792166203577_4",
+    "id": "rss_Distill_1792177755712_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
