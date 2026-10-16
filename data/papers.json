@@ -1,294 +1,280 @@
 [
   {
-    "id": "arxiv_1792106470007_0",
-    "name": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
-    "category": "computer-vision",
-    "description": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not e...",
-    "link": "http://arxiv.org/abs/2610.20610v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer"
-    ],
-    "date": "2026-10-14T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Jahyeok Koo, Hyeonseo Yu, Seungho Jang et al."
-  },
-  {
-    "id": "arxiv_1792106469976_0",
-    "name": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+    "id": "arxiv_1792115554338_0",
+    "name": "Qwen-Audio-Jev: A Unified Interface for Audio Decisions",
     "category": "ai",
-    "description": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr...",
-    "link": "http://arxiv.org/abs/2610.20606v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-10-14T17:59:52Z",
-    "trending": true,
-    "source": "arXiv - Huixuan Cheng, Bike Zhang, Shankar Sastry et al."
-  },
-  {
-    "id": "arxiv_1792106469976_1",
-    "name": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
-    "category": "ai",
-    "description": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling be...",
-    "link": "http://arxiv.org/abs/2610.20607v1",
+    "description": "Large audio language models (LALMs) have made substantial progress in audio understanding. However, in high-throughput applications requiring frequent selection, judgment, and scoring, autoregressive ...",
+    "link": "http://arxiv.org/abs/2610.21614v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-14T17:59:52Z",
-    "trending": true,
-    "source": "arXiv - Zhefei Gong, Hefeifei Jiang, Zehao Wang et al."
-  },
-  {
-    "id": "arxiv_1792106470007_1",
-    "name": "Representation Conditioning for Generation",
-    "category": "computer-vision",
-    "description": "Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projec...",
-    "link": "http://arxiv.org/abs/2610.20608v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-10-14T17:59:52Z",
-    "trending": true,
-    "source": "arXiv - Saeed Razavi, Xingjian Leng, Liang Zheng"
-  },
-  {
-    "id": "arxiv_1792106470039_0",
-    "name": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
-    "category": "machine-learning",
-    "description": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr...",
-    "link": "http://arxiv.org/abs/2610.20606v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-10-14T17:59:52Z",
-    "trending": true,
-    "source": "arXiv - Huixuan Cheng, Bike Zhang, Shankar Sastry et al."
-  },
-  {
-    "id": "arxiv_1792106470040_1",
-    "name": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
-    "category": "machine-learning",
-    "description": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling be...",
-    "link": "http://arxiv.org/abs/2610.20607v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-14T17:59:52Z",
+    "date": "2026-10-15T09:59:07Z",
     "trending": false,
-    "source": "arXiv - Zhefei Gong, Hefeifei Jiang, Zehao Wang et al."
+    "source": "arXiv - Ying Fang, Zhifu Gao, Qing Gu et al."
   },
   {
-    "id": "arxiv_1792106470007_2",
-    "name": "VITAL: From Visual Motion to Precise Action",
-    "category": "computer-vision",
-    "description": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates de...",
-    "link": "http://arxiv.org/abs/2610.20604v1",
+    "id": "arxiv_1792115554339_1",
+    "name": "Learning Intrinsic Dynamics in Latent World Models",
+    "category": "ai",
+    "description": "Learning intrinsic dynamics---the relationship between actions and their consequences---is essential for world models. However, visual variations unrelated to the underlying control process can obscur...",
+    "link": "http://arxiv.org/abs/2610.21612v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-10-14T17:59:49Z",
-    "trending": true,
-    "source": "arXiv - Ao Liang, Youquan Liu, Mingxiao Li et al."
+    "date": "2026-10-15T09:57:14Z",
+    "trending": false,
+    "source": "arXiv - Jiamin Shi, Yuanhong Zhang, Zhiyang Liu et al."
   },
   {
-    "id": "arxiv_1792106470007_3",
-    "name": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
-    "category": "computer-vision",
-    "description": "We present CommerceGen-Studio, an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs). Our framework is organized along a three-stage pipeline of...",
-    "link": "http://arxiv.org/abs/2610.20603v1",
+    "id": "arxiv_1792115554373_0",
+    "name": "Market Incentives for AI Safety Investment",
+    "category": "machine-learning",
+    "description": "Despite their practical significance, modern AI systems pose significant societal risks, including toxicity, malicious use, and misinformation. Their mitigation depends not only on technical feasibili...",
+    "link": "http://arxiv.org/abs/2610.21607v1",
     "tags": [
       "AI",
-      "GAN",
-      "LLM",
-      "Optimization"
+      "LLM"
     ],
-    "date": "2026-10-14T17:59:48Z",
+    "date": "2026-10-15T09:55:54Z",
     "trending": false,
-    "source": "arXiv - Xiaoli Xu, Zhengtao Wu, Zhengze Xu et al."
+    "source": "arXiv - Nikita Tsoy"
   },
   {
-    "id": "arxiv_1792106470007_4",
-    "name": "DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning",
+    "id": "arxiv_1792115554339_2",
+    "name": "Evaluating Inquiry Learning in LLM-Based Agents: Hypothesizing, Reasoning, and Exploration",
+    "category": "ai",
+    "description": "Scientific inquiry involves iterative cycles of exploration, hypothesis generation, and reasoning over observations to uncover relationships in complex systems. Large language models (LLMs) have demon...",
+    "link": "http://arxiv.org/abs/2610.21604v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-15T09:52:14Z",
+    "trending": false,
+    "source": "arXiv - Marta Knežević, Seyed Parsa Neshaei, Jibril Frej et al."
+  },
+  {
+    "id": "arxiv_1792115554374_1",
+    "name": "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation",
+    "category": "machine-learning",
+    "description": "Policy-shift distillation reuses the difference between a teacher's log probabilities before and after reinforcement learning (RL) as supervision on student-generated trajectories. However, this endpo...",
+    "link": "http://arxiv.org/abs/2610.21601v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-10-15T09:47:19Z",
+    "trending": false,
+    "source": "arXiv - Bingxi Hou, Guochao Jiang, Guofeng Quan et al."
+  },
+  {
+    "id": "arxiv_1792115554400_0",
+    "name": "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation",
+    "category": "nlp",
+    "description": "Policy-shift distillation reuses the difference between a teacher's log probabilities before and after reinforcement learning (RL) as supervision on student-generated trajectories. However, this endpo...",
+    "link": "http://arxiv.org/abs/2610.21601v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-10-15T09:47:19Z",
+    "trending": false,
+    "source": "arXiv - Bingxi Hou, Guochao Jiang, Guofeng Quan et al."
+  },
+  {
+    "id": "arxiv_1792115554339_3",
+    "name": "Decoding What iOS Location Services Send to Apple: An LLM Is an Unreliable Analyst but a Useful Toolmaker",
+    "category": "ai",
+    "description": "Reverse engineering the data formats used by mobile software is skilled and slow, and using AI to assist with it is attractive. We evaluate this for the protobuf messages that an iPhone sends to Apple...",
+    "link": "http://arxiv.org/abs/2610.21597v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "GPT"
+    ],
+    "date": "2026-10-15T09:43:26Z",
+    "trending": false,
+    "source": "arXiv - Douglas Leith"
+  },
+  {
+    "id": "arxiv_1792115554339_4",
+    "name": "LoopAhead: Speculating Ahead for Faster Decoding in Looped Language Models",
+    "category": "ai",
+    "description": "Looped Transformers improve parameter efficiency by repeatedly applying the same Transformer layers. However, generating each token still involves sequential computation and repeated access to model w...",
+    "link": "http://arxiv.org/abs/2610.21594v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-10-15T09:38:11Z",
+    "trending": false,
+    "source": "arXiv - Zixuan Liu, Nan Xue, Rui Bao et al."
+  },
+  {
+    "id": "arxiv_1792115554374_2",
+    "name": "LoopAhead: Speculating Ahead for Faster Decoding in Looped Language Models",
+    "category": "machine-learning",
+    "description": "Looped Transformers improve parameter efficiency by repeatedly applying the same Transformer layers. However, generating each token still involves sequential computation and repeated access to model w...",
+    "link": "http://arxiv.org/abs/2610.21594v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-10-15T09:38:11Z",
+    "trending": false,
+    "source": "arXiv - Zixuan Liu, Nan Xue, Rui Bao et al."
+  },
+  {
+    "id": "arxiv_1792115554358_0",
+    "name": "Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs",
     "category": "computer-vision",
-    "description": "Achieving general spatial intelligence requires a unified understanding of both static 3D and dynamic 4D. However, we find that existing models struggle to excel at both: 3D post-training can weaken d...",
-    "link": "http://arxiv.org/abs/2610.20598v1",
+    "description": "Audio-visual large language models (AV-LLMs) have made strong progress in multimodal understanding, yet most treat audio as monaural semantic content, limiting their ability to reason about where soun...",
+    "link": "http://arxiv.org/abs/2610.21588v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM"
+    ],
+    "date": "2026-10-15T09:34:05Z",
+    "trending": false,
+    "source": "arXiv - Kim Sung-Bin, Lee Jung-Mok, Jinwoo Jung et al."
+  },
+  {
+    "id": "arxiv_1792115554374_3",
+    "name": "Transfer Learning in Bandits from Unknown Adaptive Policies: Problem-Dependent Lower and Upper Bounds",
+    "category": "machine-learning",
+    "description": "Transfer learning in stochastic multi-armed bandits is typically studied assuming that prior data forms a fixed offline dataset or is generated by a known source. In practice, historical observations ...",
+    "link": "http://arxiv.org/abs/2610.21582v1",
+    "tags": [],
+    "date": "2026-10-15T09:30:13Z",
+    "trending": false,
+    "source": "arXiv - Adrien Prevost, Timothee Mathieu, Waris Radji et al."
+  },
+  {
+    "id": "arxiv_1792115554374_4",
+    "name": "ClaimScope: Label-Blind Witness Verification for Mathematical Claim Auditing",
+    "category": "machine-learning",
+    "description": "Mathematical agents are commonly evaluated by answer accuracy or proof acceptance. We introduce ClaimScope, a 72-task benchmark for auditing proposed claims through a verdict, scope, counterexample, a...",
+    "link": "http://arxiv.org/abs/2610.21581v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-14T17:59:31Z",
-    "trending": false,
-    "source": "arXiv - Qihang Cao, Haoyuan Li, Zihan Guo et al."
-  },
-  {
-    "id": "arxiv_1792106469977_2",
-    "name": "Co-Evolving Acting and Forecasting for Language Agents",
-    "category": "ai",
-    "description": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision ...",
-    "link": "http://arxiv.org/abs/2610.20597v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-10-14T17:59:28Z",
-    "trending": false,
-    "source": "arXiv - Haofei Yu, Yixing Chen, Yining Zhao et al."
-  },
-  {
-    "id": "arxiv_1792106470040_2",
-    "name": "Co-Evolving Acting and Forecasting for Language Agents",
-    "category": "machine-learning",
-    "description": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision ...",
-    "link": "http://arxiv.org/abs/2610.20597v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-10-14T17:59:28Z",
-    "trending": false,
-    "source": "arXiv - Haofei Yu, Yixing Chen, Yining Zhao et al."
-  },
-  {
-    "id": "arxiv_1792106469977_3",
-    "name": "Your Transformer Is Secretly Elastic",
-    "category": "ai",
-    "description": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),...",
-    "link": "http://arxiv.org/abs/2610.20588v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer"
-    ],
-    "date": "2026-10-14T17:58:08Z",
-    "trending": false,
-    "source": "arXiv - Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts et al."
-  },
-  {
-    "id": "arxiv_1792106470040_3",
-    "name": "Your Transformer Is Secretly Elastic",
-    "category": "machine-learning",
-    "description": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),...",
-    "link": "http://arxiv.org/abs/2610.20588v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer"
-    ],
-    "date": "2026-10-14T17:58:08Z",
-    "trending": false,
-    "source": "arXiv - Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts et al."
-  },
-  {
-    "id": "arxiv_1792106469977_4",
-    "name": "Price of Anarchy of First-Price Auctions in Agentic Markets",
-    "category": "ai",
-    "description": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the re...",
-    "link": "http://arxiv.org/abs/2610.20587v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-14T17:57:57Z",
+    "date": "2026-10-15T09:29:02Z",
     "trending": true,
-    "source": "arXiv - Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal et al."
+    "source": "arXiv - Mushir Akhtar"
   },
   {
-    "id": "arxiv_1792106470040_4",
-    "name": "Price of Anarchy of First-Price Auctions in Agentic Markets",
-    "category": "machine-learning",
-    "description": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the re...",
-    "link": "http://arxiv.org/abs/2610.20587v1",
+    "id": "arxiv_1792115554358_1",
+    "name": "MYOPIA: Understanding the Limits of Tree-Based Reasoning in Vision-Language Models",
+    "category": "computer-vision",
+    "description": "Decision trees can make vision-language model (VLM) classification interpretable by replacing a single prediction with a sequence of root-to-leaf questions. However, the accuracy cost of this greedy, ...",
+    "link": "http://arxiv.org/abs/2610.21573v1",
     "tags": [
       "AI",
-      "LLM"
-    ],
-    "date": "2026-10-14T17:57:57Z",
-    "trending": false,
-    "source": "arXiv - Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal et al."
-  },
-  {
-    "id": "arxiv_1792106470075_0",
-    "name": "Latent Compaction with Test-Time Training",
-    "category": "nlp",
-    "description": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Laten...",
-    "link": "http://arxiv.org/abs/2610.20582v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "NLP"
-    ],
-    "date": "2026-10-14T17:57:01Z",
-    "trending": false,
-    "source": "arXiv - Yingfa Chen, Xingyu Shen, Chaojun Xiao et al."
-  },
-  {
-    "id": "arxiv_1792106470075_1",
-    "name": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
-    "category": "nlp",
-    "description": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave ...",
-    "link": "http://arxiv.org/abs/2610.20576v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-14T17:56:06Z",
-    "trending": false,
-    "source": "arXiv - Artin Tajdini, Manpreet Kaur, Peng Qi"
-  },
-  {
-    "id": "arxiv_1792106470075_2",
-    "name": "Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge",
-    "category": "nlp",
-    "description": "Brazilian Portuguese remains underserved by open-source language models, and the few that are safety-aligned rarely document what did not work or validate comparisons with statistical significance. We...",
-    "link": "http://arxiv.org/abs/2610.20570v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-14T17:53:46Z",
-    "trending": false,
-    "source": "arXiv - Bruno Leonardo Santos Menezes, Carlos Leonardo Souza Cardoso, Fabio André Machado Porto"
-  },
-  {
-    "id": "arxiv_1792106470075_3",
-    "name": "Scaling Discovery Requires Forgetting",
-    "category": "nlp",
-    "description": "Automated research with LLM agents has shown promising results in various domains. Through iterative refinement and scored verifiers, LLM agents are capable of discovering new ideas. There are differe...",
-    "link": "http://arxiv.org/abs/2610.20563v1",
-    "tags": [
-      "AI",
+      "Vision",
       "LLM",
-      "Optimization"
+      "GPT"
     ],
-    "date": "2026-10-14T17:49:37Z",
-    "trending": true,
-    "source": "arXiv - Shangyin Tan, Ben Zhou, Lakshya A Agrawal et al."
+    "date": "2026-10-15T09:25:10Z",
+    "trending": false,
+    "source": "arXiv - Islam Mesabah, Sary Elmansoury, Gerrit Großmann et al."
   },
   {
-    "id": "arxiv_1792106470075_4",
-    "name": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
+    "id": "arxiv_1792115554400_1",
+    "name": "Rethinking the Role of Tool Graph Memory in Multi-Turn Tool Use",
     "category": "nlp",
-    "description": "Understanding the social intelligence of large language models (LLMs) is increasingly important for applications involving human-AI interaction and multi-agent environments. Social intelligence compri...",
-    "link": "http://arxiv.org/abs/2610.20548v1",
+    "description": "Large language model (LLM) agents solve complex tasks by calling external tools over multiple turns. Recent work has proposed tool graph memory, which stores past experience as tool transitions to gui...",
+    "link": "http://arxiv.org/abs/2610.21571v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-10-14T17:39:35Z",
+    "date": "2026-10-15T09:24:30Z",
+    "trending": true,
+    "source": "arXiv - Uiji Hwang, Richeng Xuan, Taeuk Kim"
+  },
+  {
+    "id": "arxiv_1792115554359_2",
+    "name": "Decoupled Safety Control: A Safety-Control Algorithm for Training-Free Safety Guidance",
+    "category": "computer-vision",
+    "description": "Diffusion models achieve strong performance in text-to-image generation, but they can still produce unsafe content. Training-free safety guidance offers a practical inference-time alternative that int...",
+    "link": "http://arxiv.org/abs/2610.21569v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-10-15T09:24:00Z",
     "trending": false,
-    "source": "arXiv - Ali Zamani, Soroush Esfahanian, Erfan Shahabi et al."
+    "source": "arXiv - Huilin Zhou, Ruoxi Cheng, Yuhang Wang et al."
+  },
+  {
+    "id": "arxiv_1792115554401_2",
+    "name": "DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents",
+    "category": "nlp",
+    "description": "Large language models (LLMs) deployed as conversational agents are increasingly expected to follow procedural logic. While factual hallucination has received extensive attention, a different failure m...",
+    "link": "http://arxiv.org/abs/2610.21561v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-15T09:18:32Z",
+    "trending": false,
+    "source": "arXiv - Sergio Burdisso, Esaú Villatoro-Tello, Dairazalia Sánchez-Cortés et al."
+  },
+  {
+    "id": "arxiv_1792115554401_3",
+    "name": "Writability and the Pathway: A Controlled Study of Knowledge Injection into Addressed Memory",
+    "category": "nlp",
+    "description": "Addressed conditional memory provides a local surface for post-hoc knowledge injection, but a successful write need not transfer to a new question or preserve untargeted behavior. This study combines ...",
+    "link": "http://arxiv.org/abs/2610.21553v1",
+    "tags": [
+      "AI",
+      "GPT"
+    ],
+    "date": "2026-10-15T09:14:29Z",
+    "trending": false,
+    "source": "arXiv - Wei Gao, Cheng Tian, Duan Yang et al."
+  },
+  {
+    "id": "arxiv_1792115554359_3",
+    "name": "Rethinking Classifier-Free Guidance for TI2I Flow Matching",
+    "category": "computer-vision",
+    "description": "We study Text-and-Image-to-Image (TI2I) flow matching methods for controllable image editing. In a broader generative modeling context, Classifier-Free Guidance (CFG) is established as a key component...",
+    "link": "http://arxiv.org/abs/2610.21550v1",
+    "tags": [],
+    "date": "2026-10-15T09:13:23Z",
+    "trending": true,
+    "source": "arXiv - Andreas Floros, Elena Koritska, Teofilo de Campos et al."
+  },
+  {
+    "id": "arxiv_1792115554401_4",
+    "name": "SCRIBE: Scalable Contextual Representations of Interpretable Brain-Grounded Semantics",
+    "category": "nlp",
+    "description": "Understanding how the human brain constructs meaning from real-world language remains a fundamental challenge, as semantics depend on context that varies in natural settings. To enable the study of re...",
+    "link": "http://arxiv.org/abs/2610.21518v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-10-15T08:51:15Z",
+    "trending": true,
+    "source": "arXiv - Camila Kolling, Omer Moussa, Emin Çelik et al."
+  },
+  {
+    "id": "arxiv_1792115554359_4",
+    "name": "FilterFusion: Prior-Guided Adaptive Filter Fusion for Efficient Video Denoising",
+    "category": "computer-vision",
+    "description": "Real-world video denoising for communication systems must handle mixed degradations such as sensor noise, compression artifacts, and motion-induced inconsistency while remaining deployable under tight...",
+    "link": "http://arxiv.org/abs/2610.21505v1",
+    "tags": [
+      "AI",
+      "CNN"
+    ],
+    "date": "2026-10-15T08:41:17Z",
+    "trending": false,
+    "source": "arXiv - Wenlong Yang, Weihang Yuan, Canran Jin et al."
   }
 ]
