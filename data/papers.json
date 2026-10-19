@@ -1,292 +1,285 @@
 [
   {
-    "id": "arxiv_1792375352284_0",
-    "name": "Language Models Learn to Improve Language Models",
-    "category": "ai",
-    "description": "Large language models (LLMs) are increasingly used to automate AI research, including language-model (LM) development, offering a potential path toward recursive self-improvement. However, turning exp...",
-    "link": "http://arxiv.org/abs/2610.23344v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT",
-      "Diffusion"
-    ],
-    "date": "2026-10-16T11:51:00Z",
-    "trending": false,
-    "source": "arXiv - Minhua Lin, Zijun Wang, Zewen Liu et al."
-  },
-  {
-    "id": "arxiv_1792375352364_0",
-    "name": "Language Models Learn to Improve Language Models",
-    "category": "nlp",
-    "description": "Large language models (LLMs) are increasingly used to automate AI research, including language-model (LM) development, offering a potential path toward recursive self-improvement. However, turning exp...",
-    "link": "http://arxiv.org/abs/2610.23344v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT",
-      "Diffusion"
-    ],
-    "date": "2026-10-16T11:51:00Z",
-    "trending": false,
-    "source": "arXiv - Minhua Lin, Zijun Wang, Zewen Liu et al."
-  },
-  {
-    "id": "arxiv_1792375352359_0",
-    "name": "How Finite-Rank Bottlenecks Shape the Low-Rank Adaptation Landscape",
-    "category": "machine-learning",
-    "description": "Low-rank adaptation (LoRA) has become the standard method for parameter-efficient fine-tuning of large pretrained models, yet theoretical explanations for why low-rank updates suffice remain incomplet...",
-    "link": "http://arxiv.org/abs/2610.23343v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-10-16T11:50:01Z",
-    "trending": false,
-    "source": "arXiv - Long Nguyen-Chi, Quynh Nguyen, Thanh Nguyen-Cung et al."
-  },
-  {
-    "id": "arxiv_1792375352284_1",
-    "name": "Robust Function Calling for LLM Agents Under Interface Drift",
-    "category": "ai",
-    "description": "Tool-augmented language-model agents rely on interface text: tool descriptions, argument schemas, and the candidate tool list shown at inference time. These interfaces often change after deployment ev...",
-    "link": "http://arxiv.org/abs/2610.23342v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-16T11:49:37Z",
-    "trending": false,
-    "source": "arXiv - Aniruddha Chattopadhyay, Kanishka Halder, Partha Sarathi Roy"
-  },
-  {
-    "id": "arxiv_1792375352365_1",
-    "name": "Robust Function Calling for LLM Agents Under Interface Drift",
-    "category": "nlp",
-    "description": "Tool-augmented language-model agents rely on interface text: tool descriptions, argument schemas, and the candidate tool list shown at inference time. These interfaces often change after deployment ev...",
-    "link": "http://arxiv.org/abs/2610.23342v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-16T11:49:37Z",
-    "trending": true,
-    "source": "arXiv - Aniruddha Chattopadhyay, Kanishka Halder, Partha Sarathi Roy"
-  },
-  {
-    "id": "arxiv_1792375352359_1",
-    "name": "SETAREH Transform: A Sorting-Assisted Haar-Wavelet Sparsification Method for Approximate Inner-Product Computation",
-    "category": "machine-learning",
-    "description": "Modern deep learning systems increasingly rely on high-dimensional vector operations, in which large input and parameter vectors are repeatedly stored, transferred, and processed. Although substantial...",
-    "link": "http://arxiv.org/abs/2610.23338v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Deep Learning"
-    ],
-    "date": "2026-10-16T11:42:29Z",
-    "trending": true,
-    "source": "arXiv - Seyed Kamaledin Setarehdan"
-  },
-  {
-    "id": "arxiv_1792375352359_2",
-    "name": "Minimax-optimal Scaling Laws in Ridge Regression via Transfer Learning",
-    "category": "machine-learning",
-    "description": "Pretrained models are often reused across downstream tasks, motivating the question of whether this transfer learning procedure can provide a substantial performance improvement, namely, in terms of t...",
-    "link": "http://arxiv.org/abs/2610.23337v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-16T11:41:22Z",
-    "trending": false,
-    "source": "arXiv - Yalda Shabanzadeh, Diyuan Wu, Marco Mondelli"
-  },
-  {
-    "id": "arxiv_1792375352359_3",
-    "name": "HiPredict: Predicting the missing HiRISE RED4 spectral channel with machine learning",
-    "category": "machine-learning",
-    "description": "The High Resolution Imaging Science Experiment (HiRISE) onboard the Mars Reconnaissance Orbiter (MRO) acquires imagery of Mars at 25--30 cm/pixel, supporting studies of martian geology, climate histor...",
-    "link": "http://arxiv.org/abs/2610.23335v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "GAN"
-    ],
-    "date": "2026-10-16T11:40:11Z",
-    "trending": false,
-    "source": "arXiv - Ardan Suphi, Ben Moseley, Gareth S Collins et al."
-  },
-  {
-    "id": "arxiv_1792375352360_4",
-    "name": "Peak-Memory Schedules You Can Trust: Exact Realization, Certified Optimality, and the Limits of Recomputation for Inference",
-    "category": "machine-learning",
-    "description": "Real-time inference on small devices needs low activation memory without extra latency, which makes operator order the most valuable memory lever: it is free in time. We show that the usual way of dep...",
-    "link": "http://arxiv.org/abs/2610.23328v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-16T11:31:09Z",
-    "trending": false,
-    "source": "arXiv - Ivan Fomin, Ivan Koryabkin, Boris Sheludko"
-  },
-  {
-    "id": "arxiv_1792375352353_0",
-    "name": "TransNSNet: A Transformer-Enhanced Multi-Scale Adversarial Framework for CT-to-PET Image Synthesis",
+    "id": "arxiv_1792397356778_0",
+    "name": "Learning to Correct Geometry in Generated Videos",
     "category": "computer-vision",
-    "description": "This study investigates CT-to-PET image synthesis using TransNSNet, a Transformer-enhanced multi-scale adversarial framework. A paired CT-PET dataset was curated from the public non-small cell lung ca...",
-    "link": "http://arxiv.org/abs/2610.23325v1",
+    "description": "Generated videos often lose geometric consistency under camera motion: structures warp under viewpoint change, parallax becomes inconsistent, and smooth camera movement may collapse into shot-like tra...",
+    "link": "http://arxiv.org/abs/2610.23856v1",
     "tags": [
       "AI",
-      "Vision",
+      "Vision"
+    ],
+    "date": "2026-10-16T17:59:55Z",
+    "trending": false,
+    "source": "arXiv - Weijie Lyu, Tiancheng Shen, Jason Li et al."
+  },
+  {
+    "id": "arxiv_1792397356623_0",
+    "name": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+    "category": "ai",
+    "description": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla...",
+    "link": "http://arxiv.org/abs/2610.23854v1",
+    "tags": [
+      "AI",
       "Transformer",
-      "GAN"
+      "Diffusion"
     ],
-    "date": "2026-10-16T11:28:54Z",
+    "date": "2026-10-16T17:59:30Z",
     "trending": true,
-    "source": "arXiv - Shaojun Li, Xiaoyu Deng, Ikuo Keshi"
+    "source": "arXiv - Soumik Mukhopadhyay, Long Mai, Abhinav Shrivastava et al."
   },
   {
-    "id": "arxiv_1792375352353_1",
-    "name": "CatchUp: Depth-Aware Re-Admission of Visual Tokens for Efficient Large Vision-Language Models",
+    "id": "arxiv_1792397356778_1",
+    "name": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
     "category": "computer-vision",
-    "description": "Large Vision-Language Models (LVLMs) repeatedly process hundreds of visual tokens across decoder layers, incurring substantial computation and memory costs. Existing inference-time visual token prunin...",
-    "link": "http://arxiv.org/abs/2610.23324v1",
+    "description": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla...",
+    "link": "http://arxiv.org/abs/2610.23854v1",
     "tags": [
       "AI",
-      "Vision"
+      "Transformer",
+      "Diffusion"
     ],
-    "date": "2026-10-16T11:28:46Z",
-    "trending": false,
-    "source": "arXiv - Eunju Park, Uiwon Hwang"
+    "date": "2026-10-16T17:59:30Z",
+    "trending": true,
+    "source": "arXiv - Soumik Mukhopadhyay, Long Mai, Abhinav Shrivastava et al."
   },
   {
-    "id": "arxiv_1792375352284_2",
-    "name": "AgentOnto: Ontology-Guided LLM Agents for Enterprise Data Analytics",
+    "id": "arxiv_1792397356624_1",
+    "name": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
     "category": "ai",
-    "description": "Enterprise data analysis requires agents to connect analytical requests with knowledge distributed across databases, business documents, and existing example tasks. Without an explicit representation ...",
-    "link": "http://arxiv.org/abs/2610.23317v1",
+    "description": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to wr...",
+    "link": "http://arxiv.org/abs/2610.23847v1",
     "tags": [
       "AI",
-      "GAN",
       "LLM"
     ],
-    "date": "2026-10-16T11:22:38Z",
-    "trending": true,
-    "source": "arXiv - Dayan Pan, Bincheng Zuo, Xiaojian Wang et al."
+    "date": "2026-10-16T17:58:08Z",
+    "trending": false,
+    "source": "arXiv - Dongyoon Hahm, Woogyeol Jin, Dennis Wei et al."
   },
   {
-    "id": "arxiv_1792375352284_3",
-    "name": "From Memory Hits to Answerable Evidence: Query-Conditioned Memory Compilation for Long-Term Agent Memory",
+    "id": "arxiv_1792397356790_0",
+    "name": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+    "category": "machine-learning",
+    "description": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to wr...",
+    "link": "http://arxiv.org/abs/2610.23847v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-16T17:58:08Z",
+    "trending": false,
+    "source": "arXiv - Dongyoon Hahm, Woogyeol Jin, Dennis Wei et al."
+  },
+  {
+    "id": "arxiv_1792397356802_0",
+    "name": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+    "category": "nlp",
+    "description": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to wr...",
+    "link": "http://arxiv.org/abs/2610.23847v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-16T17:58:08Z",
+    "trending": false,
+    "source": "arXiv - Dongyoon Hahm, Woogyeol Jin, Dennis Wei et al."
+  },
+  {
+    "id": "arxiv_1792397356624_2",
+    "name": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
     "category": "ai",
-    "description": "Long-term agent memory requires recovering answer-relevant evidence dispersed across turns and sessions. Existing systems increasingly use structured memories and adaptive retrieval, yet often pass re...",
-    "link": "http://arxiv.org/abs/2610.23313v1",
+    "description": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents ...",
+    "link": "http://arxiv.org/abs/2610.23845v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-16T17:57:55Z",
+    "trending": false,
+    "source": "arXiv - Shicheng Liu, Krista Opsahl-Ong, Andrew Drozdov et al."
+  },
+  {
+    "id": "arxiv_1792397356802_1",
+    "name": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+    "category": "nlp",
+    "description": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents ...",
+    "link": "http://arxiv.org/abs/2610.23845v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-16T17:57:55Z",
+    "trending": false,
+    "source": "arXiv - Shicheng Liu, Krista Opsahl-Ong, Andrew Drozdov et al."
+  },
+  {
+    "id": "arxiv_1792397356778_2",
+    "name": "StopWatch: Goal Grounding for Object-goal Navigation",
+    "category": "computer-vision",
+    "description": "Pretrained VLMs bring rich world knowledge and semantic priors to object-goal navigation, and fine-tuning a VLM into a navigation policy has become a common recipe. Despite this progress, success rate...",
+    "link": "http://arxiv.org/abs/2610.23841v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-16T11:15:29Z",
-    "trending": false,
-    "source": "arXiv - Shangze Li, Yanyu Yao, Derong Xu et al."
+    "date": "2026-10-16T17:57:05Z",
+    "trending": true,
+    "source": "arXiv - Xinhao Liu, Yunsheng Tian, Yuheng Qiu et al."
   },
   {
-    "id": "arxiv_1792375352285_4",
-    "name": "Self-Reflective Chain-of-Thought (SRCoT): Evidence-Based Text Generation via a Closed-Loop Retrieve--Reflect--Revise Pipeline on Edge LLMs",
-    "category": "ai",
-    "description": "Large language models (LLMs) can generate fluent outputs that lack source support or conflict with local operational constraints. We introduce Self-Reflective Chain-of-Thought (SRCoT), a modular archi...",
-    "link": "http://arxiv.org/abs/2610.23311v1",
+    "id": "arxiv_1792397356803_2",
+    "name": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+    "category": "nlp",
+    "description": "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definiti...",
+    "link": "http://arxiv.org/abs/2610.23839v1",
     "tags": [
       "AI",
       "Vision",
-      "GAN",
-      "LLM"
+      "GPT",
+      "Optimization"
     ],
-    "date": "2026-10-16T11:14:52Z",
-    "trending": true,
-    "source": "arXiv - Fabian Broszio, Michael Hoffmann, Adrian Paschke"
-  },
-  {
-    "id": "arxiv_1792375352365_2",
-    "name": "Self-Reflective Chain-of-Thought (SRCoT): Evidence-Based Text Generation via a Closed-Loop Retrieve--Reflect--Revise Pipeline on Edge LLMs",
-    "category": "nlp",
-    "description": "Large language models (LLMs) can generate fluent outputs that lack source support or conflict with local operational constraints. We introduce Self-Reflective Chain-of-Thought (SRCoT), a modular archi...",
-    "link": "http://arxiv.org/abs/2610.23311v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "GAN",
-      "LLM"
-    ],
-    "date": "2026-10-16T11:14:52Z",
+    "date": "2026-10-16T17:56:35Z",
     "trending": false,
-    "source": "arXiv - Fabian Broszio, Michael Hoffmann, Adrian Paschke"
+    "source": "arXiv - Jianyuan Zhong, Chenwei Wu, Zhaochen Yu et al."
   },
   {
-    "id": "arxiv_1792375352365_3",
-    "name": "Inferring L1 Backgrounds from L2 English with LLM Token Probabilities",
-    "category": "nlp",
-    "description": "Native language identification (NLI) infers a non-native speaker's first language (L1) from their second language (L2) production. We investigate a token probability approach that scores each text sam...",
-    "link": "http://arxiv.org/abs/2610.23309v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-16T11:12:42Z",
-    "trending": false,
-    "source": "arXiv - Ahmet Yavuz Uluslu, Mark Gales, Kate Knill et al."
-  },
-  {
-    "id": "arxiv_1792375352365_4",
-    "name": "SimOPD: Relational Knowledge Transfer for On-Policy Distillation",
-    "category": "nlp",
-    "description": "A key challenge in on-policy distillation (OPD) is extracting effective supervision from teacher knowledge. Supervision from token probabilities may underutilize internal knowledge, while direct hidde...",
-    "link": "http://arxiv.org/abs/2610.23306v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-16T11:10:21Z",
-    "trending": true,
-    "source": "arXiv - Kai Tang, Xing Zheng, Haobo Wang et al."
-  },
-  {
-    "id": "arxiv_1792375352354_2",
-    "name": "Look, Reason, Draw a Region: Recursive Refinement for Spatial Context Prediction",
-    "category": "computer-vision",
-    "description": "Spatial context prediction requires visual grounding and spatial reasoning to identify vacant regions relative to objects in a scene. Spatial relationships and physical constraints remain challenging ...",
-    "link": "http://arxiv.org/abs/2610.23302v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-16T11:06:34Z",
-    "trending": false,
-    "source": "arXiv - Wajeeha Tahir, Anna Tegon, Lionnus Kesting et al."
-  },
-  {
-    "id": "arxiv_1792375352354_3",
-    "name": "FlashReFocus: Interactive Image Refocusing in Seconds",
-    "category": "computer-vision",
-    "description": "Single-image refocusing changes the focal plane and depth of field of a photograph after capture. It is inherently interactive: users try many focal points and blur strengths on one image, so each edi...",
-    "link": "http://arxiv.org/abs/2610.23297v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-10-16T11:04:18Z",
-    "trending": false,
-    "source": "arXiv - Ching-Heng Cheng, Chia-Ming Lee, Ming-Ching Chang et al."
-  },
-  {
-    "id": "arxiv_1792375352354_4",
-    "name": "The Optimal Ranking Tradeoffs Between Two Ranking Scores in Two-Class Classification",
-    "category": "computer-vision",
-    "description": "The accuracy, true negative rate (negative class recall), true positive rate (positive class recall), negative predictive value (negative class precision), positive predictive value (positive class pr...",
-    "link": "http://arxiv.org/abs/2610.23294v1",
+    "id": "arxiv_1792397356790_1",
+    "name": "Task-aligned spectral inductive biases in parameterized quantum circuits",
+    "category": "machine-learning",
+    "description": "Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuplo...",
+    "link": "http://arxiv.org/abs/2610.23834v1",
     "tags": [
       "AI",
       "Machine Learning"
     ],
-    "date": "2026-10-16T11:00:45Z",
+    "date": "2026-10-16T17:53:19Z",
     "trending": false,
-    "source": "arXiv - Sébastien Piérard, Adrien Deliège, Marc Van Droogenbroeck"
+    "source": "arXiv - Felix Frohnert, Adrián Pérez-Salinas, Sebastian Lange et al."
+  },
+  {
+    "id": "arxiv_1792397356790_2",
+    "name": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation",
+    "category": "machine-learning",
+    "description": "A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only supervision...",
+    "link": "http://arxiv.org/abs/2610.23831v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-16T17:52:58Z",
+    "trending": false,
+    "source": "arXiv - Shaoang Li, Yanhang Shi, Yufei Li et al."
+  },
+  {
+    "id": "arxiv_1792397356803_3",
+    "name": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation",
+    "category": "nlp",
+    "description": "A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only supervision...",
+    "link": "http://arxiv.org/abs/2610.23831v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-16T17:52:58Z",
+    "trending": false,
+    "source": "arXiv - Shaoang Li, Yanhang Shi, Yufei Li et al."
+  },
+  {
+    "id": "arxiv_1792397356790_3",
+    "name": "Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven Allocation",
+    "category": "machine-learning",
+    "description": "A planner with a fixed budget of preventive help must decide whom to help and when. Waiting reveals risk but removes intervention opportunities as higher-risk individuals leave first. We characterize ...",
+    "link": "http://arxiv.org/abs/2610.23830v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-16T17:52:57Z",
+    "trending": true,
+    "source": "arXiv - Rama AlHamidi, Rasul Khanbayov, Erchin Serpedin et al."
+  },
+  {
+    "id": "arxiv_1792397356790_4",
+    "name": "Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?",
+    "category": "machine-learning",
+    "description": "Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable...",
+    "link": "http://arxiv.org/abs/2610.23827v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-16T17:49:43Z",
+    "trending": true,
+    "source": "arXiv - Anis Bekri, Amar Abane, Van Sy Mai et al."
+  },
+  {
+    "id": "arxiv_1792397356624_3",
+    "name": "Self-Building Labs",
+    "category": "ai",
+    "description": "Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only r...",
+    "link": "http://arxiv.org/abs/2610.23826v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-10-16T17:48:29Z",
+    "trending": false,
+    "source": "arXiv - Jiaru Bai, Yuchi Zhao, Han Hao et al."
+  },
+  {
+    "id": "arxiv_1792397356803_4",
+    "name": "Acceptance Is Not Speed: Length Inflation in Training-Free Lossy Speculative Decoding",
+    "category": "nlp",
+    "description": "Speculative decoding typically characterizes speedup by draft tokens accepted per verification round. Lossless verification preserves the target model's output distribution and thus expected completio...",
+    "link": "http://arxiv.org/abs/2610.23818v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-16T17:41:19Z",
+    "trending": false,
+    "source": "arXiv - Chiatzen Wang, Bill Xu, Haochen Gu et al."
+  },
+  {
+    "id": "arxiv_1792397356624_4",
+    "name": "Beyond SAEs: Consistent Concept Discovery with Sparse Coding",
+    "category": "ai",
+    "description": "Sparse autoencoders (SAEs) explain foundation model representations by decomposing activations into sparse combinations of learned dictionary atoms. However, the learned dictionaries can vary across t...",
+    "link": "http://arxiv.org/abs/2610.23801v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Optimization"
+    ],
+    "date": "2026-10-16T17:25:11Z",
+    "trending": false,
+    "source": "arXiv - Jinho Choi, Hyesu Lim, Jaegul Choo et al."
+  },
+  {
+    "id": "arxiv_1792397356778_3",
+    "name": "Persistent Planar Memory for Video World Models",
+    "category": "computer-vision",
+    "description": "Video world models that generate and explore environments at scale need a persistent 3D memory of what they have produced. Plane primitives offer a natural candidate: a compact set of oriented planes ...",
+    "link": "http://arxiv.org/abs/2610.23795v1",
+    "tags": [
+      "AI",
+      "Transformer",
+      "Diffusion"
+    ],
+    "date": "2026-10-16T17:21:54Z",
+    "trending": true,
+    "source": "arXiv - Yuze He, Bin Tan, Zelin Gao et al."
+  },
+  {
+    "id": "arxiv_1792397356778_4",
+    "name": "The Collection of a Real-World, Large-Scale Dataset for Automated Skill Evaluation in Central Line Dressing Change",
+    "category": "computer-vision",
+    "description": "Central line-associated bloodstream infections (CLABSIs) remain a major source of preventable morbidity and mortality in healthcare settings. Proper execution of the central line dressing change (CLDC...",
+    "link": "http://arxiv.org/abs/2610.23789v1",
+    "tags": [
+      "AI",
+      "Deep Learning"
+    ],
+    "date": "2026-10-16T17:19:09Z",
+    "trending": true,
+    "source": "arXiv - Ummey Tanin, Shannan K. Hamlin, Hsin-Mei Chen et al."
   }
 ]
