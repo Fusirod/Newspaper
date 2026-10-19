@@ -1,68 +1,194 @@
 [
   {
-    "id": "rss_TechCrunch_1792425344990_0",
-    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs ",
+    "id": "rss_Ars_Technica_1792442798814_0",
+    "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        US fears Saudi government will help ex-OpenAI engineer flee spying charges.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Mon, 19 Oct 2026 20:21:53 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1792442795441_0",
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
     "tags": [
       "AI",
       "NVIDIA"
     ],
-    "date": "Mon, 19 Oct 2026 15:37:09 +0000",
+    "date": "Mon, 19 Oct 2026 20:09:24 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1792425348654_0",
-    "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+    "id": "rss_Ars_Technica_1792442798814_1",
+    "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
     "category": "ai-news",
     "source": "Ars Technica",
-    "description": "\n                        Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+    "description": "\n                        One way to make batteries cleaner is to make fewer of them.\n                    ",
+    "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+    "tags": [],
+    "date": "Mon, 19 Oct 2026 20:03:55 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1792442799867_0",
+    "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+    "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Mon, 19 Oct 2026 19:49:17 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1792442798815_2",
+    "title": "PSA: Patch your Plex media server before someone hacks it",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.\n                    ",
+    "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
     "tags": [
       "AI"
     ],
-    "date": "Mon, 19 Oct 2026 14:45:43 +0000",
+    "date": "Mon, 19 Oct 2026 19:39:19 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1792425348654_1",
-    "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
+    "id": "rss_TechCrunch_1792442795441_1",
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
     "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        All the evidence points to the debris being part of a Chinese Zhuque-2E rocket.\n                    ",
-    "link": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
-    "tags": [],
-    "date": "Mon, 19 Oct 2026 14:35:01 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1792425348654_2",
-    "title": "Review: Lanterns is a truly unique twist on the superhero genre",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Gritty HBO series is a beacon for what's possible when one is allowed to get creative with the tropes.\n                    ",
-    "link": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
-    "tags": [],
-    "date": "Mon, 19 Oct 2026 13:31:08 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1792425348654_3",
-    "title": "DIY VR: How to build your own headset, and why you probably won't want to",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        A primer on the joys and pains of building your own head-mounted display.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
+    "source": "TechCrunch",
+    "description": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
     "tags": [
       "AI"
     ],
-    "date": "Mon, 19 Oct 2026 12:33:34 +0000",
+    "date": "Mon, 19 Oct 2026 19:28:34 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1792442798815_3",
+    "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Can undersea geothermal power help Pacific Rim nations cut down on oil imports?\n                    ",
+    "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+    "tags": [
+      "Startup"
+    ],
+    "date": "Mon, 19 Oct 2026 19:27:24 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1792442795441_2",
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 19 Oct 2026 19:00:12 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1792442795441_3",
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Mon, 19 Oct 2026 18:49:04 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1792442795441_4",
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "tags": [
+      "AI",
+      "NVIDIA"
+    ],
+    "date": "Mon, 19 Oct 2026 18:37:27 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1792442798815_4",
+    "title": "ReactOS reaches major milestone with NTFS install support",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        ReactOS gains NTFS install support with new driver.\n                    ",
+    "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 19 Oct 2026 18:30:56 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1792442797654_0",
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like c",
+    "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 19 Oct 2026 18:22:47 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1792442797654_1",
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio",
+    "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "tags": [
+      "AI",
+      "Neural",
+      "Startup"
+    ],
+    "date": "Mon, 19 Oct 2026 17:45:55 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1792442799867_1",
+    "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
+    "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+    "tags": [
+      "Meta",
+      "Chatbot"
+    ],
+    "date": "Mon, 19 Oct 2026 16:00:00 +0000",
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1792425347217_0",
+    "id": "rss_MIT_Tech_Review_1792442797654_2",
     "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -72,23 +198,10 @@
       "AI"
     ],
     "date": "Mon, 19 Oct 2026 12:10:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1792425348654_4",
-    "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Tests showed Sceye’s high-flying platform can deliver connectivity in disasters.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 19 Oct 2026 11:05:49 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1792425347217_1",
+    "id": "rss_MIT_Tech_Review_1792442797654_3",
     "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -98,10 +211,10 @@
       "AI"
     ],
     "date": "Mon, 19 Oct 2026 09:22:17 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1792425347217_2",
+    "id": "rss_MIT_Tech_Review_1792442797655_4",
     "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -114,20 +227,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1792425347218_3",
-    "title": "How far can we push computing?",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richar",
-    "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 19 Oct 2026 09:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1792425349785_0",
+    "id": "rss_Wired_1792442799867_2",
     "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
     "category": "ai-news",
     "source": "Wired",
@@ -142,33 +242,7 @@
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1792425344990_1",
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Anthropic said that it will commit 5% of its shares to the fund.",
-    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Sun, 18 Oct 2026 20:37:40 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1792425344990_2",
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Sun, 18 Oct 2026 16:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1792425349785_1",
+    "id": "rss_Wired_1792442799867_3",
     "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
     "category": "ai-news",
     "source": "Wired",
@@ -182,7 +256,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1792425349785_2",
+    "id": "rss_Wired_1792442799867_4",
     "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
     "category": "ai-news",
     "source": "Wired",
@@ -193,72 +267,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1792425344990_3",
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "date": "Sat, 17 Oct 2026 21:31:32 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1792425344990_4",
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "tags": [],
-    "date": "Sat, 17 Oct 2026 20:21:19 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1792425349785_3",
-    "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-    "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Sat, 17 Oct 2026 09:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1792425349786_4",
-    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-    "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Fri, 16 Oct 2026 20:05:08 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1792425347218_4",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
-    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Fri, 16 Oct 2026 18:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1792425358242_0",
+    "id": "rss_Distill_1792442807521_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -271,7 +280,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1792425358242_1",
+    "id": "rss_Distill_1792442807522_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -284,7 +293,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1792425358242_2",
+    "id": "rss_Distill_1792442807522_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -295,7 +304,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1792425358242_3",
+    "id": "rss_Distill_1792442807522_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -308,7 +317,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1792425358242_4",
+    "id": "rss_Distill_1792442807522_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
