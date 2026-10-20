@@ -1,21 +1,34 @@
 [
   {
-    "id": "rss_TechCrunch_1792454342234_0",
-    "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+    "id": "rss_TechCrunch_1792466668671_0",
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude. ",
+    "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 20 Oct 2026 01:27:03 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1792466668671_1",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year. ",
     "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
     "tags": [],
     "date": "Mon, 19 Oct 2026 23:39:38 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1792454342234_1",
+    "id": "rss_TechCrunch_1792466668671_2",
     "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, H",
+    "description": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology. ",
     "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
     "tags": [
       "AI"
@@ -24,7 +37,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1792454345642_0",
+    "id": "rss_Ars_Technica_1792466672077_0",
     "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -32,14 +45,14 @@
     "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
     "tags": [],
     "date": "Mon, 19 Oct 2026 22:44:26 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1792454342234_2",
+    "id": "rss_TechCrunch_1792466668671_3",
     "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "description": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
     "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
     "tags": [
       "AI",
@@ -50,7 +63,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1792454345642_1",
+    "id": "rss_Ars_Technica_1792466672077_1",
     "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -60,10 +73,10 @@
       "AI"
     ],
     "date": "Mon, 19 Oct 2026 20:54:17 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1792454345642_2",
+    "id": "rss_Ars_Technica_1792466672077_2",
     "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -77,7 +90,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1792454342234_3",
+    "id": "rss_TechCrunch_1792466668671_4",
     "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -91,7 +104,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1792454345642_3",
+    "id": "rss_Ars_Technica_1792466672077_3",
     "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -102,7 +115,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1792454346819_0",
+    "id": "rss_Wired_1792466673173_0",
     "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
     "category": "ai-news",
     "source": "Wired",
@@ -116,7 +129,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1792454345642_4",
+    "id": "rss_Ars_Technica_1792466672077_4",
     "title": "PSA: Patch your Plex media server before someone hacks it",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -126,23 +139,10 @@
       "AI"
     ],
     "date": "Mon, 19 Oct 2026 19:39:19 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1792454342234_4",
-    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-    "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 19 Oct 2026 19:28:34 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1792454344448_0",
+    "id": "rss_MIT_Tech_Review_1792466670911_0",
     "title": "Making the internet better for AI agents might make it worse for everyone else",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -152,10 +152,10 @@
       "AI"
     ],
     "date": "Mon, 19 Oct 2026 18:22:47 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1792454344448_1",
+    "id": "rss_MIT_Tech_Review_1792466670911_1",
     "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -167,10 +167,10 @@
       "Startup"
     ],
     "date": "Mon, 19 Oct 2026 17:45:55 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1792454346819_1",
+    "id": "rss_Wired_1792466673173_1",
     "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
     "category": "ai-news",
     "source": "Wired",
@@ -184,7 +184,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1792454344448_2",
+    "id": "rss_MIT_Tech_Review_1792466670912_2",
     "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -194,10 +194,10 @@
       "AI"
     ],
     "date": "Mon, 19 Oct 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1792454344448_3",
+    "id": "rss_MIT_Tech_Review_1792466670912_3",
     "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -210,7 +210,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1792454344448_4",
+    "id": "rss_MIT_Tech_Review_1792466670912_4",
     "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -223,7 +223,7 @@
     "trending": true
   },
   {
-    "id": "rss_Wired_1792454346819_2",
+    "id": "rss_Wired_1792466673173_2",
     "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
     "category": "ai-news",
     "source": "Wired",
@@ -238,7 +238,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1792454346819_3",
+    "id": "rss_Wired_1792466673173_3",
     "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
     "category": "ai-news",
     "source": "Wired",
@@ -249,10 +249,10 @@
       "Meta"
     ],
     "date": "Sun, 18 Oct 2026 10:30:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1792454346819_4",
+    "id": "rss_Wired_1792466673173_4",
     "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
     "category": "ai-news",
     "source": "Wired",
@@ -260,10 +260,10 @@
     "link": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
     "tags": [],
     "date": "Sun, 18 Oct 2026 10:30:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1792454356035_0",
+    "id": "rss_Distill_1792466681263_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -276,7 +276,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1792454356035_1",
+    "id": "rss_Distill_1792466681263_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -289,7 +289,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1792454356035_2",
+    "id": "rss_Distill_1792466681263_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -297,10 +297,10 @@
     "link": "https://distill.pub/2021/distill-hiatus",
     "tags": [],
     "date": "Fri, 02 Jul 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1792454356035_3",
+    "id": "rss_Distill_1792466681263_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -310,10 +310,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1792454356035_4",
+    "id": "rss_Distill_1792466681263_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
