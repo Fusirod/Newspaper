@@ -1,219 +1,279 @@
 [
   {
-    "id": "arxiv_1792542003053_0",
-    "name": "Text-to-Image Generative Modeling Without Language Pretraining",
+    "id": "arxiv_1792560433029_0",
+    "name": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+    "category": "ai",
+    "description": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For...",
+    "link": "http://arxiv.org/abs/2610.28632v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-20T17:59:56Z",
+    "trending": false,
+    "source": "arXiv - Noam Rotstein, Yoad Tewel, Chen Tessler et al."
+  },
+  {
+    "id": "arxiv_1792560433091_0",
+    "name": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+    "category": "computer-vision",
+    "description": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For...",
+    "link": "http://arxiv.org/abs/2610.28632v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-20T17:59:56Z",
+    "trending": true,
+    "source": "arXiv - Noam Rotstein, Yoad Tewel, Chen Tessler et al."
+  },
+  {
+    "id": "arxiv_1792560433314_0",
+    "name": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
     "category": "machine-learning",
-    "description": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introdu...",
-    "link": "http://arxiv.org/abs/2610.26863v1",
+    "description": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For...",
+    "link": "http://arxiv.org/abs/2610.28632v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-20T17:59:56Z",
+    "trending": false,
+    "source": "arXiv - Noam Rotstein, Yoad Tewel, Chen Tessler et al."
+  },
+  {
+    "id": "arxiv_1792560433091_1",
+    "name": "AEON: Unifying Video and 3D World Models",
+    "category": "computer-vision",
+    "description": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate realistic appearances but fail to preserve 3D consis...",
+    "link": "http://arxiv.org/abs/2610.28631v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-20T17:59:51Z",
+    "trending": false,
+    "source": "arXiv - Weiqi Zhang, Wenyuan Zhang, Yu-Shen Liu et al."
+  },
+  {
+    "id": "arxiv_1792560433091_2",
+    "name": "SolarRenderer: Few-Step Generative Reference Rendering",
+    "category": "computer-vision",
+    "description": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure into realistic video requires a renderer that follows the structure and complete...",
+    "link": "http://arxiv.org/abs/2610.28630v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-20T17:59:48Z",
+    "trending": false,
+    "source": "arXiv - Guian Fang, Shengju Qian, Dongyue Lu et al."
+  },
+  {
+    "id": "arxiv_1792560433030_1",
+    "name": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+    "category": "ai",
+    "description": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigation...",
+    "link": "http://arxiv.org/abs/2610.28629v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-20T17:59:40Z",
+    "trending": true,
+    "source": "arXiv - Yazhuo Liu, Kunqing Ding, Xiaoguo Gong et al."
+  },
+  {
+    "id": "arxiv_1792560433091_3",
+    "name": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+    "category": "computer-vision",
+    "description": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning reci...",
+    "link": "http://arxiv.org/abs/2610.28628v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-10-20T17:59:32Z",
+    "trending": false,
+    "source": "arXiv - Yuxuan Kuang, Jiashun Wang, Yixuan Sun et al."
+  },
+  {
+    "id": "arxiv_1792560433315_1",
+    "name": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+    "category": "machine-learning",
+    "description": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning reci...",
+    "link": "http://arxiv.org/abs/2610.28628v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-10-20T17:59:32Z",
+    "trending": false,
+    "source": "arXiv - Yuxuan Kuang, Jiashun Wang, Yixuan Sun et al."
+  },
+  {
+    "id": "arxiv_1792560433030_2",
+    "name": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+    "category": "ai",
+    "description": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a...",
+    "link": "http://arxiv.org/abs/2610.28626v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer",
+      "Diffusion"
+    ],
+    "date": "2026-10-20T17:59:04Z",
+    "trending": true,
+    "source": "arXiv - Rahul Sajnani, Diego Romeres, Mingyuan Zhang et al."
+  },
+  {
+    "id": "arxiv_1792560433091_4",
+    "name": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+    "category": "computer-vision",
+    "description": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a...",
+    "link": "http://arxiv.org/abs/2610.28626v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer",
+      "Diffusion"
+    ],
+    "date": "2026-10-20T17:59:04Z",
+    "trending": false,
+    "source": "arXiv - Rahul Sajnani, Diego Romeres, Mingyuan Zhang et al."
+  },
+  {
+    "id": "arxiv_1792560433030_3",
+    "name": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+    "category": "ai",
+    "description": "Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For ...",
+    "link": "http://arxiv.org/abs/2610.28624v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-10-19T17:59:59Z",
+    "date": "2026-10-20T17:58:32Z",
     "trending": false,
-    "source": "arXiv - Keshigeyan Chandrasegaran, Yue Zhao, Armin W. Thomas et al."
+    "source": "arXiv - Jad Yammine, Malek Wahidi, Abrar Anwar et al."
   },
   {
-    "id": "arxiv_1792541987707_0",
-    "name": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
-    "category": "ai",
-    "description": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled stud...",
-    "link": "http://arxiv.org/abs/2610.26860v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "LLM",
-      "GPT"
-    ],
-    "date": "2026-10-19T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Yu Zhou, Cheng-Fu Yang, Rui Sun et al."
-  },
-  {
-    "id": "arxiv_1792542003053_1",
-    "name": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+    "id": "arxiv_1792560433315_2",
+    "name": "Planning under Noise with Neural Operators",
     "category": "machine-learning",
-    "description": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled stud...",
-    "link": "http://arxiv.org/abs/2610.26860v1",
+    "description": "Planning under uncertain control execution noise requires reliable feedback policies across diverse environments. We introduce Planning Under Noise (PUN), a neural operator that learns noise-aware val...",
+    "link": "http://arxiv.org/abs/2610.28623v1",
     "tags": [
       "AI",
-      "GAN",
-      "LLM",
-      "GPT"
+      "Neural"
     ],
-    "date": "2026-10-19T17:59:58Z",
+    "date": "2026-10-20T17:58:30Z",
     "trending": false,
-    "source": "arXiv - Yu Zhou, Cheng-Fu Yang, Rui Sun et al."
+    "source": "arXiv - Michael Chen, Hong Chul Nam, Xi Deng et al."
   },
   {
-    "id": "arxiv_1792542003070_0",
-    "name": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
-    "category": "nlp",
-    "description": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled stud...",
-    "link": "http://arxiv.org/abs/2610.26860v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "LLM",
-      "GPT"
-    ],
-    "date": "2026-10-19T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Yu Zhou, Cheng-Fu Yang, Rui Sun et al."
-  },
-  {
-    "id": "arxiv_1792542003071_1",
-    "name": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
-    "category": "nlp",
-    "description": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret...",
-    "link": "http://arxiv.org/abs/2610.26861v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM"
-    ],
-    "date": "2026-10-19T17:59:58Z",
-    "trending": false,
-    "source": "arXiv - Wenqian Zhang, Yangyi Huang, Zigeng Xu et al."
-  },
-  {
-    "id": "arxiv_1792541987707_1",
-    "name": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+    "id": "arxiv_1792560433030_4",
+    "name": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
     "category": "ai",
-    "description": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distill...",
-    "link": "http://arxiv.org/abs/2610.26856v1",
+    "description": "Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view ...",
+    "link": "http://arxiv.org/abs/2610.28622v1",
     "tags": [
       "AI",
-      "Vision",
-      "Reinforcement Learning",
-      "Optimization"
+      "Vision"
     ],
-    "date": "2026-10-19T17:59:56Z",
-    "trending": false,
-    "source": "arXiv - Shiao Xie, Siyu Chen, Jianwei Lv et al."
-  },
-  {
-    "id": "arxiv_1792541987707_2",
-    "name": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
-    "category": "ai",
-    "description": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot...",
-    "link": "http://arxiv.org/abs/2610.26852v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-10-19T17:59:49Z",
+    "date": "2026-10-20T17:58:25Z",
     "trending": true,
-    "source": "arXiv - Zehao Wang, Jianpeng Yao, Yuping Wang et al."
+    "source": "arXiv - Yanbo Wang, Siqi Luo, Siyu Zhang et al."
   },
   {
-    "id": "arxiv_1792542003053_2",
-    "name": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+    "id": "arxiv_1792560433315_3",
+    "name": "Adaptive Multi-Token Prediction: How far should we go?",
     "category": "machine-learning",
-    "description": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot...",
-    "link": "http://arxiv.org/abs/2610.26852v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-10-19T17:59:49Z",
-    "trending": false,
-    "source": "arXiv - Zehao Wang, Jianpeng Yao, Yuping Wang et al."
-  },
-  {
-    "id": "arxiv_1792541987707_3",
-    "name": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
-    "category": "ai",
-    "description": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a f...",
-    "link": "http://arxiv.org/abs/2610.26848v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-19T17:59:30Z",
-    "trending": false,
-    "source": "arXiv - Zekai Li, Jiayi Yu, Jinlu Zhang et al."
-  },
-  {
-    "id": "arxiv_1792541987707_4",
-    "name": "WeAct: Dynamic Weight Switching as Agent Actions",
-    "category": "ai",
-    "description": "Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastr...",
-    "link": "http://arxiv.org/abs/2610.26847v1",
+    "description": "Multi-token prediction (MTP) can accelerate language-model decoding by drafting several tokens and verifying them in a single target-model pass. However, the best speculation horizon changes with cont...",
+    "link": "http://arxiv.org/abs/2610.28619v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-19T17:59:19Z",
+    "date": "2026-10-20T17:56:32Z",
     "trending": false,
-    "source": "arXiv - Rui Shi, Xunjian Yin, Jiacheng Sang et al."
+    "source": "arXiv - Emile Anand, Mohammed Rehan Parwani, Xinyuan Cao"
   },
   {
-    "id": "arxiv_1792542003054_3",
-    "name": "WeAct: Dynamic Weight Switching as Agent Actions",
+    "id": "arxiv_1792560433315_4",
+    "name": "Efficient Edge-aware Attention Network for Graph Generation",
     "category": "machine-learning",
-    "description": "Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastr...",
-    "link": "http://arxiv.org/abs/2610.26847v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-19T17:59:19Z",
-    "trending": false,
-    "source": "arXiv - Rui Shi, Xunjian Yin, Jiacheng Sang et al."
-  },
-  {
-    "id": "arxiv_1792542003071_2",
-    "name": "WeAct: Dynamic Weight Switching as Agent Actions",
-    "category": "nlp",
-    "description": "Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastr...",
-    "link": "http://arxiv.org/abs/2610.26847v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-19T17:59:19Z",
-    "trending": false,
-    "source": "arXiv - Rui Shi, Xunjian Yin, Jiacheng Sang et al."
-  },
-  {
-    "id": "arxiv_1792542003071_3",
-    "name": "LatComm: Reusable Context Compression for Latent Communication between Large Language Models",
-    "category": "nlp",
-    "description": "Systems that combine several large language models (LLMs) often use one context for many questions. When the context is passed between models as text, the receiving model processes all of its tokens a...",
-    "link": "http://arxiv.org/abs/2610.26840v1",
+    "description": "Graph generative models commonly use graph-specific Transformer architectures to jointly update node and edge features. However, these architectures do not directly benefit from recent hardware-aware ...",
+    "link": "http://arxiv.org/abs/2610.28618v1",
     "tags": [
       "AI",
-      "LLM"
+      "Transformer"
     ],
-    "date": "2026-10-19T17:58:41Z",
+    "date": "2026-10-20T17:56:05Z",
     "trending": false,
-    "source": "arXiv - Huawei Lin, Jinting Liu, Tan Yu et al."
+    "source": "arXiv - Vincent Jung, Alba Carballo-Castro, Yiming Qin et al."
   },
   {
-    "id": "arxiv_1792542003054_4",
-    "name": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
-    "category": "machine-learning",
-    "description": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on t...",
-    "link": "http://arxiv.org/abs/2610.26839v1",
+    "id": "arxiv_1792560433374_0",
+    "name": "NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification",
+    "category": "nlp",
+    "description": "Picture-description dementia classification uses a shared visual scene, but a transcript-level prediction alone does not identify the scene evidence underlying its inputs. NarraSpace links words and s...",
+    "link": "http://arxiv.org/abs/2610.28616v1",
     "tags": [
       "AI",
-      "Machine Learning",
-      "GPT",
-      "Optimization"
+      "GAN"
     ],
-    "date": "2026-10-19T17:58:34Z",
+    "date": "2026-10-20T17:55:44Z",
     "trending": false,
-    "source": "arXiv - Youran Dong, Junfeng Yang, Wei Yao et al."
+    "source": "arXiv - Qingming Li, Ruiyan Sun, Satoshi Nakamura"
   },
   {
-    "id": "arxiv_1792542003071_4",
-    "name": "Competing Learning in Hybrid Architectures",
+    "id": "arxiv_1792560433374_1",
+    "name": "Benchmarking Arabic Dialects for Math Problems",
     "category": "nlp",
-    "description": "Many modern language models have adopted hybrid architectures that incorporate both linear-time recurrence and softmax attention. Modern recurrence layers provide a highly expressive mixing mechanism ...",
-    "link": "http://arxiv.org/abs/2610.26830v1",
+    "description": "Mathematical reasoning remains underexplored for low-resource languages, including Dialectal Arabic. To bridge this gap, we introduce the DAR-MGSM (Dialectal Arabic Multilingual Grade School Math) Ben...",
+    "link": "http://arxiv.org/abs/2610.28607v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-19T17:55:55Z",
+    "date": "2026-10-20T17:50:13Z",
     "trending": true,
-    "source": "arXiv - Xingyu Shen, Yingfa Chen, Ziqing Qiao et al."
+    "source": "arXiv - Noor Abo Mokh, Teresa Lynn, Nizar Habash et al."
+  },
+  {
+    "id": "arxiv_1792560433374_2",
+    "name": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
+    "category": "nlp",
+    "description": "Agentic on-policy distillation (OPD) trains a student agent on its own trajectories while a teacher scores every token. A natural explanation of where it goes wrong is compounding error: the student's...",
+    "link": "http://arxiv.org/abs/2610.28586v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-20T17:40:08Z",
+    "trending": false,
+    "source": "arXiv - Shu Zhao, Tan Yu"
+  },
+  {
+    "id": "arxiv_1792560433375_3",
+    "name": "Cache Engineering for Agents",
+    "category": "nlp",
+    "description": "Large Language Model (LLM) agents can handle increasingly complex tasks, navigating long trajectories of observations and actions. As these trajectories grow, key-value (KV) cache I/O and storage beco...",
+    "link": "http://arxiv.org/abs/2610.28577v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-20T17:32:24Z",
+    "trending": true,
+    "source": "arXiv - Tianyu Fu, Ruoxi Wang, Zihan Min et al."
+  },
+  {
+    "id": "arxiv_1792560433375_4",
+    "name": "Large Flow Language Models",
+    "category": "nlp",
+    "description": "Continuous flow language models offer a path to parallel generation with tools for control and acceleration unavailable to discrete diffusion, yet effective techniques for building them at the billion...",
+    "link": "http://arxiv.org/abs/2610.28559v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-10-20T17:20:29Z",
+    "trending": true,
+    "source": "arXiv - Arnav Chavan, Chanhyuk Lee, Udbhav Bamba et al."
   }
 ]
