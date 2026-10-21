@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1792597291487_0",
+    "id": "arxiv_1792611776311_0",
     "name": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
     "category": "ai",
     "description": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Noam Rotstein, Yoad Tewel, Chen Tessler et al."
   },
   {
-    "id": "arxiv_1792597291507_0",
+    "id": "arxiv_1792611776379_0",
     "name": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
     "category": "computer-vision",
     "description": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For...",
@@ -26,7 +26,7 @@
     "source": "arXiv - Noam Rotstein, Yoad Tewel, Chen Tessler et al."
   },
   {
-    "id": "arxiv_1792597291525_0",
+    "id": "arxiv_1792611776441_0",
     "name": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
     "category": "machine-learning",
     "description": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For...",
@@ -39,7 +39,7 @@
     "source": "arXiv - Noam Rotstein, Yoad Tewel, Chen Tessler et al."
   },
   {
-    "id": "arxiv_1792597291507_1",
+    "id": "arxiv_1792611776379_1",
     "name": "AEON: Unifying Video and 3D World Models",
     "category": "computer-vision",
     "description": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate realistic appearances but fail to preserve 3D consis...",
@@ -52,7 +52,7 @@
     "source": "arXiv - Weiqi Zhang, Wenyuan Zhang, Yu-Shen Liu et al."
   },
   {
-    "id": "arxiv_1792597291507_2",
+    "id": "arxiv_1792611776379_2",
     "name": "SolarRenderer: Few-Step Generative Reference Rendering",
     "category": "computer-vision",
     "description": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure into realistic video requires a renderer that follows the structure and complete...",
@@ -65,7 +65,7 @@
     "source": "arXiv - Guian Fang, Shengju Qian, Dongyue Lu et al."
   },
   {
-    "id": "arxiv_1792597291488_1",
+    "id": "arxiv_1792611776312_1",
     "name": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
     "category": "ai",
     "description": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigation...",
@@ -79,7 +79,7 @@
     "source": "arXiv - Yazhuo Liu, Kunqing Ding, Xiaoguo Gong et al."
   },
   {
-    "id": "arxiv_1792597291507_3",
+    "id": "arxiv_1792611776379_3",
     "name": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
     "category": "computer-vision",
     "description": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning reci...",
@@ -93,7 +93,7 @@
     "source": "arXiv - Yuxuan Kuang, Jiashun Wang, Yixuan Sun et al."
   },
   {
-    "id": "arxiv_1792597291525_1",
+    "id": "arxiv_1792611776441_1",
     "name": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
     "category": "machine-learning",
     "description": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning reci...",
@@ -103,11 +103,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-10-20T17:59:32Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yuxuan Kuang, Jiashun Wang, Yixuan Sun et al."
   },
   {
-    "id": "arxiv_1792597291488_2",
+    "id": "arxiv_1792611776312_2",
     "name": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
     "category": "ai",
     "description": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a...",
@@ -119,11 +119,11 @@
       "Diffusion"
     ],
     "date": "2026-10-20T17:59:04Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Rahul Sajnani, Diego Romeres, Mingyuan Zhang et al."
   },
   {
-    "id": "arxiv_1792597291507_4",
+    "id": "arxiv_1792611776380_4",
     "name": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
     "category": "computer-vision",
     "description": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a...",
@@ -139,7 +139,7 @@
     "source": "arXiv - Rahul Sajnani, Diego Romeres, Mingyuan Zhang et al."
   },
   {
-    "id": "arxiv_1792597291488_3",
+    "id": "arxiv_1792611776312_3",
     "name": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
     "category": "ai",
     "description": "Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For ...",
@@ -153,7 +153,7 @@
     "source": "arXiv - Jad Yammine, Malek Wahidi, Abrar Anwar et al."
   },
   {
-    "id": "arxiv_1792597291525_2",
+    "id": "arxiv_1792611776441_2",
     "name": "Planning under Noise with Neural Operators",
     "category": "machine-learning",
     "description": "Planning under uncertain control execution noise requires reliable feedback policies across diverse environments. We introduce Planning Under Noise (PUN), a neural operator that learns noise-aware val...",
@@ -163,11 +163,11 @@
       "Neural"
     ],
     "date": "2026-10-20T17:58:30Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Michael Chen, Hong Chul Nam, Xi Deng et al."
   },
   {
-    "id": "arxiv_1792597291488_4",
+    "id": "arxiv_1792611776312_4",
     "name": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
     "category": "ai",
     "description": "Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view ...",
@@ -181,7 +181,7 @@
     "source": "arXiv - Yanbo Wang, Siqi Luo, Siyu Zhang et al."
   },
   {
-    "id": "arxiv_1792597291525_3",
+    "id": "arxiv_1792611776441_3",
     "name": "Adaptive Multi-Token Prediction: How far should we go?",
     "category": "machine-learning",
     "description": "Multi-token prediction (MTP) can accelerate language-model decoding by drafting several tokens and verifying them in a single target-model pass. However, the best speculation horizon changes with cont...",
@@ -190,11 +190,11 @@
       "AI"
     ],
     "date": "2026-10-20T17:56:32Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Emile Anand, Mohammed Rehan Parwani, Xinyuan Cao"
   },
   {
-    "id": "arxiv_1792597291525_4",
+    "id": "arxiv_1792611776441_4",
     "name": "Efficient Edge-aware Attention Network for Graph Generation",
     "category": "machine-learning",
     "description": "Graph generative models commonly use graph-specific Transformer architectures to jointly update node and edge features. However, these architectures do not directly benefit from recent hardware-aware ...",
@@ -204,11 +204,11 @@
       "Transformer"
     ],
     "date": "2026-10-20T17:56:05Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Vincent Jung, Alba Carballo-Castro, Yiming Qin et al."
   },
   {
-    "id": "arxiv_1792597291543_0",
+    "id": "arxiv_1792611776502_0",
     "name": "NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification",
     "category": "nlp",
     "description": "Picture-description dementia classification uses a shared visual scene, but a transcript-level prediction alone does not identify the scene evidence underlying its inputs. NarraSpace links words and s...",
@@ -218,11 +218,11 @@
       "GAN"
     ],
     "date": "2026-10-20T17:55:44Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Qingming Li, Ruiyan Sun, Satoshi Nakamura"
   },
   {
-    "id": "arxiv_1792597291543_1",
+    "id": "arxiv_1792611776503_1",
     "name": "Benchmarking Arabic Dialects for Math Problems",
     "category": "nlp",
     "description": "Mathematical reasoning remains underexplored for low-resource languages, including Dialectal Arabic. To bridge this gap, we introduce the DAR-MGSM (Dialectal Arabic Multilingual Grade School Math) Ben...",
@@ -235,7 +235,7 @@
     "source": "arXiv - Noor Abo Mokh, Teresa Lynn, Nizar Habash et al."
   },
   {
-    "id": "arxiv_1792597291543_2",
+    "id": "arxiv_1792611776503_2",
     "name": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
     "category": "nlp",
     "description": "Agentic on-policy distillation (OPD) trains a student agent on its own trajectories while a teacher scores every token. A natural explanation of where it goes wrong is compounding error: the student's...",
@@ -245,11 +245,11 @@
       "LLM"
     ],
     "date": "2026-10-20T17:40:08Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shu Zhao, Tan Yu"
   },
   {
-    "id": "arxiv_1792597291543_3",
+    "id": "arxiv_1792611776503_3",
     "name": "Cache Engineering for Agents",
     "category": "nlp",
     "description": "Large Language Model (LLM) agents can handle increasingly complex tasks, navigating long trajectories of observations and actions. As these trajectories grow, key-value (KV) cache I/O and storage beco...",
@@ -263,7 +263,7 @@
     "source": "arXiv - Tianyu Fu, Ruoxi Wang, Zihan Min et al."
   },
   {
-    "id": "arxiv_1792597291543_4",
+    "id": "arxiv_1792611776503_4",
     "name": "Large Flow Language Models",
     "category": "nlp",
     "description": "Continuous flow language models offer a path to parallel generation with tools for control and acceleration unavailable to discrete diffusion, yet effective techniques for building them at the billion...",
