@@ -1,6 +1,93 @@
 [
   {
-    "id": "rss_Wired_1792651413424_0",
+    "id": "rss_MIT_Tech_Review_1792672461923_0",
+    "title": "The Download: computing’s next leap and permafrost’s climate threat",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Botto",
+    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 22 Oct 2026 12:10:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1792672463174_0",
+    "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.\n                    ",
+    "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 22 Oct 2026 11:30:33 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1792672463174_1",
+    "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal.\n                    ",
+    "link": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+    "tags": [],
+    "date": "Thu, 22 Oct 2026 11:15:36 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1792672461923_1",
+    "title": "Making the case for context-aware AI",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies",
+    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 22 Oct 2026 10:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1792672461923_2",
+    "title": "Three things you should know about permafrost",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.&#160;&#160; The great news for both of us is that my colleague James Temple just publish",
+    "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+    "tags": [],
+    "date": "Thu, 22 Oct 2026 10:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Wired_1792672464296_0",
+    "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+    "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 22 Oct 2026 10:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1792672461923_3",
+    "title": "AI’s hidden storage bill: What inference leaves behind",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ",
+    "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 22 Oct 2026 08:41:18 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1792672464296_1",
     "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
     "category": "ai-news",
     "source": "Wired",
@@ -8,10 +95,10 @@
     "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
     "tags": [],
     "date": "Thu, 22 Oct 2026 02:24:17 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1792651408572_0",
+    "id": "rss_TechCrunch_1792672459608_0",
     "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -21,10 +108,10 @@
       "AI"
     ],
     "date": "Wed, 21 Oct 2026 22:51:22 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1792651413424_1",
+    "id": "rss_Wired_1792672464296_2",
     "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
     "category": "ai-news",
     "source": "Wired",
@@ -35,10 +122,10 @@
       "Meta"
     ],
     "date": "Wed, 21 Oct 2026 22:39:50 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1792651412243_0",
+    "id": "rss_Ars_Technica_1792672463174_2",
     "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -48,10 +135,10 @@
       "AI"
     ],
     "date": "Wed, 21 Oct 2026 22:17:50 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1792651412243_1",
+    "id": "rss_Ars_Technica_1792672463174_3",
     "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -62,7 +149,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1792651412243_2",
+    "id": "rss_Ars_Technica_1792672463174_4",
     "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -73,18 +160,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1792651412243_3",
-    "title": "Tesla profits drop 43% in Q3",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Tesla’s once-booming energy storage business also shrunk in Q3 2026.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
-    "tags": [],
-    "date": "Wed, 21 Oct 2026 21:35:07 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1792651408572_1",
+    "id": "rss_TechCrunch_1792672459608_1",
     "title": "TechCrunch Founder Summit 2026: Everything you need to know ",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -97,7 +173,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1792651408572_2",
+    "id": "rss_TechCrunch_1792672459609_2",
     "title": "Meta says Muse has over 10M users, with shopping a top activity",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -111,7 +187,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1792651408572_3",
+    "id": "rss_TechCrunch_1792672459609_3",
     "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -122,23 +198,10 @@
       "Startup"
     ],
     "date": "Wed, 21 Oct 2026 20:27:41 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1792651412243_4",
-    "title": "The new human-crafted Apple Music brand matters in an AI world",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Opinion: In a world of AI slop, showing the human hands making things helps.\n                    ",
-    "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 21 Oct 2026 19:44:40 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1792651408572_4",
+    "id": "rss_TechCrunch_1792672459609_4",
     "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -151,7 +214,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1792651413424_2",
+    "id": "rss_Wired_1792672464296_3",
     "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
     "category": "ai-news",
     "source": "Wired",
@@ -162,10 +225,10 @@
       "Startup"
     ],
     "date": "Wed, 21 Oct 2026 16:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Wired_1792651413424_3",
+    "id": "rss_Wired_1792672464296_4",
     "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
     "category": "ai-news",
     "source": "Wired",
@@ -181,20 +244,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1792651413425_4",
-    "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
-    "link": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 21 Oct 2026 14:26:19 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1792651410892_0",
+    "id": "rss_MIT_Tech_Review_1792672461924_4",
     "title": "The Download: introducing the Impossible issue",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -207,51 +257,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1792651410892_1",
-    "title": "We can do impossible things",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”&#160; I won’t lie. It’s a bit shameless—a d",
-    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-    "tags": [],
-    "date": "Wed, 21 Oct 2026 09:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1792651410892_2",
-    "title": "Nuclear-powered spaceships",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 20",
-    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-    "tags": [],
-    "date": "Wed, 21 Oct 2026 09:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1792651410892_3",
-    "title": "Exercise in a pill",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to ",
-    "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
-    "tags": [],
-    "date": "Wed, 21 Oct 2026 09:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1792651410892_4",
-    "title": "Interspecies communication",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creature",
-    "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-    "tags": [],
-    "date": "Wed, 21 Oct 2026 09:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Distill_1792651421778_0",
+    "id": "rss_Distill_1792672472505_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -261,10 +267,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1792651421778_1",
+    "id": "rss_Distill_1792672472505_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -277,7 +283,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1792651421778_2",
+    "id": "rss_Distill_1792672472505_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -288,7 +294,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1792651421778_3",
+    "id": "rss_Distill_1792672472505_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -298,10 +304,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1792651421778_4",
+    "id": "rss_Distill_1792672472505_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
