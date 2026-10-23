@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1792760861231_0",
+    "id": "arxiv_1792778385043_0",
     "name": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
     "category": "computer-vision",
     "description": "Controllable 3D part generation is pivotal for digital asset creation, yet existing methods lack the flexibility to accommodate diverse user workflows requiring varying levels of control. In this pape...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Qiwen Gu, Xin Zhou, Xiwu Chen et al."
   },
   {
-    "id": "arxiv_1792760861231_1",
+    "id": "arxiv_1792778385043_1",
     "name": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
     "category": "computer-vision",
     "description": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests...",
@@ -27,7 +27,7 @@
     "source": "arXiv - Yunfei Xie, Howard H. Qian, Shiyi Lan et al."
   },
   {
-    "id": "arxiv_1792760861250_0",
+    "id": "arxiv_1792778385059_0",
     "name": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
     "category": "machine-learning",
     "description": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests...",
@@ -41,7 +41,7 @@
     "source": "arXiv - Yunfei Xie, Howard H. Qian, Shiyi Lan et al."
   },
   {
-    "id": "arxiv_1792760861231_2",
+    "id": "arxiv_1792778385044_2",
     "name": "Reading, Writing, Sharing, and Interacting with the World through Video",
     "category": "computer-vision",
     "description": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their...",
@@ -50,11 +50,11 @@
       "GAN"
     ],
     "date": "2026-10-22T17:59:50Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shengqiong Wu, Meng Luo, Bobo Li et al."
   },
   {
-    "id": "arxiv_1792760861212_0",
+    "id": "arxiv_1792778385030_0",
     "name": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
     "category": "ai",
     "description": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Runn...",
@@ -64,11 +64,11 @@
       "Optimization"
     ],
     "date": "2026-10-22T17:59:48Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Mahdi Salmani, Adel Javanmard, Devansh Gupta et al."
   },
   {
-    "id": "arxiv_1792760861266_0",
+    "id": "arxiv_1792778385065_0",
     "name": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
     "category": "nlp",
     "description": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Runn...",
@@ -82,7 +82,7 @@
     "source": "arXiv - Mahdi Salmani, Adel Javanmard, Devansh Gupta et al."
   },
   {
-    "id": "arxiv_1792760861250_1",
+    "id": "arxiv_1792778385059_1",
     "name": "Phase Transition from Random Features to Fully Trainable Networks",
     "category": "machine-learning",
     "description": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adapt...",
@@ -93,11 +93,11 @@
       "BERT"
     ],
     "date": "2026-10-22T17:59:29Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xin He, Huan Lao, Xiliang Lu et al."
   },
   {
-    "id": "arxiv_1792760861250_2",
+    "id": "arxiv_1792778385059_2",
     "name": "Reliable AI-Assisted Decisions via Selective Auditing",
     "category": "machine-learning",
     "description": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthine...",
@@ -111,7 +111,7 @@
     "source": "arXiv - Isaac Gibbs, Elise L. Han, Ryan J. Tibshirani et al."
   },
   {
-    "id": "arxiv_1792760861231_3",
+    "id": "arxiv_1792778385044_3",
     "name": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
     "category": "computer-vision",
     "description": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training image...",
@@ -125,7 +125,7 @@
     "source": "arXiv - Sy-Tuyen Ho, Anirudh Satheesh, Soham Chawathe et al."
   },
   {
-    "id": "arxiv_1792760861250_3",
+    "id": "arxiv_1792778385059_3",
     "name": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
     "category": "machine-learning",
     "description": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training image...",
@@ -139,7 +139,7 @@
     "source": "arXiv - Sy-Tuyen Ho, Anirudh Satheesh, Soham Chawathe et al."
   },
   {
-    "id": "arxiv_1792760861212_1",
+    "id": "arxiv_1792778385030_1",
     "name": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
     "category": "ai",
     "description": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on cali...",
@@ -155,7 +155,7 @@
     "source": "arXiv - Sachin Gupta"
   },
   {
-    "id": "arxiv_1792760861250_4",
+    "id": "arxiv_1792778385059_4",
     "name": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
     "category": "machine-learning",
     "description": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on cali...",
@@ -171,7 +171,7 @@
     "source": "arXiv - Sachin Gupta"
   },
   {
-    "id": "arxiv_1792760861266_1",
+    "id": "arxiv_1792778385065_1",
     "name": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
     "category": "nlp",
     "description": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on cali...",
@@ -183,11 +183,11 @@
       "BERT"
     ],
     "date": "2026-10-22T17:58:52Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sachin Gupta"
   },
   {
-    "id": "arxiv_1792760861212_2",
+    "id": "arxiv_1792778385030_2",
     "name": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
     "category": "ai",
     "description": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical re...",
@@ -199,11 +199,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-10-22T17:58:27Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ali Najar, Hosein Hasani, Amir Kooshan Fattah et al."
   },
   {
-    "id": "arxiv_1792760861232_4",
+    "id": "arxiv_1792778385044_4",
     "name": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
     "category": "computer-vision",
     "description": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assembl...",
@@ -213,11 +213,11 @@
       "GPT"
     ],
     "date": "2026-10-22T17:57:20Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ava Pun, Kevin Dai, Sally Chen et al."
   },
   {
-    "id": "arxiv_1792760861213_3",
+    "id": "arxiv_1792778385030_3",
     "name": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
     "category": "ai",
     "description": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action eve...",
@@ -231,7 +231,7 @@
     "source": "arXiv - Qijin Zhang, Hanzhen Wang, Yuehan Zhao et al."
   },
   {
-    "id": "arxiv_1792760861213_4",
+    "id": "arxiv_1792778385031_4",
     "name": "Low-Bit N-Gram Embeddings for Language Models",
     "category": "ai",
     "description": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned representations of short token sequences, such as pairs or triples of consecutive...",
@@ -241,11 +241,11 @@
       "GPT"
     ],
     "date": "2026-10-22T17:56:13Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Stephen Chung, Wenyu Du"
   },
   {
-    "id": "arxiv_1792760861266_2",
+    "id": "arxiv_1792778385066_2",
     "name": "Low-Bit N-Gram Embeddings for Language Models",
     "category": "nlp",
     "description": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned representations of short token sequences, such as pairs or triples of consecutive...",
@@ -255,11 +255,11 @@
       "GPT"
     ],
     "date": "2026-10-22T17:56:13Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Stephen Chung, Wenyu Du"
   },
   {
-    "id": "arxiv_1792760861266_3",
+    "id": "arxiv_1792778385066_3",
     "name": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
     "category": "nlp",
     "description": "Multilingual pipelines such as FineWeb2 apply one recipe across a thousand languages, leaving the failure modes of individual languages unanticipated. We use an LLM once, as a corpus debugger rather t...",
@@ -273,7 +273,7 @@
     "source": "arXiv - Marek Šuppa, Ivan Vykopal, Jaroslav Kopčan"
   },
   {
-    "id": "arxiv_1792760861266_4",
+    "id": "arxiv_1792778385066_4",
     "name": "Bilingual Language Models Capture Cross-Linguistic Influence in Second-Language Reading",
     "category": "nlp",
     "description": "While monolingual language model (LM) surprisal is widely established as a predictor of reading times, it cannot capture the non-native (L2) reading dynamics that are shaped by the reader's first lang...",
