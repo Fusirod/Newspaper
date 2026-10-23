@@ -1,275 +1,283 @@
 [
   {
-    "id": "arxiv_1792712580556_0",
-    "name": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+    "id": "arxiv_1792721526466_0",
+    "name": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
     "category": "machine-learning",
-    "description": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable...",
-    "link": "http://arxiv.org/abs/2610.30132v1",
+    "description": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests...",
+    "link": "http://arxiv.org/abs/2610.31670v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-22T17:59:51Z",
+    "trending": false,
+    "source": "arXiv - Yunfei Xie, Howard H. Qian, Shiyi Lan et al."
+  },
+  {
+    "id": "arxiv_1792721526466_1",
+    "name": "Phase Transition from Random Features to Fully Trainable Networks",
+    "category": "machine-learning",
+    "description": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adapt...",
+    "link": "http://arxiv.org/abs/2610.31663v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "BERT"
+    ],
+    "date": "2026-10-22T17:59:29Z",
+    "trending": true,
+    "source": "arXiv - Xin He, Huan Lao, Xiliang Lu et al."
+  },
+  {
+    "id": "arxiv_1792721526466_2",
+    "name": "Reliable AI-Assisted Decisions via Selective Auditing",
+    "category": "machine-learning",
+    "description": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthine...",
+    "link": "http://arxiv.org/abs/2610.31662v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-10-22T17:59:22Z",
+    "trending": true,
+    "source": "arXiv - Isaac Gibbs, Elise L. Han, Ryan J. Tibshirani et al."
+  },
+  {
+    "id": "arxiv_1792721526466_3",
+    "name": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+    "category": "machine-learning",
+    "description": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training image...",
+    "link": "http://arxiv.org/abs/2610.31659v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-10-22T17:59:03Z",
+    "trending": false,
+    "source": "arXiv - Sy-Tuyen Ho, Anirudh Satheesh, Soham Chawathe et al."
+  },
+  {
+    "id": "arxiv_1792721526467_4",
+    "name": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+    "category": "machine-learning",
+    "description": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on cali...",
+    "link": "http://arxiv.org/abs/2610.31657v1",
     "tags": [
       "AI",
       "LLM",
-      "Reinforcement Learning"
+      "GPT",
+      "BERT"
     ],
-    "date": "2026-10-21T17:59:14Z",
-    "trending": false,
-    "source": "arXiv - Zhennan Wan, Jianfei Chen"
+    "date": "2026-10-22T17:58:52Z",
+    "trending": true,
+    "source": "arXiv - Sachin Gupta"
   },
   {
-    "id": "arxiv_1792712580616_0",
-    "name": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
-    "category": "nlp",
-    "description": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable...",
-    "link": "http://arxiv.org/abs/2610.30132v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-10-21T17:59:14Z",
-    "trending": false,
-    "source": "arXiv - Zhennan Wan, Jianfei Chen"
-  },
-  {
-    "id": "arxiv_1792712580498_0",
-    "name": "Rethinking Video Autoencoders for Interactive World Models",
-    "category": "computer-vision",
-    "description": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that humans can control interactively. They generate i...",
-    "link": "http://arxiv.org/abs/2610.30129v1",
+    "id": "arxiv_1792721526306_0",
+    "name": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
+    "category": "ai",
+    "description": "Diffusion Language Models (DLMs) introduce unique quantization challenges due to their iterative denoising process. In this work, we reveal that quantization sensitivity is both taskand time-dependent...",
+    "link": "http://arxiv.org/abs/2610.31198v1",
     "tags": [
       "AI",
       "Diffusion"
     ],
-    "date": "2026-10-21T17:58:11Z",
+    "date": "2026-10-22T12:45:17Z",
     "trending": true,
-    "source": "arXiv - Adrien Ramanana Rahary, Yutong Bai, Nicolas Dufour et al."
+    "source": "arXiv - Ofek Avivi, Eliron Rahimi, Avi Mendelson et al."
   },
   {
-    "id": "arxiv_1792712580438_0",
-    "name": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
-    "category": "ai",
-    "description": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challeng...",
-    "link": "http://arxiv.org/abs/2610.30128v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-21T17:58:06Z",
-    "trending": false,
-    "source": "arXiv - Zhanshuo Cao, Jiakai Tang, Yuqi Zhou et al."
-  },
-  {
-    "id": "arxiv_1792712580557_1",
-    "name": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
-    "category": "machine-learning",
-    "description": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challeng...",
-    "link": "http://arxiv.org/abs/2610.30128v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-21T17:58:06Z",
-    "trending": true,
-    "source": "arXiv - Zhanshuo Cao, Jiakai Tang, Yuqi Zhou et al."
-  },
-  {
-    "id": "arxiv_1792712580616_1",
-    "name": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
-    "category": "nlp",
-    "description": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challeng...",
-    "link": "http://arxiv.org/abs/2610.30128v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-21T17:58:06Z",
-    "trending": false,
-    "source": "arXiv - Zhanshuo Cao, Jiakai Tang, Yuqi Zhou et al."
-  },
-  {
-    "id": "arxiv_1792712580498_1",
-    "name": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
+    "id": "arxiv_1792721526387_0",
+    "name": "Inside-JEPA: From Prediction to Relational Grounding in Latent World Models",
     "category": "computer-vision",
-    "description": "Language models' abilities to interpret tasks and generate programs offer a promising basis for 3D spatial reasoning. Yet following spatial instructions in 3D scenes requires programs to construct geo...",
-    "link": "http://arxiv.org/abs/2610.30127v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-21T17:58:05Z",
-    "trending": false,
-    "source": "arXiv - Zhichao Zhai, Menglei Zhao, Guikun Chen et al."
-  },
-  {
-    "id": "arxiv_1792712580438_1",
-    "name": "PhysiCalWorld: In-Context Physics Calibration for World Models",
-    "category": "ai",
-    "description": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dy...",
-    "link": "http://arxiv.org/abs/2610.30125v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-21T17:57:59Z",
-    "trending": true,
-    "source": "arXiv - Yunhao Luo, Wentao He, Yinpei Dai et al."
-  },
-  {
-    "id": "arxiv_1792712580499_2",
-    "name": "PhysiCalWorld: In-Context Physics Calibration for World Models",
-    "category": "computer-vision",
-    "description": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dy...",
-    "link": "http://arxiv.org/abs/2610.30125v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-21T17:57:59Z",
-    "trending": false,
-    "source": "arXiv - Yunhao Luo, Wentao He, Yinpei Dai et al."
-  },
-  {
-    "id": "arxiv_1792712580557_2",
-    "name": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
-    "category": "machine-learning",
-    "description": "We give an algorithm for computing an $\\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\\ell_\\infty$ norm in time $\\log(1/\\eps)^{O(\\log^2 d)}$. At its core, our m...",
-    "link": "http://arxiv.org/abs/2610.30122v1",
-    "tags": [],
-    "date": "2026-10-21T17:57:19Z",
-    "trending": false,
-    "source": "arXiv - Ashkan Soleymani, Gabriele Farina"
-  },
-  {
-    "id": "arxiv_1792712580499_3",
-    "name": "ALPS: Visual State Encoders for World Models",
-    "category": "computer-vision",
-    "description": "World models turn visual representations into predictions and actions. We argue that their visual foundation should combine physical-state information, native language alignment, and pixel reconstruct...",
-    "link": "http://arxiv.org/abs/2610.30120v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-21T17:57:11Z",
-    "trending": false,
-    "source": "arXiv - Yanqing Liu, Letian Zhang, Chengzhi Liu et al."
-  },
-  {
-    "id": "arxiv_1792712580557_3",
-    "name": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence",
-    "category": "machine-learning",
-    "description": "We prove a self-normalized Bernstein inequality for bounded functions of a regenerative process with independent, identically distributed marked cycles of finite mean length. The bound uses observed c...",
-    "link": "http://arxiv.org/abs/2610.30119v1",
+    "description": "Joint-embedding predictive architectures (JEPAs) learn world models in latent space, enabling efficient planning but leaving their states opaque. We introduce Inside-JEPA, which places relational chan...",
+    "link": "http://arxiv.org/abs/2610.31194v1",
     "tags": [
       "AI",
-      "Machine Learning"
+      "Vision"
     ],
-    "date": "2026-10-21T17:56:37Z",
+    "date": "2026-10-22T12:43:03Z",
     "trending": false,
-    "source": "arXiv - Imon Banerjee, Pierre Alquier"
+    "source": "arXiv - Hossein Resani, Javen Qinfeng Shi"
   },
   {
-    "id": "arxiv_1792712580557_4",
-    "name": "The role of locality and weight sharing in convolutional neural networks",
-    "category": "machine-learning",
-    "description": "The success of convolutional neural networks is often attributed to locality and weight sharing. However, how these two properties separately shape learning, and how their effects depend on the spatia...",
-    "link": "http://arxiv.org/abs/2610.30118v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-10-21T17:56:22Z",
-    "trending": false,
-    "source": "arXiv - Francesco Mori, Melanie Weber"
-  },
-  {
-    "id": "arxiv_1792712580438_2",
-    "name": "Environment Duels: A Microcosm of LLM Co-Evolution",
+    "id": "arxiv_1792721526306_1",
+    "name": "When More Metadata Misleads: Probing Field-Level Grounding in LLM-Generated Museum Descriptions",
     "category": "ai",
-    "description": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each m...",
-    "link": "http://arxiv.org/abs/2610.30116v1",
+    "description": "Metadata-conditioned generation is often framed as a data-to-text task in which additional input fields should improve grounding. Museum description generation challenges this assumption because catal...",
+    "link": "http://arxiv.org/abs/2610.31193v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-10-21T17:55:31Z",
+    "date": "2026-10-22T12:41:12Z",
     "trending": false,
-    "source": "arXiv - Shibo Jin, Zhiqiu Xu, Yiling Zou et al."
+    "source": "arXiv - Clemencia Siro, Laura Hollink"
   },
   {
-    "id": "arxiv_1792712580616_2",
-    "name": "Environment Duels: A Microcosm of LLM Co-Evolution",
+    "id": "arxiv_1792721526546_0",
+    "name": "When More Metadata Misleads: Probing Field-Level Grounding in LLM-Generated Museum Descriptions",
     "category": "nlp",
-    "description": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each m...",
-    "link": "http://arxiv.org/abs/2610.30116v1",
+    "description": "Metadata-conditioned generation is often framed as a data-to-text task in which additional input fields should improve grounding. Museum description generation challenges this assumption because catal...",
+    "link": "http://arxiv.org/abs/2610.31193v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-10-21T17:55:31Z",
+    "date": "2026-10-22T12:41:12Z",
     "trending": false,
-    "source": "arXiv - Shibo Jin, Zhiqiu Xu, Yiling Zou et al."
+    "source": "arXiv - Clemencia Siro, Laura Hollink"
   },
   {
-    "id": "arxiv_1792712580439_3",
-    "name": "The End of Consensus Research?",
-    "category": "ai",
-    "description": "Consensus is a fundamental problem in distributed computing and at the core of state machine replication (SMR). Despite decades of active human research, discovering practical low-latency solutions to...",
-    "link": "http://arxiv.org/abs/2610.30114v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-21T17:55:19Z",
-    "trending": true,
-    "source": "arXiv - Clément Burgelin, Rachid Guerraoui, Zicong Hong et al."
-  },
-  {
-    "id": "arxiv_1792712580439_4",
-    "name": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
-    "category": "ai",
-    "description": "Quantitative research is an iterative loop: a researcher proposes a market hypothesis, implements it as an executable signal, tests it on historical data, and decides what to keep. Existing benchmarks...",
-    "link": "http://arxiv.org/abs/2610.30113v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT"
-    ],
-    "date": "2026-10-21T17:54:01Z",
-    "trending": false,
-    "source": "arXiv - Houde Qian, Zheng Jiang, Wenyi Li et al."
-  },
-  {
-    "id": "arxiv_1792712580616_3",
-    "name": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
-    "category": "nlp",
-    "description": "Quantitative research is an iterative loop: a researcher proposes a market hypothesis, implements it as an executable signal, tests it on historical data, and decides what to keep. Existing benchmarks...",
-    "link": "http://arxiv.org/abs/2610.30113v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT"
-    ],
-    "date": "2026-10-21T17:54:01Z",
-    "trending": false,
-    "source": "arXiv - Houde Qian, Zheng Jiang, Wenyi Li et al."
-  },
-  {
-    "id": "arxiv_1792712580499_4",
-    "name": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+    "id": "arxiv_1792721526387_1",
+    "name": "RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation",
     "category": "computer-vision",
-    "description": "Multimodal agents (MMAs) sustain interaction through reasoning, memory, tools, and feedback, most visibly as computer-use agents, while robotic systems (RSs) couple sensing and actuation under physica...",
-    "link": "http://arxiv.org/abs/2610.30108v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-21T17:52:48Z",
-    "trending": false,
-    "source": "arXiv - Yanzhe Chen, Ziyi Yang, Jifeng Zhu et al."
-  },
-  {
-    "id": "arxiv_1792712580616_4",
-    "name": "Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Problems Hardened by Adversarial Multi-Agent Rewriting",
-    "category": "nlp",
-    "description": "Many NP-complete (NPC) problems have a polynomial-time (P) twin that differs in a single structural detail, such as 3- versus 2-colouring a graph. A model that reasons rather than recalls should notic...",
-    "link": "http://arxiv.org/abs/2610.30103v1",
+    "description": "LiDAR point cloud semantic segmentation is a fundamental component of 3D perception for autonomous driving and robotics. Projection-based methods map 3D point clouds into 2D representations for featur...",
+    "link": "http://arxiv.org/abs/2610.31186v1",
     "tags": [
       "AI",
       "GAN",
+      "Robotics"
+    ],
+    "date": "2026-10-22T12:35:29Z",
+    "trending": true,
+    "source": "arXiv - Chuang Chen"
+  },
+  {
+    "id": "arxiv_1792721526306_2",
+    "name": "Prompting Strategy Effects Depend on the Judge: A Multilingual Study of LLM-as-a-Judge Robustness",
+    "category": "ai",
+    "description": "LLM-as-a-Judge evaluation is increasingly applied to multilingual tasks, yet prompting strategies such as Chain-of-Thought and Role Conditioning are recommended based solely on English benchmarks. Whe...",
+    "link": "http://arxiv.org/abs/2610.31172v1",
+    "tags": [
+      "AI",
       "LLM"
     ],
-    "date": "2026-10-21T17:50:19Z",
+    "date": "2026-10-22T12:27:05Z",
+    "trending": true,
+    "source": "arXiv - Asal Mehrabi, Mohammad Aliannejadi, Clemencia Siro"
+  },
+  {
+    "id": "arxiv_1792721526546_1",
+    "name": "Prompting Strategy Effects Depend on the Judge: A Multilingual Study of LLM-as-a-Judge Robustness",
+    "category": "nlp",
+    "description": "LLM-as-a-Judge evaluation is increasingly applied to multilingual tasks, yet prompting strategies such as Chain-of-Thought and Role Conditioning are recommended based solely on English benchmarks. Whe...",
+    "link": "http://arxiv.org/abs/2610.31172v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-22T12:27:05Z",
     "trending": false,
-    "source": "arXiv - Nurul Labib Sayeedi, Md. Faiyaz Abdullah Sayeedi, Zabir Al Nazi et al."
+    "source": "arXiv - Asal Mehrabi, Mohammad Aliannejadi, Clemencia Siro"
+  },
+  {
+    "id": "arxiv_1792721526388_2",
+    "name": "Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation",
+    "category": "computer-vision",
+    "description": "Humanoid loco-manipulation in dynamic scenes is non-Markovian: cues vanish as objects change or are hidden, or leave the view as the robot turns and walks, yet whole-body vision-language-action (VLA) ...",
+    "link": "http://arxiv.org/abs/2610.31166v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-22T12:24:25Z",
+    "trending": true,
+    "source": "arXiv - Chenyuan Chen, Ran Ding, Lechen Zhang et al."
+  },
+  {
+    "id": "arxiv_1792721526306_3",
+    "name": "Network topology shapes consensus and vulnerability in LLM populations",
+    "category": "ai",
+    "description": "As large language models (LLMs) are deployed in interacting populations, their collective behaviour depends not only on the models but also on who interacts with whom. Studies of convention formation ...",
+    "link": "http://arxiv.org/abs/2610.31165v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-22T12:22:40Z",
+    "trending": true,
+    "source": "arXiv - Roberto Passaro, Ariel Flint, Romualdo Pastor-Satorras et al."
+  },
+  {
+    "id": "arxiv_1792721526388_3",
+    "name": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games",
+    "category": "computer-vision",
+    "description": "Building virtual embodied agents that operate in open-ended games like human players is a long-standing goal requiring both long-horizon autonomy and reliable native-interface control. As a procedural...",
+    "link": "http://arxiv.org/abs/2610.31162v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-10-22T12:17:45Z",
+    "trending": false,
+    "source": "arXiv - Zecong Tang, Zian Guan, Yuncheng Guo et al."
+  },
+  {
+    "id": "arxiv_1792721526388_4",
+    "name": "Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports",
+    "category": "computer-vision",
+    "description": "Deep research agents synthesize open-web evidence into long reports, but current benchmarks do not evaluate research centered on a source video. We introduce Video-Centered Deep Research Report Genera...",
+    "link": "http://arxiv.org/abs/2610.31158v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-22T12:15:30Z",
+    "trending": false,
+    "source": "arXiv - Jiahao Meng, Qize Yang, Yuxuan Wang et al."
+  },
+  {
+    "id": "arxiv_1792721526546_2",
+    "name": "Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports",
+    "category": "nlp",
+    "description": "Deep research agents synthesize open-web evidence into long reports, but current benchmarks do not evaluate research centered on a source video. We introduce Video-Centered Deep Research Report Genera...",
+    "link": "http://arxiv.org/abs/2610.31158v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-22T12:15:30Z",
+    "trending": true,
+    "source": "arXiv - Jiahao Meng, Qize Yang, Yuxuan Wang et al."
+  },
+  {
+    "id": "arxiv_1792721526306_4",
+    "name": "Prompt Sensitivity in Tool-Augmented Model Comparisons",
+    "category": "ai",
+    "description": "Language models are compared on question-answering benchmarks that pose each question in one wording, and a reworded question can change which of two models scores higher. We ask whether giving the mo...",
+    "link": "http://arxiv.org/abs/2610.31148v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-22T12:07:01Z",
+    "trending": false,
+    "source": "arXiv - Mateusz Modrzejewski, Tomasz Radzikowski"
+  },
+  {
+    "id": "arxiv_1792721526546_3",
+    "name": "Prompt Sensitivity in Tool-Augmented Model Comparisons",
+    "category": "nlp",
+    "description": "Language models are compared on question-answering benchmarks that pose each question in one wording, and a reworded question can change which of two models scores higher. We ask whether giving the mo...",
+    "link": "http://arxiv.org/abs/2610.31148v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-22T12:07:01Z",
+    "trending": true,
+    "source": "arXiv - Mateusz Modrzejewski, Tomasz Radzikowski"
+  },
+  {
+    "id": "arxiv_1792721526546_4",
+    "name": "Mixing Matters: Evidence Position Bias Across Sequence Mixers in Long-Context Question Answering",
+    "category": "nlp",
+    "description": "Long-context models often use answer-bearing evidence less effectively when it appears away from a prompt boundary. We compare this position bias across Transformer, state-space, and hybrid Mamba arch...",
+    "link": "http://arxiv.org/abs/2610.31135v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-10-22T11:54:30Z",
+    "trending": false,
+    "source": "arXiv - Aman Behera, Namit Solanki, Mehul Anand"
   }
 ]
