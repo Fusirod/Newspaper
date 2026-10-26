@@ -1,288 +1,283 @@
 [
   {
-    "id": "arxiv_1792975655274_0",
-    "name": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
+    "id": "arxiv_1792992606042_0",
+    "name": "The Language of Instruction: Genre and Generative AI",
+    "category": "nlp",
+    "description": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation ...",
+    "link": "http://arxiv.org/abs/2610.32982v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-10-23T17:59:56Z",
+    "trending": true,
+    "source": "arXiv - James E. Dobson"
+  },
+  {
+    "id": "arxiv_1792992605876_0",
+    "name": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+    "category": "ai",
+    "description": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s...",
+    "link": "http://arxiv.org/abs/2610.32978v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-10-23T17:59:21Z",
+    "trending": false,
+    "source": "arXiv - Yuhan Liu, Lianhui Qin, Shenji Wan"
+  },
+  {
+    "id": "arxiv_1792992605932_0",
+    "name": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
     "category": "computer-vision",
-    "description": "Controllable 3D part generation is pivotal for digital asset creation, yet existing methods lack the flexibility to accommodate diverse user workflows requiring varying levels of control. In this pape...",
-    "link": "http://arxiv.org/abs/2610.31671v1",
+    "description": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s...",
+    "link": "http://arxiv.org/abs/2610.32978v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-10-23T17:59:21Z",
+    "trending": false,
+    "source": "arXiv - Yuhan Liu, Lianhui Qin, Shenji Wan"
+  },
+  {
+    "id": "arxiv_1792992605932_1",
+    "name": "UniAction: Unified Action Conditioning for World Models",
+    "category": "computer-vision",
+    "description": "Actions that condition world models are highly heterogeneous, and thus existing action-conditioned world models are typically built for individual action types, fragmenting already limited action-anno...",
+    "link": "http://arxiv.org/abs/2610.32977v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-22T17:59:53Z",
-    "trending": true,
-    "source": "arXiv - Qiwen Gu, Xin Zhou, Xiwu Chen et al."
+    "date": "2026-10-23T17:59:13Z",
+    "trending": false,
+    "source": "arXiv - Bowen Xue, Zizhang Li, Hong-Xing Yu et al."
   },
   {
-    "id": "arxiv_1792975655274_1",
-    "name": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+    "id": "arxiv_1792992605932_2",
+    "name": "FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation",
     "category": "computer-vision",
-    "description": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests...",
-    "link": "http://arxiv.org/abs/2610.31670v1",
+    "description": "To estimate correspondences across images, existing approaches match either sparse interest points, which is highly efficient but limited by repeatability, or dense pixel grids, which is robust but ex...",
+    "link": "http://arxiv.org/abs/2610.32976v1",
     "tags": [
       "AI",
-      "Vision"
+      "Neural"
     ],
-    "date": "2026-10-22T17:59:51Z",
-    "trending": true,
-    "source": "arXiv - Yunfei Xie, Howard H. Qian, Shiyi Lan et al."
-  },
-  {
-    "id": "arxiv_1792975655355_0",
-    "name": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-    "category": "machine-learning",
-    "description": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests...",
-    "link": "http://arxiv.org/abs/2610.31670v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-22T17:59:51Z",
-    "trending": true,
-    "source": "arXiv - Yunfei Xie, Howard H. Qian, Shiyi Lan et al."
-  },
-  {
-    "id": "arxiv_1792975655274_2",
-    "name": "Reading, Writing, Sharing, and Interacting with the World through Video",
-    "category": "computer-vision",
-    "description": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their...",
-    "link": "http://arxiv.org/abs/2610.31668v1",
-    "tags": [
-      "GAN"
-    ],
-    "date": "2026-10-22T17:59:50Z",
+    "date": "2026-10-23T17:59:00Z",
     "trending": false,
-    "source": "arXiv - Shengqiong Wu, Meng Luo, Bobo Li et al."
+    "source": "arXiv - Philipp Lindenberger, Paul-Edouard Sarlin, Ondrej Miksik et al."
   },
   {
-    "id": "arxiv_1792975655193_0",
-    "name": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+    "id": "arxiv_1792992605876_1",
+    "name": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
     "category": "ai",
-    "description": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Runn...",
-    "link": "http://arxiv.org/abs/2610.31667v1",
+    "description": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mecha...",
+    "link": "http://arxiv.org/abs/2610.32971v1",
     "tags": [
       "AI",
-      "Optimization"
-    ],
-    "date": "2026-10-22T17:59:48Z",
-    "trending": false,
-    "source": "arXiv - Mahdi Salmani, Adel Javanmard, Devansh Gupta et al."
-  },
-  {
-    "id": "arxiv_1792975655434_0",
-    "name": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
-    "category": "nlp",
-    "description": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Runn...",
-    "link": "http://arxiv.org/abs/2610.31667v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-10-22T17:59:48Z",
-    "trending": false,
-    "source": "arXiv - Mahdi Salmani, Adel Javanmard, Devansh Gupta et al."
-  },
-  {
-    "id": "arxiv_1792975655355_1",
-    "name": "Phase Transition from Random Features to Fully Trainable Networks",
-    "category": "machine-learning",
-    "description": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adapt...",
-    "link": "http://arxiv.org/abs/2610.31663v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "BERT"
-    ],
-    "date": "2026-10-22T17:59:29Z",
-    "trending": false,
-    "source": "arXiv - Xin He, Huan Lao, Xiliang Lu et al."
-  },
-  {
-    "id": "arxiv_1792975655355_2",
-    "name": "Reliable AI-Assisted Decisions via Selective Auditing",
-    "category": "machine-learning",
-    "description": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthine...",
-    "link": "http://arxiv.org/abs/2610.31662v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-10-22T17:59:22Z",
-    "trending": false,
-    "source": "arXiv - Isaac Gibbs, Elise L. Han, Ryan J. Tibshirani et al."
-  },
-  {
-    "id": "arxiv_1792975655274_3",
-    "name": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
-    "category": "computer-vision",
-    "description": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training image...",
-    "link": "http://arxiv.org/abs/2610.31659v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-10-22T17:59:03Z",
-    "trending": true,
-    "source": "arXiv - Sy-Tuyen Ho, Anirudh Satheesh, Soham Chawathe et al."
-  },
-  {
-    "id": "arxiv_1792975655355_3",
-    "name": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
-    "category": "machine-learning",
-    "description": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training image...",
-    "link": "http://arxiv.org/abs/2610.31659v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-10-22T17:59:03Z",
-    "trending": false,
-    "source": "arXiv - Sy-Tuyen Ho, Anirudh Satheesh, Soham Chawathe et al."
-  },
-  {
-    "id": "arxiv_1792975655193_1",
-    "name": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
-    "category": "ai",
-    "description": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on cali...",
-    "link": "http://arxiv.org/abs/2610.31657v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT",
-      "BERT"
-    ],
-    "date": "2026-10-22T17:58:52Z",
-    "trending": false,
-    "source": "arXiv - Sachin Gupta"
-  },
-  {
-    "id": "arxiv_1792975655355_4",
-    "name": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
-    "category": "machine-learning",
-    "description": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on cali...",
-    "link": "http://arxiv.org/abs/2610.31657v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT",
-      "BERT"
-    ],
-    "date": "2026-10-22T17:58:52Z",
-    "trending": false,
-    "source": "arXiv - Sachin Gupta"
-  },
-  {
-    "id": "arxiv_1792975655434_1",
-    "name": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
-    "category": "nlp",
-    "description": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on cali...",
-    "link": "http://arxiv.org/abs/2610.31657v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "GPT",
-      "BERT"
-    ],
-    "date": "2026-10-22T17:58:52Z",
-    "trending": false,
-    "source": "arXiv - Sachin Gupta"
-  },
-  {
-    "id": "arxiv_1792975655193_2",
-    "name": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
-    "category": "ai",
-    "description": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical re...",
-    "link": "http://arxiv.org/abs/2610.31656v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Transformer",
+      "Vision",
       "Reinforcement Learning"
     ],
-    "date": "2026-10-22T17:58:27Z",
-    "trending": true,
-    "source": "arXiv - Ali Najar, Hosein Hasani, Amir Kooshan Fattah et al."
+    "date": "2026-10-23T17:57:22Z",
+    "trending": false,
+    "source": "arXiv - Xi Chen, Fengqi Hu, Zeyu Shen et al."
   },
   {
-    "id": "arxiv_1792975655274_4",
-    "name": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
-    "category": "computer-vision",
-    "description": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assembl...",
-    "link": "http://arxiv.org/abs/2610.31651v1",
+    "id": "arxiv_1792992605987_0",
+    "name": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+    "category": "machine-learning",
+    "description": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mecha...",
+    "link": "http://arxiv.org/abs/2610.32971v1",
     "tags": [
       "AI",
-      "GPT"
+      "Vision",
+      "Reinforcement Learning"
     ],
-    "date": "2026-10-22T17:57:20Z",
+    "date": "2026-10-23T17:57:22Z",
     "trending": false,
-    "source": "arXiv - Ava Pun, Kevin Dai, Sally Chen et al."
+    "source": "arXiv - Xi Chen, Fengqi Hu, Zeyu Shen et al."
   },
   {
-    "id": "arxiv_1792975655194_3",
-    "name": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+    "id": "arxiv_1792992605876_2",
+    "name": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
     "category": "ai",
-    "description": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action eve...",
-    "link": "http://arxiv.org/abs/2610.31650v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-22T17:57:04Z",
-    "trending": true,
-    "source": "arXiv - Qijin Zhang, Hanzhen Wang, Yuehan Zhao et al."
-  },
-  {
-    "id": "arxiv_1792975655194_4",
-    "name": "Low-Bit N-Gram Embeddings for Language Models",
-    "category": "ai",
-    "description": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned representations of short token sequences, such as pairs or triples of consecutive...",
-    "link": "http://arxiv.org/abs/2610.31646v1",
-    "tags": [
-      "AI",
-      "GPT"
-    ],
-    "date": "2026-10-22T17:56:13Z",
-    "trending": false,
-    "source": "arXiv - Stephen Chung, Wenyu Du"
-  },
-  {
-    "id": "arxiv_1792975655434_2",
-    "name": "Low-Bit N-Gram Embeddings for Language Models",
-    "category": "nlp",
-    "description": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned representations of short token sequences, such as pairs or triples of consecutive...",
-    "link": "http://arxiv.org/abs/2610.31646v1",
-    "tags": [
-      "AI",
-      "GPT"
-    ],
-    "date": "2026-10-22T17:56:13Z",
-    "trending": true,
-    "source": "arXiv - Stephen Chung, Wenyu Du"
-  },
-  {
-    "id": "arxiv_1792975655434_3",
-    "name": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
-    "category": "nlp",
-    "description": "Multilingual pipelines such as FineWeb2 apply one recipe across a thousand languages, leaving the failure modes of individual languages unanticipated. We use an LLM once, as a corpus debugger rather t...",
-    "link": "http://arxiv.org/abs/2610.31636v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-22T17:52:22Z",
-    "trending": false,
-    "source": "arXiv - Marek Šuppa, Ivan Vykopal, Jaroslav Kopčan"
-  },
-  {
-    "id": "arxiv_1792975655434_4",
-    "name": "Bilingual Language Models Capture Cross-Linguistic Influence in Second-Language Reading",
-    "category": "nlp",
-    "description": "While monolingual language model (LM) surprisal is widely established as a predictor of reading times, it cannot capture the non-native (L2) reading dynamics that are shaped by the reader's first lang...",
-    "link": "http://arxiv.org/abs/2610.31620v1",
+    "description": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and plac...",
+    "link": "http://arxiv.org/abs/2610.32969v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-22T17:42:06Z",
+    "date": "2026-10-23T17:56:28Z",
     "trending": false,
-    "source": "arXiv - Abderrahmane Issam, Irene E. Winther, Stefan L. Frank"
+    "source": "arXiv - Amber Xie, Jiawei Fu, Xiaofeng Guo et al."
+  },
+  {
+    "id": "arxiv_1792992605987_1",
+    "name": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+    "category": "machine-learning",
+    "description": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and plac...",
+    "link": "http://arxiv.org/abs/2610.32969v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-23T17:56:28Z",
+    "trending": false,
+    "source": "arXiv - Amber Xie, Jiawei Fu, Xiaofeng Guo et al."
+  },
+  {
+    "id": "arxiv_1792992605932_3",
+    "name": "MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs",
+    "category": "computer-vision",
+    "description": "Semantic misinformation can arise when an authentic image is paired with a caption that changes or distorts its narrative. Because the image itself may contain no visible signs of manipulation, method...",
+    "link": "http://arxiv.org/abs/2610.32967v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-23T17:55:02Z",
+    "trending": false,
+    "source": "arXiv - Tarunya Prasad, Bharatesh Chakravarthi"
+  },
+  {
+    "id": "arxiv_1792992605932_4",
+    "name": "ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback",
+    "category": "computer-vision",
+    "description": "Learning humanoid control from monocular human videos offers a scalable way to acquire diverse whole-body behaviors. Yet, existing reconstruction-retargeting-tracking pipelines are limited in system-l...",
+    "link": "http://arxiv.org/abs/2610.32966v1",
+    "tags": [
+      "AI",
+      "Diffusion",
+      "Optimization"
+    ],
+    "date": "2026-10-23T17:54:09Z",
+    "trending": false,
+    "source": "arXiv - Zimo He, Tianyi Bian, Zizhong Yang et al."
+  },
+  {
+    "id": "arxiv_1792992605987_2",
+    "name": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+    "category": "machine-learning",
+    "description": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear ...",
+    "link": "http://arxiv.org/abs/2610.32964v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-23T17:53:30Z",
+    "trending": true,
+    "source": "arXiv - Bernardo Perrone Ribeiro, Erkut Akdag, Egor Bondarev"
+  },
+  {
+    "id": "arxiv_1792992605987_3",
+    "name": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+    "category": "machine-learning",
+    "description": "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were wr...",
+    "link": "http://arxiv.org/abs/2610.32955v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-23T17:49:43Z",
+    "trending": false,
+    "source": "arXiv - Federico Lucca"
+  },
+  {
+    "id": "arxiv_1792992606042_1",
+    "name": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+    "category": "nlp",
+    "description": "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were wr...",
+    "link": "http://arxiv.org/abs/2610.32955v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-23T17:49:43Z",
+    "trending": false,
+    "source": "arXiv - Federico Lucca"
+  },
+  {
+    "id": "arxiv_1792992605987_4",
+    "name": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
+    "category": "machine-learning",
+    "description": "Reinforcement learning for large language models often uses separate systems for inference and training. Even with identical weights and BF16 tensors, implementation differences can make an intended o...",
+    "link": "http://arxiv.org/abs/2610.32951v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-10-23T17:45:03Z",
+    "trending": true,
+    "source": "arXiv - Yijing Ke, Tianle Cai, Ruosong Wang"
+  },
+  {
+    "id": "arxiv_1792992605876_3",
+    "name": "Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models",
+    "category": "ai",
+    "description": "Objective: To develop a unified vision-language model for prompt-conditioned quantitative ultrasound measurement that addresses the mismatch between continuous measurement targets and discrete token-b...",
+    "link": "http://arxiv.org/abs/2610.32948v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion"
+    ],
+    "date": "2026-10-23T17:40:58Z",
+    "trending": false,
+    "source": "arXiv - Dianye Huang, Jiamei Guo, Yue Zhou et al."
+  },
+  {
+    "id": "arxiv_1792992605876_4",
+    "name": "Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms",
+    "category": "ai",
+    "description": "Large language model (LLM) platforms introducing advertising must decide how much capability ad revenue should fund and what consumers should pay to avoid ads. We study a monopolistic platform that jo...",
+    "link": "http://arxiv.org/abs/2610.32945v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-23T17:39:42Z",
+    "trending": false,
+    "source": "arXiv - Yuhang Ji, Fasheng Xu, Tianjun Feng"
+  },
+  {
+    "id": "arxiv_1792992606042_2",
+    "name": "Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model",
+    "category": "nlp",
+    "description": "Despite advances in multilingual text representations, effective dense retrieval for Persian remains constrained by the limited availability of language-specific training resources and compact embeddi...",
+    "link": "http://arxiv.org/abs/2610.32933v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-10-23T17:30:40Z",
+    "trending": false,
+    "source": "arXiv - Yalda Taheri, Mohammad Hassan Heydari, Armon Rasooli"
+  },
+  {
+    "id": "arxiv_1792992606042_3",
+    "name": "Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora",
+    "category": "nlp",
+    "description": "Modern language models rely on subwording tokenization to define the discrete units of input processing, typically using methods like Byte Pair Encoding (BPE) that treat whitespace as a fixed semantic...",
+    "link": "http://arxiv.org/abs/2610.32921v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-23T17:21:18Z",
+    "trending": false,
+    "source": "arXiv - Pietro Di Nicco, Lucio La Cava, Andrea Tagarelli"
+  },
+  {
+    "id": "arxiv_1792992606042_4",
+    "name": "Do \"True\" and \"False\" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations",
+    "category": "nlp",
+    "description": "In LLM-agent opinion simulations, each agent reports the probability that a claim is true after seeing its own previous probability and the probabilities reported by its neighbors, and that number bec...",
+    "link": "http://arxiv.org/abs/2610.32874v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-23T16:44:20Z",
+    "trending": false,
+    "source": "arXiv - Anouar Imel, Jin Qi"
   }
 ]
