@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1793014802434_0",
+    "id": "arxiv_1793036653483_0",
     "name": "The Language of Instruction: Genre and Generative AI",
     "category": "nlp",
     "description": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation ...",
@@ -14,7 +14,7 @@
     "source": "arXiv - James E. Dobson"
   },
   {
-    "id": "arxiv_1793014802408_0",
+    "id": "arxiv_1793036653314_0",
     "name": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
     "category": "ai",
     "description": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s...",
@@ -24,11 +24,11 @@
       "Diffusion"
     ],
     "date": "2026-10-23T17:59:21Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yuhan Liu, Lianhui Qin, Shenji Wan"
   },
   {
-    "id": "arxiv_1793014802424_0",
+    "id": "arxiv_1793036653370_0",
     "name": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
     "category": "computer-vision",
     "description": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s...",
@@ -38,11 +38,11 @@
       "Diffusion"
     ],
     "date": "2026-10-23T17:59:21Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yuhan Liu, Lianhui Qin, Shenji Wan"
   },
   {
-    "id": "arxiv_1793014802424_1",
+    "id": "arxiv_1793036653371_1",
     "name": "UniAction: Unified Action Conditioning for World Models",
     "category": "computer-vision",
     "description": "Actions that condition world models are highly heterogeneous, and thus existing action-conditioned world models are typically built for individual action types, fragmenting already limited action-anno...",
@@ -55,7 +55,7 @@
     "source": "arXiv - Bowen Xue, Zizhang Li, Hong-Xing Yu et al."
   },
   {
-    "id": "arxiv_1793014802424_2",
+    "id": "arxiv_1793036653371_2",
     "name": "FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation",
     "category": "computer-vision",
     "description": "To estimate correspondences across images, existing approaches match either sparse interest points, which is highly efficient but limited by repeatability, or dense pixel grids, which is robust but ex...",
@@ -65,11 +65,11 @@
       "Neural"
     ],
     "date": "2026-10-23T17:59:00Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Philipp Lindenberger, Paul-Edouard Sarlin, Ondrej Miksik et al."
   },
   {
-    "id": "arxiv_1793014802408_1",
+    "id": "arxiv_1793036653314_1",
     "name": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
     "category": "ai",
     "description": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mecha...",
@@ -84,7 +84,7 @@
     "source": "arXiv - Xi Chen, Fengqi Hu, Zeyu Shen et al."
   },
   {
-    "id": "arxiv_1793014802430_0",
+    "id": "arxiv_1793036653426_0",
     "name": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
     "category": "machine-learning",
     "description": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mecha...",
@@ -99,7 +99,7 @@
     "source": "arXiv - Xi Chen, Fengqi Hu, Zeyu Shen et al."
   },
   {
-    "id": "arxiv_1793014802408_2",
+    "id": "arxiv_1793036653314_2",
     "name": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
     "category": "ai",
     "description": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and plac...",
@@ -112,7 +112,7 @@
     "source": "arXiv - Amber Xie, Jiawei Fu, Xiaofeng Guo et al."
   },
   {
-    "id": "arxiv_1793014802430_1",
+    "id": "arxiv_1793036653426_1",
     "name": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
     "category": "machine-learning",
     "description": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and plac...",
@@ -125,7 +125,7 @@
     "source": "arXiv - Amber Xie, Jiawei Fu, Xiaofeng Guo et al."
   },
   {
-    "id": "arxiv_1793014802424_3",
+    "id": "arxiv_1793036653371_3",
     "name": "MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs",
     "category": "computer-vision",
     "description": "Semantic misinformation can arise when an authentic image is paired with a caption that changes or distorts its narrative. Because the image itself may contain no visible signs of manipulation, method...",
@@ -135,11 +135,11 @@
       "Vision"
     ],
     "date": "2026-10-23T17:55:02Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Tarunya Prasad, Bharatesh Chakravarthi"
   },
   {
-    "id": "arxiv_1793014802424_4",
+    "id": "arxiv_1793036653371_4",
     "name": "ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback",
     "category": "computer-vision",
     "description": "Learning humanoid control from monocular human videos offers a scalable way to acquire diverse whole-body behaviors. Yet, existing reconstruction-retargeting-tracking pipelines are limited in system-l...",
@@ -154,7 +154,7 @@
     "source": "arXiv - Zimo He, Tianyi Bian, Zizhong Yang et al."
   },
   {
-    "id": "arxiv_1793014802430_2",
+    "id": "arxiv_1793036653426_2",
     "name": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
     "category": "machine-learning",
     "description": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear ...",
@@ -167,7 +167,7 @@
     "source": "arXiv - Bernardo Perrone Ribeiro, Erkut Akdag, Egor Bondarev"
   },
   {
-    "id": "arxiv_1793014802430_3",
+    "id": "arxiv_1793036653426_3",
     "name": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
     "category": "machine-learning",
     "description": "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were wr...",
@@ -177,11 +177,11 @@
       "LLM"
     ],
     "date": "2026-10-23T17:49:43Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Federico Lucca"
   },
   {
-    "id": "arxiv_1793014802434_1",
+    "id": "arxiv_1793036653483_1",
     "name": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
     "category": "nlp",
     "description": "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were wr...",
@@ -195,7 +195,7 @@
     "source": "arXiv - Federico Lucca"
   },
   {
-    "id": "arxiv_1793014802430_4",
+    "id": "arxiv_1793036653426_4",
     "name": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
     "category": "machine-learning",
     "description": "Reinforcement learning for large language models often uses separate systems for inference and training. Even with identical weights and BF16 tensors, implementation differences can make an intended o...",
@@ -210,7 +210,7 @@
     "source": "arXiv - Yijing Ke, Tianle Cai, Ruosong Wang"
   },
   {
-    "id": "arxiv_1793014802408_3",
+    "id": "arxiv_1793036653314_3",
     "name": "Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models",
     "category": "ai",
     "description": "Objective: To develop a unified vision-language model for prompt-conditioned quantitative ultrasound measurement that addresses the mismatch between continuous measurement targets and discrete token-b...",
@@ -225,7 +225,7 @@
     "source": "arXiv - Dianye Huang, Jiamei Guo, Yue Zhou et al."
   },
   {
-    "id": "arxiv_1793014802409_4",
+    "id": "arxiv_1793036653314_4",
     "name": "Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms",
     "category": "ai",
     "description": "Large language model (LLM) platforms introducing advertising must decide how much capability ad revenue should fund and what consumers should pay to avoid ads. We study a monopolistic platform that jo...",
@@ -235,11 +235,11 @@
       "LLM"
     ],
     "date": "2026-10-23T17:39:42Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuhang Ji, Fasheng Xu, Tianjun Feng"
   },
   {
-    "id": "arxiv_1793014802434_2",
+    "id": "arxiv_1793036653483_2",
     "name": "Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model",
     "category": "nlp",
     "description": "Despite advances in multilingual text representations, effective dense retrieval for Persian remains constrained by the limited availability of language-specific training resources and compact embeddi...",
@@ -254,7 +254,7 @@
     "source": "arXiv - Yalda Taheri, Mohammad Hassan Heydari, Armon Rasooli"
   },
   {
-    "id": "arxiv_1793014802435_3",
+    "id": "arxiv_1793036653483_3",
     "name": "Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora",
     "category": "nlp",
     "description": "Modern language models rely on subwording tokenization to define the discrete units of input processing, typically using methods like Byte Pair Encoding (BPE) that treat whitespace as a fixed semantic...",
@@ -263,11 +263,11 @@
       "AI"
     ],
     "date": "2026-10-23T17:21:18Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Pietro Di Nicco, Lucio La Cava, Andrea Tagarelli"
   },
   {
-    "id": "arxiv_1793014802435_4",
+    "id": "arxiv_1793036653483_4",
     "name": "Do \"True\" and \"False\" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations",
     "category": "nlp",
     "description": "In LLM-agent opinion simulations, each agent reports the probability that a claim is true after seeing its own previous probability and the probabilities reported by its neighbors, and that number bec...",
@@ -277,7 +277,7 @@
       "LLM"
     ],
     "date": "2026-10-23T16:44:20Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Anouar Imel, Jin Qi"
   }
 ]
