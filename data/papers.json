@@ -1,6 +1,215 @@
 [
   {
-    "id": "arxiv_1793140893451_0",
+    "id": "arxiv_1793152254564_0",
+    "name": "Dense Representation Learning and Differentiable Shape Modeling for Spine Landmark Detection",
+    "category": "computer-vision",
+    "description": "Spine landmark detection from spinal X-ray is a key step for estimating spine deformation severity, for building biomechanical models, and for pre-operative planning. We reframe anatomical landmark de...",
+    "link": "http://arxiv.org/abs/2610.36951v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-27T10:11:18Z",
+    "trending": false,
+    "source": "arXiv - Augustin Daridon, Sofiane Sifaoui, Ayman Assi et al."
+  },
+  {
+    "id": "arxiv_1793152254614_0",
+    "name": "DCKV: Learned Transform Coding of the Prompt KV Cache in Hybrid Language Models",
+    "category": "machine-learning",
+    "description": "Hybrid language models keep a key-value (KV) cache only in their few full-attention layers, but this cache is still the part of a prompt's state that grows with the prompt and that must be stored or m...",
+    "link": "http://arxiv.org/abs/2610.36950v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-27T10:11:04Z",
+    "trending": false,
+    "source": "arXiv - Egor Maximov, Aleksei Merkelov, Vasiliy Alekseev et al."
+  },
+  {
+    "id": "arxiv_1793152254655_0",
+    "name": "Self-Keyed In-Parameter Memorization for External Memory-Free Dialogue Recall in Frozen Language Models",
+    "category": "nlp",
+    "description": "A large language model maintains conversational content in an external storage that is outside the model and grows as the dialogue continues. This work assumes an environment where a language model ha...",
+    "link": "http://arxiv.org/abs/2610.36948v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-27T10:10:11Z",
+    "trending": false,
+    "source": "arXiv - XinYu Piao, Myunghoon Ryu, Joongheon Kim et al."
+  },
+  {
+    "id": "arxiv_1793152254614_1",
+    "name": "Algorithmic Monoculture in Machine Learning-based Site-Specific Fertilizer Recommendation",
+    "category": "machine-learning",
+    "description": "Machine learning recommendations are often evaluated one model at a time, despite deployment across interconnected decision makers. For continuous NPK fertilizer prescriptions, correlated errors can a...",
+    "link": "http://arxiv.org/abs/2610.36941v1",
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ],
+    "date": "2026-10-27T10:01:56Z",
+    "trending": false,
+    "source": "arXiv - Abdelghani Belgaid"
+  },
+  {
+    "id": "arxiv_1793152254614_2",
+    "name": "TDLM: Adaptive Temporal Integration for Diffusion Language Models",
+    "category": "machine-learning",
+    "description": "Masked diffusion language models repeatedly compute representations for unresolved tokens, but conventional denoisers do not explicitly retain these representations for reuse across steps. We introduc...",
+    "link": "http://arxiv.org/abs/2610.36940v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-10-27T10:01:08Z",
+    "trending": false,
+    "source": "arXiv - Bohang Sun, Max Zhu, Francesco Caso et al."
+  },
+  {
+    "id": "arxiv_1793152254655_1",
+    "name": "JevRec: Linguistic Encoding with Jev-like Decision Modeling for LLM-based Generative Recommendation",
+    "category": "nlp",
+    "description": "Generative recommendation (GR) represents items as semantic identifiers (SIDs) and autoregressively generates the next item's SID from interaction history. However, most methods assign the same SID le...",
+    "link": "http://arxiv.org/abs/2610.36937v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-10-27T09:59:44Z",
+    "trending": false,
+    "source": "arXiv - Qiyong Zhong, Jiajie Su, Ming Yang et al."
+  },
+  {
+    "id": "arxiv_1793152254614_3",
+    "name": "Gaussian Process Bandits for Constraint Black Box Lever Optimization",
+    "category": "machine-learning",
+    "description": "Optimizing discrete allocation weights across competing segments of a shared budget is a fundamental challenge in resource-constrained, sequential decision-making environments. In practice, this optim...",
+    "link": "http://arxiv.org/abs/2610.36935v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-10-27T09:59:09Z",
+    "trending": false,
+    "source": "arXiv - Bram van den Akker, Hidde Fokkema, Anastasiia Kornilova"
+  },
+  {
+    "id": "arxiv_1793152254614_4",
+    "name": "Provenance Signatures for Low Rank Adaptations of Image Diffusion Models",
+    "category": "machine-learning",
+    "description": "Diffusion models have revolutionized the generation of realistic artificial images. Efficient techniques such as Low Rank Adaptation (LoRA) can modify these models for particular use cases, making the...",
+    "link": "http://arxiv.org/abs/2610.36933v1",
+    "tags": [
+      "Diffusion"
+    ],
+    "date": "2026-10-27T09:58:33Z",
+    "trending": false,
+    "source": "arXiv - Tobias Cheung, Mohan Dantam, Marc Juarez et al."
+  },
+  {
+    "id": "arxiv_1793152254564_1",
+    "name": "DocXEval: A Systematic Evaluation of Explainability in Multimodal Document Understanding",
+    "category": "computer-vision",
+    "description": "Multimodal transformer models have driven unprecedented performance breakthroughs in modern document understanding. However, the inherent black-box nature of these models remains a major obstacle to t...",
+    "link": "http://arxiv.org/abs/2610.36929v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-10-27T09:53:21Z",
+    "trending": true,
+    "source": "arXiv - Saifullah Saifullah, David Dembinsky, Stefan Agne et al."
+  },
+  {
+    "id": "arxiv_1793152254655_2",
+    "name": "DocXEval: A Systematic Evaluation of Explainability in Multimodal Document Understanding",
+    "category": "nlp",
+    "description": "Multimodal transformer models have driven unprecedented performance breakthroughs in modern document understanding. However, the inherent black-box nature of these models remains a major obstacle to t...",
+    "link": "http://arxiv.org/abs/2610.36929v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-10-27T09:53:21Z",
+    "trending": false,
+    "source": "arXiv - Saifullah Saifullah, David Dembinsky, Stefan Agne et al."
+  },
+  {
+    "id": "arxiv_1793152254655_3",
+    "name": "TrawMem: Reframing Agent Memory as Task-Oriented Role-Adaptive Workspaces",
+    "category": "nlp",
+    "description": "Large language model (LLM) agents rely on memory systems to leverage long-term interactions, yet existing systems typically retrieve memories based on their relevance to the current query and use them...",
+    "link": "http://arxiv.org/abs/2610.36918v1",
+    "tags": [
+      "AI",
+      "GAN",
+      "LLM"
+    ],
+    "date": "2026-10-27T09:46:15Z",
+    "trending": true,
+    "source": "arXiv - Mingyu Zhang, Zixu Li, Zhiheng Fu et al."
+  },
+  {
+    "id": "arxiv_1793152254656_4",
+    "name": "Do We Need an LLM to Know Why Sources Conflict? Decision Models for Knowledge-Conflict Typing in RAG",
+    "category": "nlp",
+    "description": "When the sources retrieved for a query disagree, the right response depends on why they disagree: a question with several valid answers, a contested topic, stale information and a false source each ca...",
+    "link": "http://arxiv.org/abs/2610.36915v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-10-27T09:43:21Z",
+    "trending": false,
+    "source": "arXiv - Parv Khatri, Harshul Jain, Mehak Kapoor et al."
+  },
+  {
+    "id": "arxiv_1793152254564_2",
+    "name": "PREEN: Exemplar-Based Color Style Transfer with Smartphone Editor Presets",
+    "category": "computer-vision",
+    "description": "We present PREEN (Preset Regression via an Exemplar-based Editor Network), which casts color style transfer as regression onto the 29 parameters of a deterministic image editor. Given a content image ...",
+    "link": "http://arxiv.org/abs/2610.36896v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-27T09:30:35Z",
+    "trending": false,
+    "source": "arXiv - Beomjin Ahn"
+  },
+  {
+    "id": "arxiv_1793152254564_3",
+    "name": "GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents",
+    "category": "computer-vision",
+    "description": "Mobile GUI agents are typically fine-tuned 7B-scale vision-language models (VLMs) that generate each action as text. However, these VLMs decode every action token by token, and even agents that score ...",
+    "link": "http://arxiv.org/abs/2610.36877v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-10-27T09:17:51Z",
+    "trending": true,
+    "source": "arXiv - Bingchao Wang, Yongcheng Jing, Shunyu Liu et al."
+  },
+  {
+    "id": "arxiv_1793152254564_4",
+    "name": "HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency",
+    "category": "computer-vision",
+    "description": "Long-sequence panoramic reconstruction requires detailed scene geometry and globally consistent camera poses across distant revisits. Panoramic SLAM and incremental SfM rely on feature correspondences...",
+    "link": "http://arxiv.org/abs/2610.36876v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-10-27T09:17:38Z",
+    "trending": false,
+    "source": "arXiv - Zhuoxiao Li, Xinyi Liu, Hongye Hou et al."
+  },
+  {
+    "id": "arxiv_1793152254523_0",
     "name": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
     "category": "ai",
     "description": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the r...",
@@ -13,7 +222,7 @@
     "source": "arXiv - Chao Wan, Paul Jünger, Beixi Du et al."
   },
   {
-    "id": "arxiv_1793140893452_1",
+    "id": "arxiv_1793152254523_1",
     "name": "Center-of-Mass Interpretation of Evolution Strategies",
     "category": "ai",
     "description": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presen...",
@@ -22,137 +231,26 @@
       "AI"
     ],
     "date": "2026-10-26T17:59:33Z",
-    "trending": false,
-    "source": "arXiv - Akshat Gupta"
-  },
-  {
-    "id": "arxiv_1793140893576_0",
-    "name": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
-    "category": "machine-learning",
-    "description": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark...",
-    "link": "http://arxiv.org/abs/2610.35866v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-26T17:59:33Z",
-    "trending": false,
-    "source": "arXiv - Xi Chen, Chongjian Ge, Yiran Xu et al."
-  },
-  {
-    "id": "arxiv_1793140893637_0",
-    "name": "Center-of-Mass Interpretation of Evolution Strategies",
-    "category": "nlp",
-    "description": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presen...",
-    "link": "http://arxiv.org/abs/2610.35865v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-26T17:59:33Z",
-    "trending": false,
-    "source": "arXiv - Akshat Gupta"
-  },
-  {
-    "id": "arxiv_1793140893515_0",
-    "name": "VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
-    "category": "computer-vision",
-    "description": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a ruleconsistent game or narration synchronized to on-screen events. A different route...",
-    "link": "http://arxiv.org/abs/2610.35864v1",
-    "tags": [
-      "AI",
-      "GPT",
-      "Diffusion"
-    ],
-    "date": "2026-10-26T17:59:32Z",
-    "trending": false,
-    "source": "arXiv - Muxi Diao, Wenbin Xu, Lele Yang et al."
-  },
-  {
-    "id": "arxiv_1793140893452_2",
-    "name": "Learning Force-Reactive Humanoid Loco-Manipulation",
-    "category": "ai",
-    "description": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic ...",
-    "link": "http://arxiv.org/abs/2610.35862v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Diffusion"
-    ],
-    "date": "2026-10-26T17:59:11Z",
-    "trending": false,
-    "source": "arXiv - Sihang Li, Xiaofeng Guo, Jinkun Cao et al."
-  },
-  {
-    "id": "arxiv_1793140893576_1",
-    "name": "Learning Force-Reactive Humanoid Loco-Manipulation",
-    "category": "machine-learning",
-    "description": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic ...",
-    "link": "http://arxiv.org/abs/2610.35862v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Diffusion"
-    ],
-    "date": "2026-10-26T17:59:11Z",
-    "trending": false,
-    "source": "arXiv - Sihang Li, Xiaofeng Guo, Jinkun Cao et al."
-  },
-  {
-    "id": "arxiv_1793140893515_1",
-    "name": "Do vision models know that three is three?",
-    "category": "computer-vision",
-    "description": "Do vision models encode the transition $2{\\to}3$ the same way whether it appears in handwritten digits or in hand gestures, and do they \"understand\" that clean${\\to}$dirty is the same transformation r...",
-    "link": "http://arxiv.org/abs/2610.35857v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-26T17:58:17Z",
-    "trending": false,
-    "source": "arXiv - Ankit Sonthalia, Arnas Uselis, Seong Joon Oh"
-  },
-  {
-    "id": "arxiv_1793140893577_2",
-    "name": "On the stability of learning",
-    "category": "machine-learning",
-    "description": "Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for e...",
-    "link": "http://arxiv.org/abs/2610.35856v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-10-26T17:58:14Z",
-    "trending": false,
-    "source": "arXiv - John J. Vastola"
-  },
-  {
-    "id": "arxiv_1793140893515_2",
-    "name": "FL4N: Feed-forward Latent Model for 4D Novel View Synthesis",
-    "category": "computer-vision",
-    "description": "4D novel view synthesis (NVS) aims to render dynamic scenes across viewpoints and timestamps, which requires jointly inferring 3D structure and temporal dynamics. Existing monocular feed-forward metho...",
-    "link": "http://arxiv.org/abs/2610.35854v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-26T17:58:03Z",
     "trending": true,
-    "source": "arXiv - Eunbeen Hong, Hyeonseo Yu, Honggyu An et al."
+    "source": "arXiv - Akshat Gupta"
   },
   {
-    "id": "arxiv_1793140893516_3",
-    "name": "OSWAM: An Effective World Action Model with One-Step Action Generation",
-    "category": "computer-vision",
-    "description": "Direct-policy World Action Models (WAM) have demonstrated the benefits of decoupling action generation from explicit future visual prediction for efficient inference in autonomous driving and embodied...",
-    "link": "http://arxiv.org/abs/2610.35850v1",
+    "id": "arxiv_1793152254523_2",
+    "name": "Learning Force-Reactive Humanoid Loco-Manipulation",
+    "category": "ai",
+    "description": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic ...",
+    "link": "http://arxiv.org/abs/2610.35862v1",
     "tags": [
       "AI",
+      "Vision",
       "Diffusion"
     ],
-    "date": "2026-10-26T17:57:09Z",
-    "trending": false,
-    "source": "arXiv - Guowen Zhang, Liyi Chen, Xu Hu et al."
+    "date": "2026-10-26T17:59:11Z",
+    "trending": true,
+    "source": "arXiv - Sihang Li, Xiaofeng Guo, Jinkun Cao et al."
   },
   {
-    "id": "arxiv_1793140893452_3",
+    "id": "arxiv_1793152254523_3",
     "name": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care",
     "category": "ai",
     "description": "Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across...",
@@ -162,54 +260,11 @@
       "LLM"
     ],
     "date": "2026-10-26T17:56:26Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Wei-Wei Zhang, Pengkai Wang, Yan Li et al."
   },
   {
-    "id": "arxiv_1793140893637_1",
-    "name": "Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR",
-    "category": "nlp",
-    "description": "Expanding multilingual ASR systems to new languages is challenging when adaptation must preserve previously supported languages without replaying source-language training data. We study this problem i...",
-    "link": "http://arxiv.org/abs/2610.35846v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-26T17:56:22Z",
-    "trending": false,
-    "source": "arXiv - Yuchen Zhang, Haralambos Mouratidis, Ravi Shekhar"
-  },
-  {
-    "id": "arxiv_1793140893577_3",
-    "name": "Work Agents: Systems, Capabilities, and Optimization",
-    "category": "machine-learning",
-    "description": "As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, exist...",
-    "link": "http://arxiv.org/abs/2610.35845v1",
-    "tags": [
-      "AI",
-      "GAN",
-      "Optimization"
-    ],
-    "date": "2026-10-26T17:56:21Z",
-    "trending": false,
-    "source": "arXiv - Zishan Xu, Enjun Du, Mingqi Gao et al."
-  },
-  {
-    "id": "arxiv_1793140893516_4",
-    "name": "MedVTok: A General-Purpose Medical Visual Tokenizer",
-    "category": "computer-vision",
-    "description": "Multimodal medical AI requires a common visual interface for encoding heterogeneous imaging evidence for patient condition modeling. However, existing medical visual tokenizers are often tied to a spe...",
-    "link": "http://arxiv.org/abs/2610.35842v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-26T17:54:40Z",
-    "trending": true,
-    "source": "arXiv - Chenglong Ma, Yuanfeng Ji, Junzhi Ning et al."
-  },
-  {
-    "id": "arxiv_1793140893452_4",
+    "id": "arxiv_1793152254524_4",
     "name": "I-HITL: Inalienable Human-in-the-Loop",
     "category": "ai",
     "description": "Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, th...",
@@ -220,61 +275,5 @@
     "date": "2026-10-26T17:52:14Z",
     "trending": false,
     "source": "arXiv - Samuel Breckenridge, Dani Vilardell, Wenhao Wang et al."
-  },
-  {
-    "id": "arxiv_1793140893577_4",
-    "name": "Information-Theoretic Secure Aggregation With Heterogeneous Client Quantization",
-    "category": "machine-learning",
-    "description": "In federated learning (FL), secure aggregation enables a server to compute the sum of local model updates of $N$ clients, without revealing any information on the individual model updates to the serve...",
-    "link": "http://arxiv.org/abs/2610.35833v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-26T17:51:08Z",
-    "trending": true,
-    "source": "arXiv - Shreya Meel, Sennur Ulukus, Itzhak Tamo"
-  },
-  {
-    "id": "arxiv_1793140893637_2",
-    "name": "Understanding Jev-Style System One Models: Does Structure Reduce Selection Bias?",
-    "category": "nlp",
-    "description": "Selection bias in large language models (LLMs) can persist despite instructions to ignore presentation order or prompts that elicit reasoning. Recent efforts to reproduce Jev-style System One behavior...",
-    "link": "http://arxiv.org/abs/2610.35826v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-26T17:48:55Z",
-    "trending": false,
-    "source": "arXiv - Mingyang Song, Mao Zheng, Zhiyuan Ma et al."
-  },
-  {
-    "id": "arxiv_1793140893637_3",
-    "name": "Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models",
-    "category": "nlp",
-    "description": "Diffusion large language models (dLLMs) can generate multiple tokens in parallel, but often require many decoding rounds to complete a response. Efficient generation depends not only on which tokens a...",
-    "link": "http://arxiv.org/abs/2610.35804v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Diffusion"
-    ],
-    "date": "2026-10-26T17:35:58Z",
-    "trending": true,
-    "source": "arXiv - Aidar Myrzakhan, Zhiqiang Shen"
-  },
-  {
-    "id": "arxiv_1793140893637_4",
-    "name": "Quantifying Claim Smoothing by LLM Research Agents",
-    "category": "nlp",
-    "description": "Deep research, or any use of large language models (LLMs) to read a large document collection and produce insights, requires synthesizing information from different sources. In this work, we find that...",
-    "link": "http://arxiv.org/abs/2610.35793v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-26T17:29:48Z",
-    "trending": false,
-    "source": "arXiv - Tiasa Singha Roy, Manya Wadhwa, Greg Durrett"
   }
 ]
