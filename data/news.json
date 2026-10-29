@@ -1,6 +1,160 @@
 [
   {
-    "id": "rss_MIT_Tech_Review_1793269753364_0",
+    "id": "rss_TechCrunch_1793293664491_0",
+    "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times. ",
+    "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "tags": [
+      "AI",
+      "NVIDIA"
+    ],
+    "date": "Thu, 29 Oct 2026 16:42:32 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1793293667792_0",
+    "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+    "tags": [
+      "AI",
+      "Google"
+    ],
+    "date": "Thu, 29 Oct 2026 16:24:55 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1793293664491_1",
+    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+    "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 29 Oct 2026 16:21:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1793293668928_0",
+    "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+    "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Thu, 29 Oct 2026 15:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1793293664491_2",
+    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+    "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 29 Oct 2026 14:35:26 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Wired_1793293668928_1",
+    "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+    "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 29 Oct 2026 14:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1793293664491_3",
+    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+    "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 29 Oct 2026 13:00:00 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1793293664491_4",
+    "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+    "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+    "tags": [],
+    "date": "Thu, 29 Oct 2026 13:00:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1793293667792_1",
+    "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The leak reveals undercover agents, surveillance groups, and sensitive DHS access.\n                    ",
+    "link": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+    "tags": [],
+    "date": "Thu, 29 Oct 2026 12:58:34 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1793293666598_0",
+    "title": "The Download: AI agent tracking and climate feedback loops",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit ",
+    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Thu, 29 Oct 2026 12:10:00 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1793293667792_2",
+    "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+    "tags": [],
+    "date": "Thu, 29 Oct 2026 11:00:08 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1793293666598_1",
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
+    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Thu, 29 Oct 2026 10:11:12 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1793293666598_2",
     "title": "Our climate models have a big, dangerous blind spot",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -11,7 +165,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1793269755774_0",
+    "id": "rss_Wired_1793293668928_2",
     "title": "I Gave My Blood to the AI Death Clock",
     "category": "ai-news",
     "source": "Wired",
@@ -21,21 +175,21 @@
       "AI"
     ],
     "date": "Thu, 29 Oct 2026 10:00:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1793269754659_0",
+    "id": "rss_Ars_Technica_1793293667792_3",
     "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
     "category": "ai-news",
     "source": "Ars Technica",
-    "description": "\n                        This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.\n                    ",
+    "description": "\n                        This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.\n                    ",
     "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
     "tags": [],
     "date": "Wed, 28 Oct 2026 22:51:15 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1793269754659_1",
+    "id": "rss_Ars_Technica_1793293667792_4",
     "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -46,74 +200,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1793269754659_2",
-    "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\"\n                    ",
-    "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
-    "tags": [],
-    "date": "Wed, 28 Oct 2026 22:17:15 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1793269751088_0",
-    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-    "tags": [
-      "Microsoft"
-    ],
-    "date": "Wed, 28 Oct 2026 21:58:32 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1793269751088_1",
-    "title": "Google expands AI Search ads globally as core ad growth slows",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Wed, 28 Oct 2026 21:48:37 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1793269751088_2",
-    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "Microsoft"
-    ],
-    "date": "Wed, 28 Oct 2026 21:34:30 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1793269751088_3",
-    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-    "tags": [
-      "AI",
-      "Microsoft"
-    ],
-    "date": "Wed, 28 Oct 2026 21:25:30 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1793269753364_1",
+    "id": "rss_MIT_Tech_Review_1793293666599_3",
     "title": "Creating AI value with enterprise context",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -127,42 +214,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1793269754659_3",
-    "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        US agency has sued 10 states for trying to stop gambling on prediction markets.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-    "tags": [],
-    "date": "Wed, 28 Oct 2026 19:30:33 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1793269754659_4",
-    "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        It has been nearly a year since any space tourism flights occurred.\n                    ",
-    "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
-    "tags": [],
-    "date": "Wed, 28 Oct 2026 19:20:36 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1793269751088_4",
-    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 28 Oct 2026 19:19:58 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1793269755774_1",
+    "id": "rss_Wired_1793293668928_3",
     "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
     "category": "ai-news",
     "source": "Wired",
@@ -172,10 +224,10 @@
       "AI"
     ],
     "date": "Wed, 28 Oct 2026 18:30:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1793269753365_2",
+    "id": "rss_MIT_Tech_Review_1793293666599_4",
     "title": "The Download: dead startups fueling AI and interspecies communication",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -186,23 +238,10 @@
       "Startup"
     ],
     "date": "Wed, 28 Oct 2026 12:10:00 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1793269753365_3",
-    "title": "Pairing industrial AI autonomy and human control",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "No description",
-    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 28 Oct 2026 12:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1793269755774_2",
+    "id": "rss_Wired_1793293668928_4",
     "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
     "category": "ai-news",
     "source": "Wired",
@@ -212,50 +251,10 @@
       "AI"
     ],
     "date": "Wed, 28 Oct 2026 10:15:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1793269755775_3",
-    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-    "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-    "tags": [
-      "AI",
-      "Chatbot"
-    ],
-    "date": "Wed, 28 Oct 2026 08:30:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1793269755775_4",
-    "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-    "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Wed, 28 Oct 2026 06:00:00 +0000",
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1793269753365_4",
-    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages",
-    "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 27 Oct 2026 12:10:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1793269764289_0",
+    "id": "rss_Distill_1793293676912_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -268,7 +267,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1793269764289_1",
+    "id": "rss_Distill_1793293676912_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -278,10 +277,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1793269764289_2",
+    "id": "rss_Distill_1793293676912_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -292,7 +291,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1793269764289_3",
+    "id": "rss_Distill_1793293676912_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -302,10 +301,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1793269764289_4",
+    "id": "rss_Distill_1793293676912_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
