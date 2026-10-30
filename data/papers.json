@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1793351318541_0",
+    "id": "arxiv_1793377095317_0",
     "name": "Elucidating the Design Space of LM Data Attribution",
     "category": "nlp",
     "description": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, ma...",
@@ -10,11 +10,11 @@
       "LLM"
     ],
     "date": "2026-10-29T17:59:53Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Steven Yu, Sheng-Yu Wang, Kimia Hamidieh et al."
   },
   {
-    "id": "arxiv_1793351318465_0",
+    "id": "arxiv_1793377095154_0",
     "name": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
     "category": "computer-vision",
     "description": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editor...",
@@ -24,11 +24,11 @@
       "Optimization"
     ],
     "date": "2026-10-29T17:59:49Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Nhan Tran, Hijung Valentina Shin, Abe Davis et al."
   },
   {
-    "id": "arxiv_1793351318503_0",
+    "id": "arxiv_1793377095238_0",
     "name": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
     "category": "machine-learning",
     "description": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single r...",
@@ -41,7 +41,7 @@
     "source": "arXiv - Moshe Shenfeld, Eliad Tsfadia, Katrina Ligett"
   },
   {
-    "id": "arxiv_1793351318428_0",
+    "id": "arxiv_1793377094891_0",
     "name": "Rethinking Neural Thickets Without Weight Perturbations",
     "category": "ai",
     "description": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce...",
@@ -56,7 +56,7 @@
     "source": "arXiv - Nicolas Dufour, Elouan Gardès, Amil Dravid et al."
   },
   {
-    "id": "arxiv_1793351318466_1",
+    "id": "arxiv_1793377095154_1",
     "name": "Rethinking Neural Thickets Without Weight Perturbations",
     "category": "computer-vision",
     "description": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce...",
@@ -71,7 +71,7 @@
     "source": "arXiv - Nicolas Dufour, Elouan Gardès, Amil Dravid et al."
   },
   {
-    "id": "arxiv_1793351318503_1",
+    "id": "arxiv_1793377095238_1",
     "name": "Rethinking Neural Thickets Without Weight Perturbations",
     "category": "machine-learning",
     "description": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce...",
@@ -82,11 +82,11 @@
       "Vision"
     ],
     "date": "2026-10-29T17:59:29Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Nicolas Dufour, Elouan Gardès, Amil Dravid et al."
   },
   {
-    "id": "arxiv_1793351318428_1",
+    "id": "arxiv_1793377094891_1",
     "name": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
     "category": "ai",
     "description": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det...",
@@ -101,7 +101,7 @@
     "source": "arXiv - Jiongfan Yang, Weichen Fan, Haiwen Diao et al."
   },
   {
-    "id": "arxiv_1793351318466_2",
+    "id": "arxiv_1793377095155_2",
     "name": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
     "category": "computer-vision",
     "description": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det...",
@@ -116,7 +116,7 @@
     "source": "arXiv - Jiongfan Yang, Weichen Fan, Haiwen Diao et al."
   },
   {
-    "id": "arxiv_1793351318503_2",
+    "id": "arxiv_1793377095238_2",
     "name": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
     "category": "machine-learning",
     "description": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det...",
@@ -131,7 +131,7 @@
     "source": "arXiv - Jiongfan Yang, Weichen Fan, Haiwen Diao et al."
   },
   {
-    "id": "arxiv_1793351318503_3",
+    "id": "arxiv_1793377095238_3",
     "name": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
     "category": "machine-learning",
     "description": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how ...",
@@ -145,7 +145,7 @@
     "source": "arXiv - Aron Brenner, Saurabh Amin"
   },
   {
-    "id": "arxiv_1793351318428_2",
+    "id": "arxiv_1793377094891_2",
     "name": "Luggage re-identification: A study of strategies towards a real-world application",
     "category": "ai",
     "description": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (los...",
@@ -158,7 +158,7 @@
     "source": "arXiv - Quentin Dhôte, Romaric Audigier"
   },
   {
-    "id": "arxiv_1793351318466_3",
+    "id": "arxiv_1793377095155_3",
     "name": "Luggage re-identification: A study of strategies towards a real-world application",
     "category": "computer-vision",
     "description": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (los...",
@@ -171,7 +171,7 @@
     "source": "arXiv - Quentin Dhôte, Romaric Audigier"
   },
   {
-    "id": "arxiv_1793351318428_3",
+    "id": "arxiv_1793377094891_3",
     "name": "From extreme weather to agricultural consequences with agentic AI",
     "category": "ai",
     "description": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and ...",
@@ -184,7 +184,7 @@
     "source": "arXiv - Minghan Yu, Mengyu Dai, Yixin Wen et al."
   },
   {
-    "id": "arxiv_1793351318466_4",
+    "id": "arxiv_1793377095155_4",
     "name": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
     "category": "computer-vision",
     "description": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being in...",
@@ -198,7 +198,7 @@
     "source": "arXiv - Derong Jin, Xiyi Chen, Ming C. Lin et al."
   },
   {
-    "id": "arxiv_1793351318503_4",
+    "id": "arxiv_1793377095238_4",
     "name": "world2vec: Mechanistic world models through latent dynamics learning",
     "category": "machine-learning",
     "description": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. ...",
@@ -211,7 +211,7 @@
     "source": "arXiv - Tobias Schmidt, Rodrigo Gonzalez Laiz, Krisztián Szuppinger et al."
   },
   {
-    "id": "arxiv_1793351318429_4",
+    "id": "arxiv_1793377094891_4",
     "name": "Probing Spatial State Representations in Visual Foundation Models",
     "category": "ai",
     "description": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls f...",
@@ -224,7 +224,7 @@
     "source": "arXiv - Baiqiao Yin, Zhongang Cai, Ruisi Wang et al."
   },
   {
-    "id": "arxiv_1793351318542_1",
+    "id": "arxiv_1793377095317_1",
     "name": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
     "category": "nlp",
     "description": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This br...",
@@ -239,7 +239,7 @@
     "source": "arXiv - Qiyao Ma, Xiaodong Liu, Weiwei Yang et al."
   },
   {
-    "id": "arxiv_1793351318542_2",
+    "id": "arxiv_1793377095317_2",
     "name": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
     "category": "nlp",
     "description": "Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding...",
@@ -252,7 +252,7 @@
     "source": "arXiv - Chengyang He, Wenlong Zhang, Koduvayur Subbalakshmi et al."
   },
   {
-    "id": "arxiv_1793351318542_3",
+    "id": "arxiv_1793377095317_3",
     "name": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
     "category": "nlp",
     "description": "We present TextSeal2, a distortion-free watermark for large language models that keeps its signal under speculative decoding: tokens that replace rejected drafts remain watermarked with the same keys,...",
@@ -267,7 +267,7 @@
     "source": "arXiv - Tom Sander, Pierre Fernandez, Itai Gat et al."
   },
   {
-    "id": "arxiv_1793351318542_4",
+    "id": "arxiv_1793377095317_4",
     "name": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
     "category": "nlp",
     "description": "Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assist and what to suggest. Current systems split this between a gate and a larger generator; we evaluat...",
