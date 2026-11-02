@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1793608490670_0",
+    "id": "arxiv_1793645661755_0",
     "name": "GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning",
     "category": "computer-vision",
     "description": "Radiologists' visual attention can supervise medical image learning, but how reader panel composition affects its value remains untested. We evaluated GazeRIB (Gaze-guided Radiologist-Informed Blackou...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Nattakorn Kittisut, Roy M. Gabriel, Marly van Assen et al."
   },
   {
-    "id": "arxiv_1793608490670_1",
+    "id": "arxiv_1793645661756_1",
     "name": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
     "category": "computer-vision",
     "description": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re...",
@@ -24,11 +24,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-10-30T17:59:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al."
   },
   {
-    "id": "arxiv_1793608490683_0",
+    "id": "arxiv_1793645661828_0",
     "name": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
     "category": "machine-learning",
     "description": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re...",
@@ -43,7 +43,7 @@
     "source": "arXiv - Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al."
   },
   {
-    "id": "arxiv_1793608490697_0",
+    "id": "arxiv_1793645661899_0",
     "name": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
     "category": "nlp",
     "description": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re...",
@@ -54,11 +54,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-10-30T17:59:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al."
   },
   {
-    "id": "arxiv_1793608490697_1",
+    "id": "arxiv_1793645661900_1",
     "name": "Flide: Accelerating Decision Inference with Exact State Forking",
     "category": "nlp",
     "description": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existin...",
@@ -68,11 +68,11 @@
       "LLM"
     ],
     "date": "2026-10-30T17:59:38Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Bobo Li, Jiajia Song, Hao Fei et al."
   },
   {
-    "id": "arxiv_1793608490619_0",
+    "id": "arxiv_1793645661681_0",
     "name": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
     "category": "ai",
     "description": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tok...",
@@ -85,7 +85,7 @@
     "source": "arXiv - Ales Kubicek, Andrea Caciolai, Liangzu Peng et al."
   },
   {
-    "id": "arxiv_1793608490619_1",
+    "id": "arxiv_1793645661681_1",
     "name": "Hierarchical World Models with Implicit Dynamics",
     "category": "ai",
     "description": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative err...",
@@ -95,11 +95,11 @@
       "Diffusion"
     ],
     "date": "2026-10-30T17:59:25Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui et al."
   },
   {
-    "id": "arxiv_1793608490670_2",
+    "id": "arxiv_1793645661756_2",
     "name": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
     "category": "computer-vision",
     "description": "Representing 3D shapes using a set of primitives - known as shape abstraction - is an actively studied problem in computer graphics with wide applications in shape understanding, analysis, and simulat...",
@@ -113,7 +113,7 @@
     "source": "arXiv - Kuankuan Cheng, Haocheng Yuan, Changjian Li"
   },
   {
-    "id": "arxiv_1793608490619_2",
+    "id": "arxiv_1793645661681_2",
     "name": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
     "category": "ai",
     "description": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to...",
@@ -124,11 +124,11 @@
       "Optimization"
     ],
     "date": "2026-10-30T17:58:48Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Shengguang Wu, Suning Huang, Cherie Ho et al."
   },
   {
-    "id": "arxiv_1793608490670_3",
+    "id": "arxiv_1793645661756_3",
     "name": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
     "category": "computer-vision",
     "description": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to...",
@@ -143,7 +143,7 @@
     "source": "arXiv - Shengguang Wu, Suning Huang, Cherie Ho et al."
   },
   {
-    "id": "arxiv_1793608490684_1",
+    "id": "arxiv_1793645661828_1",
     "name": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
     "category": "machine-learning",
     "description": "In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds via...",
@@ -153,11 +153,11 @@
       "GAN"
     ],
     "date": "2026-10-30T17:58:42Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Vitaly Feldman, Audra McMillan, Kunal Talwar"
   },
   {
-    "id": "arxiv_1793608490670_4",
+    "id": "arxiv_1793645661756_4",
     "name": "ReLift: Dense 3D Tracking as Lifted Trajectory Repair",
     "category": "computer-vision",
     "description": "Dense 3D tracking from monocular video requires establishing point correspondences over time, estimating their depth, and inferring their trajectories during occlusion. Existing methods typically lear...",
@@ -171,7 +171,7 @@
     "source": "arXiv - Assaf Singer, Maroun Khriesh, Noam Rotstein et al."
   },
   {
-    "id": "arxiv_1793608490684_2",
+    "id": "arxiv_1793645661828_2",
     "name": "A Better Critic Matters for Distribution Matching Distillation",
     "category": "machine-learning",
     "description": "Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate wh...",
@@ -180,11 +180,11 @@
       "AI"
     ],
     "date": "2026-10-30T17:58:26Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zongze Wu, Xianbang Wang, Zhengyang Geng et al."
   },
   {
-    "id": "arxiv_1793608490684_3",
+    "id": "arxiv_1793645661828_3",
     "name": "Instance-dependent sequential limits as an exact information ledger",
     "category": "machine-learning",
     "description": "Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data proce...",
@@ -198,7 +198,7 @@
     "source": "arXiv - Akshay Balsubramani"
   },
   {
-    "id": "arxiv_1793608490697_2",
+    "id": "arxiv_1793645661900_2",
     "name": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers",
     "category": "nlp",
     "description": "Decision models target structured tasks by directly predicting choices or scores, avoiding autoregressive decoding latency. However, transferring a generative LLM's ranking knowledge to a decision mod...",
@@ -209,11 +209,11 @@
       "LLM"
     ],
     "date": "2026-10-30T17:56:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yanran Wu, Dian Yu, Chongyang Bai et al."
   },
   {
-    "id": "arxiv_1793608490684_4",
+    "id": "arxiv_1793645661828_4",
     "name": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
     "category": "machine-learning",
     "description": "Objective: To distinguish the transferable predictive value of physiological trajectories from that of observation patterns in ICU mortality prediction, and to assess whether measurement timing affect...",
@@ -227,7 +227,7 @@
     "source": "arXiv - Benjamin T. Pike"
   },
   {
-    "id": "arxiv_1793608490620_3",
+    "id": "arxiv_1793645661681_3",
     "name": "ACCT: Asymmetric Cross-LLM Context Transfer",
     "category": "ai",
     "description": "In real-world deployments, large language model (LLM) systems are increasingly evolving from single-model invocation toward heterogeneous deployments in which different models are dynamically invoked ...",
@@ -237,11 +237,11 @@
       "LLM"
     ],
     "date": "2026-10-30T17:50:49Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yuzhe Liu, Haolin Tian, Tonghan Wang"
   },
   {
-    "id": "arxiv_1793608490620_4",
+    "id": "arxiv_1793645661682_4",
     "name": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
     "category": "ai",
     "description": "The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilities of large language models (LLMs). A variety of approaches have attempted to circumvent this, but th...",
@@ -255,7 +255,7 @@
     "source": "arXiv - Leon Lufkin, Cutter Dawes, Alexander Speicher et al."
   },
   {
-    "id": "arxiv_1793608490697_3",
+    "id": "arxiv_1793645661900_3",
     "name": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
     "category": "nlp",
     "description": "The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilities of large language models (LLMs). A variety of approaches have attempted to circumvent this, but th...",
@@ -269,7 +269,7 @@
     "source": "arXiv - Leon Lufkin, Cutter Dawes, Alexander Speicher et al."
   },
   {
-    "id": "arxiv_1793608490697_4",
+    "id": "arxiv_1793645661900_4",
     "name": "RangeSWA: Training-Free Length Extrapolation for Continuous Diffusion Language Models",
     "category": "nlp",
     "description": "Continuous diffusion language models show promising potential in text generation tasks, but are prone to problems such as text repetition, semantic drift, and generation quality degradation when the g...",
