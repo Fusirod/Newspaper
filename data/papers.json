@@ -1,285 +1,283 @@
 [
   {
-    "id": "arxiv_1793668941588_0",
-    "name": "GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning",
-    "category": "computer-vision",
-    "description": "Radiologists' visual attention can supervise medical image learning, but how reader panel composition affects its value remains untested. We evaluated GazeRIB (Gaze-guided Radiologist-Informed Blackou...",
-    "link": "http://arxiv.org/abs/2610.42152v1",
+    "id": "arxiv_1793695385799_0",
+    "name": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+    "category": "ai",
+    "description": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol...",
+    "link": "http://arxiv.org/abs/2611.03647v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-30T17:59:59Z",
+    "date": "2026-11-02T18:59:32Z",
     "trending": false,
-    "source": "arXiv - Nattakorn Kittisut, Roy M. Gabriel, Marly van Assen et al."
+    "source": "arXiv - Jason Jingzhou Liu, Tony Tao, Deepak Pathak et al."
   },
   {
-    "id": "arxiv_1793668941588_1",
-    "name": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-    "category": "computer-vision",
-    "description": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re...",
-    "link": "http://arxiv.org/abs/2610.42149v1",
+    "id": "arxiv_1793695385799_1",
+    "name": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+    "category": "ai",
+    "description": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compone...",
+    "link": "http://arxiv.org/abs/2611.03648v1",
     "tags": [
-      "AI",
-      "Vision",
-      "Reinforcement Learning"
+      "AI"
     ],
-    "date": "2026-10-30T17:59:43Z",
-    "trending": false,
-    "source": "arXiv - Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al."
-  },
-  {
-    "id": "arxiv_1793668941666_0",
-    "name": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-    "category": "machine-learning",
-    "description": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re...",
-    "link": "http://arxiv.org/abs/2610.42149v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-10-30T17:59:43Z",
+    "date": "2026-11-02T18:59:32Z",
     "trending": true,
-    "source": "arXiv - Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al."
+    "source": "arXiv - Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov et al."
   },
   {
-    "id": "arxiv_1793668941739_0",
-    "name": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-    "category": "nlp",
-    "description": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re...",
-    "link": "http://arxiv.org/abs/2610.42149v1",
+    "id": "arxiv_1793695385832_0",
+    "name": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+    "category": "computer-vision",
+    "description": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol...",
+    "link": "http://arxiv.org/abs/2611.03647v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-02T18:59:32Z",
+    "trending": true,
+    "source": "arXiv - Jason Jingzhou Liu, Tony Tao, Deepak Pathak et al."
+  },
+  {
+    "id": "arxiv_1793695385832_1",
+    "name": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+    "category": "computer-vision",
+    "description": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compone...",
+    "link": "http://arxiv.org/abs/2611.03648v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-02T18:59:32Z",
+    "trending": false,
+    "source": "arXiv - Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov et al."
+  },
+  {
+    "id": "arxiv_1793695385865_0",
+    "name": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+    "category": "machine-learning",
+    "description": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol...",
+    "link": "http://arxiv.org/abs/2611.03647v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-02T18:59:32Z",
+    "trending": false,
+    "source": "arXiv - Jason Jingzhou Liu, Tony Tao, Deepak Pathak et al."
+  },
+  {
+    "id": "arxiv_1793695385865_1",
+    "name": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+    "category": "machine-learning",
+    "description": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compone...",
+    "link": "http://arxiv.org/abs/2611.03648v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-02T18:59:32Z",
+    "trending": true,
+    "source": "arXiv - Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov et al."
+  },
+  {
+    "id": "arxiv_1793695385832_2",
+    "name": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
+    "category": "computer-vision",
+    "description": "Learning from human data offers a scalable path toward embodied intelligence, yet it requires models to accurately understand fine-grained human actions from egocentric observations. However, existing...",
+    "link": "http://arxiv.org/abs/2611.03646v1",
     "tags": [
       "AI",
       "Vision",
       "Reinforcement Learning"
     ],
-    "date": "2026-10-30T17:59:43Z",
+    "date": "2026-11-02T18:59:29Z",
     "trending": false,
-    "source": "arXiv - Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al."
+    "source": "arXiv - Yujiao Shen, Jiahe Song, Haitian Li et al."
   },
   {
-    "id": "arxiv_1793668941739_1",
-    "name": "Flide: Accelerating Decision Inference with Exact State Forking",
-    "category": "nlp",
-    "description": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existin...",
-    "link": "http://arxiv.org/abs/2610.42148v1",
+    "id": "arxiv_1793695385799_2",
+    "name": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
+    "category": "ai",
+    "description": "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style questi...",
+    "link": "http://arxiv.org/abs/2611.03641v1",
     "tags": [
       "AI",
+      "Neural",
       "LLM"
     ],
-    "date": "2026-10-30T17:59:38Z",
+    "date": "2026-11-02T18:58:21Z",
     "trending": false,
-    "source": "arXiv - Bobo Li, Jiajia Song, Hao Fei et al."
+    "source": "arXiv - Paulius Skaisgiris, Thomas Pammer, Veronika Semmelrock et al."
   },
   {
-    "id": "arxiv_1793668941512_0",
-    "name": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+    "id": "arxiv_1793695385800_3",
+    "name": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
     "category": "ai",
-    "description": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tok...",
-    "link": "http://arxiv.org/abs/2610.42147v1",
+    "description": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and li...",
+    "link": "http://arxiv.org/abs/2611.03634v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-11-02T18:57:36Z",
+    "trending": false,
+    "source": "arXiv - Zhaoyang Wang, Qianhui Wu, Boyu Gou et al."
+  },
+  {
+    "id": "arxiv_1793695385865_2",
+    "name": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+    "category": "machine-learning",
+    "description": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and li...",
+    "link": "http://arxiv.org/abs/2611.03634v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-11-02T18:57:36Z",
+    "trending": true,
+    "source": "arXiv - Zhaoyang Wang, Qianhui Wu, Boyu Gou et al."
+  },
+  {
+    "id": "arxiv_1793695385900_0",
+    "name": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+    "category": "nlp",
+    "description": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and li...",
+    "link": "http://arxiv.org/abs/2611.03634v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-11-02T18:57:36Z",
+    "trending": false,
+    "source": "arXiv - Zhaoyang Wang, Qianhui Wu, Boyu Gou et al."
+  },
+  {
+    "id": "arxiv_1793695385865_3",
+    "name": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
+    "category": "machine-learning",
+    "description": "Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advan...",
+    "link": "http://arxiv.org/abs/2611.03633v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-10-30T17:59:34Z",
-    "trending": true,
-    "source": "arXiv - Ales Kubicek, Andrea Caciolai, Liangzu Peng et al."
-  },
-  {
-    "id": "arxiv_1793668941512_1",
-    "name": "Hierarchical World Models with Implicit Dynamics",
-    "category": "ai",
-    "description": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative err...",
-    "link": "http://arxiv.org/abs/2610.42146v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-10-30T17:59:25Z",
-    "trending": true,
-    "source": "arXiv - Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui et al."
-  },
-  {
-    "id": "arxiv_1793668941588_2",
-    "name": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
-    "category": "computer-vision",
-    "description": "Representing 3D shapes using a set of primitives - known as shape abstraction - is an actively studied problem in computer graphics with wide applications in shape understanding, analysis, and simulat...",
-    "link": "http://arxiv.org/abs/2610.42145v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-10-30T17:59:14Z",
+    "date": "2026-11-02T18:56:43Z",
     "trending": false,
-    "source": "arXiv - Kuankuan Cheng, Haocheng Yuan, Changjian Li"
+    "source": "arXiv - Catherine Li, Jingchu Gai, Andrej Risteski et al."
   },
   {
-    "id": "arxiv_1793668941512_2",
-    "name": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
-    "category": "ai",
-    "description": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to...",
-    "link": "http://arxiv.org/abs/2610.42141v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Optimization"
-    ],
-    "date": "2026-10-30T17:58:48Z",
-    "trending": false,
-    "source": "arXiv - Shengguang Wu, Suning Huang, Cherie Ho et al."
-  },
-  {
-    "id": "arxiv_1793668941588_3",
-    "name": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
-    "category": "computer-vision",
-    "description": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to...",
-    "link": "http://arxiv.org/abs/2610.42141v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Optimization"
-    ],
-    "date": "2026-10-30T17:58:48Z",
-    "trending": false,
-    "source": "arXiv - Shengguang Wu, Suning Huang, Cherie Ho et al."
-  },
-  {
-    "id": "arxiv_1793668941666_1",
-    "name": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
+    "id": "arxiv_1793695385865_4",
+    "name": "Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR",
     "category": "machine-learning",
-    "description": "In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds via...",
-    "link": "http://arxiv.org/abs/2610.42139v1",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) can enable generalizable improvement for large language model (LLM) reasoning. This paper studies how to incentivize such generalization via reaso...",
+    "link": "http://arxiv.org/abs/2611.03627v1",
     "tags": [
       "AI",
-      "GAN"
+      "Vision",
+      "LLM",
+      "Reinforcement Learning"
     ],
-    "date": "2026-10-30T17:58:42Z",
-    "trending": false,
-    "source": "arXiv - Vitaly Feldman, Audra McMillan, Kunal Talwar"
+    "date": "2026-11-02T18:53:54Z",
+    "trending": true,
+    "source": "arXiv - Ziqi Pang, Yu-Xiong Wang"
   },
   {
-    "id": "arxiv_1793668941588_4",
-    "name": "ReLift: Dense 3D Tracking as Lifted Trajectory Repair",
+    "id": "arxiv_1793695385832_3",
+    "name": "Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data",
     "category": "computer-vision",
-    "description": "Dense 3D tracking from monocular video requires establishing point correspondences over time, estimating their depth, and inferring their trajectories during occlusion. Existing methods typically lear...",
-    "link": "http://arxiv.org/abs/2610.42136v1",
+    "description": "We present Isekai3D Synthetic Data Generation (SDG), a platform for simulating and capturing synthetic 3D gameplay for research in vision and world models, neural graphics, gameplay agents, and other ...",
+    "link": "http://arxiv.org/abs/2611.03626v1",
     "tags": [
       "AI",
+      "Neural",
       "Vision"
     ],
-    "date": "2026-10-30T17:58:33Z",
-    "trending": false,
-    "source": "arXiv - Assaf Singer, Maroun Khriesh, Noam Rotstein et al."
-  },
-  {
-    "id": "arxiv_1793668941667_2",
-    "name": "A Better Critic Matters for Distribution Matching Distillation",
-    "category": "machine-learning",
-    "description": "Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate wh...",
-    "link": "http://arxiv.org/abs/2610.42135v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-10-30T17:58:26Z",
-    "trending": false,
-    "source": "arXiv - Zongze Wu, Xianbang Wang, Zhengyang Geng et al."
-  },
-  {
-    "id": "arxiv_1793668941667_3",
-    "name": "Instance-dependent sequential limits as an exact information ledger",
-    "category": "machine-learning",
-    "description": "Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data proce...",
-    "link": "http://arxiv.org/abs/2610.42133v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-10-30T17:57:44Z",
+    "date": "2026-11-02T18:53:46Z",
     "trending": true,
-    "source": "arXiv - Akshay Balsubramani"
+    "source": "arXiv - Rafal Karp, Gene Liu, Shih-Hsin Li et al."
   },
   {
-    "id": "arxiv_1793668941739_2",
-    "name": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers",
-    "category": "nlp",
-    "description": "Decision models target structured tasks by directly predicting choices or scores, avoiding autoregressive decoding latency. However, transferring a generative LLM's ranking knowledge to a decision mod...",
-    "link": "http://arxiv.org/abs/2610.42128v1",
+    "id": "arxiv_1793695385800_4",
+    "name": "D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
+    "category": "ai",
+    "description": "Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot learning, yet existing frameworks frequently suffer from confirmation bias, hallucinating progress in f...",
+    "link": "http://arxiv.org/abs/2611.03622v1",
     "tags": [
       "AI",
       "Vision",
-      "LLM"
+      "Reinforcement Learning",
+      "Robotics"
     ],
-    "date": "2026-10-30T17:56:58Z",
+    "date": "2026-11-02T18:52:11Z",
     "trending": false,
-    "source": "arXiv - Yanran Wu, Dian Yu, Chongyang Bai et al."
+    "source": "arXiv - Marius Memmel, Shawn Yin, Urvi Rutia et al."
   },
   {
-    "id": "arxiv_1793668941667_4",
-    "name": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
-    "category": "machine-learning",
-    "description": "Objective: To distinguish the transferable predictive value of physiological trajectories from that of observation patterns in ICU mortality prediction, and to assess whether measurement timing affect...",
-    "link": "http://arxiv.org/abs/2610.42126v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-10-30T17:56:10Z",
-    "trending": false,
-    "source": "arXiv - Benjamin T. Pike"
-  },
-  {
-    "id": "arxiv_1793668941512_3",
-    "name": "ACCT: Asymmetric Cross-LLM Context Transfer",
-    "category": "ai",
-    "description": "In real-world deployments, large language model (LLM) systems are increasingly evolving from single-model invocation toward heterogeneous deployments in which different models are dynamically invoked ...",
-    "link": "http://arxiv.org/abs/2610.42116v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-30T17:50:49Z",
-    "trending": false,
-    "source": "arXiv - Yuzhe Liu, Haolin Tian, Tonghan Wang"
-  },
-  {
-    "id": "arxiv_1793668941512_4",
-    "name": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
-    "category": "ai",
-    "description": "The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilities of large language models (LLMs). A variety of approaches have attempted to circumvent this, but th...",
-    "link": "http://arxiv.org/abs/2610.42112v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-30T17:48:37Z",
-    "trending": true,
-    "source": "arXiv - Leon Lufkin, Cutter Dawes, Alexander Speicher et al."
-  },
-  {
-    "id": "arxiv_1793668941739_3",
-    "name": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+    "id": "arxiv_1793695385900_1",
+    "name": "D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
     "category": "nlp",
-    "description": "The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilities of large language models (LLMs). A variety of approaches have attempted to circumvent this, but th...",
-    "link": "http://arxiv.org/abs/2610.42112v1",
+    "description": "Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot learning, yet existing frameworks frequently suffer from confirmation bias, hallucinating progress in f...",
+    "link": "http://arxiv.org/abs/2611.03622v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning",
+      "Robotics"
+    ],
+    "date": "2026-11-02T18:52:11Z",
+    "trending": false,
+    "source": "arXiv - Marius Memmel, Shawn Yin, Urvi Rutia et al."
+  },
+  {
+    "id": "arxiv_1793695385901_2",
+    "name": "Strategist: Evolving Reasoning with Agents",
+    "category": "nlp",
+    "description": "A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and the...",
+    "link": "http://arxiv.org/abs/2611.03618v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-02T18:51:04Z",
+    "trending": false,
+    "source": "arXiv - Taiming Lu, Qi Xu, Zhigang Hua et al."
+  },
+  {
+    "id": "arxiv_1793695385901_3",
+    "name": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
+    "category": "nlp",
+    "description": "Large language models (LLMs) show growing promise for scientific discovery, yet basic questions remain about what enables reliable discovery. How can we trace the scientific discovery capacity of LLMs...",
+    "link": "http://arxiv.org/abs/2611.03617v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-10-30T17:48:37Z",
-    "trending": true,
-    "source": "arXiv - Leon Lufkin, Cutter Dawes, Alexander Speicher et al."
+    "date": "2026-11-02T18:50:54Z",
+    "trending": false,
+    "source": "arXiv - Arda Uzunoglu, Mahler Revsine, Michael Schatz et al."
   },
   {
-    "id": "arxiv_1793668941739_4",
-    "name": "RangeSWA: Training-Free Length Extrapolation for Continuous Diffusion Language Models",
+    "id": "arxiv_1793695385901_4",
+    "name": "ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch",
     "category": "nlp",
-    "description": "Continuous diffusion language models show promising potential in text generation tasks, but are prone to problems such as text repetition, semantic drift, and generation quality degradation when the g...",
-    "link": "http://arxiv.org/abs/2610.42084v1",
+    "description": "ufakzeka-kulak is an open Turkish speech-to-text model of 31.6M parameters, a FastConformer encoder with a token-and-duration transducer (TDT) and a CTC head, trained from scratch and released under A...",
+    "link": "http://arxiv.org/abs/2611.03605v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-02T18:42:32Z",
+    "trending": false,
+    "source": "arXiv - Sait Furkan Teke"
+  },
+  {
+    "id": "arxiv_1793695385833_4",
+    "name": "Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning",
+    "category": "computer-vision",
+    "description": "Multimodal large language models (MLLMs) can generate detailed video captions, yet they may overemphasize minor details while overlooking essential context and key events. We argue that not all visual...",
+    "link": "http://arxiv.org/abs/2611.03602v1",
     "tags": [
       "AI",
-      "Diffusion"
+      "LLM",
+      "Optimization"
     ],
-    "date": "2026-10-30T17:35:48Z",
+    "date": "2026-11-02T18:41:14Z",
     "trending": false,
-    "source": "arXiv - Guangfu Guo, Xiaoqian Lu, Linsey Pang et al."
+    "source": "arXiv - Tengfei Liu, Yang Shi, Yuran Wang et al."
   }
 ]
