@@ -1,34 +1,8 @@
 [
   {
-    "id": "arxiv_1793695385799_0",
+    "id": "arxiv_1793723997497_0",
     "name": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
     "category": "ai",
-    "description": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol...",
-    "link": "http://arxiv.org/abs/2611.03647v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-02T18:59:32Z",
-    "trending": false,
-    "source": "arXiv - Jason Jingzhou Liu, Tony Tao, Deepak Pathak et al."
-  },
-  {
-    "id": "arxiv_1793695385799_1",
-    "name": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
-    "category": "ai",
-    "description": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compone...",
-    "link": "http://arxiv.org/abs/2611.03648v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-02T18:59:32Z",
-    "trending": true,
-    "source": "arXiv - Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov et al."
-  },
-  {
-    "id": "arxiv_1793695385832_0",
-    "name": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
-    "category": "computer-vision",
     "description": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol...",
     "link": "http://arxiv.org/abs/2611.03647v1",
     "tags": [
@@ -39,7 +13,33 @@
     "source": "arXiv - Jason Jingzhou Liu, Tony Tao, Deepak Pathak et al."
   },
   {
-    "id": "arxiv_1793695385832_1",
+    "id": "arxiv_1793723997497_1",
+    "name": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+    "category": "ai",
+    "description": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compone...",
+    "link": "http://arxiv.org/abs/2611.03648v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-02T18:59:32Z",
+    "trending": false,
+    "source": "arXiv - Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov et al."
+  },
+  {
+    "id": "arxiv_1793723997526_0",
+    "name": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+    "category": "computer-vision",
+    "description": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol...",
+    "link": "http://arxiv.org/abs/2611.03647v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-02T18:59:32Z",
+    "trending": false,
+    "source": "arXiv - Jason Jingzhou Liu, Tony Tao, Deepak Pathak et al."
+  },
+  {
+    "id": "arxiv_1793723997526_1",
     "name": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
     "category": "computer-vision",
     "description": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compone...",
@@ -52,7 +52,7 @@
     "source": "arXiv - Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov et al."
   },
   {
-    "id": "arxiv_1793695385865_0",
+    "id": "arxiv_1793723997559_0",
     "name": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
     "category": "machine-learning",
     "description": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol...",
@@ -65,7 +65,7 @@
     "source": "arXiv - Jason Jingzhou Liu, Tony Tao, Deepak Pathak et al."
   },
   {
-    "id": "arxiv_1793695385865_1",
+    "id": "arxiv_1793723997559_1",
     "name": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
     "category": "machine-learning",
     "description": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compone...",
@@ -78,7 +78,7 @@
     "source": "arXiv - Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov et al."
   },
   {
-    "id": "arxiv_1793695385832_2",
+    "id": "arxiv_1793723997526_2",
     "name": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
     "category": "computer-vision",
     "description": "Learning from human data offers a scalable path toward embodied intelligence, yet it requires models to accurately understand fine-grained human actions from egocentric observations. However, existing...",
@@ -89,11 +89,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-11-02T18:59:29Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yujiao Shen, Jiahe Song, Haitian Li et al."
   },
   {
-    "id": "arxiv_1793695385799_2",
+    "id": "arxiv_1793723997497_2",
     "name": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
     "category": "ai",
     "description": "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style questi...",
@@ -108,7 +108,7 @@
     "source": "arXiv - Paulius Skaisgiris, Thomas Pammer, Veronika Semmelrock et al."
   },
   {
-    "id": "arxiv_1793695385800_3",
+    "id": "arxiv_1793723997498_3",
     "name": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
     "category": "ai",
     "description": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and li...",
@@ -122,7 +122,7 @@
     "source": "arXiv - Zhaoyang Wang, Qianhui Wu, Boyu Gou et al."
   },
   {
-    "id": "arxiv_1793695385865_2",
+    "id": "arxiv_1793723997559_2",
     "name": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
     "category": "machine-learning",
     "description": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and li...",
@@ -136,7 +136,7 @@
     "source": "arXiv - Zhaoyang Wang, Qianhui Wu, Boyu Gou et al."
   },
   {
-    "id": "arxiv_1793695385900_0",
+    "id": "arxiv_1793723997589_0",
     "name": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
     "category": "nlp",
     "description": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and li...",
@@ -150,7 +150,7 @@
     "source": "arXiv - Zhaoyang Wang, Qianhui Wu, Boyu Gou et al."
   },
   {
-    "id": "arxiv_1793695385865_3",
+    "id": "arxiv_1793723997559_3",
     "name": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
     "category": "machine-learning",
     "description": "Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advan...",
@@ -159,11 +159,11 @@
       "AI"
     ],
     "date": "2026-11-02T18:56:43Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Catherine Li, Jingchu Gai, Andrej Risteski et al."
   },
   {
-    "id": "arxiv_1793695385865_4",
+    "id": "arxiv_1793723997559_4",
     "name": "Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR",
     "category": "machine-learning",
     "description": "Reinforcement learning with verifiable rewards (RLVR) can enable generalizable improvement for large language model (LLM) reasoning. This paper studies how to incentivize such generalization via reaso...",
@@ -175,11 +175,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-11-02T18:53:54Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ziqi Pang, Yu-Xiong Wang"
   },
   {
-    "id": "arxiv_1793695385832_3",
+    "id": "arxiv_1793723997526_3",
     "name": "Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data",
     "category": "computer-vision",
     "description": "We present Isekai3D Synthetic Data Generation (SDG), a platform for simulating and capturing synthetic 3D gameplay for research in vision and world models, neural graphics, gameplay agents, and other ...",
@@ -194,7 +194,7 @@
     "source": "arXiv - Rafal Karp, Gene Liu, Shih-Hsin Li et al."
   },
   {
-    "id": "arxiv_1793695385800_4",
+    "id": "arxiv_1793723997498_4",
     "name": "D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
     "category": "ai",
     "description": "Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot learning, yet existing frameworks frequently suffer from confirmation bias, hallucinating progress in f...",
@@ -206,11 +206,11 @@
       "Robotics"
     ],
     "date": "2026-11-02T18:52:11Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Marius Memmel, Shawn Yin, Urvi Rutia et al."
   },
   {
-    "id": "arxiv_1793695385900_1",
+    "id": "arxiv_1793723997589_1",
     "name": "D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
     "category": "nlp",
     "description": "Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot learning, yet existing frameworks frequently suffer from confirmation bias, hallucinating progress in f...",
@@ -226,7 +226,7 @@
     "source": "arXiv - Marius Memmel, Shawn Yin, Urvi Rutia et al."
   },
   {
-    "id": "arxiv_1793695385901_2",
+    "id": "arxiv_1793723997589_2",
     "name": "Strategist: Evolving Reasoning with Agents",
     "category": "nlp",
     "description": "A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and the...",
@@ -239,7 +239,7 @@
     "source": "arXiv - Taiming Lu, Qi Xu, Zhigang Hua et al."
   },
   {
-    "id": "arxiv_1793695385901_3",
+    "id": "arxiv_1793723997589_3",
     "name": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
     "category": "nlp",
     "description": "Large language models (LLMs) show growing promise for scientific discovery, yet basic questions remain about what enables reliable discovery. How can we trace the scientific discovery capacity of LLMs...",
@@ -249,11 +249,11 @@
       "LLM"
     ],
     "date": "2026-11-02T18:50:54Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Arda Uzunoglu, Mahler Revsine, Michael Schatz et al."
   },
   {
-    "id": "arxiv_1793695385901_4",
+    "id": "arxiv_1793723997589_4",
     "name": "ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch",
     "category": "nlp",
     "description": "ufakzeka-kulak is an open Turkish speech-to-text model of 31.6M parameters, a FastConformer encoder with a token-and-duration transducer (TDT) and a CTC head, trained from scratch and released under A...",
@@ -262,11 +262,11 @@
       "AI"
     ],
     "date": "2026-11-02T18:42:32Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sait Furkan Teke"
   },
   {
-    "id": "arxiv_1793695385833_4",
+    "id": "arxiv_1793723997526_4",
     "name": "Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning",
     "category": "computer-vision",
     "description": "Multimodal large language models (MLLMs) can generate detailed video captions, yet they may overemphasize minor details while overlooking essential context and key events. We argue that not all visual...",
@@ -277,7 +277,7 @@
       "Optimization"
     ],
     "date": "2026-11-02T18:41:14Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Tengfei Liu, Yang Shi, Yuran Wang et al."
   }
 ]
