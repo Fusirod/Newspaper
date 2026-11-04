@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1793816244405_0",
+    "id": "arxiv_1793836781325_0",
     "name": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
     "category": "ai",
     "description": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearanc...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Jisoo Kim, Chaehyun Kim, Junsu Kim et al."
   },
   {
-    "id": "arxiv_1793816244434_0",
+    "id": "arxiv_1793836781402_0",
     "name": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
     "category": "computer-vision",
     "description": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearanc...",
@@ -24,11 +24,11 @@
       "Diffusion"
     ],
     "date": "2026-11-03T18:59:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jisoo Kim, Chaehyun Kim, Junsu Kim et al."
   },
   {
-    "id": "arxiv_1793816244405_1",
+    "id": "arxiv_1793836781325_1",
     "name": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
     "category": "ai",
     "description": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on ...",
@@ -42,7 +42,7 @@
     "source": "arXiv - Hao Fei"
   },
   {
-    "id": "arxiv_1793816244498_0",
+    "id": "arxiv_1793836781674_0",
     "name": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
     "category": "nlp",
     "description": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on ...",
@@ -56,7 +56,7 @@
     "source": "arXiv - Hao Fei"
   },
   {
-    "id": "arxiv_1793816244405_2",
+    "id": "arxiv_1793836781325_2",
     "name": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
     "category": "ai",
     "description": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates...",
@@ -72,7 +72,7 @@
     "source": "arXiv - Austin Tsai, Saurav Nanda, Ganapathy Parthasarathy et al."
   },
   {
-    "id": "arxiv_1793816244464_0",
+    "id": "arxiv_1793836781596_0",
     "name": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
     "category": "machine-learning",
     "description": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates...",
@@ -88,7 +88,7 @@
     "source": "arXiv - Austin Tsai, Saurav Nanda, Ganapathy Parthasarathy et al."
   },
   {
-    "id": "arxiv_1793816244499_1",
+    "id": "arxiv_1793836781675_1",
     "name": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
     "category": "nlp",
     "description": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates...",
@@ -104,7 +104,7 @@
     "source": "arXiv - Austin Tsai, Saurav Nanda, Ganapathy Parthasarathy et al."
   },
   {
-    "id": "arxiv_1793816244465_1",
+    "id": "arxiv_1793836781596_1",
     "name": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning",
     "category": "machine-learning",
     "description": "Inverse kinematics (IK) converts end-effector pose commands into joint motion, and many vision-language-action (VLA) policies rely on it to act on a given arm and to transfer across embodiments. Preci...",
@@ -115,11 +115,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-11-03T18:59:14Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yuhan Liu, Xinqi Liu, Zixuan Dong et al."
   },
   {
-    "id": "arxiv_1793816244465_2",
+    "id": "arxiv_1793836781596_2",
     "name": "GUILD: Guided Iterative Data Collection for Imitation Learning",
     "category": "machine-learning",
     "description": "Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuiti...",
@@ -130,11 +130,11 @@
       "Robotics"
     ],
     "date": "2026-11-03T18:57:35Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Shivin Dass, Kevin Nguyen, Rohan Yelandur et al."
   },
   {
-    "id": "arxiv_1793816244434_1",
+    "id": "arxiv_1793836781402_1",
     "name": "Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments",
     "category": "computer-vision",
     "description": "Reliable evaluation of visual 3D reconstruction and depth estimation in vegetation-rich outdoor environments is limited by the scarcity of geometric ground-truth data and the cost of complete scanner ...",
@@ -143,11 +143,11 @@
       "AI"
     ],
     "date": "2026-11-03T18:54:52Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhipeng Zhong, Matthew Coombes, Cunjia Liu"
   },
   {
-    "id": "arxiv_1793816244435_2",
+    "id": "arxiv_1793836781403_2",
     "name": "GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs",
     "category": "computer-vision",
     "description": "This paper presents GSCV++, a lightweight pipeline for 3D {G}aussian {S}platting (GS) sequences {C}ompression with standard {V}ideo codecs. To meet the requirements of low-complexity and hardware comp...",
@@ -156,11 +156,11 @@
       "AI"
     ],
     "date": "2026-11-03T18:54:29Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Qi Yang, Yingzhan Xu, Kai Zhang et al."
   },
   {
-    "id": "arxiv_1793816244405_3",
+    "id": "arxiv_1793836781325_3",
     "name": "Suppressing Misaligned Behaviors in Language Models, Durably",
     "category": "ai",
     "description": "Undesired model behaviors can emerge or re-emerge at any stage of training. Once observed, how effectively can we suppress them? To study this question, we first construct two model organisms--languag...",
@@ -176,7 +176,7 @@
     "source": "arXiv - Luxi He, Pengcheng Jiang, Jifan Zhang et al."
   },
   {
-    "id": "arxiv_1793816244465_3",
+    "id": "arxiv_1793836781596_3",
     "name": "Suppressing Misaligned Behaviors in Language Models, Durably",
     "category": "machine-learning",
     "description": "Undesired model behaviors can emerge or re-emerge at any stage of training. Once observed, how effectively can we suppress them? To study this question, we first construct two model organisms--languag...",
@@ -192,7 +192,7 @@
     "source": "arXiv - Luxi He, Pengcheng Jiang, Jifan Zhang et al."
   },
   {
-    "id": "arxiv_1793816244499_2",
+    "id": "arxiv_1793836781675_2",
     "name": "Suppressing Misaligned Behaviors in Language Models, Durably",
     "category": "nlp",
     "description": "Undesired model behaviors can emerge or re-emerge at any stage of training. Once observed, how effectively can we suppress them? To study this question, we first construct two model organisms--languag...",
@@ -208,7 +208,7 @@
     "source": "arXiv - Luxi He, Pengcheng Jiang, Jifan Zhang et al."
   },
   {
-    "id": "arxiv_1793816244465_4",
+    "id": "arxiv_1793836781596_4",
     "name": "Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits",
     "category": "machine-learning",
     "description": "When a language model answers, we can usually only estimate why. We build a transformer in which every step is a Born measurement - attention $|\\langle q|k\\rangle|^4$ normalised over each row, a measu...",
@@ -222,7 +222,7 @@
     "source": "arXiv - Teerawat Tongloy, Jiraporn Pongsopa, Rangsan Jomtarak"
   },
   {
-    "id": "arxiv_1793816244499_3",
+    "id": "arxiv_1793836781675_3",
     "name": "Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits",
     "category": "nlp",
     "description": "When a language model answers, we can usually only estimate why. We build a transformer in which every step is a Born measurement - attention $|\\langle q|k\\rangle|^4$ normalised over each row, a measu...",
@@ -236,7 +236,7 @@
     "source": "arXiv - Teerawat Tongloy, Jiraporn Pongsopa, Rangsan Jomtarak"
   },
   {
-    "id": "arxiv_1793816244435_3",
+    "id": "arxiv_1793836781403_3",
     "name": "OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation",
     "category": "computer-vision",
     "description": "Automatic tools can now generate whole-brain MRI parcellations at cohort scale, but generated-label releases often provide little evidence about which cases are reliable enough to reuse. We introduce ...",
@@ -250,7 +250,7 @@
     "source": "arXiv - Qizhen Lan, Yu-Chun Hsu, Yuxiang Wei et al."
   },
   {
-    "id": "arxiv_1793816244405_4",
+    "id": "arxiv_1793836781325_4",
     "name": "Adversarial Speculative Reasoning Improves Long Horizon Agents",
     "category": "ai",
     "description": "Speculative decoding has been treated purely as a systems optimization that speeds up large language model decoding without changing the model behavior. Under this view, the growing effort to train be...",
@@ -260,11 +260,11 @@
       "Optimization"
     ],
     "date": "2026-11-03T18:45:23Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hongyin Luo, Wei Fang, Lijie Yang et al."
   },
   {
-    "id": "arxiv_1793816244499_4",
+    "id": "arxiv_1793836781675_4",
     "name": "A Circuit for In-Context Learning",
     "category": "nlp",
     "description": "In-context learning (ICL) lets a pretrained language model perform a task specified by demonstrations in its prompt, with no parameter updates. With arbitrary labels the model must acquire a mapping i...",
@@ -274,11 +274,11 @@
       "Transformer"
     ],
     "date": "2026-11-03T18:44:34Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Andrew Gao, William Gao"
   },
   {
-    "id": "arxiv_1793816244435_4",
+    "id": "arxiv_1793836781403_4",
     "name": "Wonder 4: A Mixture-of-Experts Recipe for Image Quality Enhancement",
     "category": "computer-vision",
     "description": "A real photograph is often blurry, grainy, compressed, scratched, and low-resolution at the same time. Each defect has its own severity and its own place in the image. The corrections for these defect...",
