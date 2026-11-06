@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1793911871421_0",
+    "id": "arxiv_1793927538195_0",
     "name": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
     "category": "computer-vision",
     "description": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on ...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Weichen Fan, Haiwen Diao, Penghao Wu et al."
   },
   {
-    "id": "arxiv_1793911871474_0",
+    "id": "arxiv_1793927538212_0",
     "name": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
     "category": "machine-learning",
     "description": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ...",
@@ -24,11 +24,11 @@
       "LLM"
     ],
     "date": "2026-11-04T18:58:23Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Mattia Greiche, Reihaneh Rabbany, Maximilian Puelma Touzel"
   },
   {
-    "id": "arxiv_1793911871527_0",
+    "id": "arxiv_1793927538229_0",
     "name": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
     "category": "nlp",
     "description": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ...",
@@ -38,11 +38,11 @@
       "LLM"
     ],
     "date": "2026-11-04T18:58:23Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Mattia Greiche, Reihaneh Rabbany, Maximilian Puelma Touzel"
   },
   {
-    "id": "arxiv_1793911871474_1",
+    "id": "arxiv_1793927538212_1",
     "name": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
     "category": "machine-learning",
     "description": "Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimato...",
@@ -55,7 +55,7 @@
     "source": "arXiv - Nicolas Tricard, Linzheng Wang, Jason Chen et al."
   },
   {
-    "id": "arxiv_1793911871367_0",
+    "id": "arxiv_1793927538174_0",
     "name": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
     "category": "ai",
     "description": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act und...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Fei Lin, Tengchao Zhang, Ziyang Gong et al."
   },
   {
-    "id": "arxiv_1793911871368_1",
+    "id": "arxiv_1793927538175_1",
     "name": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
     "category": "ai",
     "description": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solut...",
@@ -78,11 +78,11 @@
       "AI"
     ],
     "date": "2026-11-04T18:56:22Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Bingran You, Wenjun Ke, Ria Rosenauer et al."
   },
   {
-    "id": "arxiv_1793911871368_2",
+    "id": "arxiv_1793927538175_2",
     "name": "Perceptive Humanoid Motion from Simulation",
     "category": "ai",
     "description": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-...",
@@ -96,7 +96,7 @@
     "source": "arXiv - Siyuan Hu, Abulikemu Abuduweili, Yue Meng et al."
   },
   {
-    "id": "arxiv_1793911871422_1",
+    "id": "arxiv_1793927538195_1",
     "name": "Perceptive Humanoid Motion from Simulation",
     "category": "computer-vision",
     "description": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-...",
@@ -110,7 +110,7 @@
     "source": "arXiv - Siyuan Hu, Abulikemu Abuduweili, Yue Meng et al."
   },
   {
-    "id": "arxiv_1793911871474_2",
+    "id": "arxiv_1793927538212_2",
     "name": "Perceptive Humanoid Motion from Simulation",
     "category": "machine-learning",
     "description": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-...",
@@ -124,7 +124,7 @@
     "source": "arXiv - Siyuan Hu, Abulikemu Abuduweili, Yue Meng et al."
   },
   {
-    "id": "arxiv_1793911871475_3",
+    "id": "arxiv_1793927538213_3",
     "name": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
     "category": "machine-learning",
     "description": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-s...",
@@ -138,7 +138,7 @@
     "source": "arXiv - Michal Korniak, Marco Bagatella, Ralf Römer et al."
   },
   {
-    "id": "arxiv_1793911871422_2",
+    "id": "arxiv_1793927538195_2",
     "name": "Motion-guided Contrastive Regularization For Latent World Models",
     "category": "computer-vision",
     "description": "JEPA-style world models learn action-conditioned latent dynamics without reconstructing observations, but distributional regularization alone does not ensure that their representations preserve inform...",
@@ -148,11 +148,11 @@
       "Vision"
     ],
     "date": "2026-11-04T18:49:35Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yiwen Chen, Qiqi Hou, Jisoo Jeong et al."
   },
   {
-    "id": "arxiv_1793911871368_3",
+    "id": "arxiv_1793927538175_3",
     "name": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
     "category": "ai",
     "description": "Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deployme...",
@@ -161,11 +161,11 @@
       "AI"
     ],
     "date": "2026-11-04T18:49:13Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Chibueze Praise Onyenweaku, Toyibat Adele, Sikirulahi Opeyemi Abdulkareem et al."
   },
   {
-    "id": "arxiv_1793911871422_3",
+    "id": "arxiv_1793927538195_3",
     "name": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
     "category": "computer-vision",
     "description": "Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deployme...",
@@ -178,7 +178,7 @@
     "source": "arXiv - Chibueze Praise Onyenweaku, Toyibat Adele, Sikirulahi Opeyemi Abdulkareem et al."
   },
   {
-    "id": "arxiv_1793911871422_4",
+    "id": "arxiv_1793927538196_4",
     "name": "Procedural Adversarial Learning",
     "category": "computer-vision",
     "description": "For many computer vision tasks, neural networks can be trained to produce a low average error, yet they still fail on seemingly simple scenes. Reducing these failures requires first finding them, but ...",
@@ -194,7 +194,7 @@
     "source": "arXiv - Jack Nugent, Jia Deng"
   },
   {
-    "id": "arxiv_1793911871368_4",
+    "id": "arxiv_1793927538176_4",
     "name": "Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure",
     "category": "ai",
     "description": "Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher e...",
@@ -208,7 +208,7 @@
     "source": "arXiv - Siyi Yu"
   },
   {
-    "id": "arxiv_1793911871475_4",
+    "id": "arxiv_1793927538213_4",
     "name": "Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes",
     "category": "machine-learning",
     "description": "The best classical optimizer for a continuous black-box problem depends on its budget and landscape. Existing routers decide from the dimension and budget, past improvement or features fitted to one b...",
@@ -218,11 +218,11 @@
       "Optimization"
     ],
     "date": "2026-11-04T18:35:35Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Benjamin Jacob Bodner"
   },
   {
-    "id": "arxiv_1793911871527_1",
+    "id": "arxiv_1793927538229_1",
     "name": "SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification",
     "category": "nlp",
     "description": "LLM agents use context compaction to manage growing interaction histories, but summarizing long histories with large models can introduce substantial delays. Compaction therefore requires balancing in...",
@@ -237,7 +237,7 @@
     "source": "arXiv - Yulu An, Yifei Feng, Xiangyang Yin"
   },
   {
-    "id": "arxiv_1793911871527_2",
+    "id": "arxiv_1793927538230_2",
     "name": "Balancing hierarchical representation and quantization: A performance trade-off in text embeddings",
     "category": "nlp",
     "description": "Hierarchical text embedding models offer variable-length representations, while quantization reduces numerical precision; both aim to improve computational efficiency. This work is an empirical benchm...",
@@ -251,7 +251,7 @@
     "source": "arXiv - Kai Ponel, Marco Polignano, Erasmo Purificato et al."
   },
   {
-    "id": "arxiv_1793911871527_3",
+    "id": "arxiv_1793927538230_3",
     "name": "LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis",
     "category": "nlp",
     "description": "We introduce LongBanana, to our knowledge the first expert-designed and expert-verified benchmark for long-context multi-reference image synthesis in the age of agent-driven image generation. The task...",
@@ -261,11 +261,11 @@
       "GAN"
     ],
     "date": "2026-11-04T18:11:56Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Haoxiang Cao, Yuxuan Zhang, Penghui Du et al."
   },
   {
-    "id": "arxiv_1793911871527_4",
+    "id": "arxiv_1793927538230_4",
     "name": "Persona Perspectives: Adopting Viewpoints Reorganizes Representations in LLMs",
     "category": "nlp",
     "description": "Common methods for monitoring features in large language models (LLMs) such as linear probes and sparse autoencoders (SAEs) assume that features maintain a consistent representation across contexts. L...",
