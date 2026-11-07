@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1794001747315_0",
+    "id": "arxiv_1794014468135_0",
     "name": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
     "category": "machine-learning",
     "description": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are in...",
@@ -10,11 +10,11 @@
       "Transformer"
     ],
     "date": "2026-11-05T18:59:42Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen et al."
   },
   {
-    "id": "arxiv_1794001747263_0",
+    "id": "arxiv_1794014468063_0",
     "name": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
     "category": "computer-vision",
     "description": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanat...",
@@ -24,11 +24,11 @@
       "Vision"
     ],
     "date": "2026-11-05T18:59:33Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xiaoqi Zhao, Youwei Pang, Kailai Zhou"
   },
   {
-    "id": "arxiv_1794001747264_1",
+    "id": "arxiv_1794014468064_1",
     "name": "Where and Why is Grounded Reasoning Useful?",
     "category": "computer-vision",
     "description": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefit...",
@@ -38,11 +38,11 @@
       "Vision"
     ],
     "date": "2026-11-05T18:59:32Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - David Yan, Le Xue, Forrest Huang et al."
   },
   {
-    "id": "arxiv_1794001747208_0",
+    "id": "arxiv_1794014467993_0",
     "name": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
     "category": "ai",
     "description": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process...",
@@ -53,11 +53,11 @@
       "Optimization"
     ],
     "date": "2026-11-05T18:59:29Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Qile Jiang, George Em Karniadakis"
   },
   {
-    "id": "arxiv_1794001747208_1",
+    "id": "arxiv_1794014467993_1",
     "name": "Scientist World: Grow a Research World for AI-Scientists",
     "category": "ai",
     "description": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Sc...",
@@ -70,22 +70,9 @@
     "source": "arXiv - Taiming Lu, Sachin Konan, Zhuang Liu"
   },
   {
-    "id": "arxiv_1794001747315_1",
+    "id": "arxiv_1794014468135_1",
     "name": "Scientist World: Grow a Research World for AI-Scientists",
     "category": "machine-learning",
-    "description": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Sc...",
-    "link": "http://arxiv.org/abs/2611.08478v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-05T18:58:17Z",
-    "trending": false,
-    "source": "arXiv - Taiming Lu, Sachin Konan, Zhuang Liu"
-  },
-  {
-    "id": "arxiv_1794001747368_0",
-    "name": "Scientist World: Grow a Research World for AI-Scientists",
-    "category": "nlp",
     "description": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Sc...",
     "link": "http://arxiv.org/abs/2611.08478v1",
     "tags": [
@@ -96,7 +83,20 @@
     "source": "arXiv - Taiming Lu, Sachin Konan, Zhuang Liu"
   },
   {
-    "id": "arxiv_1794001747264_2",
+    "id": "arxiv_1794014468210_0",
+    "name": "Scientist World: Grow a Research World for AI-Scientists",
+    "category": "nlp",
+    "description": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Sc...",
+    "link": "http://arxiv.org/abs/2611.08478v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-05T18:58:17Z",
+    "trending": false,
+    "source": "arXiv - Taiming Lu, Sachin Konan, Zhuang Liu"
+  },
+  {
+    "id": "arxiv_1794014468064_2",
     "name": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
     "category": "computer-vision",
     "description": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-cond...",
@@ -109,7 +109,7 @@
     "source": "arXiv - Yanlin Jin, Bowen Yang, Cheng Zhang et al."
   },
   {
-    "id": "arxiv_1794001747209_2",
+    "id": "arxiv_1794014467993_2",
     "name": "XStack: A Benchmark for ML Repo Migration",
     "category": "ai",
     "description": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repos...",
@@ -124,7 +124,7 @@
     "source": "arXiv - Linrong Cai, Taiming Lu, Haozhe Chen et al."
   },
   {
-    "id": "arxiv_1794001747315_2",
+    "id": "arxiv_1794014468135_2",
     "name": "XStack: A Benchmark for ML Repo Migration",
     "category": "machine-learning",
     "description": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repos...",
@@ -135,11 +135,11 @@
       "GPT"
     ],
     "date": "2026-11-05T18:55:54Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Linrong Cai, Taiming Lu, Haozhe Chen et al."
   },
   {
-    "id": "arxiv_1794001747209_3",
+    "id": "arxiv_1794014467993_3",
     "name": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
     "category": "ai",
     "description": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, n...",
@@ -148,11 +148,11 @@
       "AI"
     ],
     "date": "2026-11-05T18:55:31Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Linqian Wu, Diaoxuan He"
   },
   {
-    "id": "arxiv_1794001747316_3",
+    "id": "arxiv_1794014468135_3",
     "name": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
     "category": "machine-learning",
     "description": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, n...",
@@ -165,7 +165,7 @@
     "source": "arXiv - Linqian Wu, Diaoxuan He"
   },
   {
-    "id": "arxiv_1794001747209_4",
+    "id": "arxiv_1794014467993_4",
     "name": "Towards interpreting any residual stream direction by scaling activation inversion",
     "category": "ai",
     "description": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus con...",
@@ -178,7 +178,7 @@
     "source": "arXiv - Celeste De Schamphelaere, Juan J. Vazquez, Ari Spiesberger et al."
   },
   {
-    "id": "arxiv_1794001747316_4",
+    "id": "arxiv_1794014468136_4",
     "name": "Towards interpreting any residual stream direction by scaling activation inversion",
     "category": "machine-learning",
     "description": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus con...",
@@ -187,11 +187,11 @@
       "AI"
     ],
     "date": "2026-11-05T18:54:40Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Celeste De Schamphelaere, Juan J. Vazquez, Ari Spiesberger et al."
   },
   {
-    "id": "arxiv_1794001747368_1",
+    "id": "arxiv_1794014468210_1",
     "name": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
     "category": "nlp",
     "description": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy com...",
@@ -207,7 +207,7 @@
     "source": "arXiv - Zeyu Leo Liu, Yang Li, Bo Pang et al."
   },
   {
-    "id": "arxiv_1794001747264_3",
+    "id": "arxiv_1794014468064_3",
     "name": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
     "category": "computer-vision",
     "description": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goa...",
@@ -218,11 +218,11 @@
       "Robotics"
     ],
     "date": "2026-11-05T18:44:43Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yu-Cheng Chou, Shihao Wang, Jin Huang et al."
   },
   {
-    "id": "arxiv_1794001747264_4",
+    "id": "arxiv_1794014468066_4",
     "name": "Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception",
     "category": "computer-vision",
     "description": "Cyclist fatality rates remain high despite policy support for active travel, and autonomous vehicles add complexity to mixed traffic. Neither crash statistics nor multi-model detection pipelines scale...",
@@ -232,11 +232,11 @@
       "Vision"
     ],
     "date": "2026-11-05T18:33:58Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Hongsen Cao, Chia-Yen Chiang, Mona Jaber et al."
   },
   {
-    "id": "arxiv_1794001747368_2",
+    "id": "arxiv_1794014468210_2",
     "name": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
     "category": "nlp",
     "description": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 307M-...",
@@ -249,7 +249,7 @@
     "source": "arXiv - Vladimir Beskorovainyi"
   },
   {
-    "id": "arxiv_1794001747368_3",
+    "id": "arxiv_1794014468210_3",
     "name": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
     "category": "nlp",
     "description": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making...",
@@ -264,7 +264,7 @@
     "source": "arXiv - Fazl Barez, Tung-Yu Wu, Hunar Batra et al."
   },
   {
-    "id": "arxiv_1794001747368_4",
+    "id": "arxiv_1794014468210_4",
     "name": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
     "category": "nlp",
     "description": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudin...",
