@@ -1,281 +1,280 @@
 [
   {
-    "id": "arxiv_1794183073662_0",
-    "name": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+    "id": "arxiv_1794208743206_0",
+    "name": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+    "category": "computer-vision",
+    "description": "Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dyna...",
+    "link": "http://arxiv.org/abs/2611.09894v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-11-06T18:59:57Z",
+    "trending": false,
+    "source": "arXiv - Chaoyang Wang, Sicheng Gao, Junan Hu et al."
+  },
+  {
+    "id": "arxiv_1794208743192_0",
+    "name": "On Agentic Manipulation Policies",
+    "category": "ai",
+    "description": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a...",
+    "link": "http://arxiv.org/abs/2611.09892v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-11-06T18:59:34Z",
+    "trending": false,
+    "source": "arXiv - Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji et al."
+  },
+  {
+    "id": "arxiv_1794208743206_1",
+    "name": "On Agentic Manipulation Policies",
+    "category": "computer-vision",
+    "description": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a...",
+    "link": "http://arxiv.org/abs/2611.09892v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-11-06T18:59:34Z",
+    "trending": false,
+    "source": "arXiv - Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji et al."
+  },
+  {
+    "id": "arxiv_1794208743219_0",
+    "name": "On Agentic Manipulation Policies",
     "category": "machine-learning",
-    "description": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are in...",
-    "link": "http://arxiv.org/abs/2611.08487v1",
+    "description": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a...",
+    "link": "http://arxiv.org/abs/2611.09892v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-11-06T18:59:34Z",
+    "trending": false,
+    "source": "arXiv - Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji et al."
+  },
+  {
+    "id": "arxiv_1794208743192_1",
+    "name": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+    "category": "ai",
+    "description": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task h...",
+    "link": "http://arxiv.org/abs/2611.09891v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-11-06T18:58:50Z",
+    "trending": false,
+    "source": "arXiv - Peter Belcak, Greg Heinrich, Saurav Muralidharan et al."
+  },
+  {
+    "id": "arxiv_1794208743219_1",
+    "name": "On the (non-)closedness of the set of ReLU networks",
+    "category": "machine-learning",
+    "description": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d...",
+    "link": "http://arxiv.org/abs/2611.09887v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-06T18:58:06Z",
+    "trending": true,
+    "source": "arXiv - Eloi Martinet, Leon Bungert"
+  },
+  {
+    "id": "arxiv_1794208743206_2",
+    "name": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+    "category": "computer-vision",
+    "description": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the d...",
+    "link": "http://arxiv.org/abs/2611.09882v1",
     "tags": [
       "AI",
       "Transformer"
     ],
-    "date": "2026-11-05T18:59:42Z",
+    "date": "2026-11-06T18:56:41Z",
     "trending": true,
-    "source": "arXiv - Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen et al."
+    "source": "arXiv - Aadya Agrawal, Ho Kei Cheng, Alexander Schwing"
   },
   {
-    "id": "arxiv_1794183073633_0",
-    "name": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
-    "category": "computer-vision",
-    "description": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanat...",
-    "link": "http://arxiv.org/abs/2611.08486v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-11-05T18:59:33Z",
-    "trending": false,
-    "source": "arXiv - Xiaoqi Zhao, Youwei Pang, Kailai Zhou"
-  },
-  {
-    "id": "arxiv_1794183073633_1",
-    "name": "Where and Why is Grounded Reasoning Useful?",
-    "category": "computer-vision",
-    "description": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefit...",
-    "link": "http://arxiv.org/abs/2611.08485v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-11-05T18:59:32Z",
-    "trending": false,
-    "source": "arXiv - David Yan, Le Xue, Forrest Huang et al."
-  },
-  {
-    "id": "arxiv_1794183073612_0",
-    "name": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-    "category": "ai",
-    "description": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process...",
-    "link": "http://arxiv.org/abs/2611.08483v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-11-05T18:59:29Z",
-    "trending": false,
-    "source": "arXiv - Qile Jiang, George Em Karniadakis"
-  },
-  {
-    "id": "arxiv_1794183073613_1",
-    "name": "Scientist World: Grow a Research World for AI-Scientists",
-    "category": "ai",
-    "description": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Sc...",
-    "link": "http://arxiv.org/abs/2611.08478v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-05T18:58:17Z",
-    "trending": false,
-    "source": "arXiv - Taiming Lu, Sachin Konan, Zhuang Liu"
-  },
-  {
-    "id": "arxiv_1794183073662_1",
-    "name": "Scientist World: Grow a Research World for AI-Scientists",
+    "id": "arxiv_1794208743219_2",
+    "name": "FlowMoP: Stochastic Multi-Person Motion Prediction",
     "category": "machine-learning",
-    "description": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Sc...",
-    "link": "http://arxiv.org/abs/2611.08478v1",
+    "description": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the d...",
+    "link": "http://arxiv.org/abs/2611.09882v1",
     "tags": [
-      "AI"
+      "AI",
+      "Transformer"
     ],
-    "date": "2026-11-05T18:58:17Z",
+    "date": "2026-11-06T18:56:41Z",
     "trending": false,
-    "source": "arXiv - Taiming Lu, Sachin Konan, Zhuang Liu"
+    "source": "arXiv - Aadya Agrawal, Ho Kei Cheng, Alexander Schwing"
   },
   {
-    "id": "arxiv_1794183073685_0",
-    "name": "Scientist World: Grow a Research World for AI-Scientists",
-    "category": "nlp",
-    "description": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Sc...",
-    "link": "http://arxiv.org/abs/2611.08478v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-05T18:58:17Z",
-    "trending": false,
-    "source": "arXiv - Taiming Lu, Sachin Konan, Zhuang Liu"
-  },
-  {
-    "id": "arxiv_1794183073633_2",
-    "name": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+    "id": "arxiv_1794208743206_3",
+    "name": "ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations",
     "category": "computer-vision",
-    "description": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-cond...",
-    "link": "http://arxiv.org/abs/2611.08477v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-05T18:58:13Z",
-    "trending": false,
-    "source": "arXiv - Yanlin Jin, Bowen Yang, Cheng Zhang et al."
-  },
-  {
-    "id": "arxiv_1794183073613_2",
-    "name": "XStack: A Benchmark for ML Repo Migration",
-    "category": "ai",
-    "description": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repos...",
-    "link": "http://arxiv.org/abs/2611.08472v1",
+    "description": "Zeolites are an important class of porous crystalline materials with broad applications in gas storage, separations, and catalysis. Although hundreds of thousands of experimentally realized and hypoth...",
+    "link": "http://arxiv.org/abs/2611.09880v1",
     "tags": [
       "AI",
-      "Machine Learning",
-      "GPT"
+      "Neural",
+      "Vision",
+      "Transformer"
     ],
-    "date": "2026-11-05T18:55:54Z",
+    "date": "2026-11-06T18:55:34Z",
     "trending": false,
-    "source": "arXiv - Linrong Cai, Taiming Lu, Haozhe Chen et al."
+    "source": "arXiv - Aaron Sun, Yachan Liu, Ping Yang et al."
   },
   {
-    "id": "arxiv_1794183073662_2",
-    "name": "XStack: A Benchmark for ML Repo Migration",
-    "category": "machine-learning",
-    "description": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repos...",
-    "link": "http://arxiv.org/abs/2611.08472v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "GPT"
-    ],
-    "date": "2026-11-05T18:55:54Z",
-    "trending": false,
-    "source": "arXiv - Linrong Cai, Taiming Lu, Haozhe Chen et al."
-  },
-  {
-    "id": "arxiv_1794183073613_3",
-    "name": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
-    "category": "ai",
-    "description": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, n...",
-    "link": "http://arxiv.org/abs/2611.08469v1",
+    "id": "arxiv_1794208743206_4",
+    "name": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+    "category": "computer-vision",
+    "description": "The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and ...",
+    "link": "http://arxiv.org/abs/2611.09878v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-11-05T18:55:31Z",
-    "trending": false,
-    "source": "arXiv - Linqian Wu, Diaoxuan He"
-  },
-  {
-    "id": "arxiv_1794183073662_3",
-    "name": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
-    "category": "machine-learning",
-    "description": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, n...",
-    "link": "http://arxiv.org/abs/2611.08469v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-05T18:55:31Z",
+    "date": "2026-11-06T18:54:03Z",
     "trending": true,
-    "source": "arXiv - Linqian Wu, Diaoxuan He"
+    "source": "arXiv - Tanush Shaska"
   },
   {
-    "id": "arxiv_1794183073613_4",
-    "name": "Towards interpreting any residual stream direction by scaling activation inversion",
-    "category": "ai",
-    "description": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus con...",
-    "link": "http://arxiv.org/abs/2611.08465v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-05T18:54:40Z",
-    "trending": true,
-    "source": "arXiv - Celeste De Schamphelaere, Juan J. Vazquez, Ari Spiesberger et al."
-  },
-  {
-    "id": "arxiv_1794183073662_4",
-    "name": "Towards interpreting any residual stream direction by scaling activation inversion",
+    "id": "arxiv_1794208743219_3",
+    "name": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
     "category": "machine-learning",
-    "description": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus con...",
-    "link": "http://arxiv.org/abs/2611.08465v1",
+    "description": "The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and ...",
+    "link": "http://arxiv.org/abs/2611.09878v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-11-05T18:54:40Z",
-    "trending": false,
-    "source": "arXiv - Celeste De Schamphelaere, Juan J. Vazquez, Ari Spiesberger et al."
+    "date": "2026-11-06T18:54:03Z",
+    "trending": true,
+    "source": "arXiv - Tanush Shaska"
   },
   {
-    "id": "arxiv_1794183073685_1",
-    "name": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
-    "category": "nlp",
-    "description": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy com...",
-    "link": "http://arxiv.org/abs/2611.08453v1",
+    "id": "arxiv_1794208743192_2",
+    "name": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+    "category": "ai",
+    "description": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze ma...",
+    "link": "http://arxiv.org/abs/2611.09872v1",
     "tags": [
       "AI",
       "Vision",
       "Reinforcement Learning",
       "Optimization"
     ],
-    "date": "2026-11-05T18:47:05Z",
-    "trending": true,
-    "source": "arXiv - Zeyu Leo Liu, Yang Li, Bo Pang et al."
+    "date": "2026-11-06T18:49:02Z",
+    "trending": false,
+    "source": "arXiv - Haoyu Wang, Ru Wang, Yuanyuan Wang et al."
   },
   {
-    "id": "arxiv_1794183073633_3",
-    "name": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
-    "category": "computer-vision",
-    "description": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goa...",
-    "link": "http://arxiv.org/abs/2611.08449v1",
+    "id": "arxiv_1794208743231_0",
+    "name": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
+    "category": "nlp",
+    "description": "Large reasoning models (LRMs) improve task performance by generating longer intermediate reasoning traces, but this substantially increases inference costs and makes low-precision quantization increas...",
+    "link": "http://arxiv.org/abs/2611.09868v1",
+    "tags": [],
+    "date": "2026-11-06T18:48:04Z",
+    "trending": true,
+    "source": "arXiv - Xingyu Liu, Xiangyang Yin, Tianhua Xia et al."
+  },
+  {
+    "id": "arxiv_1794208743192_3",
+    "name": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+    "category": "ai",
+    "description": "Purpose: Surgical operative reports support procedural documentation, surgical training, performance assessment, and workflow review. However, extracting meaningful information often requires extensiv...",
+    "link": "http://arxiv.org/abs/2611.09866v1",
     "tags": [
       "AI",
-      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-11-06T18:47:23Z",
+    "trending": true,
+    "source": "arXiv - Rochak Dhakal, Chen Zhao, Soup Cobb et al."
+  },
+  {
+    "id": "arxiv_1794208743192_4",
+    "name": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+    "category": "ai",
+    "description": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as service r...",
+    "link": "http://arxiv.org/abs/2611.09864v1",
+    "tags": [
+      "AI",
+      "Reinforcement Learning",
       "Robotics"
     ],
-    "date": "2026-11-05T18:44:43Z",
-    "trending": true,
-    "source": "arXiv - Yu-Cheng Chou, Shihao Wang, Jin Huang et al."
+    "date": "2026-11-06T18:44:33Z",
+    "trending": false,
+    "source": "arXiv - Xun Tu, Minghao Zou, Karthik Desingh"
   },
   {
-    "id": "arxiv_1794183073633_4",
-    "name": "Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception",
-    "category": "computer-vision",
-    "description": "Cyclist fatality rates remain high despite policy support for active travel, and autonomous vehicles add complexity to mixed traffic. Neither crash statistics nor multi-model detection pipelines scale...",
-    "link": "http://arxiv.org/abs/2611.08441v1",
+    "id": "arxiv_1794208743219_4",
+    "name": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+    "category": "machine-learning",
+    "description": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as service r...",
+    "link": "http://arxiv.org/abs/2611.09864v1",
     "tags": [
       "AI",
-      "Vision"
+      "Reinforcement Learning",
+      "Robotics"
     ],
-    "date": "2026-11-05T18:33:58Z",
-    "trending": true,
-    "source": "arXiv - Hongsen Cao, Chia-Yen Chiang, Mona Jaber et al."
+    "date": "2026-11-06T18:44:33Z",
+    "trending": false,
+    "source": "arXiv - Xun Tu, Minghao Zou, Karthik Desingh"
   },
   {
-    "id": "arxiv_1794183073685_2",
-    "name": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
+    "id": "arxiv_1794208743231_1",
+    "name": "How far does a hash-only sender go? A pre-registered map of sender memory versus bits for short text messages",
     "category": "nlp",
-    "description": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 307M-...",
-    "link": "http://arxiv.org/abs/2611.08439v1",
+    "description": "Can a sender that only computes hashes, with a language model only at the receiver, transmit short human text more cheaply than a classical sender trained on the same domain? We answer with one pre-re...",
+    "link": "http://arxiv.org/abs/2611.09848v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-11-05T18:31:24Z",
+    "date": "2026-11-06T18:31:24Z",
     "trending": false,
-    "source": "arXiv - Vladimir Beskorovainyi"
+    "source": "arXiv - Marcelo Samoilenko"
   },
   {
-    "id": "arxiv_1794183073685_3",
-    "name": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+    "id": "arxiv_1794208743231_2",
+    "name": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
     "category": "nlp",
-    "description": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making...",
-    "link": "http://arxiv.org/abs/2611.08438v1",
+    "description": "The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While 4-bit microscaling formats (NVFP4, MXFP4) shrink the cache and run attention on FP4 Tensor Cores, a ...",
+    "link": "http://arxiv.org/abs/2611.09825v1",
     "tags": [
       "AI",
-      "Neural",
-      "Transformer"
+      "LLM"
     ],
-    "date": "2026-11-05T18:30:54Z",
+    "date": "2026-11-06T18:13:54Z",
     "trending": true,
-    "source": "arXiv - Fazl Barez, Tung-Yu Wu, Hunar Batra et al."
+    "source": "arXiv - Dayou Du, Woon Yee Ng, Guangming Sheng et al."
   },
   {
-    "id": "arxiv_1794183073685_4",
-    "name": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
+    "id": "arxiv_1794208743231_3",
+    "name": "Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation",
     "category": "nlp",
-    "description": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudin...",
-    "link": "http://arxiv.org/abs/2611.08433v1",
+    "description": "A conversational agent that remembers has to decide what to keep. Retrieval-augmented generation keeps the transcript and searches it; the alternative is to compact each turn into atomic facts and sea...",
+    "link": "http://arxiv.org/abs/2611.09807v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-06T17:56:37Z",
+    "trending": true,
+    "source": "arXiv - Osamudiamen Edogun, Joshua Obigwe, Irfan Mehmood"
+  },
+  {
+    "id": "arxiv_1794208743232_4",
+    "name": "Maya a1: Do the Options Read the Model, or Does Their Position? Order Sensitivity in a Non-Autoregressive Decision Model",
+    "category": "nlp",
+    "description": "Laya answers typed multiple-choice questions in one forward pass by scoring a hidden state at one [MASK] marker per option. We re-engineer the checkpoint (421M parameters; a 2-layer option head with n...",
+    "link": "http://arxiv.org/abs/2611.09803v1",
     "tags": [
       "AI",
-      "LLM",
-      "GPT"
+      "LLM"
     ],
-    "date": "2026-11-05T18:27:20Z",
-    "trending": true,
-    "source": "arXiv - Donghua Zhang, Zizheng Wang, Ze Dong et al."
+    "date": "2026-11-06T17:54:01Z",
+    "trending": false,
+    "source": "arXiv - Mohammed Nayeem Khan, Logesh L"
   }
 ]
