@@ -1,19 +1,154 @@
 [
   {
-    "id": "rss_Ars_Technica_1794246770655_0",
-    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "id": "rss_Wired_1794272077979_0",
+    "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+    "category": "ai-news",
+    "source": "Wired",
+    "description": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+    "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+    "tags": [
+      "AI",
+      "NVIDIA"
+    ],
+    "date": "Tue, 10 Nov 2026 00:18:19 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1794272073177_0",
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "tags": [],
+    "date": "Mon, 09 Nov 2026 23:28:37 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1794272073177_1",
+    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+    "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "date": "Mon, 09 Nov 2026 22:46:09 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1794272073177_2",
+    "title": "The race is on to sue Nvidia",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.\n",
+    "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "date": "Mon, 09 Nov 2026 22:23:42 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1794272076818_0",
+    "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
     "category": "ai-news",
     "source": "Ars Technica",
-    "description": "\n                        \"Do not ask again\" prompt leads to passwords, API keys, and more being shared.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "description": "\n                        Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.\n                    ",
+    "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+    "tags": [],
+    "date": "Mon, 09 Nov 2026 21:55:35 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1794272076818_1",
+    "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Lawsuit demands Kalshi return losses because online betting is illegal in Washington.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+    "tags": [],
+    "date": "Mon, 09 Nov 2026 21:13:39 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1794272076818_2",
+    "title": "A Sam Altman parody offers an amusing lesson in memory management",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        We verified the RAM numbers are real without sending any emails to OpenAI. \n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+    "tags": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "Mon, 09 Nov 2026 20:49:09 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1794272073177_3",
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "date": "Mon, 09 Nov 2026 20:09:06 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1794272076818_3",
+    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"*sshole\" poses a serious threat to Internet security.\n                    ",
+    "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+    "tags": [],
+    "date": "Mon, 09 Nov 2026 19:41:34 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1794272075354_0",
+    "title": "The backlash about data centers might really just be about electricity",
+    "category": "ai-news",
+    "source": "MIT Tech Review",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
+    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
     "tags": [
       "AI"
     ],
-    "date": "Mon, 09 Nov 2026 17:24:26 +0000",
-    "trending": true
+    "date": "Mon, 09 Nov 2026 19:35:33 +0000",
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1794246769233_0",
+    "id": "rss_TechCrunch_1794272073177_4",
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "tags": [
+      "Vision"
+    ],
+    "date": "Mon, 09 Nov 2026 19:24:51 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1794272076818_4",
+    "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"Please jump on my cislunar bandwagon because I need some more friends here.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+    "tags": [],
+    "date": "Mon, 09 Nov 2026 19:08:37 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_MIT_Tech_Review_1794272075354_1",
     "title": "Nancy Pelosi’s replacement is ready to regulate AI",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -23,74 +158,10 @@
       "AI"
     ],
     "date": "Mon, 09 Nov 2026 17:05:43 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1794246767002_0",
-    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 09 Nov 2026 16:56:54 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1794246767003_1",
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-    "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 09 Nov 2026 16:12:28 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1794246770655_1",
-    "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        \"Grok analyzing the same video is 99.9 percent perfect.\"\n                    ",
-    "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
-    "tags": [],
-    "date": "Mon, 09 Nov 2026 15:39:21 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1794246770655_2",
-    "title": "Nvidia CEO's affair becomes a national security problem",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-    "tags": [
-      "AI",
-      "NVIDIA"
-    ],
-    "date": "Mon, 09 Nov 2026 15:23:20 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1794246770656_3",
-    "title": "F1 in Brazil: You’ve got to keep your tires alive",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        A topsy-turvy grid and intermittent rain resulted in a very entertaining race.\n                    ",
-    "link": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 09 Nov 2026 15:16:31 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1794246771741_0",
+    "id": "rss_Wired_1794272077979_1",
     "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
     "category": "ai-news",
     "source": "Wired",
@@ -100,23 +171,10 @@
       "NVIDIA"
     ],
     "date": "Mon, 09 Nov 2026 14:30:56 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1794246767003_2",
-    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-    "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 09 Nov 2026 14:00:00 +0000",
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1794246769233_1",
+    "id": "rss_MIT_Tech_Review_1794272075354_2",
     "title": "The Download: empty AI climate claims, and an Nvidia investigation",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -130,7 +188,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1794246769233_2",
+    "id": "rss_MIT_Tech_Review_1794272075354_3",
     "title": "Innovating with AI in the special chemicals industry",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -140,21 +198,10 @@
       "AI"
     ],
     "date": "Mon, 09 Nov 2026 13:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1794246770656_4",
-    "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        \"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"\n                    ",
-    "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
-    "tags": [],
-    "date": "Mon, 09 Nov 2026 12:00:05 +0000",
     "trending": false
   },
   {
-    "id": "rss_Wired_1794246771741_1",
+    "id": "rss_Wired_1794272077979_2",
     "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
     "category": "ai-news",
     "source": "Wired",
@@ -167,7 +214,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1794246769233_3",
+    "id": "rss_MIT_Tech_Review_1794272075354_4",
     "title": "The climate case for AI has not been made",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -180,7 +227,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1794246771741_2",
+    "id": "rss_Wired_1794272077979_3",
     "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
     "category": "ai-news",
     "source": "Wired",
@@ -191,37 +238,10 @@
       "Google"
     ],
     "date": "Mon, 09 Nov 2026 08:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1794246767003_3",
-    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.\n",
-    "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-    "tags": [
-      "NVIDIA"
-    ],
-    "date": "Mon, 09 Nov 2026 05:26:29 +0000",
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1794246767003_4",
-    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "In a memo to the company, Huang admitted that he had an affair.",
-    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-    "tags": [
-      "AI",
-      "NVIDIA"
-    ],
-    "date": "Sun, 08 Nov 2026 21:00:11 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1794246771741_3",
+    "id": "rss_Wired_1794272077979_4",
     "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
     "category": "ai-news",
     "source": "Wired",
@@ -231,38 +251,10 @@
       "AI"
     ],
     "date": "Sun, 08 Nov 2026 12:00:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Wired_1794246771741_4",
-    "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-    "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-    "tags": [
-      "AI",
-      "Robot"
-    ],
-    "date": "Sun, 08 Nov 2026 10:00:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1794246769234_4",
-    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot clea",
-    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-    "tags": [
-      "AI",
-      "Robot"
-    ],
-    "date": "Fri, 06 Nov 2026 13:10:00 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Distill_1794246780268_0",
+    "id": "rss_Distill_1794272085597_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -275,7 +267,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1794246780268_1",
+    "id": "rss_Distill_1794272085597_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -288,7 +280,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1794246780268_2",
+    "id": "rss_Distill_1794272085597_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -299,7 +291,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1794246780268_3",
+    "id": "rss_Distill_1794272085597_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -312,7 +304,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1794246780268_4",
+    "id": "rss_Distill_1794272085597_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
@@ -320,6 +312,6 @@
     "link": "https://distill.pub/2020/circuits/weight-banding",
     "tags": [],
     "date": "Thu, 08 Apr 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   }
 ]

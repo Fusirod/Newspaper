@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1794246766518_0",
+    "id": "arxiv_1794272072869_0",
     "name": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
     "category": "computer-vision",
     "description": "Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dyna...",
@@ -10,11 +10,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-11-06T18:59:57Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Chaoyang Wang, Sicheng Gao, Junan Hu et al."
   },
   {
-    "id": "arxiv_1794246766454_0",
+    "id": "arxiv_1794272072799_0",
     "name": "On Agentic Manipulation Policies",
     "category": "ai",
     "description": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a...",
@@ -28,7 +28,7 @@
     "source": "arXiv - Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji et al."
   },
   {
-    "id": "arxiv_1794246766518_1",
+    "id": "arxiv_1794272072869_1",
     "name": "On Agentic Manipulation Policies",
     "category": "computer-vision",
     "description": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a...",
@@ -42,7 +42,7 @@
     "source": "arXiv - Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji et al."
   },
   {
-    "id": "arxiv_1794246766581_0",
+    "id": "arxiv_1794272072942_0",
     "name": "On Agentic Manipulation Policies",
     "category": "machine-learning",
     "description": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a...",
@@ -56,7 +56,7 @@
     "source": "arXiv - Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji et al."
   },
   {
-    "id": "arxiv_1794246766454_1",
+    "id": "arxiv_1794272072799_1",
     "name": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
     "category": "ai",
     "description": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task h...",
@@ -66,11 +66,11 @@
       "LLM"
     ],
     "date": "2026-11-06T18:58:50Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Peter Belcak, Greg Heinrich, Saurav Muralidharan et al."
   },
   {
-    "id": "arxiv_1794246766581_1",
+    "id": "arxiv_1794272072942_1",
     "name": "On the (non-)closedness of the set of ReLU networks",
     "category": "machine-learning",
     "description": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d...",
@@ -83,7 +83,7 @@
     "source": "arXiv - Eloi Martinet, Leon Bungert"
   },
   {
-    "id": "arxiv_1794246766518_2",
+    "id": "arxiv_1794272072869_2",
     "name": "FlowMoP: Stochastic Multi-Person Motion Prediction",
     "category": "computer-vision",
     "description": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the d...",
@@ -93,11 +93,11 @@
       "Transformer"
     ],
     "date": "2026-11-06T18:56:41Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Aadya Agrawal, Ho Kei Cheng, Alexander Schwing"
   },
   {
-    "id": "arxiv_1794246766581_2",
+    "id": "arxiv_1794272072942_2",
     "name": "FlowMoP: Stochastic Multi-Person Motion Prediction",
     "category": "machine-learning",
     "description": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the d...",
@@ -111,7 +111,7 @@
     "source": "arXiv - Aadya Agrawal, Ho Kei Cheng, Alexander Schwing"
   },
   {
-    "id": "arxiv_1794246766518_3",
+    "id": "arxiv_1794272072870_3",
     "name": "ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations",
     "category": "computer-vision",
     "description": "Zeolites are an important class of porous crystalline materials with broad applications in gas storage, separations, and catalysis. Although hundreds of thousands of experimentally realized and hypoth...",
@@ -123,11 +123,11 @@
       "Transformer"
     ],
     "date": "2026-11-06T18:55:34Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Aaron Sun, Yachan Liu, Ping Yang et al."
   },
   {
-    "id": "arxiv_1794246766518_4",
+    "id": "arxiv_1794272072870_4",
     "name": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
     "category": "computer-vision",
     "description": "The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and ...",
@@ -140,7 +140,7 @@
     "source": "arXiv - Tanush Shaska"
   },
   {
-    "id": "arxiv_1794246766581_3",
+    "id": "arxiv_1794272072942_3",
     "name": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
     "category": "machine-learning",
     "description": "The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and ...",
@@ -153,7 +153,7 @@
     "source": "arXiv - Tanush Shaska"
   },
   {
-    "id": "arxiv_1794246766454_2",
+    "id": "arxiv_1794272072799_2",
     "name": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
     "category": "ai",
     "description": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze ma...",
@@ -165,11 +165,11 @@
       "Optimization"
     ],
     "date": "2026-11-06T18:49:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Haoyu Wang, Ru Wang, Yuanyuan Wang et al."
   },
   {
-    "id": "arxiv_1794246766805_0",
+    "id": "arxiv_1794272073014_0",
     "name": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
     "category": "nlp",
     "description": "Large reasoning models (LRMs) improve task performance by generating longer intermediate reasoning traces, but this substantially increases inference costs and makes low-precision quantization increas...",
@@ -180,7 +180,7 @@
     "source": "arXiv - Xingyu Liu, Xiangyang Yin, Tianhua Xia et al."
   },
   {
-    "id": "arxiv_1794246766455_3",
+    "id": "arxiv_1794272072799_3",
     "name": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
     "category": "ai",
     "description": "Purpose: Surgical operative reports support procedural documentation, surgical training, performance assessment, and workflow review. However, extracting meaningful information often requires extensiv...",
@@ -194,7 +194,7 @@
     "source": "arXiv - Rochak Dhakal, Chen Zhao, Soup Cobb et al."
   },
   {
-    "id": "arxiv_1794246766455_4",
+    "id": "arxiv_1794272072799_4",
     "name": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
     "category": "ai",
     "description": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as service r...",
@@ -209,7 +209,7 @@
     "source": "arXiv - Xun Tu, Minghao Zou, Karthik Desingh"
   },
   {
-    "id": "arxiv_1794246766581_4",
+    "id": "arxiv_1794272072943_4",
     "name": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
     "category": "machine-learning",
     "description": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as service r...",
@@ -224,7 +224,7 @@
     "source": "arXiv - Xun Tu, Minghao Zou, Karthik Desingh"
   },
   {
-    "id": "arxiv_1794246766805_1",
+    "id": "arxiv_1794272073014_1",
     "name": "How far does a hash-only sender go? A pre-registered map of sender memory versus bits for short text messages",
     "category": "nlp",
     "description": "Can a sender that only computes hashes, with a language model only at the receiver, transmit short human text more cheaply than a classical sender trained on the same domain? We answer with one pre-re...",
@@ -237,7 +237,7 @@
     "source": "arXiv - Marcelo Samoilenko"
   },
   {
-    "id": "arxiv_1794246766805_2",
+    "id": "arxiv_1794272073014_2",
     "name": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
     "category": "nlp",
     "description": "The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While 4-bit microscaling formats (NVFP4, MXFP4) shrink the cache and run attention on FP4 Tensor Cores, a ...",
@@ -251,7 +251,7 @@
     "source": "arXiv - Dayou Du, Woon Yee Ng, Guangming Sheng et al."
   },
   {
-    "id": "arxiv_1794246766805_3",
+    "id": "arxiv_1794272073014_3",
     "name": "Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation",
     "category": "nlp",
     "description": "A conversational agent that remembers has to decide what to keep. Retrieval-augmented generation keeps the transcript and searches it; the alternative is to compact each turn into atomic facts and sea...",
@@ -264,7 +264,7 @@
     "source": "arXiv - Osamudiamen Edogun, Joshua Obigwe, Irfan Mehmood"
   },
   {
-    "id": "arxiv_1794246766805_4",
+    "id": "arxiv_1794272073014_4",
     "name": "Maya a1: Do the Options Read the Model, or Does Their Position? Order Sensitivity in a Non-Autoregressive Decision Model",
     "category": "nlp",
     "description": "Laya answers typed multiple-choice questions in one forward pass by scoring a hidden state at one [MASK] marker per option. We re-engineer the checkpoint (421M parameters; a 2-layer option head with n...",
@@ -274,7 +274,7 @@
       "LLM"
     ],
     "date": "2026-11-06T17:54:01Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Mohammed Nayeem Khan, Logesh L"
   }
 ]
