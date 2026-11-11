@@ -1,280 +1,283 @@
 [
   {
-    "id": "arxiv_1794360690213_0",
-    "name": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+    "id": "arxiv_1794385845630_0",
+    "name": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+    "category": "ai",
+    "description": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co...",
+    "link": "http://arxiv.org/abs/2611.14519v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-10T18:59:54Z",
+    "trending": false,
+    "source": "arXiv - Emre Kutlusan, Yongmin Li"
+  },
+  {
+    "id": "arxiv_1794385845647_0",
+    "name": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
     "category": "computer-vision",
-    "description": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. M...",
-    "link": "http://arxiv.org/abs/2611.12886v1",
+    "description": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co...",
+    "link": "http://arxiv.org/abs/2611.14519v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-10T18:59:54Z",
+    "trending": false,
+    "source": "arXiv - Emre Kutlusan, Yongmin Li"
+  },
+  {
+    "id": "arxiv_1794385845630_1",
+    "name": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+    "category": "ai",
+    "description": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da...",
+    "link": "http://arxiv.org/abs/2611.14518v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-10T18:59:17Z",
+    "trending": true,
+    "source": "arXiv - Sheethal Bhat, Bogdan Georgescu, Awais Mansoor et al."
+  },
+  {
+    "id": "arxiv_1794385845647_1",
+    "name": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+    "category": "computer-vision",
+    "description": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da...",
+    "link": "http://arxiv.org/abs/2611.14518v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-10T18:59:17Z",
+    "trending": false,
+    "source": "arXiv - Sheethal Bhat, Bogdan Georgescu, Awais Mansoor et al."
+  },
+  {
+    "id": "arxiv_1794385845664_0",
+    "name": "TorchCurves: Differentiable Parametric Curves",
+    "category": "machine-learning",
+    "description": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-...",
+    "link": "http://arxiv.org/abs/2611.14516v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-10T18:58:52Z",
+    "trending": false,
+    "source": "arXiv - Alex Shtoff"
+  },
+  {
+    "id": "arxiv_1794385845664_1",
+    "name": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+    "category": "machine-learning",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-...",
+    "link": "http://arxiv.org/abs/2611.14515v1",
     "tags": [
       "AI",
       "Reinforcement Learning"
     ],
-    "date": "2026-11-09T18:59:54Z",
+    "date": "2026-11-10T18:58:46Z",
     "trending": false,
-    "source": "arXiv - Haozhi Yuan, Handong Li, Yifan Zhang et al."
+    "source": "arXiv - Zijian Zhang, Rizhen Hu, Jiangweizhi Peng et al."
   },
   {
-    "id": "arxiv_1794360690213_1",
-    "name": "World In-Context Learning for Agentic Robot Manipulation",
-    "category": "computer-vision",
-    "description": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched ...",
-    "link": "http://arxiv.org/abs/2611.12885v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-09T18:59:45Z",
-    "trending": true,
-    "source": "arXiv - Heng Fang, Zehui Guo, Yuehan Zhang et al."
-  },
-  {
-    "id": "arxiv_1794360690213_2",
-    "name": "Guiding Data Allocation for Robust Subpopulation Generalization",
-    "category": "computer-vision",
-    "description": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced ...",
-    "link": "http://arxiv.org/abs/2611.12884v1",
+    "id": "arxiv_1794385845682_0",
+    "name": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+    "category": "nlp",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-...",
+    "link": "http://arxiv.org/abs/2611.14515v1",
     "tags": [
       "AI",
-      "Machine Learning"
+      "Reinforcement Learning"
     ],
-    "date": "2026-11-09T18:59:40Z",
-    "trending": true,
-    "source": "arXiv - Zhaoying Pan, Yipei Wang, Shenyu Lu et al."
-  },
-  {
-    "id": "arxiv_1794360690233_0",
-    "name": "Guiding Data Allocation for Robust Subpopulation Generalization",
-    "category": "machine-learning",
-    "description": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced ...",
-    "link": "http://arxiv.org/abs/2611.12884v1",
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "date": "2026-11-09T18:59:40Z",
+    "date": "2026-11-10T18:58:46Z",
     "trending": false,
-    "source": "arXiv - Zhaoying Pan, Yipei Wang, Shenyu Lu et al."
+    "source": "arXiv - Zijian Zhang, Rizhen Hu, Jiangweizhi Peng et al."
   },
   {
-    "id": "arxiv_1794360690213_3",
-    "name": "Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs",
-    "category": "computer-vision",
-    "description": "Multimodal large language models (MLLMs) integrate information across modalities, but become unreliable when those modalities disagree. Under conflicting inputs, MLLMs may favor modalities that are no...",
-    "link": "http://arxiv.org/abs/2611.12883v1",
+    "id": "arxiv_1794385845630_2",
+    "name": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+    "category": "ai",
+    "description": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ...",
+    "link": "http://arxiv.org/abs/2611.14514v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-11-09T18:59:36Z",
+    "date": "2026-11-10T18:58:43Z",
     "trending": false,
-    "source": "arXiv - Zhaoying Pan, Shenyu Lu, Jun Hui Wong et al."
+    "source": "arXiv - Ziang Liu, James J. Kim, Yijia Dai et al."
   },
   {
-    "id": "arxiv_1794360690233_1",
-    "name": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
+    "id": "arxiv_1794385845664_2",
+    "name": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
     "category": "machine-learning",
-    "description": "Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration ste...",
-    "link": "http://arxiv.org/abs/2611.12880v1",
+    "description": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ...",
+    "link": "http://arxiv.org/abs/2611.14514v1",
     "tags": [
       "AI",
-      "Neural",
-      "Deep Learning",
-      "Diffusion"
+      "LLM"
     ],
-    "date": "2026-11-09T18:59:13Z",
+    "date": "2026-11-10T18:58:43Z",
     "trending": false,
-    "source": "arXiv - Majdi Hassan, Marta Skreta, Dominique Beaini et al."
+    "source": "arXiv - Ziang Liu, James J. Kim, Yijia Dai et al."
   },
   {
-    "id": "arxiv_1794360690213_4",
-    "name": "Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos",
-    "category": "computer-vision",
-    "description": "To interact with an object, we need to anticipate both how it will move and how our hands should move with it. Human videos capture these relationships across everyday activities, offering a natural s...",
-    "link": "http://arxiv.org/abs/2611.12879v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Optimization"
-    ],
-    "date": "2026-11-09T18:59:01Z",
-    "trending": false,
-    "source": "arXiv - Rustin Soraki, Matthew Wallingford, Ryan Aby et al."
-  },
-  {
-    "id": "arxiv_1794360690233_2",
-    "name": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
-    "category": "machine-learning",
-    "description": "Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent in...",
-    "link": "http://arxiv.org/abs/2611.12878v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-11-09T18:58:41Z",
-    "trending": false,
-    "source": "arXiv - Sreejeet Maity, Aritra Mitra"
-  },
-  {
-    "id": "arxiv_1794360690193_0",
-    "name": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
-    "category": "ai",
-    "description": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic...",
-    "link": "http://arxiv.org/abs/2611.12872v1",
-    "tags": [
-      "AI",
-      "GAN"
-    ],
-    "date": "2026-11-09T18:57:00Z",
-    "trending": false,
-    "source": "arXiv - Haozhen Zhang, Bohan Liu, Jianzhu Bao et al."
-  },
-  {
-    "id": "arxiv_1794360690233_3",
-    "name": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
-    "category": "machine-learning",
-    "description": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic...",
-    "link": "http://arxiv.org/abs/2611.12872v1",
-    "tags": [
-      "AI",
-      "GAN"
-    ],
-    "date": "2026-11-09T18:57:00Z",
-    "trending": true,
-    "source": "arXiv - Haozhen Zhang, Bohan Liu, Jianzhu Bao et al."
-  },
-  {
-    "id": "arxiv_1794360690249_0",
-    "name": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+    "id": "arxiv_1794385845682_1",
+    "name": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
     "category": "nlp",
-    "description": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic...",
-    "link": "http://arxiv.org/abs/2611.12872v1",
+    "description": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ...",
+    "link": "http://arxiv.org/abs/2611.14514v1",
     "tags": [
       "AI",
-      "GAN"
+      "LLM"
     ],
-    "date": "2026-11-09T18:57:00Z",
-    "trending": true,
-    "source": "arXiv - Haozhen Zhang, Bohan Liu, Jianzhu Bao et al."
+    "date": "2026-11-10T18:58:43Z",
+    "trending": false,
+    "source": "arXiv - Ziang Liu, James J. Kim, Yijia Dai et al."
   },
   {
-    "id": "arxiv_1794360690233_4",
-    "name": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection",
+    "id": "arxiv_1794385845664_3",
+    "name": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
     "category": "machine-learning",
-    "description": "Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance fro...",
-    "link": "http://arxiv.org/abs/2611.12871v1",
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "date": "2026-11-09T18:56:15Z",
-    "trending": false,
-    "source": "arXiv - Amey Pasarkar, Adji Bousso Dieng"
-  },
-  {
-    "id": "arxiv_1794360690194_1",
-    "name": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
-    "category": "ai",
-    "description": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including rewar...",
-    "link": "http://arxiv.org/abs/2611.12865v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning",
-      "Optimization"
-    ],
-    "date": "2026-11-09T18:52:20Z",
-    "trending": true,
-    "source": "arXiv - Xinjie Shen"
-  },
-  {
-    "id": "arxiv_1794360690249_1",
-    "name": "Is Persona Generalization Predictable?",
-    "category": "nlp",
-    "description": "Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We dis...",
-    "link": "http://arxiv.org/abs/2611.12864v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-09T18:51:03Z",
-    "trending": false,
-    "source": "arXiv - Olina Mukherjee, Arnav Goel, Aditi Raghunathan et al."
-  },
-  {
-    "id": "arxiv_1794360690250_2",
-    "name": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
-    "category": "nlp",
-    "description": "Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate ...",
-    "link": "http://arxiv.org/abs/2611.12856v1",
+    "description": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains cha...",
+    "link": "http://arxiv.org/abs/2611.14511v1",
     "tags": [
       "AI",
       "GAN",
       "LLM",
-      "GPT"
+      "Optimization"
     ],
-    "date": "2026-11-09T18:45:28Z",
+    "date": "2026-11-10T18:56:32Z",
     "trending": false,
-    "source": "arXiv - Zheng Jiang, Fang Niu, Bo Peng et al."
+    "source": "arXiv - Megha Srivastava, Michael H. Lim, Allison M. Keys et al."
   },
   {
-    "id": "arxiv_1794360690194_2",
-    "name": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
-    "category": "ai",
-    "description": "AI models' growing capacity for complex reasoning has made them attractive tools for forecasting, or the systematic prediction of the future based on past and present data. However, should AI forecast...",
-    "link": "http://arxiv.org/abs/2611.12834v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-09T18:33:13Z",
-    "trending": false,
-    "source": "arXiv - Priya Dhawka, Benjamin Wilson, Andrew Head"
-  },
-  {
-    "id": "arxiv_1794360690194_3",
-    "name": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
-    "category": "ai",
-    "description": "AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates, for downstream task utility is difficult for standard ...",
-    "link": "http://arxiv.org/abs/2611.12825v1",
+    "id": "arxiv_1794385845665_4",
+    "name": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+    "category": "machine-learning",
+    "description": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wir...",
+    "link": "http://arxiv.org/abs/2611.14508v1",
     "tags": [
       "AI",
-      "Reinforcement Learning"
+      "Machine Learning"
     ],
-    "date": "2026-11-09T18:25:42Z",
-    "trending": false,
-    "source": "arXiv - Jihwan Jeong, Guy Tennenholtz, Yinlam Chow et al."
-  },
-  {
-    "id": "arxiv_1794360690250_3",
-    "name": "How Well Does AI Peer Review Work? A Benchmark Built from 100 Planted Errors",
-    "category": "nlp",
-    "description": "One hundred known errors were planted into 10 open-access psychology papers, and the modified papers were then run through frontier models and two commercial AI review tools. The best single system ca...",
-    "link": "http://arxiv.org/abs/2611.12820v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-09T18:22:19Z",
-    "trending": false,
-    "source": "arXiv - Paul Litvak"
-  },
-  {
-    "id": "arxiv_1794360690194_4",
-    "name": "LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation",
-    "category": "ai",
-    "description": "BACKGROUND: AI-based tools are expected to play a key role in lung cancer screening (LCS). The evaluation of these tools often relied on private datasets or fragmented public datasets with inconsisten...",
-    "link": "http://arxiv.org/abs/2611.12817v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-09T18:21:18Z",
-    "trending": false,
-    "source": "arXiv - Johanna Topalis, Yannick Lemaréchal, Gabriel Couture et al."
-  },
-  {
-    "id": "arxiv_1794360690250_4",
-    "name": "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
-    "category": "nlp",
-    "description": "Users are asking language models mental health questions and are receiving answers. We audited what 41 language models recommend to users when the same clinical information reaches them from three foo...",
-    "link": "http://arxiv.org/abs/2611.12814v1",
-    "tags": [],
-    "date": "2026-11-09T18:19:30Z",
+    "date": "2026-11-10T18:55:48Z",
     "trending": true,
-    "source": "arXiv - Matthew Flathers, Jill Noorily, Phuong Anh Nguyen et al."
+    "source": "arXiv - Yeyuan Liu"
+  },
+  {
+    "id": "arxiv_1794385845647_2",
+    "name": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion",
+    "category": "computer-vision",
+    "description": "Biological visual systems compute reliably under tight metabolic and wiring constraints, whereas artificial vision systems consume far more energy and can be sensitive to adversarial perturbations. Wh...",
+    "link": "http://arxiv.org/abs/2611.14498v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "Vision",
+      "CNN"
+    ],
+    "date": "2026-11-10T18:51:31Z",
+    "trending": false,
+    "source": "arXiv - Alexandre Garcia-Duran, Alejandro Rodriguez-Garcia, Manuel Molano-Mazón et al."
+  },
+  {
+    "id": "arxiv_1794385845647_3",
+    "name": "RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval",
+    "category": "computer-vision",
+    "description": "Cross-sensor remote sensing image retrieval aims to find scenes with the same content across heterogeneous sensors, such as SAR and optical or panchromatic (PAN) and multispectral (MS) imagery, withou...",
+    "link": "http://arxiv.org/abs/2611.14496v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-11-10T18:51:05Z",
+    "trending": false,
+    "source": "arXiv - Tanishq Rachamalla, Srishti Kaushik, Muhammad Attique Khan et al."
+  },
+  {
+    "id": "arxiv_1794385845631_3",
+    "name": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+    "category": "ai",
+    "description": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative ...",
+    "link": "http://arxiv.org/abs/2611.14493v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-11-10T18:50:06Z",
+    "trending": false,
+    "source": "arXiv - Howard Zhang, Chuck Arvin, Logan Brown et al."
+  },
+  {
+    "id": "arxiv_1794385845682_2",
+    "name": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+    "category": "nlp",
+    "description": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative ...",
+    "link": "http://arxiv.org/abs/2611.14493v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-11-10T18:50:06Z",
+    "trending": false,
+    "source": "arXiv - Howard Zhang, Chuck Arvin, Logan Brown et al."
+  },
+  {
+    "id": "arxiv_1794385845631_4",
+    "name": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+    "category": "ai",
+    "description": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they ca...",
+    "link": "http://arxiv.org/abs/2611.14492v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-11-10T18:49:47Z",
+    "trending": false,
+    "source": "arXiv - Kaiyuan Hou, Yang Ping Kuo, Indranil Bhattacharya et al."
+  },
+  {
+    "id": "arxiv_1794385845648_4",
+    "name": "Mechanistic Interpretability Needs a Logic of Inference",
+    "category": "computer-vision",
+    "description": "Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computations are themselves objects of scientific inquiry. Recent progress in mechanist...",
+    "link": "http://arxiv.org/abs/2611.14483v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "GAN"
+    ],
+    "date": "2026-11-10T18:45:07Z",
+    "trending": true,
+    "source": "arXiv - Zhimin Hu, Chen Jiang, Hanbo Xie et al."
+  },
+  {
+    "id": "arxiv_1794385845682_3",
+    "name": "Mechanistic Interpretability Needs a Logic of Inference",
+    "category": "nlp",
+    "description": "Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computations are themselves objects of scientific inquiry. Recent progress in mechanist...",
+    "link": "http://arxiv.org/abs/2611.14483v1",
+    "tags": [
+      "AI",
+      "Neural",
+      "GAN"
+    ],
+    "date": "2026-11-10T18:45:07Z",
+    "trending": true,
+    "source": "arXiv - Zhimin Hu, Chen Jiang, Hanbo Xie et al."
+  },
+  {
+    "id": "arxiv_1794385845683_4",
+    "name": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation",
+    "category": "nlp",
+    "description": "In this paper, we present 1020 Group's submission to the WMT26 shared task on automated quality evaluation. Our system, Pterodactyl, was engineered specifically for subtasks 2 and 3, that is, segment-...",
+    "link": "http://arxiv.org/abs/2611.14480v1",
+    "tags": [
+      "LLM"
+    ],
+    "date": "2026-11-10T18:41:37Z",
+    "trending": false,
+    "source": "arXiv - Evelyn Y. Garland, Carola F. Berger"
   }
 ]
