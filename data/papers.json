@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1794346195760_0",
+    "id": "arxiv_1794360690213_0",
     "name": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
     "category": "computer-vision",
     "description": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. M...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Haozhi Yuan, Handong Li, Yifan Zhang et al."
   },
   {
-    "id": "arxiv_1794346195760_1",
+    "id": "arxiv_1794360690213_1",
     "name": "World In-Context Learning for Agentic Robot Manipulation",
     "category": "computer-vision",
     "description": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched ...",
@@ -27,7 +27,7 @@
     "source": "arXiv - Heng Fang, Zehui Guo, Yuehan Zhang et al."
   },
   {
-    "id": "arxiv_1794346195761_2",
+    "id": "arxiv_1794360690213_2",
     "name": "Guiding Data Allocation for Robust Subpopulation Generalization",
     "category": "computer-vision",
     "description": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced ...",
@@ -37,11 +37,11 @@
       "Machine Learning"
     ],
     "date": "2026-11-09T18:59:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhaoying Pan, Yipei Wang, Shenyu Lu et al."
   },
   {
-    "id": "arxiv_1794346195823_0",
+    "id": "arxiv_1794360690233_0",
     "name": "Guiding Data Allocation for Robust Subpopulation Generalization",
     "category": "machine-learning",
     "description": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced ...",
@@ -55,7 +55,7 @@
     "source": "arXiv - Zhaoying Pan, Yipei Wang, Shenyu Lu et al."
   },
   {
-    "id": "arxiv_1794346195761_3",
+    "id": "arxiv_1794360690213_3",
     "name": "Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs",
     "category": "computer-vision",
     "description": "Multimodal large language models (MLLMs) integrate information across modalities, but become unreliable when those modalities disagree. Under conflicting inputs, MLLMs may favor modalities that are no...",
@@ -69,7 +69,7 @@
     "source": "arXiv - Zhaoying Pan, Shenyu Lu, Jun Hui Wong et al."
   },
   {
-    "id": "arxiv_1794346195823_1",
+    "id": "arxiv_1794360690233_1",
     "name": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
     "category": "machine-learning",
     "description": "Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration ste...",
@@ -85,7 +85,7 @@
     "source": "arXiv - Majdi Hassan, Marta Skreta, Dominique Beaini et al."
   },
   {
-    "id": "arxiv_1794346195761_4",
+    "id": "arxiv_1794360690213_4",
     "name": "Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos",
     "category": "computer-vision",
     "description": "To interact with an object, we need to anticipate both how it will move and how our hands should move with it. Human videos capture these relationships across everyday activities, offering a natural s...",
@@ -100,7 +100,7 @@
     "source": "arXiv - Rustin Soraki, Matthew Wallingford, Ryan Aby et al."
   },
   {
-    "id": "arxiv_1794346195824_2",
+    "id": "arxiv_1794360690233_2",
     "name": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
     "category": "machine-learning",
     "description": "Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent in...",
@@ -110,41 +110,13 @@
       "Reinforcement Learning"
     ],
     "date": "2026-11-09T18:58:41Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Sreejeet Maity, Aritra Mitra"
   },
   {
-    "id": "arxiv_1794346195708_0",
+    "id": "arxiv_1794360690193_0",
     "name": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
     "category": "ai",
-    "description": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic...",
-    "link": "http://arxiv.org/abs/2611.12872v1",
-    "tags": [
-      "AI",
-      "GAN"
-    ],
-    "date": "2026-11-09T18:57:00Z",
-    "trending": true,
-    "source": "arXiv - Haozhen Zhang, Bohan Liu, Jianzhu Bao et al."
-  },
-  {
-    "id": "arxiv_1794346195824_3",
-    "name": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
-    "category": "machine-learning",
-    "description": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic...",
-    "link": "http://arxiv.org/abs/2611.12872v1",
-    "tags": [
-      "AI",
-      "GAN"
-    ],
-    "date": "2026-11-09T18:57:00Z",
-    "trending": true,
-    "source": "arXiv - Haozhen Zhang, Bohan Liu, Jianzhu Bao et al."
-  },
-  {
-    "id": "arxiv_1794346195879_0",
-    "name": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
-    "category": "nlp",
     "description": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic...",
     "link": "http://arxiv.org/abs/2611.12872v1",
     "tags": [
@@ -156,7 +128,35 @@
     "source": "arXiv - Haozhen Zhang, Bohan Liu, Jianzhu Bao et al."
   },
   {
-    "id": "arxiv_1794346195824_4",
+    "id": "arxiv_1794360690233_3",
+    "name": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+    "category": "machine-learning",
+    "description": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic...",
+    "link": "http://arxiv.org/abs/2611.12872v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-11-09T18:57:00Z",
+    "trending": true,
+    "source": "arXiv - Haozhen Zhang, Bohan Liu, Jianzhu Bao et al."
+  },
+  {
+    "id": "arxiv_1794360690249_0",
+    "name": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+    "category": "nlp",
+    "description": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic...",
+    "link": "http://arxiv.org/abs/2611.12872v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-11-09T18:57:00Z",
+    "trending": true,
+    "source": "arXiv - Haozhen Zhang, Bohan Liu, Jianzhu Bao et al."
+  },
+  {
+    "id": "arxiv_1794360690233_4",
     "name": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection",
     "category": "machine-learning",
     "description": "Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance fro...",
@@ -170,7 +170,7 @@
     "source": "arXiv - Amey Pasarkar, Adji Bousso Dieng"
   },
   {
-    "id": "arxiv_1794346195708_1",
+    "id": "arxiv_1794360690194_1",
     "name": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
     "category": "ai",
     "description": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including rewar...",
@@ -181,11 +181,11 @@
       "Optimization"
     ],
     "date": "2026-11-09T18:52:20Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Xinjie Shen"
   },
   {
-    "id": "arxiv_1794346195879_1",
+    "id": "arxiv_1794360690249_1",
     "name": "Is Persona Generalization Predictable?",
     "category": "nlp",
     "description": "Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We dis...",
@@ -198,7 +198,7 @@
     "source": "arXiv - Olina Mukherjee, Arnav Goel, Aditi Raghunathan et al."
   },
   {
-    "id": "arxiv_1794346195879_2",
+    "id": "arxiv_1794360690250_2",
     "name": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
     "category": "nlp",
     "description": "Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate ...",
@@ -214,7 +214,7 @@
     "source": "arXiv - Zheng Jiang, Fang Niu, Bo Peng et al."
   },
   {
-    "id": "arxiv_1794346195708_2",
+    "id": "arxiv_1794360690194_2",
     "name": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
     "category": "ai",
     "description": "AI models' growing capacity for complex reasoning has made them attractive tools for forecasting, or the systematic prediction of the future based on past and present data. However, should AI forecast...",
@@ -227,7 +227,7 @@
     "source": "arXiv - Priya Dhawka, Benjamin Wilson, Andrew Head"
   },
   {
-    "id": "arxiv_1794346195708_3",
+    "id": "arxiv_1794360690194_3",
     "name": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
     "category": "ai",
     "description": "AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates, for downstream task utility is difficult for standard ...",
@@ -237,11 +237,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-11-09T18:25:42Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Jihwan Jeong, Guy Tennenholtz, Yinlam Chow et al."
   },
   {
-    "id": "arxiv_1794346195879_3",
+    "id": "arxiv_1794360690250_3",
     "name": "How Well Does AI Peer Review Work? A Benchmark Built from 100 Planted Errors",
     "category": "nlp",
     "description": "One hundred known errors were planted into 10 open-access psychology papers, and the modified papers were then run through frontier models and two commercial AI review tools. The best single system ca...",
@@ -250,11 +250,11 @@
       "AI"
     ],
     "date": "2026-11-09T18:22:19Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Paul Litvak"
   },
   {
-    "id": "arxiv_1794346195708_4",
+    "id": "arxiv_1794360690194_4",
     "name": "LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation",
     "category": "ai",
     "description": "BACKGROUND: AI-based tools are expected to play a key role in lung cancer screening (LCS). The evaluation of these tools often relied on private datasets or fragmented public datasets with inconsisten...",
@@ -267,14 +267,14 @@
     "source": "arXiv - Johanna Topalis, Yannick Lemaréchal, Gabriel Couture et al."
   },
   {
-    "id": "arxiv_1794346195880_4",
+    "id": "arxiv_1794360690250_4",
     "name": "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
     "category": "nlp",
     "description": "Users are asking language models mental health questions and are receiving answers. We audited what 41 language models recommend to users when the same clinical information reaches them from three foo...",
     "link": "http://arxiv.org/abs/2611.12814v1",
     "tags": [],
     "date": "2026-11-09T18:19:30Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Matthew Flathers, Jill Noorily, Phuong Anh Nguyen et al."
   }
 ]
