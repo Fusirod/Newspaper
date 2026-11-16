@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1794813868001_0",
+    "id": "arxiv_1794850448333_0",
     "name": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
     "category": "machine-learning",
     "description": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The A...",
@@ -13,7 +13,7 @@
     "source": "arXiv - Daniel Grimm, Kyra Jongman, Renato Cordeiro Ferreira et al."
   },
   {
-    "id": "arxiv_1794813868001_1",
+    "id": "arxiv_1794850448333_1",
     "name": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
     "category": "machine-learning",
     "description": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural ac...",
@@ -27,7 +27,7 @@
     "source": "arXiv - Jonathan D. McCart, Pranav I. Deevi, Mehdi Azabou et al."
   },
   {
-    "id": "arxiv_1794813868002_2",
+    "id": "arxiv_1794850448333_2",
     "name": "Training Reasoning Models in Simulation to Natively Use Real Robots",
     "category": "machine-learning",
     "description": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 As...",
@@ -43,7 +43,7 @@
     "source": "arXiv - Jiaming Tang, Zhuoyang Zhang, Junxian Guo et al."
   },
   {
-    "id": "arxiv_1794813867974_0",
+    "id": "arxiv_1794850448280_0",
     "name": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
     "category": "computer-vision",
     "description": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial ass...",
@@ -53,11 +53,11 @@
       "Vision"
     ],
     "date": "2026-11-13T18:58:54Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Genki Kinoshita, Ko Nishino"
   },
   {
-    "id": "arxiv_1794813868002_3",
+    "id": "arxiv_1794850448333_3",
     "name": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
     "category": "machine-learning",
     "description": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial ass...",
@@ -71,7 +71,7 @@
     "source": "arXiv - Genki Kinoshita, Ko Nishino"
   },
   {
-    "id": "arxiv_1794813867955_0",
+    "id": "arxiv_1794850448227_0",
     "name": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
     "category": "ai",
     "description": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write...",
@@ -87,7 +87,7 @@
     "source": "arXiv - Aayush Marasini, Barsat Khadka, Nick Rahimi"
   },
   {
-    "id": "arxiv_1794813868002_4",
+    "id": "arxiv_1794850448333_4",
     "name": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
     "category": "machine-learning",
     "description": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write...",
@@ -103,7 +103,7 @@
     "source": "arXiv - Aayush Marasini, Barsat Khadka, Nick Rahimi"
   },
   {
-    "id": "arxiv_1794813867974_1",
+    "id": "arxiv_1794850448280_1",
     "name": "Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
     "category": "computer-vision",
     "description": "Distilling diffusion models into few-step student models substantially reduces sampling latency, but induces severe diversity collapse: samples generated from different random seeds show minimal varia...",
@@ -113,11 +113,11 @@
       "Diffusion"
     ],
     "date": "2026-11-13T18:55:59Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Furkan Horoz, Ozgur Kara, Kaan Oktay et al."
   },
   {
-    "id": "arxiv_1794813867974_2",
+    "id": "arxiv_1794850448280_2",
     "name": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
     "category": "computer-vision",
     "description": "Direct diffusion modeling of high-dimensional raw video data is challenging, and existing pixel-space methods often rely on specialized architectures. We introduce JVT (Just Video Transformer), a simp...",
@@ -132,7 +132,7 @@
     "source": "arXiv - Jianjun Zhou, Hua Geng, Haoyu Guo"
   },
   {
-    "id": "arxiv_1794813867956_1",
+    "id": "arxiv_1794850448228_1",
     "name": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
     "category": "ai",
     "description": "Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and o...",
@@ -146,7 +146,7 @@
     "source": "arXiv - Tony H. Zhang, Connor Mattson, Daniel S. Brown"
   },
   {
-    "id": "arxiv_1794813867956_2",
+    "id": "arxiv_1794850448228_2",
     "name": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
     "category": "ai",
     "description": "Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the ...",
@@ -159,7 +159,7 @@
     "source": "arXiv - Cole Becker, Taylan Kargin, Kimia Hassibi et al."
   },
   {
-    "id": "arxiv_1794813867956_3",
+    "id": "arxiv_1794850448228_3",
     "name": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
     "category": "ai",
     "description": "Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model that decides what it sees of its own interaction and what guidance it receives. Most existing approa...",
@@ -173,7 +173,7 @@
     "source": "arXiv - Zelin He, Siyu Zhu, Jacob Helwig et al."
   },
   {
-    "id": "arxiv_1794813868016_0",
+    "id": "arxiv_1794850448590_0",
     "name": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
     "category": "nlp",
     "description": "Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model that decides what it sees of its own interaction and what guidance it receives. Most existing approa...",
@@ -187,7 +187,7 @@
     "source": "arXiv - Zelin He, Siyu Zhu, Jacob Helwig et al."
   },
   {
-    "id": "arxiv_1794813867957_4",
+    "id": "arxiv_1794850448228_4",
     "name": "Alignment by Socialization: Learning Tradeoffs Under Selection",
     "category": "ai",
     "description": "Artificial intelligence (AI) agents are expected to complete tasks while following rules of conduct, but these objectives can conflict. We study how evolutionary selection shapes an agent's choices be...",
@@ -197,11 +197,11 @@
       "Neural"
     ],
     "date": "2026-11-13T18:43:24Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Thomas Brennan, Andrew W. Lo, Chaoyi Zhao"
   },
   {
-    "id": "arxiv_1794813867974_3",
+    "id": "arxiv_1794850448281_3",
     "name": "Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept Induction",
     "category": "computer-vision",
     "description": "Convolutional Neural Networks (CNNs) can classify images using background-dominated patches that contain little or none of the target object, showing that they exploit contextual information. Previous...",
@@ -216,7 +216,7 @@
     "source": "arXiv - Abhilekha Dalal, Avishek Das, Samatha Ereshi Akkamahadevi"
   },
   {
-    "id": "arxiv_1794813868016_1",
+    "id": "arxiv_1794850448590_1",
     "name": "WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators",
     "category": "nlp",
     "description": "Wafer-scale accelerators offer massive compute capacity through hundreds of thousands of processing elements (PEs) interconnected across a single wafer, but realizing this potential requires efficient...",
@@ -230,7 +230,7 @@
     "source": "arXiv - Dayou Du, Congjie He, Andrew Boutros et al."
   },
   {
-    "id": "arxiv_1794813867974_4",
+    "id": "arxiv_1794850448281_4",
     "name": "EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation",
     "category": "computer-vision",
     "description": "Event-camera segmentation requires persistent neural state despite sparse input events, making memory organization a central constraint on embedded implementation. We present EventSpikeSeg, a mixed-si...",
@@ -241,11 +241,11 @@
       "GAN"
     ],
     "date": "2026-11-13T18:40:12Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Amir Mohammad Khadem Hosseini, Sattar Mirzakuchaki"
   },
   {
-    "id": "arxiv_1794813868016_2",
+    "id": "arxiv_1794850448590_2",
     "name": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
     "category": "nlp",
     "description": "Mechanistic Interpretability (MI) has made significant progress in explaining the internal computations of Large Language Models (LLMs); however, these advances have yet to demonstrate comparable succ...",
@@ -259,7 +259,7 @@
     "source": "arXiv - Mohamed Aghzal, Mor Geva, Gregory J. Stein et al."
   },
   {
-    "id": "arxiv_1794813868016_3",
+    "id": "arxiv_1794850448590_3",
     "name": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
     "category": "nlp",
     "description": "This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant designed to function as a contextual companion for narrative reading on consumer hardware. Unlike conventi...",
@@ -269,11 +269,11 @@
       "LLM"
     ],
     "date": "2026-11-13T18:29:51Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Mohammed Efaz, Udo Bub, Itilekha Podder"
   },
   {
-    "id": "arxiv_1794813868016_4",
+    "id": "arxiv_1794850448590_4",
     "name": "Agentic induction of common data elements and information extraction from sarcoma case report abstracts",
     "category": "nlp",
     "description": "Common data elements (CDEs) support clinical data comparability but are usually defined manually. We investigated whether large language model agents could derive a CDE schema from sarcoma case report...",
