@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1794941342013_0",
+    "id": "arxiv_1794965022684_0",
     "name": "Latent Lattice Language Models",
     "category": "ai",
     "description": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea...",
@@ -14,23 +14,9 @@
     "source": "arXiv - Shivam Duggal, Zongze Wu, William T. Freeman et al."
   },
   {
-    "id": "arxiv_1794941342183_0",
+    "id": "arxiv_1794965022724_0",
     "name": "Latent Lattice Language Models",
     "category": "machine-learning",
-    "description": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea...",
-    "link": "http://arxiv.org/abs/2611.21608v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-11-16T18:59:38Z",
-    "trending": true,
-    "source": "arXiv - Shivam Duggal, Zongze Wu, William T. Freeman et al."
-  },
-  {
-    "id": "arxiv_1794941342269_0",
-    "name": "Latent Lattice Language Models",
-    "category": "nlp",
     "description": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea...",
     "link": "http://arxiv.org/abs/2611.21608v1",
     "tags": [
@@ -42,7 +28,21 @@
     "source": "arXiv - Shivam Duggal, Zongze Wu, William T. Freeman et al."
   },
   {
-    "id": "arxiv_1794941342013_1",
+    "id": "arxiv_1794965022747_0",
+    "name": "Latent Lattice Language Models",
+    "category": "nlp",
+    "description": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea...",
+    "link": "http://arxiv.org/abs/2611.21608v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-11-16T18:59:38Z",
+    "trending": true,
+    "source": "arXiv - Shivam Duggal, Zongze Wu, William T. Freeman et al."
+  },
+  {
+    "id": "arxiv_1794965022684_1",
     "name": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
     "category": "ai",
     "description": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinfor...",
@@ -54,11 +54,11 @@
       "Optimization"
     ],
     "date": "2026-11-16T18:59:04Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Huawei Lin, Jinting Liu, Tongyan Wang et al."
   },
   {
-    "id": "arxiv_1794941342097_0",
+    "id": "arxiv_1794965022704_0",
     "name": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
     "category": "computer-vision",
     "description": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinfor...",
@@ -74,7 +74,7 @@
     "source": "arXiv - Huawei Lin, Jinting Liu, Tongyan Wang et al."
   },
   {
-    "id": "arxiv_1794941342097_1",
+    "id": "arxiv_1794965022704_1",
     "name": "FaceJev: Direct Visual Decisions for Face Forgery Detection",
     "category": "computer-vision",
     "description": "Face forgery detection methods often perform well on seen manipulations but generalize poorly to unseen ones. Multimodal Large Language Models (MLLMs) can recognize facial parts and assess their visua...",
@@ -84,11 +84,11 @@
       "LLM"
     ],
     "date": "2026-11-16T18:59:04Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Siran Peng, Tianshuo Zhang, Yibo Xue et al."
   },
   {
-    "id": "arxiv_1794941342183_1",
+    "id": "arxiv_1794965022724_1",
     "name": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
     "category": "machine-learning",
     "description": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for inte...",
@@ -102,7 +102,7 @@
     "source": "arXiv - Ilia Azizi, Frederick Iat-Hin Tam, Marc-Olivier Boldi et al."
   },
   {
-    "id": "arxiv_1794941342269_1",
+    "id": "arxiv_1794965022747_1",
     "name": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
     "category": "nlp",
     "description": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for inte...",
@@ -112,11 +112,11 @@
       "Deep Learning"
     ],
     "date": "2026-11-16T18:58:55Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Ilia Azizi, Frederick Iat-Hin Tam, Marc-Olivier Boldi et al."
   },
   {
-    "id": "arxiv_1794941342097_2",
+    "id": "arxiv_1794965022704_2",
     "name": "How VLMs Plan What's Next",
     "category": "computer-vision",
     "description": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM...",
@@ -130,7 +130,7 @@
     "source": "arXiv - Rohit Gandikota, Arnab Sen Sharma, Adam Belfki et al."
   },
   {
-    "id": "arxiv_1794941342183_2",
+    "id": "arxiv_1794965022724_2",
     "name": "How VLMs Plan What's Next",
     "category": "machine-learning",
     "description": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM...",
@@ -144,7 +144,7 @@
     "source": "arXiv - Rohit Gandikota, Arnab Sen Sharma, Adam Belfki et al."
   },
   {
-    "id": "arxiv_1794941342269_2",
+    "id": "arxiv_1794965022747_2",
     "name": "How VLMs Plan What's Next",
     "category": "nlp",
     "description": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM...",
@@ -158,7 +158,7 @@
     "source": "arXiv - Rohit Gandikota, Arnab Sen Sharma, Adam Belfki et al."
   },
   {
-    "id": "arxiv_1794941342184_3",
+    "id": "arxiv_1794965022724_3",
     "name": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
     "category": "machine-learning",
     "description": "We introduce Hyperlyve (Hyperplane Partitioned Lyapunov Verification and Enumeration), a framework for proving the asymptotic stability of nonlinear dynamical systems, including those with neural netw...",
@@ -172,7 +172,7 @@
     "source": "arXiv - Brian Yarbrough, Jesse Wayment, Jingbo Wang et al."
   },
   {
-    "id": "arxiv_1794941342013_2",
+    "id": "arxiv_1794965022684_2",
     "name": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
     "category": "ai",
     "description": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evo...",
@@ -188,7 +188,7 @@
     "source": "arXiv - Blas Eugenio Vicco Zarate, Miguel Hernán Vicco"
   },
   {
-    "id": "arxiv_1794941342184_4",
+    "id": "arxiv_1794965022724_4",
     "name": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
     "category": "machine-learning",
     "description": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evo...",
@@ -204,7 +204,7 @@
     "source": "arXiv - Blas Eugenio Vicco Zarate, Miguel Hernán Vicco"
   },
   {
-    "id": "arxiv_1794941342269_3",
+    "id": "arxiv_1794965022747_3",
     "name": "Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering",
     "category": "nlp",
     "description": "Job titles and job descriptions alone provide limited insight into how technical roles differ in a changing job market. To assess how such roles differ in their work and industry applications, we desi...",
@@ -220,7 +220,7 @@
     "source": "arXiv - Yisong Cao, Leah Kim, Brian Wright et al."
   },
   {
-    "id": "arxiv_1794941342013_3",
+    "id": "arxiv_1794965022684_3",
     "name": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
     "category": "ai",
     "description": "Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions. LLM...",
@@ -231,11 +231,11 @@
       "GPT"
     ],
     "date": "2026-11-16T18:49:56Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jaime C. Acosta, Anantaa Kotal, Aritran Piplai"
   },
   {
-    "id": "arxiv_1794941342013_4",
+    "id": "arxiv_1794965022684_4",
     "name": "When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents",
     "category": "ai",
     "description": "Large language model (LLM) applications increasingly act as agents that select and invoke external tools. The Model Context Protocol (MCP) standardizes this interaction by allowing clients to compose ...",
@@ -246,11 +246,11 @@
       "Optimization"
     ],
     "date": "2026-11-16T18:49:37Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Zeynab Anbiaee, Sajjad Dadkhah, Ali A. Ghorbani"
   },
   {
-    "id": "arxiv_1794941342097_3",
+    "id": "arxiv_1794965022704_3",
     "name": "When Do Histology Foundation Models Need Geometric Test-Time Augmentation?",
     "category": "computer-vision",
     "description": "Test-time augmentation (TTA) aggregates model predictions across multiple transformed views of an input during inference. Because histology images lack a canonical orientation, $D_4$ TTA---pooling acr...",
@@ -263,7 +263,7 @@
     "source": "arXiv - Lars Chen, Valentino F. Foit, Dorry Segev et al."
   },
   {
-    "id": "arxiv_1794941342098_4",
+    "id": "arxiv_1794965022704_4",
     "name": "Wildfire-SSR: Geolocation-Aware Multimodal Fusion for Structure-Level Wildfire Risk Assessment",
     "category": "computer-vision",
     "description": "Structure-level wildfire vulnerability assessment is critical for reducing losses in wildland-urban interface communities, yet existing methods often fail to combine parcel-scale ignition pathways wit...",
@@ -273,11 +273,11 @@
       "Vision"
     ],
     "date": "2026-11-16T18:40:49Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yu-Hsuan Ho, Yiming Xiao, Hao-En Lai et al."
   },
   {
-    "id": "arxiv_1794941342269_4",
+    "id": "arxiv_1794965022748_4",
     "name": "Reading or Remembering? Measuring Temporal Contamination in Language Models",
     "category": "nlp",
     "description": "Language models are now used to read central-bank text for economic forecasting, but most were trained on text written after the documents they read. A model reading a 2021 FOMC statement may already ...",

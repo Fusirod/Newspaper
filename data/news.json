@@ -1,83 +1,157 @@
 [
   {
-    "id": "rss_TechCrunch_1794941342580_0",
-    "title": "Google to keep Gemini chats for two months, up from 72 hours, even with history off",
+    "id": "rss_Ars_Technica_1794965026359_0",
+    "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+    "tags": [],
+    "date": "Wed, 18 Nov 2026 00:27:29 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1794965022902_0",
+    "title": "Nvidia promises that revenue will keep soaring — for now",
     "category": "ai-news",
     "source": "TechCrunch",
-    "description": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-    "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+    "description": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "date": "Wed, 18 Nov 2026 00:16:50 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1794965022902_1",
+    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "date": "Tue, 17 Nov 2026 23:37:48 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1794965026359_1",
+    "title": "San Diego dumps both Flock cameras and smart streetlights",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        500+ cameras will go dark just 3 years after mayor urged approval.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+    "tags": [],
+    "date": "Tue, 17 Nov 2026 23:09:09 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1794965022902_2",
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+    "tags": [
+      "AI",
+      "NVIDIA"
+    ],
+    "date": "Tue, 17 Nov 2026 23:04:35 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1794965026359_2",
+    "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        \"Governments need control of their critical space infrastructure, and Europe needs it most.\"\n                    ",
+    "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+    "tags": [],
+    "date": "Tue, 17 Nov 2026 22:44:46 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_TechCrunch_1794965022902_3",
+    "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "The former CEO offered to return to his top role at the company after his resignation last week. ",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "date": "Tue, 17 Nov 2026 22:42:27 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1794965026359_3",
+    "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.\n                    ",
+    "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Tue, 17 Nov 2026 22:32:16 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1794965022902_4",
+    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.\n",
+    "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
     "tags": [
       "Google"
     ],
-    "date": "Tue, 17 Nov 2026 18:48:23 +0000",
+    "date": "Tue, 17 Nov 2026 22:29:05 +0000",
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1794941346229_0",
-    "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+    "id": "rss_Wired_1794965027486_0",
+    "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
     "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        “Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”\n                    ",
-    "link": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
-    "tags": [],
-    "date": "Tue, 17 Nov 2026 18:26:26 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1794941346229_1",
-    "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        AG: OpenAI tested dangerous AI without proper oversight and misled public about it.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+    "source": "Wired",
+    "description": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+    "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
     "tags": [
-      "AI",
-      "OpenAI"
+      "NVIDIA"
     ],
-    "date": "Tue, 17 Nov 2026 18:13:34 +0000",
+    "date": "Tue, 17 Nov 2026 22:19:19 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1794965026359_4",
+    "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        “I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "date": "Tue, 17 Nov 2026 20:32:55 +0000",
     "trending": true
   },
   {
-    "id": "rss_TechCrunch_1794941342580_1",
-    "title": "As decision model use skyrockets, is customization the next frontier?",
+    "id": "rss_MIT_Tech_Review_1794965025168_0",
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
     "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities. ",
-    "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+    "source": "MIT Tech Review",
+    "description": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to k",
+    "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
     "tags": [
       "AI"
     ],
-    "date": "Tue, 17 Nov 2026 18:10:00 +0000",
+    "date": "Tue, 17 Nov 2026 18:46:47 +0000",
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1794941342580_2",
-    "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The company uses agentic AI to make supply chains faster and more reliable.",
-    "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 17 Nov 2026 18:04:16 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Ars_Technica_1794941346229_2",
-    "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        Information about the Vulcan failure is being closely held by ULA and Blue Origin.\n                    ",
-    "link": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 17 Nov 2026 18:00:51 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1794941344798_0",
+    "id": "rss_MIT_Tech_Review_1794965025168_1",
     "title": "Hydropower hit record lows in the US Southwest this summer",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -85,66 +159,10 @@
     "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
     "tags": [],
     "date": "Tue, 17 Nov 2026 17:52:10 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1794941342580_3",
-    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-    "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-    "tags": [
-      "AI",
-      "ChatGPT",
-      "GPT"
-    ],
-    "date": "Tue, 17 Nov 2026 17:32:25 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_TechCrunch_1794941342580_4",
-    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled. ",
-    "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "date": "Tue, 17 Nov 2026 17:20:41 +0000",
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1794941346230_3",
-    "title": "Google makes it easier to use Gemini without training AI on your data",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        AI training and chat history will now have separate toggles in the Gemini activity settings. \n                    ",
-    "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Tue, 17 Nov 2026 16:50:10 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_Ars_Technica_1794941346230_4",
-    "title": "House Democrats promise a US return to global climate talks",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        A new House majority can push climate policy, but a full US return remains uncertain.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Tue, 17 Nov 2026 15:32:43 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_MIT_Tech_Review_1794941344798_1",
+    "id": "rss_MIT_Tech_Review_1794965025168_2",
     "title": "Research Reports",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -152,10 +170,10 @@
     "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
     "tags": [],
     "date": "Tue, 17 Nov 2026 14:39:46 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1794941344798_2",
+    "id": "rss_MIT_Tech_Review_1794965025168_3",
     "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -169,7 +187,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1794941347465_0",
+    "id": "rss_Wired_1794965027486_1",
     "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
     "category": "ai-news",
     "source": "Wired",
@@ -183,7 +201,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1794941347465_1",
+    "id": "rss_Wired_1794965027486_2",
     "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
     "category": "ai-news",
     "source": "Wired",
@@ -194,7 +212,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1794941347465_2",
+    "id": "rss_Wired_1794965027486_3",
     "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
     "category": "ai-news",
     "source": "Wired",
@@ -208,7 +226,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1794941344798_3",
+    "id": "rss_MIT_Tech_Review_1794965025168_4",
     "title": "The open-source movement wants Jensen Huang back",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -222,7 +240,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1794941347465_3",
+    "id": "rss_Wired_1794965027486_4",
     "title": "Jensen Huang Is Gone. Now What?",
     "category": "ai-news",
     "source": "Wired",
@@ -236,35 +254,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1794941344798_4",
-    "title": "Building trustworthy AI by fencing it in, not predicting it",
-    "category": "ai-news",
-    "source": "MIT Tech Review",
-    "description": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t",
-    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-    "tags": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "Mon, 16 Nov 2026 16:04:28 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1794941347465_4",
-    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-    "category": "ai-news",
-    "source": "Wired",
-    "description": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-    "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-    "tags": [
-      "AI",
-      "NVIDIA"
-    ],
-    "date": "Mon, 16 Nov 2026 11:00:00 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Distill_1794941356329_0",
+    "id": "rss_Distill_1794965036256_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -277,7 +267,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1794941356329_1",
+    "id": "rss_Distill_1794965036256_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -287,10 +277,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Distill_1794941356329_2",
+    "id": "rss_Distill_1794965036256_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -301,7 +291,7 @@
     "trending": true
   },
   {
-    "id": "rss_Distill_1794941356329_3",
+    "id": "rss_Distill_1794965036256_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -311,10 +301,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1794941356329_4",
+    "id": "rss_Distill_1794965036256_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
