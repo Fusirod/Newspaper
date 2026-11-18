@@ -1,292 +1,283 @@
 [
   {
-    "id": "arxiv_1794965022684_0",
-    "name": "Latent Lattice Language Models",
+    "id": "arxiv_1794993645176_0",
+    "name": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
     "category": "ai",
-    "description": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea...",
-    "link": "http://arxiv.org/abs/2611.21608v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-11-16T18:59:38Z",
-    "trending": false,
-    "source": "arXiv - Shivam Duggal, Zongze Wu, William T. Freeman et al."
-  },
-  {
-    "id": "arxiv_1794965022724_0",
-    "name": "Latent Lattice Language Models",
-    "category": "machine-learning",
-    "description": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea...",
-    "link": "http://arxiv.org/abs/2611.21608v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-11-16T18:59:38Z",
-    "trending": false,
-    "source": "arXiv - Shivam Duggal, Zongze Wu, William T. Freeman et al."
-  },
-  {
-    "id": "arxiv_1794965022747_0",
-    "name": "Latent Lattice Language Models",
-    "category": "nlp",
-    "description": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea...",
-    "link": "http://arxiv.org/abs/2611.21608v1",
-    "tags": [
-      "AI",
-      "Transformer"
-    ],
-    "date": "2026-11-16T18:59:38Z",
-    "trending": true,
-    "source": "arXiv - Shivam Duggal, Zongze Wu, William T. Freeman et al."
-  },
-  {
-    "id": "arxiv_1794965022684_1",
-    "name": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
-    "category": "ai",
-    "description": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinfor...",
-    "link": "http://arxiv.org/abs/2611.21605v1",
-    "tags": [
-      "AI",
-      "GPT",
-      "Reinforcement Learning",
-      "Optimization"
-    ],
-    "date": "2026-11-16T18:59:04Z",
-    "trending": false,
-    "source": "arXiv - Huawei Lin, Jinting Liu, Tongyan Wang et al."
-  },
-  {
-    "id": "arxiv_1794965022704_0",
-    "name": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
-    "category": "computer-vision",
-    "description": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinfor...",
-    "link": "http://arxiv.org/abs/2611.21605v1",
-    "tags": [
-      "AI",
-      "GPT",
-      "Reinforcement Learning",
-      "Optimization"
-    ],
-    "date": "2026-11-16T18:59:04Z",
-    "trending": true,
-    "source": "arXiv - Huawei Lin, Jinting Liu, Tongyan Wang et al."
-  },
-  {
-    "id": "arxiv_1794965022704_1",
-    "name": "FaceJev: Direct Visual Decisions for Face Forgery Detection",
-    "category": "computer-vision",
-    "description": "Face forgery detection methods often perform well on seen manipulations but generalize poorly to unseen ones. Multimodal Large Language Models (MLLMs) can recognize facial parts and assess their visua...",
-    "link": "http://arxiv.org/abs/2611.21604v1",
+    "description": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ...",
+    "link": "http://arxiv.org/abs/2611.23229v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-11-16T18:59:04Z",
+    "date": "2026-11-17T18:59:37Z",
     "trending": true,
-    "source": "arXiv - Siran Peng, Tianshuo Zhang, Yibo Xue et al."
+    "source": "arXiv - Giannis Daras, Marios Papachristou, Adam Klivans et al."
   },
   {
-    "id": "arxiv_1794965022724_1",
-    "name": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
+    "id": "arxiv_1794993646021_0",
+    "name": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
     "category": "machine-learning",
-    "description": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for inte...",
-    "link": "http://arxiv.org/abs/2611.21602v1",
+    "description": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ...",
+    "link": "http://arxiv.org/abs/2611.23229v1",
     "tags": [
       "AI",
-      "Deep Learning"
+      "LLM"
     ],
-    "date": "2026-11-16T18:58:55Z",
+    "date": "2026-11-17T18:59:37Z",
     "trending": false,
-    "source": "arXiv - Ilia Azizi, Frederick Iat-Hin Tam, Marc-Olivier Boldi et al."
+    "source": "arXiv - Giannis Daras, Marios Papachristou, Adam Klivans et al."
   },
   {
-    "id": "arxiv_1794965022747_1",
-    "name": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
+    "id": "arxiv_1794993646197_0",
+    "name": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
     "category": "nlp",
-    "description": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for inte...",
-    "link": "http://arxiv.org/abs/2611.21602v1",
+    "description": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ...",
+    "link": "http://arxiv.org/abs/2611.23229v1",
     "tags": [
       "AI",
-      "Deep Learning"
+      "LLM"
     ],
-    "date": "2026-11-16T18:58:55Z",
+    "date": "2026-11-17T18:59:37Z",
     "trending": false,
-    "source": "arXiv - Ilia Azizi, Frederick Iat-Hin Tam, Marc-Olivier Boldi et al."
+    "source": "arXiv - Giannis Daras, Marios Papachristou, Adam Klivans et al."
   },
   {
-    "id": "arxiv_1794965022704_2",
-    "name": "How VLMs Plan What's Next",
+    "id": "arxiv_1794993645189_0",
+    "name": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
     "category": "computer-vision",
-    "description": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM...",
-    "link": "http://arxiv.org/abs/2611.21600v1",
+    "description": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid...",
+    "link": "http://arxiv.org/abs/2611.23228v1",
     "tags": [
       "AI",
-      "Vision"
-    ],
-    "date": "2026-11-16T18:58:30Z",
-    "trending": false,
-    "source": "arXiv - Rohit Gandikota, Arnab Sen Sharma, Adam Belfki et al."
-  },
-  {
-    "id": "arxiv_1794965022724_2",
-    "name": "How VLMs Plan What's Next",
-    "category": "machine-learning",
-    "description": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM...",
-    "link": "http://arxiv.org/abs/2611.21600v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-11-16T18:58:30Z",
-    "trending": false,
-    "source": "arXiv - Rohit Gandikota, Arnab Sen Sharma, Adam Belfki et al."
-  },
-  {
-    "id": "arxiv_1794965022747_2",
-    "name": "How VLMs Plan What's Next",
-    "category": "nlp",
-    "description": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM...",
-    "link": "http://arxiv.org/abs/2611.21600v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-11-16T18:58:30Z",
-    "trending": false,
-    "source": "arXiv - Rohit Gandikota, Arnab Sen Sharma, Adam Belfki et al."
-  },
-  {
-    "id": "arxiv_1794965022724_3",
-    "name": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
-    "category": "machine-learning",
-    "description": "We introduce Hyperlyve (Hyperplane Partitioned Lyapunov Verification and Enumeration), a framework for proving the asymptotic stability of nonlinear dynamical systems, including those with neural netw...",
-    "link": "http://arxiv.org/abs/2611.21599v1",
-    "tags": [
-      "AI",
-      "Neural"
-    ],
-    "date": "2026-11-16T18:58:29Z",
-    "trending": false,
-    "source": "arXiv - Brian Yarbrough, Jesse Wayment, Jingbo Wang et al."
-  },
-  {
-    "id": "arxiv_1794965022684_2",
-    "name": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
-    "category": "ai",
-    "description": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evo...",
-    "link": "http://arxiv.org/abs/2611.21598v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Reinforcement Learning",
-      "Optimization"
-    ],
-    "date": "2026-11-16T18:58:20Z",
-    "trending": false,
-    "source": "arXiv - Blas Eugenio Vicco Zarate, Miguel Hernán Vicco"
-  },
-  {
-    "id": "arxiv_1794965022724_4",
-    "name": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
-    "category": "machine-learning",
-    "description": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evo...",
-    "link": "http://arxiv.org/abs/2611.21598v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "Reinforcement Learning",
-      "Optimization"
-    ],
-    "date": "2026-11-16T18:58:20Z",
-    "trending": false,
-    "source": "arXiv - Blas Eugenio Vicco Zarate, Miguel Hernán Vicco"
-  },
-  {
-    "id": "arxiv_1794965022747_3",
-    "name": "Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering",
-    "category": "nlp",
-    "description": "Job titles and job descriptions alone provide limited insight into how technical roles differ in a changing job market. To assess how such roles differ in their work and industry applications, we desi...",
-    "link": "http://arxiv.org/abs/2611.21586v1",
-    "tags": [
-      "AI",
-      "Deep Learning",
-      "Machine Learning",
-      "Transformer"
-    ],
-    "date": "2026-11-16T18:54:40Z",
-    "trending": false,
-    "source": "arXiv - Yisong Cao, Leah Kim, Brian Wright et al."
-  },
-  {
-    "id": "arxiv_1794965022684_3",
-    "name": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
-    "category": "ai",
-    "description": "Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions. LLM...",
-    "link": "http://arxiv.org/abs/2611.21579v1",
-    "tags": [
-      "AI",
+      "Vision",
       "LLM",
+      "Robotics"
+    ],
+    "date": "2026-11-17T18:59:27Z",
+    "trending": false,
+    "source": "arXiv - Rui Ning, Om Chabra, Hari Balakrishnan"
+  },
+  {
+    "id": "arxiv_1794993646021_1",
+    "name": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+    "category": "machine-learning",
+    "description": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid...",
+    "link": "http://arxiv.org/abs/2611.23228v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "LLM",
+      "Robotics"
+    ],
+    "date": "2026-11-17T18:59:27Z",
+    "trending": false,
+    "source": "arXiv - Rui Ning, Om Chabra, Hari Balakrishnan"
+  },
+  {
+    "id": "arxiv_1794993645190_1",
+    "name": "FastFrames: Video Generation at Interactive Latency",
+    "category": "computer-vision",
+    "description": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of ma...",
+    "link": "http://arxiv.org/abs/2611.23226v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-11-17T18:59:13Z",
+    "trending": false,
+    "source": "arXiv - Gene Chou, Guandao Yang, Fujun Luan et al."
+  },
+  {
+    "id": "arxiv_1794993645176_1",
+    "name": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+    "category": "ai",
+    "description": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapt...",
+    "link": "http://arxiv.org/abs/2611.23225v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-17T18:58:40Z",
+    "trending": true,
+    "source": "arXiv - Xingyang Yu"
+  },
+  {
+    "id": "arxiv_1794993646021_2",
+    "name": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+    "category": "machine-learning",
+    "description": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative re...",
+    "link": "http://arxiv.org/abs/2611.23221v1",
+    "tags": [
+      "AI",
+      "Optimization"
+    ],
+    "date": "2026-11-17T18:57:16Z",
+    "trending": true,
+    "source": "arXiv - Zhaosong Lu, Yifeng Xiao"
+  },
+  {
+    "id": "arxiv_1794993645177_2",
+    "name": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+    "category": "ai",
+    "description": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b...",
+    "link": "http://arxiv.org/abs/2611.23219v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-11-17T18:57:10Z",
+    "trending": false,
+    "source": "arXiv - Shobhita Sundaram, Cansu Sancaktar, Phillip Isola"
+  },
+  {
+    "id": "arxiv_1794993646022_3",
+    "name": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+    "category": "machine-learning",
+    "description": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b...",
+    "link": "http://arxiv.org/abs/2611.23219v1",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "LLM",
+      "Optimization"
+    ],
+    "date": "2026-11-17T18:57:10Z",
+    "trending": false,
+    "source": "arXiv - Shobhita Sundaram, Cansu Sancaktar, Phillip Isola"
+  },
+  {
+    "id": "arxiv_1794993646022_4",
+    "name": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+    "category": "machine-learning",
+    "description": "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statis...",
+    "link": "http://arxiv.org/abs/2611.23218v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-17T18:57:08Z",
+    "trending": true,
+    "source": "arXiv - S. M Seefat Alam"
+  },
+  {
+    "id": "arxiv_1794993646197_1",
+    "name": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+    "category": "nlp",
+    "description": "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statis...",
+    "link": "http://arxiv.org/abs/2611.23218v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-17T18:57:08Z",
+    "trending": false,
+    "source": "arXiv - S. M Seefat Alam"
+  },
+  {
+    "id": "arxiv_1794993645177_3",
+    "name": "Higher-Scoring Coding Models Did Not Get More Work Done",
+    "category": "ai",
+    "description": "New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026,...",
+    "link": "http://arxiv.org/abs/2611.23216v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-17T18:56:42Z",
+    "trending": false,
+    "source": "arXiv - Yining Hua"
+  },
+  {
+    "id": "arxiv_1794993645190_2",
+    "name": "EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification",
+    "category": "computer-vision",
+    "description": "Histopathological analysis of whole-slide images (WSIs) plays a critical role in cancer diagnosis, and multiple instance learning (MIL) is widely adopted for WSI analysis under weak supervision. As ne...",
+    "link": "http://arxiv.org/abs/2611.23212v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-11-17T18:50:42Z",
+    "trending": true,
+    "source": "arXiv - Zhouhan Qian, Sicheng Chen, Chad Wong et al."
+  },
+  {
+    "id": "arxiv_1794993645190_3",
+    "name": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
+    "category": "computer-vision",
+    "description": "Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cognit...",
+    "link": "http://arxiv.org/abs/2611.23211v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-11-17T18:50:22Z",
+    "trending": false,
+    "source": "arXiv - John Gideon, Anshul Gupta, Megan Applegate-Kenton et al."
+  },
+  {
+    "id": "arxiv_1794993645190_4",
+    "name": "Learning Grounded Reasoning from Human Gaze",
+    "category": "computer-vision",
+    "description": "Human visual reasoning is driven by systematic exploration and extraction of task-relevant visual evidence. Human gaze provides a window into this process, making gaze a useful source of guidance for ...",
+    "link": "http://arxiv.org/abs/2611.23209v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-11-17T18:49:33Z",
+    "trending": false,
+    "source": "arXiv - Gabriel Sarch, Declan Campbell, Nicholas Budny et al."
+  },
+  {
+    "id": "arxiv_1794993645177_4",
+    "name": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
+    "category": "ai",
+    "description": "Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state ...",
+    "link": "http://arxiv.org/abs/2611.23206v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-11-17T18:48:02Z",
+    "trending": true,
+    "source": "arXiv - Tongxi Wu, Yuyang Cheng, Jiacheng Xian et al."
+  },
+  {
+    "id": "arxiv_1794993646198_2",
+    "name": "Structure--Residual Inductive Biases for Language Model Pretraining",
+    "category": "nlp",
+    "description": "Next-token prediction is relied upon to learn both predictive behavior and internal representations. We ask whether representation structure itself should be an explicit inductive bias. Motivated by t...",
+    "link": "http://arxiv.org/abs/2611.23197v1",
+    "tags": [
+      "AI",
       "GPT"
     ],
-    "date": "2026-11-16T18:49:56Z",
-    "trending": true,
-    "source": "arXiv - Jaime C. Acosta, Anantaa Kotal, Aritran Piplai"
-  },
-  {
-    "id": "arxiv_1794965022684_4",
-    "name": "When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents",
-    "category": "ai",
-    "description": "Large language model (LLM) applications increasingly act as agents that select and invoke external tools. The Model Context Protocol (MCP) standardizes this interaction by allowing clients to compose ...",
-    "link": "http://arxiv.org/abs/2611.21577v1",
-    "tags": [
-      "AI",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-11-16T18:49:37Z",
+    "date": "2026-11-17T18:38:27Z",
     "trending": false,
-    "source": "arXiv - Zeynab Anbiaee, Sajjad Dadkhah, Ali A. Ghorbani"
+    "source": "arXiv - Hai Huang, Bartosz Żuk, Rassul Magauin et al."
   },
   {
-    "id": "arxiv_1794965022704_3",
-    "name": "When Do Histology Foundation Models Need Geometric Test-Time Augmentation?",
-    "category": "computer-vision",
-    "description": "Test-time augmentation (TTA) aggregates model predictions across multiple transformed views of an input during inference. Because histology images lack a canonical orientation, $D_4$ TTA---pooling acr...",
-    "link": "http://arxiv.org/abs/2611.21565v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-16T18:41:01Z",
-    "trending": false,
-    "source": "arXiv - Lars Chen, Valentino F. Foit, Dorry Segev et al."
-  },
-  {
-    "id": "arxiv_1794965022704_4",
-    "name": "Wildfire-SSR: Geolocation-Aware Multimodal Fusion for Structure-Level Wildfire Risk Assessment",
-    "category": "computer-vision",
-    "description": "Structure-level wildfire vulnerability assessment is critical for reducing losses in wildland-urban interface communities, yet existing methods often fail to combine parcel-scale ignition pathways wit...",
-    "link": "http://arxiv.org/abs/2611.21563v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-11-16T18:40:49Z",
-    "trending": false,
-    "source": "arXiv - Yu-Hsuan Ho, Yiming Xiao, Hao-En Lai et al."
-  },
-  {
-    "id": "arxiv_1794965022748_4",
-    "name": "Reading or Remembering? Measuring Temporal Contamination in Language Models",
+    "id": "arxiv_1794993646198_3",
+    "name": "Polarity Composition Hypothesis: Causal Evidence from Negation in NLI",
     "category": "nlp",
-    "description": "Language models are now used to read central-bank text for economic forecasting, but most were trained on text written after the documents they read. A model reading a 2021 FOMC statement may already ...",
-    "link": "http://arxiv.org/abs/2611.21554v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-16T18:34:08Z",
+    "description": "We investigate how language models process negation in natural language inference (NLI). We propose the \\textit{Polarity Composition Hypothesis}, a high-level causal model of this computation. Behavio...",
+    "link": "http://arxiv.org/abs/2611.23185v1",
+    "tags": [],
+    "date": "2026-11-17T18:30:35Z",
     "trending": false,
-    "source": "arXiv - Arunkumar V, Gangadharan G. R., S. Senthilkumar"
+    "source": "arXiv - Nhi Hoai Doan, Tatsuya Hiraoka, Munachiso Samuel Nwadike et al."
+  },
+  {
+    "id": "arxiv_1794993646198_4",
+    "name": "MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study",
+    "category": "nlp",
+    "description": "Routed low-rank adapters offer a parameter-efficient means to improve the performance of large language models (LLMs) across tasks. Hence, it is assumed that they can also be used to improve the suppo...",
+    "link": "http://arxiv.org/abs/2611.23158v1",
+    "tags": [
+      "LLM"
+    ],
+    "date": "2026-11-17T18:11:42Z",
+    "trending": false,
+    "source": "arXiv - Nikit Srivastava, Joel Dag, René Speck et al."
   }
 ]
