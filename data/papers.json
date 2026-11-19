@@ -1,283 +1,207 @@
 [
   {
-    "id": "arxiv_1795049282799_0",
-    "name": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
-    "category": "ai",
-    "description": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ...",
-    "link": "http://arxiv.org/abs/2611.23229v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-11-17T18:59:37Z",
-    "trending": false,
-    "source": "arXiv - Giannis Daras, Marios Papachristou, Adam Klivans et al."
-  },
-  {
-    "id": "arxiv_1795049282831_0",
-    "name": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
-    "category": "machine-learning",
-    "description": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ...",
-    "link": "http://arxiv.org/abs/2611.23229v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-11-17T18:59:37Z",
-    "trending": true,
-    "source": "arXiv - Giannis Daras, Marios Papachristou, Adam Klivans et al."
-  },
-  {
-    "id": "arxiv_1795049282863_0",
-    "name": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+    "id": "arxiv_1795075444041_0",
+    "name": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
     "category": "nlp",
-    "description": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ...",
-    "link": "http://arxiv.org/abs/2611.23229v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-11-17T18:59:37Z",
-    "trending": false,
-    "source": "arXiv - Giannis Daras, Marios Papachristou, Adam Klivans et al."
-  },
-  {
-    "id": "arxiv_1795049282816_0",
-    "name": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
-    "category": "computer-vision",
-    "description": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid...",
-    "link": "http://arxiv.org/abs/2611.23228v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Robotics"
-    ],
-    "date": "2026-11-17T18:59:27Z",
-    "trending": false,
-    "source": "arXiv - Rui Ning, Om Chabra, Hari Balakrishnan"
-  },
-  {
-    "id": "arxiv_1795049282831_1",
-    "name": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
-    "category": "machine-learning",
-    "description": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid...",
-    "link": "http://arxiv.org/abs/2611.23228v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "LLM",
-      "Robotics"
-    ],
-    "date": "2026-11-17T18:59:27Z",
-    "trending": false,
-    "source": "arXiv - Rui Ning, Om Chabra, Hari Balakrishnan"
-  },
-  {
-    "id": "arxiv_1795049282816_1",
-    "name": "FastFrames: Video Generation at Interactive Latency",
-    "category": "computer-vision",
-    "description": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of ma...",
-    "link": "http://arxiv.org/abs/2611.23226v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-11-17T18:59:13Z",
-    "trending": false,
-    "source": "arXiv - Gene Chou, Guandao Yang, Fujun Luan et al."
-  },
-  {
-    "id": "arxiv_1795049282799_1",
-    "name": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
-    "category": "ai",
-    "description": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapt...",
-    "link": "http://arxiv.org/abs/2611.23225v1",
+    "description": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without ...",
+    "link": "http://arxiv.org/abs/2611.24936v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-11-17T18:58:40Z",
-    "trending": false,
-    "source": "arXiv - Xingyang Yu"
-  },
-  {
-    "id": "arxiv_1795049282831_2",
-    "name": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
-    "category": "machine-learning",
-    "description": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative re...",
-    "link": "http://arxiv.org/abs/2611.23221v1",
-    "tags": [
-      "AI",
-      "Optimization"
-    ],
-    "date": "2026-11-17T18:57:16Z",
-    "trending": false,
-    "source": "arXiv - Zhaosong Lu, Yifeng Xiao"
-  },
-  {
-    "id": "arxiv_1795049282799_2",
-    "name": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
-    "category": "ai",
-    "description": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b...",
-    "link": "http://arxiv.org/abs/2611.23219v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-11-17T18:57:10Z",
-    "trending": false,
-    "source": "arXiv - Shobhita Sundaram, Cansu Sancaktar, Phillip Isola"
-  },
-  {
-    "id": "arxiv_1795049282831_3",
-    "name": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
-    "category": "machine-learning",
-    "description": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b...",
-    "link": "http://arxiv.org/abs/2611.23219v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
-      "LLM",
-      "Optimization"
-    ],
-    "date": "2026-11-17T18:57:10Z",
-    "trending": false,
-    "source": "arXiv - Shobhita Sundaram, Cansu Sancaktar, Phillip Isola"
-  },
-  {
-    "id": "arxiv_1795049282832_4",
-    "name": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
-    "category": "machine-learning",
-    "description": "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statis...",
-    "link": "http://arxiv.org/abs/2611.23218v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-17T18:57:08Z",
-    "trending": false,
-    "source": "arXiv - S. M Seefat Alam"
-  },
-  {
-    "id": "arxiv_1795049282863_1",
-    "name": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
-    "category": "nlp",
-    "description": "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statis...",
-    "link": "http://arxiv.org/abs/2611.23218v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-17T18:57:08Z",
-    "trending": false,
-    "source": "arXiv - S. M Seefat Alam"
-  },
-  {
-    "id": "arxiv_1795049282799_3",
-    "name": "Higher-Scoring Coding Models Did Not Get More Work Done",
-    "category": "ai",
-    "description": "New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026,...",
-    "link": "http://arxiv.org/abs/2611.23216v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-17T18:56:42Z",
+    "date": "2026-11-18T18:56:12Z",
     "trending": true,
-    "source": "arXiv - Yining Hua"
+    "source": "arXiv - Yan Qiu, Yuanyuan Li"
   },
   {
-    "id": "arxiv_1795049282816_2",
-    "name": "EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification",
-    "category": "computer-vision",
-    "description": "Histopathological analysis of whole-slide images (WSIs) plays a critical role in cancer diagnosis, and multiple instance learning (MIL) is widely adopted for WSI analysis under weak supervision. As ne...",
-    "link": "http://arxiv.org/abs/2611.23212v1",
+    "id": "arxiv_1795075433408_0",
+    "name": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+    "category": "ai",
+    "description": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the align...",
+    "link": "http://arxiv.org/abs/2611.24932v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-11-17T18:50:42Z",
-    "trending": true,
-    "source": "arXiv - Zhouhan Qian, Sicheng Chen, Chad Wong et al."
-  },
-  {
-    "id": "arxiv_1795049282816_3",
-    "name": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
-    "category": "computer-vision",
-    "description": "Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cognit...",
-    "link": "http://arxiv.org/abs/2611.23211v1",
-    "tags": [
-      "AI",
-      "Diffusion"
-    ],
-    "date": "2026-11-17T18:50:22Z",
+    "date": "2026-11-18T18:55:07Z",
     "trending": false,
-    "source": "arXiv - John Gideon, Anshul Gupta, Megan Applegate-Kenton et al."
+    "source": "arXiv - Priyanka Sinha, Sugam Pandey"
   },
   {
-    "id": "arxiv_1795049282816_4",
-    "name": "Learning Grounded Reasoning from Human Gaze",
-    "category": "computer-vision",
-    "description": "Human visual reasoning is driven by systematic exploration and extraction of task-relevant visual evidence. Human gaze provides a window into this process, making gaze a useful source of guidance for ...",
-    "link": "http://arxiv.org/abs/2611.23209v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-11-17T18:49:33Z",
-    "trending": false,
-    "source": "arXiv - Gabriel Sarch, Declan Campbell, Nicholas Budny et al."
-  },
-  {
-    "id": "arxiv_1795049282799_4",
-    "name": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
-    "category": "ai",
-    "description": "Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state ...",
-    "link": "http://arxiv.org/abs/2611.23206v1",
+    "id": "arxiv_1795075444030_0",
+    "name": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+    "category": "machine-learning",
+    "description": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the align...",
+    "link": "http://arxiv.org/abs/2611.24932v1",
     "tags": [
       "AI",
       "Vision"
     ],
-    "date": "2026-11-17T18:48:02Z",
-    "trending": false,
-    "source": "arXiv - Tongxi Wu, Yuyang Cheng, Jiacheng Xian et al."
+    "date": "2026-11-18T18:55:07Z",
+    "trending": true,
+    "source": "arXiv - Priyanka Sinha, Sugam Pandey"
   },
   {
-    "id": "arxiv_1795049282863_2",
-    "name": "Structure--Residual Inductive Biases for Language Model Pretraining",
-    "category": "nlp",
-    "description": "Next-token prediction is relied upon to learn both predictive behavior and internal representations. We ask whether representation structure itself should be an explicit inductive bias. Motivated by t...",
-    "link": "http://arxiv.org/abs/2611.23197v1",
+    "id": "arxiv_1795075433408_1",
+    "name": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+    "category": "ai",
+    "description": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationsh...",
+    "link": "http://arxiv.org/abs/2611.24927v1",
     "tags": [
       "AI",
-      "GPT"
+      "GAN"
     ],
-    "date": "2026-11-17T18:38:27Z",
+    "date": "2026-11-18T18:53:58Z",
     "trending": false,
-    "source": "arXiv - Hai Huang, Bartosz Żuk, Rassul Magauin et al."
+    "source": "arXiv - Sarah H. Cen, Lindsey A. Gailmard, Joohan Kim et al."
   },
   {
-    "id": "arxiv_1795049282863_3",
-    "name": "Polarity Composition Hypothesis: Causal Evidence from Negation in NLI",
-    "category": "nlp",
-    "description": "We investigate how language models process negation in natural language inference (NLI). We propose the \\textit{Polarity Composition Hypothesis}, a high-level causal model of this computation. Behavio...",
-    "link": "http://arxiv.org/abs/2611.23185v1",
-    "tags": [],
-    "date": "2026-11-17T18:30:35Z",
-    "trending": false,
-    "source": "arXiv - Nhi Hoai Doan, Tatsuya Hiraoka, Munachiso Samuel Nwadike et al."
-  },
-  {
-    "id": "arxiv_1795049282864_4",
-    "name": "MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study",
-    "category": "nlp",
-    "description": "Routed low-rank adapters offer a parameter-efficient means to improve the performance of large language models (LLMs) across tasks. Hence, it is assumed that they can also be used to improve the suppo...",
-    "link": "http://arxiv.org/abs/2611.23158v1",
+    "id": "arxiv_1795075433408_2",
+    "name": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+    "category": "ai",
+    "description": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit require...",
+    "link": "http://arxiv.org/abs/2611.24924v1",
     "tags": [
+      "AI"
+    ],
+    "date": "2026-11-18T18:52:13Z",
+    "trending": false,
+    "source": "arXiv - Jiahang Lin, Jiahao Chen, Yiding Wang et al."
+  },
+  {
+    "id": "arxiv_1795075444030_1",
+    "name": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation",
+    "category": "machine-learning",
+    "description": "We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect general...",
+    "link": "http://arxiv.org/abs/2611.24908v1",
+    "tags": [
+      "AI",
+      "Neural"
+    ],
+    "date": "2026-11-18T18:43:40Z",
+    "trending": false,
+    "source": "arXiv - Samet Demir, Zafer Dogan"
+  },
+  {
+    "id": "arxiv_1795075444030_2",
+    "name": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
+    "category": "machine-learning",
+    "description": "We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many applicatio...",
+    "link": "http://arxiv.org/abs/2611.24896v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-18T18:37:02Z",
+    "trending": true,
+    "source": "arXiv - Michael Liaofan Liu, Joe Kileel"
+  },
+  {
+    "id": "arxiv_1795075444031_3",
+    "name": "On Evaluating User Simulators for Interactive Agents",
+    "category": "machine-learning",
+    "description": "User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation fram...",
+    "link": "http://arxiv.org/abs/2611.24892v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-18T18:34:23Z",
+    "trending": false,
+    "source": "arXiv - Hengguang Zhou, I-Hung Hsu, Li Chen et al."
+  },
+  {
+    "id": "arxiv_1795075444031_4",
+    "name": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
+    "category": "machine-learning",
+    "description": "A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity. ...",
+    "link": "http://arxiv.org/abs/2611.24891v1",
+    "tags": [
+      "AI",
       "LLM"
     ],
-    "date": "2026-11-17T18:11:42Z",
+    "date": "2026-11-18T18:34:10Z",
     "trending": false,
-    "source": "arXiv - Nikit Srivastava, Joel Dag, René Speck et al."
+    "source": "arXiv - Benjamin Novotny, Doug Szeto, Chang Wang et al."
+  },
+  {
+    "id": "arxiv_1795075433409_3",
+    "name": "Who are you? The Personal Imitation Game",
+    "category": "ai",
+    "description": "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a spec...",
+    "link": "http://arxiv.org/abs/2611.24888v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-11-18T18:32:14Z",
+    "trending": true,
+    "source": "arXiv - Muhammad Rizky Wellyanto, Hajara-Yasmin Isa, Kexin Xue et al."
+  },
+  {
+    "id": "arxiv_1795075444041_1",
+    "name": "Who are you? The Personal Imitation Game",
+    "category": "nlp",
+    "description": "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a spec...",
+    "link": "http://arxiv.org/abs/2611.24888v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-11-18T18:32:14Z",
+    "trending": true,
+    "source": "arXiv - Muhammad Rizky Wellyanto, Hajara-Yasmin Isa, Kexin Xue et al."
+  },
+  {
+    "id": "arxiv_1795075444041_2",
+    "name": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
+    "category": "nlp",
+    "description": "Large language models have been widely used to generate plausible research ideas, yet it remains unclear what makes automated ideation effective and how generated novel proposals arise from prior scie...",
+    "link": "http://arxiv.org/abs/2611.24887v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-18T18:31:37Z",
+    "trending": true,
+    "source": "arXiv - Samson Yu, Qiran Zou, Jing Yu Lim et al."
+  },
+  {
+    "id": "arxiv_1795075433409_4",
+    "name": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
+    "category": "ai",
+    "description": "Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of...",
+    "link": "http://arxiv.org/abs/2611.24880v1",
+    "tags": [
+      "AI",
+      "GAN"
+    ],
+    "date": "2026-11-18T18:27:40Z",
+    "trending": false,
+    "source": "arXiv - Yuzhuo Li, Pasan Gunawardena, Yunwei Li"
+  },
+  {
+    "id": "arxiv_1795075444041_3",
+    "name": "Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling",
+    "category": "nlp",
+    "description": "Large language model (LLM) judges have become a common way to create large-scale relevance judgments for retrieval evaluation. However, each judgment requires a potentially expensive call to a frontie...",
+    "link": "http://arxiv.org/abs/2611.24849v1",
+    "tags": [
+      "AI",
+      "NLP",
+      "LLM"
+    ],
+    "date": "2026-11-18T18:09:16Z",
+    "trending": true,
+    "source": "arXiv - Eugene Agichtein, Charles L. A. Clarke, Kaustubh Dhole et al."
+  },
+  {
+    "id": "arxiv_1795075444041_4",
+    "name": "Vibe-Trading: Towards Agent-Native Trading",
+    "category": "nlp",
+    "description": "Existing AI agents can retrieve information, call tools, run experiments, and produce multi-step outputs. Yet most are built around relatively static workflows and struggle to preserve reliable state ...",
+    "link": "http://arxiv.org/abs/2611.24845v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-18T18:07:57Z",
+    "trending": false,
+    "source": "arXiv - Haozhe Wu, Zhonghang Li, Chao Huang"
   }
 ]
