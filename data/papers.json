@@ -1,6 +1,36 @@
 [
   {
-    "id": "arxiv_1795075444041_0",
+    "id": "arxiv_1795110378359_0",
+    "name": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+    "category": "computer-vision",
+    "description": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, a...",
+    "link": "http://arxiv.org/abs/2611.24941v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Diffusion"
+    ],
+    "date": "2026-11-18T18:59:57Z",
+    "trending": false,
+    "source": "arXiv - Jingzhi Bao, Xiaohe Ma, Hong Li et al."
+  },
+  {
+    "id": "arxiv_1795110378359_1",
+    "name": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+    "category": "computer-vision",
+    "description": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based world action models (WAMs) show the value of joint ...",
+    "link": "http://arxiv.org/abs/2611.24940v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-11-18T18:59:38Z",
+    "trending": true,
+    "source": "arXiv - Junjie Ye, Yiqi Zhao, Muchen Xu et al."
+  },
+  {
+    "id": "arxiv_1795110378403_0",
     "name": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
     "category": "nlp",
     "description": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without ...",
@@ -9,11 +39,11 @@
       "AI"
     ],
     "date": "2026-11-18T18:56:12Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yan Qiu, Yuanyuan Li"
   },
   {
-    "id": "arxiv_1795075433408_0",
+    "id": "arxiv_1795110378343_0",
     "name": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
     "category": "ai",
     "description": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the align...",
@@ -27,7 +57,7 @@
     "source": "arXiv - Priyanka Sinha, Sugam Pandey"
   },
   {
-    "id": "arxiv_1795075444030_0",
+    "id": "arxiv_1795110378390_0",
     "name": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
     "category": "machine-learning",
     "description": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the align...",
@@ -37,11 +67,11 @@
       "Vision"
     ],
     "date": "2026-11-18T18:55:07Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Priyanka Sinha, Sugam Pandey"
   },
   {
-    "id": "arxiv_1795075433408_1",
+    "id": "arxiv_1795110378344_1",
     "name": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
     "category": "ai",
     "description": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationsh...",
@@ -51,11 +81,11 @@
       "GAN"
     ],
     "date": "2026-11-18T18:53:58Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Sarah H. Cen, Lindsey A. Gailmard, Joohan Kim et al."
   },
   {
-    "id": "arxiv_1795075433408_2",
+    "id": "arxiv_1795110378344_2",
     "name": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
     "category": "ai",
     "description": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit require...",
@@ -64,11 +94,38 @@
       "AI"
     ],
     "date": "2026-11-18T18:52:13Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Jiahang Lin, Jiahao Chen, Yiding Wang et al."
   },
   {
-    "id": "arxiv_1795075444030_1",
+    "id": "arxiv_1795110378360_2",
+    "name": "Unified Law for Visual Tasks (The Four Laws of Computer Vision)",
+    "category": "computer-vision",
+    "description": "In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single framework or method to uniformly train on...",
+    "link": "http://arxiv.org/abs/2611.24917v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-11-18T18:48:38Z",
+    "trending": true,
+    "source": "arXiv - Sen Fang, Yalin Feng, Yancheng Zhang et al."
+  },
+  {
+    "id": "arxiv_1795110378360_3",
+    "name": "PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration",
+    "category": "computer-vision",
+    "description": "Agentic image restoration composes operations to handle mixed degradations, yet its toolbox often requires storing multiple restoration networks. We propose PrismRestore, which constructs a compact ba...",
+    "link": "http://arxiv.org/abs/2611.24915v1",
+    "tags": [
+      "Optimization"
+    ],
+    "date": "2026-11-18T18:48:01Z",
+    "trending": false,
+    "source": "arXiv - Zhaocheng Yu, Kui Jiang, Jing Cao et al."
+  },
+  {
+    "id": "arxiv_1795110378390_1",
     "name": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation",
     "category": "machine-learning",
     "description": "We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect general...",
@@ -78,11 +135,24 @@
       "Neural"
     ],
     "date": "2026-11-18T18:43:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Samet Demir, Zafer Dogan"
   },
   {
-    "id": "arxiv_1795075444030_2",
+    "id": "arxiv_1795110378360_4",
+    "name": "ShadowTransfer: A Geographic Transfer Benchmark for Overhead Shadow Detection",
+    "category": "computer-vision",
+    "description": "Overhead aerial imagery feeds dense-prediction pipelines that are routinely trained in one geographic region and deployed in another, yet no benchmark measures how shadow detection models transfer acr...",
+    "link": "http://arxiv.org/abs/2611.24904v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-18T18:41:54Z",
+    "trending": false,
+    "source": "arXiv - Shagun Mittal, Raymond A. Yeh, Satish Ukkusuri"
+  },
+  {
+    "id": "arxiv_1795110378390_2",
     "name": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
     "category": "machine-learning",
     "description": "We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many applicatio...",
@@ -91,11 +161,11 @@
       "AI"
     ],
     "date": "2026-11-18T18:37:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Michael Liaofan Liu, Joe Kileel"
   },
   {
-    "id": "arxiv_1795075444031_3",
+    "id": "arxiv_1795110378390_3",
     "name": "On Evaluating User Simulators for Interactive Agents",
     "category": "machine-learning",
     "description": "User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation fram...",
@@ -104,11 +174,11 @@
       "AI"
     ],
     "date": "2026-11-18T18:34:23Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Hengguang Zhou, I-Hung Hsu, Li Chen et al."
   },
   {
-    "id": "arxiv_1795075444031_4",
+    "id": "arxiv_1795110378390_4",
     "name": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
     "category": "machine-learning",
     "description": "A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity. ...",
@@ -122,7 +192,7 @@
     "source": "arXiv - Benjamin Novotny, Doug Szeto, Chang Wang et al."
   },
   {
-    "id": "arxiv_1795075433409_3",
+    "id": "arxiv_1795110378344_3",
     "name": "Who are you? The Personal Imitation Game",
     "category": "ai",
     "description": "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a spec...",
@@ -132,11 +202,11 @@
       "LLM"
     ],
     "date": "2026-11-18T18:32:14Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Muhammad Rizky Wellyanto, Hajara-Yasmin Isa, Kexin Xue et al."
   },
   {
-    "id": "arxiv_1795075444041_1",
+    "id": "arxiv_1795110378403_1",
     "name": "Who are you? The Personal Imitation Game",
     "category": "nlp",
     "description": "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a spec...",
@@ -146,11 +216,11 @@
       "LLM"
     ],
     "date": "2026-11-18T18:32:14Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Muhammad Rizky Wellyanto, Hajara-Yasmin Isa, Kexin Xue et al."
   },
   {
-    "id": "arxiv_1795075444041_2",
+    "id": "arxiv_1795110378403_2",
     "name": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
     "category": "nlp",
     "description": "Large language models have been widely used to generate plausible research ideas, yet it remains unclear what makes automated ideation effective and how generated novel proposals arise from prior scie...",
@@ -159,11 +229,11 @@
       "AI"
     ],
     "date": "2026-11-18T18:31:37Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Samson Yu, Qiran Zou, Jing Yu Lim et al."
   },
   {
-    "id": "arxiv_1795075433409_4",
+    "id": "arxiv_1795110378344_4",
     "name": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
     "category": "ai",
     "description": "Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of...",
@@ -173,11 +243,11 @@
       "GAN"
     ],
     "date": "2026-11-18T18:27:40Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yuzhuo Li, Pasan Gunawardena, Yunwei Li"
   },
   {
-    "id": "arxiv_1795075444041_3",
+    "id": "arxiv_1795110378403_3",
     "name": "Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling",
     "category": "nlp",
     "description": "Large language model (LLM) judges have become a common way to create large-scale relevance judgments for retrieval evaluation. However, each judgment requires a potentially expensive call to a frontie...",
@@ -192,7 +262,7 @@
     "source": "arXiv - Eugene Agichtein, Charles L. A. Clarke, Kaustubh Dhole et al."
   },
   {
-    "id": "arxiv_1795075444041_4",
+    "id": "arxiv_1795110378403_4",
     "name": "Vibe-Trading: Towards Agent-Native Trading",
     "category": "nlp",
     "description": "Existing AI agents can retrieve information, call tools, run experiments, and produce multi-step outputs. Yet most are built around relatively static workflows and struggle to preserve reliable state ...",
