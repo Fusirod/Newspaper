@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1795026504494_0",
+    "id": "arxiv_1795049282799_0",
     "name": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
     "category": "ai",
     "description": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Giannis Daras, Marios Papachristou, Adam Klivans et al."
   },
   {
-    "id": "arxiv_1795026504815_0",
+    "id": "arxiv_1795049282831_0",
     "name": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
     "category": "machine-learning",
     "description": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ...",
@@ -24,11 +24,11 @@
       "LLM"
     ],
     "date": "2026-11-17T18:59:37Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Giannis Daras, Marios Papachristou, Adam Klivans et al."
   },
   {
-    "id": "arxiv_1795026504839_0",
+    "id": "arxiv_1795049282863_0",
     "name": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
     "category": "nlp",
     "description": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ...",
@@ -42,7 +42,7 @@
     "source": "arXiv - Giannis Daras, Marios Papachristou, Adam Klivans et al."
   },
   {
-    "id": "arxiv_1795026504509_0",
+    "id": "arxiv_1795049282816_0",
     "name": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
     "category": "computer-vision",
     "description": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid...",
@@ -58,7 +58,7 @@
     "source": "arXiv - Rui Ning, Om Chabra, Hari Balakrishnan"
   },
   {
-    "id": "arxiv_1795026504815_1",
+    "id": "arxiv_1795049282831_1",
     "name": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
     "category": "machine-learning",
     "description": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid...",
@@ -70,11 +70,11 @@
       "Robotics"
     ],
     "date": "2026-11-17T18:59:27Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Rui Ning, Om Chabra, Hari Balakrishnan"
   },
   {
-    "id": "arxiv_1795026504509_1",
+    "id": "arxiv_1795049282816_1",
     "name": "FastFrames: Video Generation at Interactive Latency",
     "category": "computer-vision",
     "description": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of ma...",
@@ -88,7 +88,7 @@
     "source": "arXiv - Gene Chou, Guandao Yang, Fujun Luan et al."
   },
   {
-    "id": "arxiv_1795026504495_1",
+    "id": "arxiv_1795049282799_1",
     "name": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
     "category": "ai",
     "description": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapt...",
@@ -101,7 +101,7 @@
     "source": "arXiv - Xingyang Yu"
   },
   {
-    "id": "arxiv_1795026504815_2",
+    "id": "arxiv_1795049282831_2",
     "name": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
     "category": "machine-learning",
     "description": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative re...",
@@ -115,7 +115,7 @@
     "source": "arXiv - Zhaosong Lu, Yifeng Xiao"
   },
   {
-    "id": "arxiv_1795026504495_2",
+    "id": "arxiv_1795049282799_2",
     "name": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
     "category": "ai",
     "description": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b...",
@@ -131,7 +131,7 @@
     "source": "arXiv - Shobhita Sundaram, Cansu Sancaktar, Phillip Isola"
   },
   {
-    "id": "arxiv_1795026504815_3",
+    "id": "arxiv_1795049282831_3",
     "name": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
     "category": "machine-learning",
     "description": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b...",
@@ -147,7 +147,7 @@
     "source": "arXiv - Shobhita Sundaram, Cansu Sancaktar, Phillip Isola"
   },
   {
-    "id": "arxiv_1795026504815_4",
+    "id": "arxiv_1795049282832_4",
     "name": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
     "category": "machine-learning",
     "description": "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statis...",
@@ -160,7 +160,7 @@
     "source": "arXiv - S. M Seefat Alam"
   },
   {
-    "id": "arxiv_1795026504839_1",
+    "id": "arxiv_1795049282863_1",
     "name": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
     "category": "nlp",
     "description": "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statis...",
@@ -169,11 +169,11 @@
       "AI"
     ],
     "date": "2026-11-17T18:57:08Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - S. M Seefat Alam"
   },
   {
-    "id": "arxiv_1795026504495_3",
+    "id": "arxiv_1795049282799_3",
     "name": "Higher-Scoring Coding Models Did Not Get More Work Done",
     "category": "ai",
     "description": "New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026,...",
@@ -182,11 +182,11 @@
       "AI"
     ],
     "date": "2026-11-17T18:56:42Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yining Hua"
   },
   {
-    "id": "arxiv_1795026504509_2",
+    "id": "arxiv_1795049282816_2",
     "name": "EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification",
     "category": "computer-vision",
     "description": "Histopathological analysis of whole-slide images (WSIs) plays a critical role in cancer diagnosis, and multiple instance learning (MIL) is widely adopted for WSI analysis under weak supervision. As ne...",
@@ -196,11 +196,11 @@
       "Vision"
     ],
     "date": "2026-11-17T18:50:42Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Zhouhan Qian, Sicheng Chen, Chad Wong et al."
   },
   {
-    "id": "arxiv_1795026504509_3",
+    "id": "arxiv_1795049282816_3",
     "name": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
     "category": "computer-vision",
     "description": "Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cognit...",
@@ -214,7 +214,7 @@
     "source": "arXiv - John Gideon, Anshul Gupta, Megan Applegate-Kenton et al."
   },
   {
-    "id": "arxiv_1795026504510_4",
+    "id": "arxiv_1795049282816_4",
     "name": "Learning Grounded Reasoning from Human Gaze",
     "category": "computer-vision",
     "description": "Human visual reasoning is driven by systematic exploration and extraction of task-relevant visual evidence. Human gaze provides a window into this process, making gaze a useful source of guidance for ...",
@@ -229,7 +229,7 @@
     "source": "arXiv - Gabriel Sarch, Declan Campbell, Nicholas Budny et al."
   },
   {
-    "id": "arxiv_1795026504495_4",
+    "id": "arxiv_1795049282799_4",
     "name": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
     "category": "ai",
     "description": "Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state ...",
@@ -239,11 +239,11 @@
       "Vision"
     ],
     "date": "2026-11-17T18:48:02Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Tongxi Wu, Yuyang Cheng, Jiacheng Xian et al."
   },
   {
-    "id": "arxiv_1795026504839_2",
+    "id": "arxiv_1795049282863_2",
     "name": "Structure--Residual Inductive Biases for Language Model Pretraining",
     "category": "nlp",
     "description": "Next-token prediction is relied upon to learn both predictive behavior and internal representations. We ask whether representation structure itself should be an explicit inductive bias. Motivated by t...",
@@ -257,7 +257,7 @@
     "source": "arXiv - Hai Huang, Bartosz Żuk, Rassul Magauin et al."
   },
   {
-    "id": "arxiv_1795026504840_3",
+    "id": "arxiv_1795049282863_3",
     "name": "Polarity Composition Hypothesis: Causal Evidence from Negation in NLI",
     "category": "nlp",
     "description": "We investigate how language models process negation in natural language inference (NLI). We propose the \\textit{Polarity Composition Hypothesis}, a high-level causal model of this computation. Behavio...",
@@ -268,7 +268,7 @@
     "source": "arXiv - Nhi Hoai Doan, Tatsuya Hiraoka, Munachiso Samuel Nwadike et al."
   },
   {
-    "id": "arxiv_1795026504840_4",
+    "id": "arxiv_1795049282864_4",
     "name": "MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study",
     "category": "nlp",
     "description": "Routed low-rank adapters offer a parameter-efficient means to improve the performance of large language models (LLMs) across tasks. Hence, it is assumed that they can also be used to improve the suppo...",
