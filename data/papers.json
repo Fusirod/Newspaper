@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1795318968003_0",
+    "id": "arxiv_1795348990259_0",
     "name": "Posterior Matching Distillation",
     "category": "computer-vision",
     "description": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network evaluations. Distribution-based methods achieve this b...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Hidir Yesiltepe, Julius Berner, Arash Vahdat et al."
   },
   {
-    "id": "arxiv_1795318968004_1",
+    "id": "arxiv_1795348990260_1",
     "name": "RL Post-Training in Diffusion Transformers Is Activation Steering",
     "category": "computer-vision",
     "description": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reques...",
@@ -30,7 +30,7 @@
     "source": "arXiv - Tuna Han Salih Meral, Kaan Oktay, Alec Helbling et al."
   },
   {
-    "id": "arxiv_1795318968022_0",
+    "id": "arxiv_1795348990274_0",
     "name": "RL Post-Training in Diffusion Transformers Is Activation Steering",
     "category": "machine-learning",
     "description": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reques...",
@@ -42,11 +42,11 @@
       "Reinforcement Learning"
     ],
     "date": "2026-11-19T18:59:53Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Tuna Han Salih Meral, Kaan Oktay, Alec Helbling et al."
   },
   {
-    "id": "arxiv_1795318967987_0",
+    "id": "arxiv_1795348990247_0",
     "name": "PlayCraft: Designing Engaging Games from Agent Play Experience",
     "category": "ai",
     "description": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We pro...",
@@ -60,7 +60,7 @@
     "source": "arXiv - Weihao Cheng"
   },
   {
-    "id": "arxiv_1795318968004_2",
+    "id": "arxiv_1795348990260_2",
     "name": "PlayCraft: Designing Engaging Games from Agent Play Experience",
     "category": "computer-vision",
     "description": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We pro...",
@@ -74,7 +74,7 @@
     "source": "arXiv - Weihao Cheng"
   },
   {
-    "id": "arxiv_1795318968022_1",
+    "id": "arxiv_1795348990274_1",
     "name": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
     "category": "machine-learning",
     "description": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and ...",
@@ -88,7 +88,7 @@
     "source": "arXiv - Jinbin Luo, Xiaozhe Yao, Shang Yang et al."
   },
   {
-    "id": "arxiv_1795318967987_1",
+    "id": "arxiv_1795348990247_1",
     "name": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
     "category": "ai",
     "description": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics...",
@@ -100,11 +100,11 @@
       "Diffusion"
     ],
     "date": "2026-11-19T18:58:14Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuxin Jiang, Wenqiang Sun, Jiaqi Li et al."
   },
   {
-    "id": "arxiv_1795318968004_3",
+    "id": "arxiv_1795348990261_3",
     "name": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
     "category": "computer-vision",
     "description": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics...",
@@ -120,7 +120,7 @@
     "source": "arXiv - Yuxin Jiang, Wenqiang Sun, Jiaqi Li et al."
   },
   {
-    "id": "arxiv_1795318968022_2",
+    "id": "arxiv_1795348990274_2",
     "name": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
     "category": "machine-learning",
     "description": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics...",
@@ -132,11 +132,11 @@
       "Diffusion"
     ],
     "date": "2026-11-19T18:58:14Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Yuxin Jiang, Wenqiang Sun, Jiaqi Li et al."
   },
   {
-    "id": "arxiv_1795318968004_4",
+    "id": "arxiv_1795348990261_4",
     "name": "ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement",
     "category": "computer-vision",
     "description": "High-resolution generation enables video world models to render fine-grained scene structures and textures, but directly generating high-resolution video incurs substantial computational and memory co...",
@@ -146,11 +146,11 @@
       "Optimization"
     ],
     "date": "2026-11-19T18:58:04Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yansong Qu, Wesker Zheng, Quanjian Song et al."
   },
   {
-    "id": "arxiv_1795318968038_0",
+    "id": "arxiv_1795348990287_0",
     "name": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
     "category": "nlp",
     "description": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, exi...",
@@ -164,7 +164,7 @@
     "source": "arXiv - Yiyang Du, Yuxuan Kuang, Qitao Zhao et al."
   },
   {
-    "id": "arxiv_1795318968022_3",
+    "id": "arxiv_1795348990274_3",
     "name": "Bio-PM-Guided Synthetic IMU Generation",
     "category": "machine-learning",
     "description": "Collecting and labeling inertial measurement unit (IMU) data for human activity recognition (HAR) is expensive, and models trained on one group of subjects often fail to generalize to unseen individua...",
@@ -175,11 +175,11 @@
       "Diffusion"
     ],
     "date": "2026-11-19T18:56:25Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Deepali Singh, Deepesh Parpani, Aviral Gupta"
   },
   {
-    "id": "arxiv_1795318968022_4",
+    "id": "arxiv_1795348990274_4",
     "name": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
     "category": "machine-learning",
     "description": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trad...",
@@ -192,7 +192,7 @@
     "source": "arXiv - Peiyun Hu, Marko Mihajlovic, Lyndon Duong et al."
   },
   {
-    "id": "arxiv_1795318967987_2",
+    "id": "arxiv_1795348990247_2",
     "name": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
     "category": "ai",
     "description": "LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulner...",
@@ -202,11 +202,11 @@
       "LLM"
     ],
     "date": "2026-11-19T18:54:19Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Amine Lbath, Manan Suri, Aurelien Delaitre et al."
   },
   {
-    "id": "arxiv_1795318967987_3",
+    "id": "arxiv_1795348990247_3",
     "name": "Active Feature Acquisition by Distilling an Oracle Teacher",
     "category": "ai",
     "description": "Acquiring every feature of an instance is often costly: a measurement can carry a monetary price, a time delay, or a privacy cost. Active Feature Acquisition (AFA) addresses this by learning a policy ...",
@@ -216,11 +216,11 @@
       "Optimization"
     ],
     "date": "2026-11-19T18:52:57Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Yang Meng, Zixin Ding, Robert L. Grossman et al."
   },
   {
-    "id": "arxiv_1795318967987_4",
+    "id": "arxiv_1795348990248_4",
     "name": "PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation",
     "category": "ai",
     "description": "Robotic vision-language-action (VLA) models can execute diverse individual manipulation skills, yet they still struggle with long-horizon loco-manipulation tasks, where temporal structure, skills, and...",
@@ -230,11 +230,11 @@
       "Vision"
     ],
     "date": "2026-11-19T18:52:18Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Kai Lu, Chenyang Ma, Ioannis Havoutis"
   },
   {
-    "id": "arxiv_1795318968038_1",
+    "id": "arxiv_1795348990287_1",
     "name": "Represented but misread: Post-training changes how language models read out what they represent",
     "category": "nlp",
     "description": "Does post-training change what a language model represents, or how this representation is read out into an answer? We compared linear probes with the models' own answers, analyzed with signal detectio...",
@@ -247,7 +247,7 @@
     "source": "arXiv - Jochen Laubrock"
   },
   {
-    "id": "arxiv_1795318968039_2",
+    "id": "arxiv_1795348990287_2",
     "name": "Hybrid Retrieval for Government Scheme Search in English and Marathi",
     "category": "nlp",
     "description": "Retrieving government schemes requires matching citizens' information needs to formal administrative descriptions, often across languages and terminology. We present a bilingual search system for Maha...",
@@ -256,11 +256,11 @@
       "BERT"
     ],
     "date": "2026-11-19T17:58:39Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Aishwarya Gunjal, Kanchan Khemnar, Pawan Poojary et al."
   },
   {
-    "id": "arxiv_1795318968039_3",
+    "id": "arxiv_1795348990287_3",
     "name": "AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher",
     "category": "nlp",
     "description": "Task success alone does not specify which behaviors post-training should reinforce. Even successful teacher trajectories can contain unsupported assumptions, unproductive repetition, or superficial ve...",
@@ -274,7 +274,7 @@
     "source": "arXiv - Guoxin Chen, Shuang Sun, Fanzhe Meng et al."
   },
   {
-    "id": "arxiv_1795318968039_4",
+    "id": "arxiv_1795348990287_4",
     "name": "GLiDE: A Fast, Calibrated Decision Model Distilled from Reasoning Teachers",
     "category": "nlp",
     "description": "Decision models enable fast, confidence-aware decisions by scoring candidate answers in a single forward pass, without generating text or intermediate reasoning. Yet reasoning can substantially improv...",
