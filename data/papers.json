@@ -1,281 +1,287 @@
 [
   {
-    "id": "arxiv_1795470370062_0",
-    "name": "Optimal Linear Regression Without a Variance",
-    "category": "ai",
-    "description": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\\in(1,2)$, and the covariates ma...",
-    "link": "http://arxiv.org/abs/2611.27983v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-20T18:58:45Z",
-    "trending": true,
-    "source": "arXiv - Artin Tajdini, Jasper C. H. Lee, Jonathan Scarlett et al."
-  },
-  {
-    "id": "arxiv_1795470370112_0",
-    "name": "Optimal Linear Regression Without a Variance",
-    "category": "machine-learning",
-    "description": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\\in(1,2)$, and the covariates ma...",
-    "link": "http://arxiv.org/abs/2611.27983v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-20T18:58:45Z",
-    "trending": false,
-    "source": "arXiv - Artin Tajdini, Jasper C. H. Lee, Jonathan Scarlett et al."
-  },
-  {
-    "id": "arxiv_1795470370112_1",
-    "name": "A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning",
-    "category": "machine-learning",
-    "description": "This study examines one-day-ahead forecasting of the S&P 500 closing level using a 2006-2025 dataset that includes fundamental price data, macroeconomic indicators, and engineered technical features. ...",
-    "link": "http://arxiv.org/abs/2611.27978v1",
-    "tags": [
-      "AI",
-      "Neural",
-      "RNN"
-    ],
-    "date": "2026-11-20T18:57:15Z",
-    "trending": true,
-    "source": "arXiv - Hari Sitaula, Joseph Opitz"
-  },
-  {
-    "id": "arxiv_1795470370139_0",
-    "name": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+    "id": "arxiv_1795498686507_0",
+    "name": "When Does Reasoning Help Entity Disambiguation? Small LLMs In-Domain and Under Shift",
     "category": "nlp",
-    "description": "Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standa...",
-    "link": "http://arxiv.org/abs/2611.27973v1",
+    "description": "Entity disambiguation (mapping ambiguous mentions in text to entities in a knowledge base) is a foundational step in tasks such as knowledge graph construction, question answering, and information ext...",
+    "link": "http://arxiv.org/abs/2611.30334v1",
     "tags": [
       "AI",
-      "Transformer",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-11-23T09:11:54Z",
+    "trending": false,
+    "source": "arXiv - Samy Haffoudhi, Fabian M Suchanek, Nils Holzenberger"
+  },
+  {
+    "id": "arxiv_1795498686507_1",
+    "name": "Evaluating Persona Consistency in LLM User Simulators Without External Reference Annotations",
+    "category": "nlp",
+    "description": "Standard evaluations assess LLM-simulated personas against an external ground truth, such as community trait annotations, but that reference is unavailable when the persona is inferred only from a sho...",
+    "link": "http://arxiv.org/abs/2611.30280v1",
+    "tags": [
+      "AI",
       "LLM"
     ],
-    "date": "2026-11-20T18:51:29Z",
+    "date": "2026-11-23T08:38:35Z",
     "trending": false,
-    "source": "arXiv - Chang Nie, Chaoyou Fu, Songlin Liu et al."
+    "source": "arXiv - Anping Zhang, Yang Tan, Yipeng Liu et al."
   },
   {
-    "id": "arxiv_1795470370112_2",
-    "name": "On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals",
-    "category": "machine-learning",
-    "description": "Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that can affect attention, activity and impulse control. Electroencephalography (EEG) records brain activity as children and ...",
-    "link": "http://arxiv.org/abs/2611.27970v1",
+    "id": "arxiv_1795498686507_2",
+    "name": "DUET: Dual-MDL Unsupervised Entropy-Trie Segmentation for Low-Resource Languages",
+    "category": "nlp",
+    "description": "Morphological segmentation, the task of decomposing words into constituent morphemes, becomes particularly challenging under extreme data scarcity, a regime that can arise in language documentation an...",
+    "link": "http://arxiv.org/abs/2611.30273v1",
     "tags": [
       "AI"
     ],
-    "date": "2026-11-20T18:51:08Z",
-    "trending": false,
-    "source": "arXiv - Javier Sanchis, Álvaro Navarro, Jorge García-Carrasco et al."
+    "date": "2026-11-23T08:30:47Z",
+    "trending": true,
+    "source": "arXiv - Xiaotian Wang, Youyuan Lin, Zhan Shen et al."
   },
   {
-    "id": "arxiv_1795470370062_1",
-    "name": "Non-penetrating World Models",
-    "category": "ai",
-    "description": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world m...",
-    "link": "http://arxiv.org/abs/2611.27963v1",
+    "id": "arxiv_1795498686507_3",
+    "name": "Voyag: Joint Multi-Intent Detection and Execution-Relation Classification for In-Vehicle Voice Assistants",
+    "category": "nlp",
+    "description": "An in-vehicle voice assistant must decide not only which intents an utterance contains but also how co-active intents may be executed: concurrently, in a fixed order, or not at all without arbitration...",
+    "link": "http://arxiv.org/abs/2611.30253v1",
     "tags": [
       "AI",
-      "Transformer",
-      "Diffusion"
+      "BERT"
     ],
-    "date": "2026-11-20T18:44:57Z",
+    "date": "2026-11-23T08:19:59Z",
     "trending": false,
-    "source": "arXiv - Yuhang Dai, Yinwei Wu, Ziyue Lin et al."
+    "source": "arXiv - Sen Luo"
   },
   {
-    "id": "arxiv_1795470370088_0",
-    "name": "Non-penetrating World Models",
+    "id": "arxiv_1795498686507_4",
+    "name": "StutterStigma-TR: A Novel Turkish Dataset and Target-Aware BERT Framework for Stuttering-Related Stigma Detection",
+    "category": "nlp",
+    "description": "Computational research on disability-related ableist harm remains limited, and condition specific resources for stuttering-related stigma are particularly scarce. This study introduces StutterStigma-T...",
+    "link": "http://arxiv.org/abs/2611.30252v1",
+    "tags": [
+      "AI",
+      "Vision",
+      "BERT"
+    ],
+    "date": "2026-11-23T08:19:33Z",
+    "trending": false,
+    "source": "arXiv - Muhsin Dölek, Arezoo Sadeghzadeh"
+  },
+  {
+    "id": "arxiv_1795498686452_0",
+    "name": "When Does Fine-Tuning Beat Prompting for Qiskit-to-CUDA-Q Translation? An Execution-Verified Study",
+    "category": "ai",
+    "description": "Moving quantum code from Qiskit to NVIDIA CUDA-Q is a practical adoption cost that language models are starting to automate. We ask whether a small open model can learn this translation, and how to me...",
+    "link": "http://arxiv.org/abs/2611.29793v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-11-22T21:50:27Z",
+    "trending": true,
+    "source": "arXiv - Ana Paula Appel"
+  },
+  {
+    "id": "arxiv_1795498686453_1",
+    "name": "A Cascaded Framework with a Cross-Attention-Guided Mamba-CNN Model for Pre- and Post-Treatment Glioma Segmentation",
+    "category": "ai",
+    "description": "Accurate glioma segmentation is vital for diagnosis and follow-up, but manual segmentation is time-consuming, subjective, and variable across interpreters. Gliomas are heterogeneous in size, shape, an...",
+    "link": "http://arxiv.org/abs/2611.29792v1",
+    "tags": [
+      "AI",
+      "Deep Learning",
+      "Vision",
+      "Transformer"
+    ],
+    "date": "2026-11-22T21:50:14Z",
+    "trending": true,
+    "source": "arXiv - Siavash Taremi, Mahmoud Heidari, Seyed Mohammad Hossein Hashemi et al."
+  },
+  {
+    "id": "arxiv_1795498686477_0",
+    "name": "A Cascaded Framework with a Cross-Attention-Guided Mamba-CNN Model for Pre- and Post-Treatment Glioma Segmentation",
     "category": "computer-vision",
-    "description": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world m...",
-    "link": "http://arxiv.org/abs/2611.27963v1",
+    "description": "Accurate glioma segmentation is vital for diagnosis and follow-up, but manual segmentation is time-consuming, subjective, and variable across interpreters. Gliomas are heterogeneous in size, shape, an...",
+    "link": "http://arxiv.org/abs/2611.29792v1",
     "tags": [
       "AI",
-      "Transformer",
-      "Diffusion"
-    ],
-    "date": "2026-11-20T18:44:57Z",
-    "trending": false,
-    "source": "arXiv - Yuhang Dai, Yinwei Wu, Ziyue Lin et al."
-  },
-  {
-    "id": "arxiv_1795470370062_2",
-    "name": "Model Carving: Training Transformers That Optimize Their Own Topology",
-    "category": "ai",
-    "description": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer...",
-    "link": "http://arxiv.org/abs/2611.27962v1",
-    "tags": [
-      "AI",
-      "Machine Learning",
+      "Deep Learning",
+      "Vision",
       "Transformer"
     ],
-    "date": "2026-11-20T18:41:39Z",
-    "trending": false,
-    "source": "arXiv - Kaden Zheng, Pratyusha Sharma"
+    "date": "2026-11-22T21:50:14Z",
+    "trending": true,
+    "source": "arXiv - Siavash Taremi, Mahmoud Heidari, Seyed Mohammad Hossein Hashemi et al."
   },
   {
-    "id": "arxiv_1795470370112_3",
-    "name": "Model Carving: Training Transformers That Optimize Their Own Topology",
+    "id": "arxiv_1795498686482_0",
+    "name": "Tabular Foundation Models for Weighted Regression and Classification",
     "category": "machine-learning",
-    "description": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer...",
-    "link": "http://arxiv.org/abs/2611.27962v1",
+    "description": "Weighted regression and classification have applications ranging from missing-data analysis and causal inference to insurance pricing and particle physics. Existing weighted methods must be fitted and...",
+    "link": "http://arxiv.org/abs/2611.29789v1",
     "tags": [
       "AI",
-      "Machine Learning",
       "Transformer"
     ],
-    "date": "2026-11-20T18:41:39Z",
+    "date": "2026-11-22T21:47:48Z",
     "trending": false,
-    "source": "arXiv - Kaden Zheng, Pratyusha Sharma"
+    "source": "arXiv - Junwen Xia, Yan He, Dehan Kong et al."
   },
   {
-    "id": "arxiv_1795470370112_4",
-    "name": "Ranking-Preserving Coreset Selection for Efficient Evolutionary Hyperparameter Optimization",
-    "category": "machine-learning",
-    "description": "Hyperparameter optimization (HPO) is essential for high predictive performance, but its computational cost becomes prohibitive when candidate configurations require repeated training on large datasets...",
-    "link": "http://arxiv.org/abs/2611.27959v1",
+    "id": "arxiv_1795498686478_1",
+    "name": "Beyond Language Optimization: Enhancing Visual Representations for Radiology Report Generation",
+    "category": "computer-vision",
+    "description": "Accurate chest X-ray radiology report generation (RRG) requires recognizing clinically relevant abnormalities and accurately describing them. Although Group Relative Policy Optimization (GRPO) improve...",
+    "link": "http://arxiv.org/abs/2611.29783v1",
     "tags": [
       "AI",
+      "Vision",
       "Optimization"
     ],
-    "date": "2026-11-20T18:35:28Z",
-    "trending": false,
-    "source": "arXiv - Mamoona Tasadduq, Maryam Bashir"
-  },
-  {
-    "id": "arxiv_1795470370088_1",
-    "name": "DiTraR: Diverse Scorers and Transcript-Guided Re-ranking for Video Corpus Moment Retrieval",
-    "category": "computer-vision",
-    "description": "Video corpus moment retrieval asks a system to find, in a large collection of untrimmed videos with subtitles, the video and the time interval that a natural-language query describes. We find that mos...",
-    "link": "http://arxiv.org/abs/2611.27931v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-20T18:08:03Z",
+    "date": "2026-11-22T21:32:18Z",
     "trending": true,
-    "source": "arXiv - Mohammad Alijanpour Shalmani, Alale Rezvani Boroujeni, Ali Amini"
+    "source": "arXiv - Rui Zuo, Qinyue Tong, Ziqian Lu et al."
   },
   {
-    "id": "arxiv_1795470370062_3",
-    "name": "BioEmu2: Scalable Emulation of Biomolecular Dynamics",
-    "category": "ai",
-    "description": "Despite major advances in structure prediction, modelling the motions and interactions that drive biomolecular function at scale remains a central challenge. We introduce BioEmu2, a generative model f...",
-    "link": "http://arxiv.org/abs/2611.27924v1",
+    "id": "arxiv_1795498686483_1",
+    "name": "Constrained Diffusion from Binary Evaluations via Learned Doob h-Functions",
+    "category": "machine-learning",
+    "description": "Conditional generation under constraints that can only be checked on a finished sample, such as a molecular property filter, remains challenging for diffusion models: most guidance methods require dif...",
+    "link": "http://arxiv.org/abs/2611.29779v1",
     "tags": [
       "AI",
-      "GAN"
-    ],
-    "date": "2026-11-20T17:58:47Z",
-    "trending": false,
-    "source": "arXiv - Michael Gastegger, Adam E. Foster, José Jiménez-Luna et al."
-  },
-  {
-    "id": "arxiv_1795470370088_2",
-    "name": "ESSI: Computationally Efficient Semantic Search for Sparse Autoencoder Concepts",
-    "category": "computer-vision",
-    "description": "Sparse autoencoders (SAEs) decompose diffusion model activations into interpretable features, but steering a model with them requires identifying which features map to a given semantic concept, if any...",
-    "link": "http://arxiv.org/abs/2611.27921v1",
-    "tags": [
+      "Vision",
       "Diffusion"
     ],
-    "date": "2026-11-20T17:58:06Z",
-    "trending": false,
-    "source": "arXiv - James Baker"
+    "date": "2026-11-22T21:26:00Z",
+    "trending": true,
+    "source": "arXiv - Ssaumya Kammal Jaiswal, Mahfuza Farooque"
   },
   {
-    "id": "arxiv_1795470370062_4",
-    "name": "SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement",
+    "id": "arxiv_1795498686453_2",
+    "name": "S1Arena-MM: Which Multimodal Decisions Can Be Left to System 1?",
     "category": "ai",
-    "description": "Reward-independent representations enable reinforcement learning agents to reuse knowledge across tasks, but limited representation capacity raises three fundamental questions: what statistical depend...",
-    "link": "http://arxiv.org/abs/2611.27919v1",
+    "description": "Perception systems often make discrete decisions: flag a hateful meme, predict whether a pedestrian will cross, detect a spoofed voice, or select the next move in a game. System-1 models, such as OneJ...",
+    "link": "http://arxiv.org/abs/2611.29773v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-11-22T21:08:30Z",
+    "trending": false,
+    "source": "arXiv - Lang Lin, Tianyu Chen, Yi Gu et al."
+  },
+  {
+    "id": "arxiv_1795498686478_2",
+    "name": "S1Arena-MM: Which Multimodal Decisions Can Be Left to System 1?",
+    "category": "computer-vision",
+    "description": "Perception systems often make discrete decisions: flag a hateful meme, predict whether a pedestrian will cross, detect a spoofed voice, or select the next move in a game. System-1 models, such as OneJ...",
+    "link": "http://arxiv.org/abs/2611.29773v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-11-22T21:08:30Z",
+    "trending": true,
+    "source": "arXiv - Lang Lin, Tianyu Chen, Yi Gu et al."
+  },
+  {
+    "id": "arxiv_1795498686483_2",
+    "name": "S1Arena-MM: Which Multimodal Decisions Can Be Left to System 1?",
+    "category": "machine-learning",
+    "description": "Perception systems often make discrete decisions: flag a hateful meme, predict whether a pedestrian will cross, detect a spoofed voice, or select the next move in a game. System-1 models, such as OneJ...",
+    "link": "http://arxiv.org/abs/2611.29773v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-11-22T21:08:30Z",
+    "trending": false,
+    "source": "arXiv - Lang Lin, Tianyu Chen, Yi Gu et al."
+  },
+  {
+    "id": "arxiv_1795498686453_3",
+    "name": "Into My Arms: Structured reinforcement learning for autonomous transport of objects and humans",
+    "category": "ai",
+    "description": "Whole-body humanoid manipulation remains bottlenecked by high-dimensional state-action spaces, contact-rich environments, and long task horizons. This trilemma is a challenge that state-of-the-art rei...",
+    "link": "http://arxiv.org/abs/2611.29771v1",
     "tags": [
       "AI",
       "Reinforcement Learning"
     ],
-    "date": "2026-11-20T17:53:21Z",
+    "date": "2026-11-22T21:03:09Z",
     "trending": false,
-    "source": "arXiv - Huaze Tang, Runqing Miao, Tianren Peng et al."
+    "source": "arXiv - Elle Miller, Reem Almheiri, Takuma Tsukakoshi et al."
   },
   {
-    "id": "arxiv_1795470370089_3",
-    "name": "Augmentation of cardiovascular flow measurements with generative diffusion models",
+    "id": "arxiv_1795498686483_3",
+    "name": "When Simpler Beats Learned: Dual-Weighted Sampling vs. Machine Learning for the Pricing Subproblem in Graph Coloring",
+    "category": "machine-learning",
+    "description": "The graph coloring problem can be solved to optimality by branch-and-price (B&P), but its performance hinges on the column generation (CG) step, where each iteration requires solving a maximum weight ...",
+    "link": "http://arxiv.org/abs/2611.29769v1",
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ],
+    "date": "2026-11-22T21:01:31Z",
+    "trending": false,
+    "source": "arXiv - Nikolai Antonov, Přemysl Šůcha, Mikoláš Janota et al."
+  },
+  {
+    "id": "arxiv_1795498686454_4",
+    "name": "Estimating a Transition Point from Gibbs and Ground States",
+    "category": "ai",
+    "description": "We study how observed many-body system size affects the number of state copies needed to estimate a zero-temperature first-order transition point. The unknown Hamiltonian has bounded, translation-inva...",
+    "link": "http://arxiv.org/abs/2611.29768v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-22T21:00:58Z",
+    "trending": true,
+    "source": "arXiv - Yuhao Cai, Zhenzhang Li"
+  },
+  {
+    "id": "arxiv_1795498686478_3",
+    "name": "CivicBench: Robust Detection of AI-Generated Political Video",
     "category": "computer-vision",
-    "description": "Cardiovascular imaging offers several ways to measure blood flow, but each provides an incomplete, resolution-limited, or noisy view of the underlying dynamics. Reconstructing the missing information ...",
-    "link": "http://arxiv.org/abs/2611.27917v1",
+    "description": "AI-generated video of politicians can pass for real footage, and once such fakes are common, real footage can be dismissed as fake. Platforms address both problems with detectors, but whoever uploads ...",
+    "link": "http://arxiv.org/abs/2611.29766v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-22T20:56:51Z",
+    "trending": false,
+    "source": "arXiv - Mert Onur Cakiroglu, Elham Buxton, Mehmet Dalkilic et al."
+  },
+  {
+    "id": "arxiv_1795498686483_4",
+    "name": "Selecting Stable Sampling Dynamics for Compositional Diffusion: A Feynman-Kac Weight Reduction",
+    "category": "machine-learning",
+    "description": "Given $K$ separately trained diffusion models, how should one sample from a $β_k$-weighted product of their terminal laws without jointly retraining the experts? Existing Feynman--Kac constructions pr...",
+    "link": "http://arxiv.org/abs/2611.29764v1",
     "tags": [
       "AI",
       "Diffusion"
     ],
-    "date": "2026-11-20T17:52:48Z",
+    "date": "2026-11-22T20:52:46Z",
     "trending": false,
-    "source": "arXiv - Fabio Guglietta, Tianyi Li, Francesco Viola et al."
+    "source": "arXiv - Sunjin Kim, Sungsoo Ahn, Michael Chertkov"
   },
   {
-    "id": "arxiv_1795470370089_4",
-    "name": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning",
+    "id": "arxiv_1795498686478_4",
+    "name": "DictaRashi: A State-of-the-Art OCR Model For Rashi Script",
     "category": "computer-vision",
-    "description": "Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space in the physical world. Existing VLMs typically infer 3D scene st...",
-    "link": "http://arxiv.org/abs/2611.27915v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-11-20T17:52:02Z",
-    "trending": true,
-    "source": "arXiv - Chi Yan, Guoyang Zhao, Wentao Yuan et al."
-  },
-  {
-    "id": "arxiv_1795470370140_1",
-    "name": "TEA-Bench-BR: Can Coding Agents Turn a Branching Clinical Specification into Correct Code?",
-    "category": "nlp",
-    "description": "Coding agents increasingly implement rules written by domain experts, and bugs in such code are silent: it runs and returns a plausible answer. We introduce TEA-Bench-BR, a benchmark built on the Braz...",
-    "link": "http://arxiv.org/abs/2611.27895v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-20T17:35:59Z",
-    "trending": true,
-    "source": "arXiv - Marcio Andre de Souza Estevam"
-  },
-  {
-    "id": "arxiv_1795470370140_2",
-    "name": "DistDNA: Language Model Fingerprinting under Stochastic Decoding",
-    "category": "nlp",
-    "description": "Behavioral fingerprints identify a large language model (LLM) from its responses to a shared set of prompts, enabling applications such as verifying whether a deployed model corresponds to the checkpo...",
-    "link": "http://arxiv.org/abs/2611.27831v1",
+    "description": "We release DictaRashi, a Tesseract OCR model for scanned Hebrew books printed in the so-called \"Rashi\" font. We trained DictaRashi on over one million manually corrected lines of text from over 100 di...",
+    "link": "http://arxiv.org/abs/2611.29760v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-11-20T16:52:51Z",
+    "date": "2026-11-22T20:49:18Z",
     "trending": false,
-    "source": "arXiv - Lifan Hu, Qian Yu, Zhaomin Wu et al."
-  },
-  {
-    "id": "arxiv_1795470370140_3",
-    "name": "SLP-Bench: Evaluating and Improving Acoustic Claims of Reasoning Audio Language Models on Clinical Speech",
-    "category": "nlp",
-    "description": "Audio language models (ALMs) can answer clinical questions from speech, outperforming baselines built on handcrafted acoustic features. Reasoning ALMs generate a chain of thought that refers to proper...",
-    "link": "http://arxiv.org/abs/2611.27810v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-20T16:36:57Z",
-    "trending": true,
-    "source": "arXiv - Côme Hosxe, Rachid Riad, Quentin Spinat"
-  },
-  {
-    "id": "arxiv_1795470370140_4",
-    "name": "Evaluating Prompting Strategies for Zero-Shot Multilingual Aspect-Based Sentiment Analysis with Large Language Models",
-    "category": "nlp",
-    "description": "While large language models (LLMs) have advanced natural language understanding, their ability to perform complex target-aspect-sentiment detection (TASD) -- a key task within aspect-based sentiment a...",
-    "link": "http://arxiv.org/abs/2611.27807v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-11-20T16:34:21Z",
-    "trending": false,
-    "source": "arXiv - Jakub Šm{í}d, Pavel Kr{á}l"
+    "source": "arXiv - Ometz Shmidman, Yonah Taurog, Aryeh Sanders et al."
   }
 ]

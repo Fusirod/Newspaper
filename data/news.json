@@ -1,6 +1,59 @@
 [
   {
-    "id": "rss_Ars_Technica_1795470373662_0",
+    "id": "rss_TechCrunch_1795498686671_0",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 23 Nov 2026 22:05:50 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1795498686671_1",
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+    "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "date": "Mon, 23 Nov 2026 22:02:05 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_Ars_Technica_1795498689980_0",
+    "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+    "category": "ai-news",
+    "source": "Ars Technica",
+    "description": "\n                        The Army said on Sunday that it would carry out the detonation on Wednesday.\n                    ",
+    "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+    "tags": [
+      "AI"
+    ],
+    "date": "Mon, 23 Nov 2026 21:58:34 +0000",
+    "trending": false
+  },
+  {
+    "id": "rss_TechCrunch_1795498686671_2",
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "category": "ai-news",
+    "source": "TechCrunch",
+    "description": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+    "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+    "tags": [
+      "NVIDIA"
+    ],
+    "date": "Mon, 23 Nov 2026 21:47:41 +0000",
+    "trending": true
+  },
+  {
+    "id": "rss_Ars_Technica_1795498689980_1",
     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -11,8 +64,8 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1795470370291_0",
-    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist",
+    "id": "rss_TechCrunch_1795498686671_3",
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
     "category": "ai-news",
     "source": "TechCrunch",
     "description": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government. ",
@@ -24,7 +77,7 @@
     "trending": false
   },
   {
-    "id": "rss_TechCrunch_1795470370292_1",
+    "id": "rss_TechCrunch_1795498686671_4",
     "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
     "category": "ai-news",
     "source": "TechCrunch",
@@ -34,10 +87,10 @@
       "NVIDIA"
     ],
     "date": "Mon, 23 Nov 2026 20:38:53 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1795470373662_1",
+    "id": "rss_Ars_Technica_1795498689980_2",
     "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -45,10 +98,10 @@
     "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
     "tags": [],
     "date": "Mon, 23 Nov 2026 20:34:51 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1795470373662_2",
+    "id": "rss_Ars_Technica_1795498689980_3",
     "title": "Surveillance pricing uses our personal data to make us pay more",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -61,7 +114,7 @@
     "trending": false
   },
   {
-    "id": "rss_Ars_Technica_1795470373662_3",
+    "id": "rss_Ars_Technica_1795498689980_4",
     "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
     "category": "ai-news",
     "source": "Ars Technica",
@@ -72,46 +125,7 @@
     "trending": true
   },
   {
-    "id": "rss_Ars_Technica_1795470373662_4",
-    "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
-    "category": "ai-news",
-    "source": "Ars Technica",
-    "description": "\n                        A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\"\n                    ",
-    "link": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
-    "tags": [],
-    "date": "Mon, 23 Nov 2026 19:28:30 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1795470370292_2",
-    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-    "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "tags": [
-      "AI",
-      "Google"
-    ],
-    "date": "Mon, 23 Nov 2026 19:14:46 +0000",
-    "trending": true
-  },
-  {
-    "id": "rss_TechCrunch_1795470370292_3",
-    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-    "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-    "tags": [
-      "AI",
-      "NVIDIA"
-    ],
-    "date": "Mon, 23 Nov 2026 18:12:22 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1795470374723_0",
+    "id": "rss_Wired_1795498691059_0",
     "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
     "category": "ai-news",
     "source": "Wired",
@@ -121,10 +135,10 @@
       "NVIDIA"
     ],
     "date": "Mon, 23 Nov 2026 17:52:56 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1795470372450_0",
+    "id": "rss_MIT_Tech_Review_1795498688864_0",
     "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -134,23 +148,10 @@
       "AI"
     ],
     "date": "Mon, 23 Nov 2026 17:36:08 +0000",
-    "trending": false
+    "trending": true
   },
   {
-    "id": "rss_TechCrunch_1795470370292_4",
-    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-    "category": "ai-news",
-    "source": "TechCrunch",
-    "description": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
-    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-    "tags": [
-      "AI"
-    ],
-    "date": "Mon, 23 Nov 2026 17:14:23 +0000",
-    "trending": false
-  },
-  {
-    "id": "rss_Wired_1795470374723_1",
+    "id": "rss_Wired_1795498691059_1",
     "title": "Jensen Huang Is Back as Nvidia CEO",
     "category": "ai-news",
     "source": "Wired",
@@ -164,7 +165,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1795470374723_2",
+    "id": "rss_Wired_1795498691059_2",
     "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
     "category": "ai-news",
     "source": "Wired",
@@ -174,11 +175,11 @@
       "AI",
       "NVIDIA"
     ],
-    "date": "Mon, 23 Nov 2026 13:11:48 +0000",
+    "date": "Mon, 23 Nov 2026 13:11:00 +0000",
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1795470372450_1",
+    "id": "rss_MIT_Tech_Review_1795498688864_1",
     "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -191,7 +192,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1795470374723_3",
+    "id": "rss_Wired_1795498691059_3",
     "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
     "category": "ai-news",
     "source": "Wired",
@@ -204,7 +205,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1795470372451_2",
+    "id": "rss_MIT_Tech_Review_1795498688864_2",
     "title": "Why using rocks for carbon removal could eventually reduce crop growth",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -220,7 +221,7 @@
     "trending": false
   },
   {
-    "id": "rss_Wired_1795470374723_4",
+    "id": "rss_Wired_1795498691059_4",
     "title": "States Sue SpaceX Over Grok Deepfakes",
     "category": "ai-news",
     "source": "Wired",
@@ -233,7 +234,7 @@
     "trending": false
   },
   {
-    "id": "rss_MIT_Tech_Review_1795470372451_3",
+    "id": "rss_MIT_Tech_Review_1795498688864_3",
     "title": "The most misunderstood graph in AI just got a major update",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -246,7 +247,7 @@
     "trending": true
   },
   {
-    "id": "rss_MIT_Tech_Review_1795470372451_4",
+    "id": "rss_MIT_Tech_Review_1795498688864_4",
     "title": "The Download: inside the quest to make our minds immortal",
     "category": "ai-news",
     "source": "MIT Tech Review",
@@ -256,10 +257,10 @@
       "AI"
     ],
     "date": "Fri, 20 Nov 2026 13:10:00 +0000",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1795470384034_0",
+    "id": "rss_Distill_1795498699696_0",
     "title": "Understanding Convolutions on Graphs",
     "category": "research",
     "source": "Distill",
@@ -269,10 +270,10 @@
       "Neural"
     ],
     "date": "Thu, 02 Sep 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1795470384034_1",
+    "id": "rss_Distill_1795498699696_1",
     "title": "A Gentle Introduction to Graph Neural Networks",
     "category": "research",
     "source": "Distill",
@@ -285,7 +286,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1795470384034_2",
+    "id": "rss_Distill_1795498699696_2",
     "title": "Distill Hiatus",
     "category": "research",
     "source": "Distill",
@@ -296,7 +297,7 @@
     "trending": false
   },
   {
-    "id": "rss_Distill_1795470384034_3",
+    "id": "rss_Distill_1795498699696_3",
     "title": "Adversarial Reprogramming of Neural Cellular Automata",
     "category": "research",
     "source": "Distill",
@@ -306,10 +307,10 @@
       "Neural"
     ],
     "date": "Thu, 06 May 2021 20:0:0 Z",
-    "trending": true
+    "trending": false
   },
   {
-    "id": "rss_Distill_1795470384034_4",
+    "id": "rss_Distill_1795498699696_4",
     "title": "Weight Banding",
     "category": "research",
     "source": "Distill",
