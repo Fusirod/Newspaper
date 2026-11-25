@@ -1,283 +1,283 @@
 [
   {
-    "id": "arxiv_1795568934669_0",
-    "name": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
-    "category": "computer-vision",
-    "description": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study str...",
-    "link": "http://arxiv.org/abs/2611.31240v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-11-23T18:59:52Z",
-    "trending": false,
-    "source": "arXiv - Seongchan Kim, Soowon Son, Sangoh Kim et al."
-  },
-  {
-    "id": "arxiv_1795568934693_0",
-    "name": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
-    "category": "machine-learning",
-    "description": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study str...",
-    "link": "http://arxiv.org/abs/2611.31240v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-11-23T18:59:52Z",
-    "trending": false,
-    "source": "arXiv - Seongchan Kim, Soowon Son, Sangoh Kim et al."
-  },
-  {
-    "id": "arxiv_1795568934669_1",
-    "name": "Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
-    "category": "computer-vision",
-    "description": "Exploring a scene from as little as a single photo requires generating a long, camera-controlled walkthrough that extends far beyond what was captured, yet remains consistent upon return. Memory-based...",
-    "link": "http://arxiv.org/abs/2611.31239v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-11-23T18:59:46Z",
-    "trending": false,
-    "source": "arXiv - Chen Wang, Jiahui Huang, Riccardo de Lutio et al."
-  },
-  {
-    "id": "arxiv_1795568934669_2",
-    "name": "Modern Self-Supervised Vision Transformers Are Pareidolic",
-    "category": "computer-vision",
-    "description": "In human perception, pareidolia is the tendency to perceive a meaningful pattern, such as a face, in a random or ambiguous stimulus.We find a similar phenomenon in modern self-supervised Vision Transf...",
-    "link": "http://arxiv.org/abs/2611.31238v1",
-    "tags": [
-      "AI",
-      "Vision",
-      "Transformer",
-      "LLM"
-    ],
-    "date": "2026-11-23T18:59:41Z",
-    "trending": true,
-    "source": "arXiv - Zihang Lin, Huaiyuan Qin, Liangli Zhen et al."
-  },
-  {
-    "id": "arxiv_1795568934669_3",
-    "name": "Let Vision-Language Models Generate Images through Their Representations",
-    "category": "computer-vision",
-    "description": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained v...",
-    "link": "http://arxiv.org/abs/2611.31237v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-11-23T18:59:32Z",
-    "trending": false,
-    "source": "arXiv - JB Kim, Byungwoo Jeon, Kyungmin Lee et al."
-  },
-  {
-    "id": "arxiv_1795568934693_1",
-    "name": "Let Vision-Language Models Generate Images through Their Representations",
-    "category": "machine-learning",
-    "description": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained v...",
-    "link": "http://arxiv.org/abs/2611.31237v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-11-23T18:59:32Z",
-    "trending": false,
-    "source": "arXiv - JB Kim, Byungwoo Jeon, Kyungmin Lee et al."
-  },
-  {
-    "id": "arxiv_1795568934669_4",
-    "name": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
-    "category": "computer-vision",
-    "description": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails wh...",
-    "link": "http://arxiv.org/abs/2611.31233v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-11-23T18:59:13Z",
-    "trending": false,
-    "source": "arXiv - Hani Alomari, Md Atabuzzaman, Chris Thomas"
-  },
-  {
-    "id": "arxiv_1795568934693_2",
-    "name": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
-    "category": "machine-learning",
-    "description": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails wh...",
-    "link": "http://arxiv.org/abs/2611.31233v1",
-    "tags": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-11-23T18:59:13Z",
-    "trending": false,
-    "source": "arXiv - Hani Alomari, Md Atabuzzaman, Chris Thomas"
-  },
-  {
-    "id": "arxiv_1795568934640_0",
-    "name": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+    "id": "arxiv_1795602938495_0",
+    "name": "OmniAct: One Policy, One Million Embodiments",
     "category": "ai",
-    "description": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This s...",
-    "link": "http://arxiv.org/abs/2611.31228v1",
+    "description": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer...",
+    "link": "http://arxiv.org/abs/2611.33158v1",
     "tags": [
-      "AI"
+      "AI",
+      "GPT"
     ],
-    "date": "2026-11-23T18:58:52Z",
-    "trending": true,
-    "source": "arXiv - Daniel Theron"
+    "date": "2026-11-24T18:59:58Z",
+    "trending": false,
+    "source": "arXiv - Xiang Fan, Yuheng Wang, Jiayuan Yan et al."
   },
   {
-    "id": "arxiv_1795568934693_3",
-    "name": "How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling",
+    "id": "arxiv_1795602938516_0",
+    "name": "OmniAct: One Policy, One Million Embodiments",
+    "category": "computer-vision",
+    "description": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer...",
+    "link": "http://arxiv.org/abs/2611.33158v1",
+    "tags": [
+      "AI",
+      "GPT"
+    ],
+    "date": "2026-11-24T18:59:58Z",
+    "trending": false,
+    "source": "arXiv - Xiang Fan, Yuheng Wang, Jiayuan Yan et al."
+  },
+  {
+    "id": "arxiv_1795602938660_0",
+    "name": "OmniAct: One Policy, One Million Embodiments",
     "category": "machine-learning",
-    "description": "Understanding how genetic perturbations affect cellular behaviour is essential for studying gene function and regulatory mechanisms. Large-scale CRISPR screens measure these effects across thousands o...",
-    "link": "http://arxiv.org/abs/2611.31227v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-23T18:58:32Z",
-    "trending": false,
-    "source": "arXiv - Abhishek Sharma, Aleksej Zelezniak"
-  },
-  {
-    "id": "arxiv_1795568934693_4",
-    "name": "Self-Supervised Dataset Distillation via Mutual Information Maximization",
-    "category": "machine-learning",
-    "description": "Dataset distillation (DD) aims to compress a large dataset into a small synthetic one that remains effective for training neural networks. Despite its success in supervised learning, DD remains undere...",
-    "link": "http://arxiv.org/abs/2611.31225v1",
+    "description": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer...",
+    "link": "http://arxiv.org/abs/2611.33158v1",
     "tags": [
       "AI",
-      "Neural"
+      "GPT"
     ],
-    "date": "2026-11-23T18:58:27Z",
+    "date": "2026-11-24T18:59:58Z",
     "trending": true,
-    "source": "arXiv - Mohammad Hossein Moslemi, Mahdi Beitollahi, Zhimin Mei et al."
+    "source": "arXiv - Xiang Fan, Yuheng Wang, Jiayuan Yan et al."
   },
   {
-    "id": "arxiv_1795568934641_1",
-    "name": "CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans",
-    "category": "ai",
-    "description": "Radiology reports describe findings in text only, without visually marking them on the scan, so readers cannot directly see which abnormality each reported finding refers to. We introduce CTLink, a te...",
-    "link": "http://arxiv.org/abs/2611.31222v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-23T18:57:26Z",
-    "trending": true,
-    "source": "arXiv - Mohammed Baharoon, Sung Eun Kim, Mahmoud Hussain Alabbad et al."
-  },
-  {
-    "id": "arxiv_1795568934641_2",
-    "name": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
-    "category": "ai",
-    "description": "Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question requires. However, can vision-language models (VLMs), which reason increa...",
-    "link": "http://arxiv.org/abs/2611.31215v1",
+    "id": "arxiv_1795602938516_1",
+    "name": "PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
+    "category": "computer-vision",
+    "description": "The appearance of a scene is determined by the albedo, roughness, metallicity and normal of every point on its surface, and by the light that reaches it, its irradiance. Recovering these intrinsics fr...",
+    "link": "http://arxiv.org/abs/2611.33157v1",
     "tags": [
       "AI",
-      "Vision"
+      "Transformer"
     ],
-    "date": "2026-11-23T18:55:44Z",
+    "date": "2026-11-24T18:59:42Z",
     "trending": false,
-    "source": "arXiv - Xiwei Liu, Yulong Li, Xuhui Li et al."
+    "source": "arXiv - Miguel Farinha, Sam Sartor, Iliyan Georgiev et al."
   },
   {
-    "id": "arxiv_1795568934641_3",
-    "name": "ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents",
-    "category": "ai",
-    "description": "Recent multimodal search agents use reasoning, vision, and live web search across many turns to answer questions beyond parametric knowledge by orchestrating a small library of hand-crafted search and...",
-    "link": "http://arxiv.org/abs/2611.31198v1",
+    "id": "arxiv_1795602938516_2",
+    "name": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+    "category": "computer-vision",
+    "description": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Consider...",
+    "link": "http://arxiv.org/abs/2611.33153v1",
     "tags": [
       "AI",
-      "Vision"
-    ],
-    "date": "2026-11-23T18:48:02Z",
-    "trending": false,
-    "source": "arXiv - Rui Sun, Junhua Huang, Luca Zancato et al."
-  },
-  {
-    "id": "arxiv_1795568934721_0",
-    "name": "ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents",
-    "category": "nlp",
-    "description": "Recent multimodal search agents use reasoning, vision, and live web search across many turns to answer questions beyond parametric knowledge by orchestrating a small library of hand-crafted search and...",
-    "link": "http://arxiv.org/abs/2611.31198v1",
-    "tags": [
-      "AI",
-      "Vision"
-    ],
-    "date": "2026-11-23T18:48:02Z",
-    "trending": false,
-    "source": "arXiv - Rui Sun, Junhua Huang, Luca Zancato et al."
-  },
-  {
-    "id": "arxiv_1795568934641_4",
-    "name": "Learning Neurovascular Codes for EEG-to-fMRI Synthesis",
-    "category": "ai",
-    "description": "In this paper, we introduce Neurovascular Codes as shared EEG representations for fMRI generation. We first train a separate EEG encoder to predict each fMRI signal, learning target-specific temporal ...",
-    "link": "http://arxiv.org/abs/2611.31194v1",
-    "tags": [
-      "AI"
-    ],
-    "date": "2026-11-23T18:45:35Z",
-    "trending": true,
-    "source": "arXiv - Yiming Sun, Yifan Wang, Aosong Feng et al."
-  },
-  {
-    "id": "arxiv_1795568934721_1",
-    "name": "CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting",
-    "category": "nlp",
-    "description": "Reinforcement learning (RL) improves large language model search agents by up to 32 exact-match (EM) points over their pre-RL initializations, yet overall accuracy gains do not identify which underlyi...",
-    "link": "http://arxiv.org/abs/2611.31185v1",
-    "tags": [
-      "AI",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-11-23T18:38:53Z",
-    "trending": true,
-    "source": "arXiv - Ramraj Chandradevan, Sayontan Ghosh, Vinoth Selvendran"
-  },
-  {
-    "id": "arxiv_1795568934721_2",
-    "name": "Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training",
-    "category": "nlp",
-    "description": "The post-training of pretrained large language models, including supervised finetuning (SFT), direct preference optimization (DPO), and reinforcement learning with verifiable reward (RLVR), is very se...",
-    "link": "http://arxiv.org/abs/2611.31166v1",
-    "tags": [
-      "AI",
-      "Transformer",
       "LLM",
       "Reinforcement Learning"
     ],
-    "date": "2026-11-23T18:27:57Z",
-    "trending": false,
-    "source": "arXiv - Nan Chen, Soledad Villar, Soufiane Hayou"
+    "date": "2026-11-24T18:59:08Z",
+    "trending": true,
+    "source": "arXiv - Binfei Ji, Zhiwen Cao, Anqi Yang et al."
   },
   {
-    "id": "arxiv_1795568934722_3",
-    "name": "Deneb-Vritra: Descriptions, Edges and Names Examined by Blocking Via Restoring Token Representations and Attention",
+    "id": "arxiv_1795602938683_0",
+    "name": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
     "category": "nlp",
-    "description": "Laya is a 421M-parameter encoder that answers a question about a text in one pass: each answer option, written as a name plus a description, gets a marker token, and one score is read from the network...",
-    "link": "http://arxiv.org/abs/2611.31139v1",
+    "description": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Consider...",
+    "link": "http://arxiv.org/abs/2611.33153v1",
+    "tags": [
+      "AI",
+      "LLM",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-11-24T18:59:08Z",
+    "trending": false,
+    "source": "arXiv - Binfei Ji, Zhiwen Cao, Anqi Yang et al."
+  },
+  {
+    "id": "arxiv_1795602938517_3",
+    "name": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+    "category": "computer-vision",
+    "description": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, fu...",
+    "link": "http://arxiv.org/abs/2611.33151v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-11-24T18:59:04Z",
+    "trending": false,
+    "source": "arXiv - Yuwei Yang, Xiaoxiao Sun, Alejandro Lozano et al."
+  },
+  {
+    "id": "arxiv_1795602938660_1",
+    "name": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+    "category": "machine-learning",
+    "description": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, fu...",
+    "link": "http://arxiv.org/abs/2611.33151v1",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "date": "2026-11-24T18:59:04Z",
+    "trending": false,
+    "source": "arXiv - Yuwei Yang, Xiaoxiao Sun, Alejandro Lozano et al."
+  },
+  {
+    "id": "arxiv_1795602938683_1",
+    "name": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+    "category": "nlp",
+    "description": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as w...",
+    "link": "http://arxiv.org/abs/2611.33148v1",
+    "tags": [
+      "AI",
+      "GPT",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-11-24T18:58:53Z",
+    "trending": false,
+    "source": "arXiv - Dawid J. Kopiczko, Tijmen Blankevoort, Yuki M. Asano"
+  },
+  {
+    "id": "arxiv_1795602938517_4",
+    "name": "One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
+    "category": "computer-vision",
+    "description": "Creating a dialogue scene typically requires cutting between multiple views (e.g., close-ups, medium shots, and over-the-shoulder shots) of the actors. Yet capturing such coverage is costly and in man...",
+    "link": "http://arxiv.org/abs/2611.33147v1",
+    "tags": [
+      "AI",
+      "Diffusion"
+    ],
+    "date": "2026-11-24T18:58:32Z",
+    "trending": false,
+    "source": "arXiv - Anthony Chen, Naomi Ken Korem, Matan Ben-Yosef et al."
+  },
+  {
+    "id": "arxiv_1795602938660_2",
+    "name": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
+    "category": "machine-learning",
+    "description": "World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is exp...",
+    "link": "http://arxiv.org/abs/2611.33141v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-24T18:56:04Z",
+    "trending": false,
+    "source": "arXiv - Vansh Kapoor, Max Sobol Mark, Sreyas Venkataraman et al."
+  },
+  {
+    "id": "arxiv_1795602938683_2",
+    "name": "BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation",
+    "category": "nlp",
+    "description": "Language models can generate LEGO$^\\circledR$ assemblies from text, but their builds often contain parts that collide or attach to nothing. The usual approach of rejecting and resampling invalid place...",
+    "link": "http://arxiv.org/abs/2611.33135v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-24T18:54:38Z",
+    "trending": false,
+    "source": "arXiv - Nadav Magar, Amir Hertz, Ariel Shamir et al."
+  },
+  {
+    "id": "arxiv_1795602938660_3",
+    "name": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
+    "category": "machine-learning",
+    "description": "Qwen3.5-0.8B rarely finishes reasoning in thinking mode: at a 4,096-token budget only 1 or 2 of 500 MATH-500 answers close their think block (two seeds), and accuracy is 15.4%. A recent demonstration ...",
+    "link": "http://arxiv.org/abs/2611.33133v1",
+    "tags": [
+      "AI",
+      "GPT"
+    ],
+    "date": "2026-11-24T18:53:22Z",
+    "trending": false,
+    "source": "arXiv - Hussamuddin Syed"
+  },
+  {
+    "id": "arxiv_1795602938683_3",
+    "name": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
+    "category": "nlp",
+    "description": "Qwen3.5-0.8B rarely finishes reasoning in thinking mode: at a 4,096-token budget only 1 or 2 of 500 MATH-500 answers close their think block (two seeds), and accuracy is 15.4%. A recent demonstration ...",
+    "link": "http://arxiv.org/abs/2611.33133v1",
+    "tags": [
+      "AI",
+      "GPT"
+    ],
+    "date": "2026-11-24T18:53:22Z",
+    "trending": false,
+    "source": "arXiv - Hussamuddin Syed"
+  },
+  {
+    "id": "arxiv_1795602938660_4",
+    "name": "Exploratory Midtraining for Robot Policies",
+    "category": "machine-learning",
+    "description": "Robot policies predominantly learn from human-collected data emphasizing competent behavior, limiting coverage of the low-level behaviors needed to support autonomous improvement. We study how a form ...",
+    "link": "http://arxiv.org/abs/2611.33130v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-24T18:52:34Z",
+    "trending": false,
+    "source": "arXiv -  Kshitiz, Zheyuan Hu, Robyn Wu et al."
+  },
+  {
+    "id": "arxiv_1795602938683_4",
+    "name": "SAG-Mem-1.0 Technical Report",
+    "category": "nlp",
+    "description": "Long-term conversational memory requires retrieving complementary facts scattered across dialogue sessions, including intermediate evidence with limited similarity to the original question. Existing a...",
+    "link": "http://arxiv.org/abs/2611.33124v1",
     "tags": [
       "AI",
       "LLM"
     ],
-    "date": "2026-11-23T18:09:20Z",
+    "date": "2026-11-24T18:51:29Z",
     "trending": false,
-    "source": "arXiv - Mohammed Nayeem Khan, Akhil P, Shahina Shaik"
+    "source": "arXiv - Yuchao Wu, XingCheng Liang, Xuanze Wang et al."
   },
   {
-    "id": "arxiv_1795568934722_4",
-    "name": "Serialization and the Character-System: Measuring Narrative Concentration in French Fiction (1800--1940)",
-    "category": "nlp",
-    "description": "Every novel divides a finite quantity of narrative attention among its characters, and whether the shape of that division, between a narrative organized around a single figure and one spread across a ...",
-    "link": "http://arxiv.org/abs/2611.31133v1",
+    "id": "arxiv_1795602938495_1",
+    "name": "MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing",
+    "category": "ai",
+    "description": "Large language models (LLMs) can generate parallel programs, but their correctness and performance depend strongly on the instructions that guide generation. We present \\textsc{MetaFORGE}, an executio...",
+    "link": "http://arxiv.org/abs/2611.33119v1",
     "tags": [
       "AI",
-      "Vision",
-      "GAN"
+      "LLM",
+      "GPT",
+      "Optimization"
     ],
-    "date": "2026-11-23T18:04:11Z",
+    "date": "2026-11-24T18:49:19Z",
     "trending": false,
-    "source": "arXiv - Jean Barré, Antoine Bourgois, Thierry Poibeau"
+    "source": "arXiv - Scott Piersall, Yang Gao, Shenyang Liu et al."
+  },
+  {
+    "id": "arxiv_1795602938495_2",
+    "name": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
+    "category": "ai",
+    "description": "Speculative decoding accelerates large language model (LLM) inference by employing a lightweight draft model to propose draft tokens and allowing the target model to verify the new tokens in parallel ...",
+    "link": "http://arxiv.org/abs/2611.33111v1",
+    "tags": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-11-24T18:41:59Z",
+    "trending": false,
+    "source": "arXiv - Yuxing Liu, Wei Zuo, Walid Krichene et al."
+  },
+  {
+    "id": "arxiv_1795602938495_3",
+    "name": "Temporal Conditioning for Human Behavioral Cloning in Chess",
+    "category": "ai",
+    "description": "Behavioral cloning models in chess typically predict human moves from board states while ignoring temporal inputs such as the remaining clock. However, time pressure is a major determinant of human de...",
+    "link": "http://arxiv.org/abs/2611.33106v1",
+    "tags": [
+      "AI",
+      "Transformer"
+    ],
+    "date": "2026-11-24T18:40:51Z",
+    "trending": false,
+    "source": "arXiv - Victor Dziwniel, Tianxiang Lu"
+  },
+  {
+    "id": "arxiv_1795602938495_4",
+    "name": "Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance",
+    "category": "ai",
+    "description": "Agents built on frontier language models are expensive. At every step, the frontier model re-reads its entire context and executes every subtask regardless of its difficulty. This paper explores the s...",
+    "link": "http://arxiv.org/abs/2611.33098v1",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-11-24T18:34:40Z",
+    "trending": true,
+    "source": "arXiv - Lingwei Gu, Jimmy Lin"
   }
 ]
