@@ -1,6 +1,6 @@
 [
   {
-    "id": "arxiv_1795699031364_0",
+    "id": "arxiv_1795732747857_0",
     "name": "AnyCam: Anything Can Represent Camera for Video Generation",
     "category": "computer-vision",
     "description": "Camera-controlled video generation re-renders a video along a target camera trajectory, yet moving the camera around an object, the most natural way to change the viewpoint of an object-centric scene,...",
@@ -14,7 +14,7 @@
     "source": "arXiv - Weijie Lyu, Zhixin Shu, Yuntian Ke et al."
   },
   {
-    "id": "arxiv_1795699031364_1",
+    "id": "arxiv_1795732747857_1",
     "name": "Tracking Any Point with Agentic Visual Reasoning",
     "category": "computer-vision",
     "description": "A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challengin...",
@@ -29,7 +29,7 @@
     "source": "arXiv - Xuweiyi Chen, Jin Yao, Linzhan Mou et al."
   },
   {
-    "id": "arxiv_1795699031358_0",
+    "id": "arxiv_1795732747782_0",
     "name": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
     "category": "ai",
     "description": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter an...",
@@ -43,7 +43,7 @@
     "source": "arXiv - Yalin E. Sagduyu, Tugba Erpek"
   },
   {
-    "id": "arxiv_1795699031364_2",
+    "id": "arxiv_1795732747857_2",
     "name": "Improving and Expanding Video Editing Capabilities Without Videos",
     "category": "computer-vision",
     "description": "Image editing models can follow a wide range of instructions, but video editing models still lag behind, limited in part by the difficulty of collecting paired source and edited videos. Is it possible...",
@@ -52,11 +52,11 @@
       "AI"
     ],
     "date": "2026-11-25T18:59:55Z",
-    "trending": false,
+    "trending": true,
     "source": "arXiv - Ji Xie, Yanhao Jia, Xiangpeng Yang et al."
   },
   {
-    "id": "arxiv_1795699031364_3",
+    "id": "arxiv_1795732747857_3",
     "name": "LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies",
     "category": "computer-vision",
     "description": "We present LuxAvatar, a feed-forward framework for real-time head avatar animation and relighting from a single portrait. To achieve both 3D controllability and complex facial light transport, we fact...",
@@ -71,7 +71,7 @@
     "source": "arXiv - Yipengjing Sun, Chenyang Wang, Boyao Zhou et al."
   },
   {
-    "id": "arxiv_1795699031365_4",
+    "id": "arxiv_1795732747857_4",
     "name": "A Mesh for Every Moment",
     "category": "computer-vision",
     "description": "We present MEMO (a Mesh for Every MOment), a method that reconstructs the geometry of complete dynamic scenes, captured by multiple synchronized cameras, and extracts a mesh at every frame. Existing d...",
@@ -84,7 +84,7 @@
     "source": "arXiv - Roy Or-El, Jeong Joon Park, Ira Kemelmacher-Shlizerman"
   },
   {
-    "id": "arxiv_1795699031369_0",
+    "id": "arxiv_1795732747930_0",
     "name": "Tokenisation is not in APX",
     "category": "machine-learning",
     "description": "In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX c...",
@@ -95,7 +95,7 @@
     "source": "arXiv - Violeta Kastreva, Philip Whittington, Dennis Komm et al."
   },
   {
-    "id": "arxiv_1795699031375_0",
+    "id": "arxiv_1795732748006_0",
     "name": "Tokenisation is not in APX",
     "category": "nlp",
     "description": "In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX c...",
@@ -106,7 +106,7 @@
     "source": "arXiv - Violeta Kastreva, Philip Whittington, Dennis Komm et al."
   },
   {
-    "id": "arxiv_1795699031370_1",
+    "id": "arxiv_1795732747930_1",
     "name": "Can image generation help visual reasoning? An empirical study",
     "category": "machine-learning",
     "description": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and the...",
@@ -120,7 +120,7 @@
     "source": "arXiv - Xueyang Yu, Yifan Jing, Taiming Lu et al."
   },
   {
-    "id": "arxiv_1795699031375_1",
+    "id": "arxiv_1795732748006_1",
     "name": "Can image generation help visual reasoning? An empirical study",
     "category": "nlp",
     "description": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and the...",
@@ -134,9 +134,24 @@
     "source": "arXiv - Xueyang Yu, Yifan Jing, Taiming Lu et al."
   },
   {
-    "id": "arxiv_1795699031358_1",
+    "id": "arxiv_1795732747782_1",
     "name": "Attack Policy Selection can Mislead Monitor Evaluators",
     "category": "ai",
+    "description": "AI monitors, classifiers that flag dangerous behaviour by AI agents, are often evaluated against transcripts generated by attack policies acting as proxies for dangerous behaviour in deployment. We ev...",
+    "link": "http://arxiv.org/abs/2611.34934v1",
+    "tags": [
+      "AI",
+      "GPT",
+      "Reinforcement Learning"
+    ],
+    "date": "2026-11-25T18:59:28Z",
+    "trending": false,
+    "source": "arXiv - Charlie Griffin, Oliver Makins, Asa Cooper Stickland et al."
+  },
+  {
+    "id": "arxiv_1795732747930_2",
+    "name": "Attack Policy Selection can Mislead Monitor Evaluators",
+    "category": "machine-learning",
     "description": "AI monitors, classifiers that flag dangerous behaviour by AI agents, are often evaluated against transcripts generated by attack policies acting as proxies for dangerous behaviour in deployment. We ev...",
     "link": "http://arxiv.org/abs/2611.34934v1",
     "tags": [
@@ -149,22 +164,7 @@
     "source": "arXiv - Charlie Griffin, Oliver Makins, Asa Cooper Stickland et al."
   },
   {
-    "id": "arxiv_1795699031370_2",
-    "name": "Attack Policy Selection can Mislead Monitor Evaluators",
-    "category": "machine-learning",
-    "description": "AI monitors, classifiers that flag dangerous behaviour by AI agents, are often evaluated against transcripts generated by attack policies acting as proxies for dangerous behaviour in deployment. We ev...",
-    "link": "http://arxiv.org/abs/2611.34934v1",
-    "tags": [
-      "AI",
-      "GPT",
-      "Reinforcement Learning"
-    ],
-    "date": "2026-11-25T18:59:28Z",
-    "trending": false,
-    "source": "arXiv - Charlie Griffin, Oliver Makins, Asa Cooper Stickland et al."
-  },
-  {
-    "id": "arxiv_1795699031370_3",
+    "id": "arxiv_1795732747930_3",
     "name": "A gene informed benchmark for BioScoring of pathology foundation models",
     "category": "machine-learning",
     "description": "Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no ins...",
@@ -177,7 +177,7 @@
     "source": "arXiv - Paul Vilars, Vincent Quoc-Huy Trinh, Maria Vakalopoulou et al."
   },
   {
-    "id": "arxiv_1795699031358_2",
+    "id": "arxiv_1795732747782_2",
     "name": "Diverse Alternative Reasoning Traces for Hard Math Problems",
     "category": "ai",
     "description": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare unde...",
@@ -191,7 +191,7 @@
     "source": "arXiv - Lukas Aichberger, Adam Golinski, Arno Blaas et al."
   },
   {
-    "id": "arxiv_1795699031370_4",
+    "id": "arxiv_1795732747930_4",
     "name": "Diverse Alternative Reasoning Traces for Hard Math Problems",
     "category": "machine-learning",
     "description": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare unde...",
@@ -205,7 +205,7 @@
     "source": "arXiv - Lukas Aichberger, Adam Golinski, Arno Blaas et al."
   },
   {
-    "id": "arxiv_1795699031375_2",
+    "id": "arxiv_1795732748006_2",
     "name": "Diverse Alternative Reasoning Traces for Hard Math Problems",
     "category": "nlp",
     "description": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare unde...",
@@ -219,7 +219,7 @@
     "source": "arXiv - Lukas Aichberger, Adam Golinski, Arno Blaas et al."
   },
   {
-    "id": "arxiv_1795699031375_3",
+    "id": "arxiv_1795732748007_3",
     "name": "Mixture-of-Loops Transformer",
     "category": "nlp",
     "description": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism conne...",
@@ -233,7 +233,7 @@
     "source": "arXiv - Lianghui Zhu, Shijie Wang, Xinggang Wang et al."
   },
   {
-    "id": "arxiv_1795699031359_3",
+    "id": "arxiv_1795732747783_3",
     "name": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
     "category": "ai",
     "description": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when partic...",
@@ -246,7 +246,7 @@
     "source": "arXiv - Qihao Lin, Guanxu Chen, Shuhang Zheng et al."
   },
   {
-    "id": "arxiv_1795699031375_4",
+    "id": "arxiv_1795732748007_4",
     "name": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
     "category": "nlp",
     "description": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when partic...",
@@ -259,7 +259,7 @@
     "source": "arXiv - Qihao Lin, Guanxu Chen, Shuhang Zheng et al."
   },
   {
-    "id": "arxiv_1795699031359_4",
+    "id": "arxiv_1795732747783_4",
     "name": "Enhancing Maritime Domain Awareness using Latent Space Representations",
     "category": "ai",
     "description": "This work presents a novel application of Earth Observation (EO) embeddings for Maritime Domain Awareness (MDA) from the perspective of the geospatial foundation model TerraMind. By operating directly...",
@@ -269,7 +269,7 @@
       "Neural"
     ],
     "date": "2026-11-25T18:51:36Z",
-    "trending": true,
+    "trending": false,
     "source": "arXiv - Rikard Vinge, Miguel A. Belenguer-Plomer, Isabelle Wittmann et al."
   }
 ]
